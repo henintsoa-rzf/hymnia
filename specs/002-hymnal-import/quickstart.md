@@ -1,0 +1,76 @@
+# Quickstart: Import Hymnals from Source Sites
+
+How to run the importer and check that it meets the spec. Commands are in
+[contracts/cli.md](./contracts/cli.md) and file formats in
+[contracts/import-files.md](./contracts/import-files.md).
+
+## Prerequisites
+
+- Node.js 22, `npm install` done (feature 001 set up).
+- `HYMNIA_CONTACT` set in `.env` at the repository root (git-ignored); the CLI loads it.
+- `import/sources.json` filled in for the source you import, including its permission status.
+
+## 1. Offline checks (no network)
+
+```bash
+npm test -- tests/import          # adapters on fixtures, matching, idempotence, rights
+npm run import -- check           # schemas, links, decisions, text vs cache
+```
+
+Expected: everything passes. The fixture tests cover US1 scenario 4 (page that cannot be
+parsed), the 20% abort threshold, and an interrupted write.
+
+## 2. First import of one hymnal (US1)
+
+```bash
+npm run import -- run --source cdl --hymnal jem --dry-run   # report only
+npm run import -- run --source cdl --hymnal jem
+npm run import -- report
+npm run data
+```
+
+Expected:
+- The report shows imported/skipped counts, with a reason and URL for each skipped page; at
+  least 98% of hymns are imported (SC-001).
+- The new files in `content/hymns/` have `rights: "unconfirmed"`, a source URL and a date.
+- The build lists them as excluded: nothing new is published yet (SC-006).
+- Spot check: open 5 hymns next to their source pages; the text is identical (SC-002).
+
+## 3. Re-run (US2)
+
+```bash
+npm run import -- run --source cdl --hymnal jem --offline
+git status content/ import/state/          # expect: no changes (SC-003)
+```
+
+Then edit one cached page (change one word), re-run with `--offline`, and check that
+`npm run import -- pending` shows the diff, that `content/` is unchanged until
+`accept <hymnId>`, and that a manual correction made beforehand on another hymn is still there
+(SC-004).
+
+## 4. Second hymnal and duplicates (US3)
+
+```bash
+npm run import -- run --source cdl --hymnal atg
+npm run import -- duplicates
+npm test -- tests/import/reference-duplicates.test.ts       # SC-005
+```
+
+Expected: hymns shared by JEM and ATG exist once with two entries; near matches are listed,
+not merged.
+
+## 5. Rights and publishing (US4)
+
+```bash
+npm run import -- rights set --scope hymnal --target jem --basis permission --note "…"
+npm run data && npm run preview
+```
+
+Expected: JEM hymns appear in the app, and ATG-only hymns do not. A later import that adds a
+JEM hymn marks it confirmed and reports `rightsInherited`.
+
+## 6. New source (US5)
+
+Add an adapter and an entry in `sources.json` (see
+[contracts/source-adapter.md](./contracts/source-adapter.md)) with its fixtures, then run its
+tests and an import. No file under `src/` changes (SC-007).

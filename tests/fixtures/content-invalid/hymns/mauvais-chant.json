@@ -1,0 +1,10 @@
+{
+	"id": "mauvais-chant",
+	"title": "Mauvais chant",
+	"entries": [],
+	"sections": [{ "type": "couplet", "number": 1, "lines": [] }],
+	"credits": [{ "name": "X", "role": "singer" }],
+	"source": { "name": "Fixture", "url": null, "retrievedAt": "11/11/2026" },
+	"rights": "maybe",
+	"corrections": []
+}

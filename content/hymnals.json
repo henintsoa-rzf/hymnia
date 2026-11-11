@@ -1,0 +1,18 @@
+[
+	{
+		"id": "ce",
+		"name": "Cantiques d’exemple",
+		"abbreviations": [
+			"CE"
+		],
+		"sortOrder": 1
+	},
+	{
+		"id": "he",
+		"name": "Hymnes d’exemple",
+		"abbreviations": [
+			"HE"
+		],
+		"sortOrder": 2
+	}
+]

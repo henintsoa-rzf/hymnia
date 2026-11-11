@@ -1,0 +1,61 @@
+{
+	"id": "plus-pres-de-toi-mon-dieu",
+	"title": "Plus près de toi, mon Dieu",
+	"entries": [
+		{
+			"hymnal": "ce",
+			"number": "5"
+		},
+		{
+			"hymnal": "he",
+			"number": "2"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Plus près de toi, mon Dieu,",
+				"Plus près de toi !",
+				"C’est le cri de ma foi,",
+				"Plus près de toi !",
+				"Dans les jours où l’épreuve",
+				"Déborde comme un fleuve,",
+				"Tiens-moi plus près de toi,",
+				"Plus près de toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus près de toi, toujours,",
+				"Plus près de toi !",
+				"Donne-moi ton secours,",
+				"Soutiens ma foi !",
+				"Que Satan se déchaîne,",
+				"Ton amour me ramène",
+				"Toujours plus près de toi,",
+				"Plus près de toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sarah Flower Adams",
+			"role": "lyrics"
+		},
+		{
+			"name": "Lowell Mason",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

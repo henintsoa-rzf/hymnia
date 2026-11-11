@@ -1,0 +1,47 @@
+{
+	"id": "quel-ami-fidele-et-tendre",
+	"title": "Quel ami fidèle et tendre",
+	"entries": [
+		{
+			"hymnal": "ce",
+			"number": "7"
+		},
+		{
+			"hymnal": "he",
+			"number": "1"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel ami fidèle et tendre",
+				"Nous avons en Jésus-Christ,",
+				"Toujours prêt à nous entendre,",
+				"À répondre à notre cri !",
+				"Il connaît nos défaillances,",
+				"Nos chutes de chaque jour.",
+				"Sévère en ses exigences,",
+				"Il est riche en son amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joseph Scriven",
+			"role": "lyrics"
+		},
+		{
+			"name": "Charles C. Converse",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

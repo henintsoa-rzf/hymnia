@@ -1,0 +1,38 @@
+{
+	"id": "les-anges-dans-nos-campagnes",
+	"title": "Les anges dans nos campagnes",
+	"entries": [
+		{
+			"hymnal": "he",
+			"number": "12"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les anges dans nos campagnes",
+				"Ont entonné l’hymne des cieux,",
+				"Et l’écho de nos montagnes",
+				"Redit ce chant mélodieux :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloria in excelsis Deo !",
+				"Gloria in excelsis Deo !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

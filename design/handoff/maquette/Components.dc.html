@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Hymnia · Tokens et composants</title>
+<script src="./support.js"></script>
+<link rel="stylesheet" href="hymnia-app.css">
+<link rel="stylesheet" href="ds/hymnia/components/bundle.css">
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..700&amp;family=Instrument+Sans:wght@400..600&amp;display=swap">
+<style>body{margin:0}</style>
+</helmet>
+<div class="hy-app hy-day" style="min-height: 3200px; box-sizing: border-box; background: var(--paper); color: var(--ink); font-family: var(--font-sans)">
+  <div style="max-width: 1200px; margin: 0 auto; padding: 64px 24px; box-sizing: border-box; display: flex; flex-direction: column; gap: 64px">
+
+    <header style="display: flex; flex-direction: column; gap: 8px">
+      <p class="hy-overline" style="color: var(--rubric)">Hymnia</p>
+      <h1 style="margin: 0; font-size: 36px; line-height: 44px; font-weight: 600; letter-spacing: -0.01em">Tokens et composants</h1>
+      <p style="margin: 0; max-width: 40em; font-size: 16px; line-height: 24px; color: var(--ink-muted)">Papier, encre et un seul rouge. Literata pour tout ce qui appartient au chant, Instrument Sans pour l’interface. Grille de 4&nbsp;px, coins doux, page plate&nbsp;: seul ce qui flotte au-dessus des paroles porte une ombre.</p>
+    </header>
+
+    <section aria-labelledby="c-title" style="display: flex; flex-direction: column; gap: 24px">
+      <h2 id="c-title" class="hy-screen-title">Couleurs</h2>
+      <div style="display: flex; flex-wrap: wrap; gap: 24px">
+        <div class="hy-day" style="flex: 1 1 480px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--paper); color: var(--ink)">
+          <p class="hy-overline" style="margin-bottom: 16px">Clair</p>
+          <sc-for list="{{colors}}" as="c" hint-placeholder-count="12">
+            <div style="display: flex; align-items: center; gap: 12px; padding: 6px 0">
+              <span aria-hidden="true" style="flex: none; width: 40px; height: 40px; border-radius: var(--radius-sm); border: 1px solid var(--line-strong); background: {{c.light}}"></span>
+              <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column"><span style="font-size: 14px; line-height: 20px; font-weight: 600; color: var(--ink)">{{c.role}}</span><span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">{{c.token}}</span></span>
+              <code style="font-size: 13px; color: var(--ink-muted)">{{c.light}}</code>
+            </div>
+          </sc-for>
+        </div>
+        <div class="hy-evening" style="flex: 1 1 480px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--paper); color: var(--ink)">
+          <p class="hy-overline" style="margin-bottom: 16px">Sombre</p>
+          <sc-for list="{{colors}}" as="c" hint-placeholder-count="12">
+            <div style="display: flex; align-items: center; gap: 12px; padding: 6px 0">
+              <span aria-hidden="true" style="flex: none; width: 40px; height: 40px; border-radius: var(--radius-sm); border: 1px solid var(--line-strong); background: {{c.dark}}"></span>
+              <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column"><span style="font-size: 14px; line-height: 20px; font-weight: 600; color: var(--ink)">{{c.role}}</span><span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">{{c.token}}</span></span>
+              <code style="font-size: 13px; color: var(--ink-muted)">{{c.dark}}</code>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+      <p style="margin: 0; font-size: 14px; line-height: 20px; color: var(--ink-muted)">Contrastes AA garantis dans les deux thèmes&nbsp;: texte ≥&nbsp;12:1, texte secondaire et accent ≥&nbsp;5,7:1 sur tous les fonds, bordures de contrôle ≥&nbsp;3:1, focus 2&nbsp;px décalé de 2&nbsp;px.</p>
+    </section>
+
+    <section aria-labelledby="t-title" style="display: flex; flex-direction: column; gap: 24px">
+      <h2 id="t-title" class="hy-screen-title">Typographie</h2>
+      <div style="display: flex; flex-wrap: wrap; gap: 24px">
+        <div style="flex: 1 1 480px; min-width: 0; display: flex; flex-direction: column; gap: 20px">
+          <p class="hy-overline">Chant · Literata</p>
+          <div><p style="margin: 0; font-family: var(--font-serif); font-size: 44px; line-height: 48px; font-weight: 300; color: var(--rubric)">CE 1</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Référence du chant · 44/48 · 300 · accent</p></div>
+          <div><p style="margin: 0; font-family: var(--font-serif); font-size: 26px; line-height: 34px; font-weight: 500">À toi la gloire</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Titre du chant · 26/34 · 500</p></div>
+          <div><p style="margin: 0; font-family: var(--font-serif); font-size: 20px; line-height: 32px">Brillant de lumière, l’ange est descendu,</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Paroles · 20/32 à 100&nbsp;% · interligne 1,6 · de 17&nbsp;px (85&nbsp;%) à 40&nbsp;px (200&nbsp;%)</p></div>
+          <div><p style="margin: 0; font-family: var(--font-serif); font-size: 20px; line-height: 32px; font-style: italic">À toi la victoire pour l’éternité&nbsp;!</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Refrain · 20/32 · italique, retrait de 48&nbsp;px</p></div>
+          <div><p style="margin: 0; font-family: var(--font-serif); font-size: 15px; line-height: 22px; font-style: italic; color: var(--ink-muted)">Paroles&nbsp;: Edmond Budry · Musique&nbsp;: G. F. Haendel</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Crédits · 15/22 · italique</p></div>
+        </div>
+        <div style="flex: 1 1 480px; min-width: 0; display: flex; flex-direction: column; gap: 20px">
+          <p class="hy-overline">Interface · Instrument Sans</p>
+          <div><p class="hy-screen-title">Recueils</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Titre d’écran · 22/28 · 600</p></div>
+          <div><p style="margin: 0; font-size: 17px; line-height: 24px; font-weight: 500">Debout, sainte cohorte</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Titre de liste · 17/24 · 500</p></div>
+          <div><p style="margin: 0; font-size: 16px; line-height: 24px">Tapez un numéro, un titre ou quelques mots.</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Texte · 16/24 · 400</p></div>
+          <div><p style="margin: 0; font-size: 14px; line-height: 20px; font-weight: 500">Aller au numéro</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Libellé · 14/20 · 500</p></div>
+          <div><p style="margin: 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">CE · 10 chants</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Légende · 13/18 · 400</p></div>
+          <div><p class="hy-overline">Refrain</p><p style="margin: 4px 0 0; font-size: 13px; color: var(--ink-muted)">Surtitre · 12/16 · 600 · capitales espacées (seul usage des capitales)</p></div>
+        </div>
+      </div>
+      <p style="margin: 0; font-size: 14px; line-height: 20px; color: var(--ink-muted)">Les deux polices viennent de Google Fonts et couvrent le latin étendu&nbsp;: accents, «&nbsp;guillemets&nbsp;», apostrophe typographique ’ et espaces insécables avant&nbsp;! ? ; :</p>
+    </section>
+
+    <section aria-labelledby="s-title" style="display: flex; flex-direction: column; gap: 24px">
+      <h2 id="s-title" class="hy-screen-title">Espacements, rayons, ombre</h2>
+      <div style="display: flex; flex-wrap: wrap; gap: 48px; align-items: flex-end">
+        <div style="display: flex; align-items: flex-end; gap: 16px">
+          <sc-for list="{{spaces}}" as="s" hint-placeholder-count="8">
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 8px">
+              <span aria-hidden="true" style="display: block; width: {{s.px}}; height: {{s.px}}; background: var(--rubric-soft); border: 1px solid var(--rubric)"></span>
+              <span style="font-size: 12px; line-height: 16px; color: var(--ink-muted)">{{s.label}}</span>
+            </div>
+          </sc-for>
+        </div>
+        <div style="display: flex; align-items: flex-end; gap: 24px">
+          <div style="display: flex; flex-direction: column; align-items: center; gap: 8px"><span aria-hidden="true" style="width: 64px; height: 44px; border: 1px solid var(--line-strong); border-radius: 6px"></span><span style="font-size: 12px; color: var(--ink-muted)">radius-sm 6</span></div>
+          <div style="display: flex; flex-direction: column; align-items: center; gap: 8px"><span aria-hidden="true" style="width: 64px; height: 44px; border: 1px solid var(--line-strong); border-radius: 10px"></span><span style="font-size: 12px; color: var(--ink-muted)">radius-md 10</span></div>
+          <div style="display: flex; flex-direction: column; align-items: center; gap: 8px"><span aria-hidden="true" style="width: 44px; height: 44px; border: 1px solid var(--line-strong); border-radius: 999px"></span><span style="font-size: 12px; color: var(--ink-muted)">radius-pill</span></div>
+          <div style="display: flex; flex-direction: column; align-items: center; gap: 8px"><span aria-hidden="true" style="width: 120px; height: 44px; border-radius: 10px; background: var(--paper-raised); box-shadow: var(--shadow-float)"></span><span style="font-size: 12px; color: var(--ink-muted)">shadow-float</span></div>
+        </div>
+      </div>
+      <p style="margin: 0; font-size: 14px; line-height: 20px; color: var(--ink-muted)">Marge latérale 16&nbsp;px sur téléphone, 24&nbsp;px sur tablette · 32&nbsp;px entre deux strophes · colonne des paroles limitée à 34&nbsp;em et centrée sur grand écran · cibles tactiles d’au moins 44 × 44&nbsp;px.</p>
+    </section>
+
+    <section aria-labelledby="k-title" style="display: flex; flex-direction: column; gap: 24px">
+      <h2 id="k-title" class="hy-screen-title">Composants</h2>
+      <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start">
+
+        <div style="flex: 1 1 520px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 16px">
+          <p class="hy-overline">Champ de recherche</p>
+          <label class="hb-search" style="min-height: 52px"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg><input type="search" aria-label="Exemple au repos" placeholder="Numéro, titre ou paroles" style="height: 52px; font-size: 18px"></label>
+          <label class="hb-search hy-focus" style="min-height: 52px"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg><input type="search" aria-label="Exemple avec focus" value="ce7" readonly="" style="height: 52px; font-size: 18px"></label>
+          <p style="margin: 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">52&nbsp;px de haut, texte 18&nbsp;px (pas de zoom automatique sur iPhone). Résultats pendant la frappe, sans bouton.</p>
+        </div>
+
+        <div style="flex: 1 1 520px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 16px">
+          <p class="hy-overline">Ligne de résultat · résultat exact</p>
+          <a class="hy-result" href="Chant.dc.html" style="border-top: 1px solid var(--line)">
+            <span class="hy-result__head"><span class="hy-result__title">Plus près de toi, mon Dieu</span><span class="hy-result__refs"><span class="hy-ref">CE&nbsp;5</span><span class="hy-ref">HE&nbsp;2</span></span></span>
+            <span class="hy-result__excerpt">«&nbsp;Déborde comme un <mark>fleuve</mark>&nbsp;»</span>
+          </a>
+          <a class="hy-exact" href="Chant.dc.html">
+            <span class="hy-exact__ref">CE&nbsp;7</span>
+            <span class="hy-exact__title">Quel ami fidèle et tendre</span>
+            <span class="hy-exact__book">Cantiques d’exemple</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg>
+          </a>
+        </div>
+
+        <div style="flex: 1 1 520px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 16px">
+          <p class="hy-overline">Badge de référence · pastilles de filtre</p>
+          <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px">
+            <span class="hy-ref">CE&nbsp;12</span><span class="hy-ref">CE&nbsp;12a</span><span class="hy-ref">CE&nbsp;3 bis</span><span class="hy-ref">HE&nbsp;7</span>
+            <a class="hy-ref" href="Chant.dc.html">HE&nbsp;7 · Hymnes d’exemple</a>
+          </div>
+          <div style="display: flex; flex-wrap: wrap; gap: 8px">
+            <button type="button" class="hb-chip" aria-pressed="false">Cantiques d’exemple</button>
+            <button type="button" class="hb-chip" aria-pressed="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7"></path></svg>Hymnes d’exemple</button>
+          </div>
+          <p style="margin: 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">Une pastille active porte une coche et aria-pressed&nbsp;; on l’efface d’un seul toucher.</p>
+        </div>
+
+        <div style="flex: 1 1 520px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 8px">
+          <p class="hy-overline">Liste de recueils</p>
+          <a class="hy-row" href="Recueil.dc.html" style="border-top: 1px solid var(--line)">
+            <span class="hy-tile" aria-hidden="true">CE</span>
+            <span style="flex-grow: 1; display: flex; flex-direction: column"><span style="font-size: 17px; line-height: 24px; font-weight: 500">Cantiques d’exemple</span><span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">CE · 10 chants</span></span>
+            <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></span>
+          </a>
+          <a class="hy-row" href="Recueil.dc.html">
+            <span class="hy-tile" aria-hidden="true">HE</span>
+            <span style="flex-grow: 1; display: flex; flex-direction: column"><span style="font-size: 17px; line-height: 24px; font-weight: 500">Hymnes d’exemple</span><span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">HE · 7 chants</span></span>
+            <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></span>
+          </a>
+        </div>
+
+        <div style="flex: 1 1 520px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 16px">
+          <p class="hy-overline">Vue des paroles · strophe, refrain, pont</p>
+          <div class="hb-hymn">
+            <p class="hb-stanza"><span class="hb-stanza__num"><span class="hb-sr">Strophe </span>1</span><span class="hb-stanza__line">À toi la gloire,</span><span class="hb-stanza__line">Ô Ressuscité&nbsp;!</span><span class="hb-stanza__line">À toi la victoire</span><span class="hb-stanza__line">Pour l’éternité&nbsp;!</span></p>
+            <p class="hb-stanza hb-stanza--refrain"><span class="hb-stanza__label">Refrain</span><span class="hb-stanza__line">À toi la gloire,</span><span class="hb-stanza__line">Ô Ressuscité&nbsp;!</span></p>
+            <p class="hb-stanza hb-stanza--bridge"><span class="hb-stanza__label">Pont</span><span class="hb-stanza__line" style="color: var(--ink-muted)">[Ligne du pont, telle que dans la source]</span><span class="hb-stanza__line" style="color: var(--ink-muted)">[Ligne du pont]</span></p>          </div>
+          <p style="margin: 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">Refrain&nbsp;: italique, retrait, libellé&nbsp;; imprimé une seule fois, après la première strophe, et de nouveau seulement là où ses paroles changent. Pont&nbsp;: romain, retrait, libellé. Jamais de couleur sur les paroles. Une ligne trop longue passe à la ligne en retrait suspendu.</p>
+        </div>
+
+        <div style="flex: 1 1 520px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 16px">
+          <p class="hy-overline">Taille du texte · précédent / suivant</p>
+          <div class="hy-stepper" role="group" aria-label="Taille du texte (exemple)" style="align-self: flex-start">
+            <button type="button" aria-label="Réduire le texte" style="font-size: 15px">A</button>
+            <output>100&nbsp;%</output>
+            <button type="button" aria-label="Agrandir le texte" style="font-size: 22px">A</button>
+          </div>
+          <div class="hy-readbar" style="border: 1px solid var(--line); border-radius: var(--radius-md); padding-bottom: 8px">
+            <button type="button" class="hy-nav-btn" disabled="" aria-disabled="true" aria-label="Pas de chant précédent"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"></path></svg></button>
+            <div class="hy-stepper" role="group" aria-label="Taille du texte (exemple)"><button type="button" aria-label="Réduire le texte" style="font-size: 15px">A</button><output>100&nbsp;%</output><button type="button" aria-label="Agrandir le texte" style="font-size: 22px">A</button></div>
+            <a class="hy-nav-btn" href="Chant.dc.html" aria-label="Chant suivant : CE 2"><span class="hy-nav-btn__ref">CE&nbsp;2</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></a>
+          </div>
+          <p style="margin: 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">Barre de lecture en bas, à portée du pouce. 7 crans&nbsp;: 85, 100, 115, 130, 150, 175, 200&nbsp;%. Balayage horizontal sur les paroles pour passer au chant voisin.</p>
+        </div>
+
+        <div style="flex: 1 1 520px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 16px">
+          <p class="hy-overline">Bloc des crédits · message «&nbsp;introuvable&nbsp;»</p>
+          <div class="hb-credits" style="margin-top: 0; font-family: var(--font-serif)">
+            <p style="margin: 0">Paroles&nbsp;: Edmond Budry<br>Musique&nbsp;: Georg Friedrich Haendel</p>
+            <p style="margin: 8px 0 0">Source&nbsp;: Domaine public</p>
+          </div>
+          <div class="hy-message" style="padding: 0">
+            <p class="hy-message__title">Aucun chant n°&nbsp;9999 dans Cantiques d’exemple</p>
+            <p class="hy-message__text">Vérifiez le numéro annoncé, ou parcourez le recueil.</p>
+            <a class="hb-btn" href="Recueil.dc.html" style="align-self: flex-start; text-decoration: none; margin-top: 8px">Voir les 10 chants du recueil</a>
+          </div>
+        </div>
+
+        <div style="flex: 1 1 520px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); display: flex; flex-direction: column; gap: 16px">
+          <p class="hy-overline">Navigation · boutons</p>
+          <nav class="hy-tabbar" aria-label="Exemple de navigation mobile" style="padding-bottom: 4px; border: 1px solid var(--line); border-radius: var(--radius-md); max-width: 390px">
+            <a class="hy-tab" href="Main.dc.html" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>Recherche</a>
+            <a class="hy-tab" href="Recueils.dc.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v15H7.5A2.5 2.5 0 0 0 5 20.5z"></path><path d="M5 20.5A2.5 2.5 0 0 0 7.5 23H19v-5M9 7h6"></path></svg>Recueils</a>
+            <a class="hy-tab" href="Lists.dc.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v16l-6-4-6 4z"></path></svg>Répertoire</a>
+          </nav>
+          <div class="hy-topnav" style="border: 1px solid var(--line); border-radius: var(--radius-md)">
+            <span class="hy-topnav__brand">Hymnia</span>
+            <span class="hy-topnav__links"><a class="hy-topnav__link" href="SearchDesktop.dc.html" aria-current="page">Recherche</a><a class="hy-topnav__link" href="Recueils.dc.html">Recueils</a><a class="hy-topnav__link" href="Lists.dc.html">Répertoire</a></span>
+          </div>
+          <div style="display: flex; flex-wrap: wrap; gap: 8px">
+            <a class="hb-btn hb-btn--primary" href="Main.dc.html" style="text-decoration: none">Retour à la recherche</a>
+            <button type="button" class="hb-btn">Aller</button>
+            <button type="button" class="hb-btn hb-btn--quiet">Réinitialiser</button>
+          </div>
+          <p style="margin: 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">Mobile&nbsp;: barre en bas, au-dessus de la zone sûre de l’iPhone. Ordinateur&nbsp;: barre en haut. Réglages par l’icône en haut de la Recherche. Un seul bouton principal par écran, jamais sur la page d’un chant.</p>
+        </div>
+
+      </div>
+    </section>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1280,"height":3200}}'>
+class Component extends DCLogic {
+  renderVals() {
+    var C = [
+      ['paper', 'Fond', '#faf8f4', '#141311'],
+      ['paper-raised', 'Surface', '#ffffff', '#1d1b19'],
+      ['paper-sunken', 'Surface creuse', '#f1eee7', '#0e0d0c'],
+      ['ink', 'Texte', '#1e1c19', '#ede8e0'],
+      ['ink-muted', 'Texte secondaire', '#5b564e', '#a8a196'],
+      ['rubric', 'Accent', '#9c3a2b', '#e8907c'],
+      ['rubric-soft', 'Accent doux (sélection)', '#f6e9e4', '#33221d'],
+      ['on-rubric', 'Texte sur accent', '#ffffff', '#1b0f0c'],
+      ['mark', 'Surlignage de recherche', '#f3e0a8', '#4d3d12'],
+      ['line', 'Filet (décoratif)', '#e4dfd6', '#2f2c28'],
+      ['line-strong', 'Bordure de contrôle', '#8a8378', '#736c62'],
+      ['focus', 'Focus (= accent)', '#9c3a2b', '#e8907c']
+    ];
+    var S = [4, 8, 12, 16, 24, 32, 48, 64];
+    return {
+      colors: C.map(function (c) { return { token: c[0], role: c[1], light: c[2], dark: c[3] }; }),
+      spaces: S.map(function (s) { return { px: s + 'px', label: String(s) }; })
+    };
+  }
+}
+</script>
+</body>
+</html>

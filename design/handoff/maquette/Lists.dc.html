@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Hymnia · Répertoire</title>
+<script src="./support.js"></script>
+<link rel="stylesheet" href="hymnia-app.css">
+<link rel="stylesheet" href="ds/hymnia/components/bundle.css">
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..700&amp;family=Instrument+Sans:wght@400..600&amp;display=swap">
+<style>
+body{margin:0}
+a{color:var(--rubric)}a:hover{color:var(--ink)}
+</style>
+</helmet>
+<div class="hy-app {{themeClass}}" style="width: 390px; height: 844px; box-sizing: border-box; display: flex; flex-direction: column; overflow: hidden; background: var(--paper); color: var(--ink); font-family: var(--font-sans)">
+  <header style="display: flex; align-items: center; gap: 8px; padding: 20px 8px 8px 16px">
+    <h1 class="hy-screen-title" style="flex-grow: 1">Répertoire</h1>
+    <button type="button" class="hb-btn hb-btn--quiet"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"></path></svg>Nouvelle liste</button>
+  </header>
+
+  <main style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 0 16px 24px">
+    <a class="hy-row" href="Playlist.dc.html" style="border-top: 1px solid var(--line); margin-top: 8px">
+      <span style="color: var(--rubric); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true" style="fill: currentColor"><path d="M6 4h12v16l-6-4-6 4z"></path></svg></span>
+      <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column">
+        <span style="font-size: 17px; line-height: 24px; font-weight: 500; color: var(--ink)">Favoris</span>
+        <span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">12 chants</span>
+      </span>
+      <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></span>
+    </a>
+
+    <h2 class="hb-overline" style="margin-top: 32px">Listes de lecture</h2>
+
+    <a class="hy-row" href="Playlist.dc.html">
+      <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11M4.5 6h.01M4.5 12h.01M4.5 18h.01"></path></svg></span>
+      <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column">
+        <span style="font-size: 17px; line-height: 24px; font-weight: 500; color: var(--ink)">Culte du dimanche 15 novembre</span>
+        <span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">6 chants</span>
+      </span>
+      <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></span>
+    </a>
+    <a class="hy-row" href="Playlist.dc.html">
+      <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11M4.5 6h.01M4.5 12h.01M4.5 18h.01"></path></svg></span>
+      <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column">
+        <span style="font-size: 17px; line-height: 24px; font-weight: 500; color: var(--ink)">Répétition de la chorale</span>
+        <span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">9 chants</span>
+      </span>
+      <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></span>
+    </a>
+    <a class="hy-row" href="Playlist.dc.html">
+      <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11M4.5 6h.01M4.5 12h.01M4.5 18h.01"></path></svg></span>
+      <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column">
+        <span style="font-size: 17px; line-height: 24px; font-weight: 500; color: var(--ink)">Noël en famille</span>
+        <span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">7 chants</span>
+      </span>
+      <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></span>
+    </a>
+    <a class="hy-row" href="Playlist.dc.html">
+      <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11M4.5 6h.01M4.5 12h.01M4.5 18h.01"></path></svg></span>
+      <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column">
+        <span style="font-size: 17px; line-height: 24px; font-weight: 500; color: var(--ink)">Veillée de prière</span>
+        <span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">4 chants</span>
+      </span>
+      <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></span>
+    </a>
+
+    <p style="margin: 24px 0 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">Partagez une liste avec la chorale ou les musiciens&nbsp;: ils l’ouvrent dans l’ordre du culte.</p>
+  </main>
+
+  <nav class="hy-tabbar" aria-label="Navigation principale">
+    <a class="hy-tab" href="Main.dc.html"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>Recherche</a>
+    <a class="hy-tab" href="Recueils.dc.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v15H7.5A2.5 2.5 0 0 0 5 20.5z"></path><path d="M5 20.5A2.5 2.5 0 0 0 7.5 23H19v-5M9 7h6"></path></svg>Recueils</a>
+    <a class="hy-tab" href="Lists.dc.html" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v16l-6-4-6 4z"></path></svg>Répertoire</a>
+  </nav>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"theme":{"editor":"enum","options":["Jour","Soir"],"default":"Jour"},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    var theme = this.props.theme ?? 'Jour';
+    return { themeClass: theme === 'Soir' ? 'hy-evening' : 'hy-day' };
+  }
+}
+</script>
+</body>
+</html>

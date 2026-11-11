@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Hymnia · Accords et audio</title>
+<script src="./support.js"></script>
+<link rel="stylesheet" href="hymnia-app.css">
+<link rel="stylesheet" href="ds/hymnia/components/bundle.css">
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..700&amp;family=Instrument+Sans:wght@400..600&amp;display=swap">
+<style>
+body{margin:0}
+a{color:var(--rubric)}a:hover{color:var(--ink)}
+</style>
+</helmet>
+<div class="hy-app {{themeClass}}" style="width: 390px; height: 844px; box-sizing: border-box; position: relative; display: flex; flex-direction: column; overflow: hidden; background: var(--paper); color: var(--ink); font-family: var(--font-sans)">
+  <header style="display: flex; align-items: center; gap: 4px; padding: 8px 8px 0">
+    <a class="hb-icon-btn" href="Chant.dc.html" aria-label="Retour aux paroles"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"></path></svg></a>
+    <span style="flex-grow: 1; font-size: 14px; line-height: 20px; font-weight: 500; color: var(--ink-muted)">Ailes de la foi · Accords</span>
+    <button type="button" class="hb-icon-btn" aria-label="Ajouter aux favoris" aria-pressed="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v16l-6-4-6 4z"></path></svg></button>
+  </header>
+
+  <main style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 12px 16px 300px">
+    <article class="hb-hymn" data-size="sm" style="margin: 0 auto">
+      <header class="hb-header" style="margin-bottom: 16px">
+        <span class="hb-header__number">214</span>
+        <h1 class="hb-header__title">À toi la gloire, ô Ressuscité</h1>
+      </header>
+
+      <div class="{{stanzaClass}}" style="padding-top: 4px; padding-bottom: 4px">
+        <span class="hb-stanza__num" style="top: 24px"><span class="hb-sr">Strophe </span>1</span>
+        <sc-for list="{{verse}}" as="ln" hint-placeholder-count="4">
+          <span class="hy-chordline">
+            <sc-for list="{{ln.segs}}" as="sg" hint-placeholder-count="3">
+              <span class="hy-seg-chord"><span class="hy-chord">{{sg.chord}}</span><span class="hy-syl">{{sg.text}}</span></span>
+            </sc-for>
+          </span>
+        </sc-for>
+      </div>
+
+      <div class="hb-stanza hb-stanza--refrain">
+        <span class="hb-stanza__label">Refrain</span>
+        <sc-for list="{{refrain}}" as="ln" hint-placeholder-count="2">
+          <span class="hy-chordline">
+            <sc-for list="{{ln.segs}}" as="sg" hint-placeholder-count="4">
+              <span class="hy-seg-chord"><span class="hy-chord">{{sg.chord}}</span><span class="hy-syl">{{sg.text}}</span></span>
+            </sc-for>
+          </span>
+        </sc-for>
+      </div>
+    </article>
+  </main>
+
+  <section class="hy-sheet" aria-label="Musique" style="padding: 0 16px 28px">
+    <div class="hy-handle" aria-hidden="true"></div>
+    <div style="display: flex; align-items: baseline; gap: 8px; padding-top: 12px">
+      <p class="hy-overline" style="flex-grow: 1">Audio</p>
+      <p style="margin: 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">Source&nbsp;: jemaf.fr</p>
+    </div>
+    <p style="margin: 4px 0 0; font-size: 16px; line-height: 24px; font-weight: 500; color: var(--ink)">Mélodie et accompagnement</p>
+
+    <label style="display: block; margin-top: 8px">
+      <span class="hb-sr">Position dans l’enregistrement</span>
+      <input type="range" min="0" max="135" value="42" style="width: 100%; margin: 0; height: 28px; accent-color: var(--rubric)">
+    </label>
+    <div style="display: flex; justify-content: space-between; font-size: 13px; line-height: 18px; color: var(--ink-muted); font-variant-numeric: tabular-nums">
+      <span>0:42</span><span>2:15</span>
+    </div>
+
+    <div style="display: flex; align-items: center; justify-content: center; gap: 24px; margin-top: 4px">
+      <button type="button" class="hb-icon-btn" aria-label="Strophe précédente"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5v14M18 6l-8 6 8 6z"></path></svg></button>
+      <button type="button" class="hb-icon-btn" aria-label="{{playLabel}}" onClick="{{togglePlay}}" style="width: 56px; height: 56px; border: 1px solid var(--line-strong)">
+        <sc-if value="{{playing}}" hint-placeholder-val="{{true}}"><svg viewBox="0 0 24 24" aria-hidden="true" style="width: 24px; height: 24px"><path d="M9 5v14M15 5v14"></path></svg></sc-if>
+        <sc-if value="{{paused}}" hint-placeholder-val="{{false}}"><svg viewBox="0 0 24 24" aria-hidden="true" style="width: 24px; height: 24px"><path d="M8 5l11 7-11 7z"></path></svg></sc-if>
+      </button>
+      <button type="button" class="hb-icon-btn" aria-label="Strophe suivante"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 5v14M6 6l8 6-8 6z"></path></svg></button>
+    </div>
+
+    <div style="display: flex; align-items: center; gap: 8px; margin-top: 12px; padding: 4px 4px 4px 12px; background: var(--paper-sunken); border-radius: var(--radius-md)">
+      <span style="flex-grow: 1; font-size: 14px; line-height: 20px; font-weight: 500; color: var(--ink)">Tonalité</span>
+      <button type="button" class="hb-icon-btn" aria-label="Transposer d’un demi-ton plus bas" onClick="{{down}}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 12h12"></path></svg></button>
+      <span aria-live="polite" style="min-width: 104px; text-align: center; font-size: 14px; line-height: 20px; font-weight: 600; color: var(--rubric)">{{keyLabel}}</span>
+      <button type="button" class="hb-icon-btn" aria-label="Transposer d’un demi-ton plus haut" onClick="{{up}}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 12h12M12 6v12"></path></svg></button>
+    </div>
+  </section>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"theme":{"editor":"enum","options":["Jour","Soir"],"default":"Jour"},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  constructor(props) {
+    super(props);
+    this.state = { shift: 0, playing: true };
+  }
+  renderVals() {
+    var self = this;
+    var NAMES = ['C', 'Db', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb', 'B'];
+    var SHARP = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+    var FR = { C: 'Do', Db: 'Ré♭', D: 'Ré', Eb: 'Mi♭', E: 'Mi', F: 'Fa', 'F#': 'Fa♯', G: 'Sol', Ab: 'La♭', A: 'La', Bb: 'Si♭', B: 'Si' };
+    var shift = this.state.shift;
+    var tr = function (ch) {
+      var m = /^([A-G][#b]?)(.*)$/.exec(ch);
+      if (!m) return ch;
+      var i = NAMES.indexOf(m[1]);
+      if (i < 0) i = SHARP.indexOf(m[1]);
+      return NAMES[((i + shift) % 12 + 12) % 12] + m[2];
+    };
+    var fr = function (s) { return s.replace(/ ([!?;:])/g, ' $1'); };
+    var line = function (pairs) {
+      return { segs: pairs.map(function (p) { return { chord: tr(p[0]), text: fr(p[1]) }; }) };
+    };
+    var verse = [
+      line([['D', 'À toi la '], ['A', 'gloire, ô Ressus'], ['D', 'cité !']]),
+      line([['D', 'À toi la vic'], ['G', 'toire '], ['D', 'pour l’é'], ['A', 'terni'], ['D', 'té !']]),
+      line([['A', 'Brillant de lu'], ['D', 'mière, l’ange est '], ['A', 'descendu,']]),
+      line([['D', 'Il roule la '], ['E', 'pierre du tom'], ['A', 'beau vaincu.']])
+    ];
+    var refrain = [
+      line([['D', 'À toi la '], ['G', 'gloire, ô '], ['D', 'Ressus'], ['A', 'cité !']]),
+      line([['D', 'À toi la vic'], ['G', 'toire '], ['D', 'pour l’é'], ['A7', 'terni'], ['D', 'té !']])
+    ];
+    var key = tr('D');
+    var theme = this.props.theme ?? 'Jour';
+    return {
+      themeClass: theme === 'Soir' ? 'hy-evening' : 'hy-day',
+      verse: verse,
+      refrain: refrain,
+      stanzaClass: this.state.playing ? 'hb-stanza is-current' : 'hb-stanza',
+      keyLabel: FR[key] + ' majeur (' + key + ')',
+      up: function () { self.setState(function (s) { return { shift: s.shift + 1 }; }); },
+      down: function () { self.setState(function (s) { return { shift: s.shift - 1 }; }); },
+      playing: this.state.playing,
+      paused: !this.state.playing,
+      playLabel: this.state.playing ? 'Pause' : 'Lecture',
+      togglePlay: function () { self.setState(function (s) { return { playing: !s.playing }; }); }
+    };
+  }
+}
+</script>
+</body>
+</html>

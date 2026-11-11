@@ -1,0 +1,286 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "AppIcon.dc.html": {
+      "h": 560,
+      "title": "Icône et couleur du thème",
+      "w": 880,
+      "x": 1360,
+      "y": 4788
+    },
+    "Chant.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "/recueils/ce/1",
+      "w": 390,
+      "x": 940,
+      "y": 1244
+    },
+    "Chant200.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "Chant · texte à 200 %",
+      "w": 390,
+      "x": 1410,
+      "y": 1244
+    },
+    "ChantDark.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "Chant · mode sombre",
+      "w": 390,
+      "x": 1880,
+      "y": 1244
+    },
+    "ChantDesktop.dc.html": {
+      "expand": "fill",
+      "h": 1900,
+      "is_interactive": true,
+      "title": "Chant · ordinateur",
+      "w": 1280,
+      "x": 1360,
+      "y": 2488
+    },
+    "Chords.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "Accords et audio",
+      "w": 390,
+      "x": 0,
+      "y": 8388
+    },
+    "Components.dc.html": {
+      "expand": "fill",
+      "h": 3200,
+      "title": "Tokens et composants",
+      "w": 1280,
+      "x": 0,
+      "y": 4788
+    },
+    "Lists.dc.html": {
+      "h": 844,
+      "title": "Répertoire",
+      "w": 390,
+      "x": 940,
+      "y": 8388
+    },
+    "Main.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "1 · Requête vide",
+      "w": 390,
+      "x": 0,
+      "y": 0
+    },
+    "NotFound.dc.html": {
+      "h": 844,
+      "title": "Page introuvable",
+      "w": 390,
+      "x": 2820,
+      "y": 1244
+    },
+    "Playlist.dc.html": {
+      "h": 844,
+      "title": "Liste de lecture",
+      "w": 390,
+      "x": 1410,
+      "y": 8388
+    },
+    "Recueil.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "/recueils/ce",
+      "w": 390,
+      "x": 470,
+      "y": 1244
+    },
+    "Recueils.dc.html": {
+      "h": 844,
+      "title": "/recueils",
+      "w": 390,
+      "x": 0,
+      "y": 1244
+    },
+    "SearchDesktop.dc.html": {
+      "expand": "fill",
+      "h": 900,
+      "title": "Recherche · ordinateur",
+      "w": 1280,
+      "x": 0,
+      "y": 2488
+    },
+    "SearchFilter.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "6 · Filtre par recueil",
+      "w": 390,
+      "x": 2350,
+      "y": 0
+    },
+    "SearchNoResult.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "7 · Aucun résultat",
+      "w": 390,
+      "x": 2820,
+      "y": 0
+    },
+    "SearchNotFound.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "4 · Numéro introuvable",
+      "w": 390,
+      "x": 1410,
+      "y": 0
+    },
+    "SearchNumber.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "2 · Numéro avec recueil",
+      "w": 390,
+      "x": 470,
+      "y": 0
+    },
+    "SearchNumberOnly.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "3 · Numéro seul",
+      "w": 390,
+      "x": 940,
+      "y": 0
+    },
+    "SearchOffline.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "9 · Par le sens, hors ligne",
+      "w": 390,
+      "x": 3760,
+      "y": 0
+    },
+    "SearchSemantic.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "8 · Recherche par le sens",
+      "w": 390,
+      "x": 3290,
+      "y": 0
+    },
+    "SearchText.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "5 · Recherche dans les paroles",
+      "w": 390,
+      "x": 1880,
+      "y": 0
+    },
+    "Settings.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "/reglages",
+      "w": 390,
+      "x": 2350,
+      "y": 1244
+    },
+    "Verses.dc.html": {
+      "h": 844,
+      "title": "Versets liés",
+      "w": 390,
+      "x": 470,
+      "y": 8388
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-11-11T08:20:00Z",
+    "v": 1
+  },
+  "designSystems": [
+    {
+      "artifact": "https://claude.ai/code/artifact/f1dff752-b5c8-4ffe-a9b0-31bac4690dd4",
+      "copiedAt": "2026-11-11T08:20:00Z",
+      "namespace": "hymnia",
+      "title": "Hymnia",
+      "version": "1794384379-3a6e"
+    }
+  ],
+  "launch": {
+    "view": "canvas"
+  },
+  "noteOrder": [
+    "rowFind",
+    "rowRead",
+    "rowDesk",
+    "rowSys",
+    "rowLists"
+  ],
+  "notes": {
+    "rowDesk": {
+      "kind": "title1",
+      "maxW": 2640,
+      "text": "Ordinateur",
+      "w": 240,
+      "x": 0,
+      "y": 2188
+    },
+    "rowFind": {
+      "kind": "title1",
+      "maxW": 4150,
+      "text": "Recherche — /",
+      "w": 240,
+      "x": 0,
+      "y": -300
+    },
+    "rowLists": {
+      "kind": "title1",
+      "maxW": 1800,
+      "text": "Répertoire et fonctions à venir (hors brief)",
+      "w": 240,
+      "x": 0,
+      "y": 8088
+    },
+    "rowRead": {
+      "kind": "title1",
+      "maxW": 3210,
+      "text": "Recueils, chant, réglages",
+      "w": 240,
+      "x": 0,
+      "y": 944
+    },
+    "rowSys": {
+      "kind": "title1",
+      "maxW": 2240,
+      "text": "Tokens, composants, icône",
+      "w": 240,
+      "x": 0,
+      "y": 4488
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "SearchNumber.dc.html",
+    "SearchNumberOnly.dc.html",
+    "SearchNotFound.dc.html",
+    "SearchText.dc.html",
+    "SearchFilter.dc.html",
+    "SearchNoResult.dc.html",
+    "SearchSemantic.dc.html",
+    "SearchOffline.dc.html",
+    "Recueils.dc.html",
+    "Recueil.dc.html",
+    "Chant.dc.html",
+    "Chant200.dc.html",
+    "ChantDark.dc.html",
+    "Settings.dc.html",
+    "NotFound.dc.html",
+    "SearchDesktop.dc.html",
+    "ChantDesktop.dc.html",
+    "Components.dc.html",
+    "AppIcon.dc.html",
+    "Chords.dc.html",
+    "Verses.dc.html",
+    "Lists.dc.html",
+    "Playlist.dc.html"
+  ],
+  "pages": [],
+  "title": "Hymnia"
+}

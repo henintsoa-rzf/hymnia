@@ -1,0 +1,387 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Hymnia · Recherche</title>
+<script src="./support.js"></script>
+<link rel="stylesheet" href="hymnia-app.css">
+<link rel="stylesheet" href="ds/hymnia/components/bundle.css">
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..700&amp;family=Instrument+Sans:wght@400..600&amp;display=swap">
+<style>body{margin:0}</style>
+</helmet>
+<div class="hy-app {{themeClass}}" style="width: 390px; height: 844px; box-sizing: border-box; display: flex; flex-direction: column; overflow: hidden; background: var(--paper); color: var(--ink); font-family: var(--font-sans)">
+  <header style="display: flex; align-items: center; gap: 4px; padding: 12px 8px 0 16px">
+    <h1 class="hy-screen-title" style="flex-grow: 1">Recherche</h1>
+    <a class="hb-icon-btn" href="Settings.dc.html" aria-label="Réglages"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"></path><circle cx="15" cy="7" r="2"></circle><circle cx="9" cy="17" r="2"></circle></svg></a>
+  </header>
+
+  <div style="display: flex; flex-direction: column; gap: 12px; padding: 12px 16px 4px">
+    <div class="hy-seg" role="group" aria-label="Type de recherche">
+      <button type="button" aria-pressed="{{wordsPressed}}" onClick="{{toWords}}">Numéro et paroles</button>
+      <button type="button" aria-pressed="{{sensePressed}}" onClick="{{toSense}}">Par le sens</button>
+    </div>
+
+    <sc-if value="{{isWords}}" hint-placeholder-val="{{true}}">
+      <label class="{{fieldClass}}" style="min-height: 52px">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
+        <input type="search" aria-label="Rechercher par numéro, titre ou paroles" placeholder="Numéro, titre ou paroles" autocomplete="off" enterkeyhint="search" value="{{query}}" onChange="{{onInput}}" style="height: 52px; font-size: 18px">
+        <sc-if value="{{hasQuery}}" hint-placeholder-val="{{false}}">
+          <button type="button" class="hb-icon-btn" aria-label="Effacer la recherche" onClick="{{clear}}" style="margin-right: -12px; color: var(--ink-muted)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"></path></svg></button>
+        </sc-if>
+      </label>
+    </sc-if>
+
+    <sc-if value="{{isSense}}" hint-placeholder-val="{{false}}">
+      <label class="{{senseClass}}">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"></circle><path d="M15.5 8.5l-2 5-5 2 2-5z"></path></svg>
+        <span class="hb-sr">Décrivez le chant que vous cherchez</span>
+        <textarea rows="3" placeholder="Décrivez un thème ou une occasion, par exemple «&nbsp;espérance pour des obsèques&nbsp;»" value="{{senseQuery}}" onChange="{{onSenseInput}}"></textarea>
+      </label>
+    </sc-if>
+
+    <div role="group" aria-label="Filtrer par recueil" class="hy-scroller" style="display: flex; gap: 8px; margin: 0 -16px; padding: 0 16px; overflow-x: auto">
+      <sc-for list="{{chips}}" as="c" hint-placeholder-count="2">
+        <button type="button" class="hb-chip" aria-pressed="{{c.pressed}}" onClick="{{c.toggle}}" style="flex: none; white-space: nowrap">
+          <sc-if value="{{c.on}}" hint-placeholder-val="{{false}}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7"></path></svg></sc-if>
+          {{c.label}}
+        </button>
+      </sc-for>
+    </div>
+  </div>
+
+  <p class="hb-sr" aria-live="polite">{{status}}</p>
+
+  <main style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 4px 16px 24px">
+    <sc-if value="{{isEmpty}}" hint-placeholder-val="{{true}}">
+      <p style="margin: 8px 0 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">Tapez un numéro («&nbsp;CE 12&nbsp;»), un titre ou quelques mots des paroles.</p>
+      <h2 class="hb-overline">Recueils</h2>
+      <ul class="hb-list">
+        <sc-for list="{{books}}" as="b" hint-placeholder-count="2">
+          <li><a class="hy-row" href="Recueil.dc.html">
+            <span class="hy-tile" aria-hidden="true">{{b.abbr}}</span>
+            <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column">
+              <span style="font-size: 17px; line-height: 24px; font-weight: 500; color: var(--ink)">{{b.name}}</span>
+              <span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">{{b.countLabel}}</span>
+            </span>
+            <span style="color: var(--ink-muted); display: flex"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></span>
+          </a></li>
+        </sc-for>
+      </ul>
+    </sc-if>
+
+    <sc-if value="{{isSenseEmpty}}" hint-placeholder-val="{{false}}">
+      <p style="margin: 8px 0 0; font-size: 15px; line-height: 22px; color: var(--ink-muted)">La recherche par le sens trouve des chants sur un sujet ou pour une occasion, même s’ils n’emploient pas vos mots.</p>
+      <h2 class="hb-overline">Idées</h2>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px">
+        <sc-for list="{{ideas}}" as="i" hint-placeholder-count="6">
+          <button type="button" class="hb-chip" onClick="{{i.pick}}">{{i.label}}</button>
+        </sc-for>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{hasExact}}" hint-placeholder-val="{{false}}">
+      <a class="hy-exact" href="Chant.dc.html" style="margin-top: 8px">
+        <span class="hy-exact__ref">{{exact.ref}}</span>
+        <span class="hy-exact__title">{{exact.title}}</span>
+        <span class="hy-exact__book">{{exact.book}}</span>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg>
+      </a>
+    </sc-if>
+
+    <sc-if value="{{hasRows}}" hint-placeholder-val="{{false}}">
+      <h2 class="hb-overline">{{rowsLabel}}</h2>
+      <ul class="hb-list">
+        <sc-for list="{{rows}}" as="r" hint-placeholder-count="2">
+          <li><a class="hy-result" href="Chant.dc.html">
+            <span class="hy-result__head">
+              <span class="hy-result__title">{{r.title}}</span>
+              <span class="hy-result__refs"><sc-for list="{{r.refs}}" as="f" hint-placeholder-count="1"><span class="hy-ref">{{f}}</span></sc-for></span>
+            </span>
+            <sc-if value="{{r.hasBook}}" hint-placeholder-val="{{false}}"><span class="hy-result__meta">{{r.book}}</span></sc-if>
+            <sc-if value="{{r.hasExcerpt}}" hint-placeholder-val="{{false}}"><span class="hy-result__excerpt">«&nbsp;<sc-for list="{{r.parts}}" as="p" hint-placeholder-count="1"><sc-if value="{{p.hit}}" hint-placeholder-val="{{false}}"><mark>{{p.text}}</mark></sc-if><sc-if value="{{p.plain}}" hint-placeholder-val="{{true}}">{{p.text}}</sc-if></sc-for>&nbsp;»</span></sc-if>
+          </a></li>
+        </sc-for>
+      </ul>
+    </sc-if>
+
+    <sc-if value="{{hasSem}}" hint-placeholder-val="{{false}}">
+      <h2 class="hb-overline">{{semLabel}}</h2>
+      <ul class="hb-list">
+        <sc-for list="{{semRows}}" as="r" hint-placeholder-count="3">
+          <li><a class="hy-result" href="Chant.dc.html">
+            <span class="hy-result__head">
+              <span class="hy-result__title">{{r.title}}</span>
+              <span class="hy-result__refs"><sc-for list="{{r.refs}}" as="f" hint-placeholder-count="1"><span class="hy-ref">{{f}}</span></sc-for></span>
+            </span>
+            <span class="hy-result__meta">{{r.why}}</span>
+          </a></li>
+        </sc-for>
+      </ul>
+    </sc-if>
+
+    <sc-if value="{{hasMsg}}" hint-placeholder-val="{{false}}">
+      <div class="hy-message" role="status">
+        <p class="hy-message__title">{{msg.title}}</p>
+        <p class="hy-message__text">{{msg.text}}</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px">
+          <sc-if value="{{msg.hasLink}}" hint-placeholder-val="{{false}}"><a class="hb-btn" href="{{msg.href}}" style="text-decoration: none">{{msg.linkLabel}}</a></sc-if>
+          <sc-if value="{{msg.hasClear}}" hint-placeholder-val="{{false}}"><button type="button" class="hb-btn" onClick="{{clearFilters}}">Chercher dans tous les recueils</button></sc-if>
+          <sc-if value="{{msg.hasSwitch}}" hint-placeholder-val="{{false}}"><button type="button" class="hb-btn" onClick="{{toWords}}">Chercher par numéro et paroles</button></sc-if>
+        </div>
+      </div>
+    </sc-if>
+  </main>
+
+  <nav class="hy-tabbar" aria-label="Navigation principale">
+    <a class="hy-tab" href="Main.dc.html" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>Recherche</a>
+    <a class="hy-tab" href="Recueils.dc.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v15H7.5A2.5 2.5 0 0 0 5 20.5z"></path><path d="M5 20.5A2.5 2.5 0 0 0 7.5 23H19v-5M9 7h6"></path></svg>Recueils</a>
+    <a class="hy-tab" href="Lists.dc.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v16l-6-4-6 4z"></path></svg>Répertoire</a>
+  </nav>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"theme":{"editor":"enum","options":["Jour","Soir"],"default":"Jour"},"initialMode":{"editor":"enum","options":["words","sense"],"default":"words"},"initialQuery":{"editor":"text","default":""},"initialFilter":{"editor":"text","default":""},"focused":{"editor":"boolean","default":true},"offline":{"editor":"boolean","default":false},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  constructor(props) {
+    super(props);
+    var sense = props.initialMode === 'sense';
+    this.state = {
+      mode: sense ? 'sense' : 'words',
+      query: sense ? '' : (props.initialQuery || ''),
+      senseQuery: sense ? (props.initialQuery || '') : '',
+      filters: String(props.initialFilter || '').split(',').map(function (s) { return s.trim(); }).filter(Boolean)
+    };
+  }
+  renderVals() {
+    var self = this;
+    var fr = function (s) { return s.replace(/ ([!?;:»])/g, ' $1').replace(/« /g, '« '); };
+    var BOOKS = [
+      { abbr: 'CE', name: 'Cantiques d’exemple', count: 10 },
+      { abbr: 'HE', name: 'Hymnes d’exemple', count: 7 }
+    ];
+    var bookOf = {};
+    BOOKS.forEach(function (b) { bookOf[b.abbr] = b; });
+    var GLOIRE = [
+      'À toi la gloire,', 'Ô Ressuscité !', 'À toi la victoire', 'Pour l’éternité !',
+      'Brillant de lumière,', 'L’ange est descendu,', 'Il roule la pierre', 'Du tombeau vaincu.',
+      'Vois-le paraître :', 'C’est lui, c’est Jésus,', 'Ton Sauveur, ton Maître !', 'Oh ! ne doute plus !',
+      'Sois dans l’allégresse,', 'Peuple du Seigneur,', 'Et redis sans cesse', 'Que Christ est vainqueur !',
+      'Craindrais-je encore ?', 'Il vit à jamais,', 'Celui que j’adore,', 'Le Prince de paix ;',
+      'Il est ma victoire,', 'Mon puissant soutien,', 'Ma vie et ma gloire :', 'Non, je ne crains rien !'
+    ];
+    var HYMNS = [
+      { title: 'À toi la gloire', refs: [['CE', '1'], ['HE', '7']], lines: GLOIRE, themes: ['résurrection', 'victoire sur la mort', 'Pâques', 'joie'] },
+      { title: 'C’est un rempart que notre Dieu', refs: [['CE', '2']], lines: [], themes: ['confiance', 'protection', 'combat spirituel'] },
+      { title: 'Torrents d’amour et de grâce', refs: [['CE', '3']], lines: ['À ce grand fleuve qui passe'], themes: ['amour de Dieu', 'grâce', 'pardon'] },
+      { title: 'Plus près de toi, mon Dieu', refs: [['CE', '5'], ['HE', '2']], lines: ['Déborde comme un fleuve'], themes: ['consolation', 'épreuve', 'espérance du ciel'] },
+      { title: 'Quel ami fidèle et tendre', refs: [['CE', '7']], lines: [], themes: ['prière', 'consolation', 'amitié de Jésus'] },
+      { title: 'Tel que je suis', refs: [['CE', '8']], lines: [], themes: ['repentance', 'grâce', 'appel'] },
+      { title: 'Debout, sainte cohorte', refs: [['CE', '12']], lines: [], themes: ['combat spirituel', 'courage', 'mission'] },
+      { title: 'Que Dieu se montre seulement', refs: [['CE', '12a']], lines: [], themes: ['psaume', 'puissance de Dieu', 'victoire'] },
+      { title: 'Il est né le divin Enfant', refs: [['CE', '20']], lines: [], themes: ['Noël', 'joie'] },
+      { title: 'Minuit, chrétiens', refs: [['CE', '23']], lines: [], themes: ['Noël', 'adoration'] },
+      { title: 'Les anges dans nos campagnes', refs: [['HE', '12']], lines: [], themes: ['Noël', 'louange'] }
+    ];
+    // A small concept table stands in for the real semantic index.
+    var SYN = {};
+    var addSyn = function (keys, concepts) { keys.forEach(function (k) { SYN[k] = concepts; }); };
+    addSyn(['enterrement', 'deuil', 'funerailles', 'obseques', 'deces', 'mort', 'mourir'], ['consolation', 'espérance du ciel', 'résurrection', 'victoire sur la mort']);
+    addSyn(['peur', 'crainte', 'angoisse', 'inquietude'], ['confiance', 'protection', 'consolation']);
+    addSyn(['epreuve', 'souffrance', 'maladie', 'douleur', 'tristesse'], ['épreuve', 'consolation']);
+    addSyn(['noel', 'naissance', 'nativite', 'creche'], ['Noël']);
+    addSyn(['paques', 'resurrection', 'tombeau'], ['résurrection', 'Pâques', 'victoire sur la mort']);
+    addSyn(['pardon', 'peche', 'repentance', 'conversion'], ['pardon', 'repentance', 'grâce']);
+    addSyn(['priere', 'prier'], ['prière']);
+    addSyn(['joie', 'fete', 'celebration'], ['joie', 'louange']);
+    addSyn(['louange', 'adorer', 'adoration'], ['louange', 'adoration']);
+    addSyn(['courage', 'combat', 'lutte', 'force'], ['courage', 'combat spirituel', 'protection']);
+    addSyn(['mission', 'envoi', 'evangelisation'], ['mission']);
+    addSyn(['amour'], ['amour de Dieu', 'amitié de Jésus']);
+    addSyn(['espoir', 'esperance', 'ciel'], ['espérance du ciel', 'confiance']);
+    addSyn(['ami', 'amitie'], ['amitié de Jésus']);
+    addSyn(['confiance'], ['confiance']);
+
+    var norm = function (s) {
+      var out = '';
+      for (var i = 0; i < s.length; i++) {
+        var c = s.charAt(i);
+        var d = c.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+        if (c === '’') d = "'";
+        out += d.length === 1 ? d : c;
+      }
+      return out;
+    };
+    var isWordChar = function (ch) { return /[a-z0-9]/.test(ch); };
+    var highlight = function (text, words) {
+      var n = norm(text);
+      var on = [];
+      for (var i = 0; i < text.length; i++) on.push(false);
+      words.forEach(function (w) {
+        var at = n.indexOf(w);
+        if (at < 0) return;
+        var start = at, end = at + w.length;
+        while (start > 0 && isWordChar(n.charAt(start - 1))) start--;
+        while (end < n.length && isWordChar(n.charAt(end))) end++;
+        for (var k = start; k < end; k++) on[k] = true;
+      });
+      for (var k = 1; k < text.length - 1; k++) {
+        if (!on[k] && /\s/.test(text.charAt(k)) && on[k - 1] && on[k + 1]) on[k] = true;
+      }
+      var parts = [];
+      for (var j = 0; j < text.length; j++) {
+        var last = parts[parts.length - 1];
+        if (last && last.hit === on[j]) last.text += text.charAt(j);
+        else parts.push({ text: text.charAt(j), hit: on[j], plain: !on[j] });
+      }
+      return parts;
+    };
+    var refLabel = function (r) { return r[0] + ' ' + r[1]; };
+    var inFilter = function (h) { return !filters.length || h.refs.some(function (r) { return filters.indexOf(r[0]) >= 0; }); };
+
+    var mode = this.state.mode;
+    var offline = !!(this.props.offline ?? false) && this.props.offline !== 'false';
+    var filters = this.state.filters;
+    var query = this.state.query;
+    var senseQuery = this.state.senseQuery;
+    var exact = null, rows = [], rowsLabel = '', msg = null, semRows = [], semLabel = '';
+
+    if (mode === 'words') {
+      var q = norm(query).trim().replace(/\s+/g, ' ');
+      var m = /^([a-z]{1,8})?\s*(\d{1,5})\s*(a|b|bis)?$/.exec(q);
+      if (q && m) {
+        var num = m[2] + (m[3] ? (m[3] === 'bis' ? ' bis' : m[3]) : '');
+        var withNum = [];
+        HYMNS.forEach(function (h) {
+          h.refs.forEach(function (r) { if (r[1] === num) withNum.push({ h: h, r: r }); });
+        });
+        if (m[1]) {
+          var abbr = m[1].toUpperCase();
+          var book = bookOf[abbr];
+          if (!book) {
+            msg = { title: 'Aucun recueil « ' + abbr + ' » dans Hymnia', text: 'Les recueils disponibles sont listés dans l’onglet Recueils.', hasLink: true, href: 'Recueils.dc.html', linkLabel: 'Voir les recueils', hasClear: false };
+          } else {
+            var hit = withNum.filter(function (x) { return x.r[0] === abbr; })[0];
+            if (hit) {
+              exact = { ref: refLabel(hit.r), title: hit.h.title, book: book.name };
+              rows = withNum.filter(function (x) { return x.r[0] !== abbr; }).map(function (x) {
+                return { title: x.h.title, refs: [refLabel(x.r)], hasBook: true, book: bookOf[x.r[0]].name, hasExcerpt: false, parts: [] };
+              });
+              rowsLabel = 'Autres chants n° ' + num;
+            } else {
+              msg = { title: 'Aucun chant n° ' + num + ' dans ' + book.name, text: 'Vérifiez le numéro annoncé, ou parcourez le recueil.', hasLink: true, href: 'Recueil.dc.html', linkLabel: 'Voir les ' + book.count + ' chants du recueil', hasClear: false };
+            }
+          }
+        } else {
+          rows = withNum.filter(function (x) { return !filters.length || filters.indexOf(x.r[0]) >= 0; }).map(function (x) {
+            return { title: x.h.title, refs: [refLabel(x.r)], hasBook: true, book: bookOf[x.r[0]].name, hasExcerpt: false, parts: [] };
+          });
+          rowsLabel = 'Chants n° ' + num;
+          if (!rows.length) {
+            msg = { title: 'Aucun chant n° ' + num, text: 'Ajoutez l’abréviation du recueil, par exemple « CE 12 ».', hasLink: false, hasClear: filters.length > 0 };
+          }
+        }
+      } else if (q) {
+        var words = q.split(' ').filter(Boolean);
+        var hasAll = function (s) { var n = norm(s); return words.every(function (w) { return n.indexOf(w) >= 0; }); };
+        HYMNS.forEach(function (h) {
+          if (!inFilter(h)) return;
+          var line = null;
+          for (var i = 0; i < h.lines.length; i++) { if (hasAll(h.lines[i])) { line = h.lines[i]; break; } }
+          if (!line && !hasAll(h.title) && !hasAll(h.title + ' ' + h.lines.join(' '))) return;
+          rows.push({ title: h.title, refs: h.refs.map(refLabel), hasBook: false, book: '', hasExcerpt: !!line, parts: line ? highlight(fr(line), words) : [] });
+        });
+        rowsLabel = rows.length + (rows.length > 1 ? ' chants' : ' chant');
+        if (!rows.length) {
+          msg = { title: 'Aucun chant ne contient « ' + query.trim() + ' »', text: 'Vérifiez l’orthographe, essayez d’autres mots, ou cherchez par le sens.', hasLink: false, hasClear: filters.length > 0 };
+        }
+      }
+    } else if (offline) {
+      msg = { title: 'La recherche par le sens demande une connexion', text: 'Vous êtes hors ligne. La recherche par numéro, titre ou paroles fonctionne sans réseau.', hasLink: false, hasClear: false, hasSwitch: true };
+    } else {
+      var sq = norm(senseQuery).trim();
+      if (sq) {
+        var terms = sq.split(/[^a-z0-9]+/).filter(Boolean);
+        var concepts = {};
+        terms.forEach(function (w) {
+          Object.keys(SYN).forEach(function (k) {
+            if (k === w || (w.length >= 4 && k.indexOf(w) === 0) || (k.length >= 4 && w.indexOf(k) === 0)) {
+              SYN[k].forEach(function (c) { concepts[c] = true; });
+            }
+          });
+        });
+        HYMNS.forEach(function (h) {
+          if (!inFilter(h)) return;
+          var matched = h.themes.filter(function (t) { return concepts[t]; });
+          if (matched.length) semRows.push({ title: h.title, refs: h.refs.map(refLabel), why: 'Thèmes : ' + matched.join(', '), score: matched.length });
+        });
+        semRows.sort(function (a, b) { return b.score - a.score; });
+        semRows = semRows.slice(0, 6);
+        semLabel = 'Proches par le sens · ' + semRows.length;
+        if (!semRows.length) {
+          msg = { title: 'Aucun chant proche de cette idée', text: 'Essayez de la dire autrement, ou choisissez une des idées proposées.', hasLink: false, hasClear: filters.length > 0 };
+        }
+      }
+    }
+
+    var theme = this.props.theme ?? 'Jour';
+    var focused = this.props.focused ?? true;
+    var isWords = mode === 'words';
+    var status = isWords
+      ? (!query.trim() ? '' : exact ? exact.ref + ', ' + exact.title : msg ? msg.title : rowsLabel)
+      : (msg ? msg.title : !senseQuery.trim() ? '' : semLabel);
+    return {
+      themeClass: theme === 'Soir' ? 'hy-evening' : 'hy-day',
+      fieldClass: focused ? 'hb-search hy-focus' : 'hb-search',
+      senseClass: focused ? 'hy-sense hy-focus' : 'hy-sense',
+      isWords: isWords,
+      isSense: !isWords,
+      wordsPressed: isWords ? 'true' : 'false',
+      sensePressed: isWords ? 'false' : 'true',
+      toWords: function () { self.setState({ mode: 'words' }); },
+      toSense: function () { self.setState({ mode: 'sense' }); },
+      query: query,
+      hasQuery: !!query,
+      onInput: function (e) { self.setState({ query: e.target.value }); },
+      clear: function () { self.setState({ query: '' }); },
+      senseQuery: senseQuery,
+      onSenseInput: function (e) { self.setState({ senseQuery: e.target.value }); },
+      ideas: ['Deuil', 'Noël', 'Pâques', 'Confiance', 'Pardon', 'Mission'].map(function (label) {
+        return { label: label, pick: function () { self.setState({ senseQuery: label }); } };
+      }),
+      clearFilters: function () { self.setState({ filters: [] }); },
+      chips: BOOKS.map(function (b) {
+        var on = filters.indexOf(b.abbr) >= 0;
+        return {
+          label: b.name, on: on, pressed: on ? 'true' : 'false',
+          toggle: function () {
+            self.setState(function (s) {
+              var f = s.filters.filter(function (x) { return x !== b.abbr; });
+              if (!on) f.push(b.abbr);
+              return { filters: f };
+            });
+          }
+        };
+      }),
+      books: BOOKS.map(function (b) { return { abbr: b.abbr, name: b.name, countLabel: b.abbr + ' · ' + b.count + ' chants' }; }),
+      isEmpty: isWords && !query.trim(),
+      isSenseEmpty: !isWords && !senseQuery.trim() && !offline,
+      hasExact: !!exact,
+      exact: exact || { ref: '', title: '', book: '' },
+      hasRows: rows.length > 0,
+      rows: rows,
+      rowsLabel: rowsLabel,
+      hasSem: semRows.length > 0,
+      semRows: semRows,
+      semLabel: semLabel,
+      hasMsg: !!msg,
+      msg: Object.assign({ title: '', text: '', hasLink: false, href: '', linkLabel: '', hasClear: false, hasSwitch: false }, msg || {}),
+      status: status
+    };
+  }
+}
+</script>
+</body>
+</html>

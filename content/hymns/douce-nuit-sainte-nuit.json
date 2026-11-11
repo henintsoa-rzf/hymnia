@@ -1,0 +1,41 @@
+{
+	"id": "douce-nuit-sainte-nuit",
+	"title": "Douce nuit, sainte nuit",
+	"entries": [
+		{
+			"hymnal": "he",
+			"number": "13"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Douce nuit, sainte nuit !",
+				"Dans les cieux, l’astre luit.",
+				"Le mystère annoncé s’accomplit,",
+				"Cet enfant sur la paille endormi,",
+				"C’est l’amour infini !",
+				"C’est l’amour infini !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joseph Mohr",
+			"role": "lyrics"
+		},
+		{
+			"name": "Franz Xaver Gruber",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Hymnia · Chant introuvable</title>
+<script src="./support.js"></script>
+<link rel="stylesheet" href="hymnia-app.css">
+<link rel="stylesheet" href="ds/hymnia/components/bundle.css">
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..700&amp;family=Instrument+Sans:wght@400..600&amp;display=swap">
+<style>body{margin:0}</style>
+</helmet>
+<div class="hy-app {{themeClass}}" style="width: 390px; height: 844px; box-sizing: border-box; display: flex; flex-direction: column; overflow: hidden; background: var(--paper); color: var(--ink); font-family: var(--font-sans)">
+  <main style="flex-grow: 1; min-height: 0; display: flex; flex-direction: column; justify-content: center; gap: 12px; padding: 24px 24px 96px">
+    <p style="margin: 0; font-family: var(--font-serif); font-size: 44px; line-height: 48px; font-weight: 300; color: var(--rubric); font-variant-numeric: tabular-nums">CE 99</p>
+    <h1 class="hy-screen-title">Chant introuvable</h1>
+    <p style="margin: 0; font-size: 16px; line-height: 24px; color: var(--ink-muted)">Il n’y a pas de chant n°&nbsp;99 dans Cantiques d’exemple. Le numéro est peut-être mal saisi, ou ce chant n’a pas encore été ajouté.</p>
+    <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 8px; margin-top: 12px">
+      <a class="hb-btn hb-btn--primary" href="Main.dc.html" style="text-decoration: none">Retour à la recherche</a>
+      <a class="hb-btn hb-btn--quiet" href="Recueil.dc.html" style="text-decoration: none; padding-left: 0">Voir les chants de Cantiques d’exemple</a>
+    </div>
+  </main>
+
+  <nav class="hy-tabbar" aria-label="Navigation principale">
+    <a class="hy-tab" href="Main.dc.html"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>Recherche</a>
+    <a class="hy-tab" href="Recueils.dc.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v15H7.5A2.5 2.5 0 0 0 5 20.5z"></path><path d="M5 20.5A2.5 2.5 0 0 0 7.5 23H19v-5M9 7h6"></path></svg>Recueils</a>
+    <a class="hy-tab" href="Lists.dc.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v16l-6-4-6 4z"></path></svg>Répertoire</a>
+  </nav>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"theme":{"editor":"enum","options":["Jour","Soir"],"default":"Jour"},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    var theme = this.props.theme ?? 'Jour';
+    return { themeClass: theme === 'Soir' ? 'hy-evening' : 'hy-day' };
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+	"id": "premier-chant",
+	"title": "Premier chant",
+	"entries": [
+		{ "hymnal": "aa", "number": "1" },
+		{ "hymnal": "bb", "number": "10" }
+	],
+	"sections": [
+		{ "type": "verse", "number": 1, "lines": ["Louez l’Éternel, ô mon âme", "Chantez sa gloire"] },
+		{ "type": "chorus", "number": null, "lines": ["Alléluia"] }
+	],
+	"credits": [{ "name": "Auteur Un", "role": "lyrics" }],
+	"source": { "name": "Fixture", "url": null, "retrievedAt": "2026-11-11" },
+	"rights": "public-domain",
+	"corrections": []
+}

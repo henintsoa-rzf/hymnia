@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>CE 1 · À toi la gloire (ordinateur)</title>
+<script src="./support.js"></script>
+<link rel="stylesheet" href="hymnia-app.css">
+<link rel="stylesheet" href="ds/hymnia/components/bundle.css">
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..700&amp;family=Instrument+Sans:wght@400..600&amp;display=swap">
+<style>body{margin:0}</style>
+</helmet>
+<div class="hy-app {{themeClass}}" style="min-height: 1900px; box-sizing: border-box; background: var(--paper); color: var(--ink); font-family: var(--font-sans)">
+  <header class="hy-topnav">
+    <a class="hy-topnav__brand" href="SearchDesktop.dc.html">Hymnia</a>
+    <nav class="hy-topnav__links" aria-label="Navigation principale">
+      <a class="hy-topnav__link" href="SearchDesktop.dc.html">Recherche</a>
+      <a class="hy-topnav__link" href="Recueils.dc.html" aria-current="page">Recueils</a>
+      <a class="hy-topnav__link" href="Lists.dc.html">Répertoire</a>
+    </nav>
+    <a class="hb-icon-btn" href="Settings.dc.html" aria-label="Réglages"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"></path><circle cx="15" cy="7" r="2"></circle><circle cx="9" cy="17" r="2"></circle></svg></a>
+  </header>
+
+  <div style="max-width: 1200px; margin: 0 auto; padding: 32px 24px 64px; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 48px; box-sizing: border-box">
+    <nav aria-labelledby="book-title" style="flex: 1 1 240px; min-width: 0; max-width: 300px">
+      <h2 id="book-title" style="margin: 0; font-size: 15px; line-height: 22px; font-weight: 600; color: var(--ink)">Cantiques d’exemple</h2>
+      <p style="margin: 0 0 12px; font-size: 13px; line-height: 18px; color: var(--ink-muted)">CE · 10 chants</p>
+      <ol class="hb-list">
+        <sc-for list="{{book}}" as="r" hint-placeholder-count="10">
+          <li><a class="{{r.cls}}" href="ChantDesktop.dc.html" aria-current="{{r.current}}" style="padding-left: 8px; padding-right: 8px">
+            <span class="hb-item__num" style="font-size: 16px">{{r.num}}</span>
+            <span class="hb-item__text"><span style="font-size: 15px; line-height: 22px; color: var(--ink)">{{r.title}}</span></span>
+          </a></li>
+        </sc-for>
+      </ol>
+    </nav>
+
+    <main style="flex: 999 1 560px; min-width: 0">
+      <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 8px; margin-bottom: 32px">
+        <div class="hy-stepper" role="group" aria-label="Taille du texte">
+          <button type="button" aria-label="Réduire le texte" onClick="{{smaller}}" disabled="{{atMin}}" style="font-size: 15px">A</button>
+          <output aria-live="polite">{{scaleLabel}}</output>
+          <button type="button" aria-label="Agrandir le texte" onClick="{{bigger}}" disabled="{{atMax}}" style="font-size: 22px">A</button>
+        </div>
+        <button type="button" class="hb-btn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v16l-6-4-6 4z"></path></svg>Ajouter au répertoire</button>
+      </div>
+
+      <article class="hb-hymn" style="--lyric: {{lyricPx}}; margin: 0 auto">
+        <header class="hb-header">
+          <span class="hb-header__number">CE 1</span>
+          <h1 class="hb-header__title">À toi la gloire</h1>
+          <p class="hb-header__credit">Paroles&nbsp;: Edmond Budry · Musique&nbsp;: G. F. Haendel</p>
+        </header>
+
+        <sc-for list="{{blocks}}" as="b" hint-placeholder-count="6">
+          <sc-if value="{{b.isVerse}}" hint-placeholder-val="{{true}}">
+            <p class="hb-stanza"><span class="hb-stanza__num"><span class="hb-sr">Strophe </span>{{b.num}}</span><sc-for list="{{b.lines}}" as="line" hint-placeholder-count="8"><span class="hb-stanza__line">{{line}}</span></sc-for></p>
+          </sc-if>
+          <sc-if value="{{b.isRefrain}}" hint-placeholder-val="{{false}}">
+            <p class="hb-stanza hb-stanza--refrain"><span class="hb-stanza__label">Refrain</span><sc-for list="{{b.lines}}" as="line" hint-placeholder-count="4"><span class="hb-stanza__line">{{line}}</span></sc-for></p>
+          </sc-if>
+        </sc-for>
+
+        <footer class="hb-credits" style="font-size: 15px; line-height: 22px">
+          <p style="margin: 0">Paroles&nbsp;: Edmond Budry<br>Musique&nbsp;: Georg Friedrich Haendel</p>
+          <p style="margin: 8px 0 0">Source&nbsp;: Domaine public</p>
+        </footer>
+
+        <section aria-labelledby="also-title-d" style="margin-top: 32px; font-family: var(--font-sans); font-style: normal">
+          <h2 id="also-title-d" class="hy-overline">Aussi dans</h2>
+          <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px">
+            <a class="hy-ref" href="ChantDesktop.dc.html" aria-label="HE 7, Hymnes d’exemple">HE&nbsp;7 · Hymnes d’exemple</a>
+          </div>
+        </section>
+
+        <nav aria-label="Chants voisins" style="display: flex; justify-content: space-between; gap: 16px; margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); font-family: var(--font-sans); font-style: normal">
+          <button type="button" class="hy-nav-btn" disabled="" aria-disabled="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"></path></svg>Premier chant du recueil</button>
+          <a class="hy-nav-btn" href="ChantDesktop.dc.html"><span><span class="hy-nav-btn__ref">CE&nbsp;2</span> · C’est un rempart que notre Dieu</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"></path></svg></a>
+        </nav>
+      </article>
+    </main>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"theme":{"editor":"enum","options":["Jour","Soir"],"default":"Jour"},"$preview":{"width":1280,"height":1900}}'>
+class Component extends DCLogic {
+  constructor(props) {
+    super(props);
+    this.state = { step: 1, open: {} };
+  }
+  renderVals() {
+    var self = this;
+    var steps = [85, 100, 115, 130, 150, 175, 200];
+    var fr = function (s) { return s.replace(/ ([!?;:])/g, ' $1'); };
+    var refrain = ['À toi la gloire,', 'Ô Ressuscité !', 'À toi la victoire', 'Pour l’éternité !'].map(fr);
+    var verses = [
+      ['À toi la gloire,', 'Ô Ressuscité !', 'À toi la victoire', 'Pour l’éternité !', 'Brillant de lumière,', 'L’ange est descendu,', 'Il roule la pierre', 'Du tombeau vaincu.'],
+      ['Vois-le paraître :', 'C’est lui, c’est Jésus,', 'Ton Sauveur, ton Maître !', 'Oh ! ne doute plus !', 'Sois dans l’allégresse,', 'Peuple du Seigneur,', 'Et redis sans cesse', 'Que Christ est vainqueur !'],
+      ['Craindrais-je encore ?', 'Il vit à jamais,', 'Celui que j’adore,', 'Le Prince de paix ;', 'Il est ma victoire,', 'Mon puissant soutien,', 'Ma vie et ma gloire :', 'Non, je ne crains rien !']
+    ];
+    // Refrain printed once; printed again only where its words change.
+    var refrains = [refrain, refrain, refrain];
+    var blocks = [];
+    var shown = null;
+    verses.forEach(function (v, i) {
+      blocks.push({ isVerse: true, isRefrain: false, num: String(i + 1), lines: v.map(fr) });
+      var r = refrains[i];
+      if (r && r.join('\n') !== shown) {
+        blocks.push({ isVerse: false, isRefrain: true, lines: r });
+        shown = r.join('\n');
+      }
+    });
+    var CE = [['1', 'À toi la gloire'], ['2', 'C’est un rempart que notre Dieu'], ['3', 'Torrents d’amour et de grâce'], ['5', 'Plus près de toi, mon Dieu'], ['7', 'Quel ami fidèle et tendre'], ['8', 'Tel que je suis'], ['12', 'Debout, sainte cohorte'], ['12a', 'Que Dieu se montre seulement'], ['20', 'Il est né le divin Enfant'], ['23', 'Minuit, chrétiens']];
+    var pct = steps[this.state.step];
+    var theme = this.props.theme ?? 'Jour';
+    return {
+      themeClass: theme === 'Soir' ? 'hy-evening' : 'hy-day',
+      lyricPx: (20 * pct / 100) + 'px',
+      scaleLabel: pct + ' %',
+      atMin: this.state.step === 0,
+      atMax: this.state.step === steps.length - 1,
+      smaller: function () { self.setState(function (s) { return { step: Math.max(0, s.step - 1) }; }); },
+      bigger: function () { self.setState(function (s) { return { step: Math.min(steps.length - 1, s.step + 1) }; }); },
+      blocks: blocks,
+      book: CE.map(function (r) {
+        var cur = r[0] === '1';
+        return { num: r[0], title: r[1], current: cur ? 'page' : 'false', cls: cur ? 'hb-item__link is-current' : 'hb-item__link' };
+      })
+    };
+  }
+}
+</script>
+</body>
+</html>

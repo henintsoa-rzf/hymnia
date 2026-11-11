@@ -1,0 +1,422 @@
+[
+	{
+		"category": "hymnal-number",
+		"query": "CE 1",
+		"expect": "a-toi-la-gloire",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "ce1",
+		"expect": "a-toi-la-gloire",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "CE n°2",
+		"expect": "c-est-un-rempart-que-notre-dieu",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "ce 3",
+		"expect": "torrents-d-amour-et-de-grace",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "CE5",
+		"expect": "plus-pres-de-toi-mon-dieu",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "ce no 7",
+		"expect": "quel-ami-fidele-et-tendre",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "CE 8",
+		"expect": "tel-que-je-suis",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "ce #12",
+		"expect": "debout-sainte-cohorte",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "CE 12a",
+		"expect": "que-dieu-se-montre-seulement",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "ce 20",
+		"expect": "il-est-ne-le-divin-enfant",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "CE 23",
+		"expect": "minuit-chretiens",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "HE 1",
+		"expect": "quel-ami-fidele-et-tendre",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "he 2",
+		"expect": "plus-pres-de-toi-mon-dieu",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "HE 3",
+		"expect": "tel-que-je-suis",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "he 3 bis",
+		"expect": "que-dieu-se-montre-seulement",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "HE 7",
+		"expect": "a-toi-la-gloire",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "he12",
+		"expect": "les-anges-dans-nos-campagnes",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "HE 13",
+		"expect": "douce-nuit-sainte-nuit",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "Hymnes d’exemple 13",
+		"expect": "douce-nuit-sainte-nuit",
+		"rank": "first"
+	},
+	{
+		"category": "hymnal-number",
+		"query": "cantiques d exemple 23",
+		"expect": "minuit-chretiens",
+		"rank": "first"
+	},
+	{
+		"category": "number",
+		"query": "23",
+		"expect": "minuit-chretiens",
+		"rank": 3
+	},
+	{
+		"category": "number",
+		"query": "13",
+		"expect": "douce-nuit-sainte-nuit",
+		"rank": 3
+	},
+	{
+		"category": "number",
+		"query": "3 bis",
+		"expect": "que-dieu-se-montre-seulement",
+		"rank": 3
+	},
+	{
+		"category": "number",
+		"query": "12a",
+		"expect": "que-dieu-se-montre-seulement",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "À toi la gloire",
+		"expect": "a-toi-la-gloire",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "a toi la gloire",
+		"expect": "a-toi-la-gloire",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "c est un rempart",
+		"expect": "c-est-un-rempart-que-notre-dieu",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "torrents d amour",
+		"expect": "torrents-d-amour-et-de-grace",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "plus pres de toi",
+		"expect": "plus-pres-de-toi-mon-dieu",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "quel ami",
+		"expect": "quel-ami-fidele-et-tendre",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "tel que je suis",
+		"expect": "tel-que-je-suis",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "debout sainte cohorte",
+		"expect": "debout-sainte-cohorte",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "que dieu se montre",
+		"expect": "que-dieu-se-montre-seulement",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "il est ne le divin enfant",
+		"expect": "il-est-ne-le-divin-enfant",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "minuit chretiens",
+		"expect": "minuit-chretiens",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "les anges dans nos campagnes",
+		"expect": "les-anges-dans-nos-campagnes",
+		"rank": 3
+	},
+	{
+		"category": "title",
+		"query": "douce nuit",
+		"expect": "douce-nuit-sainte-nuit",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "l ange est descendu",
+		"expect": "a-toi-la-gloire",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "il roule la pierre",
+		"expect": "a-toi-la-gloire",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "peuple du seigneur",
+		"expect": "a-toi-la-gloire",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "une invincible armure",
+		"expect": "c-est-un-rempart-que-notre-dieu",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "l eternel detourne ses coups",
+		"expect": "c-est-un-rempart-que-notre-dieu",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "je m abandonne et je crois",
+		"expect": "torrents-d-amour-et-de-grace",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "agneau de dieu",
+		"expect": "torrents-d-amour-et-de-grace",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "soutiens ma foi",
+		"expect": "plus-pres-de-toi-mon-dieu",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "deborde comme un fleuve",
+		"expect": "plus-pres-de-toi-mon-dieu",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "nos chutes de chaque jour",
+		"expect": "quel-ami-fidele-et-tendre",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "riche en son amour",
+		"expect": "quel-ami-fidele-et-tendre",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "sinon ton sang verse pour moi",
+		"expect": "tel-que-je-suis",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "l etendard de la croix",
+		"expect": "debout-sainte-cohorte",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "de victoire en victoire",
+		"expect": "debout-sainte-cohorte",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "fuira devant sa face",
+		"expect": "que-dieu-se-montre-seulement",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "jouez hautbois resonnez musettes",
+		"expect": "il-est-ne-le-divin-enfant",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "quatre mille ans",
+		"expect": "il-est-ne-le-divin-enfant",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "voici le redempteur",
+		"expect": "minuit-chretiens",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "gloria in excelsis deo",
+		"expect": "les-anges-dans-nos-campagnes",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "l astre luit",
+		"expect": "douce-nuit-sainte-nuit",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "c est l amour infini",
+		"expect": "douce-nuit-sainte-nuit",
+		"rank": 3
+	},
+	{
+		"category": "lyrics",
+		"query": "l homme dieu descendit",
+		"expect": "minuit-chretiens",
+		"rank": 3
+	},
+	{
+		"category": "typo",
+		"query": "a toi la gloir",
+		"expect": "a-toi-la-gloire",
+		"rank": 3
+	},
+	{
+		"category": "typo",
+		"query": "resuscite",
+		"expect": "a-toi-la-gloire",
+		"rank": 3
+	},
+	{
+		"category": "typo",
+		"query": "etendart de la croix",
+		"expect": "debout-sainte-cohorte",
+		"rank": 3
+	},
+	{
+		"category": "typo",
+		"query": "invinsible armure",
+		"expect": "c-est-un-rempart-que-notre-dieu",
+		"rank": 3
+	},
+	{
+		"category": "typo",
+		"query": "je m abandonnne",
+		"expect": "torrents-d-amour-et-de-grace",
+		"rank": 3
+	},
+	{
+		"category": "typo",
+		"query": "hautboit musettes",
+		"expect": "il-est-ne-le-divin-enfant",
+		"rank": 3
+	},
+	{
+		"category": "typo",
+		"query": "redemteur",
+		"expect": "minuit-chretiens",
+		"rank": 3
+	},
+	{
+		"category": "typo",
+		"query": "chant mellodieux",
+		"expect": "les-anges-dans-nos-campagnes",
+		"rank": 3
+	},
+	{
+		"category": "typo",
+		"query": "defenseur victorieus",
+		"expect": "c-est-un-rempart-que-notre-dieu",
+		"rank": 3
+	},
+	{
+		"category": "long",
+		"query": "Craindrais-je encore ? Il vit à jamais, Celui que j’adore, Le Prince de paix ; Il est ma victoire, Mon puissant soutien, Ma vie et ma gloire : Non, je ne crains rien !",
+		"expect": "a-toi-la-gloire",
+		"rank": 3
+	},
+	{
+		"category": "long",
+		"query": "Tel que je suis, sans rien à moi, Sinon ton sang versé pour moi Et ta voix qui m’appelle à toi, Agneau de Dieu, je viens, je viens !",
+		"expect": "tel-que-je-suis",
+		"rank": 3
+	}
+]

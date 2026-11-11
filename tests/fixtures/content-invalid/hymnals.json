@@ -1,0 +1,4 @@
+[
+	{ "id": "aa", "name": "Recueil Alpha", "abbreviations": ["AA"], "sortOrder": 1 },
+	{ "id": "bb", "name": "Recueil Bêta", "abbreviations": ["BB", "Beta"], "sortOrder": 2 }
+]

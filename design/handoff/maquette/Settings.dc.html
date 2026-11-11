@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Hymnia · Réglages</title>
+<script src="./support.js"></script>
+<link rel="stylesheet" href="hymnia-app.css">
+<link rel="stylesheet" href="ds/hymnia/components/bundle.css">
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..700&amp;family=Instrument+Sans:wght@400..600&amp;display=swap">
+<style>body{margin:0}</style>
+</helmet>
+<div class="hy-app {{themeClass}}" style="width: 390px; height: 844px; box-sizing: border-box; display: flex; flex-direction: column; overflow: hidden; background: var(--paper); color: var(--ink); font-family: var(--font-sans)">
+  <header style="display: flex; align-items: center; gap: 4px; padding: 8px 8px 0">
+    <a class="hb-icon-btn" href="Main.dc.html" aria-label="Retour à la recherche"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"></path></svg></a>
+    <span style="font-size: 14px; line-height: 20px; font-weight: 500; color: var(--ink-muted)">Recherche</span>
+  </header>
+
+  <main style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 4px 16px 32px; display: flex; flex-direction: column; gap: 32px">
+    <h1 class="hy-screen-title">Réglages</h1>
+
+    <section aria-labelledby="theme-title" style="display: flex; flex-direction: column; gap: 12px">
+      <h2 id="theme-title" class="hy-overline">Thème</h2>
+      <div class="hy-seg" role="group" aria-labelledby="theme-title">
+        <sc-for list="{{themes}}" as="t" hint-placeholder-count="3">
+          <button type="button" aria-pressed="{{t.pressed}}" onClick="{{t.pick}}">{{t.label}}</button>
+        </sc-for>
+      </div>
+      <p style="margin: 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">{{themeHelp}}</p>
+    </section>
+
+    <section aria-labelledby="size-title" style="display: flex; flex-direction: column; gap: 12px">
+      <h2 id="size-title" class="hy-overline">Taille du texte</h2>
+      <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px">
+        <span style="font-size: 16px; line-height: 24px; color: var(--ink)">Paroles</span>
+        <div class="hy-stepper" role="group" aria-labelledby="size-title">
+          <button type="button" aria-label="Réduire le texte" onClick="{{smaller}}" disabled="{{atMin}}" style="font-size: 15px">A</button>
+          <output aria-live="polite">{{scaleLabel}}</output>
+          <button type="button" aria-label="Agrandir le texte" onClick="{{bigger}}" disabled="{{atMax}}" style="font-size: 22px">A</button>
+        </div>
+      </div>
+      <div aria-label="Aperçu" role="group" style="padding: 16px; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--paper-raised); overflow: hidden">
+        <p class="hy-overline" style="margin-bottom: 12px">Aperçu</p>
+        <div class="hb-hymn" style="--lyric: {{lyricPx}}">
+          <p class="hb-stanza" style="margin-bottom: 0"><span class="hb-stanza__num">1</span><span class="hb-stanza__line">À toi la gloire,</span><span class="hb-stanza__line">Ô Ressuscité&nbsp;!</span><span class="hb-stanza__line">À toi la victoire</span><span class="hb-stanza__line">Pour l’éternité&nbsp;!</span></p>
+        </div>
+      </div>
+      <p style="margin: 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">S’applique à tous les chants. Vous pouvez aussi la changer pendant la lecture.</p>
+    </section>
+  </main>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"theme":{"editor":"enum","options":["Jour","Soir"],"default":"Jour"},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  constructor(props) {
+    super(props);
+    this.state = { mode: 'system', step: 1 };
+  }
+  renderVals() {
+    var self = this;
+    var steps = [85, 100, 115, 130, 150, 175, 200];
+    var systemDark = (this.props.theme ?? 'Jour') === 'Soir';
+    var mode = this.state.mode;
+    var dark = mode === 'dark' || (mode === 'system' && systemDark);
+    var opts = [['system', 'Système'], ['light', 'Clair'], ['dark', 'Sombre']];
+    var pct = steps[this.state.step];
+    return {
+      themeClass: dark ? 'hy-evening' : 'hy-day',
+      themes: opts.map(function (o) {
+        return { label: o[1], pressed: o[0] === mode ? 'true' : 'false', pick: function () { self.setState({ mode: o[0] }); } };
+      }),
+      themeHelp: mode === 'system' ? 'Suit le réglage clair ou sombre de votre appareil.' : mode === 'light' ? 'Toujours clair.' : 'Toujours sombre, pour les salles peu éclairées.',
+      scaleLabel: pct + ' %',
+      lyricPx: (20 * pct / 100) + 'px',
+      atMin: this.state.step === 0,
+      atMax: this.state.step === steps.length - 1,
+      smaller: function () { self.setState(function (s) { return { step: Math.max(0, s.step - 1) }; }); },
+      bigger: function () { self.setState(function (s) { return { step: Math.min(steps.length - 1, s.step + 1) }; }); }
+    };
+  }
+}
+</script>
+</body>
+</html>

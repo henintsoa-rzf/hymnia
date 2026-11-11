@@ -1,0 +1,10 @@
+{
+	"id": "autre-id",
+	"title": "Id différent du nom de fichier",
+	"entries": [{ "hymnal": "aa", "number": "5" }],
+	"sections": [{ "type": "verse", "number": 1, "lines": ["Texte"] }],
+	"credits": [],
+	"source": { "name": "Fixture", "url": null, "retrievedAt": "2026-11-11" },
+	"rights": "confirmed",
+	"corrections": []
+}

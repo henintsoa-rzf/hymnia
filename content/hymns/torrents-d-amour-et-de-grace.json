@@ -1,0 +1,45 @@
+{
+	"id": "torrents-d-amour-et-de-grace",
+	"title": "Torrents d’amour et de grâce",
+	"entries": [
+		{
+			"hymnal": "ce",
+			"number": "3"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Torrents d’amour et de grâce,",
+				"Amour du Sauveur en croix !",
+				"À ce grand fleuve qui passe",
+				"Je m’abandonne et je crois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je crois à ton sacrifice,",
+				"Ô Jésus, Agneau de Dieu,",
+				"Et, couvert par ta justice,",
+				"J’entrerai dans le saint lieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

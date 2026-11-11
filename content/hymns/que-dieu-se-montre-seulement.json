@@ -1,0 +1,45 @@
+{
+	"id": "que-dieu-se-montre-seulement",
+	"title": "Que Dieu se montre seulement",
+	"entries": [
+		{
+			"hymnal": "ce",
+			"number": "12a"
+		},
+		{
+			"hymnal": "he",
+			"number": "3 bis"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que Dieu se montre seulement,",
+				"Et l’on verra dans un moment",
+				"Abandonner la place ;",
+				"Le camp des ennemis épars,",
+				"Épouvanté de toutes parts,",
+				"Fuira devant sa face."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Théodore de Bèze",
+			"role": "lyrics"
+		},
+		{
+			"name": "Matthäus Greiter",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

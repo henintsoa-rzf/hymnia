@@ -1,0 +1,40 @@
+{
+	"id": "il-est-ne-le-divin-enfant",
+	"title": "Il est né le divin Enfant",
+	"entries": [
+		{
+			"hymnal": "ce",
+			"number": "20"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est né le divin Enfant,",
+				"Jouez hautbois, résonnez musettes !",
+				"Il est né le divin Enfant,",
+				"Chantons tous son avènement !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Depuis plus de quatre mille ans",
+				"Nous le promettaient les prophètes,",
+				"Depuis plus de quatre mille ans",
+				"Nous attendions cet heureux temps."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

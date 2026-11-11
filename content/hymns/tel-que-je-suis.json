@@ -1,0 +1,43 @@
+{
+	"id": "tel-que-je-suis",
+	"title": "Tel que je suis",
+	"entries": [
+		{
+			"hymnal": "ce",
+			"number": "8"
+		},
+		{
+			"hymnal": "he",
+			"number": "3"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tel que je suis, sans rien à moi,",
+				"Sinon ton sang versé pour moi",
+				"Et ta voix qui m’appelle à toi,",
+				"Agneau de Dieu, je viens, je viens !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charlotte Elliott",
+			"role": "lyrics"
+		},
+		{
+			"name": "William B. Bradbury",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

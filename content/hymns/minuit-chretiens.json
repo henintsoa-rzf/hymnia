@@ -1,0 +1,48 @@
+{
+	"id": "minuit-chretiens",
+	"title": "Minuit, chrétiens",
+	"entries": [
+		{
+			"hymnal": "ce",
+			"number": "23"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Minuit, chrétiens, c’est l’heure solennelle",
+				"Où l’Homme-Dieu descendit jusqu’à nous",
+				"Pour effacer la tache originelle",
+				"Et de son Père arrêter le courroux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuple, à genoux, attends ta délivrance.",
+				"Noël ! Noël ! Voici le Rédempteur !",
+				"Noël ! Noël ! Voici le Rédempteur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Placide Cappeau",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adolphe Adam",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

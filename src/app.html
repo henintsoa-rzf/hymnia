@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+		<meta
+			name="description"
+			content="Recueil de chants et hymnes chrétiens : recherche par numéro, titre ou paroles."
+		/>
+		<meta name="theme-color" content="#faf8f4" media="(prefers-color-scheme: light)" />
+		<meta name="theme-color" content="#141311" media="(prefers-color-scheme: dark)" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-title" content="Hymnia" />
+		<link
+			rel="icon"
+			href="%sveltekit.assets%/icons/favicon-32.png"
+			sizes="32x32"
+			type="image/png"
+		/>
+		<link rel="apple-touch-icon" href="%sveltekit.assets%/icons/apple-touch-icon-180.png" />
+		<title>Hymnia</title>
+		<script>
+			// Apply the chosen theme before the first paint (no flash of the wrong theme).
+			try {
+				const theme = JSON.parse(localStorage.getItem('hymnia.prefs') || '{}').theme;
+				if (theme === 'light' || theme === 'dark') document.documentElement.dataset.theme = theme;
+			} catch {
+				// Storage unavailable: follow the system setting.
+			}
+		</script>
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>

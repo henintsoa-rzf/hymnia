@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Hymnia · Recherche (ordinateur)</title>
+<script src="./support.js"></script>
+<link rel="stylesheet" href="hymnia-app.css">
+<link rel="stylesheet" href="ds/hymnia/components/bundle.css">
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..700&amp;family=Instrument+Sans:wght@400..600&amp;display=swap">
+<style>body{margin:0}</style>
+</helmet>
+<div class="hy-app {{themeClass}}" style="min-height: 900px; box-sizing: border-box; background: var(--paper); color: var(--ink); font-family: var(--font-sans)">
+  <header class="hy-topnav">
+    <a class="hy-topnav__brand" href="SearchDesktop.dc.html">Hymnia</a>
+    <nav class="hy-topnav__links" aria-label="Navigation principale">
+      <a class="hy-topnav__link" href="SearchDesktop.dc.html" aria-current="page">Recherche</a>
+      <a class="hy-topnav__link" href="Recueils.dc.html">Recueils</a>
+      <a class="hy-topnav__link" href="Lists.dc.html">Répertoire</a>
+    </nav>
+    <a class="hb-icon-btn" href="Settings.dc.html" aria-label="Réglages"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"></path><circle cx="15" cy="7" r="2"></circle><circle cx="9" cy="17" r="2"></circle></svg></a>
+  </header>
+
+  <div style="max-width: 1120px; margin: 0 auto; padding: 48px 24px 64px; display: flex; flex-wrap: wrap; gap: 48px; box-sizing: border-box">
+    <main style="flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 16px">
+      <h1 class="hy-screen-title" style="font-size: 28px; line-height: 36px">Recherche</h1>
+      <div class="hy-seg" role="group" aria-label="Type de recherche" style="max-width: 420px">
+        <button type="button" aria-pressed="true">Numéro et paroles</button>
+        <button type="button" aria-pressed="false">Par le sens</button>
+      </div>
+      <label class="hb-search hy-focus" style="min-height: 56px">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
+        <input type="search" aria-label="Rechercher un chant" placeholder="Numéro, titre ou paroles" autocomplete="off" value="{{query}}" onChange="{{onInput}}" style="height: 56px; font-size: 18px">
+        <button type="button" class="hb-icon-btn" aria-label="Effacer la recherche" onClick="{{clear}}" style="margin-right: -12px; color: var(--ink-muted)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"></path></svg></button>
+      </label>
+      <div role="group" aria-label="Filtrer par recueil" style="display: flex; flex-wrap: wrap; gap: 8px">
+        <button type="button" class="hb-chip" aria-pressed="false">Cantiques d’exemple</button>
+        <button type="button" class="hb-chip" aria-pressed="false">Hymnes d’exemple</button>
+      </div>
+
+      <section aria-labelledby="results-title">
+        <h2 id="results-title" class="hb-overline">2 chants</h2>
+        <ul class="hb-list">
+          <li><a class="hy-result" href="ChantDesktop.dc.html">
+            <span class="hy-result__head"><span class="hy-result__title">Torrents d’amour et de grâce</span><span class="hy-result__refs"><span class="hy-ref">CE&nbsp;3</span></span></span>
+            <span class="hy-result__excerpt">«&nbsp;À ce grand <mark>fleuve</mark> qui passe&nbsp;»</span>
+          </a></li>
+          <li><a class="hy-result" href="ChantDesktop.dc.html">
+            <span class="hy-result__head"><span class="hy-result__title">Plus près de toi, mon Dieu</span><span class="hy-result__refs"><span class="hy-ref">CE&nbsp;5</span><span class="hy-ref">HE&nbsp;2</span></span></span>
+            <span class="hy-result__excerpt">«&nbsp;Déborde comme un <mark>fleuve</mark>&nbsp;»</span>
+          </a></li>
+        </ul>
+      </section>
+    </main>
+
+    <aside aria-labelledby="books-title" style="flex: 1 1 260px; min-width: 0">
+      <h2 id="books-title" class="hb-overline" style="margin-top: 52px">Recueils</h2>
+      <ul class="hb-list">
+        <li><a class="hy-row" href="Recueil.dc.html">
+          <span class="hy-tile" aria-hidden="true">CE</span>
+          <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column">
+            <span style="font-size: 16px; line-height: 22px; font-weight: 500; color: var(--ink)">Cantiques d’exemple</span>
+            <span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">10 chants</span>
+          </span>
+        </a></li>
+        <li><a class="hy-row" href="Recueil.dc.html">
+          <span class="hy-tile" aria-hidden="true">HE</span>
+          <span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column">
+            <span style="font-size: 16px; line-height: 22px; font-weight: 500; color: var(--ink)">Hymnes d’exemple</span>
+            <span style="font-size: 13px; line-height: 18px; color: var(--ink-muted)">7 chants</span>
+          </span>
+        </a></li>
+      </ul>
+      <p style="margin: 24px 0 0; font-size: 13px; line-height: 18px; color: var(--ink-muted)">Au clavier&nbsp;: <kbd style="font-family: var(--font-sans); padding: 1px 6px; border: 1px solid var(--line-strong); border-radius: 4px; color: var(--ink)">/</kbd> place le curseur dans la recherche, <kbd style="font-family: var(--font-sans); padding: 1px 6px; border: 1px solid var(--line-strong); border-radius: 4px; color: var(--ink)">Entrée</kbd> ouvre le premier résultat.</p>
+    </aside>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"theme":{"editor":"enum","options":["Jour","Soir"],"default":"Jour"},"$preview":{"width":1280,"height":900}}'>
+class Component extends DCLogic {
+  constructor(props) {
+    super(props);
+    this.state = { query: 'fleuve' };
+  }
+  renderVals() {
+    var self = this;
+    var theme = this.props.theme ?? 'Jour';
+    return {
+      themeClass: theme === 'Soir' ? 'hy-evening' : 'hy-day',
+      query: this.state.query,
+      onInput: function (e) { self.setState({ query: e.target.value }); },
+      clear: function () { self.setState({ query: '' }); }
+    };
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+	"id": "deuxieme-chant",
+	"title": "Deuxième chant",
+	"entries": [{ "hymnal": "aa", "number": "2a" }],
+	"sections": [{ "type": "verse", "number": 1, "lines": ["Mon cœur est en paix"] }],
+	"credits": [],
+	"source": { "name": "Fixture", "url": "https://example.org/2", "retrievedAt": "2026-11-11" },
+	"rights": "confirmed",
+	"corrections": [{ "date": "2026-11-11", "description": "Coquille corrigée" }]
+}

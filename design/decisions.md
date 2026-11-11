@@ -375,3 +375,21 @@ Ce qui a été fait différemment de la maquette, ou ajouté là où elle ne dis
 - **Icônes** : générées par `scripts/make-icons.ts` dans `static/icons/`.
 - Les captures PNG de la maquette (§12) n’ont pas été exportées dans `design/handoff/` ; les
   sources `*.dc.html` ont servi de référence.
+
+## 18. Collections du Répertoire (feature 003, 2026-11-11)
+
+Le Répertoire n’est plus une liste unique (D1) : il contient des **collections** nommées
+(spec `specs/003-repertoire-collections/`). Écrans construits d’après les plans `Lists` et
+`Playlist` du canevas, avec ces écarts :
+
+- « Nouvelle collection » au lieu de « Nouvelle liste » ; pas de liste spéciale « Favoris » :
+  toutes les collections sont ordinaires.
+- Pas de « Partager » ni de note par chant (« Ouverture ») : hors périmètre de la feature 003.
+- Le signet d’un chant ouvre une feuille « Ajouter à une collection » (classes `hy-sheet`,
+  `hy-handle` de la maquette), une case par collection, et « Nouvelle collection ».
+- Ajout depuis une collection : écran « Ajouter des chants » avec la recherche habituelle et un
+  bouton + / ✓ par chant.
+- Ordre : mode « Modifier l’ordre » avec boutons Monter / Descendre (pas de glisser-déposer).
+- Lecture d’une collection : « Lire dans l’ordre » ; l’en-tête du chant affiche
+  « Culte · 2 / 5 » et précédent / suivant suivent la collection.
+- La liste unique de la feature 001 n’est pas reprise (décision du 2026-11-11).

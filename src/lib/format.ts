@@ -37,6 +37,11 @@ export function hymnUrl(hymnal: string, number: string) {
 	});
 }
 
+/** The same hymn, read in a collection's order (feature 003): `?collection=<id>`. */
+export function hymnInCollectionUrl(hymnal: string, number: string, collection: string): string {
+	return `${hymnUrl(hymnal, number)}?collection=${encodeURIComponent(collection)}`;
+}
+
 export function hymnalUrl(hymnal: string) {
 	return resolve('/recueils/[recueil]', { recueil: hymnal });
 }

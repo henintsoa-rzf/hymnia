@@ -1,7 +1,18 @@
 <!-- Line icons from the design (24 × 24, stroke 1.5). Decorative: always aria-hidden. -->
 <script lang="ts" module>
 	export type IconName =
-		'search' | 'book' | 'bookmark' | 'settings' | 'back' | 'forward' | 'close' | 'check';
+		| 'search'
+		| 'book'
+		| 'bookmark'
+		| 'settings'
+		| 'back'
+		| 'forward'
+		| 'close'
+		| 'check'
+		| 'plus'
+		| 'more'
+		| 'up'
+		| 'down';
 </script>
 
 <script lang="ts">
@@ -30,6 +41,18 @@
 		<path d="M7 7l10 10M17 7L7 17" />
 	{:else if name === 'check'}
 		<path d="M5 12.5l4.5 4.5L19 7" />
+	{:else if name === 'plus'}
+		<path d="M12 5v14M5 12h14" />
+	{:else if name === 'more'}
+		<circle cx="5" cy="12" r="1.25" /><circle cx="12" cy="12" r="1.25" /><circle
+			cx="19"
+			cy="12"
+			r="1.25"
+		/>
+	{:else if name === 'up'}
+		<path d="M6 15l6-6 6 6" />
+	{:else if name === 'down'}
+		<path d="M6 9l6 6 6-6" />
 	{/if}
 </svg>
 

@@ -7,6 +7,8 @@
 	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
 	import Icon from '$lib/components/Icon.svelte';
+	import StorageNotice from '$lib/components/StorageNotice.svelte';
+	import UndoToast from '$lib/components/UndoToast.svelte';
 	import UpdatePrompt from '$lib/components/UpdatePrompt.svelte';
 	import { prefs } from '$lib/prefs/prefs';
 
@@ -33,11 +35,13 @@
 	const section = $derived(
 		routeId === '/'
 			? 'search'
-			: routeId.startsWith('/recueils')
+			: routeId.startsWith('/recueils') && !page.url.searchParams.has('collection')
 				? 'hymnals'
-				: routeId.startsWith('/repertoire')
+				: routeId.startsWith('/recueils')
 					? 'repertoire'
-					: null
+					: routeId.startsWith('/repertoire')
+						? 'repertoire'
+						: null
 	);
 	// The hymn screen has its own reading bar instead of the tab bar (decisions §3).
 	const reading = $derived(routeId === '/recueils/[recueil]/[numero]');
@@ -85,6 +89,8 @@
 {/if}
 
 <UpdatePrompt />
+<UndoToast />
+<StorageNotice />
 
 <style>
 	.app-main {

@@ -5,6 +5,7 @@
 -->
 <script lang="ts">
 	import { resolve } from '$app/paths';
+	import type { Snippet } from 'svelte';
 	import type { PublishedHymnal } from '$lib/domain/schema';
 	import { frenchSpaces, hymnalUrl, hymnCountLabel, hymnUrl, refLabel } from '$lib/format';
 	import type { Excerpt, SearchResponse, SearchResult } from '$lib/search/types';
@@ -16,12 +17,15 @@
 		response,
 		hymnals,
 		filterActive = false,
-		onclearfilter
+		onclearfilter,
+		action
 	}: {
 		response: SearchResponse;
 		hymnals: Map<string, PublishedHymnal>;
 		filterActive?: boolean;
 		onclearfilter?: () => void;
+		/** Optional control shown beside each hymn (feature 003: add to a collection). */
+		action?: Snippet<[SearchResult]>;
 	} = $props();
 
 	const abbr = (id: string) => hymnals.get(id)?.abbreviations[0] ?? id.toUpperCase();
@@ -55,7 +59,7 @@
 </script>
 
 {#snippet numberRow(result: SearchResult)}
-	<li>
+	<li class:with-action={action}>
 		<a class="hy-result" href={hymnUrl(result.primaryRef.hymnal, result.primaryRef.number)}>
 			<span class="hy-result__head">
 				<span class="hy-result__title">{frenchSpaces(result.title)}</span>
@@ -68,6 +72,7 @@
 			</span>
 			<span class="hy-result__meta">{nameOf(result.primaryRef.hymnal)}</span>
 		</a>
+		{@render action?.(result)}
 	</li>
 {/snippet}
 
@@ -81,14 +86,17 @@
 
 {#if response.kind === 'hymnal-number'}
 	{#if exact}
-		<a class="hy-exact exact" href={hymnUrl(exact.primaryRef.hymnal, exact.primaryRef.number)}>
-			<span class="hy-exact__ref"
-				>{refLabel(abbr(exact.primaryRef.hymnal), exact.primaryRef.number)}</span
-			>
-			<span class="hy-exact__title">{frenchSpaces(exact.title)}</span>
-			<span class="hy-exact__book">{nameOf(exact.primaryRef.hymnal)}</span>
-			<Icon name="forward" />
-		</a>
+		<div class="exact" class:with-action={action}>
+			<a class="hy-exact" href={hymnUrl(exact.primaryRef.hymnal, exact.primaryRef.number)}>
+				<span class="hy-exact__ref"
+					>{refLabel(abbr(exact.primaryRef.hymnal), exact.primaryRef.number)}</span
+				>
+				<span class="hy-exact__title">{frenchSpaces(exact.title)}</span>
+				<span class="hy-exact__book">{nameOf(exact.primaryRef.hymnal)}</span>
+				<Icon name="forward" />
+			</a>
+			{@render action?.(exact)}
+		</div>
 		{#if response.sameNumber?.length}
 			<h2 class="hb-overline">Autres chants n°&nbsp;{number}</h2>
 			<ul class="hb-list">
@@ -132,7 +140,7 @@
 		<h2 class="hb-overline">{countTitle}</h2>
 		<ul class="hb-list">
 			{#each response.results as result (result.hymnId)}
-				<li>
+				<li class:with-action={action}>
 					<a class="hy-result" href={hymnUrl(result.primaryRef.hymnal, result.primaryRef.number)}>
 						<span class="hy-result__head">
 							<span class="hy-result__title">{frenchSpaces(result.title)}</span>
@@ -150,6 +158,7 @@
 							>
 						{/if}
 					</a>
+					{@render action?.(result)}
 				</li>
 			{/each}
 		</ul>
@@ -174,5 +183,24 @@
 <style>
 	.exact {
 		margin-top: var(--space-2);
+	}
+
+	.with-action {
+		display: flex;
+		align-items: center;
+		gap: var(--space-2);
+	}
+
+	li.with-action {
+		border-bottom: 1px solid var(--line);
+	}
+
+	.with-action > :global(a) {
+		flex: 1;
+		min-width: 0;
+	}
+
+	li.with-action > :global(.hy-result) {
+		border-bottom: 0;
 	}
 </style>

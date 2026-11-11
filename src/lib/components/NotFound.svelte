@@ -10,12 +10,15 @@
 		reference,
 		title = 'Chant introuvable',
 		text,
-		hymnal
+		hymnal,
+		back
 	}: {
 		reference?: string;
 		title?: string;
 		text: string;
 		hymnal?: { id: string; name: string };
+		/** Main action; defaults to "Retour à la recherche". */
+		back?: { href: string; label: string };
 	} = $props();
 </script>
 
@@ -26,7 +29,10 @@
 	<h1 class="hy-screen-title">{title}</h1>
 	<p class="not-found__text">{text}</p>
 	<div class="not-found__actions">
-		<a class="hb-btn hb-btn--primary" href={resolve('/')}>Retour à la recherche</a>
+		<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- `back.href` is resolved by the caller -->
+		<a class="hb-btn hb-btn--primary" href={back?.href ?? resolve('/')}
+			>{back?.label ?? 'Retour à la recherche'}</a
+		>
 		{#if hymnal}
 			<a class="hb-btn hb-btn--quiet not-found__secondary" href={hymnalUrl(hymnal.id)}>
 				Voir les chants de {hymnal.name}

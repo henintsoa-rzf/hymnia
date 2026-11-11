@@ -10,7 +10,7 @@ must stay stable once published.
 | `/recueils` | Hymnals | All hymnals with name and hymn count. | US3, FR-011 |
 | `/recueils/<hymnal-id>` | Hymnal | Hymns in number order with a "go to number" field. | US3, FR-012 |
 | `/recueils/<hymnal-id>/<number>` | Hymn | Lyrics, credits, source, other references, next/previous. | US4, FR-013–016 |
-| `/repertoire` | Répertoire | Hymns bookmarked on this device (design decision D1; favourites and lists come in a later feature). | — |
+| `/repertoire` | Répertoire | The user's collections. Defined by feature 003: see [003 contracts/ui.md](../../003-repertoire-collections/contracts/ui.md). | 003 |
 | `/reglages` | Settings | Text size and theme. Text size can also be changed from the hymn screen. | FR-015, FR-017 |
 
 ## Rules

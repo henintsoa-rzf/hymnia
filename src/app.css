@@ -976,3 +976,114 @@ mark {
 		scroll-behavior: smooth;
 	}
 }
+
+/* ---------- Sheets, dialogs, toasts (feature 003; design: hy-sheet, hy-handle, hy-scrim) ---------- */
+
+:root {
+	--scrim: rgba(30, 28, 25, 0.36);
+}
+
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme='light']) {
+		--scrim: rgba(0, 0, 0, 0.6);
+	}
+}
+
+:root[data-theme='dark'] {
+	--scrim: rgba(0, 0, 0, 0.6);
+}
+
+dialog.hy-dialog,
+dialog.hy-sheet {
+	box-sizing: border-box;
+	width: 100%;
+	max-width: 100%;
+	max-height: 85dvh;
+	margin: auto auto 0;
+	padding: 0 var(--space-4) calc(var(--space-4) + env(safe-area-inset-bottom));
+	border: 0;
+	border-radius: var(--radius-md) var(--radius-md) 0 0;
+	background: var(--paper-raised);
+	color: var(--ink);
+	box-shadow: var(--shadow-float);
+	overflow-y: auto;
+}
+
+dialog.hy-dialog::backdrop,
+dialog.hy-sheet::backdrop {
+	background: var(--scrim);
+}
+
+@media (min-width: 640px) {
+	dialog.hy-dialog,
+	dialog.hy-sheet {
+		max-width: 28rem;
+		margin: auto;
+		padding-bottom: var(--space-4);
+		border-radius: var(--radius-md);
+	}
+}
+
+.hy-handle {
+	width: 36px;
+	height: 4px;
+	margin: 8px auto 0;
+	border-radius: 2px;
+	background: var(--line-strong);
+}
+
+.hy-dialog__title {
+	margin: var(--space-4) 0 var(--space-3);
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 600;
+}
+
+.hy-dialog__text {
+	margin: 0 0 var(--space-4);
+	font-size: 15px;
+	line-height: 22px;
+	color: var(--ink-muted);
+}
+
+.hy-dialog__actions {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+	gap: var(--space-2);
+	margin-top: var(--space-4);
+}
+
+.hy-field-error {
+	margin: var(--space-1) 0 0;
+	font-size: 14px;
+	line-height: 20px;
+	color: var(--rubric);
+}
+
+.hy-toast {
+	position: fixed;
+	z-index: 30;
+	left: var(--space-4);
+	right: var(--space-4);
+	bottom: calc(var(--tabbar-height) + env(safe-area-inset-bottom) + var(--space-3));
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: var(--space-3);
+	max-width: 36em;
+	margin: 0 auto;
+	padding: var(--space-2) var(--space-2) var(--space-2) var(--space-4);
+	border: 1px solid var(--line);
+	border-radius: var(--radius-md);
+	background: var(--paper-raised);
+	box-shadow: var(--shadow-float);
+	font-size: 15px;
+	line-height: 22px;
+}
+
+@media (min-width: 1024px) {
+	.hy-toast {
+		bottom: var(--space-6);
+	}
+}

@@ -12,7 +12,7 @@
 	<section class="other-refs" aria-labelledby="other-refs-title">
 		<h2 id="other-refs-title" class="hy-overline">Aussi dans</h2>
 		<ul class="hb-list">
-			{#each entries as entry (entry.hymnal)}
+			{#each entries as entry (`${entry.hymnal} ${entry.number}`)}
 				{@const hymnal = hymnals.get(entry.hymnal)}
 				<li>
 					<a class="hy-row other-refs__row" href={hymnUrl(entry.hymnal, entry.number)}>

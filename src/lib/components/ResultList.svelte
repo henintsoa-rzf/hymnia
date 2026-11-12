@@ -145,7 +145,7 @@
 						<span class="hy-result__head">
 							<span class="hy-result__title">{frenchSpaces(result.title)}</span>
 							<span class="hy-result__refs">
-								{#each result.refs as ref (ref.hymnal)}
+								{#each result.refs as ref (`${ref.hymnal} ${ref.number}`)}
 									<HymnRef abbreviation={ref.hymnalAbbr} number={ref.number} />
 								{/each}
 							</span>

@@ -1,0 +1,87 @@
+{
+	"id": "mon-ame-eveille-toi",
+	"title": "Mon âme éveille-toi",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "3"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pas à nous, à toi soit la gloire",
+				"Devant toi, rien ne se compare",
+				"Tes promesses toujours sont fidèles",
+				"Ta louange sera éternelle"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Si tu m’as touché, c’est pour briller",
+				"Mène jusqu’au ciel, l’œuvre commen cée"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu m’as trouvé dans mon péché",
+				"Tu m’as aimé, oui le premier",
+				"Moi, indigne, tu m’as couronné",
+				"De l’empreinte de ta majesté"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon âme éveille-toi",
+				"Tu es dans les mains du grand Roi",
+				"Il te façonnera en hymne de victoire",
+				"Mon âme émerveille-toi",
+				"Le créateur est avec toi",
+				"Il te transformera à l’image de sa gloire"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toutes tes œuvres sont belles en ton temps",
+				"Quelle joie, d’entrer dans ton plan",
+				"A jamais, ta main renouvelle",
+				"Au plus loin, ta grâce nous emmène"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu nous as touché, c’est pour briller",
+				"Que ton Église soit ta fierté"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/ame-eveille-toi-philippe-viguier/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

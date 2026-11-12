@@ -55,5 +55,14 @@
 			"Psalmodie"
 		],
 		"sortOrder": 9
+	},
+	{
+		"id": "evangile21",
+		"name": "Evangile21",
+		"abbreviations": [
+			"Evangile21",
+			"E21"
+		],
+		"sortOrder": 10
 	}
 ]

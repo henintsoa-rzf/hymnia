@@ -1,0 +1,75 @@
+{
+	"id": "la-voix-du-seigneur-m-appelle-evangile21-12",
+	"title": "La voix du Seigneur m’appelle",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "12"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La voix du Seigneur m’appelle",
+				"Prends ta croix et viens suis-moi",
+				"Je réponds : Sauveur fidèle",
+				"Me voici je suis à toi",
+				"Jusqu’au bout je veux te suivre",
+				"Dans les bons les mauvais jours",
+				"À toi pour mourir et vivre",
+				"À toi Jésus pour toujours"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il faut quitter ceux qu’on aime",
+				"Savoir être mal jugé",
+				"Endurer l’injure même",
+				"Du monde être méprisé",
+				"Jusqu’au bout je veux te suivre",
+				"Dans les bons les mauvais jours",
+				"À toi pour mourir et vivre",
+				"À toi Jésus pour toujours"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus donne grâce et gloire",
+				"Pour le suivre pas à pas",
+				"Avec lui joie et victoire",
+				"Paix et bonheur ici-bas",
+				"Jusqu’au bout je veux te suivre",
+				"Dans les bons les mauvais jours",
+				"À toi pour mourir et vivre",
+				"À toi Jésus pour toujours"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "A. Humbert",
+			"role": "music"
+		},
+		{
+			"name": "R.K. Carter",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "arrangement"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/voix-seigneur-mappelle/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

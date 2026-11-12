@@ -56,7 +56,13 @@ export class FetchError extends Error {
 }
 
 const sha1 = (text: string) => createHash('sha1').update(text).digest('hex');
-const sha256 = (text: string) => createHash('sha256').update(text).digest('hex');
+
+/** Where the fetcher keeps a page and its metadata in a source's cache folder. */
+export const cachePaths = (cacheDir: string, url: string) => ({
+	page: join(cacheDir, `${sha1(url)}.html`),
+	meta: join(cacheDir, `${sha1(url)}.meta.json`)
+});
+export const sha256 = (text: string) => createHash('sha256').update(text).digest('hex');
 
 /** The URL as sent to the server: the fragment ("#…") is never part of the request. */
 export function pageUrl(url: string): string {
@@ -94,8 +100,8 @@ export function createFetcher(options: FetcherOptions) {
 	const lastRequestAt = new Map<string, number>();
 	const delayFor = new Map<string, number>();
 
-	const pagePath = (url: string) => join(cacheDir, `${sha1(url)}.html`);
-	const metaPath = (url: string) => join(cacheDir, `${sha1(url)}.meta.json`);
+	const pagePath = (url: string) => cachePaths(cacheDir, url).page;
+	const metaPath = (url: string) => cachePaths(cacheDir, url).meta;
 
 	async function readCache(url: string): Promise<{ body: string; meta: CachedMeta } | undefined> {
 		try {

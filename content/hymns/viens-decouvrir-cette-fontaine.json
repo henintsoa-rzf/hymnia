@@ -1,0 +1,99 @@
+{
+	"id": "viens-decouvrir-cette-fontaine",
+	"title": "Viens découvrir cette fontaine",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "20"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens découvrir cette fontaine",
+				"Du sang d’Emmanuel",
+				"Sous ses flots, plonge corps et chaines",
+				"Pour une vie nouvelle",
+				"Pour une vie nouvelle",
+				"Pour une vie nouvelle",
+				"Sous ses flots, plonge corps et chaines",
+				"Pour une vie nouvelle"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le brigand, expirant, la vit",
+				"La fontaine en son jour",
+				"Et moi, coupable, autant que lui",
+				"J’obtiens ce même amour",
+				"J’obtiens ce même amour",
+				"J’obtiens ce même amour",
+				"Et moi, coupable, autant que lui",
+				"J’obtiens ce même amour"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Agneau mourant, ton sang précieux",
+				"Ne perdra sa puissance",
+				"Avant que les élus de Dieu",
+				"Ne voient ta délivrance",
+				"Ne voient ta délivrance",
+				"Ne voient ta délivrance",
+				"Avant que les élus de Dieu",
+				"Ne voient ta délivrance"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Depuis que m’emportent ces eaux",
+				"Coulant de tes blessures",
+				"L’amour rédempteur du Très-Haut",
+				"Est mon chant le plus sûr",
+				"Est mon chant le plus sûr",
+				"Est mon chant le plus sûr",
+				"L’amour rédempteur du Très-Haut",
+				"Est mon chant le plus sûr"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Quand un jour ces lèvres timides",
+				"Se reposent au tombeau",
+				"D’un chant triomphant et splendide",
+				"Je louerai à nouveau !",
+				"Je louerai à nouveau !",
+				"Je louerai à nouveau !",
+				"D’un chant triomphant et splendide",
+				"Je louerai à nouveau !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Cowper",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/viens-decouvrir-cette-fontaine/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -31,3 +31,19 @@ Example to copy: `cdl.ts` and `tests/import/adapters/cdl.test.ts`.
    `import/decisions/source-priority.json`.
 
 Target: under 30 minutes for a site whose pages are already understood (SC-007).
+
+## A site that blocks the importer: saved pages
+
+Some sites answer the importer with a challenge page (Cloudflare "Just a moment…", HTTP 403),
+even for `robots.txt`. Do not work around it. Instead:
+
+1. Set `"access": "saved-pages"` on the source in `import/sources.json`. The importer then never
+   requests the site; `run` reads the cache only and needs no `HYMNIA_CONTACT`.
+2. Save the listing pages and the hymn pages from a browser ("Save page as…") into
+   `import/inbox/<id>/` (git-ignored).
+3. Load them: `npm run import -- add-pages --source <id> import/inbox/<id>`. Each file's URL comes
+   from the browser's "saved from url" comment, the canonical link or `og:url`. Challenge pages,
+   pages of another site and files with no URL are refused and listed.
+4. Run the import as usual. A page that was not saved is reported as `page not saved`.
+
+Example: `evangile21.ts` (specs/004-evangile21-hymnal).

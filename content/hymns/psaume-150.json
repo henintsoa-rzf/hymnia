@@ -1,0 +1,112 @@
+{
+	"id": "psaume-150",
+	"title": "Psaume 150",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "33"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les astres à ton appel ont parsemé le ciel",
+				"Tu peins le firmament de merveilles",
+				"La terre est ton palais, jusqu’aux plus hauts sommets",
+				"Un hymne à ta beauté s’élève"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Louez Dieu ! Louez Dieu !",
+				"Terre chante sa puissance !",
+				"Louez Dieu, en tous lieux,",
+				"Que dans tout l’univers",
+				"S’élève un saint concert",
+				"Que tout souffle de vie loue l’Éternel"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Façonnés de poussière, du souffle de l’Esprit",
+				"Tu nous as faits à ton image",
+				"Pour sonder tes bontés, proclamer tes hauts-faits",
+				"Louer tes œuvres d’âge en âge"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Louez Dieu ! Louez Dieu !",
+				"Terre chante sa puissance !",
+				"Louez Dieu, en tous lieux,",
+				"Que dans tout l’univers",
+				"S’élève un saint concert",
+				"Que tout souffle de vie loue l’Éternel"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Résonnez, symphonies ! Éclatez, mélodies !",
+				"Chantez jusqu’au ciel ses louanges",
+				"Nations pour votre Roi, poussez des cris de joie",
+				"Rejoignez la clameur des anges"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Louez Dieu ! Louez Dieu !",
+				"Terre chante sa puissance !",
+				"Louez Dieu, en tous lieux,",
+				"Que dans tout l’univers s’élève un saint concert",
+				"Vous lointains luminaires, habitants de la terre",
+				"Des monts jusqu’aux vallées, ô chantez à jamais",
+				"Que tout souffle de vie loue l’Éternel"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Boswell",
+			"role": "unspecified"
+		},
+		{
+			"name": "Matt Papa",
+			"role": "unspecified"
+		},
+		{
+			"name": "TsiryBarbara Andria",
+			"role": "translation"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "translation"
+		},
+		{
+			"name": "Kevin Stauffer",
+			"role": "translation"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-150/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

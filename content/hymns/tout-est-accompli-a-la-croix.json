@@ -1,0 +1,100 @@
+{
+	"id": "tout-est-accompli-a-la-croix",
+	"title": "Tout est accompli à la croix",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "36"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh que j’aime entendre Jésus",
+				"Sur la croix de Golgotha",
+				"Déclarer “Tout est accompli !”",
+				"C’est mon espérance et ma foi",
+				"Le soleil cessa de briller",
+				"Le combat semblait perdu",
+				"Mais du mal, Christ a triomphé",
+				"Tout est accompli à la croix"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le pouvoir du mal est brisé",
+				"Jésus a payé pour moi",
+				"Le pardon qu’il m’offre est parfait",
+				"Je suis accueilli dans ses bras",
+				"Vers le Père, je viens en Jésus",
+				"Revêtu de sa justice",
+				"Plus de condamnation pour moi",
+				"Tout est accompli à la croix"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La mort et la peur me liaient",
+				"Je ployais sous leur emprise",
+				"Mais le Fils meurt pour nous sauver",
+				"Nous libère et nous rend la vie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La mort et la peur me liaient",
+				"Je ployais sous leur emprise",
+				"Mais le Fils meurt pour nous sauver",
+				"Nous libère et nous rend la vie",
+				"Nous libère et nous rend la vie",
+				"Affranchis de l’obscurité",
+				"Libres pour vivre et aimer Jésus vit !",
+				"La mort est vaincue",
+				"Tout est accompli à la croix",
+				"Sur le chemin de la gloire",
+				"Vers mon sauveur et mon Dieu",
+				"Je me réjouis dans sa victoire",
+				"Tout est accompli à la croix",
+				"Tout est accompli à la croix",
+				"Tout est accompli à la croix"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jonny Robinson",
+			"role": "unspecified"
+		},
+		{
+			"name": "Rich Thompson",
+			"role": "unspecified"
+		},
+		{
+			"name": "Nigel Hendroff",
+			"role": "unspecified"
+		},
+		{
+			"name": "Natham Lambert",
+			"role": "translation"
+		},
+		{
+			"name": "Tsiry Andria",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/tout-est-accompli-a-la-croix/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

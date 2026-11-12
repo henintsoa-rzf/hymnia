@@ -1,0 +1,80 @@
+{
+	"id": "en-esprit-en-verite",
+	"title": "En esprit en vérité",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "1"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis né pour te louer",
+				"En esprit et vérité",
+				"Beaucoup plus qu’un simple chant,",
+				"C’est un sacrifice vivant :",
+				"Par ma vie et par mes dons",
+				"Mes actes et mes décisions",
+				"Je désire t’adorer",
+				"Car je sais"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es celui qui m’a racheté",
+				"Par ta mort je suis pardonné",
+				"Toi seul le Roi Glorieux, ressuscité",
+				"Sauveur, Créateur, Tout-Puissant",
+				"Consolateur, Esprit vivant",
+				"Le Père rempli d’amour pour ses enfants",
+				"Et parce que je sais qui tu es",
+				"Ma joie est de te glorifier",
+				"Te louer en esprit en vérité"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux apprendre à aimer",
+				"En imitant tes bienfaits ;",
+				"T’obéir à chaque instant",
+				"D’un esprit reconnaissant",
+				"Qu’une vie d’adoration ;",
+				"Marquée d’une vraie passion",
+				"Soit le rythme de mon chant",
+				"Car je sais"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Kevin Stauffer",
+			"role": "music"
+		},
+		{
+			"name": "Fadi AKL",
+			"role": "lyrics"
+		},
+		{
+			"name": "Rose D.",
+			"role": "lyrics"
+		},
+		{
+			"name": "Kevin Stauffer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/en-esprit-en-verite/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

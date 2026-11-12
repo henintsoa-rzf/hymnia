@@ -39,6 +39,10 @@ import/
 ]
 ```
 
+`access` (optional, added by feature 004): `"fetch"` (default when absent) or `"saved-pages"`.
+A `saved-pages` source is never requested; its pages are saved from a browser and loaded with
+`add-pages` (see [cli-add-pages.md](../../004-evangile21-hymnal/contracts/cli-add-pages.md)).
+
 `import/decisions/rights.json`
 
 ```json

@@ -1,0 +1,85 @@
+{
+	"id": "o-jesus-je-t-aime-evangile21-15",
+	"title": "Ô Jésus je t’aime",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "15"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Jésus je t’aime, ma vie, ma force",
+				"Jésus je t’aime, ma vie, ma force"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô Jésus, je t’aime, je te sais à moi",
+				"Oh ! Quelle joie extrême me retient à toi",
+				"Les plaisirs du monde ne m’attirent plus",
+				"Ton amour m’inonde, je t’aime, ô Jésus"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ô Jésus je t’aime car tu m’as sauvé",
+				"En t’offrant toi-même ton sang m’a lavé",
+				"Sur la croix bénie pour moi tu mourus",
+				"Ta mort est ma vie, je t’aime ô Jésus"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu’ici-bas je t’aime jusque dans la mort",
+				"À l’heure suprême du dernier effort",
+				"Ma voix expirante ne s’entendra plus",
+				"Sachez que je chante, je t’aime ô Jésus"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Jésus je t’aime, ma vie, ma force",
+				"Jésus je t’aime, ma vie, ma force"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je verrai ta face quel ravissement",
+				"Je louerai ta grâce éternellement",
+				"Et dirai sans cesse avec les élus",
+				"L’hymne d’allégresse, je t’aime ô Jésus"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adoniram Judson",
+			"role": "music"
+		},
+		{
+			"name": "William Feathersome",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/o-jesus-taime/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

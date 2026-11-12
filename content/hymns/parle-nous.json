@@ -1,0 +1,62 @@
+{
+	"id": "parle-nous",
+	"title": "Parle-nous",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "25"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Parle-nous, nous venons à toi,",
+				"Recevoir le pain, ta parole sainte.",
+				"Viens, Seigneur, par la vérité,",
+				"Modeler nos cœurs à ta ressemblance",
+				"Et que ta lumière, aujourd’hui, rayonne",
+				"Par l’amour, la foi que nous manifestons.",
+				"Parle-nous, accomplis, Seigneur,",
+				"Tes projets en nous, pour ta gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Apprends-nous à te révérer,",
+				"À mieux t’obéir, à nous humilier.",
+				"Par l’éclat de ta pureté,",
+				"Viens sonder, Seigneur, nos voies, nos pensées.",
+				"Fais grandir la foi et que nos yeux voient",
+				"Ton amour sublime, ton autorité.",
+				"Tes paroles, toujours, s’accomplissent,",
+				"Ta vérité chasse l’incrédulité.",
+				"Parle-nous, renouvelle-nous,",
+				"Viens nous révéler tes plans élevés,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vérité, dès la nuit des temps,",
+				"Dont l’éclat résonne dans l’éternité.",
+				"Par ta grâce, nous tiendrons sur tes promesses,",
+				"Par la foi, nous te suivrons pas à pas.",
+				"Parle-nous, bâtis ton Église",
+				"Et remplis la terre de ta gloire."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/video/parle-nous/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

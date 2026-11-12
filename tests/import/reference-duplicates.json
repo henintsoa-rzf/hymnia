@@ -1,5 +1,5 @@
 {
-	"about": "SC-005 reference list (specs/002-hymnal-import, task T050), from the first real import (2026-11-11). 'shared' groups pages read and judged to be the same hymn (several hymnals or sources, often under another title); 'distinct' pairs pages with the same or a similar title that are different hymns. Each reference is {source, hymnal, number} of a page in import/cache.",
+	"about": "SC-005 reference list (specs/002-hymnal-import, task T050), from the first real import (2026-11-11). 'shared' groups pages read and judged to be the same hymn (several hymnals or sources, often under another title); 'distinct' pairs pages with the same or a similar title that are different hymns. Each reference is {source, hymnal, number} of a page in import/cache. Evangile21 pairs added 2026-11-12 (specs/004-evangile21-hymnal, T033): two same-title or same-original pairs that are other translations or other songs. Evangile21's versions of classic hymns are kept apart by the maintainer's decision (import/decisions/merges.json), so they are not listed as shared.",
 	"shared": [
 		[
 			{
@@ -709,6 +709,30 @@
 				"source": "jemaf",
 				"hymnal": "jem",
 				"number": "3"
+			}
+		],
+		[
+			{
+				"source": "evangile21",
+				"hymnal": "evangile21",
+				"number": "6"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "716"
+			}
+		],
+		[
+			{
+				"source": "evangile21",
+				"hymnal": "evangile21",
+				"number": "19"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "241"
 			}
 		]
 	]

@@ -27738,5 +27738,385 @@
 		"acceptedFingerprint": "sha256:5e5a0875003f87666f0c1dfe6ee5ce6d2c58470e25b99e9e1df04549a6efb48b",
 		"status": "active",
 		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "1",
+		"hymnId": "en-esprit-en-verite",
+		"url": "https://evangile21.thegospelcoalition.org/article/en-esprit-en-verite/",
+		"acceptedFingerprint": "sha256:8bc8ce766fd7fcb94d215c1b65cce68dd173ed511352cf745d324ca77de9a259",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "2",
+		"hymnId": "alleluia-quel-grand-sauveur",
+		"url": "https://evangile21.thegospelcoalition.org/article/alleluia-grand-sauveur-philip-bliss/",
+		"acceptedFingerprint": "sha256:7ab664b355de48756af4d122e32a8c14d7b7ad1af23488b5c3b3d85ce165d6cb",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "3",
+		"hymnId": "mon-ame-eveille-toi",
+		"url": "https://evangile21.thegospelcoalition.org/article/ame-eveille-toi-philippe-viguier/",
+		"acceptedFingerprint": "sha256:9568651050de82e052cc59e82f65ce9d939238e68c2b5859b34a5d50a336d917",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "5",
+		"hymnId": "sauve",
+		"url": "https://evangile21.thegospelcoalition.org/article/sauve/",
+		"acceptedFingerprint": "sha256:ecaf2c921aa13900787f686f821236a6f1b68101e3a9e03dd44d5ffe452a4ff7",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "6",
+		"hymnId": "toute-la-terre-evangile21-6",
+		"url": "https://evangile21.thegospelcoalition.org/article/toute-la-terre/",
+		"acceptedFingerprint": "sha256:b5b047b071dd6eed6565979a7e32e17be0a91c2929a2aec63fc697ee0d29f261",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "7",
+		"hymnId": "viens-suis-moi",
+		"url": "https://evangile21.thegospelcoalition.org/article/viens-suis-moi/",
+		"acceptedFingerprint": "sha256:8db503f23b24e82b1711f2d4cdc725acc844b54466c00b2b7842aa4ee4cec80b",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "8",
+		"hymnId": "coule-a-flots-source-de-grace",
+		"url": "https://evangile21.thegospelcoalition.org/article/coule-a-flots-source-de-grace/",
+		"acceptedFingerprint": "sha256:d2d0f942bb80546bf286550faa665d9a2288d572499a6c628b8be9274acc1300",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "9",
+		"hymnId": "hymne-a-la-joie",
+		"url": "https://evangile21.thegospelcoalition.org/article/hymne-a-joie/",
+		"acceptedFingerprint": "sha256:85b7b70ad296d28b52e75c058dec26936a55d578c5ed454757375689e00e8fe5",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "10",
+		"hymnId": "jesus-a-tout-paye",
+		"url": "https://evangile21.thegospelcoalition.org/article/jesus-a-paye/",
+		"acceptedFingerprint": "sha256:2767d8f7b640d1b743f113aff7c43ffd721d336ab1aaa1e5d65d75f4c553587f",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "11",
+		"hymnId": "joie-dans-le-monde",
+		"url": "https://evangile21.thegospelcoalition.org/article/joie-dans-le-monde/",
+		"acceptedFingerprint": "sha256:a902531e75f631d2222c6ca2d71f6b4fb0c4d14c8714e451715dad4d7b0cf764",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "14",
+		"hymnId": "o-dieu-ta-grace",
+		"url": "https://evangile21.thegospelcoalition.org/article/o-dieu-grace/",
+		"acceptedFingerprint": "sha256:d317bdf1bb32f313bf81daaa94446e06baffc987e16c5bfa6b9bff20ead1d414",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "17",
+		"hymnId": "quel-amour-mysterieux",
+		"url": "https://evangile21.thegospelcoalition.org/article/quel-amour-mysterieux/",
+		"acceptedFingerprint": "sha256:32b6d445e67d136474a9ea6832fb744d73495e2212eb7941cf58daa5e4641f43",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "19",
+		"hymnId": "roc-des-ages",
+		"url": "https://evangile21.thegospelcoalition.org/article/roc-des-ages/",
+		"acceptedFingerprint": "sha256:b63c7647d9845520eb2e2a7c42dd7b419cfeed721be7c3b9ca7328a098736592",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "20",
+		"hymnId": "viens-decouvrir-cette-fontaine",
+		"url": "https://evangile21.thegospelcoalition.org/article/viens-decouvrir-cette-fontaine/",
+		"acceptedFingerprint": "sha256:2ce3602f1f6c65066ee54f66e2b4a4d438dbd974728a4fa3d1af3b0252cea898",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "21",
+		"hymnId": "vois-l-amour",
+		"url": "https://evangile21.thegospelcoalition.org/article/vois-lamour/",
+		"acceptedFingerprint": "sha256:56dca88bb8435f707bbd4887fae18fa003281262a140560c4bf58ab14825bb7d",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "22",
+		"hymnId": "sois-seul-ma-vision",
+		"url": "https://evangile21.thegospelcoalition.org/article/sois-seul-vision/",
+		"acceptedFingerprint": "sha256:43c285308a3e2e94f1c5e59a06f634c5c1f6f60a626ae73cf572f9b2422e462f",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "23",
+		"hymnId": "sacrifice-parfait",
+		"url": "https://evangile21.thegospelcoalition.org/article/sacrifice-parfait/",
+		"acceptedFingerprint": "sha256:8511449fe700346a1780c9cd4d872c353bfeee276578e1b5eae4ced0bb15abc0",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "24",
+		"hymnId": "je-m-attends-a-toi",
+		"url": "https://evangile21.thegospelcoalition.org/video/je-mattends-a-toi/",
+		"acceptedFingerprint": "sha256:842aebcbe60af35991eec5bda559c24b9c0d23f87860fc8a4990186d589d1af6",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "25",
+		"hymnId": "parle-nous",
+		"url": "https://evangile21.thegospelcoalition.org/video/parle-nous/",
+		"acceptedFingerprint": "sha256:a76121e474685404840c294ddf5a39988397a3f07bcb6dfef921c1bb11f59746",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "26",
+		"hymnId": "jesus-merci",
+		"url": "https://evangile21.thegospelcoalition.org/video/jesus-merci/",
+		"acceptedFingerprint": "sha256:d6e7693e5e49e762134845cac0d92f7e21493c9e331337df5541255a69452107",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "27",
+		"hymnId": "seigneur-mon-roc-et-mon-redempteur-o-lord-my-rock-and-my-redeemer",
+		"url": "https://evangile21.thegospelcoalition.org/article/seigneur-mon-roc-et-mon-redempteur-o-lord-my-rock-and-my-redeemer/",
+		"acceptedFingerprint": "sha256:91b4de65120fe640c6f1fc7f3093f0c7275b1f22dd35f1b522dd07ae12017cea",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "28",
+		"hymnId": "folle-nuit-de-la-croix",
+		"url": "https://evangile21.thegospelcoalition.org/pasteur-compagnie/folle-nuit-de-la-croix/",
+		"acceptedFingerprint": "sha256:21b1d4810a660e643333609623739563d6193f796660c57fe0dc3cfca2795e6d",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "29",
+		"hymnId": "dieu-l-eternel-incree",
+		"url": "https://evangile21.thegospelcoalition.org/pasteur-compagnie/dieu-leternel-incree/",
+		"acceptedFingerprint": "sha256:7c6749da66edec7e90becc45f85ce34da79d611cbe2793c42ce1c02ac6c9ecb7",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "30",
+		"hymnId": "le-seul-dieu-trois-fois-saint",
+		"url": "https://evangile21.thegospelcoalition.org/pasteur-compagnie/le-seul-dieu-trois-fois-saint/",
+		"acceptedFingerprint": "sha256:de83523f7a25cb2876a2d74af51de80848f2d14cd7d0b6c05da4444b6ac09afc",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "31",
+		"hymnId": "psaume-32",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-32/",
+		"acceptedFingerprint": "sha256:b0fd90246ba30fa12fcdc7f33d9658c1572408a9579fb30453656cc85ec12925",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "32",
+		"hymnId": "psaume-16-jesus-sois-mon-refuge",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-16-jesus-sois-mon-refuge/",
+		"acceptedFingerprint": "sha256:e8b18ac16fc908e439e2eb77dd607fc168240d41f690c6114d78b955d2aa18d9",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "33",
+		"hymnId": "psaume-150",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-150/",
+		"acceptedFingerprint": "sha256:6ee8b4868435242e3383ce0e520fa7d3f33ebcccaf5b6d7e8f9d9ec8a0e27053",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "34",
+		"hymnId": "psaume-42-je-le-louerai-encore",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-42-je-le-louerai-encore/",
+		"acceptedFingerprint": "sha256:a179e5ce0d7e52eca0e35153d9405302f073558d6756d5c01a95c6912e89a537",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "35",
+		"hymnId": "psaume-62-mon-coeur-s-attend-a-toi",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-62-mon-coeur-sattend-a-toi/",
+		"acceptedFingerprint": "sha256:5cc2f1caacbc3adfafcb6a7f8c577c541f5a2f0981b3b0ee977eff3a3b62c1de",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "36",
+		"hymnId": "tout-est-accompli-a-la-croix",
+		"url": "https://evangile21.thegospelcoalition.org/article/tout-est-accompli-a-la-croix/",
+		"acceptedFingerprint": "sha256:ac073b8b16c8f447207f47ad225448041911a644727a5dac5d865c68f09891bb",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "37",
+		"hymnId": "notre-esperance-est-en-christ",
+		"url": "https://evangile21.thegospelcoalition.org/article/notre-esperance-est-en-christ/",
+		"acceptedFingerprint": "sha256:89bdc88a492e3f6e88e71625ff43d92aaecb6bda01c1ca9f0787990d3ae754de",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "38",
+		"hymnId": "en-memoire-de-ton-nom",
+		"url": "https://evangile21.thegospelcoalition.org/pasteur-compagnie/en-memoire-de-ton-nom-chant/",
+		"acceptedFingerprint": "sha256:062c28c89cb087522f48c226bbc4596f818aff3b6fe17b192da1f29b8eaf3218",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "4",
+		"hymnId": "enseigne-moi-evangile21-4",
+		"url": "https://evangile21.thegospelcoalition.org/article/enseigne-moi-r-demaurex-b-m-ramsey/",
+		"acceptedFingerprint": "sha256:890a4091ad23e14a38871345b1d7991185f2e83bdca804ecbbb5662a28d12b23",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "12",
+		"hymnId": "la-voix-du-seigneur-m-appelle-evangile21-12",
+		"url": "https://evangile21.thegospelcoalition.org/article/voix-seigneur-mappelle/",
+		"acceptedFingerprint": "sha256:161e2a40a40aa1cb072f571dda8729cf250103758e1be8c5db0056f60edbfcf7",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "13",
+		"hymnId": "mon-dieu-plus-pres-de-toi-evangile21-13",
+		"url": "https://evangile21.thegospelcoalition.org/article/dieu-plus-pres-de-toi/",
+		"acceptedFingerprint": "sha256:28f924aada2dedbafdcb6e7b083ac054a1f974cb884cec8ae8abd32d8b8ea8f2",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "15",
+		"hymnId": "o-jesus-je-t-aime-evangile21-15",
+		"url": "https://evangile21.thegospelcoalition.org/article/o-jesus-taime/",
+		"acceptedFingerprint": "sha256:6363c19e08b046385b8148b928c519328e1b615dd306398e64a0870a94c59e4e",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "16",
+		"hymnId": "par-la-foi",
+		"url": "https://evangile21.thegospelcoalition.org/article/par-la-foi/",
+		"acceptedFingerprint": "sha256:482685e8e4cabb0e73a19be6bc32d5e9130b716ea6534c73ae1820f6a06c7bb7",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "evangile21",
+		"hymnal": "evangile21",
+		"number": "18",
+		"hymnId": "redempteur-adorable-evangile21-18",
+		"url": "https://evangile21.thegospelcoalition.org/article/redempteur-adorable/",
+		"acceptedFingerprint": "sha256:0b5a9258f37b9a56a1fc352d25df036f7899a349aed1630171f2097b26e8aaf9",
+		"status": "active",
+		"lastSeenAt": "2026-11-12"
 	}
 ]

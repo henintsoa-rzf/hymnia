@@ -26,7 +26,12 @@ export const SourceConfigSchema = z.strictObject({
 	/** "≥ 1000". The fetcher uses the larger of this and the site's Crawl-delay. */
 	minDelayMs: z.number().int().min(1000),
 	terms: z.strictObject({ url: z.string().url().nullable(), summary: z.string(), checkedAt: isoDate }),
-	permission: PermissionSchema
+	permission: PermissionSchema,
+	/**
+	 * How pages are obtained. Absent = "fetch". "saved-pages": the site is never requested; pages
+	 * are saved from a browser and loaded with `add-pages` (specs/004-evangile21-hymnal, R3).
+	 */
+	access: z.enum(['fetch', 'saved-pages']).optional()
 });
 
 export const LinkSchema = z.strictObject({

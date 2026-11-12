@@ -1,0 +1,76 @@
+{
+	"id": "sacrifice-parfait",
+	"title": "Sacrifice parfait",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "23"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous étions errants comme des brebis sans berger Tous perdus et incapables de nous sauver",
+				"Séparés de Dieu à cause de nos péchés",
+				"L’entrée du repos céleste nous était fermée",
+				"Quand survint d’en-Haut la délivrance",
+				"Le salut qui est notre espérance",
+				"Ce chemin qui nous mène au pays promis",
+				"Dans de verts pâturages où nous sommes guéris"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Car le Fils de Dieu lui-même est venu à nous Aucun autre ne pouvait nous ouvrir la voie",
+				"Lui l’Agneau parfait offert une fois pour toutes Il a cloué nos accusations à la croix",
+				"Ce sont nos souffrances qu’il a portées Pour nos crimes il a été percé",
+				"Il nous a rachetés au prix de sa vie Quel exemple de son amour infini !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les ténèbres étaient enfin vaincues à jamais La mort ne pouvait plus le garder asservi",
+				"Dieu dans sa puissance l’a ressuscité",
+				"Pour que notre espoir et notre paix soient en lui",
+				"Et que Jésus seul soit élevé",
+				"Qu’à ses pieds tous viennent se prosterner",
+				"Car c’est lui qui est digne de recevoir",
+				"La puissance, la richesse, l’honneur et la gloire"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"L’honneur et la gloire, l’honneur et la gloire L’honneur et la gloire, l’honneur et la gloire",
+				"Pour que Jésus seul soit élevé",
+				"Qu’à ses pieds tous viennent se prosterner",
+				"Car c’est lui qui est digne de recevoir",
+				"La puissance, la richesse, l’honneur et la gloire"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louise Zbinden",
+			"role": "lyrics"
+		},
+		{
+			"name": "Louise Zbinden",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/sacrifice-parfait/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

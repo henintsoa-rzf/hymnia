@@ -1,0 +1,75 @@
+{
+	"id": "jesus-merci",
+	"title": "Jésus merci",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "26"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le mystère de la croix,",
+				"comment le concevoir",
+				"L’agonie de Jésus-Christ",
+				"Toi le Dieu très saint tu nous donnes ton Fils",
+				"Il boit la coupe amère qui m’affranchit"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton sang efface mon péché",
+				"Jésus, merci",
+				"Du Père la colère est apaisée",
+				"Jésus, merci",
+				"J’étais ton ennemi,",
+				"je vivrai à tes côtés",
+				"Jésus, merci"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par ton sacrifice parfait je viens à toi",
+				"Accueilli comme un ami",
+				"Les richesses de ta grâce abondent en moi",
+				"Ton pardon, ta bonté sont infinis"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Sauveur de mon âme",
+				"Je m’abandonne à toi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "PAT SCZEBEL",
+			"role": "lyrics"
+		},
+		{
+			"name": "PAT SCZEBEL",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/video/jesus-merci/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

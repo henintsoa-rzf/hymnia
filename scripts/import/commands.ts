@@ -2,7 +2,10 @@
  * Subcommands of hymnia-import (contracts/cli.md). Each one is registered here; the work is
  * done in pipeline/ and store/.
  */
+import { stat } from 'node:fs/promises';
+import { resolve } from 'node:path';
 import { checkImport } from './check';
+import { addSavedPages } from './saved-pages';
 import { loadContentIndex } from './pipeline/content';
 import { findDuplicates } from './pipeline/match';
 import { markDistinct, mergeHymns } from './pipeline/merge';
@@ -264,5 +267,40 @@ registerCommand('check', {
 			);
 		}
 		return errors.length === 0 ? 0 : 1;
+	}
+});
+
+registerCommand('add-pages', {
+	usage: 'add-pages --source <id> <folder> [--dry-run]',
+	summary: 'Load pages saved from a browser into the cache of a source (no network).',
+	options: {
+		source: { type: 'string' },
+		'dry-run': { type: 'boolean', default: false }
+	},
+	positionals: [1, 1],
+	async run(ctx) {
+		const id = str(ctx, 'source');
+		if (!id) throw new UsageError('--source is required');
+		const source = (await loadState(ctx.root)).sources.find((s) => s.id === id);
+		if (!source) throw new UsageError(`Unknown source "${id}" (see import/sources.json)`);
+		const folder = resolve(ctx.root, ctx.positionals[0]);
+		if (!(await stat(folder).catch(() => null))?.isDirectory()) {
+			throw new UsageError(`No folder ${folder}`);
+		}
+		const dryRun = ctx.values['dry-run'] === true;
+		const { files, counts } = await addSavedPages({ root: ctx.root, source, folder, dryRun });
+		if (ctx.json) {
+			ctx.io.out(JSON.stringify({ dryRun, files, counts }, null, 2));
+		} else {
+			for (const f of files.filter((f) => f.outcome === 'refused')) {
+				ctx.io.out(`✗ ${f.file}: ${f.reason}${f.url ? ` (${f.url})` : ''}`);
+			}
+			ctx.io.out(
+				`${dryRun ? '(dry run) ' : ''}${source.id}: added ${counts.added}, replaced ${counts.replaced}, ` +
+					`unchanged ${counts.unchanged}, refused ${counts.refused}`
+			);
+		}
+		// An empty folder or one where every file was refused loaded nothing.
+		return counts.refused === files.length ? 1 : 0;
 	}
 });

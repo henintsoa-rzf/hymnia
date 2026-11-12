@@ -1,0 +1,87 @@
+{
+	"id": "alleluia-quel-grand-sauveur",
+	"title": "Alléluia, quel grand Sauveur",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "2"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nommé “l’homme de douleur”",
+				"Lui le Fils du Créateur",
+				"Par amour pour le pécheur",
+				"Alléluia, quel grand Sauveur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans la honte et le mépris",
+				"À ma place il est puni",
+				"Par son sang il m’affranchit",
+				"Alléluia, quel grand Sauveur",
+				"Alléluia, alléluia, alléluia, quel grand Sauveur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Faibles, fautifs, sommes-nous",
+				"Lui, parfait, subit les clous",
+				"De Dieu portant le courroux",
+				"Alléluia, quel grand Sauveur",
+				"Alléluia, alléluia, alléluia, quel grand Sauveur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pendu au bois il s’écrie :",
+				"« Mon Dieu, tout est accompli ! »",
+				"Il règne au ciel aujourd’hui",
+				"Alléluia, quel grand Sauveur",
+				"Alléluia, alléluia, alléluia, quel grand Sauveur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Seigneur quand tu reviendras",
+				"Nous rassembler près de toi",
+				"Le monde entier chantera",
+				"Alléluia, quel grand Sauveur",
+				"Alléluia, alléluia, alléluia, quel grand Sauveur"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip Bliss",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philip Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/alleluia-grand-sauveur-philip-bliss/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

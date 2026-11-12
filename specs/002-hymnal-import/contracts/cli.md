@@ -26,6 +26,7 @@ invalid content, and a run that is not `ok` exit with `1`.
 | `rights set --scope <source\|hymnal\|hymn> --target <id> --basis <permission\|licence\|public-domain\|refused> [--date YYYY-MM-DD] --note "<text>"` | Record a rights decision and update the `rights` field of the affected hymns. | FR-019, FR-020 |
 | `rights list` | List the decisions and how many hymns each one covers. | FR-020 |
 | `check` | Validate `import/` and `content/` without network access: schemas, links, decisions, and that text matches the cached source (FR-004). | FR-003, FR-004 |
+| `add-pages --source <id> <folder> [--dry-run]` | Load pages saved from a browser into the cache of a source, with no network access. Added by feature 004: [cli-add-pages.md](../../004-evangile21-hymnal/contracts/cli-add-pages.md). | 004 R2 |
 
 ## Behaviour guaranteed by `run`
 
@@ -40,3 +41,6 @@ invalid content, and a run that is not `ok` exit with `1`.
 5. Content files that are not involved are never touched. Corrections and decisions are never
    overwritten.
 6. Every run writes `import/reports/<runId>.json` and `.md`, even when it is aborted.
+7. A source with `access: "saved-pages"` in `import/sources.json` is never requested: `run`
+   reads the cache only, with or without `--offline`, needs no `HYMNIA_CONTACT`, and reports a
+   page missing from the cache as `page not saved` (feature 004, research R3).

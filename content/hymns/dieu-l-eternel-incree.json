@@ -1,0 +1,150 @@
+{
+	"id": "dieu-l-eternel-incree",
+	"title": "Dieu l’Éternel Incréé",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "29"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu l’Éternel incréé",
+				"Sage artisan du salut",
+				"Auteur de l’espace et du temps",
+				"Des montagnes et des océans"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L’armée des cieux d’un chant royal",
+				"Loue l’artisan des étoiles",
+				"Lui qui compte la poussière",
+				"Connaît du coeur les mystères",
+				"Il est roi à jamais",
+				"Il est roi à jamais",
+				"Il est roi à tout jamais"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu est notre forteresse",
+				"Un haut rempart dans la détresse",
+				"Sans égal en majesté",
+				"En puissance, en autorité"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au-dessus des plans des mortels",
+				"Le grand « Je Suis », l’Eternel",
+				"(Les) nations naissent et disparaissent",
+				"Sa fidélité ne cesse",
+				"Couronné à jamais",
+				"Couronné à jamais",
+				"Couronné à tout jamais"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu puissant qui s’est fait chair",
+				"Trahi par le baiser d’un frère",
+				"La malédiction du péché",
+				"Perça le Sauveur humilié"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L’homme innocent élevé",
+				"L’Agneau parfait crucifié",
+				"Le tombeau scellé d’une pierre",
+				"Ouvert par la main du Père",
+				"Pour qu’Il règne à jamais",
+				"Pour qu’Il règne à jamais",
+				"Pour qu’Il règne à tout jamais"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Roi éternel sur le trône",
+				"Reçois la gloire et la couronne",
+				"Dieu trois fois saint les cieux t’honorent",
+				"Les anges et les saints t’adorent"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô joie de la vie éternelle",
+				"L’amour règne dans le ciel",
+				"Honneur, louange et justice",
+				"Par le nom de Jésus-Christ",
+				"Roi des rois, à jamais",
+				"Roi des rois, à jamais",
+				"Roi des rois, à tout jamais"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Roi des rois, à jamais",
+				"Roi des rois, à jamais",
+				"Roi des rois, à tout jamais"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pete James",
+			"role": "unspecified"
+		},
+		{
+			"name": "Aaron Keyes",
+			"role": "unspecified"
+		},
+		{
+			"name": "Kevin Stauffer",
+			"role": "translation"
+		},
+		{
+			"name": "Nicholas Hudson Bodsworth",
+			"role": "translation"
+		},
+		{
+			"name": "Tsiry Adria",
+			"role": "translation"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		},
+		{
+			"name": "Collectif LTC",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/pasteur-compagnie/dieu-leternel-incree/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

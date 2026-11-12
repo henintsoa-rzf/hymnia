@@ -1,0 +1,82 @@
+{
+	"id": "seigneur-mon-roc-et-mon-redempteur-o-lord-my-rock-and-my-redeemer",
+	"title": "Seigneur, mon Roc et mon Rédempteur (O Lord, my Rock and my Redeemer)",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "27"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, mon Roc et mon Rédempteur",
+				"Doux trésor de mon âme assoiffée",
+				"Mon Dieu, unique en gloire et splendeur,",
+				"En toi Seul est la félicité.",
+				"Ta grâce, un puits intarissable",
+				"Immense est ton amour pour moi",
+				"Ta loi est sagesse insondable,",
+				"Mon plus grand bien et mon plus grand besoin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, mon Roc et mon Rédempteur",
+				"Défenseur de mon cœur accablé",
+				"Épée pour combattre le menteur",
+				"Contre lui, tu es mon bouclier.",
+				"Mon chant quand les menaces grondent",
+				"L’espoir quand je suis attristé",
+				"Ma joie quand les épreuves fondent",
+				"Mon seul abri, c’est ta fidélité"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, mon Roc et mon Rédempteur",
+				"Seul Sauveur de ma vie ravagée",
+				"Chargé de ma croix de malfaiteur",
+				"A ma place, tu meurs pour tout payer.",
+				"Tu vis, la mort est engloutie",
+				"Tu brises les liens de mon péché",
+				"Tu vis, la mort est engloutie",
+				"Tu brises les liens de mon péché",
+				"Seigneur, mon Roc et mon Rédempteur",
+				"Je te rends gloire, pour toute éternité !",
+				"Je te rends gloire, pour toute éternité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nathan Stiff",
+			"role": "unspecified"
+		},
+		{
+			"name": "TsiryBarbara Andria",
+			"role": "translation"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "translation"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/seigneur-mon-roc-et-mon-redempteur-o-lord-my-rock-and-my-redeemer/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

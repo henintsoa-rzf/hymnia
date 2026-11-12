@@ -1,0 +1,98 @@
+{
+	"id": "notre-esperance-est-en-christ",
+	"title": "Notre espérance est en Christ",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "37"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour notre vie, quelle espérance ?",
+				"Jésus-Christ, Jésus-Christ",
+				"Et dans la mort, quelle assurance ?",
+				"Corps et âme, nous sommes à lui",
+				"Qui de nos vies tisse le cours ?",
+				"Fait qu’à ses desseins tout concoure ?",
+				"Et qui nous gardera toujours ?",
+				"Christ qui nous tient dans son amour"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantons alléluia !",
+				"Sublime espérance !",
+				"Chantons alléluia !",
+				"Dans la mort et dans la vie",
+				"Notre espérance est en lui"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quel baume pour l’âme affligée ?",
+				"Dieu est bon, Dieu est bon",
+				"Où se révèle sa bonté ?",
+				"Christ s’est donné en rançon",
+				"Qui notre foi toujours soutient ?",
+				"Qui dans l’épreuve est souverain ?",
+				"Qui les flots envoie de sa main",
+				"Pour nous ancrer au roc divin ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quel chant nous porte vers la tombe ?",
+				"« Jésus vit, Jésus vit! »",
+				"Et quel prix pour les siens abonde ?",
+				"En lui la vie infinie.",
+				"Nous le rejoindrons dans les airs,",
+				"Anéantis, la mort la chair,",
+				"Nous chanterons d’un saint concert",
+				"Christ est à nous joie toute entière"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Keith Getty",
+			"role": "unspecified"
+		},
+		{
+			"name": "Matt Boswell",
+			"role": "unspecified"
+		},
+		{
+			"name": "Jordan Kauflin",
+			"role": "unspecified"
+		},
+		{
+			"name": "Matthew Merker",
+			"role": "unspecified"
+		},
+		{
+			"name": "Matt Papa",
+			"role": "unspecified"
+		},
+		{
+			"name": "Hymnes21",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/notre-esperance-est-en-christ/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

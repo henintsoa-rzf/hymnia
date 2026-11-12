@@ -55,9 +55,9 @@ export type RunOptions = {
 
 export type HookContext = Pick<ReconcileInput, 'content' | 'state' | 'source' | 'today'>;
 
-function failureReason(error: unknown): string {
+function failureReason(error: unknown, savedPages = false): string {
 	if (error instanceof FetchError) {
-		if (/not in the cache/.test(error.message)) return 'not in cache';
+		if (/not in the cache/.test(error.message)) return savedPages ? 'page not saved' : 'not in cache';
 		if (/robots\.txt/.test(error.message)) return 'disallowed by robots.txt';
 		if (error.status) return `HTTP ${error.status}`;
 	}
@@ -65,7 +65,7 @@ function failureReason(error: unknown): string {
 }
 
 export async function runImport(options: RunOptions): Promise<RunReport> {
-	const { root, offline = false, dryRun = false, yes = false } = options;
+	const { root, dryRun = false, yes = false } = options;
 	const now = options.now ?? (() => new Date());
 	const log = options.log ?? (() => {});
 	const started = now();
@@ -74,6 +74,10 @@ export async function runImport(options: RunOptions): Promise<RunReport> {
 	const state = await loadState(root);
 	const source = state.sources.find((s) => s.id === options.source);
 	if (!source) throw new Error(`Unknown source "${options.source}" (see import/sources.json)`);
+	// A saved-pages source is never requested: its pages come from `add-pages` (004, R3).
+	const savedPages = source.access === 'saved-pages';
+	const offline = savedPages || options.offline === true;
+	if (savedPages) log(`source ${source.id}: saved pages only, no request is sent`);
 	const hymnals = options.hymnals ?? source.hymnals;
 	for (const h of hymnals) {
 		if (!source.hymnals.includes(h)) {
@@ -137,7 +141,7 @@ export async function runImport(options: RunOptions): Promise<RunReport> {
 			refs.push(...listed);
 		} catch (error) {
 			status.status = 'unreachable';
-			status.message = `Listing of ${hymnal} failed: ${failureReason(error)}`;
+			status.message = `Listing of ${hymnal} failed: ${failureReason(error, savedPages)}`;
 			log(`✗ ${status.message}`);
 			return finish();
 		}
@@ -159,7 +163,7 @@ export async function runImport(options: RunOptions): Promise<RunReport> {
 					: { ref, ok: false, reason: `invalid extraction: ${checked.error.issues[0].message}` };
 			}
 		} catch (error) {
-			outcome = { ref, ok: false, reason: failureReason(error) };
+			outcome = { ref, ok: false, reason: failureReason(error, savedPages) };
 		}
 		if (!outcome.ok) {
 			status.failures += 1;

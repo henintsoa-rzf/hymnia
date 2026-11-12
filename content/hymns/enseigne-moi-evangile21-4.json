@@ -1,0 +1,59 @@
+{
+	"id": "enseigne-moi-evangile21-4",
+	"title": "Enseigne-moi",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "4"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Enseigne-moi Seigneur, enseigne-moi !",
+				"Garde mon faible cœur, enseigne-moi !",
+				"Que dans un chemin droit, je marche par la foi",
+				"Les yeux fixés sur toi, enseigne-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur dans la douleur, enseigne-moi !",
+				"Sur la mer en fureur, dirige-moi !",
+				"Et dans la sombre nuit, si ton regard me suit",
+				"Si ta main me conduit, j’irai sans peur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par ton Esprit, Seigneur, enseigne-moi !",
+				"À vivre à ton honneur, où que je sois",
+				"Jusqu’au bout du chemin, que je reste en ta main",
+				"Sois mon constant soutien, enseigne-moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "R. Demaurex",
+			"role": "lyrics"
+		},
+		{
+			"name": "B.M. Ramsey",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/enseigne-moi-r-demaurex-b-m-ramsey/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

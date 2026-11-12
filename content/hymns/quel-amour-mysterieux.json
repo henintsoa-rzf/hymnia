@@ -1,0 +1,73 @@
+{
+	"id": "quel-amour-mysterieux",
+	"title": "Quel amour mystérieux",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "17"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel amour mystérieux ô mon âme, ô mon âme",
+				"Quel amour merveilleux, ô mon âme",
+				"Quel amour merveilleux, fit descendre des cieux",
+				"Le Sauveur pour porter le fardeau de mon âme",
+				"Le Sauveur du péché de mon âme"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand mon cœur s’enfonçait, dans la nuit, s’enfonçait",
+				"Quand mon cœur, loin de Dieu, s’enfonçait",
+				"Quand mon cœur s’enfonçait, dans l’abîme je sombrais",
+				"Christ laissa de côté sa couronne pour mon âme",
+				"Christ laissa sa couronne pour mon âme"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À Dieu et à l’Agneau, soit l’honneur, soit la gloire",
+				"À Dieu et à l’Agneau, soit la gloire",
+				"À Dieu et à l’Agneau, le Roi qui vient bientôt",
+				"Avec les millions d’âmes sans fin je chanterai",
+				"Avec les millions d’âmes je louerai"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"De la mort libéré, à nouveau, je louerai",
+				"De la mort libéré, je louerai",
+				"De la mort libéré, rayonnant, je louerai",
+				"Et pour l’éternité, près de toi, je louerai",
+				"Et pour l’éternité, je louerai"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Southern Harmony",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/quel-amour-mysterieux/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

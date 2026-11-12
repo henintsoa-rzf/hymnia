@@ -1,0 +1,93 @@
+{
+	"id": "psaume-62-mon-coeur-s-attend-a-toi",
+	"title": "Psaume 62 (Mon cœur s’attend à toi)",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "35"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand le mal vient m’entourer",
+				"Que mon faible cœur chancelle",
+				"Quand s’abat l’obscurité",
+				"Et mes craintes s’amoncellent",
+				"Je me confierai en toi,",
+				"Dans le silence et la foi",
+				"Je veux écouter ta voix"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon rocher et mon salut",
+				"Tu es mon espoir, ferme, absolu",
+				"Et mon cœur s’attend,",
+				"mon cœur s’attend à toi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es mon sûr bouclier,",
+				"Mon rempart dans la détresse",
+				"Les méchants seront défaits,",
+				"Comme un souffle ils disparaissent",
+				"Mon destin est assuré,",
+				"Car Satan va échouer",
+				"Dans ta main je suis en paix"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon rocher et mon salut",
+				"Tu es mon espoir, ferme, absolu",
+				"Et mon cœur s’attend,",
+				"mon cœur s’attend à toi",
+				"Ma consolation quand vient la nuit",
+				"Sûre fondation, mon seul abri",
+				"Et mon cœur s’attend,",
+				"mon cœur s’attend à toi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quel amour inespéré",
+				"Et quelle infinie clémence !",
+				"J’ai la paix imméritée,",
+				"Par ton sacrifice immense.",
+				"Le combat est remporté,",
+				"Rien ne pourra m’ébranler",
+				"Car la mort est terrassée !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Venons épancher nos cœurs",
+				"Nous nous confions en toi",
+				"Défenseur, parfait Sauveur",
+				"Nous nous confions en toi"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-62-mon-coeur-sattend-a-toi/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

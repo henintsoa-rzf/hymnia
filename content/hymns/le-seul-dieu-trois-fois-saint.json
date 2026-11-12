@@ -1,0 +1,117 @@
+{
+	"id": "le-seul-dieu-trois-fois-saint",
+	"title": "Le seul Dieu trois fois saint",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "30"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui donne ses ordres à l’armée du ciel ?",
+				"Qui peut mettre à genoux tous les rois ?",
+				"Un de sa bouche et la nuit chancelle :",
+				"Le Seul Dieu trois fois saint"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui d’autre peut égaler sa beauté ?",
+				"Qui est plus brillant que le soleil ?",
+				"Qui règne en justice et en majesté ?",
+				"Le seul Dieu trois fois saint"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Venez contempler",
+				"Le seul Dieu, juste et vrai",
+				"Chantez, proclamer :",
+				"A jamais, Dieu tu es saint !",
+				"Venez louer le Dieu très saint"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qui par sa gloire est un feu dévorant ?",
+				"Qui est celui qui redonne la vie ?",
+				"Quel autre nom est aussi triomphant ?",
+				"Le seul Dieu trois fois saint"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qui peut me racheter de mes péchés",
+				"Qui offrirait pour moi son seul Fils ?",
+				"Qui, tel un Père, est venu m’adopter ?",
+				"Le seul Dieu trois fois saint",
+				"Le seul Dieu trois fois saint"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michael Farren",
+			"role": "lyrics"
+		},
+		{
+			"name": "Michael Farren",
+			"role": "music"
+		},
+		{
+			"name": "Jonny Robinson",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jonny Robinson",
+			"role": "music"
+		},
+		{
+			"name": "Dustin Smith",
+			"role": "lyrics"
+		},
+		{
+			"name": "Dustin Smith",
+			"role": "music"
+		},
+		{
+			"name": "Rich Thompson",
+			"role": "lyrics"
+		},
+		{
+			"name": "Rich Thompson",
+			"role": "music"
+		},
+		{
+			"name": "Tsiry Andria",
+			"role": "translation"
+		},
+		{
+			"name": "Vanesha Manyika",
+			"role": "translation"
+		},
+		{
+			"name": "Collectif LTC",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/pasteur-compagnie/le-seul-dieu-trois-fois-saint/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

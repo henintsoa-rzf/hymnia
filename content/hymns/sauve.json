@@ -1,0 +1,79 @@
+{
+	"id": "sauve",
+	"title": "Sauvé",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "5"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mains ouvertes et cœur brisé",
+				"Ton sang versé m’a lavé",
+				"Oui sauvé, tu m’as sauvé",
+				"Tes blessures m’ont affranchi",
+				"Tu me donnes une nouvelle vie",
+				"Oui sauvé, tu m’as sauvé"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oui j’ai trouvé ta grâce",
+				"J’ai trouvé ta grâce"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sauveur puissant, maître des temps",
+				"Je célèbre ta gloire",
+				"Majestueux, Seigneur des cieux",
+				"Je te donne tout"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des joies sans nombre dans mon âme",
+				"Tes bienfaits chaque jour t’acclament",
+				"Oui sauvé, tu m’as sauvé",
+				"Ta grande paix chante à ma vie",
+				"Les louanges d’un Dieu béni",
+				"Oui sauvé, tu m’as sauvé"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Prend tout, tout",
+				"Prend tout, tout"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/sauve/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

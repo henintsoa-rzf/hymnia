@@ -1,0 +1,72 @@
+{
+	"id": "viens-suis-moi",
+	"title": "Viens suis-moi",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "7"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens suis-moi",
+				"Trouve à ma croix un peuple affranchi",
+				"Viens suis-moi",
+				"Laisse-moi porter tes peurs, tes soucis",
+				"Suis mes pas",
+				"Rêve avec moi, ta nouvelle vie",
+				"Viens suis-moi, viens suis-moi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Prends ta croix",
+				"Laisse de côté, tes visions sans gloire",
+				"Prends ta croix",
+				"Inspire des âmes, à vivre et croitre",
+				"Suis ma voix",
+				"Marque par ta vie, la vraie Histoire",
+				"Viens suis-moi, viens suis-moi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Donne-toi",
+				"Vis tes prières, sous sel et lumière",
+				"Donne-toi",
+				"Répands ton cœur, aux bouts de la terre",
+				"Viens suis-moi",
+				"Endure pour eux, les pauvres les malheureux",
+				"Viens suis-moi, viens suis-moi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens suis-moi",
+				"Par ma puissance, partage ton espérance",
+				"Viens suis-moi",
+				"Déborde de joie joie en vivant par la foi",
+				"Viens et vois",
+				"Regarde les cieux s’ouvrir sous tes yeux",
+				"Viens suis-moi, viens suis-moi"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/viens-suis-moi/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

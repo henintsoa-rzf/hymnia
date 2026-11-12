@@ -1,0 +1,92 @@
+{
+	"id": "folle-nuit-de-la-croix",
+	"title": "Folle nuit de la croix",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "28"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh nuit douce et effroyable",
+				"L’innocent, réprouvé",
+				"Livré aux mains des coupables",
+				"Mon Sauveur, condamné"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Heure étrange et mystérieuse",
+				"L’immortel, crucifié",
+				"En plein jour, nuit ténébreuse",
+				"Terre et ciel ont tremblé"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Folle nuit de la croix",
+				"Scandaleuse et si belle",
+				"Mon péché meurt au bois",
+				"J’ai la vie éternelle !",
+				"Sombre nuit, lumineuse",
+				"Infâme et merveilleuse",
+				"L’amour fou, du Dieu sage, pour nous"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nuit profonde et insondable",
+				"Dieu de grâce en colère",
+				"Par amour l’Agneau Pascal",
+				"Prend ma place au Calvaire"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ô matin miraculeux",
+				"La mort est oubliée",
+				"Quel lendemain glorieux",
+				"Jésus ressuscité !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Non jamais je n’oublierai, l’amour de la croix",
+				"Ta mort pour moi",
+				"Non jamais je n’oublierai, le don de la croix",
+				"Ta vie en moi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "José Luis Naime",
+			"role": "unspecified"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/pasteur-compagnie/folle-nuit-de-la-croix/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

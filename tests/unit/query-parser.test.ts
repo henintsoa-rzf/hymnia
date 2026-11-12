@@ -85,3 +85,26 @@ describe('query interpretation (contracts/search.md)', () => {
 		expect(parse('JEM')).toEqual({ kind: 'text', text: 'JEM' });
 	});
 });
+
+describe('hymnal names with digits (Evangile21, specs/004-evangile21-hymnal R9)', () => {
+	const e21 = new Map([
+		['evangile21', 'evangile21'],
+		['e21', 'evangile21']
+	]);
+	const parse21 = (q: string) => parseQuery(q, (label) => e21.get(compactKey(label)));
+
+	it.each(['Evangile21 12', 'E21 12', 'Evangile 21 12', 'evangile21 n°12'])(
+		'%s → evangile21 12',
+		(q) => {
+			expect(parse21(q)).toEqual({ kind: 'hymnal-number', hymnal: 'evangile21', number: '12' });
+		}
+	);
+
+	it('"Evangile21" alone is read as text with an unknown hymnal "EVANGILE" (known quirk)', () => {
+		expect(parse21('Evangile21')).toEqual({
+			kind: 'text',
+			text: 'Evangile21',
+			hymnalLabel: 'EVANGILE'
+		});
+	});
+});

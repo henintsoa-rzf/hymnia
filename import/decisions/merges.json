@@ -1,1 +1,44 @@
-[]
+[
+	{
+		"a": "toute-la-terre",
+		"b": "toute-la-terre-evangile21-6",
+		"decision": "distinct",
+		"date": "2026-11-12"
+	},
+	{
+		"a": "enseigne-moi",
+		"b": "enseigne-moi-evangile21-4",
+		"decision": "distinct",
+		"date": "2026-11-12"
+	},
+	{
+		"a": "la-voix-du-seigneur-m-appelle",
+		"b": "la-voix-du-seigneur-m-appelle-evangile21-12",
+		"decision": "distinct",
+		"date": "2026-11-12"
+	},
+	{
+		"a": "mon-dieu-plus-pres-de-toi",
+		"b": "mon-dieu-plus-pres-de-toi-evangile21-13",
+		"decision": "distinct",
+		"date": "2026-11-12"
+	},
+	{
+		"a": "o-jesus-je-t-aime",
+		"b": "o-jesus-je-t-aime-evangile21-15",
+		"decision": "distinct",
+		"date": "2026-11-12"
+	},
+	{
+		"a": "celui-qui-met-en-jesus",
+		"b": "par-la-foi",
+		"decision": "distinct",
+		"date": "2026-11-12"
+	},
+	{
+		"a": "redempteur-adorable",
+		"b": "redempteur-adorable-evangile21-18",
+		"decision": "distinct",
+		"date": "2026-11-12"
+	}
+]

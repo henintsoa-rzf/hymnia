@@ -1,0 +1,78 @@
+{
+	"id": "psaume-32",
+	"title": "Psaume 32",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "31"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Heureux l’homme à qui Dieu pardonne",
+				"Dont le péché est enlevé",
+				"Devant l’orgueil qui emprisonne",
+				"Mon être dépérissait"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma faute ô Dieu j’ai confessé",
+				"Je n’ai pas caché ma détresse",
+				"Car tout fidèle peut prier",
+				"Quand vient la sécheresse"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es un abri pour moi Seigneur",
+				"Tu me gardes du danger",
+				"Tu m’entoures de chants de délivrance",
+				"Ô joie retrouvée",
+				"Du pécheur pardonné"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Face au péché, Il avertit",
+				"La destruction, la mort menacent",
+				"Mais ceux qui en Dieu se confient",
+				"Sont recouverts de grâce"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "José Luis Naime",
+			"role": "lyrics"
+		},
+		{
+			"name": "José Luis Naime",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-32/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

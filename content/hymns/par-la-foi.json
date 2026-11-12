@@ -1,0 +1,88 @@
+{
+	"id": "par-la-foi",
+	"title": "Par la foi",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "16"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Celui qui met en Jésus",
+				"Une pleine confiance",
+				"Jamais ne chancelle plus",
+				"Complète est sa délivrance",
+				"Par la foi nous marcherons",
+				"Par la foi nous triomphons",
+				"Par la foi notre Rédempteur",
+				"Nous rendra plus que vainqueurs"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans les jours d’adversité",
+				"Quand tu sens gronder l’orage",
+				"Regarde en sécurité",
+				"À Christ et reprends courage",
+				"Par la foi nous marcherons",
+				"Par la foi nous triomphons",
+				"Par la foi notre Rédempteur",
+				"Nous rendra plus que vainqueurs"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand Satan veut te troubler",
+				"Enlever ton espérance",
+				"Ton passé te reprocher",
+				"Que Christ soit ton assurance",
+				"Par la foi nous marcherons",
+				"Par la foi nous triomphons",
+				"Par la foi notre Rédempteur",
+				"Nous rendra plus que vainqueurs"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Par la foi je marcherai",
+				"En comptant sur ses promesses",
+				"Par lui je triompherai",
+				"En tout temps de mes détresses",
+				"Par la foi nous marcherons",
+				"Par la foi nous triomphons",
+				"Par la foi notre Rédempteur",
+				"Nous rendra plus que vainqueurs",
+				"Nous rendra plus que vainqueurs",
+				"Nous rendra plus que vainqueurs",
+				"Par la foi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Antydot",
+			"role": "music"
+		},
+		{
+			"name": "A. Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/par-la-foi/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

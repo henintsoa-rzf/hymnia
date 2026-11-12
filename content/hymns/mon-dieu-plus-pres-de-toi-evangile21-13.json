@@ -1,0 +1,73 @@
+{
+	"id": "mon-dieu-plus-pres-de-toi-evangile21-13",
+	"title": "Mon Dieu plus près de toi",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "13"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Dieu plus près de toi, plus près de toi",
+				"C’est le mot de ma foi : plus près de toi",
+				"Dans le jour où l’épreuve, déborde comme un fleuve",
+				"Garde-moi près de toi, plus près de toi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus près de toi, toujours, plus près de toi !",
+				"Tiens-moi dans ma douleur, tout près de toi",
+				"Alors que la souffrance, fait son œuvre en silence,",
+				"Toujours plus près de toi, Seigneur, tiens-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Plus près de toi, toujours, plus près de toi !",
+				"Donne-moi ton secours, soutiens ma foi !",
+				"Que Satan se déchaîne, ton amour me ramène",
+				"Toujours plus près de toi, plus près de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon Dieu, plus près de toi, dans le désert",
+				"J’ai vu, plus près de toi, ton ciel ouvert.",
+				"Pèlerin, bon courage, ton chant brave l’orage.",
+				"Mon Dieu plus près de toi, plus près de toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "A. Humbert",
+			"role": "lyrics"
+		},
+		{
+			"name": "R.K. Carter",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "arrangement"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/dieu-plus-pres-de-toi/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

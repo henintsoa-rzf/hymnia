@@ -1,0 +1,72 @@
+{
+	"id": "toute-la-terre-evangile21-6",
+	"title": "Toute la terre",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "6"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les premiers rayons du soleil",
+				"Réveillent un monde qui s’éveille",
+				"Montagnes et forêts et rivières",
+				"Voyez la lumière !",
+				"Prenez l’envol milliers d’oiseaux",
+				"Déployez-vous au plus haut",
+				"Parcourez cimes et nuages",
+				"Aux plus lointaines plages"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toute la terre change, à ta louange",
+				"Un cri de joie, Alléluia",
+				"Et d’une seule voix élève vers toi",
+				"Une offrande unie, d’enfants bénis",
+				"Que le nom du Dieu de l’univers",
+				"Soi proclamé sur toute la terre",
+				"Que les coeurs sanctifiés par ton amour",
+				"Ne cessent de chanter pour toujours",
+				"Alléluia, alléluia, alléluia, alléluia"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les rayons de la sainte croix",
+				"Donnent vie à tous ceux qui croient",
+				"Au nom tout puissant de Jésus",
+				"La nuit est vaincue",
+				"Prends ton envol chrétien fidèle",
+				"Déploies ta foi vers le ciel",
+				"Célèbre par des cris de joie",
+				"Les exploits de la croix"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/toute-la-terre/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

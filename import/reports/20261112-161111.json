@@ -1,0 +1,242 @@
+{
+	"runId": "20261112-161111",
+	"startedAt": "2026-11-12T16:11:11.736Z",
+	"finishedAt": "2026-11-12T16:11:12.532Z",
+	"args": {
+		"source": "evangile21",
+		"hymnals": [
+			"evangile21"
+		],
+		"offline": true,
+		"dryRun": false
+	},
+	"perSource": {
+		"evangile21": {
+			"status": "ok",
+			"pages": 38,
+			"failures": 0,
+			"reasons": {}
+		}
+	},
+	"perHymnal": {
+		"evangile21": {
+			"new": [
+				{
+					"number": "4",
+					"hymnId": "enseigne-moi-evangile21-4",
+					"title": "Enseigne-moi"
+				},
+				{
+					"number": "12",
+					"hymnId": "la-voix-du-seigneur-m-appelle-evangile21-12",
+					"title": "La voix du Seigneur m’appelle"
+				},
+				{
+					"number": "13",
+					"hymnId": "mon-dieu-plus-pres-de-toi-evangile21-13",
+					"title": "Mon Dieu plus près de toi"
+				},
+				{
+					"number": "15",
+					"hymnId": "o-jesus-je-t-aime-evangile21-15",
+					"title": "Ô Jésus je t’aime"
+				},
+				{
+					"number": "16",
+					"hymnId": "par-la-foi",
+					"title": "Par la foi"
+				},
+				{
+					"number": "18",
+					"hymnId": "redempteur-adorable-evangile21-18",
+					"title": "Rédempteur adorable"
+				}
+			],
+			"changed": [],
+			"unchanged": [
+				{
+					"number": "1",
+					"hymnId": "en-esprit-en-verite",
+					"title": "En esprit en vérité"
+				},
+				{
+					"number": "2",
+					"hymnId": "alleluia-quel-grand-sauveur",
+					"title": "Alléluia, quel grand Sauveur"
+				},
+				{
+					"number": "3",
+					"hymnId": "mon-ame-eveille-toi",
+					"title": "Mon âme éveille-toi"
+				},
+				{
+					"number": "5",
+					"hymnId": "sauve",
+					"title": "Sauvé"
+				},
+				{
+					"number": "6",
+					"hymnId": "toute-la-terre-evangile21-6",
+					"title": "Toute la terre"
+				},
+				{
+					"number": "7",
+					"hymnId": "viens-suis-moi",
+					"title": "Viens suis-moi"
+				},
+				{
+					"number": "8",
+					"hymnId": "coule-a-flots-source-de-grace",
+					"title": "Coule à flots source de grâce"
+				},
+				{
+					"number": "9",
+					"hymnId": "hymne-a-la-joie",
+					"title": "Hymne à la joie"
+				},
+				{
+					"number": "10",
+					"hymnId": "jesus-a-tout-paye",
+					"title": "Jésus a tout payé"
+				},
+				{
+					"number": "11",
+					"hymnId": "joie-dans-le-monde",
+					"title": "Joie dans le monde"
+				},
+				{
+					"number": "14",
+					"hymnId": "o-dieu-ta-grace",
+					"title": "Ô Dieu ta grâce"
+				},
+				{
+					"number": "17",
+					"hymnId": "quel-amour-mysterieux",
+					"title": "Quel amour mystérieux"
+				},
+				{
+					"number": "19",
+					"hymnId": "roc-des-ages",
+					"title": "Roc des âges"
+				},
+				{
+					"number": "20",
+					"hymnId": "viens-decouvrir-cette-fontaine",
+					"title": "Viens découvrir cette fontaine"
+				},
+				{
+					"number": "21",
+					"hymnId": "vois-l-amour",
+					"title": "Vois l’amour"
+				},
+				{
+					"number": "22",
+					"hymnId": "sois-seul-ma-vision",
+					"title": "Sois seul ma vision"
+				},
+				{
+					"number": "23",
+					"hymnId": "sacrifice-parfait",
+					"title": "Sacrifice parfait"
+				},
+				{
+					"number": "24",
+					"hymnId": "je-m-attends-a-toi",
+					"title": "Je m’attends à toi"
+				},
+				{
+					"number": "25",
+					"hymnId": "parle-nous",
+					"title": "Parle-nous"
+				},
+				{
+					"number": "26",
+					"hymnId": "jesus-merci",
+					"title": "Jésus merci"
+				},
+				{
+					"number": "27",
+					"hymnId": "seigneur-mon-roc-et-mon-redempteur-o-lord-my-rock-and-my-redeemer",
+					"title": "Seigneur, mon Roc et mon Rédempteur (O Lord, my Rock and my Redeemer)"
+				},
+				{
+					"number": "28",
+					"hymnId": "folle-nuit-de-la-croix",
+					"title": "Folle nuit de la croix"
+				},
+				{
+					"number": "29",
+					"hymnId": "dieu-l-eternel-incree",
+					"title": "Dieu l’Éternel Incréé"
+				},
+				{
+					"number": "30",
+					"hymnId": "le-seul-dieu-trois-fois-saint",
+					"title": "Le seul Dieu trois fois saint"
+				},
+				{
+					"number": "31",
+					"hymnId": "psaume-32",
+					"title": "Psaume 32"
+				},
+				{
+					"number": "32",
+					"hymnId": "psaume-16-jesus-sois-mon-refuge",
+					"title": "Psaume 16 (Jésus sois mon refuge)"
+				},
+				{
+					"number": "33",
+					"hymnId": "psaume-150",
+					"title": "Psaume 150"
+				},
+				{
+					"number": "34",
+					"hymnId": "psaume-42-je-le-louerai-encore",
+					"title": "Psaume 42 (Je le louerai encore)"
+				},
+				{
+					"number": "35",
+					"hymnId": "psaume-62-mon-coeur-s-attend-a-toi",
+					"title": "Psaume 62 (Mon cœur s’attend à toi)"
+				},
+				{
+					"number": "36",
+					"hymnId": "tout-est-accompli-a-la-croix",
+					"title": "Tout est accompli à la croix"
+				},
+				{
+					"number": "37",
+					"hymnId": "notre-esperance-est-en-christ",
+					"title": "Notre espérance est en Christ"
+				},
+				{
+					"number": "38",
+					"hymnId": "en-memoire-de-ton-nom",
+					"title": "En mémoire de ton nom"
+				}
+			],
+			"skipped": [],
+			"missing": [],
+			"possibleDuplicates": [],
+			"autoMerged": [],
+			"conflicts": [],
+			"noCredits": [],
+			"rightsInherited": [],
+			"unknownCredits": [],
+			"strippedMarkup": {
+				"lyrics-marker": 14,
+				"section-label": 127,
+				"title-qualifier": 2,
+				"download-links": 33,
+				"bible-verse": 6,
+				"repeat-marker": 1
+			}
+		}
+	},
+	"rights": {
+		"evangile21": {
+			"published": 0,
+			"unpublished": 38
+		}
+	}
+}

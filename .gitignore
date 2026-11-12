@@ -3,6 +3,8 @@
 
 # Raw pages downloaded by the importer (copyrighted, never committed)
 import/cache/
+# Pages saved from a browser for sources that block the importer (add-pages)
+import/inbox/
 
 # Node / SvelteKit
 node_modules/

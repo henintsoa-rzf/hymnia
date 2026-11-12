@@ -1,0 +1,75 @@
+{
+	"id": "redempteur-adorable-evangile21-18",
+	"title": "Rédempteur adorable",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "18"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rédempteur adorable sur la croix attaché",
+				"Traité comme un coupable, brisé pour mon péché",
+				"Ton angoisse suprême, ta douleur, ton tourment",
+				"Me disent : Vois je t’aime, j’ai pris ton châtiment"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Abandonné du Père, dans mon âme troublée",
+				"Buvant la coupe amère, pour ton iniquité",
+				"De l’éternelle flamme, mon amour te sauva",
+				"Je mourus pour ton âme, pécheur à Golgotha!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le sang de mes blessures, ma couronne de roi",
+				"Toutes ces meurtrissures, comprends-le, c’est pour toi !",
+				"J’ai subi ta souffrance, j’ai porté ta langueur",
+				"Contemple en assurance, ton grand Libérateur!",
+				"Allélu, alléluia (x4)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ton amour me réclame, me voici, cher Sauveur!",
+				"Prends mon corps et mon âme, pour prix de ta douleur",
+				"Oui, mon âme ravie, désormais ne veut plus",
+				"Que vivre de ta vie, à ta gloire, ô Jésus !",
+				"Allélu, alléluia (x4)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "S. S. Wesley",
+			"role": "music"
+		},
+		{
+			"name": "A. Humbert",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "arrangement"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/redempteur-adorable/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

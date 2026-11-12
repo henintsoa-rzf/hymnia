@@ -1,0 +1,81 @@
+{
+	"id": "joie-dans-le-monde",
+	"title": "Joie dans le monde",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "11"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Joie dans le monde, le Seigneur vient",
+				"Accueillons notre Roi !",
+				"Que tous les cœurs se donnent au sien",
+				"En chantant avec foi",
+				"En chantant avec foi",
+				"En chan… en chantant avec foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Joie dans le monde, le Sauveur règne",
+				"Peuples élevez vos voix !",
+				"Que les rochers, les vents, les plaines",
+				"Retentissent de joie",
+				"Retentissent de joie",
+				"Reten… retentissent de joie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le péché la mort sont bannis",
+				"L’épine est refoulée !",
+				"Il vient donner, la paix, la vie",
+				"À tous les condamnés",
+				"A tous les condamnés",
+				"A tous, à tous les condamnés !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il règne avec justice et grâce",
+				"En soleil glorieux !",
+				"Il fait briller, en toute place",
+				"Son amour merveilleux",
+				"Son amour merveilleux",
+				"Son a… son amour merveilleux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Isaac Watts",
+			"role": "lyrics"
+		},
+		{
+			"name": "Isaac Watts",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/joie-dans-le-monde/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

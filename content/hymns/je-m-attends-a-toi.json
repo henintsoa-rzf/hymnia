@@ -1,0 +1,105 @@
+{
+	"id": "je-m-attends-a-toi",
+	"title": "Je m’attends à toi",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "24"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du fond du gouffre, je t’appelle",
+				"Dans la nuit sombre entends mon cri",
+				"Incline vers mon ton oreille",
+				"Délivre-moi, je t’en supplie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si tu comptais tous mes péchés",
+				"Loin de toi je serais banni",
+				"Mais tu m’offres un pardon complet",
+				"Ta grâce seule me suffit"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m’attends à toi",
+				"Je m’attends à toi",
+				"Ta parole est mon appui",
+				"Je m’attends à toi",
+				"Fermement à toi",
+				"Car toi seul me rassasies"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En Dieu seul mets ton espérance",
+				"Il est puissant pour te sauver",
+				"Bientôt viendra la délivrance",
+				"Christ est le Roi ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour nous un chemin est tracé",
+				"Dieu lui-même a payé le prix",
+				"En lui notre foi est placée",
+				"Son sacrifice nous guérit"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m’attends à toi",
+				"Je m’attends à toi",
+				"Dans la tempête et la nuit",
+				"Je m’attends à toi",
+				"Fermement à toi",
+				"Ton amour est mon abri"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jordan Kaufflin",
+			"role": "unspecified"
+		},
+		{
+			"name": "Matt Merker",
+			"role": "unspecified"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "unspecified"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "unspecified"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/video/je-mattends-a-toi/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,85 @@
+{
+	"id": "sois-seul-ma-vision",
+	"title": "Sois seul ma vision",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "22"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sois seul ma vision, ô Roi de mon cœur",
+				"Brise en moi tout autre désir Seigneur !",
+				"Dès l’aube du jour, conduis mes pensées",
+				"Qu’en ta présence, je reste comblé"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sois ma sagesse, Parole de vie",
+				"Garde-moi en toi, nourris mon esprit !",
+				"Père tout-puissant, en moi tu demeures",
+				"Je suis ton enfant, uni à ton cœur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le renom, l’argent, ne m’attirent pas",
+				"Mon héritage à jamais tu seras",
+				"Toi seul oui toi seul, premier dans mon cœur",
+				"Grand Roi céleste, puits de mon bonheur"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô Dieu, soit le centre, et mon plus grand bien !",
+				"Ô Jésus, ma gloire, mon cœur t’appartient !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Grand Roi céleste, pour moi victorieux",
+				"Éveille mon âme aux plaisirs des cieux",
+				"Ô cœur de mon cœur, qu’importe mon sort",
+				"Reste ma vision, Seigneur je t’implore !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô Dieu, soit le centre, et mon plus grand bien !",
+				"Ô Jésus, ma gloire, mon cœur t’appartient !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Eleanor Hull",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/sois-seul-vision/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

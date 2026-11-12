@@ -1,0 +1,70 @@
+{
+	"id": "psaume-16-jesus-sois-mon-refuge",
+	"title": "Psaume 16 (Jésus sois mon refuge)",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "32"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus sois mon refuge",
+				"Tu es mon Roc, mon seul secours",
+				"Christ est ma vie pour toujours",
+				"Christ est mon seul trésor"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je n’ai rien, tout ce que j’ai c’est toi",
+				"Aucun autre ne peut me combler",
+				"Mon regard est fixé sur Toi seul",
+				"Ô je suis comblé par ta bonté"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’aime entendre la voix du Berger",
+				"Il me fortifie, je suis sa voie",
+				"Et à ses côtés je suis en paix",
+				"Ô son conseil me remplit de joie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand ce corps terrestre s’éteindra",
+				"Ma vie continuera avec toi",
+				"Avec Christ en Dieu je suis caché",
+				"Le grand Vainqueur, le Ressuscité",
+				"Ô mon trésor pour l’éternité"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ben Slee",
+			"role": "unspecified"
+		},
+		{
+			"name": "Hymnes21",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-16-jesus-sois-mon-refuge/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

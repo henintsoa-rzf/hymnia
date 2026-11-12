@@ -1,0 +1,120 @@
+{
+	"id": "en-memoire-de-ton-nom",
+	"title": "En mémoire de ton nom",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "38"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le souvenir de nos souffrances",
+				"Distrait nos cœurs de ta présence",
+				"Dieu, sois l’objet de nos pensées",
+				"Nous sommes venus pour t’adorer"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le souvenir de nos offenses",
+				"Remémore nos inconsistances",
+				"Invités à ta table ô Dieu",
+				"Nous sommes indignes en ce lieu"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Mais c’est en souvenir du Sauveur",
+				"L’Agneau qui a porté nos douleurs",
+				"Que nous voulons vivre nos vies et consacrer nos cœurs"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus",
+				"En mémoire de ton nom, nous marcherons",
+				"En mémoire de ton sang, nous offrirons",
+				"Nos vies, notre adoration",
+				"Jésus,",
+				"En mémoire de ton corps brisé pour nous",
+				"Nous nous humilions nous plions le genou",
+				"Ta mort a tout accompli"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le souvenir de ton amour",
+				"Nous portera jour après jour",
+				"Ô garde-nous auprès de toi",
+				"Que ta face éclaire nos pas"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le souvenir de ta victoire",
+				"Sera le chemin vers ta gloire",
+				"Tu es mort et ressuscité",
+				"Nous régnerons à tes côtés"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Car c’est en souvenir du Sauveur",
+				"L’Agneau qui a porté nos douleurs",
+				"Que nous voulons vivre nos vies et consacrer nos cœurs"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus",
+				"En mémoire de ton nom, nous marcherons",
+				"En mémoire de ton sang, nous offrirons",
+				"Nos vies, notre adoration",
+				"Jésus,",
+				"En mémoire de ton corps brisé pour nous",
+				"Nous nous humilions nous plions le genou",
+				"Ta mort a tout accompli"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je n’oublierai pas ta puissance",
+				"Ni ton obéissance",
+				"Je n’oublierai pas la pureté",
+				"La beauté du sacrifice parfait",
+				"Je n’oublierai jamais ta grâce",
+				"Je suivrai tes traces",
+				"Et si je dois porter ma croix",
+				"Je le ferai avec joie"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/pasteur-compagnie/en-memoire-de-ton-nom-chant/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

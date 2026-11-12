@@ -1,0 +1,83 @@
+{
+	"id": "o-dieu-ta-grace",
+	"title": "Ô Dieu ta grâce",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "14"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Grâce infinie du Seigneur d’amour",
+				"De loin surpasse tous mes forfaits",
+				"Là sur la croix scellés à toujours",
+				"Par ton sang mes torts sont effacés"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô Dieu ta grâce",
+				"Pardonne et me transforme à jamais",
+				"Ô Dieu ta grâce",
+				"Mille fois plus grande que mon péché"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le désespoir comme une vague immense",
+				"Frappait mon âme et me condamnait",
+				"Devant ses flots en surabondance",
+				"Ta grâce insondable m’a sauvé"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sombre est la tâche de mes offenses",
+				"Tous mes efforts ne pourraient l’ôter",
+				"Ta grâce seule ma délivrance",
+				"Blanc comme la neige je suis lavé"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Grâce infinie, grâce incomparable",
+				"Don merveilleux, pour tous ceux qui croient",
+				"Toi qui recherches un amour semblable",
+				"Reçois cette grâce par la foi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel B. Towner",
+			"role": "music"
+		},
+		{
+			"name": "Julia H. Johnston",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/o-dieu-grace/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,81 @@
+{
+	"id": "roc-des-ages",
+	"title": "Roc des âges",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "19"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Roc des âges, fendu pour moi",
+				"Me voici caché en toi !",
+				"Par cette eau et par ce sang",
+				"Qui ont coulé de ton flanc",
+				"Purge-moi de ma souillure",
+				"Sauve-moi et rends-moi pur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Aucune œuvre de mes mains",
+				"Ne satisfait un Dieu saint",
+				"Si mon zèle me consumait,",
+				"Que mes larmes sans fin coulaient,",
+				"Du péché je ne peux fuir",
+				"Ta grâce seule doit me couvrir"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les mains vides je viens à toi",
+				"Pour m’accrocher à la croix",
+				"Nu, toi seul peux m’habiller",
+				"Me voici, faible, égaré",
+				"Sali, à la source je cours",
+				"Lave-moi, sois mon secours !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand ma course finira",
+				"Quand chancellera mon pas",
+				"Vers toi je m’envolerai",
+				"Devant toi, serai jugé",
+				"Roc des âges, fendu pour moi",
+				"Me voici caché en toi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Augustus Toplady",
+			"role": "lyrics"
+		},
+		{
+			"name": "Thomas Hastings",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/roc-des-ages/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

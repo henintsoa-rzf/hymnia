@@ -1,0 +1,85 @@
+{
+	"id": "vois-l-amour",
+	"title": "Vois l’amour",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "21"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vois l’amour, tel un océan",
+				"Majestueux, ô profond !",
+				"Vois le Roi de la vie offrant",
+				"Son sang pour nous en rançon",
+				"Qui pourrait cesser de chanter ?",
+				"Qui, son amour, oubliera ?",
+				"Les éloges de sa bonté",
+				"Comblent l’univers de joie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Au mont de la crucifixion",
+				"Les fontaines s’ouvrent en grand",
+				"D’un déluge de compassion",
+				"Coule la grâce en torrents",
+				"L’amour incommensurable",
+				"Jaillit des portes célestes",
+				"Quand la justice véritable",
+				"Touche un pécheur et l’acquiesce"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Vois l’amour, vois la croix",
+				"Souviens-toi de Golgotha",
+				"Vois Jésus, ton Sauveur,",
+				"Vois l’amour du Rédempteur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Laisse-moi cet amour prendre",
+				"Pour te donner en retour",
+				"Mon cœur, ma vie, en offrande",
+				"Le chant de mon humble amour",
+				"Tu seras ma seule gloire",
+				"Rien du monde je ne vois",
+				"Ton amour sera mon phare",
+				"Je vivrai, caché en toi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Rees",
+			"role": "lyrics"
+		},
+		{
+			"name": "William Williams",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/vois-lamour/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

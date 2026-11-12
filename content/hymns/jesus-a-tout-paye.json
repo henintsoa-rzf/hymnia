@@ -1,0 +1,83 @@
+{
+	"id": "jesus-a-tout-paye",
+	"title": "Jésus a tout payé",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "10"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entends-tu sa douce voix,",
+				"« Mon enfant, prends ma main,",
+				"Bien que faible, viens à moi",
+				"Tu trouveras ton soutien »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus a tout payé",
+				"Ma dette est acquittée",
+				"La marque du péché effacée",
+				"Mon âme est purifiée"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dénué de tout mérite",
+				"Mais de grâce comblé",
+				"Par le sang de Christ j’hérite",
+				"D’un habit de sainteté"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, seule ta grandeur",
+				"Soutient les miséreux",
+				"Peut briser les cœurs de pierre",
+				"Et purifier le lépreux"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Au grand jour devant le trône",
+				"En lui, glorifié",
+				"Jésus mourut pour mon âme",
+				"À jamais je le louerai !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Elvina Mabel Hall",
+			"role": "lyrics"
+		},
+		{
+			"name": "John Thomas Grape",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/jesus-a-paye/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

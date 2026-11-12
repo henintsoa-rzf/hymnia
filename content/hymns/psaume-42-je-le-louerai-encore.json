@@ -1,0 +1,77 @@
+{
+	"id": "psaume-42-je-le-louerai-encore",
+	"title": "Psaume 42 (Je le louerai encore)",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "34"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": null,
+			"lines": [
+				"Pourquoi gémis-tu, mon âme ?",
+				"Pourquoi pleurer sur ton sort ?",
+				"Mon espérance est en Dieu mon Sauveur",
+				"Je le louerai, le louerai encore.",
+				"Pourquoi gémis-tu, mon âme ?",
+				"Pourquoi pleurer sur ton sort ?",
+				"Mon espérance est en Dieu mon Sauveur",
+				"Je le louerai, le louerai encore."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, Alléluia Alléluia",
+				"Je le louerai, le louerai encore.(2x)"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Jour après jour tes compassions abondent",
+				"Je crois en ta bonté au cœur de la nuit",
+				"Qu’importe où j’erre, tu restes fidèle",
+				"Seigneur, fortifie mon esprit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jonny Robinson",
+			"role": "unspecified"
+		},
+		{
+			"name": "Tiarne Tranter",
+			"role": "unspecified"
+		},
+		{
+			"name": "TsiryBarbara Andria",
+			"role": "translation"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "translation"
+		},
+		{
+			"name": "Kevin Stauffer",
+			"role": "translation"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/psaume-42-je-le-louerai-encore/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

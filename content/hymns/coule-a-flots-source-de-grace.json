@@ -1,0 +1,75 @@
+{
+	"id": "coule-a-flots-source-de-grace",
+	"title": "Coule à flots source de grâce",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "8"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Coule à flots, source de grâce",
+				"Inonde-moi de ton chant",
+				"Qu’aux bontés qui s’entrelacent",
+				"Je réponde en adorant !",
+				"Enseigne-moi l’un des psaumes",
+				"Entonné dans les lieux saints",
+				"Établis-moi près du trône",
+				"Siège de l’amour divin"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est ta grâce qui m’a sauvé",
+				"Qui me conduit chaque jour",
+				"Et par ton soutien oui je sais",
+				"J’entrerai dans ton séjour",
+				"Etranger, Jésus m’a trouvé",
+				"Errant loin des cours de Dieu",
+				"Lui qui délivre du danger",
+				"M’a racheté pour les cieux"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dépendant de cette grâce",
+				"Chaque jour je suis à toi !",
+				"Que ta bonté, ne se lasse",
+				"D’attiser ma faible foi",
+				"Prompt à chuter, je le ressens",
+				"À trahir le Dieu que j’aime",
+				"Voici mon cœur, je te le tends,",
+				"Jusqu’au ciel qu’il t’appartienne"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Wyeth",
+			"role": "music"
+		},
+		{
+			"name": "Robert Robinson",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/coule-a-flots-source-de-grace/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

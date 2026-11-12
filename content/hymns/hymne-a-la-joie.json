@@ -1,0 +1,89 @@
+{
+	"id": "hymne-a-la-joie",
+	"title": "Hymne à la joie",
+	"entries": [
+		{
+			"hymnal": "evangile21",
+			"number": "9"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô joie bénie nous t’adorons",
+				"Soleil d’amour, Roi glorieux",
+				"Comme la fleur nous nous tournons",
+				"Vers tes rayons radieux",
+				"Fondez brouillards de tristesse",
+				"Ténèbres de peur, de colère",
+				"Source infinie d’allégresse",
+				"Remplis-nous de ta lumière !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le ciel, la terre, en louange",
+				"Réfléchissent ton éclat",
+				"Les étoiles et les anges",
+				"Inlassables chœurs du Roi",
+				"Les forêts et les campagnes",
+				"Les prés fleuris, et l’hirondelle",
+				"Les torrents de nos montagnes",
+				"A cette joie nous appellent"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toi qui donnes, qui pardonnes",
+				"Dieu bienheureux, bénissant",
+				"Puits de joie de tous les hommes",
+				"Soutien de tous les vivants",
+				"Toi le Père, Christ un frère",
+				"Tous ceux qui t’aiment sont à toi",
+				"Apprends-nous l’amour sincère",
+				"Elève-nous vers ta joie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mortels, joignez la chorale",
+				"De l’étoile du matin",
+				"Que Son amour insondable",
+				"Nous unisse entre prochains",
+				"Toujours chantant, marchons vers lui",
+				"Dans les épreuves, victorieux",
+				"Par ce concert soyons conduits",
+				"Dans la joie de notre Dieu"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ludwig van Beethoven",
+			"role": "music"
+		},
+		{
+			"name": "Henry Van Dyke",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"url": "https://evangile21.thegospelcoalition.org/article/hymne-a-joie/",
+		"retrievedAt": "2026-11-12"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

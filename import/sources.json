@@ -62,5 +62,21 @@
 			"checkedAt": "2026-11-11"
 		},
 		"permission": "unknown"
+	},
+	{
+		"id": "evangile21",
+		"name": "Evangile 21 — evangile21.thegospelcoalition.org",
+		"baseUrl": "https://evangile21.thegospelcoalition.org",
+		"hymnals": [
+			"evangile21"
+		],
+		"minDelayMs": 1000,
+		"terms": {
+			"url": "https://tgc.org/permissions",
+			"summary": "Page de permissions de The Gospel Coalition (lien « PERMISSIONS » du pied de page) pas encore lue : le site bloque les requêtes automatiques. Sur les pages des chants : les traductions de Philippe Viguier sont marquées « Creative Commons » (sans précision de licence) ; d'autres portent le © de leur éditeur (Getty Music, CityAlight, ASAPH MEDIA 33 : « Reproduction interdite sans l'accord de LTC »). Permission à demander avant toute publication.",
+			"checkedAt": "2026-11-12"
+		},
+		"permission": "unknown",
+		"access": "saved-pages"
 	}
 ]

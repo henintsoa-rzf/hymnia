@@ -1,0 +1,95 @@
+{
+	"id": "dieu-merveilleux",
+	"title": "Dieu merveilleux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "853"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui est semblable au Dieu d'Israël ?",
+				"Qui est semblable au Dieu des cieux ?",
+				"Juste et saint, tu nous pardonnes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux chanter et proclamer :",
+				"« Tu es le Roi, Dieu merveilleux ».",
+				"Je veux publier tes hauts faits,",
+				"Élever ton nom, me réjouir dans ta maison.",
+				"Dieu merveilleux,",
+				"À toi la louange et l'honneur !",
+				"Nous célébrons ton saint nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui est semblable au Fils de l'homme ?",
+				"Qui a donné pour nous sa vie ?",
+				"Emmanuel tu es avec nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux chanter et proclamer :",
+				"« Tu es le Roi, Dieu merveilleux ».",
+				"Je veux publier tes hauts faits,",
+				"Élever ton nom, me réjouir dans ta maison.",
+				"Dieu merveilleux,",
+				"À toi la louange et l'honneur !",
+				"Nous célébrons ton saint nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qui est semblable au Saint Esprit ?",
+				"La vérité qui nous conduit !",
+				"J'ouvre mon cœur, tout mon être",
+				"Pour recevoir ta vie."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Dieu merveilleux.",
+				"Je veux publier tes hauts faits,",
+				"Élever ton nom, me réjouir dans ta maison.",
+				"Dieu merveilleux,",
+				"À toi la louange et l'honneur !",
+				"Nous célébrons ton saint nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre-Nicholas de Katow",
+			"role": "music"
+		},
+		{
+			"name": "Pierre-Nicholas de Katow",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem853",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

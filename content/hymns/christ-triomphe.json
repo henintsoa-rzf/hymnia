@@ -1,0 +1,57 @@
+{
+	"id": "christ-triomphe",
+	"title": "Christ triomphe",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "968"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Humble et sans faute, chargé des nôtres",
+				"Jusqu'au sang qui ôte le péché du monde.",
+				"Soumis au Père jusqu'au Calvaire.",
+				"L'espoir de la terre cloué sur la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, ô digne rançon divine",
+				"Sur l'autel ultime d'un Dieu apaisé.",
+				"La nuit s'effondre, Christ triomphe.",
+				"Rédempteur du monde, tout est accompli."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que craindre encore, puisque sa mort",
+				"M'affranchit du sort qui me condamnait ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christian Frappier ; Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Christian Frappier ; Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem968",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

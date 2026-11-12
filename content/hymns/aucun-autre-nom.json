@@ -1,0 +1,108 @@
+{
+	"id": "aucun-autre-nom",
+	"title": "Aucun autre nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1159"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon espoir est fondé sur ton nom.",
+				"Ma victoire fut la tienne à la croix.",
+				"Ta parole est ma déclaration.",
+				"Ta promesse est la raison de ma foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a pas d'autre Dieu que toi,",
+				"Aucun autre nom n'est comparable",
+				"À celui qui a sauvé mon âme.",
+				"Jésus, tu es Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'ai l'assurance que tu me répondras.",
+				"J'ai l'assurance que tu guideras mes pas.",
+				"Tous mes rêves prendront vie en ton nom,",
+				"Ta lumière éclairera ma vision."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a pas d'autre Dieu que toi,",
+				"Aucun autre nom n'est comparable",
+				"À celui qui a sauvé mon âme.",
+				"Jésus, tu es Roi des rois."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ton nom a calmé la tempête,",
+				"Ton nom a éclairé la voie.",
+				"Ton nom a effacé la dette,",
+				"Ton nom a vaincu à la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton nom a guéri mes blessures,",
+				"Ton nom a rebâti mes ruines.",
+				"Ton nom a écrit mon futur,",
+				"Ton nom a transformé ma vie."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a pas d'autre Dieu que toi,",
+				"Aucun autre nom n'est comparable",
+				"À celui qui a sauvé mon âme.",
+				"Jésus, tu es Roi des rois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jérémy Besnard",
+			"role": "music"
+		},
+		{
+			"name": "Jérémy Besnard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1159",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

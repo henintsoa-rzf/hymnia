@@ -1,0 +1,93 @@
+{
+	"id": "par-ce-chemin-solitaire",
+	"title": "Par ce chemin solitaire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "235"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Par ce chemin solitaire,",
+				"Voyageur où courez-vous ?",
+				"Vers une nouvelle terre,",
+				"Que Dieu prépara pour nous.",
+				"Par delà plaines et cimes,",
+				"Vers ces demeures sublimes,",
+				"Vers ces demeures sublimes,",
+				"Amis, venez avec nous !",
+				"Vers ces demeures sublimes,",
+				"Amis, venez avec nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans cette terre nouvelle,",
+				"Voyageurs qu'espérez-vous ?",
+				"Une couronne immortelle,",
+				"Que Christ mérita pour nous.",
+				"Là toujours en sa présence,",
+				"Plus de larmes, de souffrance,",
+				"Plus de larmes, de souffrances,",
+				"Amis, venez avec nous !",
+				"Plus de larmes, de souffrances,",
+				"Amis, venez avec nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bien faible est votre cortège.",
+				"Quels dangers affrontez-vous ?",
+				"Le Tout-Puissant nous protège",
+				"Et son Ange est avec nous",
+				"L'Éternel est notre égide ;",
+				"Nous avons Jésus pour guide,",
+				"Nous avons Jésus pour guide ;",
+				"Amis, venez avec nous !",
+				"Nous avons Jésus pour guide ;",
+				"Amis, venez avec nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Trouverons-nous de la place ?",
+				"Ce bonheur est-il pour nous ?",
+				"Venez ! en ce jour de grâce,",
+				"Le ciel est ouvert pour tous.",
+				"À la source de la vie",
+				"Dieu Lui-même vous convie,",
+				"Dieu Lui-même vous convie ;",
+				"Amis, venez avec nous !",
+				"Dieu Lui-même vous convie ;",
+				"Amis, venez avec nous !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil anglais",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af235",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

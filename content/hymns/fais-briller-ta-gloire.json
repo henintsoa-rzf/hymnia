@@ -1,0 +1,63 @@
+{
+	"id": "fais-briller-ta-gloire",
+	"title": "Fais briller ta gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "668"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais briller ta gloire",
+				"Sur notre nation,",
+				"C'est notre prière",
+				"Pour notre nation."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, répands ton onction",
+				"Sur ce pays maintenant.",
+				"Viens, répands ton onction,",
+				"Purifie-le par ton sang.",
+				"Souffle des quatre vents,",
+				"Prépare la moisson,",
+				"Envoie l'Esprit de vérité,",
+				"Que seul Jésus soit élevé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais briller ta gloire",
+				"Sur notre nation,",
+				"C'est notre prière",
+				"Pour notre nation."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rita Galvan",
+			"role": "music"
+		},
+		{
+			"name": "Rita Galvan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem668",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

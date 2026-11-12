@@ -1,0 +1,63 @@
+{
+	"id": "chantez-au-seigneur",
+	"title": "Chantez au Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "225"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantez au Seigneur",
+				"Un chant nouveau,",
+				"Dansez en son honneur !",
+				"Chantez au Seigneur",
+				"Un chant nouveau,",
+				"Dansez en son honneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus est le Roi de gloire,",
+				"Il est le Seigneur des seigneurs !",
+				"Jésus est le Roi de gloire,",
+				"Notre libérateur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantez au Seigneur",
+				"Un chant nouveau,",
+				"Dansez en son honneur !",
+				"Chantez au Seigneur",
+				"Un chant nouveau,",
+				"Dansez en son honneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem225",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,95 @@
+{
+	"id": "sur-tes-murs-jerusalem",
+	"title": "Sur tes murs, Jérusalem",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "713"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur tes murs, Jérusalem,",
+				"J'ai placé des sentinelles.",
+				"Elles ne se tairont jamais,",
+				"Ni le jour ni la nuit.",
+				"On n'te nommera plus délaissée,",
+				"Ni ta terre la dévastée.",
+				"Tu porteras un nom nouveau:",
+				"Mon plaisir est en elle !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour l'amour de Sion, je n'me tairai pas !",
+				"Pour l'amour de Jérusalem, point de repos !",
+				"Pour que son salut brille comme l'aurore",
+				"Et sa délivrance comme un flambeau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toutes les nations de la terre",
+				"Regarderont ta justice",
+				"Et les rois contempleront",
+				"La gloire de ton nom.",
+				"Tu seras comme un diadème,",
+				"Scintillant dans la main de Dieu,",
+				"Comme une couronne royale",
+				"Préparée pour la fête."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour l'amour de Sion, je n'me tairai pas !",
+				"Pour l'amour de Jérusalem, point de repos !",
+				"Pour que son salut brille comme l'aurore",
+				"Et sa délivrance comme un flambeau."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Comme un jeune homme s'unit à sa fiancée,",
+				"Tous tes enfants s'uniront à leur Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour l'amour de Sion, je n'me tairai pas !",
+				"Pour l'amour de Jérusalem, point de repos !",
+				"Pour que son salut brille comme l'aurore",
+				"Et sa délivrance comme un flambeau."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem713",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

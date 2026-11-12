@@ -1,0 +1,75 @@
+{
+	"id": "de-jesus-entends-tu-la-voix",
+	"title": "De Jésus, entends-tu la voix ?",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "154"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"De Jésus, entends-tu la voix,",
+				"Divin appel d’amour ?",
+				"Ô mon frère, il s’adresse à toi,",
+				"Divin appel d’amour !",
+				"Doux message de grâce,",
+				"Christ tes péchés efface :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joyeux appel, divin appel,",
+				"Divin appel d’amour !",
+				"Joyeux appel, divin appel,",
+				"Divin appel d’amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il t’appelle encor, ô pécheur !",
+				"Divin appel d’amour !",
+				"Viens, mon fils, viens à ton Sauveur :",
+				"Divin appel d’amour !",
+				"Son amour te réclame,",
+				"Il veut guérir ton âme ;"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À sa voix, qui peut résister ?",
+				"Divin appel d’amour !",
+				"Il s’est donné pour nous sauver,",
+				"Divin appel d’amour !",
+				"Ô Jésus notre maître,",
+				"À toi nous voulons être ;"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "P.P. Bliss",
+			"role": "unspecified"
+		},
+		{
+			"name": "Paul Passy",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/988",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,99 @@
+{
+	"id": "o-jesus-ta-croix-domine",
+	"title": "O Jésus, ta croix domine.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "99"
+		},
+		{
+			"hymnal": "adf",
+			"number": "99A"
+		},
+		{
+			"hymnal": "cd",
+			"number": "116"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus ! Ta croix domine",
+				"Les temps, les peuples, les lieux ;",
+				"Partout sa splendeur divine",
+				"Met en fuite les faux dieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans les pages du Saint Livre",
+				"Les prophètes ont chanté",
+				"Ta mort qui m'a fait revivre,",
+				"Ton Sang qui m'a racheté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si, brisé part la souffrance,",
+				"Je défaille quelquefois,",
+				"Je renais à l'espérance,",
+				"Bon Sauveur, près de ta croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Par les douleurs et les joies",
+				"Que je sois sanctifié,",
+				"Puisque tu me les envoies,",
+				"O Divin Crucifié !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"O Jésus, Ta croix domine",
+				"Les temps, les peuples, les lieux.",
+				"Et dans ta gloire divine,",
+				"Bientôt Tu viendras des cieux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Stainer ; harmonisation par E. Haein",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af099",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af099a",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/934",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

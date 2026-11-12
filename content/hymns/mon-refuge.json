@@ -1,0 +1,75 @@
+{
+	"id": "mon-refuge",
+	"title": "Mon refuge",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "924"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon refuge, ma forteresse, mon Dieu",
+				"Qui me délivre des pièges",
+				"Que l'on tend devant moi.",
+				"Mon refuge, ma forteresse, mon Dieu",
+				"Qui me délivre des pièges",
+				"Que l'on tend devant moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu garderas celui qui t'aime,",
+				"Tu me sauveras car je connais ton nom.",
+				"Tu te tiendras à mes côtés",
+				"Et tu répondras à mon appel,",
+				"Oui, tu répondras à mon appel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi, mon abri, oh ! ta fidélité",
+				"Est comme un bouclier,",
+				"Je suis protégé.",
+				"Toi, mon abri, oh ! ta fidélité",
+				"Est comme un bouclier,",
+				"Je suis protégé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu garderas celui qui t'aime,",
+				"Tu me sauveras car je connais ton nom.",
+				"Tu te tiendras à mes côtés",
+				"Et tu répondras à mon appel,",
+				"Oui, tu répondras à mon appel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stéphane Unger",
+			"role": "music"
+		},
+		{
+			"name": "Stéphane Unger",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem924",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

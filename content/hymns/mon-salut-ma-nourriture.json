@@ -1,0 +1,85 @@
+{
+	"id": "mon-salut-ma-nourriture",
+	"title": "Mon salut, ma nourriture",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "245"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon salut, ma nourriture,",
+				"Mon parfait bonheur.",
+				"Le guide en qui je m'assure :",
+				"C'est toi seul, Seigneur.",
+				"En moi ta parole opère,",
+				"M'occupant de toi;",
+				"De toi, l'envoyé du Père,",
+				"Qui mourus pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ô Rédempteur secourable,",
+				"Quand tu m'as trouvé,",
+				"J'étais perdu, misérable,",
+				"Ta main m'a sauvé,",
+				"Et, dans mon insuffisance,",
+				"J'éprouve en tout temps,",
+				"Que les soins de ta clémence",
+				"Sont des soins constants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La paix, la vie éternelle",
+				"Sont le lot des tiens;",
+				"Ta faveur perpétuelle",
+				"Me comble de biens.",
+				"Par la foi de l'Évangile,",
+				"Mon coeur transformé",
+				"Ne veut que toi pour asile,",
+				"Sauveur bien aimé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ta sagesse, ta justice,",
+				"Ta fidélité,",
+				"Sont ma gloire, mon délice,",
+				"Ma tranquillité.",
+				"Recevant \"Grâce sur grâce\",",
+				"J'adore à genoux",
+				"Ta tendresse qui dépasse",
+				"Mes voeux les plus doux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J. R. Mazeirac",
+			"role": "unspecified"
+		},
+		{
+			"name": "G. Gaudibert",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1071",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

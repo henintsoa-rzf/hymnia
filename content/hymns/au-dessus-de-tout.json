@@ -1,0 +1,74 @@
+{
+	"id": "au-dessus-de-tout",
+	"title": "Au-dessus de tout",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "727"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nos louanges montent vers ta demeure.",
+				"Dieu véritable, souverain, roi, libérateur.",
+				"Admirable dans tes œuvres, Seigneur ;",
+				"Les cieux racontent la symphonie du Créateur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au-dessus de tout tu règnes.",
+				"Toutes nos vies t'appartiennent.",
+				"Alpha et Oméga, Roi des rois.",
+				"Tous les autres dieux tomberont,",
+				"Tous les rois se prosterneront",
+				"Devant ta majesté, ta beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta sagesse confond celle des puissants ;",
+				"Par ta parole, tu renouvelles tes enfants.",
+				"Tu es maître en tout lieu, en tout temps.",
+				"Dieu sans limite,",
+				"Nous te célébrons par nos chants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au-dessus de tout tu règnes.",
+				"Toutes nos vies t'appartiennent.",
+				"Alpha et Oméga, Roi des rois.",
+				"Tous les autres dieux tomberont,",
+				"Tous les rois se prosterneront",
+				"Devant ta majesté, ta beauté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham ; Chris Cooke ; David Terry",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider ; David Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem727",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,145 @@
+{
+	"id": "nous-ne-tremblerons-pas",
+	"title": "Nous ne tremblerons pas",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1134"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"En Dieu est notre confiance",
+				"Et, par son amour immense,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"En Dieu est notre confiance",
+				"Et, par son amour immense,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si la guerre fait rage,",
+				"Nous tiendrons fermement.",
+				"Si toute une armée",
+				"Se lève autour de nous,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et, même au plus fort de l'obscurité,",
+				"Nous ne tremblons pas,",
+				"Nous n'avons pas peur.",
+				"L'espoir se lève",
+				"Comme la lumière du jour,",
+				"Car Dieu est pour nous,",
+				"Il a triomphé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"En Dieu est notre confiance",
+				"Et, par son amour immense,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"En Dieu est notre confiance",
+				"Et, par son amour immense,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Nul ne tiendra contre lui,",
+				"Car Dieu est le plus fort,",
+				"C'est lui qui peut tout.",
+				"Quel autre nom invoquer ?",
+				"Jésus est le plus grand,",
+				"En lui je peux tout."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Nul ne tiendra contre lui,",
+				"Car Dieu est le plus fort,",
+				"C'est lui qui peut tout.",
+				"Quel autre nom invoquer ?",
+				"Jésus est le plus grand,",
+				"En lui je peux tout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"En Dieu est notre confiance",
+				"Et, par son amour immense,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"En Dieu est notre confiance",
+				"Et, par son amour immense,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas,",
+				"Nous ne tremblerons pas."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brian Johnson, Bobby Strand, Ben Fielding, Bob Hartley et Chris Greely",
+			"role": "music"
+		},
+		{
+			"name": "Brian Johnson, Bobby Strand, Ben Fielding, Bob Hartley et Chris Greely",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1134",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

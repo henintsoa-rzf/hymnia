@@ -1,0 +1,119 @@
+{
+	"id": "acclamez-dieu",
+	"title": "Acclamez Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "373"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez Dieu, gens du monde entier",
+				"Et célébrez son nom glorieux.",
+				"Honorez-le par vos louanges.",
+				"Dites à votre Dieu:"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es grand, tu es grand,",
+				"Grand et glorieux, grand et glorieux !",
+				"Tu es grand, tu es grand,",
+				"Grand et glorieux, grand et glorieux !",
+				"Nous t'honorons par nos louanges.",
+				"Tu es notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez Dieu, gens du monde entier",
+				"Et célébrez son nom glorieux.",
+				"Honorez-le par vos louanges.",
+				"Dites à votre Dieu:"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es Roi, tu es Roi !",
+				"Fort et redoutable, fort et redoutable !",
+				"Tu es Roi, tu es Roi !",
+				"Fort et redoutable, fort et redoutable !",
+				"Nous t'honorons par nos louanges.",
+				"Tu es notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez Dieu, gens du monde entier",
+				"Et célébrez son nom glorieux.",
+				"Honorez-le par vos louanges.",
+				"Dites à votre Dieu:"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta puissance, ta puissance,",
+				"Brise tous nos liens, brise tous nos liens !",
+				"Ta puissance, ta puissance,",
+				"Brise tous nos liens, brise tous nos liens !",
+				"Nous t'honorons par nos louanges.",
+				"Tu es notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez Dieu, gens du monde entier",
+				"Et célébrez son nom glorieux.",
+				"Honorez-le par vos louanges.",
+				"Dites à votre Dieu:"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tes louanges, tes louanges,",
+				"Éclatent dans nos cœurs,",
+				"Éclatent dans nos cœurs !",
+				"Tes louanges, tes louanges,",
+				"Éclatent dans nos cœurs,",
+				"Éclatent dans nos cœurs !",
+				"Nous t'honorons par nos louanges.",
+				"Tu es notre Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Judith Ann Robertson",
+			"role": "music"
+		},
+		{
+			"name": "Judith Ann Robertson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem373",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

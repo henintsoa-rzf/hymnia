@@ -1,0 +1,113 @@
+{
+	"id": "glorifie-ton-nom",
+	"title": "Glorifie ton nom",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "10"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du sein de l’amour trinitaire,",
+				"Tu établis un plan, ô Père :",
+				"Bénir un peuple racheté,",
+				"Devant le trône rassemblé.",
+				"Par grâce inclus dans ce destin,",
+				"Nos cœurs acquis à tes desseins,",
+				"Nous t’adressons cette prière :",
+				"Répands ton salut sur la terre !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ouvre les portes, ouvre les cœurs,",
+				"Sers-toi de nous, Dieu Rédempteur !",
+				"Déploie ton bras pour sauver les nations.",
+				"Ô Seigneur, glorifie ton nom !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En se livrant sur le Calvaire,",
+				"Christ accomplit ton plan, ô Père.",
+				"La croix, si faible en apparence,",
+				"Par la foi sauve avec puissance.",
+				"Que cette croix soit exaltée",
+				"Et tes louanges proclamées !",
+				"Hérauts du message de joie,",
+				"Nous annonçons Christ, notre Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rien ne peut arrêter ta main,",
+				"Ô Père, le salut t’appartient.",
+				"Ton Esprit insuffle la vie",
+				"Dans les cœurs les plus endurcis.",
+				"Qu’en vue du jour de ton retour,",
+				"Nous persévérions par amour,",
+				"Car sous ton règne souverain,",
+				"Nos efforts ne sont jamais vains !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/glorifie",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

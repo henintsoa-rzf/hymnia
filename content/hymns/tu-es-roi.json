@@ -1,0 +1,71 @@
+{
+	"id": "tu-es-roi",
+	"title": "Tu es Roi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1047"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Roi, tu es Roi,",
+				"Tu es Roi, tu es le seul Roi.",
+				"Tu es Dieu, tu es notre Dieu,",
+				"Tu es si précieux, tu es le seul Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À qui d'autre irions-nous ? qu'à toi !",
+				"Oh ! vers qui nous tourner ? que vers toi !",
+				"Tu es saint, tu es saint,",
+				"Notre Dieu, tu es trois fois saint.",
+				"Tout en moi te réclame,",
+				"C'est le cri, c'est le cri de mon âme."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"C'est l'hymne de mon âme.",
+				"À qui d'autre irais-je ? qu'à toi !",
+				"Vers qui me tournerais-je ? que vers toi !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu remplis mon cœur de joie et de bonheur,",
+				"Tu restaures mon âme, ô Seigneur !",
+				"Tu remplis mon cœur quand surgit le malheur,",
+				"Tu remplis ma vie.",
+				"Oh ! merci !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Yves Baron",
+			"role": "music"
+		},
+		{
+			"name": "Yves Baron",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1047",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

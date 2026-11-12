@@ -1,0 +1,93 @@
+{
+	"id": "acclamez-le-seigneur-avec-joie",
+	"title": "Acclamez le Seigneur avec joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "374"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez le Seigneur avec joie,",
+				"Les fidèles et vous les hommes droits,",
+				"Louez le Seigneur avec les instruments,",
+				"Jouez la plus belle musique en l'adorant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"D'un mot le Seigneur a créé le ciel,",
+				"Et par sa parole toutes les étoiles."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez le Seigneur avec joie,",
+				"Les fidèles et vous les hommes droits,",
+				"Louez le Seigneur avec les instruments,",
+				"Jouez la plus belle musique en l'adorant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Seigneur nous voit et il nous protège,",
+				"Ses plans sont parfaits, ils vont s'accomplir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez le Seigneur avec joie,",
+				"Les fidèles et vous les hommes droits,",
+				"Louez le Seigneur avec les instruments,",
+				"Jouez la plus belle musique en l'adorant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est par le Seigneur que sont toutes choses,",
+				"Il a tout créé par sa volonté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez le Seigneur avec joie,",
+				"Les fidèles et vous les hommes droits,",
+				"Louez le Seigneur avec les instruments,",
+				"Jouez la plus belle musique en l'adorant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem374",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

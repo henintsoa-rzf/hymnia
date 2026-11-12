@@ -1,0 +1,53 @@
+{
+	"id": "seigneur-je-veux-proclamer",
+	"title": "Seigneur, je veux proclamer",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "492"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, je veux proclamer ton nom,",
+				"Tu es le Rocher,",
+				"Tes œuvres sont parfaites.",
+				"Seigneur, je veux proclamer ton nom,",
+				"Tu es le Rocher,",
+				"Tes œuvres sont parfaites."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un Dieu de vérité",
+				"Et sans injustice,",
+				"Tu es fidèle et droit.",
+				"Un Dieu de vérité",
+				"Et sans injustice,",
+				"Tu es fidèle et droit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Peter West",
+			"role": "music"
+		},
+		{
+			"name": "Peter West",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem492",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

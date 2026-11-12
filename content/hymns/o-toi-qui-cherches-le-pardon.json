@@ -1,0 +1,67 @@
+{
+	"id": "o-toi-qui-cherches-le-pardon",
+	"title": "Ô toi qui cherches le pardon",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "171"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô toi, qui cherches le pardon,",
+				"Le repos de ton âme :",
+				"C’est Jésus qui te l’offre en don,",
+				"Que ta foi le réclame."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens à Jésus, crois en Jésus, Il est toujours près ;",
+				"Que ton âme le réclame et trouve la paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"N’écoute pas ton coeur trompeur,",
+				"Qui te dirait d’attendre ;",
+				"Viens sans tarder, pauvre pécheur,",
+				"Viens au Sauveur te rendre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus Christ est ton répondant,",
+				"Crois donc à sa promesse ;",
+				"Puisqu’il est riche et tout puissant,",
+				"Qu’importe ta faiblesse ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J.H. Stockton",
+			"role": "unspecified"
+		},
+		{
+			"name": "Louis Durand",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1004",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

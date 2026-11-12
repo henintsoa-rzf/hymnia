@@ -1,0 +1,99 @@
+{
+	"id": "nous-voulons-chanter",
+	"title": "Nous voulons chanter",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "972"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voulons chanter,",
+				"Nous unir aux voix des anges.",
+				"Nous voulons chanter,",
+				"Heureux que tu entendes",
+				"Quand nous t'exaltons,",
+				"Louons le nom de Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voulons chanter,",
+				"Nous unir aux voix des anges.",
+				"Nous voulons chanter,",
+				"Heureux que tu entendes",
+				"Quand nous t'exaltons,",
+				"Louons le nom de Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous ne pouvons que t'aimer.",
+				"L'univers est à tes pieds.",
+				"Tout genou fléchira.",
+				"Fils de Dieu, tu es le seul ;",
+				"C'est pour toi seul que nous vivons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es l'amour rédempteur,",
+				"Le feu qui brûle en nos cœurs.",
+				"Tu éclaires nos pas.",
+				"Fils de Dieu, tu es le seul ;",
+				"C'est pour toi seul que nous vivons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voulons chanter,",
+				"Nous unir aux voix des anges.",
+				"Nous voulons chanter,",
+				"Heureux que tu entendes",
+				"Quand nous t'exaltons,",
+				"Louons le nom de Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voulons chanter,",
+				"Nous unir aux voix des anges.",
+				"Nous voulons chanter,",
+				"Heureux que tu entendes",
+				"Quand nous t'exaltons,",
+				"Louons le nom de Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Tomlin ; Jesse Reeves ; Matt Gilder ; Daniel Carson ; Travis Nunn",
+			"role": "music"
+		},
+		{
+			"name": "Chris Tomlin ; Jesse Reeves ; Matt Gilder ; Daniel Carson ; Travis Nunn",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem972",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

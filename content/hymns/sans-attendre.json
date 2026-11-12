@@ -1,0 +1,97 @@
+{
+	"id": "sans-attendre",
+	"title": "Sans attendre.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "340"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sans attendre,",
+				"Je veux tendre",
+				"Au bonheur promis ;",
+				"Qui s'élance,",
+				"Qui s'avance,",
+				"Obtiendra le prix.",
+				"De mon Dieu je suis l'enfant,",
+				"Et c'est Lui qui me défend.",
+				"Donc en route !",
+				"Point de doute,",
+				"Le but est si grand !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Près du trône,",
+				"La couronne",
+				"Attend le vainqueur.",
+				"Nulle trêve !",
+				"Qu'on se lève !",
+				"A dit le Seigneur.",
+				"D'obéir, soyons heureux ;",
+				"Point de tièdes, de peureux !",
+				"Qui se lasse",
+				"Perd sa place",
+				"Au banquet des cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"D'un pas ferme,",
+				"Jusqu'au terme",
+				"Il faut s'avancer !",
+				"Dieu m'observe,",
+				"Qu'Il préserve",
+				"Mon pied de glisser !",
+				"Que ce monde et ses attraits",
+				"Ne me séduisent jamais !",
+				"Si sa haine",
+				"Se déchaîne,",
+				"Que je sois en paix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu de grâce,",
+				"Que ta face",
+				"Luise en mon chemin !",
+				"Père tendre,",
+				"Viens me prendre",
+				"Par ta forte main !",
+				"Toute puissance est à Toi,",
+				"Subviens à ma faible foi :",
+				"Ma victoire,",
+				"C'est ta gloire,",
+				"O mon Dieu, mon Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Gütersloh 1853",
+			"role": "music"
+		},
+		{
+			"name": "Gustave Borel-Girard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af340",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,39 @@
+{
+	"id": "dechargez-vous-sur-dieu",
+	"title": "Déchargez-vous sur Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "338"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Déchargez-vous sur Dieu de tous vos soucis,",
+				"Car lui-même prend soin de vous.",
+				"Déchargez-vous sur Dieu de tous vos soucis,",
+				"Car lui-même prend soin de vous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John van den Hogen",
+			"role": "music"
+		},
+		{
+			"name": "John van den Hogen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg338",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

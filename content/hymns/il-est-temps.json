@@ -1,0 +1,86 @@
+{
+	"id": "il-est-temps",
+	"title": "Il est temps",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "670"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est temps de chercher encore l'Éternel.",
+				"Il est temps de chercher encore l'Éternel,",
+				"De nous tourner vers lui,",
+				"De revenir dans sa sainte présence",
+				"Et de nous attendre à lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est temps d'intercéder",
+				"Pour les nations de la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est temps de chercher encore l'Éternel.",
+				"Il est temps de chercher encore l'Éternel,",
+				"De nous tourner vers lui,",
+				"De revenir dans sa sainte présence",
+				"Et de nous attendre à lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est temps de s'humilier",
+				"Pour les péchés de nos pères."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est temps de chercher encore l'Éternel.",
+				"Il est temps de chercher encore l'Éternel,",
+				"De nous tourner vers lui,",
+				"De revenir dans sa sainte présence",
+				"Et de nous attendre à lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est temps de demander",
+				"Notre héritage dans la prière."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem670",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,97 @@
+{
+	"id": "oui-ce-pain",
+	"title": "Oui ce pain",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "808"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, ce pain, oui, ce vin",
+				"sont ton corps et ta vie.",
+				"Oui, ta chair, oui, ton sang",
+				"ont racheté ma vie…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis pauvre, je suis nu,",
+				"je suis faible et perdu ;",
+				"Tu me vêts de ta grâce",
+				"qui jamais ne se lasse.",
+				"Je m'approche en tremblant",
+				"de ta table sacrée,",
+				"Tu m'accueilles souriant,",
+				"ma crainte est dissipée."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, ce pain, oui, ce vin",
+				"sont ton corps et ta vie.",
+				"Oui, ta chair, oui, ton sang",
+				"ont racheté ma vie…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'ai sondé tout mon cœur",
+				"avant de m'approcher",
+				"De la table dressée",
+				"par les mains du Seigneur.",
+				"C'est l'endroit très précis",
+				"où me sont démontrées",
+				"Les faveurs infinies qui me sont accordées."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, ce pain, oui, ce vin",
+				"sont ton corps et ta vie.",
+				"Oui, ta chair, oui, ton sang",
+				"ont racheté ma vie…"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire au Père, gloire au Fils,",
+				"gloire au Saint-Esprit.",
+				"Gloire au Père, gloire au Fils,",
+				"gloire au Saint-Esprit.",
+				"Amen. Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-Jacques Gallay",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Jacques Gallay",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem808",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,98 @@
+{
+	"id": "notre-pere-createur",
+	"title": "Notre Père créateur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "925"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Père créateur,",
+				"Notre Seigneur et Sauveur,",
+				"Notre berger protecteur,",
+				"Notre potier façonneur,",
+				"Notre eau vive, notre pain,",
+				"Notre assurance pour demain :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Dieu, mon Seigneur, le Tout-Puissant,",
+				"Devant ta grandeur je n'suis que du vent !",
+				"Je lève les yeux vers les cieux",
+				"Et, tel que je suis, je t'adore.",
+				"Je t'offre mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre pardon, notre paix,",
+				"Tu délivres du péché.",
+				"Rosée fraîche du matin,",
+				"Tu nous gardes du Malin.",
+				"Tu es l'Agneau sacrifié,",
+				"Toi, mon ami bien-aimé :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Dieu, mon Seigneur, le Tout-Puissant,",
+				"Devant ta grandeur je n'suis que du vent !",
+				"Je lève les yeux vers les cieux",
+				"Et, tel que je suis, je t'adore.",
+				"Je t'offre mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Notre trésor, perle rare,",
+				"Notre destin, notre espoir,",
+				"Consolateur merveilleux,",
+				"Notre avocat dans les cieux,",
+				"Notre lumière, notre époux,",
+				"Esprit-Saint, règne en nous :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Dieu, mon Seigneur, le Tout-Puissant,",
+				"Devant ta grandeur je n'suis que du vent !",
+				"Je lève les yeux vers les cieux",
+				"Et, tel que je suis, je t'adore.",
+				"Je t'offre mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mario Schaub",
+			"role": "music"
+		},
+		{
+			"name": "Mario Schaub",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem925",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

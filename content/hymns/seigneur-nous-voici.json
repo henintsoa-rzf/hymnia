@@ -1,0 +1,71 @@
+{
+	"id": "seigneur-nous-voici",
+	"title": "Seigneur, nous voici",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "493"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, nous voici devant toi,",
+				"Tous unis dans ta maison.",
+				"Nous avons soif de t'entendre,",
+				"Nous avons faim de toi.",
+				"O Seigneur, manifeste-toi.",
+				"Seigneur, nous voici devant toi,",
+				"Tous unis dans ta maison.",
+				"Nous avons soif de t'entendre,",
+				"Nous avons faim de toi.",
+				"O Seigneur, manifeste-toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au milieu de nous,",
+				"Montre ta grandeur,",
+				"Seigneur de gloire,",
+				"Règne sur nos cœurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, nous voici devant toi,",
+				"Tous unis dans ta maison.",
+				"Nous avons soif de t'entendre,",
+				"Nous avons faim de toi.",
+				"O Seigneur, manifeste-toi.",
+				"Seigneur, nous voici devant toi,",
+				"Tous unis dans ta maison.",
+				"Nous avons soif de t'entendre,",
+				"Nous avons faim de toi.",
+				"O Seigneur, manifeste-toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mady Ramos",
+			"role": "music"
+		},
+		{
+			"name": "Mady Ramos",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem493",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,112 @@
+{
+	"id": "hymne-de-l-eglise",
+	"title": "Hymne de l’Église",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "21"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui peut sonder ce grand mystère ?",
+				"Christ pour l’Église s’est livré !",
+				"Plus vaste encor’ que l’univers",
+				"Est son amour pour sa mariée.",
+				"Rebelle, Jésus l’a choisie,",
+				"Son précieux sang l’a rachetée.",
+				"Sa bien-aimée il purifie",
+				"Et chérit pour l’éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel amour si profond ; non, rien ne le surpasse.",
+				"Ô Église, célèbre sa glorieuse grâce !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui peut mesurer la sagesse",
+				"Du plan de Dieu qui nous bénit ?",
+				"Là où l’hostilité se dresse,",
+				"La mort de Jésus nous unit.",
+				"Il brise tout mur qui divise,",
+				"Car Christ lui-même est notre paix,",
+				"La pierre d’angle de l’Église,",
+				"Et nous, son temple à tout jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qui peut égaler sa bonté",
+				"Envers les membres de son corps ?",
+				"Jésus la Tête l’a comblé",
+				"Et seul lui donne son essor.",
+				"Marchons unis par son Esprit,",
+				"Fortifiés par sa puissance.",
+				"Que son Église s’édifie",
+				"En redisant sa bienveillance !",
+				"Nous redisons sa bienveillance !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/hymnedeleglise",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

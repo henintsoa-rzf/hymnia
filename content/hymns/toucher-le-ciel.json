@@ -1,0 +1,69 @@
+{
+	"id": "toucher-le-ciel",
+	"title": "Toucher le ciel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "955"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, j'ai soif de toi, j'ai soif de ta présence.",
+				"Dans les jours de désert, tu es ma providence.",
+				"Ta main bienveillante me couvre à chaque pas.",
+				"Ta paix rassurante jaillit au fond de moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux toucher le ciel",
+				"Et que mon cœur revive !",
+				"Je veux toucher le ciel",
+				"Et que ton règne arrive !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, j'ai faim de toi, j'ai faim de ta parole.",
+				"Dans un monde sans repère, elle conduit et console.",
+				"Ta voix prévenante résonne dans mon cœur.",
+				"Ta joie débordante me comble de bonheur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux toucher le ciel",
+				"Et que mon cœur revive !",
+				"Je veux toucher le ciel",
+				"Et que ton règne arrive !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem955",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

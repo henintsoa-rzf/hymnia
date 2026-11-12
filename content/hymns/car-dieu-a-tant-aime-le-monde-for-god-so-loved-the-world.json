@@ -1,0 +1,54 @@
+{
+	"id": "car-dieu-a-tant-aime-le-monde-for-god-so-loved-the-world",
+	"title": "Car Dieu a tant aimé le monde (For God So Loved The World)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "505"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car Dieu a tant aimé le monde",
+				"Qu’il a donné son Fils unique",
+				"Pour que tous ceux qui croient en Lui",
+				"Ne soient pas perdus,",
+				"Mais vivent éternellement !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Car Dieu n’a pas envoyé",
+				"Jésus son Fils pour juger le monde,",
+				"Mais pour sauver le monde par Lui.",
+				"Il est mort pour laver nos péchés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tore W. Aas",
+			"role": "lyrics"
+		},
+		{
+			"name": "Tore W. Aas",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-5",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

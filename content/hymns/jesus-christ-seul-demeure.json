@@ -1,0 +1,89 @@
+{
+	"id": "jesus-christ-seul-demeure",
+	"title": "Jésus-Christ seul demeure",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "77"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus-Christ seul demeure",
+				"Quand tout change ici-bas.",
+				"En tous lieux, à toute heure,",
+				"Il guidera nos pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Est-il une assurance",
+				"Plus douce à notre cœur ?",
+				"Sous sa garde, on s'avance",
+				"Vers l'avenir, sans peur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le même ami fidèle,",
+				"Qui nous bénit toujours,",
+				"Nous tiendra sous son aile.",
+				"Comptons sur son secours !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Hier il vint sur la terre ;",
+				"Il nous a rachetés.",
+				"Il mourut au Calvaire ;",
+				"Il est ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Aujourd'hui, par sa grâce,",
+				"L'Esprit-Saint nous soutient ;",
+				"Sa puissance efficace",
+				"En tout temps nous prévient."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Éternellement sûre,",
+				"En Christ est notre paix ;",
+				"Sa grâce est sans mesure",
+				"Et subsiste à jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg077",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

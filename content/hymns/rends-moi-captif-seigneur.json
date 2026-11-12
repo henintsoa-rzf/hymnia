@@ -1,0 +1,82 @@
+{
+	"id": "rends-moi-captif-seigneur",
+	"title": "Rends-moi captif, Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "281"
+		},
+		{
+			"hymnal": "adf",
+			"number": "308"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rends-moi captif, Seigneur,",
+				"De ta volonté sainte !",
+				"Ainsi, je braverai l'atteinte",
+				"Du mal et de l'erreur !",
+				"Je succombe à la peine,",
+				"Ah ! garde-moi debout !",
+				"Celui que ton amour enchaîne",
+				"Seul, triomphe de tout !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon cœur tremble, éperdu,",
+				"S'il n'a trouvé son Maître !",
+				"C'est toi qui l'es, toi qui dois l'être,",
+				"Ou bien je suis perdu !",
+				"Oh ! le bonheur suprême",
+				"D'être au nombre des tiens !",
+				"Je ne suis vraiment à moi-même",
+				"Que quand je t'appartiens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, désarme-moi !",
+				"Que sous ta main puissante",
+				"Mon âme enfin obéissante",
+				"Se soumette à ta loi.",
+				"Désormais j'abandonne",
+				"Un monde condamné !",
+				"Les vrais biens sont ceux que tu donnes",
+				"À qui t'a tout donné !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George William Martin",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens ; d'après George Matheson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg281",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af308",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

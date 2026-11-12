@@ -1,0 +1,79 @@
+{
+	"id": "pellerins-du-ciel",
+	"title": "Pellerins du ciel",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "295"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous qui marchez sur la route céleste,",
+				"Faites sonner vos chants !",
+				"Ne craignez pas que Satan vous moleste :",
+				"Le Christ est plus puissant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur le sentier qui conduit à la vie,",
+				"Tout est lumière et paix;",
+				"Si votre marche jamais ne dévie,",
+				"C’est le bonheur parfait."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour vous guider, la divine nuée",
+				"Montre le sûr chemin.",
+				"Du bon berger, quand la face est voilée,",
+				"Ne lâchez pas la main !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La voie étroite est souvent solitaire :",
+				"Votre Sauveur l’a dit;",
+				"Mais sa présence, ô sublime mystère,",
+				"En fait un paradis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Vous qui marchez sur la route glissante,",
+				"La route de la mort,",
+				"Oh! Suivez donc la bannière sanglante",
+				"Qui seule mène au port."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "unspecified"
+		},
+		{
+			"name": "H.M. Jarvis",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1099",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

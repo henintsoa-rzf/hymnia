@@ -1,0 +1,125 @@
+{
+	"id": "o-mon-sauveur",
+	"title": "O mon Sauveur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "326"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O mon Sauveur, à Toi seul je veux être !",
+				"Viens pour toujours habiter dans mon cœur ;",
+				"Brise l'idole, et de ce cœur sois maître,",
+				"Rends-moi plus blanc que la neige, Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, par ton sang lave mon cœur,",
+				"Rends-moi plus blanc que la neige,",
+				"ô Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En moi, Jésus, ne laisse aucune place",
+				"Où le péché se glisse en interdit.",
+				"Agneau de Dieu, que ton sang pur efface",
+				"Ce qui me vient de son pouvoir maudit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, par ton sang lave mon cœur,",
+				"Rends-moi plus blanc que la neige,",
+				"ô Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par ton Esprit, de ton trône de gloire",
+				"Tu viens en moi, misérable pécheur,",
+				"Pour remporter la complète victoire",
+				"Et nettoyer entièrement mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, par ton sang lave mon cœur,",
+				"Rends-moi plus blanc que la neige,",
+				"ô Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu vois, Seigneur,",
+				"j'attends, plein d'espérance,",
+				"Près de la croix où ton sang fut versé ;",
+				"Là, j'ai reçu la nouvelle naissance,",
+				"Là, mon soupir fut toujours exaucé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, par ton sang lave mon cœur,",
+				"Rends-moi plus blanc que la neige,",
+				"ô Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Alléluia ! ton image divine",
+				"En moi, Seigneur, apparaît par la foi.",
+				"Bénis sois-tu ! de ma sainte origine",
+				"J'ai pour toujours tous les titres en Toi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et, par ton sang, mon pauvre cœur",
+				"Devient plus blanc que la neige,",
+				"ô Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Robson Sweney",
+			"role": "music"
+		},
+		{
+			"name": "Mlle N. Coulin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af326",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,85 @@
+{
+	"id": "sa-grace-est-plus-grande-his-mercy-is-more",
+	"title": "Sa grâce est plus grande (His Mercy Is More)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "703"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel amour pourrait recouvrir nos péchés ?",
+				"Le Dieu omniscient ne va pas les compter :",
+				"Jetés à la mer dans l’abysse ils descendent.",
+				"Nos péchés abondent",
+				"Sa grâce est plus grande !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui attendrait ceux qui sans cesse le fuient ?",
+				"Quel Père si tendre nous appelle à lui ?",
+				"Oui, ses compassions au plus pauvre s’étendent :",
+				"Nos péchés abondent",
+				"Sa grâce est plus grande !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu !",
+				"Sa grâce est plus grande !",
+				"Inépuisable, ferme et constante :",
+				"Nos péchés abondent,",
+				"Sa grâce est plus grande."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quel torrent de bonté sur nous déversé,",
+				"Efface la dette impossible à payer !",
+				"Son corps immolé et son sang nous défendent.",
+				"Nos péchés abondent",
+				"Sa grâce est plus grande !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Boswell",
+			"role": "lyrics"
+		},
+		{
+			"name": "Matt Boswell",
+			"role": "music"
+		},
+		{
+			"name": "Matt Papa",
+			"role": "lyrics"
+		},
+		{
+			"name": "Matt Papa",
+			"role": "music"
+		},
+		{
+			"name": "Évangile 21",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-3",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

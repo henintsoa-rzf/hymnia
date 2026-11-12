@@ -1,0 +1,104 @@
+{
+	"id": "jesus-christ-est-seigneur-jem-281",
+	"title": "Jésus-Christ est Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "281"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"De son trône de clarté,",
+				"De son ciel de pureté",
+				"Jésus-Christ est descendu",
+				"Jusqu'à nous, pécheurs perdus.",
+				"De toujours il était Dieu,",
+				"Roi de la terre et des cieux ;",
+				"Mais, se dépouillant de tout,",
+				"Jésus vint mourir pour nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ est Seigneur !",
+				"Il est sorti du tombeau, il est Seigneur.",
+				"Tout genou fléchira,",
+				"toute langue confessera",
+				"Que Jésus est Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il était l'Éternel Roi,",
+				"Mais renonçant à ses droits,",
+				"En simple homme, en serviteur,",
+				"Jésus vint vers nous pécheurs.",
+				"Bien que Fils, Jésus apprit,",
+				"Par les choses qu'il souffrit,",
+				"Jusqu'à la mort de la croix,",
+				"L'obéissance et la foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ est Seigneur !",
+				"Il est sorti du tombeau, il est Seigneur.",
+				"Tout genou fléchira,",
+				"toute langue confessera",
+				"Que Jésus est Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus s'est humilié;",
+				"Aussi Dieu l'a couronné,",
+				"Dans le ciel l'a fait asseoir",
+				"Sur son trône en tout pouvoir,",
+				"Afin qu'au nom de Jésus",
+				"Tout genou soit abattu",
+				"Et que dans tout l'univers",
+				"Résonne un puissant concert:"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ est Seigneur !",
+				"Il est sorti du tombeau, il est Seigneur.",
+				"Tout genou fléchira,",
+				"toute langue confessera",
+				"Que Jésus est Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christian Glardon",
+			"role": "music"
+		},
+		{
+			"name": "Christian Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem281",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

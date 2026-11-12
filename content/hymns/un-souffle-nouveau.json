@@ -1,0 +1,92 @@
+{
+	"id": "un-souffle-nouveau",
+	"title": "Un souffle nouveau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1123"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Père, je n'ai qu'un désir,",
+				"Être près de toi et sentir tes bras.",
+				"Père, tu as envoyé ton Fils bien-aimé",
+				"Pour quiconque croit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint-Esprit, qui donne vie,",
+				"Ranime en moi ce feu pour toi.",
+				"Saint-Esprit, viens par ta pluie,",
+				"Rafraîchis-moi et envoie",
+				"Un souffle nouveau, un souffle nouveau,",
+				"Un souffle nouveau, un souffle nouveau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Père, je n'ai qu'un désir,",
+				"Rester près de toi, écouter ta voix.",
+				"Père, tu m'as tout donné",
+				"Et c'est à tes pieds",
+				"Que je veux rester."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint-Esprit, qui donne vie,",
+				"Ranime en moi ce feu pour toi.",
+				"Saint-Esprit, viens par ta pluie,",
+				"Rafraîchis-moi et envoie."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Saint-Esprit, qui donne vie,",
+				"Ranime en moi ce feu pour toi.",
+				"Saint-Esprit, viens par ta pluie,",
+				"Rafraîchis-moi et envoie"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Un souffle nouveau, un souffle nouveau,",
+				"Un souffle nouveau, un souffle nouveau,",
+				"Un souffle nouveau, un souffle nouveau,",
+				"Un souffle nouveau, un souffle nouveau."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dan Luiten",
+			"role": "music"
+		},
+		{
+			"name": "Dan Luiten",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1123",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

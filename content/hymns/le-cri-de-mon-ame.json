@@ -1,0 +1,114 @@
+{
+	"id": "le-cri-de-mon-ame",
+	"title": "Le cri de mon âme",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "256"
+		},
+		{
+			"hymnal": "adf",
+			"number": "198"
+		},
+		{
+			"hymnal": "jem",
+			"number": "443"
+		},
+		{
+			"hymnal": "cd",
+			"number": "183"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le cri de mon âme",
+				"S'élève vers toi.",
+				"Elle te réclame,",
+				"Jésus, pour son Roi.",
+				"Ton joug est facile,",
+				"Ton fardeau léger ;",
+				"Sur mon cœur docile",
+				"Règne, ô bon Berger !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Trop longtemps le monde",
+				"Trompa mes désirs.",
+				"Changeants comme l'onde",
+				"Sont tous ses plaisirs.",
+				"Sa joie est frivole,",
+				"Tout est vanité ;",
+				"Seule, ta Parole",
+				"Est la vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Parole éternelle,",
+				"O Christ rédempteur,",
+				"Prends-moi sous ton aile,",
+				"Habite en mon cœur.",
+				"Dans la nuit profonde,",
+				"Tiens-moi par la main ;",
+				"Lumière du monde,",
+				"Luis sur mon chemin !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Source de l'eau vive,",
+				"Pain venu des cieux,",
+				"Que par toi je vive",
+				"Paisible et joyeux !",
+				"Quand luira l'aurore",
+				"Du jour éternel,",
+				"Que je vive encore",
+				"Pour toi, dans le ciel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dimitri Bortniansky",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg256",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af198",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem443",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1014",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

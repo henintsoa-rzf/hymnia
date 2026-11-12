@@ -1,0 +1,107 @@
+{
+	"id": "a-toi-l-honneur",
+	"title": "À toi l'honneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "726"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi l'honneur, Agneau de Dieu !",
+				"Ton corps brisé sur la croix",
+				"À porté notre condamnation.",
+				"À toi l'honneur, Agneau de Dieu !",
+				"Ton sang versé sur la croix",
+				"Est le prix de notre rançon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Roi, souffrant pour nos péchés",
+				"Tu t'es chargé de nos fautes.",
+				"Qui ne pourrait s'indigner",
+				"De tant de cruauté ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi l'honneur, Agneau de Dieu !",
+				"Ton corps brisé sur la croix",
+				"À porté notre condamnation.",
+				"À toi l'honneur, Agneau de Dieu !",
+				"Ton sang versé sur la croix",
+				"Est le prix de notre rançon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Roi, méprisé sur la terre",
+				"Tu as bu la coupe amère.",
+				"Comme un brigand transpercé",
+				"Pour notre liberté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi l'honneur, Agneau de Dieu !",
+				"Ton corps brisé sur la croix",
+				"À porté notre condamnation.",
+				"À toi l'honneur, Agneau de Dieu !",
+				"Ton sang versé sur la croix",
+				"Est le prix de notre rançon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Roi, couronné dans les cieux",
+				"Tu reviendras victorieux.",
+				"Tu as reçu de ton père",
+				"Les clés de l'univers."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi l'honneur, Agneau de Dieu !",
+				"Ton corps brisé sur la croix",
+				"À porté notre condamnation.",
+				"À toi l'honneur, Agneau de Dieu !",
+				"Ton sang versé sur la croix",
+				"Est le prix de notre rançon."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem726",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

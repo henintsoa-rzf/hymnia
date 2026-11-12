@@ -1,0 +1,96 @@
+{
+	"id": "chantons-chantons-sans-cesse",
+	"title": "Chantons, chantons sans cesse",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "54"
+		},
+		{
+			"hymnal": "adf",
+			"number": "33"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons, chantons sans cesse",
+				"La bonté du Seigneur !",
+				"Qu'une sainte allégresse",
+				"Remplisse notre cœur !",
+				"Un salut éternel",
+				"Est descendu du ciel :",
+				"Nous avons un Sauveur,",
+				"Nous avons un Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O bonheur ineffable !",
+				"Dieu n'est plus irrité :",
+				"Il pardonne au coupable",
+				"Contre lui révolté.",
+				"Pour porter nos forfaits,",
+				"Pour sceller notre paix ;",
+				"Jésus s'est présenté,",
+				"Jésus s'est présenté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour diriger la voie",
+				"De tous ses rachetés,",
+				"Dans leur cœur il envoie",
+				"Ses célestes clartés :",
+				"Son Esprit nous conduit,",
+				"Sa grâce nous instruit",
+				"Des saintes vérités,",
+				"Des saintes vérités."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bientôt, vêtu de gloire,",
+				"Du ciel il reviendra,",
+				"Consommant sa victoire,",
+				"Il nous affranchira ;",
+				"Et son heureux enfant,",
+				"Avec lui triomphant,",
+				"Tel qu'il est le verra,",
+				"Tel qu'il est le verra."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "F.-G. Clottu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg054",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af033",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

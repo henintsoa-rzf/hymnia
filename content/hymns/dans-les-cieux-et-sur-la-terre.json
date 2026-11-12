@@ -1,0 +1,129 @@
+{
+	"id": "dans-les-cieux-et-sur-la-terre",
+	"title": "Dans les cieux et sur la terre",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "78"
+		},
+		{
+			"hymnal": "adf",
+			"number": "64"
+		},
+		{
+			"hymnal": "cd",
+			"number": "46"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans les cieux et sur la terre,",
+				"Il n'est aucun nom plus doux,",
+				"Aucun que mon cœur préfère",
+				"Au nom de Christ mort pour nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel beau nom, quel beau nom",
+				"porte l'Oint de l'Éternel !",
+				"Quel beau nom, quel beau nom,",
+				"que celui d'Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quelque grand que soit un homme,",
+				"Qu'il soit prince ou qu'il soit roi,",
+				"De quelque nom qu'on le nomme,",
+				"Jésus est plus grand pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel beau nom, quel beau nom",
+				"porte l'Oint de l'Éternel !",
+				"Quel beau nom, quel beau nom,",
+				"que celui d'Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les séraphins, les archanges",
+				"Portent des noms glorieux,",
+				"Mais le plus beau nom des anges",
+				"Pourrait-il me rendre heureux ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel beau nom, quel beau nom",
+				"porte l'Oint de l'Éternel !",
+				"Quel beau nom, quel beau nom,",
+				"que celui d'Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dans les maux, Jésus soulage,",
+				"Il guérit l'esprit froissé,",
+				"Il ranime le courage",
+				"Du cœur le plus oppressé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel beau nom, quel beau nom",
+				"porte l'Oint de l'Éternel !",
+				"Quel beau nom, quel beau nom,",
+				"que celui d'Emmanuel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Howard Doane",
+			"role": "music"
+		},
+		{
+			"name": "Gédéon Jaulmes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg078",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af064",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/856",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

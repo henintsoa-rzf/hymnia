@@ -1,0 +1,99 @@
+{
+	"id": "melodie-venue-du-ciel",
+	"title": "Mélodie venue du ciel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "922"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mélodie venue du ciel,",
+				"Un chant doux et merveilleux,",
+				"Tous les anges en harmonie,",
+				"D'une seule voix célèbrent ton nom.",
+				"Ta puissance et ta grandeur,",
+				"Ta gloire remplissent l'univers,",
+				"Ton éclat et ta splendeur,",
+				"Ta beauté sont incomparables."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mélodie venue du ciel,",
+				"Un chant doux et merveilleux,",
+				"Tous les anges en harmonie,",
+				"D'une seule voix célèbrent ton nom.",
+				"Ta puissance et ta grandeur,",
+				"Ta gloire remplissent l'univers,",
+				"Ton éclat et ta splendeur,",
+				"Ta beauté sont incomparables."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint, ô Éternel, Dieu de l'univers,",
+				"Digne de louange !",
+				"Honneur et gloire à l'Agneau de Dieu,",
+				"Assis sur le trône ! Il règne à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint, ô Éternel, Dieu de l'univers,",
+				"Digne de louange !",
+				"Honneur et gloire à l'Agneau de Dieu,",
+				"Assis sur le trône ! Il règne à jamais.",
+				"Assis sur le trône, tu règnes à jamais."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire à l'Agneau ! Gloire à l'Agneau !",
+				"Gloire à l'Agneau ! Gloire à l'Agneau !",
+				"Gloire à l'Agneau ! Gloire à l'Agneau !",
+				"Gloire à l'Agneau ! Gloire à l'Agneau !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire à l'Agneau ! Gloire à l'Agneau !",
+				"Gloire à l'Agneau ! Gloire à l'Agneau !",
+				"Gloire à l'Agneau ! Gloire à l'Agneau !",
+				"Gloire à l'Agneau ! Gloire à l'Agneau !",
+				"Tu règnes à jamais !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marcel Boungou",
+			"role": "music"
+		},
+		{
+			"name": "Marcel Boungou",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem922",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

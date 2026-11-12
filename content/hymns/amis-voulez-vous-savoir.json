@@ -1,0 +1,89 @@
+{
+	"id": "amis-voulez-vous-savoir",
+	"title": "Amis, voulez-vous savoir ?",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "377"
+		},
+		{
+			"hymnal": "adf",
+			"number": "114",
+			"title": "Mortels, voulez-vous savoir."
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Amis, voulez-vous savoir",
+				"Quel est mon unique espoir,",
+				"Ma sagesse et ma science,",
+				"Mon trésor, ma récompense ?",
+				"C'est Jésus crucifié,",
+				"C'est Jésus crucifié."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quelle est l'ancre de ma foi ?",
+				"De mon cœur, quelle est la loi ?",
+				"Quel est mon seul sacrifice,",
+				"Ma sainteté, ma justice ?",
+				"C'est Jésus crucifié,",
+				"C'est Jésus crucifié."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De mon esprit languissant,",
+				"Qui fait cesser le tourment ?",
+				"Dans la peine et la souffrance,",
+				"Qui soutient ma confiance ?",
+				"C'est Jésus ressuscité,",
+				"C'est Jésus ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quel est celui dont la mort",
+				"Me prépare un nouveau sort ?",
+				"Quel est cet Ami fidèle",
+				"Qui sans cesse à lui m'appelle ?",
+				"C'est Jésus glorifié,",
+				"C'est Jésus glorifié."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alfred Kuen",
+			"role": "music"
+		},
+		{
+			"name": "Hortense Richard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg377",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af114",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

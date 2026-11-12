@@ -1,0 +1,39 @@
+{
+	"id": "benis-mon-ame",
+	"title": "Bénis, mon âme",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "99"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bénis, mon âme, bénis l'Éternel,",
+				"Bénis l'Éternel, bénis l'Éternel,",
+				"Sa gloire remplit la terre et le ciel.",
+				"Mon âme, bénis l'Éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem099",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

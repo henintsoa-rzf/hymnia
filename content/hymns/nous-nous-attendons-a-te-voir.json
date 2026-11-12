@@ -1,0 +1,79 @@
+{
+	"id": "nous-nous-attendons-a-te-voir",
+	"title": "Nous nous attendons à te voir",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "801"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous nous attendons à te voir,",
+				"Nous nous préparons à recevoir",
+				"Ton Esprit qui te loue et te contemple,",
+				"Ton feu qui sanctifie ton temple.",
+				"Viens et sonde nos pensées,",
+				"Mets en nous ta sainteté,",
+				"Revêts-nous d'un esprit de pureté;",
+				"Jésus, que tu sois glorifié !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous nous attendons à te voir,",
+				"Nous nous préparons à recevoir",
+				"Ton Esprit qui te loue et te contemple,",
+				"Ton feu qui sanctifie ton temple.",
+				"Viens et sonde nos pensées,",
+				"Mets en nous ta sainteté,",
+				"Revêts-nous d'un esprit de pureté;",
+				"Jésus, que tu sois glorifié !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, alléluia,",
+				"Que ton Esprit habite au milieu de nous !",
+				"Alléluia, alléluia, alléluia.",
+				"Tu règnes à jamais,",
+				"oui, à jamais, à jamais,",
+				"Ton règne dure à toujours."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Louange, honneur, puissance et gloire",
+				"Soient à notre Père, au Roi des rois !",
+				"Louange, honneur, puissance et gloire",
+				"Aux siècles des siècles, amen. Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem801",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

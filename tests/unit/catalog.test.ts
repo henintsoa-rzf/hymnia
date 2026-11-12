@@ -1,10 +1,13 @@
 import { beforeAll, describe, expect, it } from 'vitest';
 import { createCatalog, type CatalogApi } from '$lib/data/catalog';
+import type { Catalog } from '$lib/domain/schema';
 import { loadSample } from '../helpers/sample';
 
 let catalog: CatalogApi;
+let catalogData: Catalog;
 beforeAll(async () => {
-	catalog = createCatalog((await loadSample()).catalog);
+	catalogData = (await loadSample()).catalog;
+	catalog = createCatalog(catalogData);
 });
 
 describe('catalog lookups', () => {
@@ -13,6 +16,20 @@ describe('catalog lookups', () => {
 			['ce', 10],
 			['he', 7]
 		]);
+	});
+
+	it('lists only hymnals that have published hymns, but still knows the others', () => {
+		const data = structuredClone(catalogData);
+		data.hymnals.push({
+			id: 'vide',
+			name: 'Recueil vide',
+			abbreviations: ['RV'],
+			sortOrder: 99,
+			hymnCount: 0
+		});
+		const withEmpty = createCatalog(data);
+		expect(withEmpty.getHymnals().map((h) => h.id)).toEqual(['ce', 'he']);
+		expect(withEmpty.getHymnal('vide')?.name).toBe('Recueil vide');
 	});
 
 	it('finds an entry whatever the number spelling', () => {

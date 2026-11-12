@@ -1,0 +1,113 @@
+{
+	"id": "a-de-nouveaux-combats",
+	"title": "À de nouveaux combats.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "370"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À de nouveaux combats,",
+				"Jésus, tu nous appelles,",
+				"Et nous voici fidèles,",
+				"Prêts à suivre tes pas.",
+				"Conduis-nous aux combats :",
+				"Nous sommes tes soldats."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Arme nos bras, arme nos cœurs,",
+				"Et nous serons plus que vainqueurs,",
+				"Et nous serons plus que vainqueurs ;",
+				"Arme nos bras, arme nos cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Arme-nous, ô Seigneur !",
+				"De foi, de hardiesse,",
+				"De force, de sagesse,",
+				"D'amour et de ferveur ;",
+				"Embrase-nous, Seigneur,",
+				"D'une invincible ardeur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Arme nos bras, arme nos cœurs,",
+				"Et nous serons plus que vainqueurs,",
+				"Et nous serons plus que vainqueurs ;",
+				"Arme nos bras, arme nos cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous tiendrons ferme et haut",
+				"La croix, notre bannière,",
+				"Pour vaincre l'adversaire",
+				"Par le sang de l'Agneau.",
+				"Oui, nous tiendrons bien haut",
+				"Ta croix, notre drapeau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Arme nos bras, arme nos cœurs,",
+				"Et nous serons plus que vainqueurs,",
+				"Et nous serons plus que vainqueurs ;",
+				"Arme nos bras, arme nos cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Luttons, prions, souffrons !",
+				"Nous aurons la victoire ;",
+				"La couronne de gloire",
+				"Un jour ceindra nos fronts.",
+				"Luttons, prions, souffrons,",
+				"Bientôt nous régnerons !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Arme nos bras, arme nos cœurs,",
+				"Et nous serons plus que vainqueurs,",
+				"Et nous serons plus que vainqueurs ;",
+				"Arme nos bras, arme nos cœurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af370",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

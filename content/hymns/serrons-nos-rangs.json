@@ -1,0 +1,94 @@
+{
+	"id": "serrons-nos-rangs",
+	"title": "Serrons nos rangs.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "163"
+		},
+		{
+			"hymnal": "cd",
+			"number": "128"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Serrons nos rangs autour du Maître.",
+				"Soyons unis, la victoire est à nous ;",
+				"Par notre amour, faisons à tous connaître",
+				"De notre Dieu combien le joug est doux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frères, frères, son nom est amour ;",
+				"Frères, frères, aimons-nous toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est par amour qu'Il entra dans notre âme,",
+				"C'est par amour qu'Il lave nos péchés ;",
+				"Nous embrasant d'une céleste flamme,",
+				"Que son amour nous retienne attachés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frères, frères, son nom est amour ;",
+				"Frères, frères, aimons-nous toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Amour, amour ! insondable mystère",
+				"Qui nous unit, et tous ensemble à Dieu !",
+				"Amour, amour, si doux sur cette terre,",
+				"Amour, amour, oh ! que sera-ce aux cieux ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frères, frères, son nom est amour ;",
+				"Frères, frères, aimons-nous toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cantiques du Réveil",
+			"role": "music"
+		},
+		{
+			"name": "Cantiques du Réveil",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af163",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/964",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

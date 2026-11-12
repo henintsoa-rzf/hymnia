@@ -1,0 +1,99 @@
+{
+	"id": "nous-elevons-le-nom-de-jesus",
+	"title": "Nous élevons le nom de Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "638"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous élevons le nom de Jésus,",
+				"Au-dessus de tout esprit méchant.",
+				"Nous élevons le nom de Jésus,",
+				"Car c'est le nom du salut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous proclamons sa victoire,",
+				"À lui honneur, puissance et gloire.",
+				"Il a remporté le combat,",
+				"La mort a perdu ses droits !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous élevons le nom de Jésus,",
+				"Au-dessus de tout esprit méchant.",
+				"Nous élevons le nom de Jésus,",
+				"Car c'est le nom du salut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre ennemi a perdu,",
+				"Il est lié, il est vaincu.",
+				"Jésus a détruit tous ses plans,",
+				"Satan a perdu son rang !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous élevons le nom de Jésus,",
+				"Au-dessus de tout esprit méchant.",
+				"Nous élevons le nom de Jésus,",
+				"Car c'est le nom du salut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous recevons sa puissance,",
+				"L'autorité, la délivrance.",
+				"Nous allons marcher en vainqueurs,",
+				"Soumis à notre Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous élevons le nom de Jésus,",
+				"Au-dessus de tout esprit méchant.",
+				"Nous élevons le nom de Jésus,",
+				"Car c'est le nom du salut."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem638",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

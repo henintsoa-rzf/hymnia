@@ -1,0 +1,79 @@
+{
+	"id": "soleil-levant",
+	"title": "Soleil levant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "887"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es le soleil levant,",
+				"Sur les ombres de nos vies,",
+				"Le trésor que nous cherchons,",
+				"Perle de grand prix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comment pouvons-nous te dire",
+				"Notre adoration ?",
+				"Reçois la reconnaissance",
+				"De ta création."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De l'orient à l'occident,",
+				"Ton nom sera glorifié,",
+				"Au long des générations",
+				"Et dans l'éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comment pouvons-nous te dire",
+				"Notre adoration ?",
+				"Reçois la reconnaissance",
+				"De ta création."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comment pouvons-nous te dire",
+				"Notre adoration ?",
+				"Reçois la reconnaissance",
+				"De ta création."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham ; François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "David Durham ; François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem887",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

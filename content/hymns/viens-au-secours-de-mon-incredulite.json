@@ -1,0 +1,87 @@
+{
+	"id": "viens-au-secours-de-mon-incredulite",
+	"title": "Viens au secours de mon incrédulité",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "312"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il y a des jours où je n’sais plus",
+				"Si j’ai raison de te confier",
+				"Ma vie, mes plans, tous mes projets.",
+				"Alors je crie : « Seigneur Jésus,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens au secours de mon incrédulité,",
+				"Viens te révéler, car pourtant je crois.",
+				"Merci, Jésus, toi qui m’aimes le premier,",
+				"Merci de poser ton regard sur moi. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsque je cherche des solutions",
+				"J’ouvre la Bible et je te prie ;",
+				"Toi, tu réponds à mes questions,",
+				"Tu m’encourages par ton Église."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand tout va mal, quand tout va bien,",
+				"J’ai décidé de te laisser",
+				"Guider ma vie, ma volonté,",
+				"Car, je le sais, tu veux mon bien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Merci d’accueillir mon peu de foi,",
+				"Merci de m’aider à vivre pour toi.",
+				"Toi qui mets la foi dans mon cœur.",
+				"Toi qui mets la foi dans mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-12",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

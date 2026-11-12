@@ -1,0 +1,79 @@
+{
+	"id": "mon-redempteur-vit-jem-1085",
+	"title": "Mon rédempteur vit",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1085"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais je sais que mon Rédempteur vit",
+				"Et qu'un jour je le verrai.",
+				"De mes yeux je le contemplerai,",
+				"Sauvé pour l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! je voudrais que mes paroles soient écrites,",
+				"Gravées au fer, coulées au plomb dans le rocher.",
+				"Il m'appellera de la poussière",
+				"Pour me ramener dans sa lumière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais je sais que mon Rédempteur vit",
+				"Et qu'un jour je le verrai.",
+				"De mes yeux je le contemplerai,",
+				"Sauvé pour l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je le verrai et il me sera favorable.",
+				"Mon âme soupire et je l'attends avec ferveur.",
+				"Quand je me tiendrai dans son rivage,",
+				"Je contemplerai son doux visage."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais je sais que mon Rédempteur vit",
+				"Et qu'un jour je le verrai.",
+				"De mes yeux je le contemplerai,",
+				"Sauvé pour l'éternité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1085",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

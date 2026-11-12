@@ -1,0 +1,88 @@
+{
+	"id": "a-mon-dieu-j-abandonne",
+	"title": "À mon Dieu j'abandonne",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "291"
+		},
+		{
+			"hymnal": "adf",
+			"number": "604"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À mon Dieu j'abandonne",
+				"Ma vie et ma personne,",
+				"Mes projets et mes vœux.",
+				"Sans lui rien ne prospère ;",
+				"Sans mon céleste Père,",
+				"Rien ne saurait me rendre heureux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, de sa Providence,",
+				"Avec reconnaissance",
+				"Je veux tout accepter.",
+				"Ce qu'il lui plaît de faire",
+				"M'est toujours salutaire :",
+				"Cesse mon cœur, de t'agiter."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je reçois avec joie",
+				"Tous les biens qu'il m'envoie,",
+				"Et dans l'adversité,",
+				"Quand sa main me châtie,",
+				"Du Dieu qui m'humilie,",
+				"J'adore encor la volonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oui, mon âme est tranquille,",
+				"Je trouve un sûr asile,",
+				"O Seigneur, dans ton sein ;",
+				"Et bientôt cette vie,",
+				"Pour moi sera suivie",
+				"D'un bonheur sans borne et sans fin."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Heinrich Isaac",
+			"role": "music"
+		},
+		{
+			"name": "Psalmodie morave",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg291",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af604",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

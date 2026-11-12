@@ -1,0 +1,77 @@
+{
+	"id": "un-parfum-de-bonne-odeur",
+	"title": "Un parfum de bonne odeur",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "709"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment comprendre un si grand amour",
+				"Qui me tira de l’ombre à la lumière du jour ?",
+				"Comment décrire ce grand bonheur",
+				"De te sentir près de mon cœur ?"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu m’as aimé bien avant que le monde soit !",
+				"Et ton amour envers moi ne change pas !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux entrer dans ta présence",
+				"Débordant de reconnaissance,",
+				"T’offrir la louange de mon cœur",
+				"Comme un parfum de bonne odeur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pourquoi choisir une existence",
+				"En apparence remplie, mais dépourvue de sens ?",
+				"Je connais un Sauveur qui m’a donné",
+				"Ce que même mon cœur n’aurait imaginé !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"A tes pieds je veux me jeter",
+				"Conscient du poids de mes péchés,",
+				"Abandonnant mes mauvaises actions,",
+				"Je veux accepter ton pardon !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Foksas’on",
+			"role": "lyrics"
+		},
+		{
+			"name": "Foksas’on",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-9",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

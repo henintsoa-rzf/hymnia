@@ -47,7 +47,16 @@ Results are grouped by tier, then by score within a tier:
 2. Exact title match (normalised)
 3. Title match: **every** query word matches a word of the title
 4. First-line match: every query word matches a word of the first line
-5. Lyrics match: anything else found by the index
+5. Lyrics match: anything else found by the index. Within this tier, hymns whose lyrics hold
+   the query as a phrase (its words one after the other, across line breaks) come first, then
+   hymns whose lyrics hold every query word, then the rest by score. Only the 200 best lyrics
+   hits are re-ordered this way (performance). *(Added after the first real import, feature
+   002: a full line of lyrics ranked below titles holding one of its words.)*
+
+"Title" means any title of the hymn: its own and the ones its hymnals print
+(`HymnalEntry.title`, feature 002). A result found through a title opens on an entry that
+prints that title, and `title` in the result is always the title printed by the hymnal of
+`primaryRef`.
 
 "Every word" keeps a common word ("la", "de") from lifting an unrelated title above the hymn
 whose lyrics actually match. Tiers are computed for every hit; results, references and excerpts

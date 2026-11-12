@@ -1,0 +1,85 @@
+{
+	"id": "bethleem-toi-la-moindre-des-cites",
+	"title": "Bethléem... toi la moindre des cités",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "79"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bethléem, toi la moindre",
+				"Des petites cités,",
+				"Le monde en toi voit poindre",
+				"La divine clarté.",
+				"Une nouvelle étoile",
+				"Resplendit dans tes lieux,",
+				"Et déchire le voile,",
+				"Qui nous cachait les cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans tes murs vient de naître,",
+				"D'une vierge l'enfant,",
+				"Les anges d'apparaître,",
+				"Dans la nuit triomphants.",
+				"Gloire à Dieu sur la terre,",
+				"Un Sauveur nous est né.",
+				"Gloire à Dieu! Gloire au Père,",
+				"Jésus nous est donné!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Prophètes, vos oracles",
+				"S'accomplissent ici,",
+				"Miracle des miracles,",
+				"Ô monde, le voici!",
+				"Sujet de grande joie,",
+				"De grâce et de salut.",
+				"Le ciel ouvre sa voie,",
+				"En nous donnant Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ô Christ, né dans l'étable,",
+				"À Bethléem, la nuit,",
+				"Toi, lumière adorable,",
+				"Entre en nous aujourd’hui.",
+				"Et l'heureuse nouvelle,",
+				"D'un bonheur éternel,",
+				"Pour vous sera bien celle,",
+				"Des anges de Noël."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Id. Arnéra",
+			"role": "unspecified"
+		},
+		{
+			"name": "L.H. Redner",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/885",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,119 @@
+{
+	"id": "si-je-dois-trembler",
+	"title": "Si je dois trembler",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1170"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je ne tremblerai pas",
+				"Devant mes ennemis.",
+				"Je ne fléchirai pas",
+				"Sous le poids de ma vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je ne tremblerai pas,",
+				"Ce n’est pas mon appel.",
+				"Ma confiance est en toi,",
+				"Mon espoir te révèle."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si je dois trembler, ce sera devant toi,",
+				"Si je dois fléchir, ce sera à la croix.",
+				"Toi seul es Seigneur, toi seul es Roi des rois.",
+				"Ni la mort, ni la vie n’éteindront ma foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je marche face au vent,",
+				"Espérant ton secours.",
+				"Tu es le Dieu vivant,",
+				"Tu règnes pour toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si je dois trembler, ce sera devant toi,",
+				"Si je dois fléchir, ce sera à la croix.",
+				"Toi seul es Seigneur, toi seul es Roi des rois.",
+				"Ni la mort, ni la vie n’éteindront ma foi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je choisis de vivre pour ta gloire",
+				"Tant que mes pas fouleront cette terre.",
+				"Oui, je marcherai dans ta victoire",
+				"En attendant de marcher dans le ciel."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je choisis de vivre pour ta gloire",
+				"Tant que mes pas fouleront cette terre.",
+				"Oui, je marcherai dans ta victoire",
+				"En attendant de marcher dans le ciel."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Si je dois trembler, ce sera devant toi,",
+				"Si je dois fléchir, ce sera à la croix.",
+				"Toi seul es Seigneur, toi seul es Roi des rois.",
+				"Ni la mort, ni la vie n’éteindront ma foi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Julien Adam",
+			"role": "music"
+		},
+		{
+			"name": "Julien Adam",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1170",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

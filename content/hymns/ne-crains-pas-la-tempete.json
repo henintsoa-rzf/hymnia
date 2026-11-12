@@ -1,0 +1,54 @@
+{
+	"id": "ne-crains-pas-la-tempete",
+	"title": "Ne crains pas la tempête",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "118"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ne crains pas la tempête,",
+				"Reste tranquille la paix viendra,",
+				"Relève donc la tête,",
+				"Regarde à Jésus, sois plein de foi.",
+				"Qu'importe l'adversaire,",
+				"Chasse la crainte",
+				"Il est vaincu ;"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au nom puissant de Jésus",
+				"L'ennemi s'enfuit,",
+				"Tu es vainqueur !",
+				"Au nom puissant de Jésus",
+				"L'ennemi s'enfuit,",
+				"Tu es vainqueur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem118",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

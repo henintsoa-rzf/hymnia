@@ -1,0 +1,89 @@
+{
+	"id": "du-lever-du-soleil-jem-746",
+	"title": "Du lever du soleil",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "746"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du lever du soleil jusqu'à son coucher,",
+				"Ton nom, Éternel, est exalté.",
+				"Du lever du soleil jusqu'à son coucher,",
+				"Ton nom, Éternel, est exalté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta compassion est grande,",
+				"Elle dure pour mille générations,",
+				"Pour ceux qui te respectent",
+				"Et suivent tes commandements."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du lever du soleil jusqu'à son coucher,",
+				"Ton nom, Éternel, est exalté.",
+				"Du lever du soleil jusqu'à son coucher,",
+				"Ton nom, Éternel, est exalté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton peuple est comme une vigne",
+				"Qui donne son fruit en sa saison.",
+				"Son cœur est à la fête",
+				"Comme aux beaux jours de la moisson."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du lever du soleil jusqu'à son coucher,",
+				"Ton nom, Éternel, est exalté.",
+				"Du lever du soleil jusqu'à son coucher,",
+				"Ton nom, Éternel, est exalté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ton nom est une forteresse",
+				"Et un refuge pour l'opprimé.",
+				"C'est dans notre faiblesse",
+				"Que ta puissance est révélée."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem746",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

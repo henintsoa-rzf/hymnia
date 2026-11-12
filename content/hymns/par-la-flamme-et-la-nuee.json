@@ -1,0 +1,68 @@
+{
+	"id": "par-la-flamme-et-la-nuee",
+	"title": "Par la flamme et la nuée.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "187"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Par la flamme et la nuée,",
+				"Guide-moi dans le chemin !",
+				"À mon âme exténuée",
+				"Daigne, ô Dieu ! tendre la main.",
+				"Pain de vie,",
+				"Rassasie",
+				"L'exilé qui meurt de faim !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Comme une onde salutaire,",
+				"Que ta grâce coule à flots,",
+				"Que mon cœur s'y désaltère,",
+				"Et, trouvant le vrai repos,",
+				"Qu'il te suive",
+				"Sur la rive",
+				"Où tu mènes tes troupeaux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et, s'il faut que je descende",
+				"Dans le fleuve de la mort,",
+				"Dieu-Sauveur ! que je t'entende",
+				"M'appeler sur l'autre bord !",
+				"O Lumière",
+				"Du Calvaire",
+				"Tu me conduiras au port !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles H. Steggal",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af187",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

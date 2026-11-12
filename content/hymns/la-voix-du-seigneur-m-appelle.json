@@ -1,0 +1,138 @@
+{
+	"id": "la-voix-du-seigneur-m-appelle",
+	"title": "La voix du Seigneur m'appelle",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "288"
+		},
+		{
+			"hymnal": "adf",
+			"number": "598"
+		},
+		{
+			"hymnal": "jem",
+			"number": "1161"
+		},
+		{
+			"hymnal": "cd",
+			"number": "235"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La voix du Seigneur m'appelle :",
+				"Prends ta croix et viens, suis-moi !",
+				"Je réponds : « Sauveur fidèle,",
+				"Me voici, je suis à toi ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'au bout je veux te suivre,",
+				"Dans les bons, les mauvais jours,",
+				"À toi pour mourir et vivre,",
+				"À toi, Jésus, pour toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais le chemin du Calvaire",
+				"Est étroit et périlleux,",
+				"C'est un chemin solitaire,",
+				"Difficile et ténébreux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'au bout je veux te suivre,",
+				"Dans les bons, les mauvais jours,",
+				"À toi pour mourir et vivre,",
+				"À toi, Jésus, pour toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il faut quitter ceux qu'on aime,",
+				"Savoir être mal jugé,",
+				"Endurer l'injure même,",
+				"Du monde être méprisé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'au bout je veux te suivre,",
+				"Dans les bons, les mauvais jours,",
+				"À toi pour mourir et vivre,",
+				"À toi, Jésus, pour toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus donne grâce et gloire",
+				"Pour le suivre pas à pas,",
+				"Avec lui, joie et victoire,",
+				"Paix et bonheur ici-bas !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'au bout je veux te suivre,",
+				"Dans les bons, les mauvais jours,",
+				"À toi pour mourir et vivre,",
+				"À toi, Jésus, pour toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Russel-Kelso Carter",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg288",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af598",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem1161",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1063",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

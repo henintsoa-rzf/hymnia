@@ -1,0 +1,107 @@
+{
+	"id": "sentinelle",
+	"title": "Sentinelle",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "548"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis vivant, dit le Seigneur.",
+				"Je ne veux pas que l'homme meure.",
+				"Revenez à moi de vos mauvaises voies",
+				"Et je guérirai vos cœurs blessés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je t'ai pris et établi",
+				"Comme sentinelle sur le pays.",
+				"Je t'ai pris et établi",
+				"Comme sentinelle sur le pays."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si vous écoutez ma parole",
+				"Pour vous détourner des idoles,",
+				"Je pardonnerai et vous délivrerai",
+				"De tous les maux dont vous souffrez."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je t'ai pris et établi",
+				"Comme sentinelle sur le pays.",
+				"Je t'ai pris et établi",
+				"Comme sentinelle sur le pays."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Parle à ceux qui sont dans la nuit,",
+				"Convaincs-les de changer de vie.",
+				"Préviens-les du danger qui les frappera",
+				"Quand l'ennemi les surprendra."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je t'ai pris et établi",
+				"Comme sentinelle sur le pays.",
+				"Je t'ai pris et établi",
+				"Comme sentinelle sur le pays."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La trompette sonne, peuple dérouté,",
+				"Il est encore temps de se lever."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je t'ai pris et établi",
+				"Comme sentinelle sur le pays.",
+				"Je t'ai pris et établi",
+				"Comme sentinelle sur le pays."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem548",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

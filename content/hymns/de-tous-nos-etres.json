@@ -1,0 +1,89 @@
+{
+	"id": "de-tous-nos-etres",
+	"title": "De tous nos êtres",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1196"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment venir à toi,",
+				"Tout te déposer,",
+				"Faire taire toutes ces voix",
+				"Et tout abandonner ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment lever les mains",
+				"Sans rien retenir,",
+				"S’approcher du Roi",
+				"Sans rien à offrir ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De tous nos êtres cherchons à t’obéir,",
+				"Mieux te connaître, apprendre à te chérir.",
+				"De tous nos êtres renonçons à nos voies,",
+				"Tu es le maître de nos vies ici-bas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Où trouver ce pardon",
+				"Pour des cœurs chargés",
+				"D’absurdes ambitions",
+				"Que l’on tient cachées"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À travers nos pensées,",
+				"Nos chemins tordus,",
+				"Jalousies masquées,",
+				"Vaines et sans issue ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De tous nos êtres cherchons à t’obéir,",
+				"Mieux te connaître, apprendre à te chérir.",
+				"De tous nos êtres renonçons à nos voies,",
+				"Tu es le maître de nos vies ici-bas."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond et Christian Frappier",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond et Christian Frappier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1196",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

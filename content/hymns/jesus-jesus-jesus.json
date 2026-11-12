@@ -1,0 +1,70 @@
+{
+	"id": "jesus-jesus-jesus",
+	"title": "Jésus, Jésus, Jésus.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "40"
+		},
+		{
+			"hymnal": "cd",
+			"number": "53"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, Jésus, Jésus, Jésus,",
+				"Seul nom que mon cœur aime,",
+				"Je voudrais ne prononcer plus",
+				"Qu'un seul mot, ce nom même."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, Jésus, ce nom si beau,",
+				"C'est celui dont les anges,",
+				"Prosternés autour de l'Agneau",
+				"Remplissent leurs louanges."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, c'est le nom de Celui",
+				"Qui descendit du Père,",
+				"Dont l'amour sur la croix a lui,",
+				"En qui la terre espère."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Webbe d'après Wolfgang Amadeus Mozart",
+			"role": "music"
+		},
+		{
+			"name": "A. Juillard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af040",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/861",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "dans-une-etable-o-mystere",
+	"title": "Dans une étable, ô mystère!",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "83"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans une étable, ô mystère!",
+				"En la royale cité,",
+				"Une bienheureuse mère",
+				"Couche un fils emmailloté.",
+				"Dans la crèche ! Quel amour!",
+				"Là Jésus-Christ, voit le jour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il n'a rien pour qu'on l'admire,",
+				"De pauvres langes vêtu,",
+				"Une mère qui soupire",
+				"Pour son enfant, là venu.",
+				"Mais pour bien l`encourager,",
+				"On laisse entrer les bergers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ils gardaient dans la contrée,",
+				"Les brebis de leur troupeau,",
+				"Quand tout à coup s'est montrée,",
+				"La gloire du Dieu très haut,",
+				"Qui les a fort effrayés,",
+				"Mais bientôt émerveillés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"« Ne craignez rien » leur dit l’ange,",
+				"Aujourd'hui le Christ est né!",
+				"Sainte chose, fait étrange,",
+				"Dans la crèche, ils l'ont trouvé...",
+				"Avec eux, chantons en choeur:",
+				"« gloire à l'enfant, Dieu sauveur! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Id. Arnéra",
+			"role": "unspecified"
+		},
+		{
+			"name": "H.J. Gauntlett",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/888",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "tu-as-choisi-la-croix",
+	"title": "Tu as choisi la croix",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "942"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu as choisi, choisi la croix,",
+				"Une vie parfaite, une mort parfaite,",
+				"Le choix de la croix.",
+				"Ta couronne était d'épines,",
+				"Tu nous couronnes de ta vie,",
+				"Le choix de la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Et quand ton âme était brisée d'angoisse,",
+				"Soumis jusqu'à la mort, tu as vaincu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Émerveillé, saisi d'amour,",
+				"Je te louerai jour après jour.",
+				"L'amour de Jésus est infini,",
+				"Je suis pardonné, je suis guéri."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu m'as délié de mon péché",
+				"Et revêtu de dignité,",
+				"Le choix de la croix.",
+				"Hors de la tombe, victorieux,",
+				"Tu ressuscites glorieux,",
+				"Le choix de la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est mon tourment que tu as pris sur toi,",
+				"Mais tu as dit : « Que ta volonté soit ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Émerveillé, saisi d'amour,",
+				"Je te louerai jour après jour.",
+				"L'amour de Jésus est infini,",
+				"Je suis pardonné, je suis guéri."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Martyn Layzell",
+			"role": "music"
+		},
+		{
+			"name": "Martyn Layzell",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem942",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

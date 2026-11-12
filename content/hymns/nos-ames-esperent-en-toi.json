@@ -1,0 +1,77 @@
+{
+	"id": "nos-ames-esperent-en-toi",
+	"title": "Nos âmes espèrent en toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1096"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous chérissons ta présence,",
+				"Désirons ton abondance.",
+				"Tu es la source de tout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nos âmes espèrent en toi.",
+				"Tu es notre Dieu, sois loué en ce lieu.",
+				"Nos âmes espèrent en toi.",
+				"Tu es notre Dieu, sois loué en ce lieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous voulons être près de toi,",
+				"À chaque instant, à chaque pas.",
+				"Tu es la source de tout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nos âmes espèrent en toi.",
+				"Tu es notre Dieu, sois loué en ce lieu.",
+				"Nos âmes espèrent en toi.",
+				"Tu es notre Dieu, sois loué en ce lieu."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh !",
+				"Que ton Esprit tombe sur nous.",
+				"Oh ! oh ! oh !",
+				"Que ton Esprit tombe sur nous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Siméon Freymond et Céline Meylan",
+			"role": "music"
+		},
+		{
+			"name": "Siméon Freymond et Céline Meylan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1096",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

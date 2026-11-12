@@ -1,0 +1,104 @@
+{
+	"id": "gloire-au-seigneur-jem-342",
+	"title": "Gloire au Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "342"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Gloire au Seigneur,",
+				"Chante alléluia",
+				"Chante au Seigneur de tout l'univers.",
+				"Gloire à son nom,",
+				"Qu'un chant joyeux",
+				"Résonne sur la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je loue mon Dieu, je loue mon Dieu",
+				"Et je l'adore, et je l'adore",
+				"Pour son amour, pour son amour.",
+				"Je loue mon Dieu, je loue mon Dieu",
+				"Et je l'adore, et je l'adore",
+				"Pour son amour, pour son amour.",
+				"Son amour dure à toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Gloire au Seigneur !",
+				"L'orage et la pluie,",
+				"Le vent et la mer déploient sa puissance.",
+				"Criez de joie !",
+				"Venez proclamer",
+				"Un chant de réjouissance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je loue mon Dieu, je loue mon Dieu",
+				"Et je l'adore, et je l'adore",
+				"Pour son amour, pour son amour.",
+				"Je loue mon Dieu, je loue mon Dieu",
+				"Et je l'adore, et je l'adore",
+				"Pour son amour, pour son amour.",
+				"Son amour dure à toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Gloire au Seigneur !",
+				"Sentez et voyez",
+				"Combien le Seigneur est bon pour nous !",
+				"Gloire à son nom !",
+				"À tous ses enfants,",
+				"il donne abondamment."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je loue mon Dieu, je loue mon Dieu",
+				"Et je l'adore, et je l'adore",
+				"Pour son amour, pour son amour.",
+				"Je loue mon Dieu, je loue mon Dieu",
+				"Et je l'adore, et je l'adore",
+				"Pour son amour, pour son amour.",
+				"Son amour dure à toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem342",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

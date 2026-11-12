@@ -1,0 +1,93 @@
+{
+	"id": "majeste-jem-871",
+	"title": "Majesté",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "871"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "512",
+			"title": "Majesté (Majesty)"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Me voici, confondu par ta majesté,",
+				"Couvert de ta grâce illimitée.",
+				"Me voici, conscient du poids de mes fautes,",
+				"Couvert par le sang de l'Agneau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car je sais : l'amour le plus grand",
+				"m'est donné,",
+				"Tu as offert ta vie,",
+				"Le plus grand sacrifice.",
+				"Majesté, majesté, ta grâce m'a trouvé tel",
+				"que je suis,",
+				"Je n'ai rien à moi, mais en toi je vis.",
+				"Majesté, majesté, par ton amour",
+				"je suis transformé,",
+				"En présence de ta majesté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Me voici, confondu par ton amour,",
+				"Pardonné, je pardonne en retour.",
+				"Me voici, conscient d'être ton plaisir,",
+				"Sanctifié par le feu de ta gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car je sais : l'amour le plus grand",
+				"m'est donné,",
+				"Tu as offert ta vie,",
+				"Le plus grand sacrifice.",
+				"Majesté, majesté, ta grâce m'a trouvé tel",
+				"que je suis,",
+				"Je n'ai rien à moi, mais en toi je vis.",
+				"Majesté, majesté, par ton amour",
+				"je suis transformé,",
+				"En présence de ta majesté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stuart Garrard ; Martin Smith",
+			"role": "music"
+		},
+		{
+			"name": "Stuart Garrard ; Martin Smith",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem871",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-12",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

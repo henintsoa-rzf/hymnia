@@ -1,0 +1,71 @@
+{
+	"id": "tous-ensemble-amis-chantons",
+	"title": "Tous ensemble, amis, chantons",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "189"
+		},
+		{
+			"hymnal": "jem",
+			"number": "97",
+			"title": "Canon à 4 voix"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tous ensemble, amis,",
+				"Chantons d'un cœur joyeux :",
+				"Oui, chantons, louons notre Dieu.",
+				"Tous ensemble et d'un cœur joyeux,",
+				"Oui, chantons, louons notre Dieu.",
+				"Oui, chantons, louons notre Dieu.",
+				"Oui, chantons, louons notre Dieu.",
+				"Oui, chantons, louons notre Dieu.",
+				"Amen, amen, alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Peuple du Seigneur,",
+				"Sois ferme et vigilant ;",
+				"Veille et prie : ton Maître vient.",
+				"Sois fidèle, toujours fervent ;",
+				"Veille et prie : ton Maître vient.",
+				"Veille et prie : ton Maître vient.",
+				"Veille et prie : ton Maître vient.",
+				"Veille et prie : ton Maître vient.",
+				"Amen, amen, alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg189",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem097",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

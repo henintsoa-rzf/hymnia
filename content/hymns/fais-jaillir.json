@@ -1,0 +1,89 @@
+{
+	"id": "fais-jaillir",
+	"title": "Fais jaillir",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "620"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Fais jaillir du fond de mon cœur",
+				"Un chant de louange pour toi, mon Seigneur.",
+				"Fais jaillir du fond de ma vie",
+				"Ce cri: « Abba Père »,",
+				"Ce cri: « Abba Père »."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je désire rester ferme,",
+				"ancré dans ton amour,",
+				"Car rien ne pourra jamais m'en séparer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fais germer au fond de la terre",
+				"Louange et salut parmi les nations.",
+				"Fais germer au fond de la terre",
+				"Des fruits de justice,",
+				"Des fruits de justice."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De toute tribu on bénira ton nom",
+				"Et devant toi tout genou fléchira."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Fais jaillir du fond de mon cœur",
+				"Un chant de louange pour toi, mon Seigneur.",
+				"Fais jaillir du fond de ma vie",
+				"Ce cri: « Abba Père »,",
+				"Ce cri: « Abba Père »."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ce cri: « Abba Père »,",
+				"Ce cri: « Abba Père ».",
+				"Ce cri: « Abba Père »,",
+				"Ce cri: « Abba Père »."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Francine Chabloz",
+			"role": "music"
+		},
+		{
+			"name": "Francine Chabloz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem620",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

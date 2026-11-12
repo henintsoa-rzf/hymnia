@@ -1,0 +1,121 @@
+{
+	"id": "eternel-j-ai-entendu-ce-que-tu-nous-as-annonce",
+	"title": "Éternel, j'ai entendu ce que tu nous as annoncé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "315"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Éternel, j'ai entendu",
+				"Ce que tu nous as annoncé,",
+				"Et je suis saisi de craintes",
+				"Devant tant de majesté !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Seigneur, fais donc ton œuvre",
+				"Dans le courant des années,",
+				"Mais dans ta colère,",
+				"Souviens-toi de ta grande bonté!",
+				"Comme un éclat de lumière,",
+				"Sa gloire inonde l'univers ;",
+				"Des rayons partent de sa main:",
+				"Voici le Dieu trois fois saint !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Devant lui marchent la peste",
+				"Et une flamme est sous ses pieds ;",
+				"Il regarde le monde",
+				"Et les nations se mettent à trembler !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Les montagnes et les collines",
+				"Devant lui sont abaissées ;",
+				"Est-ce contre les rivières",
+				"Que l'Éternel est fâché ?",
+				"À la splendeur de ta lance,",
+				"Le soleil s'est arrêté,",
+				"Et des torrents d'eau",
+				"Se sont précipités dans les vallées."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu parcours la terre entière,",
+				"Tu écrases les nations ;",
+				"Tu viens délivrer ton peuple,",
+				"Qui vivait dans l'oppression."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu détruis de fond en comble",
+				"La demeure des méchants ;",
+				"Tu transperces de tes flèches",
+				"La tête des dirigeants.",
+				"À cette voix, je frémis",
+				"Et je suis tremblant de frayeur ;",
+				"Je dois attendre en silence",
+				"La journée du destructeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Même si la vigne est sans fruit,",
+				"Si le figuier a séché,",
+				"Si les produits et la nourriture",
+				"Viennent à manquer ;"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si les brebis ne sont plus,",
+				"Si le bétail est abattu,",
+				"Je me réjouirai pourtant",
+				"Dans le Dieu de mon salut.",
+				"Et mes pieds, comme des biches,",
+				"Marcheront sur son chemin ;",
+				"La vie m'appartient en restant fidèle",
+				"Au Dieu souverain."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ludvig van Beethoven",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem315",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

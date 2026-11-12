@@ -1,0 +1,77 @@
+{
+	"id": "ton-roi-vient-pauvre",
+	"title": "Ton Roi vient, pauvre.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "550"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton Roi vient, pauvre et débonnaire,",
+				"Plus grand que les rois de la terre,",
+				"Jérusalem, sèche tes pleurs.",
+				"Célèbre par tes chants sa gloire,",
+				"Tends-lui les palmes de victoire,",
+				"Et jonche son chemin de fleurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Maître puissant, Roi sans armée,",
+				"Héros vaillant, chef sans épée,",
+				"Jésus, ô Prince de la paix !",
+				"Pour saper ton œuvre féconde",
+				"Se dressent les puissants du monde ;",
+				"Mais tu triomphes à jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu régneras, ô divin frère,",
+				"Et tous les peuples de la terre",
+				"Un jour reconnaîtront ta loi,",
+				"Armés de ta parole sainte,",
+				"Que tous les rachetés, sans crainte,",
+				"Partout combattent avec toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu vois la détresse profonde",
+				"Qui pèse aujourd'hui sur le monde ;",
+				"Sauveur fidèle, hâte-toi.",
+				"Viens établir ton alliance,",
+				"Fais tomber toute résistance,",
+				"Soumets les peuples à ta loi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fr.-V. Buttstedt",
+			"role": "music"
+		},
+		{
+			"name": "J. Siordet-Ruckert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af550",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

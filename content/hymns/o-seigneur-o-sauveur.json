@@ -1,0 +1,93 @@
+{
+	"id": "o-seigneur-o-sauveur",
+	"title": "O Seigneur, ô Sauveur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "59"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Seigneur, ô Sauveur,",
+				"que nos lèvres te louent,",
+				"Mais qu'avec nos accents",
+				"nos œuvres soient d'accord !",
+				"Si, par nos actions,",
+				"nos cœurs te désavouent,",
+				"Dans nos chants les plus beaux",
+				"tout est vain, tout est mort.",
+				"Dans nos chants les plus beaux",
+				"tout est vain, tout est mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu naquis pour servir,",
+				"et servir fut ta gloire ;",
+				"Servir est à jamais",
+				"le sceau de tes enfants.",
+				"Qui fait peu t'aime peu ;",
+				"qui se borne à te croire,",
+				"Ne te croit point encor,",
+				"ô Sauveur des croyants.",
+				"Ne te croit point encor,",
+				"ô Sauveur des croyants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mourut-il avec Christ",
+				"au rocher du Calvaire,",
+				"L'amour pieux et tendre,",
+				"asile du malheur ?",
+				"Non, l'amour y naquit,",
+				"et dès lors sur la terre,",
+				"Comme on cherche un trésor,",
+				"il cherche la douleur.",
+				"Comme on cherche un trésor,",
+				"il cherche la douleur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que de maux, de périls",
+				"et de besoins m'appellent !",
+				"Que de frères, d'amis,",
+				"Dieu jette dans mes bras !",
+				"Que d'œuvres à fonder,",
+				"que d'œuvres qui chancellent…",
+				"Travaillons : le loisir",
+				"n'appartient qu'aux ingrats.",
+				"Travaillons : le loisir",
+				"n'appartient qu'aux ingrats."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michel Haydn",
+			"role": "music"
+		},
+		{
+			"name": "Alexandre Vinet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af059",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,62 @@
+{
+	"id": "saint-saint",
+	"title": "Saint, saint",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "287"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Saint, saint, saint, saint,",
+				"saint est le Seigneur,",
+				"Saint, saint, saint, saint,",
+				"saint est le Seigneur.",
+				"Rendons gloire à son saint nom.",
+				"Saint, saint, saint, saint,",
+				"saint est le Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Digne, digne, digne est le Seigneur,",
+				"Digne, digne, digne est le Seigneur.",
+				"Rendons gloire à son saint nom !",
+				"Digne, digne, digne est le Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, Jésus, tu es le Seigneur,",
+				"Jésus, Jésus, tu es le Seigneur.",
+				"Nous te rendons gloire.",
+				"Jésus, Jésus, tu es le Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Frank Hernandez",
+			"role": "music"
+		},
+		{
+			"name": "Frank Hernandez",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem287",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,124 @@
+{
+	"id": "nous-elevons-son-etendard",
+	"title": "Nous élevons son étendard",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1129"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sois ma force quand je faiblis, ô Seigneur,",
+				"Sauve-moi quand je tombe, ô Seigneur,",
+				"Mets un feu dans mon cœur",
+				"Qui résiste à l’océan, donne-moi",
+				"L’espérance pour œuvrer jusqu’au bout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Jésus, sois ma vision.",
+				"Oh ! La passion et le feu dans mon âme !",
+				"Nous élevons son étendard,",
+				"Plus haut son étendard."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans la vallée des larmes, ô Seigneur,",
+				"Tu marches à nos côtés, ô Seigneur,",
+				"Si nous perdons la vie",
+				"Sans jamais le renier, la couronne",
+				"Et la gloire nous seront accordées."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Jésus, sois ma vision.",
+				"Oh ! La passion et le feu dans mon âme !",
+				"Nous élevons son étendard,",
+				"Plus haut son étendard."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Celui qui se confie en toi, ô Seigneur,",
+				"Fidèle à ta parole, ô Seigneur,",
+				"Étendra ses deux ailes",
+				"Comme un aigle dans les airs",
+				"Et sans crainte marchera pour œuvrer jusqu’au bout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Jésus, sois ma vision.",
+				"Oh ! La passion et le feu dans mon âme !",
+				"Nous élevons son étendard,",
+				"Plus haut son étendard."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Pour sa gloire nous marchons côte à côte,",
+				"Fiers de porter son saint nom.",
+				"Chantons sa victoire,",
+				"Car Dieu règne parmi nous."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Pour sa gloire nous marchons côte à côte,",
+				"Fiers de porter son saint nom.",
+				"Chantons sa victoire,",
+				"Car Dieu règne parmi nous.",
+				"Parmi nous."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! Jésus, sois ma vision.",
+				"Oh ! La passion et le feu dans mon âme !",
+				"Nous élevons son étendard,",
+				"Plus haut son étendard.,",
+				"Plus haut son étendard."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1129",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

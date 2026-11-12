@@ -1,0 +1,103 @@
+{
+	"id": "tu-peux-naitre-de-nouveau",
+	"title": "Tu peux naître de nouveau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "245"
+		},
+		{
+			"hymnal": "cd",
+			"number": "184"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu peux naître de nouveau,",
+				"Tu peux tout recommencer,",
+				"Balayer ta vie passée,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et repartir à zéro,",
+				"Et repartir à zéro,",
+				"Avec Jésus pour berger.",
+				"Et repartir à zéro,",
+				"Et repartir à zéro,",
+				"Avec Jésus pour berger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu peux boire de cette eau,",
+				"Source de la pureté,",
+				"Source de la vérité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu peux boire de cette eau,",
+				"Tu peux boire de cette eau,",
+				"Source de l'éternité.",
+				"Tu peux boire de cette eau,",
+				"Tu peux boire de cette eau,",
+				"Source de l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu peux être pardonné,",
+				"Pour tous tes péchés passés",
+				"Car Jésus a tout payé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu peux recevoir la paix,",
+				"Tu peux recevoir la paix,",
+				"Source de la liberté,",
+				"Tu peux recevoir la paix,",
+				"Tu peux recevoir la paix,",
+				"Source de la liberté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claude Fraysse",
+			"role": "music"
+		},
+		{
+			"name": "Colette Bergèse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem245",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/947",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

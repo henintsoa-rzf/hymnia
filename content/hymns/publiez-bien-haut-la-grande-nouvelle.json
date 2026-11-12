@@ -1,0 +1,115 @@
+{
+	"id": "publiez-bien-haut-la-grande-nouvelle",
+	"title": "Publiez bien haut la grande nouvelle",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "364"
+		},
+		{
+			"hymnal": "adf",
+			"number": "237"
+		},
+		{
+			"hymnal": "cd",
+			"number": "147"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Publiez bien haut la grande nouvelle :",
+				"Le ciel est ouvert à tout être humain.",
+				"La route est tracée, un guide fidèle",
+				"Vous conduira par la main."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le salut pour tous,",
+				"Le salut par grâce,",
+				"À tous est offert, à tous est donné.",
+				"Oh ! venez, pécheurs,",
+				"Venez, le temps passe.",
+				"Et vous serez pardonnés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Publiez bien haut la grande nouvelle :",
+				"Le sang de Jésus a tout effacé.",
+				"Où que vous soyez, c'est vous qu'il appelle,",
+				"Vous qui l'avez offensé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le salut pour tous,",
+				"Le salut par grâce,",
+				"À tous est offert, à tous est donné.",
+				"Oh ! venez, pécheurs,",
+				"Venez, le temps passe.",
+				"Et vous serez pardonnés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Publiez bien haut la grande nouvelle :",
+				"Au loin comme au près, faites-la courir,",
+				"Partout où se trouve une âme rebelle,",
+				"Un pécheur à secourir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le salut pour tous,",
+				"Le salut par grâce,",
+				"À tous est offert, à tous est donné.",
+				"Oh ! venez, pécheurs,",
+				"Venez, le temps passe.",
+				"Et vous serez pardonnés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg364",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af237",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/982",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

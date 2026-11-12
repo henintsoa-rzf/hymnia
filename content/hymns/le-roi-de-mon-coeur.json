@@ -1,0 +1,137 @@
+{
+	"id": "le-roi-de-mon-coeur",
+	"title": "Le Roi de mon cœur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1050"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que le Roi de mon cœur",
+				"Soit la montagne où j'accours,",
+				"La source où je vais boire,",
+				"Oh ! il est mon chant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que le Roi de mon cœur",
+				"Soit l'ombre où je me cache,",
+				"La rançon pour ma vie.",
+				"Oh ! il est mon chant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es bon, bon, oh !",
+				"Tu es bon, bon, oh !",
+				"Tu es bon, bon, oh !",
+				"Tu es bon, bon, oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que le Roi de mon cœur",
+				"Soit mon ancre dans les vagues,",
+				"Et le vent dans mes voiles,",
+				"Oh ! il est mon chant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que le Roi de mon cœur",
+				"Soit le feu qui brûle en moi,",
+				"Un écho qui se répand,",
+				"Oh ! il est mon chant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es bon, bon, oh !",
+				"Tu es bon, bon, oh !",
+				"Tu es bon, bon, oh !",
+				"Tu es bon, bon, oh !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu ne me laisseras,",
+				"Ne me laisseras jamais.",
+				"Tu ne me laisseras,",
+				"Ne me laisseras jamais.",
+				"Tu ne me laisseras,",
+				"Ne me laisseras jamais.",
+				"Tu ne me laisseras,",
+				"Ne me laisseras jamais."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu ne me laisseras,",
+				"Ne me laisseras jamais.",
+				"Tu ne me laisseras,",
+				"Ne me laisseras jamais.",
+				"Tu ne me laisseras,",
+				"Ne me laisseras jamais.",
+				"Tu ne me laisseras,",
+				"Ne me laisseras jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es bon, bon, oh !",
+				"Tu es bon, bon, oh !",
+				"Tu es bon, bon, oh !",
+				"Tu es bon, bon, oh !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Quand la nuit s'attarde et me retient,",
+				"Dieu est mon soutien.",
+				"Quand la nuit s'attarde et me retient,",
+				"Dieu est mon soutien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Mark et Sarah McMillan",
+			"role": "music"
+		},
+		{
+			"name": "John Mark et Sarah McMillan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1050",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

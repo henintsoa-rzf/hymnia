@@ -1,0 +1,74 @@
+{
+	"id": "mon-esperance-there-is-a-hope",
+	"title": "Mon espérance (There Is A Hope)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "515"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Cette espérance est un feu dans mon cœur,",
+				"Me donne force pour chaque jour qui passe.",
+				"Oui, j’entrevois la gloire encore obscurément mais mon doute est ôté :",
+				"En Lui debout et pardonné, c’est Christ en moi, l’espoir du ciel.",
+				"Ta volonté, c’est ma joie, c’est mon but : j’y suis à la maison."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cette espérance porte mon esprit lourd",
+				"Et me console au fond du désespoir.",
+				"Et même si le monde me met dans un puits, j’y trouve mon Sauveur !",
+				"Epreuves ici et crainte là, à mon oreille il dit : «Courage !».",
+				"Dans ses bras éternels je me sens sûr, conduit vers ma maison."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Cette espérance tient l’épreuve du temps,",
+				"Porte mes yeux plus loin que le tombeau,",
+				"Vers la beauté sans égale de ce jour divin : je verrai son visage !",
+				"Fin des épreuves et des tristesses, mes vrais désirs seront comblés :",
+				"inondé de joie qu’on ne peut décrire, j’atteindrai la maison."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Mark Edwards",
+			"role": "lyrics"
+		},
+		{
+			"name": "Mark Edwards",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-15",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

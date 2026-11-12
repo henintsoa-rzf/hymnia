@@ -185,6 +185,11 @@ it, and check the app shows the new hymnal after a content build, with no app ch
   lyrics and not stored (chords are a later feature).
 - An import is interrupted midway: the next run resumes or restarts without leaving
   half-written content files.
+- A user saved a hymn in a collection (feature 003) and the import then merges it into another
+  hymn, corrects its number, or unpublishes it: the saved entry follows the hymn it was saved
+  for, or shows "Chant indisponible". It never opens a different hymn.
+- The sample hymnals of feature 001 (`ce`, `he`) are fictional: they leave the published app
+  before real hymnals are published, and their ids are never reused.
 
 ## Requirements *(mandatory)*
 
@@ -257,6 +262,17 @@ it, and check the app shows the new hymnal after a content build, with no app ch
 - **FR-025**: Adding a hymnal or a source MUST NOT require any change to the app; failure of one
   source MUST NOT affect the import of others.
 
+**Protecting saved collections (feature 003)**
+
+- **FR-026**: When two hymns are merged, the import MUST record that the removed hymn id now
+  leads to the kept one, and the published data MUST carry this record, so the app can follow it.
+- **FR-027**: A collection entry saved by a user MUST stay attached to the hymn it was saved for:
+  if its hymnal and number later point to a different hymn, or to nothing, the app MUST open the
+  saved hymn under one of its current references, or show it as unavailable. It MUST never
+  open a different hymn.
+- **FR-028**: Hymnal ids and hymn ids, once published, MUST never be reused for something else;
+  the sample hymnal ids `ce` and `he` are reserved.
+
 ### Key Entities
 
 - **Source**: A site hymns are imported from. Name, base address, hymnals it covers, terms of
@@ -271,6 +287,8 @@ it, and check the app shows the new hymnal after a content build, with no app ch
   same hymn.
 - **Pending change**: A difference between stored text and new source text, waiting for the
   maintainer's decision.
+- **Hymn redirect**: The record that a hymn id removed by a merge now leads to another hymn id.
+  Published with the hymn data.
 - **Hymn, Hymnal, Hymnal entry, Section, Credit, Correction**: as defined in feature 001's data
   model; this feature produces them.
 
@@ -290,6 +308,8 @@ it, and check the app shows the new hymnal after a content build, with no app ch
 - **SC-006**: 0 hymns without a rights decision appear in the published app.
 - **SC-007**: A maintainer can add a new hymnal from an already-supported source in under 30
   minutes, with no change to the app.
+- **SC-008**: After any import (merges, number corrections, unpublished hymns), 0 saved
+  collection entries open a hymn other than the one they were saved for.
 
 ## Assumptions
 

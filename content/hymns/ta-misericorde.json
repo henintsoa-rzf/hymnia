@@ -1,0 +1,53 @@
+{
+	"id": "ta-misericorde",
+	"title": "Ta miséricorde",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "652"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta miséricorde dépasse ta justice.",
+				"Ton amour, Seigneur,",
+				"Est plus haut que le ciel,",
+				"Plus profond que l'océan,",
+				"Plus vaste que la mer,",
+				"Et rien ne pourra m'en séparer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta miséricorde dépasse ta justice.",
+				"Ton amour, Seigneur,",
+				"Est plus haut que le ciel,",
+				"Plus profond que l'océan,",
+				"Plus vaste que la mer,",
+				"Et rien ne pourra m'en séparer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christophe Berly",
+			"role": "music"
+		},
+		{
+			"name": "Christophe Berly",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem652",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

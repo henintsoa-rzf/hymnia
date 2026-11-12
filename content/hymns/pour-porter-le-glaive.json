@@ -1,0 +1,147 @@
+{
+	"id": "pour-porter-le-glaive",
+	"title": "Pour porter le glaive",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "360"
+		},
+		{
+			"hymnal": "jem",
+			"number": "87",
+			"title": "Le saint combat"
+		},
+		{
+			"hymnal": "cd",
+			"number": "341",
+			"title": "Le saint combat"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour porter le glaive",
+				"Et courir au feu,",
+				"Pour lutter sans trêve,",
+				"Le Seigneur te veut.",
+				"La mêlée est forte,",
+				"Les répits sont brefs,",
+				"Mais la grâce porte",
+				"Qui veut plaire au Chef."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La trompette appelle",
+				"Pour le saint combat.",
+				"Lève-toi, fidèle,",
+				"Et n'hésite pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Suis de près le Guide,",
+				"Suis-le pas à pas,",
+				"Car sous son égide",
+				"La victoire est là.",
+				"En foulant ses traces,",
+				"Teintes de son sang,",
+				"Marche avec audace",
+				"En son nom puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La trompette appelle",
+				"Pour le saint combat.",
+				"Lève-toi, fidèle,",
+				"Et n'hésite pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En première ligne",
+				"Sois présent toujours :",
+				"Ton Sauveur est digne",
+				"D'un pareil amour.",
+				"Brise tes attaches,",
+				"Coupe enfin les ponts,",
+				"Sors du rang des lâches",
+				"Et t'élance au front !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La trompette appelle",
+				"Pour le saint combat.",
+				"Lève-toi, fidèle,",
+				"Et n'hésite pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sur la terre entière",
+				"Et sous tous les cieux,",
+				"Notre cri de guerre",
+				"Doit sonner, joyeux !",
+				"Dieu ne veut personne",
+				"Qui soit prêt à fuir ;",
+				"Il tend la couronne",
+				"À qui sait souffrir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La trompette appelle",
+				"Pour le saint combat.",
+				"Lève-toi, fidèle,",
+				"Et n'hésite pas !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Caradog Roberts",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg360",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem087",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1185",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

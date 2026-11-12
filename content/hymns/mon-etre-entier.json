@@ -1,0 +1,89 @@
+{
+	"id": "mon-etre-entier",
+	"title": "Mon être entier",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1199"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment décrire la grandeur de ta grâce envers moi ?",
+				"Comment comprendre cet amour qui conduit à la croix ?",
+				"Oh ! oh ! oh !",
+				"Le Fils bien-aimé du Père a donné sa vie pour moi,",
+				"Il est devenu mon frère, il sera toujours mon Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon être entier veut t’adorer.",
+				"Je veux te suivre, m’abandonner.",
+				"Dieu éternel, je t’aimerai à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon seul désir, c’est te rencontrer.",
+				"Dans ta présence, je veux rester,",
+				"Garder la foi, me laisser guider par ta voix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jour après jour, je ne peux qu’admirer ta splendeur.",
+				"Tu me révèles ton amour, tu captives mon cœur.",
+				"Oh ! oh ! oh !",
+				"Je veux marcher sur le chemin",
+				"Que tu as tracé pour moi,",
+				"Apprendre à mieux te connaître,",
+				"Toujours m’accrocher à toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon être entier veut t’adorer.",
+				"Je veux te suivre, m’abandonner.",
+				"Dieu éternel, je t’aimerai à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon seul désir, c’est te rencontrer.",
+				"Dans ta présence, je veux rester,",
+				"Garder la foi, me laisser guider par ta voix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Céline et Jonathan Paton",
+			"role": "music"
+		},
+		{
+			"name": "Céline et Jonathan Paton",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1199",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

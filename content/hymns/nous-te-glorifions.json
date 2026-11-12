@@ -1,0 +1,69 @@
+{
+	"id": "nous-te-glorifions",
+	"title": "Nous te glorifions",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "357"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous te glorifions, O Roi des rois,",
+				"Nous te glorifions, Seigneur.",
+				"Nous te glorifions, agneau de Dieu,",
+				"Éternel, Dieu tout-puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es revêtu de majesté,",
+				"Tu es couronné de gloire.",
+				"Nous nous prosternons pour t'adorer,",
+				"Toi le seul Dieu de victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu es Roi du ciel et de la terre,",
+				"Seigneur de tout ce qui vit.",
+				"Tu es souverain dans l'univers,",
+				"Nous t'adorons aujourd'hui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Alléluia pour le Roi des rois,",
+				"Alléluia au Seigneur.",
+				"Alléluia pour l'agneau de Dieu,",
+				"Éternel, Dieu tout-puissant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Twila Paris",
+			"role": "music"
+		},
+		{
+			"name": "Twila Paris",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem357",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

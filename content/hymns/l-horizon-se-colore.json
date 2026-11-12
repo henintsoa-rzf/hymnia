@@ -1,0 +1,114 @@
+{
+	"id": "l-horizon-se-colore",
+	"title": "L'horizon se colore",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "384"
+		},
+		{
+			"hymnal": "adf",
+			"number": "630"
+		},
+		{
+			"hymnal": "adf",
+			"number": "630A"
+		},
+		{
+			"hymnal": "adf",
+			"number": "630B"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'horizon se colore ;",
+				"À l'Orient, paraît",
+				"La radieuse aurore",
+				"Que mon âme espérait.",
+				"La nuit fut longue et noire,",
+				"Mais voici que le ciel",
+				"Resplendit de ta gloire,",
+				"Pays d'EMMANUEL !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'ai connu sur la terre",
+				"Ta divine saveur,",
+				"Eau vive, eau salutaire :",
+				"Amour de mon Sauveur !",
+				"Mais bientôt, je vais boire",
+				"À ton fleuve éternel,",
+				"O Pays de la gloire,",
+				"Pays d'EMMANUEL !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L'heureuse fiancée",
+				"Attend l'Époux, le Roi…",
+				"Mon cœur et ma pensée",
+				"Sont tout remplis de toi,",
+				"Victime expiatoire",
+				"Qui m'as ouvert le ciel,",
+				"Où je verrai ta gloire,",
+				"Pays d'EMMANUEL !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"J'adore et glorifie",
+				"Le Dieu sage et clément",
+				"Qui mêla dans ma vie",
+				"Tendresse et châtiment…",
+				"Mais qu'il m'est doux de croire",
+				"Au bonheur éternel",
+				"Qui m'attend dans ta gloire,",
+				"Pays d'EMMANUEL !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alexander Ewing",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg384",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af630",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af630a",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af630b",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

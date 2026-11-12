@@ -1,0 +1,97 @@
+{
+	"id": "c-est-jesus-seul-in-christ-alone",
+	"title": "C’est Jésus seul (In Christ Alone)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "305"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C’est Jésus seul mon espérance,",
+				"Mon chant, ma force et ma lumière.",
+				"Il est l’appui dont j’ai besoin",
+				"Dans les tempêtes ou les déserts.",
+				"Sommet d’amour, profonde paix",
+				"Quand Jésus calme mes frayeurs.",
+				"Mon Réconfort, mon assurance",
+				"Est dans l’amour de Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est Jésus seul, né dans la chair,",
+				"Dieu dans le corps d’un faible enfant.",
+				"Don de l’amour, don de justice,",
+				"Méprisé par ceux qu’il sauvait.",
+				"Mais, sur la croix, Jésus mourut",
+				"Sous la colère, pour nos péchés.",
+				"Et, dès ce jour, pour moi la vie",
+				"Est dans la mort de Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Lumière du monde dans le tombeau,",
+				"Corps de Jésus mis dans le noir.",
+				"Puis vient l’éclat de la victoire,",
+				"Hors de la tombe, Jésus sort.",
+				"Et par sa vie je suis vainqueur,",
+				"Plus un esclave du péché.",
+				"Christ est à moi, je suis à lui,",
+				"Racheté par son sang précieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je ne vis plus chargé de fautes,",
+				"je n’ai plus peur devant la mort.",
+				"Du premier cri au dernier souffle",
+				"Jésus est maître de ma vie.",
+				"Ni le Malin, ni les humains,",
+				"Rien de sa main ne m’ôtera.",
+				"Il reviendra, il me prendra :",
+				"Bientôt, je verrai Jésus-Christ."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-5",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

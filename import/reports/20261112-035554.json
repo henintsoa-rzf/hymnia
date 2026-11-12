@@ -1,0 +1,227 @@
+{
+	"runId": "20261112-035554",
+	"startedAt": "2026-11-12T03:55:54.348Z",
+	"finishedAt": "2026-11-12T03:55:55.000Z",
+	"args": {
+		"source": "ecriture",
+		"hymnals": [
+			"ecriture"
+		],
+		"offline": true,
+		"dryRun": false
+	},
+	"perSource": {
+		"ecriture": {
+			"status": "ok",
+			"pages": 32,
+			"failures": 0,
+			"reasons": {}
+		}
+	},
+	"perHymnal": {
+		"ecriture": {
+			"new": [
+				{
+					"number": "1",
+					"hymnId": "ta-parole-ecriture-1",
+					"title": "Ta Parole"
+				},
+				{
+					"number": "2",
+					"hymnId": "dieu-sublime",
+					"title": "Dieu sublime"
+				},
+				{
+					"number": "3",
+					"hymnId": "christ-seul-nous-suffit",
+					"title": "Christ seul nous suffit"
+				},
+				{
+					"number": "4",
+					"hymnId": "seigneur-tu-vois-mon-coeur",
+					"title": "Seigneur, tu vois mon cœur"
+				},
+				{
+					"number": "6",
+					"hymnId": "tout-est-accompli",
+					"title": "Tout est accompli"
+				},
+				{
+					"number": "7",
+					"hymnId": "alleluia-jesus-vit",
+					"title": "Alléluia, Jésus vit"
+				},
+				{
+					"number": "8",
+					"hymnId": "heritiers",
+					"title": "Héritiers"
+				},
+				{
+					"number": "9",
+					"hymnId": "o-celeste-pere",
+					"title": "Ô céleste Père"
+				},
+				{
+					"number": "10",
+					"hymnId": "glorifie-ton-nom",
+					"title": "Glorifie ton nom"
+				},
+				{
+					"number": "11",
+					"hymnId": "o-viens-jesus",
+					"title": "Ô viens, Jésus"
+				},
+				{
+					"number": "12",
+					"hymnId": "o-la-richesse",
+					"title": "Ô la richesse"
+				},
+				{
+					"number": "13",
+					"hymnId": "connaitre-christ",
+					"title": "Connaître Christ"
+				},
+				{
+					"number": "14",
+					"hymnId": "christ-est-victorieux",
+					"title": "Christ est victorieux"
+				},
+				{
+					"number": "15",
+					"hymnId": "jesus-eleve",
+					"title": "Jésus élevé"
+				},
+				{
+					"number": "17",
+					"hymnId": "notre-frere",
+					"title": "Notre Frère"
+				},
+				{
+					"number": "18",
+					"hymnId": "contemplez-le-prix",
+					"title": "Contemplez le prix"
+				},
+				{
+					"number": "19",
+					"hymnId": "il-donne-le-repos",
+					"title": "Il donne le repos"
+				},
+				{
+					"number": "20",
+					"hymnId": "nul-autre-que-toi",
+					"title": "Nul autre que toi"
+				},
+				{
+					"number": "21",
+					"hymnId": "hymne-de-l-eglise",
+					"title": "Hymne de l’Église"
+				},
+				{
+					"number": "22",
+					"hymnId": "a-ta-suite",
+					"title": "À ta suite"
+				},
+				{
+					"number": "23",
+					"hymnId": "merveilleux-sauveur-hymne-pour-la-cene",
+					"title": "Merveilleux Sauveur(Hymne pour la Cène)"
+				},
+				{
+					"number": "24",
+					"hymnId": "prosternes-ecriture-24",
+					"title": "Prosternés"
+				},
+				{
+					"number": "25",
+					"hymnId": "je-contemple-christ",
+					"title": "Je contemple Christ"
+				},
+				{
+					"number": "26",
+					"hymnId": "glorieux-l-eternel-regne",
+					"title": "Glorieux, l’Éternel règne"
+				},
+				{
+					"number": "27",
+					"hymnId": "voici-notre-dieu-credo",
+					"title": "Voici notre Dieu (Credo)"
+				},
+				{
+					"number": "28",
+					"hymnId": "tout-est-grace",
+					"title": "Tout est grâce"
+				},
+				{
+					"number": "29",
+					"hymnId": "jamais-seul",
+					"title": "Jamais seul"
+				},
+				{
+					"number": "30",
+					"hymnId": "viens-secours-moi",
+					"title": "Viens, secours-moi"
+				},
+				{
+					"number": "31",
+					"hymnId": "tu-accomplis-tes-bons-desseins",
+					"title": "Tu accomplis tes bons desseins"
+				},
+				{
+					"number": "32",
+					"hymnId": "en-christ",
+					"title": "En Christ"
+				}
+			],
+			"changed": [],
+			"unchanged": [],
+			"skipped": [],
+			"missing": [],
+			"possibleDuplicates": [
+				{
+					"a": "ta-parole",
+					"b": "ta-parole-ecriture-1",
+					"similarity": 0,
+					"reason": "same title"
+				},
+				{
+					"a": "ta-parole-jem-973",
+					"b": "ta-parole-ecriture-1",
+					"similarity": 0,
+					"reason": "same title"
+				},
+				{
+					"a": "prosternes",
+					"b": "prosternes-ecriture-24",
+					"similarity": 0,
+					"reason": "same title"
+				}
+			],
+			"autoMerged": [
+				{
+					"number": "5",
+					"hymnId": "par-la-croix",
+					"title": "Par la croix"
+				},
+				{
+					"number": "16",
+					"hymnId": "un-sauveur-nous-est-ne",
+					"title": "Un Sauveur nous est né"
+				}
+			],
+			"conflicts": [],
+			"noCredits": [],
+			"rightsInherited": [],
+			"unknownCredits": [],
+			"strippedMarkup": {
+				"verse-number": 101,
+				"section-label": 57
+			}
+		}
+	},
+	"rights": {
+		"ecriture": {
+			"published": 0,
+			"unpublished": 32
+		}
+	}
+}

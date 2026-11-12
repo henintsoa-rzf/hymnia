@@ -1,0 +1,88 @@
+{
+	"id": "sur-ces-epoux-pere-eternel",
+	"title": "Sur ces époux, Père éternel",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "389"
+		},
+		{
+			"hymnal": "adf",
+			"number": "83"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur ces époux, Père éternel,",
+				"Jette en cet instant solennel",
+				"Un regard favorable.",
+				"Protège-les dans ta bonté,",
+				"Fais briller sur eux la clarté",
+				"De ta face adorable."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qu'en toi,",
+				"Grand Roi,",
+				"Leur prière",
+				"Trouve un Père",
+				"Doux et tendre,",
+				"Toujours prêt à les entendre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ils ont imploré ton saint nom :",
+				"Comble, Seigneur, leur union",
+				"De ta faveur céleste.",
+				"Sur leur maison, verse ta paix ;",
+				"Que ta grâce, en mille bienfaits,",
+				"Sur eux se manifeste !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amen !",
+				"Amen !",
+				"Sois leur guide,",
+				"Leur égide ;",
+				"Sanctifie",
+				"Chacun des jours de leur vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Nicolaï",
+			"role": "music"
+		},
+		{
+			"name": "Eugène Bersier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg389",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af083",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

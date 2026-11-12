@@ -1,0 +1,86 @@
+{
+	"id": "o-dieu-vivant",
+	"title": "O Dieu vivant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "274"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Dieu vivant",
+				"Nous tournons nos cœurs vers toi.",
+				"O Dieu vivant",
+				"Nous t'offrons nos chants de joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur des hommes, Seigneur des peuples,",
+				"Seigneur du monde,",
+				"Nous tournons nos cœurs vers toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Dieu vivant",
+				"Nous tournons nos cœurs vers toi.",
+				"O Dieu vivant",
+				"Nous t'offrons nos chants de joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu de l'histoire, Dieu de victoire,",
+				"Seigneur de gloire,",
+				"Nous tournons nos cœurs vers toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Dieu vivant",
+				"Nous tournons nos cœurs vers toi.",
+				"O Dieu vivant",
+				"Nous t'offrons nos chants de joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu des perdus, Dieu du salut,",
+				"Seigneur Jésus,",
+				"Nous tournons nos cœurs vers toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Carey Landry",
+			"role": "music"
+		},
+		{
+			"name": "Carey Landry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem274",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

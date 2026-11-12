@@ -1,0 +1,95 @@
+{
+	"id": "dieu-nous-donne-sa-grace",
+	"title": "Dieu nous donne sa grâce",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "154"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu nous donne sa grâce,",
+				"Elle est seule efficace ;",
+				"En y croyant, nous sommes sauvés ;",
+				"Et toujours la confiance",
+				"Produit l'obéissance",
+				"Au Sauveur qui nous a rachetés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si nous croyons,",
+				"Si nous obéissons,",
+				"Le Seigneur est notre appui,",
+				"Attendons-nous à lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Seigneur est fidèle ;",
+				"Abrités sous son aile,",
+				"Fions-nous à son divin secours ;",
+				"Avançons-nous sans crainte,",
+				"Écoutons sa voix sainte,",
+				"Et qu'ainsi nous progressions toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si nous croyons,",
+				"Si nous obéissons,",
+				"Le Seigneur est notre appui,",
+				"Attendons-nous à lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par sa sainte Parole,",
+				"Par l'Esprit qui console,",
+				"Il veut nous diriger pas à pas.",
+				"C'est déjà la victoire.",
+				"Puis un jour, dans la gloire,",
+				"Nous le servirons mieux qu'ici-bas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si nous croyons,",
+				"Si nous obéissons,",
+				"Le Seigneur est notre appui,",
+				"Attendons-nous à lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel Brink Towner",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg154",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

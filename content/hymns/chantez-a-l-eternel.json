@@ -1,0 +1,128 @@
+{
+	"id": "chantez-a-l-eternel",
+	"title": "Chantez à l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1035"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantez à l'Éternel un cantique nouveau,",
+				"Chantez à l'Éternel un cantique nouveau",
+				"Car il a fait pour nous,",
+				"Car il a fait pour nous,",
+				"Car il a fait pour nous des merveilles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es la promesse du printemps",
+				"quand vient l'hiver.",
+				"Tu es le rire doux et léger de l'onde claire.",
+				"Seigneur, que n'ai-je mille langues",
+				"Pour annoncer tes louanges et ta grandeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alors je chante, oui, je chante,",
+				"Et j'inventerai des mots,",
+				"Des mélodies, des symphonies,",
+				"Un arc-en-ciel de couleurs",
+				"Pour entraîner, pour inviter",
+				"La terre entière et tous les hommes à te louer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta grâce, Seigneur, à pleine voix me fait chanter.",
+				"Ta grâce, Seigneur, j'ai mille raisons de célébrer.",
+				"Ta grâce, Seigneur, c'est le trésor",
+				"Et le secret de mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantez à l'Éternel un cantique nouveau,",
+				"Chantez à l'Éternel un cantique nouveau",
+				"Car il a fait pour nous,",
+				"Car il a fait pour nous,",
+				"Car il a fait pour nous des merveilles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as couronné l'année de tes bienfaits.",
+				"C'est ta joie et ton plaisir de me combler.",
+				"Et, partout où tu es passé,",
+				"Mes déserts ont refleuri, je reprends vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Alors je danse, oui, je danse",
+				"Et j'embrasse cette romance,",
+				"Ce paradoxe, cette innocence,",
+				"Le Royaume où tout fait sens.",
+				"J'appellerai, j'inviterai",
+				"La terre entière et tous les hommes à te louer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta grâce, Seigneur, se renouvelle chaque matin.",
+				"Ta grâce, Seigneur,",
+				"Meilleure que le plus doux des vins.",
+				"Ta grâce, Seigneur,",
+				"C'est le trésor et le secret de mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantez à l'Éternel un cantique nouveau,",
+				"Chantez à l'Éternel un cantique nouveau",
+				"Car il a fait pour nous,",
+				"Car il a fait pour nous,",
+				"Car il a fait pour nous des merveilles."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1035",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

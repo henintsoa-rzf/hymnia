@@ -1,0 +1,95 @@
+{
+	"id": "tu-es-dieu-de-cette-ville",
+	"title": "Tu es Dieu de cette ville",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "996"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es Dieu de cette ville,",
+				"Tu es Seigneur de ce peuple,",
+				"Tu es Roi de ce pays,",
+				"Tu es la lumière dans ces ténèbres.",
+				"L'espérance des affligés",
+				"Et la paix des angoissés, c'est toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nul n'est comme notre Dieu,",
+				"Nul n'est comme notre Dieu.",
+				"Des choses plus grandes sont à venir,",
+				"Des choses plus grandes",
+				"Restent à accomplir dans cette ville."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Des choses plus grandes sont à venir,",
+				"Des choses plus grandes",
+				"Restent à accomplir dans cette ville."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es Dieu, le Créateur,",
+				"Tu es Roi, le rédempteur,",
+				"Tu es Seigneur des seigneurs,",
+				"Tu es la force au cœur des faiblesses.",
+				"L'amour au sein des détresses",
+				"Et la joie dans la tristesse, c'est toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nul n'est comme notre Dieu,",
+				"Nul n'est comme notre Dieu.",
+				"Des choses plus grandes sont à venir,",
+				"Des choses plus grandes",
+				"Restent à accomplir dans cette ville."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Des choses plus grandes sont à venir,",
+				"Des choses plus grandes",
+				"Restent à accomplir dans cette ville,",
+				"Où la gloire rayonne de cœurs vibrants",
+				"De louange et d'amour pour toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Aaron Boyd ; Richarg Bleakley ; Peter Comfort ; Peter Kernoghan ; Andrew McCann ; Ian Jordan",
+			"role": "music"
+		},
+		{
+			"name": "Aaron Boyd ; Richarg Bleakley ; Peter Comfort ; Peter Kernoghan ; Andrew McCann ; Ian Jordan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem996",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

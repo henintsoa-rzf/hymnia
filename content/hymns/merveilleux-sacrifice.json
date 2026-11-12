@@ -1,0 +1,91 @@
+{
+	"id": "merveilleux-sacrifice",
+	"title": "Merveilleux sacrifice",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1098"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur la croix, ma dette est payée,",
+				"Ma peur et ma honte ont été lavées.",
+				"Ton amour, ton amour me remplit de joie",
+				"Et me laisse sans voix, sans voix.",
+				"Sur la croix, ma dette est payée,",
+				"Ma peur et ma honte ont été lavées.",
+				"Ton amour, ton amour me remplit de joie",
+				"Et me laisse sans voix, sans voix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je ne peux vivre sans ton amour,",
+				"Je ne peux vivre sans ton amour,",
+				"Toi seul m'a libéré.",
+				"Je ne peux tenir sans ta grâce,",
+				"Je ne peux tenir sans ta grâce,",
+				"Mon âme est bouleversée."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur la croix, ma dette est payée,",
+				"Ma peur et ma honte ont été lavées.",
+				"Ton amour, ton amour me remplit de joie",
+				"Et me laisse sans voix, sans voix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je ne peux vivre sans ton amour,",
+				"Je ne peux vivre sans ton amour,",
+				"Toi seul m'a libéré.",
+				"Je ne peux tenir sans ta grâce,",
+				"Je ne peux tenir sans ta grâce,",
+				"Mon âme est bouleversée."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Merveilleux sacrifice,",
+				"Tu as donné ta vie pour moi.",
+				"Merveilleux sacrifice,",
+				"Je m'abandonne entre tes mains.",
+				"Merveilleux sacrifice,",
+				"Tu as donné ta vie pour moi.",
+				"Merveilleux sacrifice,",
+				"Je m'abandonne entre tes mains."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jennifer Hopper",
+			"role": "music"
+		},
+		{
+			"name": "Jennifer Hopper",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1098",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

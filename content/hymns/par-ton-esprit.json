@@ -1,0 +1,70 @@
+{
+	"id": "par-ton-esprit",
+	"title": "Par ton Esprit",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "810"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Accorde-nous Seigneur,",
+				"un temps de renouveau.",
+				"Nous élevons nos voix vers toi:",
+				"« Visite-nous d'en haut. »",
+				"Tu nous as rachetés, Agneau ressuscité.",
+				"Façonne en nous ta sainteté,",
+				"l'amour, l'humilité,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par ton Esprit, Jésus.",
+				"par ton Esprit, Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre génération a tant besoin de toi,",
+				"D'un cœur à cœur dans ta présence,",
+				"De marcher dans tes voies.",
+				"Souverain de l'histoire et maître des saisons,",
+				"Fais de nous des témoins fidèles,",
+				"œuvrant pour la moisson,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par ton Esprit, Jésus.",
+				"par ton Esprit, Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem810",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

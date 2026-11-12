@@ -1,0 +1,67 @@
+{
+	"id": "christ-en-vous",
+	"title": "Christ en vous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "390"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ en vous l'espoir de gloire.",
+				"Christ en vous l'espoir de gloire.",
+				"Christ en vous l'espoir de gloire,",
+				"Pour l'éternité.",
+				"Christ en vous l'espoir de gloire.",
+				"Christ en vous l'espoir de gloire.",
+				"Christ en vous l'espoir de gloire,",
+				"Pour l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, image du Père,",
+				"En toi Dieu créa tout l'univers.",
+				"Par toi, il subsiste encore,",
+				"Toi, le chef de ce corps que nous formons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ en vous l'espoir de gloire.",
+				"Christ en vous l'espoir de gloire.",
+				"Christ en vous l'espoir de gloire,",
+				"Pour l'éternité.",
+				"Christ en vous l'espoir de gloire.",
+				"Christ en vous l'espoir de gloire.",
+				"Christ en vous l'espoir de gloire,",
+				"Pour l'éternité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem390",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

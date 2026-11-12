@@ -1,0 +1,77 @@
+{
+	"id": "tu-es-dieu-depuis-toujours",
+	"title": "Tu es Dieu depuis toujours",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "959"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es Dieu depuis toujours,",
+				"Créateur des galaxies.",
+				"Tu as dessiné le ciel,",
+				"Les plans du jour, de la nuit.",
+				"Ta bonté et ta grandeur immenses",
+				"Se voient dans l'univers.",
+				"Comment ne pas te remercier",
+				"Pour tout ce que tu as fait !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te bénissons Seigneur,",
+				"Nous savons que tu es bon.",
+				"Nous t'adorons aujourd'hui",
+				"Avec toute la création."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rien n'échappe à ton regard,",
+				"Ta lumière éclaire le monde.",
+				"Tous les cieux racontent sans fin,",
+				"La création de la terre.",
+				"Les montagnes, les océans révèlent",
+				"Les œuvres de tes mains.",
+				"Comment ne pas te remercier",
+				"Pour tout ce que tu as fait !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te bénissons Seigneur,",
+				"Nous savons que tu es bon.",
+				"Nous t'adorons aujourd'hui",
+				"Avec toute la création."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem959",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

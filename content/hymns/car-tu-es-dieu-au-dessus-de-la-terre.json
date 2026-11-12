@@ -1,0 +1,89 @@
+{
+	"id": "car-tu-es-dieu-au-dessus-de-la-terre",
+	"title": "Car tu es Dieu au-dessus de la terre",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1115"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu’importeront les vagues et les tempêtes,",
+				"Les ouragans, les orages ou le froid,",
+				"Le ciel obscur au-dessus de ma tête,",
+				"Je ne crains rien, car je sais que tu es là,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car tu es Dieu au-dessus de la terre",
+				"Et, au-dessus de toi, il n’y a rien à chercher,",
+				"Car tu es Dieu au-dessus de la terre",
+				"Et, au-dessus de toi, il n’y a rien à chercher."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qu’importeront les hommes et leurs affaires,",
+				"Ce qu’ils diront de ce que j’ai reçu,",
+				"Ce qu’ils feront. En ce monde éphémère,",
+				"Pour me troubler, ne me trouvera plus,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car tu es Dieu au-dessus de la terre",
+				"Et, au-dessus de toi, il n’y a rien à chercher,",
+				"Car tu es Dieu au-dessus de la terre",
+				"Et, au-dessus de toi, il n’y a rien à chercher."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu’importeront les heures qui nous entraînent",
+				"Parfois si loin, parfois même au-delà",
+				"De ce présent, à vivre malgré la peine",
+				"Que nous infligent la quête et le combat,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car tu es Dieu au-dessus de la terre",
+				"Et, au-dessus de toi, il n’y a rien à chercher,",
+				"Car tu es Dieu au-dessus de la terre",
+				"Et, au-dessus de toi, il n’y a rien à chercher."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1115",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

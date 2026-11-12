@@ -1,0 +1,39 @@
+{
+	"id": "vers-jesus-leve-les-yeux-suite",
+	"title": "Vers Jésus lève les yeux (suite)",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "160"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ est pour moi un Sauveur admirable,",
+				"Un conseiller, un ami merveilleux,",
+				"Son nom béni n'a rien de comparable",
+				"Sur cette terre et là-haut dans les cieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem160",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

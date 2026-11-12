@@ -1,0 +1,54 @@
+{
+	"id": "j-irai",
+	"title": "J'irai",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "909"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Montre-moi la voie,",
+				"Dis-moi où aller,",
+				"Où tu voudras, j'irai.",
+				"Si tu ouvres la porte,",
+				"Celle qu'on ne peut fermer,",
+				"Si tu es là, j'irai."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Donne-moi le courage",
+				"De quitter mon rivage",
+				"Et de marcher sur tes eaux.",
+				"Le courage d'être libre",
+				"Et d'oublier le passé,",
+				"Le déposer à tes pieds,",
+				"À tes pieds."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc et Marie Dumont",
+			"role": "music"
+		},
+		{
+			"name": "Luc et Marie Dumont",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem909",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

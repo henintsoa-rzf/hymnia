@@ -1,0 +1,75 @@
+{
+	"id": "exaltons-le-seigneur",
+	"title": "Exaltons le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "356"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur marche dans la splendeur,",
+				"Et il s'avance dans la gloire,",
+				"Il défend vérité et justice",
+				"Et son armée remplit les cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Exaltons le Seigneur,",
+				"Son amour demeure,",
+				"Exaltons le Seigneur,",
+				"Son amour demeure,",
+				"Exaltons le Seigneur,",
+				"Son amour demeure à jamais,",
+				"À jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Son armée sort avec des danses,",
+				"Car il l'a couronnée de joie.",
+				"Réjouissons-nous son règne avance ;",
+				"Son amour est notre combat."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Exaltons le Seigneur,",
+				"Son amour demeure,",
+				"Exaltons le Seigneur,",
+				"Son amour demeure,",
+				"Exaltons le Seigneur,",
+				"Son amour demeure à jamais,",
+				"À jamais, à jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem356",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

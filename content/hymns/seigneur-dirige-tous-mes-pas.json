@@ -1,0 +1,79 @@
+{
+	"id": "seigneur-dirige-tous-mes-pas",
+	"title": "Seigneur, dirige tous mes pas",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "207"
+		},
+		{
+			"hymnal": "adf",
+			"number": "438"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, dirige tous mes pas",
+				"Vers le ciel, ma patrie !",
+				"Mon Dieu, ne me délaisse pas,",
+				"Dans ta grâce infinie !",
+				"Remplis-moi d'une sainte ardeur",
+				"Pour toi, mon Chef et mon Sauveur,",
+				"Mon trésor et ma vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu sais bien que souvent ma foi",
+				"Est faible et languissante ;",
+				"Mon Rédempteur ! protège-moi",
+				"Par ta grâce puissante :",
+				"Sois mon asile et mon recours,",
+				"Et que ton fidèle secours",
+				"Réponde à mon attente !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jusqu'au jour où je te verrai",
+				"Dans l'éternelle gloire,",
+				"Où devant toi j'exalterai",
+				"Ta mort expiatoire,",
+				"Sois ma joie et mon réconfort,",
+				"Mon gain dans la vie et la mort,",
+				"Ma force et ma victoire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mme Monsell-Wolff",
+			"role": "music"
+		},
+		{
+			"name": "August Hermann Francke",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg207",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af438",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

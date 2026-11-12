@@ -1,0 +1,91 @@
+{
+	"id": "c-etait-toi",
+	"title": "C'était toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "982"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le ciel et les étoiles, c'était toi.",
+				"Ces couleurs sur la toile, c'était toi.",
+				"Ce vent gonflant ma voile, c'était toi.",
+				"Depuis le premier jour, c'était toi !",
+				"La voix dans le silence, c'était toi.",
+				"La paix dans la souffrance, c'était toi.",
+				"Cette douceur immense, c'était toi.",
+				"Dans chacun de mes jours, c'était toi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et quand je vois le ciel, les traces de tes pas,",
+				"Que suis-je, ô Éternel, pour que tu penses à moi ?",
+				"Quand se posent mes yeux sur ton immensité,",
+				"Que toujours, ô mon Dieu, j'en reste émerveillé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La création du monde, c'était toi.",
+				"Le temps qui suit sa ronde, c'était toi.",
+				"Cette joie qui m'inonde, c'était toi.",
+				"Depuis le premier jour, c'était toi !",
+				"Dans les rires d'un enfant, je te vois.",
+				"Le regard d'un passant, tu es là.",
+				"Dans la main qui se tend, je te vois.",
+				"Si j'ouvre un peu les yeux, tu es là !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et quand je vois le ciel, les traces de tes pas,",
+				"Que suis-je, ô Éternel, pour que tu penses à moi ?",
+				"Quand se posent mes yeux sur ton immensité,",
+				"Que toujours, ô mon Dieu, j'en reste émerveillé !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Au créateur du ciel, au Dieu de l'infini,",
+				"Soient la gloire éternelle et le fruit de nos vies.",
+				"Que nos voix, comme un chœur, s'élèvent jusqu'à toi",
+				"Pour louer la splendeur d'un si grand Dieu que toi.",
+				"Au créateur du ciel, au Dieu de l'infini,",
+				"Soient la gloire éternelle et le fruit de nos vies.",
+				"Que nos voix, comme un chœur, s'élèvent jusqu'à toi",
+				"Pour louer la splendeur d'un si grand Dieu que toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem982",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

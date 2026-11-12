@@ -1,0 +1,153 @@
+{
+	"id": "quand-tu-parles",
+	"title": "Quand tu parles",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1184"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô Dieu créateur,",
+				"Là, au départ, bien avant le début des temps,",
+				"Et sans point de repère,",
+				"Au son de ta voix les ténèbres devinrent lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Et, quand tu parles,",
+				"Cent milliards de galaxies voient le jour",
+				"Et les planètes sont façonnées par ton souffle.",
+				"Si les étoiles t'adorent, je t'adorerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je vois ton cœur dans tout ce que tu as fait,",
+				"Chaque étoile qui brille témoignant de ta grâce.",
+				"Si la création te loue, je te louerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ô Dieu de promesses,",
+				"Ta parole est vraie,",
+				"Aucun mot n'est vide ou futile.",
+				"Et, quand tu l'ordonnes,",
+				"La nature et la science s'alignent au son de ta voix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et, quand tu parles",
+				"Cent milliards de créatures prennent vie,",
+				"En évolution vers tout ce que tu dis.",
+				"Si elles parlent de ta nature, j'en parlerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je vois ton cœur dans tout ce que tu as dit.",
+				"Les couleurs du ciel, une œuvre de ta grâce.",
+				"Si la création te suit, je te suivrai.",
+				"Je te suivrai."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Si les étoiles t'adorent, je t'adorerai.",
+				"Si les montagnes s'inclinent, je m'inclinerai",
+				"Et si les mers t'exaltent, je t'exalterai,",
+				"Car si tout sur terre existe pour te louer, je te louerai."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Si les vents suivent ta direction, je suivrai.",
+				"Si les pierres silencieuses chantent, je chanterai.",
+				"Si la somme de nos louanges semble infime,",
+				"Alors nous chanterons encore et encore !",
+				"Oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ô Dieu rédempteur",
+				"Venu pour mon cœur,",
+				"Malgré mes échecs, mon orgueil.",
+				"Et, sur cette colline,",
+				"La lumière du monde",
+				"Délaissée à l'obscurité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et, quand tu parles,",
+				"Mes cent milliards d'échecs disparaissent",
+				"Car tu as échangé ta vie pour la mienne.",
+				"Par ta victoire au tombeau, j'ai la victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je vois ton cœur dans tout ce que tu as fait.",
+				"Tu nous tisses dans le chef-d'œuvre de ton amour.",
+				"Si tu as tout donné, je veux tout donner.",
+				"Je vois ton cœur sous huit milliards de facettes,",
+				"Chacune un enfant si précieux à tes yeux."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Si tu as choisi d'aimer, je veux aimer,",
+				"Comme tu le referais cent milliards de fois.",
+				"Mais qui pourrait mesurer ton grand amour ?",
+				"Car même pour un seul, tu aurais tout donné."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joel Houston, Benjamin Hastings et Michael Fatkin",
+			"role": "music"
+		},
+		{
+			"name": "Joel Houston, Benjamin Hastings et Michael Fatkin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1184",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,119 @@
+{
+	"id": "grace-infinie",
+	"title": "Grâce infinie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1028"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô grâce infinie qui vint sauver",
+				"Un pécheur tel que moi !",
+				"J'étais perdu, il m'a trouvé,",
+				"J'étais aveugle, je vois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsque je connus l'amour de Dieu,",
+				"La grâce chassant ma peur,",
+				"Oh, que ce jour fut glorieux",
+				"Et très doux pour mon cœur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me libère, brise mes chaînes,",
+				"Mon Dieu, mon Sauveur paya le prix ;",
+				"Toujours nouvelle, sa bonté règne,",
+				"Amour immense, grâce infinie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À travers labeurs, fardeaux, soucis,",
+				"Déjà je suis passé.",
+				"De Dieu, la grâce m'a jusqu'ici",
+				"Soutenu, consolé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me libère, brise mes chaînes,",
+				"Mon Dieu, mon Sauveur paya le prix ;",
+				"Toujours nouvelle, sa bonté règne,",
+				"Amour immense, grâce infinie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Lorsque dans les jours d'éternité",
+				"En Dieu tous nous serons,",
+				"Nous ne pourrons pas épuiser",
+				"Les jours qui resteront."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me libère, brise mes chaînes,",
+				"Mon Dieu, mon Sauveur paya le prix ;",
+				"Toujours nouvelle, sa bonté règne,",
+				"Amour immense, grâce infinie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"La terre fondra comme la neige,",
+				"Le soleil s'éteindra,",
+				"Mais Dieu qui m'entraîne dans son cortège",
+				"Sera toujours à moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me libère, brise mes chaînes,",
+				"Mon Dieu, mon Sauveur paya le prix ;",
+				"Toujours nouvelle, sa bonté règne,",
+				"Amour immense, grâce infinie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Newton, Chris Tomlin et Louie Giglio",
+			"role": "music"
+		},
+		{
+			"name": "John Newton, Chris Tomlin et Louie Giglio",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1028",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

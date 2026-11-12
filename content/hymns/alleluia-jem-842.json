@@ -1,0 +1,47 @@
+{
+	"id": "alleluia-jem-842",
+	"title": "Alléluia",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "842"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous venons t'offrir nos louanges,",
+				"Nos cœurs pleins de reconnaissance.",
+				"Nous entonnons, avec les anges",
+				"Ce doux et merveilleux chant :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia.",
+				"Alléluia, alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre-Nicholas de Katow",
+			"role": "music"
+		},
+		{
+			"name": "Pierre-Nicholas de Katow",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem842",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

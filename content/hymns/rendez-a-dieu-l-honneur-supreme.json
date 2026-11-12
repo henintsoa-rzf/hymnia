@@ -1,0 +1,96 @@
+{
+	"id": "rendez-a-dieu-l-honneur-supreme",
+	"title": "Rendez à Dieu l'honneur suprême",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "28"
+		},
+		{
+			"hymnal": "adf",
+			"number": "3"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rendez à Dieu, l'honneur suprême,",
+				"Car il est doux, il est clément.",
+				"Et sa bonté, toujours la même,",
+				"Dure perpétuellement.",
+				"Qu'Israël aujourd'hui s'accorde",
+				"À chanter solennellement.",
+				"Que sa grande miséricorde",
+				"Dure perpétuellement."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mieux vaut avoir son espérance",
+				"En l'Éternel qu'en l'homme vain !",
+				"Mieux vaut mettre sa confiance",
+				"En Dieu qu'en nul pouvoir humain.",
+				"Le Dieu fort est ma délivrance,",
+				"C'est le sujet de mes discours.",
+				"Par mes chants de réjouissance",
+				"Je le célèbre tous les jours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La voici, l'heureuse journée",
+				"Qui répond à notre désir :",
+				"Louons Dieu qui nous l'a donnée ;",
+				"Faisons-en tout notre plaisir.",
+				"Grand Dieu, c'est à toi que je crie.",
+				"Garde ton Oint et le soutiens ;",
+				"Grand Dieu, c'est toi seul que je prie,",
+				"Bénis ton peuple et le maintiens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon Dieu, c'est toi seul que j'honore,",
+				"Sans cesse je t'exalterai ;",
+				"Mon Dieu, c'est toi seul que j'adore,",
+				"Sans cesse je te bénirai.",
+				"Rendez à Dieu l'honneur suprême,",
+				"Car il est doux, il est clément,",
+				"Et sa bonté, toujours la même,",
+				"Dure perpétuellement."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg028",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af003",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

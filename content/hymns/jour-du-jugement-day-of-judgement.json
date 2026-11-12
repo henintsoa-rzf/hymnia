@@ -1,0 +1,104 @@
+{
+	"id": "jour-du-jugement-day-of-judgement",
+	"title": "Jour du jugement (Day of Judgement)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "607"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jour du Jugement,",
+				"Jour étonnant, quel son terrifiant,",
+				"Plus fort qu’un millier de tonnerres,",
+				"Secouant la création."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De partout, les morts se lèvent ;",
+				"Jésus les appelle.",
+				"Les puissances de la nature, toutes,",
+				"À sa vue, s’apprêtent à fuir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand fondront toute la terre et le ciel,",
+				"Mon Sauveur, qu’alors je t’appartienne !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tout genou pliera devant Lui,",
+				"Tout cœur dévoilé.",
+				"Toute trace de rébellion",
+				"S’effacera devant son trône."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Sous le ciel et la terre assombris,",
+				"Mon Sauveur, tu es là, crucifié,",
+				"Et tu prends mes fautes, la malédiction",
+				"Quand tu saignes sur ce bois :",
+				"Dieu le Juge, maudit pour moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le pécheur qui vient à Jésus",
+				"Reçoit son pardon.",
+				"Viens rencontrer Jésus, Sauveur,",
+				"N’attends pas qu’il soit ton Juge."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Newton",
+			"role": "lyrics"
+		},
+		{
+			"name": "John Newton",
+			"role": "music"
+		},
+		{
+			"name": "Ben Slee",
+			"role": "lyrics"
+		},
+		{
+			"name": "Ben Slee",
+			"role": "music"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "translation"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-7",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

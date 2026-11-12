@@ -1,0 +1,94 @@
+{
+	"id": "laissez-eclater-la-joie",
+	"title": "Laissez éclater la joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "345"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tout dans son palais s'écrie: hosanna !",
+				"Du fond de mon cœur jaillit: alléluia !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je laisse éclater ma joie,",
+				"Je crie pour le Roi des rois.",
+				"Je laisse éclater ma joie,",
+				"Je crie pour le Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les tambours résonnent",
+				"avec les instruments",
+				"Devant le Seigneur monte un nouveau chant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Laissons éclater la joie,",
+				"Chantons pour le Roi des rois.",
+				"Laissons éclater la joie,",
+				"Chantons pour le Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est le Seigneur rendons-lui nos hommages",
+				"Et réjouissons-le chaque jour davantage."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Laissons éclater la joie,",
+				"Dansons pour le Roi des rois.",
+				"Laissons éclater la joie,",
+				"Dansons pour le Roi des rois."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Allé, alléluia,",
+				"Allé, alléluia.",
+				"Laissons éclater la joie…",
+				"Allé, alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fabienne Pons",
+			"role": "music"
+		},
+		{
+			"name": "Fabienne Pons",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem345",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

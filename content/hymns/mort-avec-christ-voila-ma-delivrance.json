@@ -1,0 +1,89 @@
+{
+	"id": "mort-avec-christ-voila-ma-delivrance",
+	"title": "Mort avec Christ, voilà ma délivrance",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "191"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mort avec Christ : voilà ma délivrance !",
+				"Car comme Christ à la croix attaché,",
+				"Tout mon vieil homme a perdu sa puissance :",
+				"À Golgotha je l'ai crucifié."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mort avec Christ à la croix du Calvaire,",
+				"Dans le baptême en Christ enseveli,",
+				"Ressuscité par la gloire du Père,",
+				"Je puis marcher en vainqueur, par l'Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ressuscité par l'Esprit de la gloire !",
+				"En nouveauté de vie il me conduit.",
+				"Je puis marcher de victoire en victoire :",
+				"Christ, le Vainqueur, vit en moi par l'Esprit !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mort avec Christ à la croix du Calvaire,",
+				"Dans le baptême en Christ enseveli,",
+				"Ressuscité par la gloire du Père,",
+				"Je puis marcher en vainqueur, par l'Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je suis à Christ : à lui ma vie entière !",
+				"Et puisqu'il vit dans son corps maintenant,",
+				"Je peux dépendre de Christ et des frères,",
+				"Humble et soumis, dans son amour ardent."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mort avec Christ à la croix du Calvaire,",
+				"Dans le baptême en Christ enseveli,",
+				"Ressuscité par la gloire du Père,",
+				"Je puis marcher en vainqueur, par l'Esprit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air américain",
+			"role": "music"
+		},
+		{
+			"name": "Christian Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg191",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,86 @@
+{
+	"id": "ta-tendre-voix",
+	"title": "Ta tendre voix",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1015"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tout doucement, près des eaux paisibles,",
+				"Ton amour attire mon cœur",
+				"Et tout devient possible."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Où irais-je ?",
+				"Que ferais-je loin du chant de ta tendre voix ?",
+				"Où irais-je ?",
+				"Que ferais-je loin du chant de ta tendre voix ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand vient le vent et que les mers s'agitent,",
+				"Ta paix vient couvrir mes peurs",
+				"Et tout devient docile."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Où irais-je ?",
+				"Que ferais-je loin du chant de ta tendre voix ?",
+				"Où irais-je ?",
+				"Que ferais-je loin du chant de ta tendre voix ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tombe la nuit au bout de ma route,",
+				"Tu m'accueilles auprès de toi",
+				"Et tout devient lumière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Où irais-je ?",
+				"Que ferais-je loin du chant de ta tendre voix ?",
+				"Où irais-je ?",
+				"Que ferais-je loin du chant de ta tendre voix ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Yannick Billioux",
+			"role": "music"
+		},
+		{
+			"name": "Yannick Billioux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1015",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

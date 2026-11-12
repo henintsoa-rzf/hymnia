@@ -1,0 +1,87 @@
+{
+	"id": "les-bontes-de-l-eternel",
+	"title": "Les bontés de l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "267"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Les bontés de l'Éternel",
+				"ne sont pas épuisées,",
+				"Ses compassions",
+				"ne sont pas à leurs termes,",
+				"Elles se renouvellent chaque matin.",
+				"O que ta fidélité est grande."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Laï, laï, laï, laï, laï, laï, laï,",
+				"Laï, laï, laï, laï, laï, laï, laï,",
+				"Laï, laï, laï, laï, laï, laï, laï, laï.",
+				"Laï, laï, laï, laï, laï, laï, laï,",
+				"Laï, laï, laï, laï, laï, laï, laï,",
+				"Laï, laï, laï, laï, laï, laï, laï, laï."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel est mon partage, dit mon âme,",
+				"C'est pourquoi je veux espérer en lui.",
+				"L'Éternel a de la bonté",
+				"Pour qui espère en lui,",
+				"Pour l'âme qui le cherche."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Il est bon d'attendre en silence",
+				"Le secours de l'Éternel,",
+				"Le secours de l'Éternel,",
+				"Le secours de l'Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Les bontés de l'Éternel",
+				"ne sont pas épuisées,",
+				"Ses compassions",
+				"ne sont pas à leurs termes,",
+				"Elles se renouvellent chaque matin.",
+				"O que ta fidélité est grande,",
+				"O que ta fidélité est grande."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem267",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

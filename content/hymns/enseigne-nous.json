@@ -1,0 +1,77 @@
+{
+	"id": "enseigne-nous",
+	"title": "Enseigne-nous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "196"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Enseigne-nous à bien compter nos jours,",
+				"À rechercher de tout cœur la sagesse.",
+				"Rassasie-nous de ta bonté chaque matin,",
+				"Et la joie règnera tout au long de nos vies."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que la grâce du Seigneur, notre Dieu,",
+				"soit sur nous,",
+				"Pour affermir l'ouvrage de nos mains !",
+				"Que la grâce du Seigneur, notre Dieu,",
+				"soit sur nous,",
+				"Pour affermir l'ouvrage",
+				"de nos mains, Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Enseigne-nous à bien compter nos jours,",
+				"À rechercher de tout cœur la sagesse.",
+				"Rassasie-nous de ta bonté chaque matin,",
+				"Et la joie règnera tout au long de nos vies."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que la grâce du Seigneur, notre Dieu,",
+				"soit sur nous,",
+				"Pour affermir l'ouvrage de nos mains !",
+				"Que la grâce du Seigneur, notre Dieu,",
+				"soit sur nous,",
+				"Pour affermir l'ouvrage",
+				"de nos mains, Seigneur !",
+				"Enseigne-nous,",
+				"Seigneur, Seigneur, Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jim Patterson",
+			"role": "music"
+		},
+		{
+			"name": "Jim Patterson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem196",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

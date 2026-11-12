@@ -1,0 +1,82 @@
+{
+	"id": "sur-la-paille-fraiche-adf-491",
+	"title": "Sur la paille fraîche.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "491"
+		},
+		{
+			"hymnal": "cd",
+			"number": "90"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur la paille fraîche",
+				"Dort l'enfant si beau.",
+				"Une pauvre crèche",
+				"Lui sert de berceau.",
+				"De l'azur céleste",
+				"L'Étoile a souri",
+				"À l'Enfant qui reste",
+				"Si tard endormi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voilà que l'ânesse",
+				"Réveille l'Enfant !",
+				"Mais Lui, la caresse",
+				"Tout en souriant.",
+				"Cher Jésus, je t'aime !",
+				"Prends mon petit cœur",
+				"Et veille toi-même",
+				"Sur moi, doux Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Près, plus près encore",
+				"De mon petit lit",
+				"Du soir à l'aurore",
+				"Car j'ai peur, la nuit !",
+				"Bénis, frère tendre",
+				"Les autres petits…",
+				"Viens bientôt nous prendre",
+				"Dans ton paradis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William James Kirkpatrick",
+			"role": "music"
+		},
+		{
+			"name": "d'après Martin Luther ; par Mme M. Wargenau-Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af491",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/894",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

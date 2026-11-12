@@ -1,0 +1,50 @@
+{
+	"id": "que-la-gloire-du-seigneur",
+	"title": "Que la gloire du Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "177"
+		},
+		{
+			"hymnal": "cd",
+			"number": "18"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que la gloire du Seigneur subsiste à jamais,",
+				"Qu'il se réjouisse de ses œuvres !",
+				"Je chanterai le Seigneur tant que j'existerai,",
+				"Je célébrerai son nom tant que je vivrai."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem177",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/909",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

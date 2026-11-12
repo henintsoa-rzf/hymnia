@@ -1,0 +1,69 @@
+{
+	"id": "vers-toi-seigneur",
+	"title": "Vers Toi, Seigneur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "453"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vers toi, Seigneur, que notre hymne s'élève ;",
+				"C'est le parfum du soir que nous t'offrons.",
+				"Pour que ce jour en ta grâce s'achève,",
+				"Vois à tes pieds s'incliner tous nos fronts."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La nuit descend ; une douce rosée",
+				"Baigne la terre après les feux du jour…",
+				"O bon Sauveur, que notre âme épuisée",
+				"Retrouve aussi la vie en ton amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu de Jacob, qui jamais ne sommeilles,",
+				"Chasse de nous l'effroi du lendemain,",
+				"Et sur nos cœurs, pendant les sombres veilles,",
+				"Fais reposer ta forte et tendre main."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Veuille détruire en nous ce qui t'offense ;",
+				"Daigne effacer nos fautes de ce jour ;",
+				"Et qu'en ta paix retrouvant l'innocence,",
+				"Nous soyons prêts, ô Christ, pour ton retour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hymns ancient and modern",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af453",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

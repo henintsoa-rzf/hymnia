@@ -1,0 +1,92 @@
+{
+	"id": "grand-dieu-ta-souveraine-grace",
+	"title": "Grand Dieu, ta souveraine grâce",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "245"
+		},
+		{
+			"hymnal": "adf",
+			"number": "282"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Grand Dieu, ta souveraine grâce",
+				"A daigné venir jusqu'à moi !",
+				"Ta miséricorde surpasse",
+				"Tout ce que je savais de toi.",
+				"À la louange de ta grâce",
+				"S'élève, l'hymne de ma foi.",
+				"S'élève, l'hymne de ma foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'avais mérité ta colère,",
+				"Et j'ai trouvé grâce à tes yeux !",
+				"Pour moi, ton Fils, sur le Calvaire,",
+				"A versé son sang précieux.",
+				"O grâce, ineffable mystère",
+				"Qui m'ouvre la porte des cieux.",
+				"Qui m'ouvre la porte des cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ma coupe est pleine, elle déborde !",
+				"Dieu m'a fait grâce, ô quel bonheur !",
+				"J'exalte la miséricorde",
+				"De mon Père et de mon Sauveur,",
+				"Et pour les bienfaits qu'Il m'accorde",
+				"Je répands devant lui mon cœur.",
+				"Je répands devant lui mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nul ne me ravira ma joie,",
+				"De l'enfer je brave l'effort !",
+				"La grâce illumine ma voie,",
+				"Elle me mène vers le port.",
+				"Que ta grâce en moi se déploie,",
+				"Seigneur, à l'heure de la mort !",
+				"Seigneur, à l'heure de la mort !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Gottfried Schicht",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg245",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af282",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

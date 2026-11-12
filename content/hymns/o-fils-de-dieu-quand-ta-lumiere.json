@@ -1,0 +1,88 @@
+{
+	"id": "o-fils-de-dieu-quand-ta-lumiere",
+	"title": "O Fils de Dieu, quand ta lumière",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "251"
+		},
+		{
+			"hymnal": "adf",
+			"number": "277"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Fils de Dieu, quand ta lumière",
+				"Brilla dans mon obscurité,",
+				"Je vis ma profonde misère",
+				"Et ton immense charité.",
+				"Je t'adore et te glorifie,",
+				"Source éternelle de la vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'étais un pécheur misérable,",
+				"Condamné par ta juste loi ;",
+				"Mais j'ai vu, mystère insondable !",
+				"La mort que tu souffris pour moi.",
+				"O Christ, ton sang me purifie,",
+				"Et ta mort me donne la vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Sauveur, tu sais que je t'aime,",
+				"Toi qui m'aimas jusqu'à la mort !",
+				"Ah ! rends-moi saint comme toi-même,",
+				"Humble et doux, courageux et fort !",
+				"Achève en moi l'œuvre bénie,",
+				"Amour qui m'as donné la vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et maintenant, sans peur ni doute,",
+				"Je marche en paix vers l'avenir ;",
+				"Ta croix illumine ma route,",
+				"Et bientôt tu vas revenir !",
+				"Je te verrai, joie infinie,",
+				"Toi, mon Seigneur, mon Dieu, ma vie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dimitri Bortniansky",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg251",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af277",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

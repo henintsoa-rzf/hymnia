@@ -1,0 +1,104 @@
+{
+	"id": "mon-secours-est-en-toi",
+	"title": "Mon secours est en toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1011"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si la lune me glace et le soleil menace,",
+				"Créateur des étoiles, mon secours est en toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si mes larmes ruissellent",
+				"Et que mon pas chancelle,",
+				"Créateur de la terre, mon secours est en toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux vers les hauts sommets,",
+				"Toi seul es mon Dieu ; je proclamerai :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Toi seul es ma force, toi seul me restaures,",
+				"Mon secours est en toi. »",
+				"Toujours tu me portes, jamais tu ne dors ;",
+				"Mon secours est en toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si la peur m'envahit et mon âme chavire,",
+				"Créateur de la vie, mon secours est en toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux vers les hauts sommets,",
+				"Toi seul es mon Dieu ; je proclamerai :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Toi seul es ma force, toi seul me restaures,",
+				"Mon secours est en toi. »",
+				"Toujours tu me portes, jamais tu ne dors ;",
+				"Mon secours est en toi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ta victoire, mon espoir, ton chemin, mon destin,",
+				"Ton salut, mon refuge, tout est en toi.",
+				"Ta victoire, mon espoir, ton chemin, mon destin,",
+				"Ton salut, mon refuge, tout est en toi.",
+				"Ta victoire, mon espoir, ton chemin, mon destin,",
+				"Ton salut, mon refuge, tout est en toi.",
+				"Ta victoire, mon espoir, ton chemin, mon destin,",
+				"Ton salut, mon refuge, tout est en toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sébastien Corn",
+			"role": "music"
+		},
+		{
+			"name": "Sébastien Corn",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1011",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

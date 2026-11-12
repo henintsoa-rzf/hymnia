@@ -1,0 +1,82 @@
+{
+	"id": "viens-a-jesus-il-t-appelle",
+	"title": "Viens à Jésus, il t'appelle",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "228"
+		},
+		{
+			"hymnal": "adf",
+			"number": "216"
+		},
+		{
+			"hymnal": "cd",
+			"number": "165"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens à Jésus,",
+				"Il t'appelle,",
+				"Il t'appelle aujourd'hui.",
+				"Trop longtemps tu fus rebelle :",
+				"Aujourd'hui, viens à Lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus t'aime,",
+				"Jésus t'aime,",
+				"Jésus t'aime aujourd'hui.",
+				"Malgré ta misère extrême :",
+				"Aujourd'hui, viens à Lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il pardonne,",
+				"Il pardonne,",
+				"Il pardonne aujourd'hui.",
+				"Reçois le salut qu'Il donne,",
+				"Aujourd'hui, viens à Lui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Fawcett",
+			"role": "music"
+		},
+		{
+			"name": "Théophile Rivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg228",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af216",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/998",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"id": "viens-sur-mon-coeur-te-reposer",
+	"title": "Viens sur mon coeur te reposer...",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "188"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"« Viens sur mon coeur te reposer, »",
+				"Jésus me dit un jour;",
+				"« Tes maux, sur moi, viens déposer,",
+				"Je suis le Dieu d’amour. »",
+				"Je suis allé, dans ma douleur,",
+				"Brisé, triste, éperdu,",
+				"Et j’ai trouvé, près de son coeur,",
+				"Son merveilleux salut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"« Coeur altéré de vérité,",
+				"De grâce et de pardon.",
+				"Ne vois-tu pas, de mon côté,",
+				"Jaillir la guérison ? »",
+				"Alors je vis le roc vivant,",
+				"Frappé, par Dieu pour moi,",
+				"Et j’ai trouvé, flot bienfaisant,",
+				"La source de la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"« Crois-moi, je suis », dit-il encore :",
+				"« La lumière du ciel ; »",
+				"« J’apporte aux vaincus de la mort,",
+				"Le royaume éternel. »",
+				"Je vis, alors, une lueur,",
+				"Briller sur mon chemin;",
+				"Depuis, je marche avec bonheur,",
+				"Vers l’éternel matin !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H. ARNERA",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1017",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

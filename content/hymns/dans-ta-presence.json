@@ -1,0 +1,51 @@
+{
+	"id": "dans-ta-presence",
+	"title": "Dans ta présence",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "394"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans ta présence",
+				"Devant le voile déchiré,",
+				"Je me tiens à genoux.",
+				"Comment te dire,",
+				"Avec mes faibles mots,",
+				"Tout mon amour pour toi Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon Dieu",
+				"Ma raison d'exister,",
+				"Tu es mon Dieu",
+				"Ma raison d'espérer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem394",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

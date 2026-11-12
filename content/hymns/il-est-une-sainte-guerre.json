@@ -1,0 +1,80 @@
+{
+	"id": "il-est-une-sainte-guerre",
+	"title": "Il est une sainte guerre",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "357"
+		},
+		{
+			"hymnal": "adf",
+			"number": "367"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est une sainte guerre,",
+				"Il est un combat divin,",
+				"Entre le ciel et la terre,",
+				"Entre le mal et le bien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Certaine est notre victoire,",
+				"Luttons sans crainte et sans peur ;",
+				"Nous combattons pour la gloire",
+				"De Jésus, le Rédempteur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La justice est notre armure,",
+				"La foi, notre bouclier ;",
+				"La vérité, pour ceinture,",
+				"Doit à jamais nous lier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"C'est une épée invincible",
+				"Qu'on voit briller dans nos mains,",
+				"C'est la Parole infaillible",
+				"Du Dieu Sauveur des humains."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joachim Neander",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg357",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af367",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

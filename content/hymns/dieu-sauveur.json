@@ -1,0 +1,101 @@
+{
+	"id": "dieu-sauveur",
+	"title": "Dieu sauveur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1084"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Miséricordieux, grâce incomparable,",
+				"Amour véritable, je t'exalte,",
+				"Tu es Yeshoua, Dieu sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Précieux Fils unique, beauté sans pareille,",
+				"Sagesse insondable, je t'exalte,",
+				"Tu es Yeshoua, Dieu sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nos voix unies à celles des anges déclarent :",
+				"« Tu es le Dieu sauveur,",
+				"Notre Dieu, seul sauveur. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toujours invaincu, héros triomphant,",
+				"Puissance absolue, je t'exalte,",
+				"Tu es Yeshoua, Dieu sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nos voix unies à celles des anges déclarent :",
+				"« Tu es le Dieu sauveur,",
+				"Notre Dieu, seul sauveur. »",
+				"Ton peuple uni à tous les anges déclare :",
+				"« Tu es le Dieu sauveur,",
+				"Notre Dieu, seul sauveur. »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je suis à toi. Mon cœur ne bat",
+				"Que si tu vis en moi,",
+				"Je suis à toi.",
+				"Je suis à toi. Mon cœur ne bat",
+				"Que si tu vis en moi,",
+				"Je suis à toi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Nos voix unies à celles des anges déclarent :",
+				"« Tu es le Dieu sauveur,",
+				"Notre Dieu, seul sauveur. »",
+				"Ton peuple uni à tous les anges déclare :",
+				"« Tu es le Dieu sauveur,",
+				"Notre Dieu, seul sauveur. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Horizon Louange",
+			"role": "music"
+		},
+		{
+			"name": "Makéda Pecastaing",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1084",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

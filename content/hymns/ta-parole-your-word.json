@@ -1,0 +1,95 @@
+{
+	"id": "ta-parole-your-word",
+	"title": "Ta Parole (Your Word)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "301"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta Parole est une lampe à mon pied,",
+				"Une lumière sur mon sentier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je trébuche dans l’obscurité,",
+				"Ta Parole éclaire ma voie.",
+				"Quand je me sens découragé,",
+				"Ta Parole illumine ma journée."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Une chose est sûre, partout où je vais,",
+				"C’est vrai, tu me parles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta Parole est sainte,",
+				"Ta Parole est force,",
+				"Ta Parole est puissante !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand je me sens agité, troublé,",
+				"Ta Parole me donne la paix.",
+				"Quand je me fais du souci pour demain,",
+				"Ta Parole calme mes angoisses."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Une chose est sûre, partout où je vais,",
+				"C’est vrai, tu me parles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Ta Parole est sainte,",
+				"Ta Parole est force,",
+				"Ta Parole est puissante !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tore W.Aas",
+			"role": "lyrics"
+		},
+		{
+			"name": "Tore W.Aas",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-1",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

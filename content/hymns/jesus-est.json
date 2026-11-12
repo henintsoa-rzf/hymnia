@@ -1,0 +1,89 @@
+{
+	"id": "jesus-est",
+	"title": "Jésus est",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1069"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Emmanuel, il est venu sur terre.",
+				"Toujours fidèle à la voix de son Père,",
+				"Sans dire un seul mot pour briller,",
+				"Il a choisi d'aimer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Malgré la souffrance, les clous et la lance,",
+				"Il a porté tous nos péchés.",
+				"Ami du pécheur, notre rédempteur",
+				"Jésus est l'exemple parfait."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ressuscité, il a vaincu la mort.",
+				"L'humanité a trouvé son trésor.",
+				"Humble serviteur humilié,",
+				"Que le Père a nommé :"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"« Grand Roi Éternel », acclamé du ciel",
+				"Par tous les saints et tous les anges,",
+				"À lui la victoire, l'honneur et la gloire.",
+				"Jésus est le Sauveur parfait."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nos cœurs sont prêts à partir avec lui.",
+				"Il est la paix que nous avons choisie.",
+				"Il revient bientôt nous chercher",
+				"Pour toute éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Plus de cris, de larmes ; sauveur de nos âmes,",
+				"Nous bénirons son divin nom.",
+				"Notre récompense, vivre en sa présence,",
+				"Jésus est le Seigneur parfait."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Marvane et Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Matt Marvane et Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1069",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

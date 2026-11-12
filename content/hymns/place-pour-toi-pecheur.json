@@ -1,0 +1,125 @@
+{
+	"id": "place-pour-toi-pecheur",
+	"title": "Place pour toi pécheur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "236"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Place pour toi, pécheur, Jésus t'appelle",
+				"Au grand festin de la vie éternelle."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Place pour toi !",
+				"Pécheur, viens par la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Du grand banquet la salle est préparée ;",
+				"Dans son amour, Dieu t'en donne l'entrée."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Place pour toi !",
+				"Pécheur, viens par la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus mourut, et par son sacrifice",
+				"Il te revêt du manteau de justice."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Place pour toi !",
+				"Pécheur, viens par la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dans son palais, où sa gloire rayonne,",
+				"Aux malheureux Il offre une couronne."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Place pour toi !",
+				"Pécheur, viens par la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"La nuit s'approche, ah ! que rien ne t'arrête ;",
+				"Là-haut ton père à t'accueillir s'apprête."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Place pour toi !",
+				"Pécheur, viens par la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Entre, il est temps !… Lorsque l'heure est sonnée",
+				"Plus de pardon pour l'âme condamnée."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O cri d'effroi !",
+				"Plus de place pour toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af236",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

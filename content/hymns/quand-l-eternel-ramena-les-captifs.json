@@ -1,0 +1,119 @@
+{
+	"id": "quand-l-eternel-ramena-les-captifs",
+	"title": "Quand l'Éternel ramena les captifs",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "16"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Quand l'Éternel ramena les captifs de Sion,",
+				"Nous étions comme ceux qui font un rêve.",
+				"Notre bouche clamait notre exaltation,",
+				"Notre langue des chants d'allégresse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel a fait pour nous",
+				"de grandes choses ;",
+				"Nous sommes dans la joie.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses ;",
+				"Nous sommes dans la joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alors on disait parmi les nations:",
+				"L'Éternel a fait pour eux de grandes choses !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel a fait pour nous",
+				"de grandes choses ;",
+				"Nous sommes dans la joie.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses ;",
+				"Nous sommes dans la joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Éternel ramène nos captifs,",
+				"Comme des ruisseaux dans le midi !",
+				"Ceux qui sèment avec larmes,",
+				"Moissonneront avec chants d'allégresse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel a fait pour nous",
+				"de grandes choses ;",
+				"Nous sommes dans la joie.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses ;",
+				"Nous sommes dans la joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Celui qui marche en pleurant,",
+				"Quand il porte la semence,",
+				"Revient avec allégresse,",
+				"Quand il porte ses gerbes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel a fait pour nous",
+				"de grandes choses ;",
+				"Nous sommes dans la joie.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses ;",
+				"Nous sommes dans la joie.",
+				"L'Éternel a fait de grandes choses.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses ;",
+				"nous sommes dans la joie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Harding",
+			"role": "music"
+		},
+		{
+			"name": "John Harding",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem016",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

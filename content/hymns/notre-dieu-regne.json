@@ -1,0 +1,107 @@
+{
+	"id": "notre-dieu-regne",
+	"title": "Notre Dieu règne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "991"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Dieu des temps et de l'éternité,",
+				"Par qui l'histoire est orchestrée,",
+				"Notre Dieu règne à jamais.",
+				"Un mot de lui, le monde apparaît,",
+				"Par amour, il vient pour sauver ;",
+				"Notre Dieu règne à jamais,",
+				"Notre Dieu règne à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Notre Dieu règne, notre Dieu règne,",
+				"Il règne en tout temps sur toute chose.",
+				"À lui le premier et le dernier mot.",
+				"Alléluia ! Gloire au Dieu qui règne."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le plan du Père, de grâce et faveur,",
+				"Des mains percées pour des pécheurs,",
+				"Notre Dieu règne à jamais.",
+				"Nous échangeons par son sacrifice",
+				"Nos souillures contre sa justice ;",
+				"Notre Dieu règne à jamais,",
+				"Notre Dieu règne à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Notre Dieu règne, notre Dieu règne,",
+				"Il règne en tout temps sur toute chose.",
+				"À lui le premier et le dernier mot.",
+				"Alléluia ! Gloire au Dieu qui règne."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Assis au ciel, ceint d'autorité,",
+				"En nous pourtant il vient demeurer ;",
+				"Notre Dieu règne à jamais.",
+				"Tout pouvoir s'effacera,",
+				"Mais son Royaume ne passera pas ;",
+				"Notre Dieu règne à jamais,",
+				"Notre Dieu règne à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Notre Dieu règne, notre Dieu règne,",
+				"Il règne en tout temps sur toute chose.",
+				"À lui le premier et le dernier mot.",
+				"Alléluia ! Gloire au Dieu qui règne."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oui, Dieu règne. Oui, Dieu règne.",
+				"Oui, Dieu règne. Alléluia !",
+				"Gloire au Dieu qui règne."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Simon Brading",
+			"role": "music"
+		},
+		{
+			"name": "Simon Brading",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem991",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,83 @@
+{
+	"id": "les-souffrances-de-jesus",
+	"title": "Les souffrances de Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "219"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Homme de douleur,",
+				"Habitué à la souffrance,",
+				"Il est méprisé, délaissé, humilié,",
+				"Il est frappé pour le péché de son peuple ;",
+				"Nous avons détourné de lui notre visage."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il s'est élevé comme une faible plante,",
+				"Sortant d'une terre desséchée,",
+				"Il n'a pas d'éclat, il est sans apparence,",
+				"Il est soumis à la souffrance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Homme de douleur,",
+				"Habitué à la souffrance,",
+				"Il est méprisé, délaissé, humilié,",
+				"Il est frappé pour le péché de son peuple ;",
+				"Nous avons détourné de lui notre visage."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cependant il a porté nos maladies,",
+				"Il fut brisé pour nos péchés,",
+				"Il s'est chargé de nos désobéissances,",
+				"Par ses blessures nous sommes guéris."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Homme de douleur,",
+				"Habitué à la souffrance,",
+				"Il est élevé, exalté, adoré;",
+				"Il est assis à la droite du Père,",
+				"La puissance et le règne",
+				"Sont entre ses mains."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louise Neuenschwander",
+			"role": "music"
+		},
+		{
+			"name": "Louise Neuenschwander",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem219",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,68 @@
+{
+	"id": "majeste",
+	"title": "Majesté",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "82"
+		},
+		{
+			"hymnal": "jem",
+			"number": "314"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Majesté, à lui la majesté,",
+				"À Jésus soit louange, honneur et gloire.",
+				"Majesté, suprême autorité,",
+				"Du haut des cieux,",
+				"Son règne vient sur tous les siens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Exaltons et célébrons le nom de Jésus,",
+				"Glorifions et proclamons Jésus-Christ le Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Majesté, à lui la majesté,",
+				"Dans notre cœur,",
+				"Christ le Sauveur règne en Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jack Hayford",
+			"role": "music"
+		},
+		{
+			"name": "Jack Hayford",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg082",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem314",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

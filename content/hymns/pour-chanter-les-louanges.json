@@ -1,0 +1,85 @@
+{
+	"id": "pour-chanter-les-louanges",
+	"title": "Pour chanter les louanges.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "485"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour chanter les louanges",
+				"Du Seigneur tout puissant,",
+				"J'unis au chœur des anges",
+				"La voix d'un jeune enfant.",
+				"Pourrais-je encore me taire,",
+				"Négligeant mon Sauveur,",
+				"Quand tout sur cette terre",
+				"Célèbre son auteur ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La gentille alouette,",
+				"Le rossignol des bois,",
+				"Le pinson, la fauvette",
+				"Font résonner leur voix.",
+				"À la saison nouvelle,",
+				"J'aime leurs chants joyeux ;",
+				"La nature est si belle !",
+				"Je veux chanter comme eux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si j'entends sur ma route,",
+				"L'appel du tentateur,",
+				"Mon faible cœur redoute",
+				"Son pouvoir séducteur.",
+				"Mais quand, sans défaillance,",
+				"j'entonne un chant pieux,",
+				"Dès cet instant j'avance",
+				"D'un pas ferme et joyeux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Aux heures de tristesse,",
+				"Quand un chant retentit,",
+				"Bientôt ma douleur cesse",
+				"Et mon chagrin s'enfuit.",
+				"Ainsi, douce harmonie,",
+				"Tu ranimes mon cœur,",
+				"Et souvent, dans la vie,",
+				"Tu me rends le bonheur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Wolfgang Amadeus Mozart",
+			"role": "music"
+		},
+		{
+			"name": "Écoles du dimanche",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af485",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

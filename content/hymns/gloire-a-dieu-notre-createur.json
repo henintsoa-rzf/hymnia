@@ -1,0 +1,55 @@
+{
+	"id": "gloire-a-dieu-notre-createur",
+	"title": "Gloire à Dieu, notre Créateur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "89"
+		},
+		{
+			"hymnal": "adf",
+			"number": "5"
+		},
+		{
+			"hymnal": "cd",
+			"number": "16"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Gloire à Dieu, notre Créateur !",
+				"Gloire au Christ, notre Rédempteur !",
+				"Gloire à l'Esprit Consolateur !",
+				"Louange et gloire au Dieu Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg089",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af005",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/842",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

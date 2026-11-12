@@ -1,0 +1,105 @@
+{
+	"id": "la-ou-est-l-esprit-du-seigneur",
+	"title": "Là où est l'esprit du Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1043"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu t'es penché vers moi, tu as tendu l'oreille,",
+				"Tu m'as fait remonter du puits sans fond.",
+				"Et, du fond de la boue, tu m'as remis debout,",
+				"Tu affermis mes pieds sur le rocher."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu m'as rendu le rire, tu m'as donné ta joie",
+				"Et beaucoup voudront se confier en toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Là où est l'Esprit du Seigneur, c'est la liberté.",
+				"Là où est l'Esprit du Seigneur, c'est la liberté.",
+				"Là où est l'Esprit du Seigneur, c'est la liberté,",
+				"La liberté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as remis le son, fait sauter la prison",
+				"D'où mon âme éperdue t'implorait.",
+				"Tu as brisé mes chaînes, tu as ôté ma haine",
+				"Et je sens mes pieds se mettre à danser."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu m'as rendu le rire, tu m'as donné ton chant,",
+				"Une mélodie pour notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Là où est l'Esprit du Seigneur, c'est la liberté.",
+				"Là où est l'Esprit du Seigneur, c'est la liberté.",
+				"Là où est l'Esprit du Seigneur, c'est la liberté,",
+				"La liberté."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Là où est l'Esprit du Seigneur,",
+				"Là où est l'Esprit du Seigneur,",
+				"Là où est l'Esprit du Seigneur,",
+				"La liberté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Là où est l'Esprit du Seigneur, c'est la liberté.",
+				"Là où est l'Esprit du Seigneur, c'est la liberté.",
+				"Là où est l'Esprit du Seigneur, c'est la liberté,",
+				"La liberté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1043",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

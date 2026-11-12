@@ -1,0 +1,111 @@
+{
+	"id": "christ-a-triomphe",
+	"title": "Christ a triomphé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1143"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Des ténèbres il s’est levé,",
+				"La pierre est roulée ;",
+				"Christ a triomphé.",
+				"Il surgit dans la lumière,",
+				"Vainqueur de l’enfer ;",
+				"Christ a triomphé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! mort, où est ta victoire,",
+				"Où est ton pouvoir ?",
+				"Le tombeau est vide,",
+				"Dieu le Père lui a confié",
+				"Toute autorité ;",
+				"Christ a triomphé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Après la peur vient la foi,",
+				"Les larmes de joie ;",
+				"Christ a triomphé.",
+				"Le Royaume s’est approché,",
+				"L’amour a gagné ;",
+				"Christ a triomphé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! mort, où est ta victoire,",
+				"Où est ton pouvoir ?",
+				"Le tombeau est vide,",
+				"Dieu le Père lui a confié",
+				"Toute autorité ;",
+				"Christ a triomphé."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Sur son corps les cicatrices",
+				"Me rappellent le prix payé.",
+				"Par son précieux sacrifice,",
+				"Il est l’homme au cœur brisé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avec lui, ressuscité,",
+				"Je veux annoncer :",
+				"Christ a triomphé.",
+				"Sa parole se répand",
+				"Parmi les nations ;",
+				"Christ a triomphé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! mort, où est ta victoire,",
+				"Où est ton pouvoir ?",
+				"Le tombeau est vide,",
+				"Dieu le Père lui a confié",
+				"Toute autorité ;",
+				"Christ a triomphé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1143",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

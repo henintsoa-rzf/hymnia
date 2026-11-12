@@ -1,0 +1,69 @@
+{
+	"id": "o-dieu-toute-ma-priere",
+	"title": "O Dieu ! toute ma prière.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "193"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu ! toute ma prière",
+				"Et mon vœu le plus ardent,",
+				"C'est qu'en Toi je trouve un Père",
+				"Et que je sois ton enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je sais déjà que la vie",
+				"N'est heureuse qu'en ta paix ;",
+				"Qu'autrement elle est remplie",
+				"De fautes et de regrets."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ta puissance m'attire",
+				"À Jésus, notre Sauveur !",
+				"C'est à Lui que je désire",
+				"Donner à jamais mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que ton Esprit me remplisse",
+				"D'une pure et vive foi,",
+				"Et que mon âme obéisse,",
+				"Seigneur, à ta sainte loi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af193",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

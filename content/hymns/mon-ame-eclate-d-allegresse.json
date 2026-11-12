@@ -1,0 +1,85 @@
+{
+	"id": "mon-ame-eclate-d-allegresse",
+	"title": "Mon âme éclate d'allégresse",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "69"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, Dieu a fait de grandes choses pour moi,",
+				"Son pauvre et faible enfant.",
+				"Sur lui, mon âme se repose,",
+				"Et je l'exalte en adorant.",
+				"Mon âme éclate d'allégresse,",
+				"Je chante mon Sauveur sans cesse,",
+				"Jésus, le Fils de la promesse:",
+				"Il sauve encore parfaitement."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je chante la miséricorde",
+				"Du Dieu qui donne un plein pardon",
+				"Car d'âge en âge elle déborde",
+				"Sur ceux qui craignent son saint nom.",
+				"Mon âme éclate d'allégresse,",
+				"Je chante mon Sauveur sans cesse,",
+				"Jésus, le Fils de la promesse:",
+				"Oui, de sa grâce il nous fait don."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En Dieu les humbles ont un guide,",
+				"Par lui les pauvres sont vêtus,",
+				"Les riches partent les mains vides,",
+				"L'orgueil des grands est abattu.",
+				"Mon âme éclate d'allégresse,",
+				"Je chante mon Sauveur sans cesse,",
+				"Jésus, le Fils de la promesse:",
+				"Tous ils sont justes ses statuts."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour toi la force de sa droite",
+				"Voudrait aussi se déployer.",
+				"C'est toi que son amour convoite ;",
+				"Oh ! Sous son joug, viens te plier,",
+				"Notre âme éclate d'allégresse,",
+				"Et chante le Sauveur sans cesse,",
+				"Jésus, le Fils de la promesse:",
+				"Il veut aussi nous employer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie russe",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem069",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

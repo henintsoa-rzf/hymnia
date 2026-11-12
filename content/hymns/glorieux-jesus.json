@@ -1,0 +1,109 @@
+{
+	"id": "glorieux-jesus",
+	"title": "Glorieux Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1197"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Avant la création de tout ce qui vit,",
+				"Le Père aimait le Fils à l'infini,",
+				"De toujours à toujours, par lui engendré,",
+				"Objet de son amour, le bien-aimé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorieux Jésus, Fils éternel,",
+				"Lumière des lumières, perle du ciel,",
+				"Merveilleux Jésus, fierté du Père,",
+				"En toi fut créé tout l'univers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et là, dans la mangeoire, repose la vie.",
+				"La lumière des nations s'est endormie.",
+				"La vierge a enfanté le trésor des cieux.",
+				"Un enfant nous est né : le Fils de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorieux Jésus, Emmanuel,",
+				"Le sourire de Dieu, la joie du ciel,",
+				"Merveilleux Jésus, tu t'es fait chair,",
+				"Par toi fut créé tout l'univers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le silence atterré, les larmes du Père,",
+				"Ses entrailles arrachées, son cœur ouvert,",
+				"Car là, dans le tombeau, on a mis son corps.",
+				"Le plus beau des joyaux, le Fils est mort."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorieux Jésus, Dieu crucifié",
+				"Pour mon cœur perdu, tu t'es donné.",
+				"Merveilleux Jésus, cadeau du Père,",
+				"Tu as racheté tout l'univers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais la terre a tremblé au troisième jour,",
+				"Rien n'a pu arrêter si grand amour.",
+				"Comme se lève l'aurore dans l'obscurité,",
+				"Voici d'entre les morts le premier-né."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorieux Jésus, ressuscité,",
+				"Tout est accompli, tu as gagné.",
+				"Merveilleux Jésus, fierté du Père,",
+				"Pour toi fut créé tout l'univers."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1197",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

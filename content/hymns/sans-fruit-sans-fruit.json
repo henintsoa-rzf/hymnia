@@ -1,0 +1,71 @@
+{
+	"id": "sans-fruit-sans-fruit",
+	"title": "Sans fruit ! sans fruit !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "241"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sans fruit, sans fruit !",
+				"Passé détruit,",
+				"Regrets, tourments stériles,",
+				"Combats vainement soutenus.",
+				"vœux formés et jamais tenus,",
+				"Tant d'efforts inutiles,",
+				"Sans un seul fruit !",
+				"Sans un seul fruit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sans fruit, sans fruit !",
+				"Être réduit",
+				"À vivre sur la terre",
+				"Sans loi, sans but ; s'user, vieillir,",
+				"Semer le vent, ne recueillir",
+				"Que trouble et que misère,",
+				"Sans un seul fruit !",
+				"Sans un seul fruit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toujours sans fruit !",
+				"Voici la nuit ;",
+				"Jésus, le Divin Maître,",
+				"Sur son tribunal est monté.",
+				"Aux yeux de ce Juge irrité",
+				"Comment oser paraître",
+				"Sans un seul fruit !",
+				"Sans un seul fruit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Silas Jones Vail",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Fisch",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af241",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

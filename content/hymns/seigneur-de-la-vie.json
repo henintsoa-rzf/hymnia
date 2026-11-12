@@ -1,0 +1,89 @@
+{
+	"id": "seigneur-de-la-vie",
+	"title": "Seigneur de la vie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "824"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"La mort a été engloutie,",
+				"dans la victoire de Jésus-Christ,",
+				"Car il est Seigneur de la vie, il est Dieu !",
+				"La mort a été engloutie,",
+				"dans la victoire de Jésus-Christ,",
+				"Car il est Seigneur de la vie, il est Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô mort, où est ta victoire ?",
+				"Ô mort, où est ton pouvoir ?",
+				"Où est donc ton aiguillon ?",
+				"Ô mort, où est ta victoire ?",
+				"Ô mort, où est ton pouvoir ?",
+				"Où est donc ton aiguillon ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous rendons grâces au Seigneur",
+				"Qui nous rend plus que vainqueur",
+				"Au travers de son grand nom.",
+				"C'est lui qui nous affermit",
+				"Dans la puissance de sa vie.",
+				"Soyons forts et proclamons !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô mort, où est ta victoire ?",
+				"Ô mort, où est ton pouvoir ?",
+				"Où est donc ton aiguillon ?",
+				"Ô mort, où est ta victoire ?",
+				"Ô mort, où est ton pouvoir ?",
+				"Où est donc ton aiguillon ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si notre Dieu est pour nous,",
+				"Qui donc sera contre nous ?",
+				"C'est lui seul qui justifie.",
+				"Qui pourra nous accuser",
+				"Et même nous séparer",
+				"De l'amour de Jésus-Christ ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem824",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

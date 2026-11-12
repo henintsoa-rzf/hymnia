@@ -10,6 +10,7 @@
 	import ConfirmDialog from '$lib/components/ConfirmDialog.svelte';
 	import Icon from '$lib/components/Icon.svelte';
 	import NotFound from '$lib/components/NotFound.svelte';
+	import { titleIn } from '$lib/domain/titles';
 	import { frenchSpaces, hymnCountLabel, hymnInCollectionUrl, refLabel } from '$lib/format';
 	import { hymnIdOf, resolveEntries, type ResolvedEntry } from '$lib/repertoire/resolve';
 	import { repertoire } from '$lib/repertoire/store';
@@ -29,7 +30,8 @@
 
 	const label = (row: ResolvedEntry) =>
 		refLabel(row.hymnal?.abbreviations[0] ?? row.entry.hymnal.toUpperCase(), row.entry.number);
-	const titleOf = (row: ResolvedEntry) => row.hymn?.title ?? 'Chant indisponible';
+	const titleOf = (row: ResolvedEntry) =>
+		row.hymn ? titleIn(row.hymn, row.entry.hymnal, row.entry.number) : 'Chant indisponible';
 
 	function remove(row: ResolvedEntry) {
 		if (!collection) return;

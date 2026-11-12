@@ -1,0 +1,69 @@
+{
+	"id": "jesus-le-berger-des-enfants",
+	"title": "Jésus, le berger des enfants",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "228"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur Jésus est le bon berger,",
+				"Les enfants sont ses brebis ;",
+				"Il est venu, voulant les sauver,",
+				"Pour son beau paradis !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Mon joug est doux, oui, mon fardeau léger »,",
+				"Jésus le dit, cela suffit;",
+				"Dans son amour, mon divin berger",
+				"Me garde et me conduit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je connais sa voix, je veux sans retour,",
+				"Obéir à mon berger;",
+				"Son bras me garde, jour après jour,",
+				"Du mal et du danger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, sur la croix, s’est donné pour moi,",
+				"Puis au ciel il est monté;",
+				"Je sais qu’un jour, je verrai mon roi,",
+				"Dans toute sa beauté !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "R.E. Hudson",
+			"role": "unspecified"
+		},
+		{
+			"name": "H. ARNERA",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1057",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

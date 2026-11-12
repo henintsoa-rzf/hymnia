@@ -1,0 +1,68 @@
+{
+	"id": "l-eternel-ton-dieu-est-au-milieu-de-toi",
+	"title": "L'Éternel ton Dieu est au milieu de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "33"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel, ton Dieu,",
+				"Est au milieu de toi,",
+				"Comme un héros qui sauve ;",
+				"Il fera de toi sa plus grande joie ;",
+				"Il gardera le silence dans son amour ;",
+				"la, la, la, la, la, la !",
+				"L'Éternel, ton Dieu,",
+				"Est au milieu de toi,",
+				"Comme un héros qui sauve ;",
+				"Il fera de toi sa plus grande joie ;",
+				"Il gardera le silence dans son amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pousse des cris de joie, fille de Sion.",
+				"Pousse des cris de joie, Israël !",
+				"Réjouis-toi et triomphe de tout ton cœur !",
+				"La, la, la, la, la,",
+				"La, la, la, la, la !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel, ton Dieu,",
+				"Est au milieu de toi,",
+				"Comme un héros qui sauve ;",
+				"Il fera de toi sa plus grande joie ;",
+				"Il gardera le silence dans son amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem033",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

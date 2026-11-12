@@ -1,0 +1,94 @@
+{
+	"id": "revetons-l-armure",
+	"title": "Revêtons l'armure",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "485"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Revêtons l'armure et gagnons le pays,",
+				"La victoire est à notre Dieu.",
+				"Toute arme forgée contre nous est brisée,",
+				"La victoire est à notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, chantons gloire, honneur,",
+				"Force et louange au Seigneur.",
+				"Chantons gloire, honneur,",
+				"Force et louange au Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsque les ténèbres",
+				"Seraient comme un fleuve,",
+				"La victoire est à notre Dieu.",
+				"Il déploie sur nous le pouvoir de son sang,",
+				"La victoire est à notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, chantons gloire, honneur,",
+				"Force et louange au Seigneur.",
+				"Chantons gloire, honneur,",
+				"Force et louange au Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand l'ennemi vient près de toi,",
+				"Ne craint rien,",
+				"La victoire est à notre Dieu.",
+				"Tu peux résister car tu es racheté,",
+				"La victoire est à notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, chantons gloire, honneur,",
+				"Force et louange au Seigneur.",
+				"Chantons gloire, honneur,",
+				"Force et louange au Seigneur.",
+				"Force et louange,",
+				"Force et louange,",
+				"Force et louange au Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jamie Owens-Collin",
+			"role": "music"
+		},
+		{
+			"name": "Jamie Owens-Collin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem485",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

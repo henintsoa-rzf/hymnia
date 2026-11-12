@@ -1,0 +1,81 @@
+{
+	"id": "sur-la-croix-ou-tu-meurs-pour-moi",
+	"title": "Sur la croix où tu meurs pour moi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "118"
+		},
+		{
+			"hymnal": "adf",
+			"number": "551",
+			"title": "Sur la croix où tu meurs."
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur la croix où tu meurs pour moi,",
+				"Je te contemple par la foi",
+				"Et je t'adore, ô mon Sauveur,",
+				"Roi de gloire, homme de douleur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O Roi d'épines couronné,",
+				"Pour les pécheurs tu t'es donné ;",
+				"Qu'à toi je me donne à mon tour",
+				"Entièrement et sans retour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu te rendis obéissant",
+				"Jusqu'à la mort en t'abaissant ;",
+				"Fais qu'aussi je sache obéir,",
+				"Et pour mon Dieu vivre et mourir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dans le cœur de ton racheté",
+				"Mets ta parfaite humilité,",
+				"Que je devienne, ô Jésus-Christ,",
+				"Conforme à toi par ton Esprit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil Bartholomaeus Gesius, 1605",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg118",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af551",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

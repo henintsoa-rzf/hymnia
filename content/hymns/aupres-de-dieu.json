@@ -1,0 +1,55 @@
+{
+	"id": "aupres-de-dieu",
+	"title": "Auprès de Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "521"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est auprès de Dieu",
+				"Que je veux me tenir.",
+				"Il est mon Seigneur, mon Roi.",
+				"C'est auprès de Dieu",
+				"Que je peux ressentir,",
+				"Tout l'amour qu'il a pour moi.",
+				"C'est auprès de Dieu",
+				"Que je voudrais grandir,",
+				"Entendre le son de sa voix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je viens, je viens devant le trône,",
+				"Par ta grâce je me tiens en ta présence.",
+				"Je lève, les yeux vers le lieu saint,",
+				"Pour contempler ta face,",
+				"Je veux rester près de toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charly et Isabelle Siounath",
+			"role": "music"
+		},
+		{
+			"name": "Charly et Isabelle Siounath",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem521",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

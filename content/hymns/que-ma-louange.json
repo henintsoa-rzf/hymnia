@@ -1,0 +1,39 @@
+{
+	"id": "que-ma-louange",
+	"title": "Que ma louange",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "476"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que ma louange s'élève jusqu'à toi,",
+				"Comme un parfum doux et agréable.",
+				"Je veux te louer, je veux t'adorer",
+				"En esprit et en vérité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Danie Hurtrel",
+			"role": "music"
+		},
+		{
+			"name": "Danie Hurtrel",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem476",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

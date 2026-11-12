@@ -1,0 +1,43 @@
+{
+	"id": "manifeste-toi",
+	"title": "Manifeste-toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "452"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Manifeste-toi,",
+				"Donne-nous de l'assurance ;",
+				"Révèle-toi,",
+				"Remplis-nous de ta présence.",
+				"Étends ta main,",
+				"Qu'il se produise des prodiges",
+				"Par le nom de Jésus-Christ,",
+				"Des guérisons et des signes."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gérard Bryon",
+			"role": "music"
+		},
+		{
+			"name": "Gérard Bryon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem452",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

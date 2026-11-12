@@ -1,0 +1,59 @@
+{
+	"id": "seigneur-jesus-oh-purifie",
+	"title": "Seigneur Jésus, oh ! purifie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "242"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur Jésus, oh ! purifie,",
+				"Et viens changer mon cœur !",
+				"Je te donne aujourd'hui ma vie :",
+				"Transforme-moi, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je crois, Seigneur, que tu pardonnes",
+				"Celui qui vient à toi ;",
+				"Je sais qu'à tout pécheur tu donnes",
+				"La vie par ta croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je me confie en tes promesses :",
+				"Tu t'es donné pour moi.",
+				"Tu me reçois avec tendresse :",
+				"Seigneur, je viens à toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J.H. Laster",
+			"role": "music"
+		},
+		{
+			"name": "Jeanne Decorvet-Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg242",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

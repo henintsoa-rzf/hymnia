@@ -1,0 +1,92 @@
+{
+	"id": "oui-je-veux-te-benir",
+	"title": "Oui, je veux te bénir",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "59"
+		},
+		{
+			"hymnal": "adf",
+			"number": "43"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, je veux te bénir",
+				"et chanter ta clémence !",
+				"Hélas ! Seigneur, je t'avais irrité ;",
+				"Mais tu m'as d'un regard",
+				"rendu ta bienveillance,",
+				"En me lavant de mon iniquité,",
+				"En me lavant de mon iniquité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Dieu fort est ma paix,",
+				"il est ma délivrance ;",
+				"De mon esprit il bannit la frayeur ;",
+				"Je veux donc en lui seul",
+				"mettre ma confiance,",
+				"Et donner gloire à mon Libérateur,",
+				"Et donner gloire à mon Libérateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Venez, enfants de Dieu !",
+				"puisez, pleins d'allégresse,",
+				"L'eau du salut à la source des eaux ;",
+				"Racontez les bienfaits,",
+				"proclamez la promesse",
+				"De l'Éternel qui guérit tous vos maux,",
+				"De l'Éternel qui guérit tous vos maux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous te célébrerons,",
+				"Seigneur, dans nos cantiques,",
+				"Nous qui savons jusqu'où va ton amour,",
+				"Tu fais pour tes enfants",
+				"des choses magnifiques ;",
+				"Nous bénirons ton saint nom chaque jour.",
+				"Nous bénirons ton saint nom chaque jour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Olivier",
+			"role": "music"
+		},
+		{
+			"name": "François Dumont",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg059",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af043",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

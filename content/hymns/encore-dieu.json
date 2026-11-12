@@ -1,0 +1,75 @@
+{
+	"id": "encore-dieu",
+	"title": "Encore Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "857"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aux étoiles, tu montres le chemin.",
+				"Dieu, tu es encore Dieu. Dieu, tu es encore Dieu.",
+				"Tu nourris la faune et la maintiens.",
+				"Dieu, tu es encore Dieu. Dieu, tu es encore Dieu.",
+				"Tu ne changes pas. Tu ne changes pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu as tout créé, Dieu.",
+				"Tu as tout créé, des étoiles",
+				"au cri du nouveau-né.",
+				"Tu es souverain Dieu.",
+				"Tu es souverain. Tu étais, tu es et tu reviens.",
+				"Tu es Dieu. Tu es Dieu. Le seul Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton pouvoir n'aura jamais de fin.",
+				"Dieu, tu es encore Dieu. Dieu, tu es encore Dieu.",
+				"Pour toi, les idoles ne sont rien.",
+				"Dieu, tu es encore Dieu. Dieu, tu es encore Dieu.",
+				"Tu es tout pour moi. Tu es tout pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu as tout créé, Dieu.",
+				"Tu as tout créé, des étoiles",
+				"au cri du nouveau-né.",
+				"Tu es souverain Dieu.",
+				"Tu es souverain. Tu étais, tu es et tu reviens.",
+				"Tu es Dieu. Tu es Dieu. Le seul Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Richard Picotin",
+			"role": "music"
+		},
+		{
+			"name": "Richard Picotin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem857",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

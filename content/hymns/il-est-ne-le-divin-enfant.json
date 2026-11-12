@@ -1,10 +1,14 @@
 {
 	"id": "il-est-ne-le-divin-enfant",
-	"title": "Il est né le divin Enfant",
+	"title": "Il est né, le divin enfant",
 	"entries": [
 		{
-			"hymnal": "ce",
-			"number": "20"
+			"hymnal": "atg",
+			"number": "109"
+		},
+		{
+			"hymnal": "cd",
+			"number": "85"
 		}
 	],
 	"sections": [
@@ -12,9 +16,9 @@
 			"type": "chorus",
 			"number": null,
 			"lines": [
-				"Il est né le divin Enfant,",
-				"Jouez hautbois, résonnez musettes !",
-				"Il est né le divin Enfant,",
+				"Il est né, le divin enfant,",
+				"Jouez, hautbois, résonnez, musettes !",
+				"Il est né ! le divin enfant,",
 				"Chantons tous son avènement !"
 			]
 		},
@@ -24,17 +28,103 @@
 			"lines": [
 				"Depuis plus de quatre mille ans",
 				"Nous le promettaient les prophètes,",
-				"Depuis plus de quatre mille ans",
+				"Depuis plus de quatre mille ans,",
 				"Nous attendions cet heureux temps."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est né, le divin enfant,",
+				"Jouez, hautbois, résonnez, musettes !",
+				"Il est né ! le divin enfant,",
+				"Chantons tous son avènement !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ah ! qu'il est beau ! qu'il est charmant !",
+				"Ah ! que ses grâces sont parfaites,",
+				"Ah ! qu'il est beau, qu'il est charmant !",
+				"Qu'il est doux, le divin enfant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est né, le divin enfant,",
+				"Jouez, hautbois, résonnez, musettes !",
+				"Il est né ! le divin enfant,",
+				"Chantons tous son avènement !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Une étable est son logement,",
+				"Un peu de paille est sa couchette,",
+				"Une étable est son logement,",
+				"Pour un Dieu, quel abaissement !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est né, le divin enfant,",
+				"Jouez, hautbois, résonnez, musettes !",
+				"Il est né ! le divin enfant,",
+				"Chantons tous son avènement !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il veut nos cœurs, il les attend :",
+				"Il vient en faire la conquête,",
+				"Il veut nos cœurs, il les attend :",
+				"Qu'ils soient à lui, dès ce moment !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est né, le divin enfant,",
+				"Jouez, hautbois, résonnez, musettes !",
+				"Il est né ! le divin enfant,",
+				"Chantons tous son avènement !"
 			]
 		}
 	],
-	"credits": [],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
 	"source": {
-		"name": "Échantillon de test — domaine public, texte non vérifié",
-		"url": null,
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg109",
 		"retrievedAt": "2026-11-11"
 	},
-	"rights": "public-domain",
-	"corrections": []
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/742",
+			"retrievedAt": "2026-11-11"
+		}
+	]
 }

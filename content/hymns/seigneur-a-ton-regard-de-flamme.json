@@ -1,0 +1,93 @@
+{
+	"id": "seigneur-a-ton-regard-de-flamme",
+	"title": "Seigneur, à ton regard de flamme",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "298"
+		},
+		{
+			"hymnal": "adf",
+			"number": "323"
+		},
+		{
+			"hymnal": "cd",
+			"number": "257"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, à ton regard de flamme",
+				"Rien n'est couvert, rien n'est caché ;",
+				"Qu'il pénètre au fond de notre âme,",
+				"Et qu'il juge en nous le péché,",
+				"Qu'il juge le péché !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sonde nos cœurs et nos pensées,",
+				"Nos plus intimes souvenirs,",
+				"Nos œuvres présentes, passées ;",
+				"Sonde nos plus secrets désirs,",
+				"Nos plus secrets désirs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'à la lumière tout paraisse",
+				"Pour que tout soit purifié,",
+				"Et qu'en nous ton Esprit ne laisse",
+				"Rien qui ne soit sanctifié,",
+				"Vraiment sanctifié."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Alors, brûlants d'un nouveau zèle,",
+				"Seigneur, nous pourrons t'obéir.",
+				"Oh ! que la vie est grande et belle",
+				"Pour ceux qui veulent te servir,",
+				"Qui veulent te servir !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr Albert Lister Peace",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg298",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af323",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1082",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

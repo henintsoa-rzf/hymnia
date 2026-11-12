@@ -33,7 +33,9 @@ interface AdapterContext {
    NFC, and removes chord or annotation markup (counted in `strippedMarkup`). It never rewords
    or fixes spelling.
 3. Sections follow the source order. A chorus written once stays once.
-4. Credit roles are mapped to `lyrics`, `music`, `translation`, `arrangement`. Unknown roles are
-   dropped and reported.
+4. Credit roles are mapped to `lyrics`, `music`, `translation`, `arrangement` (with
+   `mapCreditRole`). A site that names people without saying who wrote what gives `unspecified`
+   (shown as "Auteurs"). Unknown labels are not stored: they go to `unknownCredits`, which the
+   report lists.
 5. Every adapter has fixture tests: at least 5 saved pages, including one with a chorus, one
    with no credits, and one that must fail with a reason.

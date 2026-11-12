@@ -1,0 +1,73 @@
+{
+	"id": "s-en-remettre",
+	"title": "S’en remettre",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "119"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J’ai tout remis entre tes mains :",
+				"Ce qui m’accable et qui me peine,",
+				"Ce qui m’angoisse et qui me gène,",
+				"Et le souci du lendemain.",
+				"J’ai tout remis entre tes mains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’ai tout remis entre tes mains :",
+				"Le lourd fardeau traîné naguère,",
+				"Ce que je pleure, ce que j’espère,",
+				"Et le pourquoi de mon destin.",
+				"J’ai tout remis entre tes mains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J’ai tout remis entre tes mains :",
+				"Que ce soit la joie, la tristesse,",
+				"La pauvreté ou la richesse,",
+				"Et ce que jusqu’ici j’ai craint.",
+				"J’ai tout remis entre tes mains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"J’ai tout remis entre tes mains :",
+				"Que ce soit la mort ou la vie,",
+				"La santé ou la maladie,",
+				"Le commencement et la fin.",
+				"Car tout est bien entre tes mains."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marie Henrioud",
+			"role": "lyrics"
+		},
+		{
+			"name": "Sylvain Jaccard",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-19",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

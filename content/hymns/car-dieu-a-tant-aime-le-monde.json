@@ -1,0 +1,52 @@
+{
+	"id": "car-dieu-a-tant-aime-le-monde",
+	"title": "Car Dieu a tant aimé le monde",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "39"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "107"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car Dieu a tant aimé le monde",
+				"Qu'il a donné son Fils unique,",
+				"Afin que quiconque croit en lui",
+				"Ne périsse point,",
+				"Ne périsse point,",
+				"Mais qu'il ait la vie éternelle."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hermine Jacot",
+			"role": "music"
+		},
+		{
+			"name": "Hermine Jacot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem039",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-7",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

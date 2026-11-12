@@ -1,0 +1,90 @@
+{
+	"id": "ils-viendront-d-orient",
+	"title": "Ils viendront d'orient",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1082"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ils viendront d'orient, ils viendront d'occident",
+				"Pour entrer au royaume de Dieu.",
+				"Avec ou sans argent, le riche et l'indigent",
+				"S'assiéront au royaume de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qu'importe leur péché passé,",
+				"À la croix tout fut effacé.",
+				"Ils viendront d'orient, ils viendront d'occident",
+				"Pour entrer au royaume de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ils viendront d'orient, ils viendront d'occident",
+				"Pour entrer au royaume de Dieu.",
+				"Dieu les accueillera, puis il leur donnera",
+				"Une place au royaume de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Là plus de races, de nations ;",
+				"C'est une grande procession",
+				"Qui viendra d'orient, qui viendra d'occident",
+				"Pour entrer au royaume de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Venus de l'orient, venus de l'occident,",
+				"Ils ont part au royaume de Dieu.",
+				"Tous vainqueurs de la mort,",
+				"Ils atteignent le port,",
+				"Ils ont place à la table de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voyez-les tous de blanc vêtus,",
+				"Lavés dans le sang de Jésus !",
+				"Venus de l'orient, venus de l'occident,",
+				"Ils ont place au royaume de Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Gowans",
+			"role": "music"
+		},
+		{
+			"name": "André Sterckx",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1082",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,88 @@
+{
+	"id": "dieu-de-grace",
+	"title": "Dieu de grâce",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "296"
+		},
+		{
+			"hymnal": "adf",
+			"number": "199"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu de grâce, Dieu suprême",
+				"Qui daignas mourir pour moi,",
+				"Fais que je meure à moi-même",
+				"Pour ne vivre que de toi !",
+				"Seigneur Jésus, viens toi-même,",
+				"Viens toi-même vivre en moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sois mon Maître ! je te livre",
+				"Mon cœur longtemps indompté.",
+				"Fais-moi mourir pour revivre,",
+				"O divin Ressuscité !",
+				"Seigneur Jésus, fais-moi vivre,",
+				"Vivre dans l'humilité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'il meure, ce moi tenace,",
+				"Ce moi, toujours renaissant !",
+				"Qu'un autre prenne sa place,",
+				"Humble, pur, obéissant !",
+				"Prends en moi toute la place,",
+				"O Rédempteur tout-puissant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu'une source en moi jaillisse,",
+				"Eau qui jamais ne tarit,",
+				"Flot d'amour et de justice,",
+				"Eau vive du Saint-Esprit !",
+				"Tout entier, à ton service,",
+				"Je me donne, ô Jésus-Christ !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H. Koth",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg296",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af199",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,104 @@
+{
+	"id": "reveille-toi-peuple-fidele",
+	"title": "Réveille-toi, peuple fidèle",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "9"
+		},
+		{
+			"hymnal": "adf",
+			"number": "521"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Réveille-toi, peuple fidèle,",
+				"Pour louer Dieu tout d'une voix !",
+				"La louange est séante et belle",
+				"En la bouche des hommes droits.",
+				"Qu'avec harmonie,",
+				"On chante, on publie",
+				"L'œuvre du Seigneur ;",
+				"Que nos cantiques",
+				"Les sons magnifiques",
+				"Disent sa grandeur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'Éternel ici-bas regarde",
+				"Nuit et jour, du plus haut des cieux ;",
+				"À tous les mortels il prend garde :",
+				"Rien ne se dérobe à ses yeux.",
+				"Redoutable et juste,",
+				"De son trône auguste,",
+				"Il voit constamment",
+				"Tout ce qui se passe",
+				"Dans le vaste espace,",
+				"Sous le firmament."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu, par sa suprême puissance,",
+				"Fit le cœur de tous les humains ;",
+				"Il a parfaite connaissance",
+				"De toute l'œuvre de leurs mains.",
+				"L'ombre de ses ailes",
+				"Couvre les fidèles ;",
+				"Il veille toujours",
+				"Sur qui le révère,",
+				"Et qui rien n'espère",
+				"Que de son secours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nos cœurs, pleins de reconnaissance,",
+				"Béniront le nom du Seigneur ;",
+				"Nous reposant sur sa clémence,",
+				"Nous célébrerons son honneur.",
+				"Donne-nous ta grâce,",
+				"Montre-nous ta face,",
+				"O Dieu, notre Roi !",
+				"Remplis notre attente :",
+				"Notre âme contente",
+				"N'espère qu'en toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg009",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af521",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

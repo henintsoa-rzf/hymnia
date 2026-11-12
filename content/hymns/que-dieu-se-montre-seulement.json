@@ -3,12 +3,12 @@
 	"title": "Que Dieu se montre seulement",
 	"entries": [
 		{
-			"hymnal": "ce",
-			"number": "12a"
+			"hymnal": "atg",
+			"number": "15"
 		},
 		{
-			"hymnal": "he",
-			"number": "3 bis"
+			"hymnal": "adf",
+			"number": "25"
 		}
 	],
 	"sections": [
@@ -17,29 +17,96 @@
 			"number": 1,
 			"lines": [
 				"Que Dieu se montre seulement,",
-				"Et l’on verra dans un moment",
+				"Et l'on verra dans un moment",
 				"Abandonner la place ;",
 				"Le camp des ennemis épars,",
-				"Épouvanté de toutes parts,",
-				"Fuira devant sa face."
+				"Épouvanté, de toutes parts",
+				"Fuira devant sa face.",
+				"On verra tout ce camp s'enfuir",
+				"Comme l'on voit s'évanouir",
+				"Une épaisse fumée ;",
+				"Comme la cire fond au feu,",
+				"Ainsi des méchants devant Dieu",
+				"La force est consumée."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Réjouissez-vous devant Lui !",
+				"Il est des orphelins l'appui,",
+				"Le défenseur, le Père ;",
+				"Il est des veuves le recours",
+				"Et de son peuple, tous les jours,",
+				"Il entend la prière.",
+				"Ce Dieu puissant, par sa bonté,",
+				"Ramène la prospérité,",
+				"La paix et l'allégresse ;",
+				"Du captif il brise les fers,",
+				"Du juste, dans tout l'univers,",
+				"Son œil voit la détresse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Dieu ! ceux qui t'ont résisté",
+				"Viendront avec humilité",
+				"Au palais de ta gloire.",
+				"Bénis sois-tu, Dieu tout puissant,",
+				"Qui, des hauts cieux nous exauçant,",
+				"Nous donnes la victoire !",
+				"L'Éternel est notre recours,",
+				"Et nous avons par son secours",
+				"Trouvé la délivrance.",
+				"Il est le Dieu bon, le Dieu fort ;",
+				"Il est, en face de la mort,",
+				"Notre seule espérance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Louez ce Dieu si glorieux",
+				"Qui voit sous ses pieds les hauts cieux,",
+				"Qu'il a formés lui-même,",
+				"Et de qui la puissante voix",
+				"Fait trembler et peuples et rois",
+				"Par sa force suprême.",
+				"Soumettez-vous à l'Éternel ;",
+				"Reconnaissez qu'en Israël",
+				"Sa gloire est établie ;",
+				"Comme on voit luire dans les airs,",
+				"Parmi la foudre et les éclairs,",
+				"Sa puissance infinie."
 			]
 		}
 	],
 	"credits": [
 		{
-			"name": "Théodore de Bèze",
-			"role": "lyrics"
+			"name": "Matthias Greiter",
+			"role": "music"
 		},
 		{
-			"name": "Matthäus Greiter",
-			"role": "music"
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
 		}
 	],
 	"source": {
-		"name": "Échantillon de test — domaine public, texte non vérifié",
-		"url": null,
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg015",
 		"retrievedAt": "2026-11-11"
 	},
-	"rights": "public-domain",
-	"corrections": []
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af025",
+			"retrievedAt": "2026-11-11"
+		}
+	]
 }

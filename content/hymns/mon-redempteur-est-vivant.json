@@ -1,0 +1,88 @@
+{
+	"id": "mon-redempteur-est-vivant",
+	"title": "Mon rédempteur est vivant",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "131"
+		},
+		{
+			"hymnal": "adf",
+			"number": "127"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Rédempteur est vivant,",
+				"Et c'est en lui que j'espère !",
+				"Je l'ai contemplé mourant",
+				"Pour mes péchés, au Calvaire ;",
+				"Mais, par un suprême effort,",
+				"Jésus a vaincu la mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je ne crains rien désormais :",
+				"La mort a rendu sa proie ;",
+				"Je puis m'endormir en paix,",
+				"Pour m'éveiller avec joie.",
+				"Celui qui m'a racheté,",
+				"Jésus, est ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans les liens du trépas,",
+				"J'en ai la ferme espérance,",
+				"Christ ne me laissera pas,",
+				"Mon corps même a l'assurance",
+				"D'être à son corps glorieux",
+				"Semblable, un jour, dans les cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Alors je remporterai",
+				"Avec Jésus la victoire,",
+				"Et je le contemplerai",
+				"Face à face, dans sa gloire ;",
+				"J'exalterai sa bonté",
+				"Jusque dans l'éternité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean Crüger",
+			"role": "music"
+		},
+		{
+			"name": "Léopold-Eberhard Bonsen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg131",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af127",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

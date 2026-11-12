@@ -1,0 +1,136 @@
+{
+	"id": "salut-montagnes-bien-aimees",
+	"title": "Salut, montagnes bien-aimées",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "380"
+		},
+		{
+			"hymnal": "adf",
+			"number": "164"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Salut, montagnes bien-aimées,",
+				"Pays sacré de nos aïeux !",
+				"Vos vertes cimes sont semées",
+				"De leurs souvenirs glorieux.",
+				"Élevez vos têtes chenues,",
+				"Espérou, Bougès, Aigoual !",
+				"De leur gloire qui monte aux nues,",
+				"Vous n'êtes que le piédestal."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Esprit qui les fit vivre,",
+				"Anime leurs enfants,",
+				"Anime leurs enfants",
+				"Pour qu'ils sachent les suivre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Redites-nous, grottes profondes,",
+				"L'écho de leurs chants d'autrefois ;",
+				"Et vous, torrents qui, dans vos ondes,",
+				"Emportiez le bruit de leur voix !",
+				"Les uns, traqués de cime en cimes,",
+				"En vrais lions surent lutter ;",
+				"D'autres, ceux-là furent sublimes,",
+				"Surent mourir sans résister."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Esprit qui les fit vivre,",
+				"Anime leurs enfants,",
+				"Anime leurs enfants",
+				"Pour qu'ils sachent les suivre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O vétérans de nos vallées,",
+				"Vieux châtaigniers aux bras tordus,",
+				"Les cris des mères désolées,",
+				"Vous seuls les avez entendus !",
+				"Suspendus aux flancs des collines,",
+				"Vous seuls savez que d'ossements",
+				"Dorment là-bas, dans les ravines,",
+				"Jusqu'au grand jour des jugements !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Esprit qui les fit vivre,",
+				"Anime leurs enfants,",
+				"Anime leurs enfants",
+				"Pour qu'ils sachent les suivre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Cévenols, le Dieu de nos pères",
+				"N'est-il pas notre Dieu toujours ?",
+				"Servons-le dans les jours prospères",
+				"Comme ils firent aux mauvais jours :",
+				"Et, vaillants comme ils surent l'être,",
+				"Nourris comme eux du pain des forts,",
+				"Donnons notre vie à ce Maître,",
+				"Pour lequel nos aïeux sont morts !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Esprit qui les fit vivre,",
+				"Anime leurs enfants,",
+				"Anime leurs enfants",
+				"Pour qu'ils sachent les suivre !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Roucaute",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg380",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af164",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

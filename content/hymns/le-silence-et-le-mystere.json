@@ -1,0 +1,96 @@
+{
+	"id": "le-silence-et-le-mystere",
+	"title": "Le silence et le mystère.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "299"
+		},
+		{
+			"hymnal": "adf",
+			"number": "299A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le silence et le mystère",
+				"Couvrent plaines et cité :",
+				"« Gloire à Dieu, paix sur la terre,",
+				"À tous, bonne volonté ! »",
+				"D'où viennent ces chants étranges,",
+				"Ces accords si purs, si doux ?",
+				"Bergers, c'est la voix des anges",
+				"Et leur message est pour vous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Celui que la terre appelle",
+				"De ses vœux et de ses pleurs,",
+				"Depuis que pèse sur elle",
+				"Le lourd fardeau des douleurs,",
+				"Le Fils promis à la femme",
+				"Le Sauveur prédestiné,",
+				"L'espérance de toute âme,",
+				"Le Libérateur est né !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Fille d'Adam, race humaine,",
+				"Viens, adore ici ton Roi !",
+				"Il a le ciel pour domaine,",
+				"Et s'abaisse jusqu'à toi !",
+				"Pour Lui, c'est ici la porte",
+				"Qui s'ouvre sur le tombeau,",
+				"Mais pour toi, pauvre âme morte,",
+				"Cette crèche est un berceau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"« Gloire à Dieu, paix sur la terre,",
+				"À tous bonne volonté ! »",
+				"O profondeur, ô mystère",
+				"De tendresse et de bonté !",
+				"Joignons-nous aux chœurs des anges :",
+				"Ce n'est pas trop de nos voix",
+				"Pour célébrer les louanges",
+				"De la crèche et de la croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henry Thomas Smart",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af299",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af299a",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

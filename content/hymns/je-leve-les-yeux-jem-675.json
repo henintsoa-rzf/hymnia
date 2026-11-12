@@ -1,0 +1,51 @@
+{
+	"id": "je-leve-les-yeux-jem-675",
+	"title": "Je lève les yeux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "675"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je lève les yeux vers les hauteurs.",
+				"D'où me viendra le secours ?",
+				"Le secours me vient du Dieu créateur",
+				"De la terre et des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! j'ai besoin de toi,",
+				"Tu es mon seul espoir,",
+				"Vers toi seul je crie.",
+				"Alors je t'attendrai,",
+				"J'attendrai ton secours ;",
+				"Tu donnes la vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brian Doerksen",
+			"role": "music"
+		},
+		{
+			"name": "Brian Doerksen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem675",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

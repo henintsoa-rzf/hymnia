@@ -1,0 +1,43 @@
+{
+	"id": "jesus-tu-es-ici",
+	"title": "Jésus, tu es ici",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "185"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, tu es ici,",
+				"Jésus, tu es ici.",
+				"Oui, mon cœur me dit:",
+				"Jésus, tu es ici.",
+				"Jésus, tu es Seigneur,",
+				"Jésus, tu es Seigneur,",
+				"Je veux te louer,",
+				"Jésus, tu es Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Steve Stone",
+			"role": "music"
+		},
+		{
+			"name": "Steve Stone",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem185",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

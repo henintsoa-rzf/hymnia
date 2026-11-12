@@ -1,0 +1,129 @@
+{
+	"id": "tout-joyeux-benissons-le-seigneur",
+	"title": "Tout joyeux bénissons le Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "61"
+		},
+		{
+			"hymnal": "adf",
+			"number": "475"
+		},
+		{
+			"hymnal": "cd",
+			"number": "310"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tout joyeux, bénissons le Seigneur,",
+				"Chantons et célébrons ses louanges,",
+				"Adorons avec foi le Sauveur,",
+				"Nous joignant aux célestes phalanges."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu ! gloire à Dieu !",
+				"Que ce chant retentisse en tout lieu !",
+				"Gloire à Dieu ! gloire à Dieu !",
+				"Que ce chant retentisse en tout lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu, dans son incomparable amour,",
+				"Du ciel envoya son Fils unique,",
+				"Et la terre et les cieux, dans ce jour,",
+				"S'unissent pour chanter ce cantique :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu ! gloire à Dieu !",
+				"Que ce chant retentisse en tout lieu !",
+				"Gloire à Dieu ! gloire à Dieu !",
+				"Que ce chant retentisse en tout lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le châtiment qui produit la paix,",
+				"Jésus-Christ l'a subi pour mon âme :",
+				"Il voulut expier nos forfaits",
+				"En mourant, lui, sur le bois infâme."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu ! gloire à Dieu !",
+				"Que ce chant retentisse en tout lieu !",
+				"Gloire à Dieu ! gloire à Dieu !",
+				"Que ce chant retentisse en tout lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous voulons en retour, bon Sauveur,",
+				"T'aimer par-dessus tout autre chose ;",
+				"Forme ton amour dans notre cœur,",
+				"Et puis, de chacun de nous, dispose !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu ! gloire à Dieu !",
+				"Que ce chant retentisse en tout lieu !",
+				"Gloire à Dieu ! gloire à Dieu !",
+				"Que ce chant retentisse en tout lieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joseph Philbrick Webster",
+			"role": "music"
+		},
+		{
+			"name": "Gédéon Jaulmes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg061",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af475",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1112",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

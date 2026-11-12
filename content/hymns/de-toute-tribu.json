@@ -1,0 +1,93 @@
+{
+	"id": "de-toute-tribu",
+	"title": "De toute tribu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1130"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De toute tribu, de toute nation,",
+				"De toute langue et toute condition,",
+				"Nous venons, oh ! nous venons"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De toute tribu, de toute nation,",
+				"De toute langue et toute condition,",
+				"Nous venons, oh ! nous venons"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Adorer l'Agneau qui règne sur le trône",
+				"En jetant nos couronnes à ses pieds.",
+				"Tous unis devant lui,",
+				"Avec des millions d'anges,",
+				"Tous unis devant lui,",
+				"Nous chantons ses louanges",
+				"Et nous crions d'une même voix :",
+				"« Le salut vient de toi ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De toute tribu, de toute nation,",
+				"De toute langue et toute condition,",
+				"Nous venons, oh ! nous venons"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De toute tribu, de toute nation,",
+				"De toute langue et toute condition,",
+				"Nous venons, oh ! nous venons"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Adorer l'Agneau qui règne sur le trône",
+				"En jetant nos couronnes à ses pieds.",
+				"Tous unis devant lui,",
+				"Avec des millions d'anges,",
+				"Tous unis devant lui,",
+				"Nous chantons ses louanges",
+				"Et nous crions d'une même voix :",
+				"« Le salut vient de toi ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Vincent Corfdir, Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Vincent Corfdir et Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1130",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

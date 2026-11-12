@@ -1,0 +1,71 @@
+{
+	"id": "travaux-douleurs",
+	"title": "Travaux, douleurs.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "202"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Travaux, douleurs et train de guerre",
+				"Sont du chrétien la sûre part ;",
+				"Mais, Jésus, tu vois ma misère,",
+				"Sois donc ma force et mon rempart.",
+				"Souvent mon âme désespère",
+				"De se dépouiller du péché ;",
+				"Mais, Jésus, tu vois ma misère,",
+				"Et pour moi ton cœur est touché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Souvent je crois qu'à ma prière",
+				"Dieu courroucé ne répond plus ;",
+				"Mais, Jésus, tu vois ma misère,",
+				"Je ne crains donc aucun refus.",
+				"Souvent aussi je trouve amère",
+				"La coupe que m'offre la foi ;",
+				"Mais, Jésus, tu vois ma misère,",
+				"Et veux avoir pitié de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Souvent, trop épris de la terre,",
+				"Pour Toi, je ne sens nulle ardeur ;",
+				"Mais, Jésus, tu vois ma misère,",
+				"Tu viens en aide à ma langueur.",
+				"Aussi, Seigneur, mon Roi, mon Frère,",
+				"Je veux t'invoquer chaque jour.",
+				"O Jésus ! tu vois ma misère ;",
+				"Assiste-moi dans ton amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Justin Heinrich Knecht",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af202",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

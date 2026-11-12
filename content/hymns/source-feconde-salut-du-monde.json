@@ -1,0 +1,161 @@
+{
+	"id": "source-feconde-salut-du-monde",
+	"title": "Source féconde, salut du monde.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "279"
+		},
+		{
+			"hymnal": "cd",
+			"number": "204",
+			"title": "Source féconde"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Source féconde,",
+				"Salut du monde,",
+				"Le sang de Christ est répandu.",
+				"Ce divin frère,",
+				"Sur le Calvaire,",
+				"Est mort pour l'homme perdu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je puis croire,",
+				"Oui, je veux croire",
+				"Que Jésus-Christ est mort pour moi !",
+				"Sa mort sanglante",
+				"Et triomphante",
+				"Me rend libre par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En Jésus joie !",
+				"Il est la voie",
+				"Qui nous mène toujours au but.",
+				"Jésus pardonne,",
+				"Il n'est personne",
+				"Qu'Il repousse du Salut."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je puis croire,",
+				"Oui, je veux croire",
+				"Que Jésus-Christ est mort pour moi !",
+				"Sa mort sanglante",
+				"Et triomphante",
+				"Me rend libre par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ame flétrie !",
+				"Jésus convie",
+				"Les méchants, les plus dissolus,",
+				"Sa grâce immense",
+				"Donne assurance",
+				"Au cœur qui croit en Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je puis croire,",
+				"Oui, je veux croire",
+				"Que Jésus-Christ est mort pour moi !",
+				"Sa mort sanglante",
+				"Et triomphante",
+				"Me rend libre par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jour mémorable",
+				"Pour le coupable !",
+				"Sur la croix, au vil malfaiteur,",
+				"Jésus pardonne !",
+				"Jésus lui donne",
+				"Le ciel, l'éternel bonheur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je puis croire,",
+				"Oui, je veux croire",
+				"Que Jésus-Christ est mort pour moi !",
+				"Sa mort sanglante",
+				"Et triomphante",
+				"Me rend libre par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Du Christ la fête",
+				"Est toujours prête,",
+				"Le festin de noce est pour tous !",
+				"Entrez sans crainte,",
+				"De la voix sainte",
+				"Écoutez l'appel si doux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je puis croire,",
+				"Oui, je veux croire",
+				"Que Jésus-Christ est mort pour moi !",
+				"Sa mort sanglante",
+				"Et triomphante",
+				"Me rend libre par la foi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie anglaise",
+			"role": "music"
+		},
+		{
+			"name": "Luc Pulsford",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af279",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1039",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

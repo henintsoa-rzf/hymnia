@@ -1,0 +1,72 @@
+{
+	"id": "dieu-de-toute-grace",
+	"title": "Dieu de toute grâce",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "745"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu de toute grâce, trésor de bonté,",
+				"Source intarissable d'infinis bienfaits.",
+				"Tout en moi soupire le jour et la nuit",
+				"Après ta présence qui comble ma vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta fidélité, refuge de paix,",
+				"Me couvre et m'entoure toujours ; toujours",
+				"Je t'ouvre mon cœur, tu m'ouvres tes bras ;",
+				"Tu prends soin de moi toujours, toujours,",
+				"Toujours, toujours, toujours,",
+				"toujours, toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu qui m'as fait grâce, qui m'as tout donné,",
+				"Je cherche ta face et ta volonté.",
+				"Ce que je désire, c'est t'aimer plus fort,",
+				"Vivre ton alliance, te servir encore."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta fidélité, refuge de paix,",
+				"Me couvre et m'entoure toujours ; toujours",
+				"Je t'offre mon cœur, tu m'offres ta joie,",
+				"Tu conduis mes pas toujours, toujours,",
+				"Abba, Père, Abba, Papa, Abba."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thérèse Motte",
+			"role": "music"
+		},
+		{
+			"name": "Thérèse Motte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem745",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

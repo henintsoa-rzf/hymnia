@@ -1,0 +1,71 @@
+{
+	"id": "que-ces-lieux-soient-visites",
+	"title": "Que ces lieux soient visités",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "647"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que ces lieux soient visités",
+				"Par ta sainte présence.",
+				"Que ces lieux soient balayés",
+				"Par le vent de ton Esprit.",
+				"Lève-toi de ton saint lieu",
+				"Et descends au milieu de nous.",
+				"Pose sur nous des langues de feu,",
+				"Verse ton onction sur nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que ces lieux soient visités",
+				"Par ta sainte présence.",
+				"Que toute ombre soit chassée",
+				"Par ta lumière, éclairée.",
+				"Dans ta main, tiens-nous cachés,",
+				"Garde-nous au creux du rocher.",
+				"Lorsque tu passeras parmi nous,",
+				"Que ta bonté soit proclamée."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ces lieux soient visités",
+				"Par ta sainte présence.",
+				"Que ces lieux soient les témoins",
+				"De l'action de ton Esprit.",
+				"Dans ta gloire, viens maintenant.",
+				"Unis-nous en cet instant.",
+				"Que ta vie jaillisse en abondance ;",
+				"Nous allons voir ta puissance."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem647",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

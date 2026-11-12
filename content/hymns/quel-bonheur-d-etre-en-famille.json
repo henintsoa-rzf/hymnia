@@ -1,0 +1,82 @@
+{
+	"id": "quel-bonheur-d-etre-en-famille",
+	"title": "Quel bonheur d'être en famille.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "633"
+		},
+		{
+			"hymnal": "cd",
+			"number": "315"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel bonheur d'être en famille,",
+				"D'être aimé, surtout d'aimer !",
+				"Au doux foyer qui pétille",
+				"L'homme fort peut se former.",
+				"Entouré de ceux qu'on aime,",
+				"On doit cultiver son cœur ;",
+				"On se connaît mieux soi-même",
+				"Et l'on devient un vainqueur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La victoire est difficile,",
+				"Mais le combat bienfaisant ;",
+				"Si parfois l'amour vacille,",
+				"Ce n'est pas pour bien longtemps.",
+				"On supporte avec tendresse,",
+				"On pardonne avec bonheur !",
+				"Le cœur rajeunit sans cesse,",
+				"L'amour est le grand vainqueur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'une humeur toujours sereine,",
+				"Avec la céleste paix",
+				"Règne seule en souveraine",
+				"À mon foyer désormais !",
+				"Cher foyer, combien je t'aime !",
+				"Combien je vais te choyer,",
+				"En attendant qu'au ciel même",
+				"Se transporte mon foyer !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Gottfried Schicht",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af633",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1117",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

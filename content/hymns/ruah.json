@@ -1,0 +1,55 @@
+{
+	"id": "ruah",
+	"title": "Ruah",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "292"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ruah, Ruah, Ruah.",
+				"Ruah, Ruah, Ruah."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ni par puissance, ni par force,",
+				"Mais par l'Esprit du Seigneur.",
+				"Ni par puissance, ni par force,",
+				"Mais par l'Esprit du Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ruah, Ruah, Ruah.",
+				"Ruah, Ruah, Ruah."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem292",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

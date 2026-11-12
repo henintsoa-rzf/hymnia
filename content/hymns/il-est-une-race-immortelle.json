@@ -1,0 +1,99 @@
+{
+	"id": "il-est-une-race-immortelle",
+	"title": "Il est une race immortelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "158"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est une race immortelle,",
+				"Marquée au front du sceau de Dieu ;",
+				"L'enfer recule devant elle,",
+				"La paix l'accompagne en tout lieu.",
+				"Cette race, née au Calvaire,",
+				"Du cœur percé de Jésus-Christ,",
+				"C'est l'Église, sel de la terre,",
+				"Peuple nouveau du Saint Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Elle est la lumière du monde.",
+				"Reine et rebut des nations ;",
+				"Elle n'est jamais plus féconde,",
+				"Qu'au sein des persécutions,",
+				"Car Celui qui lui donna l'être,",
+				"La suit d'un regard paternel,",
+				"Et le sang dont Il la fit naître",
+				"Garde son pouvoir éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Elle est ici-bas la colonne",
+				"Et l'appui de la vérité ;",
+				"Elle est le phare d'où rayonne",
+				"La grâce sur l'humanité !",
+				"O grâce, ô divine lumière,",
+				"Tu luis jusque dans nos tombeaux,",
+				"Et de notre indigne poussière,",
+				"Fais surgir des hommes nouveaux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon frère, à la race immortelle",
+				"Ne veux-tu pas appartenir ?",
+				"En vain, loin du Dieu qui t'appelle,",
+				"Le péché veut te retenir :",
+				"Apporte à la croix de ton Maître",
+				"L'aveu tremblant d'une humble foi…",
+				"Crois seulement ! Croire c'est naître !…",
+				"Enfant de Dieu, réjouis-toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Pour toi, le ciel se met en fête :",
+				"Il compte un racheté de plus !",
+				"Pour toi la couronne s'apprête,",
+				"La palme promise aux élus !",
+				"Sur toi l'Esprit met son empreinte,",
+				"Et cette onction te fait roi…",
+				"Nouveau fils de la race sainte,",
+				"Réjouis-toi, réjouis-toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "F. Wilson",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af158",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

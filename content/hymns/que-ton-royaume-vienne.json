@@ -1,0 +1,67 @@
+{
+	"id": "que-ton-royaume-vienne",
+	"title": "Que ton royaume vienne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "478"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que ton royaume vienne,",
+				"Ta volonté soit faite,",
+				"Seigneur, viens régner en moi.",
+				"Que ton royaume vienne,",
+				"Ta volonté soit faite,",
+				"Seigneur, viens régner en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que le réveil éclate",
+				"Ta volonté soit faite,",
+				"Seigneur, viens réveille-moi.",
+				"Que le réveil éclate",
+				"Ta volonté soit faite,",
+				"Seigneur, viens réveille-moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ton Esprit descende,",
+				"Ta volonté soit faite,",
+				"Esprit viens, prier par moi.",
+				"Que ton Esprit descende,",
+				"Ta volonté soit faite,",
+				"Esprit viens, prier par moi.",
+				"Seigneur viens, réveille-moi,",
+				"Seigneur viens, régner en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rick Ridings",
+			"role": "music"
+		},
+		{
+			"name": "Rick Ridings",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem478",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

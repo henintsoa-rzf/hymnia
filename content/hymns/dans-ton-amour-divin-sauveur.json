@@ -1,0 +1,120 @@
+{
+	"id": "dans-ton-amour-divin-sauveur",
+	"title": "Dans ton amour, divin Sauveur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "127"
+		},
+		{
+			"hymnal": "jem",
+			"number": "71"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans ton amour, divin Sauveur,",
+				"Toi, les délices de ton Père,",
+				"Te dépouillant de ta splendeur,",
+				"Tu vins t'unir à ma misère !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amour divin, le Roi des rois",
+				"Pour moi se donne sur la croix !",
+				"Amour divin, le Roi des rois",
+				"Pour moi se donne sur la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En vain, mon cœur, de ton amour",
+				"Voudrait sonder le grand mystère,",
+				"Savoir pourquoi tu fus, un jour,",
+				"Frappé pour moi sur le Calvaire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sublime amour, don merveilleux,",
+				"plus grand que l'infini des cieux !",
+				"Sublime amour, don merveilleux,",
+				"plus grand que l'infini des cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le créateur, l'Être immortel,",
+				"L'Auteur, la source de la vie ;",
+				"Le Fils de Dieu, le Roi du ciel,",
+				"O grâce ineffable, infinie,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voulant sauver l'homme pécheur,",
+				"Souffre à sa place et pour lui meurt !",
+				"Voulant sauver l'homme pécheur,",
+				"Souffre à sa place et pour lui meurt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais, ô bonheur, Tu as vaincu !",
+				"La mort a dû lâcher sa proie,",
+				"Et ta victoire est mon salut,",
+				"Oui, mon bonheur, ma paix, ma joie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aussi je veux, tout à nouveau,",
+				"Bénir ton nom, ô saint Agneau !",
+				"Aussi je veux, tout à nouveau,",
+				"Bénir ton nom, ô saint Agneau !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Campbell",
+			"role": "music"
+		},
+		{
+			"name": "Hector Arnéra",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg127",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem071",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

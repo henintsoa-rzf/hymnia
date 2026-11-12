@@ -1,0 +1,96 @@
+{
+	"id": "a-ton-nom",
+	"title": "À ton nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1021"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À ton nom, les monts vacillent et s'effondrent.",
+				"À ton nom, les flots s'agitent, les mers grondent.",
+				"À ton nom, les anges s'inclinent,",
+				"La terre se réjouit, ton peuple s'écrie :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur de la terre,",
+				"Nous exaltons ton grand nom,",
+				"Remplissons le ciel de nos louanges,",
+				"nos louanges.",
+				"Yahwé, Yahwé, nous aimons",
+				"proclamer ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À ton nom, le jour s'éveille dans la gloire.",
+				"À ton nom, la nature dit ton histoire.",
+				"À ton nom, les anges s'inclinent,",
+				"La terre se réjouit, ton peuple s'écrie :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur de la terre,",
+				"Nous exaltons ton grand nom,",
+				"Remplissons le ciel de nos louanges,",
+				"nos louanges.",
+				"Yahwé, Yahwé, nous aimons",
+				"proclamer ton nom."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Notre Dieu est sans égal, nous te louons, louons.",
+				"Oui, Dieu est sans égal, nous chantons,",
+				"nous chantons.",
+				"Notre Dieu est sans égal, nous te louons, louons.",
+				"Oui, Jésus, notre Dieu, nous chantons !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur de la terre,",
+				"Nous exaltons ton grand nom,",
+				"Remplissons le ciel de nos louanges,",
+				"nos louanges.",
+				"Yahwé, Yahwé, nous aimons",
+				"proclamer ton nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Phil Wickham et Tim Hughes",
+			"role": "music"
+		},
+		{
+			"name": "Phil Wickham et Tim Hughes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1021",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

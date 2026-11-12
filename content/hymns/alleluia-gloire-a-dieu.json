@@ -1,0 +1,106 @@
+{
+	"id": "alleluia-gloire-a-dieu",
+	"title": "Alléluia ! Gloire à Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "270"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Gloire à Dieu dans les cieux",
+				"Et paix à ton peuple sur terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Père, notre Père,",
+				"À toi revient la gloire,",
+				"Père, Dieu d'amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Gloire à Dieu dans les cieux",
+				"Et paix à ton peuple sur terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, Jésus, Jésus,",
+				"Nous t'offrons nos cœurs,",
+				"Bien-aimé Fils de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Gloire à Dieu dans les cieux",
+				"Et paix à ton peuple sur terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Esprit, Esprit de Dieu,",
+				"Viens nous enseigner,",
+				"Souffle de Vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Gloire à Dieu dans les cieux",
+				"Et paix à ton peuple sur terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Avec les tiens sur terre et au ciel,",
+				"Avec les anges en chœur,",
+				"Nous louons ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Gloire à Dieu dans les cieux",
+				"Et paix à ton peuple sur terre.",
+				"Gloire à Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Christmas",
+			"role": "music"
+		},
+		{
+			"name": "Charles Christmas",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem270",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

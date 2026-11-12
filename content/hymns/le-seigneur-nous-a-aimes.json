@@ -1,0 +1,121 @@
+{
+	"id": "le-seigneur-nous-a-aimes",
+	"title": "Le Seigneur nous a aimés",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "204"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur nous a aimés",
+				"Comme l'on n'a jamais aimé.",
+				"Il nous guide chaque jour",
+				"Comme une étoile dans la nuit.",
+				"Quand nous partageons le pain,",
+				"Il nous donne son amour.",
+				"C'est le pain de l'amitié, le pain de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est mon corps, prenez et mangez",
+				"C'est mon sang, prenez et buvez,",
+				"Car je suis la vie et je suis l'amour.",
+				"O Seigneur emporte-nous dans ton séjour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Seigneur nous a aimés",
+				"Comme l'on n'a jamais aimé.",
+				"Pour les gens de son village,",
+				"C'était le fils du charpentier.",
+				"Il travailla de ses mains",
+				"Comme l'ont fait tous ses voisins.",
+				"Il connut le dur labeur de son métier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est mon corps, prenez et mangez",
+				"C'est mon sang, prenez et buvez,",
+				"Car je suis la vie et je suis l'amour.",
+				"O Seigneur emporte-nous dans ton séjour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Seigneur nous a aimés",
+				"Comme l'on n'a jamais aimé.",
+				"Son amour était si grand,",
+				"Qu'il en mourut sur une croix.",
+				"Son amour était si fort,",
+				"Qu'il triompha de la mort.",
+				"Il sortit de son tombeau libre et vainqueur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est mon corps, prenez et mangez",
+				"C'est mon sang, prenez et buvez,",
+				"Car je suis la vie et je suis l'amour.",
+				"O Seigneur emporte-nous dans ton séjour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le Seigneur nous a aimés",
+				"Comme l'on n'a jamais aimé.",
+				"Il rassemble tous les hommes",
+				"Et les fais vivre de sa vie ;",
+				"Et tous les chrétiens du monde",
+				"Sont les membres de son corps",
+				"Rien ne peut les séparer de son amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est mon corps, prenez et mangez",
+				"C'est mon sang, prenez et buvez,",
+				"Car je suis la vie et je suis l'amour.",
+				"O Seigneur emporte-nous dans ton séjour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "D'après un spiritual",
+			"role": "music"
+		},
+		{
+			"name": "Maurice Debaisieux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem204",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,71 @@
+{
+	"id": "jesus-mon-sauveur-pourquoi",
+	"title": "Jésus, mon Sauveur, pourquoi.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "496"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, mon Sauveur, pourquoi tarder encore ?",
+				"De ton retour, j'attends la douce aurore…",
+				"Viens et me prends avec Toi dans ton ciel,",
+				"J'ai faim, j'ai soif de repos éternel !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! viens, mon Sauveur !",
+				"Pourquoi tarder encore,",
+				"Pourquoi tarder encore ?",
+				"De ton retour j'attends la douce aurore,",
+				"L'aurore !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ah ! c'en est assez, viens délivrer mon âme",
+				"De l'ennemi, de sa malice infâme !",
+				"Je prie et lutte et je me sens si las.",
+				"Et de mes pleurs le flot ne tarit pas !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! viens, mon Sauveur !",
+				"Pourquoi tarder encore,",
+				"Pourquoi tarder encore ?",
+				"De ton retour j'attends la douce aurore,",
+				"L'aurore !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Sebastian Bach",
+			"role": "music"
+		},
+		{
+			"name": "Mme M. Wargenau-Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af496",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

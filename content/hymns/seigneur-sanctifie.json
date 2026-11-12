@@ -1,0 +1,45 @@
+{
+	"id": "seigneur-sanctifie",
+	"title": "Seigneur sanctifie !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "229"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur ! Sanctifie nos jours, nos moments;",
+				"Fais que notre vie t’honore en tout temps.",
+				"Que de ta présence, au milieu de nous,",
+				"L’heureuse influence nous pénètre tous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous voulons sans cesse marcher par la foi",
+				"Et, dans la détresse, regarder à toi.",
+				"Heureux qui repose sur ton bras puissant !",
+				"On a toute chose en te possédant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nikolaus Ludwig von Zinzendorf",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1058",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

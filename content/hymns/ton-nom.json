@@ -1,0 +1,43 @@
+{
+	"id": "ton-nom",
+	"title": "Ton nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "104"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton nom, le plus beau nom,",
+				"Don divin fait à la terre !",
+				"Jésus, Toi qui m'aimes,",
+				"En Toi seul mon âme espère.",
+				"Tu vis, Tu baptises,",
+				"Tu guéris et Tu reviens.",
+				"Je chante Ton nom, le plus beau nom,",
+				"C'est à Toi que j'appartiens."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hugh Mitchell",
+			"role": "music"
+		},
+		{
+			"name": "Hugh Mitchell",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem104",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

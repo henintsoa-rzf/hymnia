@@ -1,0 +1,67 @@
+{
+	"id": "du-coeur-et-de-la-voix",
+	"title": "Du cœur et de la voix",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "404"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du cœur et de la voix,",
+				"Rendez à Dieu la gloire !",
+				"Comptez tous ses bienfaits :",
+				"Qu'ils soient dans vos mémoires !",
+				"Nous sommes sous ses yeux",
+				"Dès notre premier jour,",
+				"Pour vivre et pour mourir,",
+				"Veillés par son amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O Père tout puissant,",
+				"Ta grâce est infinie !",
+				"Ta paix remplit nos cœurs,",
+				"Ta joie est dans nos vies.",
+				"Tu mets ta force en nous",
+				"Selon ta volonté,",
+				"Et veux nous accueillir",
+				"Dans ton éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Louange soit à Dieu,",
+				"Le Père qui nous aime !",
+				"Louange soit au Fils",
+				"Qui s'est donné lui-même !",
+				"Louange au Saint-Esprit,",
+				"Le puissant défenseur !",
+				"Unique et trois fois saint,",
+				"Loué soit le Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean Crüger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem404",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,109 @@
+{
+	"id": "tel-que-je-suis-sans-rien-a-moi",
+	"title": "Tel que je suis, sans rien à moi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "243"
+		},
+		{
+			"hymnal": "adf",
+			"number": "258"
+		},
+		{
+			"hymnal": "jem",
+			"number": "84"
+		},
+		{
+			"hymnal": "cd",
+			"number": "150",
+			"title": "Tel que je suis"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "113",
+			"title": "Tel que je suis"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tel que je suis, sans rien à moi,",
+				"Sinon ton sang versé pour moi",
+				"Et ta voix qui m'appelle à toi,",
+				"Agneau de Dieu, je viens, je viens !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tel que je suis, bien vacillant,",
+				"En proie au doute à chaque instant,",
+				"Lutte au dehors, crainte au-dedans,",
+				"Agneau de Dieu, je viens, je viens !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tel que je suis, ton cœur est prêt",
+				"À prendre le mien tel qu'il est,",
+				"Pour tout changer, Sauveur parfait !",
+				"Agneau de Dieu, je viens, je viens !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tel que je suis, ton grand amour",
+				"A tout pardonné sans retour.",
+				"Je veux être à toi dès ce jour ;",
+				"Agneau de Dieu, je viens, je viens !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Willliam Batchelder Bradbury",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg243",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af258",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem084",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/277",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-13",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

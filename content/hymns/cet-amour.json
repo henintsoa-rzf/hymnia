@@ -1,0 +1,143 @@
+{
+	"id": "cet-amour",
+	"title": "Cet amour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1000"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En toi les humbles sont bénis,",
+				"En toi les faibles sont affermis.",
+				"Les cœurs brisés tu rétablis, donnant la vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cet amour qui peut libérer,",
+				"Cet amour qui peut restaurer",
+				"Nous appelle par notre nom.",
+				"Tu nous appelles par notre nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ce Dieu qui créa tout l’univers,",
+				"Ce Dieu qui vint mourir au calvaire",
+				"Nous appelle par notre nom.",
+				"Tu nous appelles par notre nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À ceux qui doutent dans la foi,",
+				"Aux chancelants tu tends les bras.",
+				"Tu les appelles de ta voix : « Venez à moi. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cet amour qui peut libérer,",
+				"Cet amour qui peut restaurer",
+				"Nous appelle par notre nom.",
+				"Tu nous appelles par notre nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ce Dieu qui créa tout l’univers,",
+				"Ce Dieu qui vint mourir au calvaire",
+				"Nous appelle par notre nom.",
+				"Tu nous appelles par notre nom."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! Oh ! Oh ! Oh !",
+				"Oh ! Oh ! Oh ! Oh !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"De ta voix, de ta voix,",
+				"Tu nous appelles à la croix.",
+				"De ta voix, de ta voix,",
+				"Tu nous appelles à la croix."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"De ta voix, de ta voix,",
+				"Tu nous appelles à la croix.",
+				"De ta voix, de ta voix,",
+				"Tu nous appelles à la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cet amour qui peut libérer,",
+				"Cet amour qui peut restaurer",
+				"Nous appelle par notre nom.",
+				"Tu nous appelles par notre nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ce Dieu qui créa tout l’univers,",
+				"Ce Dieu qui vint mourir au calvaire",
+				"Nous appelle par notre nom.",
+				"Tu nous appelles par notre nom."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! Oh ! Oh ! Oh !",
+				"Oh ! Oh ! Oh ! Oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Baloche et Michael Rossback",
+			"role": "music"
+		},
+		{
+			"name": "Paul Baloche et Michael Rossback",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1000",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

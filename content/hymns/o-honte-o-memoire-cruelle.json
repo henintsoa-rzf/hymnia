@@ -1,0 +1,89 @@
+{
+	"id": "o-honte-o-memoire-cruelle",
+	"title": "O honte, ô mémoire cruelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "274"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O honte ! O mémoire cruelle !",
+				"À Jésus, le Berger fidèle,",
+				"Quand Il m'appelait par mon nom,",
+				"Insensé, j'ai répondu : « Non ! »",
+				"De Lui j'ai détourné ma face ;",
+				"J'ai crié : « Pour Toi point de place !",
+				"De tes bienfaits je ne veux rien :",
+				"Laisse-moi tout mon cœur,",
+				"et garde tout le tien ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pourtant, Il sut trouver mon âme :",
+				"Je le vis, sur le bois infâme,",
+				"Navré d'opprobre et de douleur,",
+				"Priant : « Père, pardonne-leur ! »",
+				"Et, devant sa beauté sanglante,",
+				"Je lui dis d'une voix tremblante :",
+				"« Sois mon modèle, mon soutien,",
+				"Et répands dans mon cœur",
+				"quelque chose du tien ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De jour en jour, de grâce en grâce,",
+				"Sa clémence que rien ne lasse,",
+				"Douce étoile à mon horizon,",
+				"Fut ma joie et ma guérison.",
+				"À cet Ami si fort, si tendre,",
+				"Ma requête se fit entendre :",
+				"« Daigne, ô Christ ! me rendre chrétien,",
+				"Plus pauvre de mon cœur",
+				"et plus riche du tien ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Plus haute que les cieux sublimes,",
+				"Plus profonde que les abîmes,",
+				"Plus vaste que l'immensité,",
+				"Dieu Sauveur est ta charité.",
+				"Je suis vaincu, je rends les armes,",
+				"Et baignant tes pieds de mes larmes,",
+				"Je soupire après un seul bien :",
+				"Viens m'ôter tout mon cœur,",
+				"me donner tout le tien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fr. Ambresin",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af274",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

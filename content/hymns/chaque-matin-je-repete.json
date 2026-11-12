@@ -1,0 +1,85 @@
+{
+	"id": "chaque-matin-je-repete",
+	"title": "Chaque matin je répète.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "608"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chaque matin je répète,",
+				"En invoquant l'Éternel :",
+				"« Que ta volonté soit faite",
+				"Sur la terre comme au ciel ! »",
+				"Exauce, ô bonté suprême,",
+				"Le vœu que tu m'as dicté,",
+				"Et viens m'apprendre toi-même",
+				"À faire ta volonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Parmi les enfants des hommes",
+				"Il est un seul, Seigneur,",
+				"Qui, sur la terre où nous sommes,",
+				"T'a servi de tout son cœur :",
+				"S'avançant vers le Calvaire,",
+				"Il disait, ô charité !",
+				"« Me voici : Je viens, mon Père,",
+				"Pour faire ta volonté. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je veux marcher sur sa trace :",
+				"Exauce, ô Dieu ! mon désir,",
+				"Et que désormais je fasse",
+				"De ta loi tout mon plaisir ;",
+				"Affranchi de l'esclavage",
+				"De ma fausse liberté,",
+				"Mon aliment, mon breuvage,",
+				"Père, c'est ta volonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu'à ta volonté se ploie",
+				"La mienne, jour après jour ;",
+				"Que j'obéisse avec joie",
+				"Aux ordres de ton amour,",
+				"Il n'est point, dans le ciel même,",
+				"Plus haute félicité,",
+				"Que celle d'un cœur qui t'aime",
+				"Et qui fait ta volonté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Psalmodie morave",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af608",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

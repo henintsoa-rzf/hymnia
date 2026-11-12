@@ -1,0 +1,58 @@
+{
+	"id": "o-dieu",
+	"title": "O Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "541"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Dieu, ô Dieu, tu es mon Dieu ;",
+				"Je te cherche, j'ai soif de toi.",
+				"Mon être, tout mon être soupire après toi",
+				"Comme une terre aride, desséchée."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans le temple, je t'ai cherché du regard",
+				"Pour voir ta puissance et ta gloire,",
+				"Et proclamer ta louange.",
+				"Toute ma vie, je te remercierai ;",
+				"Je serai comblé, comme rassasié,",
+				"Je dirai qui tu es ; je te glorifierai."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"O Dieu, ô Dieu, tu es mon Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem541",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

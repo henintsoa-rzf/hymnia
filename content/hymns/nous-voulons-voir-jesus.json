@@ -1,0 +1,117 @@
+{
+	"id": "nous-voulons-voir-jesus",
+	"title": "Nous voulons voir Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "880"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous voulons voir Jésus, car on nous a dit",
+				"Que des millions d'hommes vivent grâce à lui,",
+				"Et que même des morts reviennent à la vie.",
+				"On entend des chants, des danses,",
+				"Des échos de l'espérance.",
+				"Nous voulons voir Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous voulons voir Jésus, l'homme de douleur",
+				"Qui voyait sa mort sans céder à la peur,",
+				"Et qui s'est donné jusqu'au dernier souffle,",
+				"Et par son sang versé fait de nous les pardonnés.",
+				"Nous voulons voir Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous voulons voir Jésus dans sa sainteté,",
+				"Lui dont les prophètes nous avaient parlé,",
+				"La Parole de Dieu, la lumière des hommes.",
+				"Il est le témoin fidèle, son amour nous interpelle.",
+				"Nous voulons voir Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous avons soif, nous avons faim,",
+				"Et les autres nous ont tous déçus.",
+				"Nous voulons voir Jésus.",
+				"Nous voulons voir Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous voulons voir Jésus,",
+				"Celui qu'on appelle Prince de la Paix,",
+				"Le Père éternel.",
+				"Il est l'Admirable, il étend son règne",
+				"Car il est le souverain, sa justice sera sans fin.",
+				"Nous voulons voir Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous avons soif, nous avons faim,",
+				"Et les autres nous ont tous déçus.",
+				"Nous voulons voir Jésus.",
+				"Nous voulons voir Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Nous voulons voir Jésus,",
+				"Car il nous rappelle que son sacrifice",
+				"n'est pas virtuel,",
+				"Mais il vit toujours, réel et tangible,",
+				"Et l'espace autour de lui résonne de l'infini.",
+				"Nous voulons voir Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous avons soif, nous avons faim,",
+				"Et les autres nous ont tous déçus.",
+				"Nous voulons voir Jésus.",
+				"Nous voulons voir Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem880",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

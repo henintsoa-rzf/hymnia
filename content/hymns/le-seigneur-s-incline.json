@@ -1,0 +1,104 @@
+{
+	"id": "le-seigneur-s-incline",
+	"title": "Le Seigneur s'incline",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "205"
+		},
+		{
+			"hymnal": "adf",
+			"number": "576"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur s'incline,",
+				"Il nous illumine",
+				"De sa présence divine.",
+				"Sa croix nous rassemble,",
+				"Que notre cœur tremble",
+				"Et qu'il chante tout ensemble.",
+				"Adorons,",
+				"Présentons",
+				"Notre humble requête",
+				"En courbant la tête."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De toute œuvre vaine,",
+				"Frivole ou mondaine",
+				"Nous nous détachons sans peine.",
+				"Toi seul nous enflammes,",
+				"Nos cœurs et nos âmes",
+				"Sont à toi, tu les réclames.",
+				"Nos désirs,",
+				"Nos plaisirs,",
+				"Prends tout dès cette heure,",
+				"Qu'à toi tout demeure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur riche en grâce,",
+				"Prends toute la place,",
+				"Devant toi que tout s'efface.",
+				"Remplis nos mains vides ;",
+				"Nos cœurs sont avides",
+				"Qu'enfin toi seul y résides.",
+				"Comble-nous,",
+				"À genoux,",
+				"Nous cherchons sans feinte",
+				"Ta présence sainte."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous voulons te plaire ;",
+				"Viens et daigne faire",
+				"De nos cœurs ton sanctuaire.",
+				"Rends nos âmes pures ;",
+				"Lave nos souillures",
+				"Par le sang de tes blessures.",
+				"Nous t'aimons ;",
+				"Nous voulons",
+				"Avec allégresse",
+				"Te servir sans cesse."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joachim Neander",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg205",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af576",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

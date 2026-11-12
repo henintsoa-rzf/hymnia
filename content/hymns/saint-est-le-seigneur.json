@@ -1,0 +1,59 @@
+{
+	"id": "saint-est-le-seigneur",
+	"title": "Saint est le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "884"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le salut, la gloire sont à lui,",
+				"Ses jugements sont véritables et justes.",
+				"Alléluia pour le Roi,",
+				"Nos cœurs embrasés louent son nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint est le Seigneur,",
+				"Saint est notre Dieu,",
+				"À lui soit la gloire",
+				"Pour l'éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint est le Seigneur,",
+				"Saint est notre Dieu,",
+				"À lui soit la gloire",
+				"Pour l'éternité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Isabelle et Charly Siounath",
+			"role": "music"
+		},
+		{
+			"name": "Isabelle et Charly Siounath",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem884",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

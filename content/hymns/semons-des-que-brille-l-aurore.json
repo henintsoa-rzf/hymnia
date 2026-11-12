@@ -1,0 +1,109 @@
+{
+	"id": "semons-des-que-brille-l-aurore",
+	"title": "Semons dès que brille l'aurore.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "349"
+		},
+		{
+			"hymnal": "cd",
+			"number": "280"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Semons dès que brille l'aurore,",
+				"Semons dès que le soleil luit,",
+				"Pendant le jour semons encore,",
+				"Semons avant la sombre nuit…",
+				"Semons !",
+				"Dieu seul peut faire éclore ;",
+				"De Lui seul attendons le fruit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ah ! répandons la divine semence,",
+				"Dans le succès comme dans le mépris.",
+				"Le jour se lève et la moisson s'avance,",
+				"Et Dieu, là-haut, nous réserve le prix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Semons sur le bord de la route,",
+				"Semons sur le terrain pierreux ;",
+				"Semons dans le cœur où le doute",
+				"Semble étouffer la voix des cieux.",
+				"Semons !",
+				"Et, si l'on nous écoute,",
+				"Parlons du Sauveur glorieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ah ! répandons la divine semence,",
+				"Dans le succès comme dans le mépris.",
+				"Le jour se lève et la moisson s'avance,",
+				"Et Dieu, là-haut, nous réserve le prix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Semons lorsque, dans sa tristesse,",
+				"Notre cœur murmure : « À quoi bon ? »",
+				"Répétons à tous la promesse",
+				"Et l'Évangile du pardon.",
+				"Semons !",
+				"Bientôt, douce allégresse,",
+				"Luira le jour de la moisson."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ah ! répandons la divine semence,",
+				"Dans le succès comme dans le mépris.",
+				"Le jour se lève et la moisson s'avance,",
+				"Et Dieu, là-haut, nous réserve le prix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af349",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1311",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

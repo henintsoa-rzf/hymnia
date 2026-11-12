@@ -1,0 +1,39 @@
+{
+	"id": "je-suis-le-chemin",
+	"title": "Je suis le chemin",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "108"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Moi, Je suis le chemin qui conduit à Mon Père,",
+				"Moi, Je suis la vérité qui te rendra libre,",
+				"Moi, Je suis la vie, la vie éternelle,",
+				"Nul ne vient au Père que par Moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "La Bible, d’après Jean 14, 6",
+			"role": "lyrics"
+		},
+		{
+			"name": "Margaret Petty",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-8",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

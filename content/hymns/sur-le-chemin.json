@@ -1,0 +1,88 @@
+{
+	"id": "sur-le-chemin",
+	"title": "Sur le chemin",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "138"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur le chemin va sans peur",
+				"Car Jésus est devant toi,",
+				"Il veut être ton Sauveur,",
+				"Oh ! suis-le, oh ! suis-le par la foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et maintenant saisis",
+				"la main de ton Sauveur,",
+				"Car lui seul te donne l'éternel bonheur.",
+				"Il a donné sa vie sur la croix,",
+				"Oh ! suis-le, oh ! suis-le par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et si tu tombes en chemin,",
+				"Regarde à Jésus ton roi,",
+				"Il est dans le lieu très saint",
+				"Et il prie, et il prie pour toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et maintenant saisis",
+				"la main de ton Sauveur,",
+				"Car lui seul te donne l'éternel bonheur.",
+				"Il a donné sa vie sur la croix,",
+				"Oh ! suis-le, oh ! suis-le par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Un jour Jésus reviendra",
+				"Oh ! quel immense bonheur.",
+				"Dans son ciel il te prendra",
+				"Bénis-le, bénis-le dans ton cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et maintenant saisis",
+				"la main de ton Sauveur,",
+				"Car lui seul te donne l'éternel bonheur.",
+				"Il a donné sa vie sur la croix,",
+				"Oh ! suis-le, oh ! suis-le par la foi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "D'après un spiritual",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem138",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

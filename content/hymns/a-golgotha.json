@@ -1,0 +1,65 @@
+{
+	"id": "a-golgotha",
+	"title": "À golgotha",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "141"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J’errais dans un monde dur et froid",
+				"Sans savoir que par amour pour moi,",
+				"Jésus s’était donné sur la croix à Golgotha !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C’est là que mes fardeaux sont tombés,",
+				"C’est là que Jésus m’a tout donné,",
+				"Le pardon, la paix, la liberté : A Golgotha !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ployant sous le poids de mon péché,",
+				"Redoutant la mort. L’éternité,",
+				"À Christ enfin j’ai tout confessé à Golgotha !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Maintenant à Christ j’ai tout donné,",
+				"Maintenant tout en moi peut chanter",
+				"Maintenant la vie a commencé à Golgotha !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "D.B. Towner",
+			"role": "unspecified"
+		},
+		{
+			"name": "Wm. R. Newell",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/976",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "o-dieu-de-verite",
+	"title": "O Dieu de vérité.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "186"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu de vérité,",
+				"pour qui seul je soupire,",
+				"Unis mon cœur à Toi",
+				"par de forts et doux nœuds !",
+				"Je me lasse d'ouïr, je me lasse de lire,",
+				"Mais non pas de te dire ;",
+				"C'est Toi seul que je veux !",
+				"Mais non pas de te dire :",
+				"C'est Toi seul que je veux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Parle seul à mon cœur,",
+				"et qu'aucune prudence,",
+				"Qu'aucun autre docteur",
+				"ne m'explique tes lois ;",
+				"Que toute créature, en ta sainte présence,",
+				"S'impose le silence",
+				"Et laisse agir ta voix !",
+				"S'impose le silence",
+				"Et laisse agir ta voix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tiens-Toi près de mon âme,",
+				"et dans ma solitude,",
+				"Viens remplir de ta paix",
+				"le vide de mon cœur.",
+				"Dissipe mes ennuis et toute inquiétude,",
+				"Et que ma seule étude",
+				"Soit de t'aimer, Seigneur !",
+				"Et que ma seule étude",
+				"Soit de t'aimer, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu me réponds, mon Dieu !",
+				"mais encor des nuages",
+				"Me voilent tes splendeurs, céleste Vérité !",
+				"Que ne puis-je bientôt,",
+				"sur de plus purs rivages,",
+				"Par delà tous les âges",
+				"Contempler ta beauté !",
+				"Par delà tous les âges,",
+				"Contempler ta beauté !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "Pierre Corneille ; Louis Bonnet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af186",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -10,13 +10,18 @@ import {
 	type Collection,
 	type CollectionEntry,
 	type EntryRef,
+	type HymnRef,
 	type RepertoireDoc
 } from './schema';
 
 export const NAME_MAX_LENGTH = 60;
 
 /** Resolves a reference to its hymn id, or undefined when the catalog does not know it. */
-export type HymnIdOf = (ref: EntryRef) => string | undefined;
+export type HymnIdOf = (ref: HymnRef) => string | undefined;
+
+/** A stored entry that must change to keep pointing at its hymn (FR-027 of feature 002). */
+export type Repair = { hymnal: string; number: string; hymnId: string };
+export type CollectionRepair = { collectionId: string; index: number; repair: Repair };
 
 export type NameError = 'empty' | 'too-long' | 'taken';
 export type NameResult = { ok: true; name: string } | { ok: false; error: NameError };
@@ -108,10 +113,13 @@ export function restoreCollection(doc: RepertoireDoc, removed: Removed): Reperto
 const sameRef = (a: EntryRef, b: EntryRef) =>
 	a.hymnal === b.hymnal && normalizeNumber(a.number) === normalizeNumber(b.number);
 
+/** The hymn id of a reference: the one it was saved for, otherwise what it resolves to. */
+const idOf = (ref: HymnRef, hymnIdOf: HymnIdOf) => ref.hymnId ?? hymnIdOf(ref);
+
 /** Same hymn: by hymn id when both are known, otherwise by reference. */
-export function sameHymn(a: EntryRef, b: EntryRef, hymnIdOf: HymnIdOf): boolean {
-	const idA = hymnIdOf(a);
-	const idB = hymnIdOf(b);
+export function sameHymn(a: HymnRef, b: HymnRef, hymnIdOf: HymnIdOf): boolean {
+	const idA = idOf(a, hymnIdOf);
+	const idB = idOf(b, hymnIdOf);
 	return idA !== undefined && idB !== undefined ? idA === idB : sameRef(a, b);
 }
 
@@ -133,14 +141,25 @@ export function addEntry(
 	const collection = find(doc, id);
 	if (!collection) return { doc, status: 'no-collection' };
 	if (hasHymn(collection, ref, hymnIdOf)) return { doc, status: 'already-there' };
-	const entry: CollectionEntry = { hymnal: ref.hymnal, number: ref.number, addedAt: now };
+	const hymnId = idOf(ref, hymnIdOf);
+	const entry: CollectionEntry = {
+		hymnal: ref.hymnal,
+		number: ref.number,
+		addedAt: now,
+		...(hymnId !== undefined ? { hymnId } : {})
+	};
 	return {
 		status: 'added',
 		doc: update(doc, id, (c) => ({ ...c, entries: [...c.entries, entry], updatedAt: now }))
 	};
 }
 
-/** Removes the hymn, whatever the reference it was added with. */
+/**
+ * Removes one entry: the one with this exact reference, or else the first entry of the same
+ * hymn (when the hymn was added under another reference). Only one entry is ever removed, so
+ * a collection that holds a hymn twice (e.g. after two hymns are merged at import) keeps the
+ * other one.
+ */
 export function removeEntry(
 	doc: RepertoireDoc,
 	id: string,
@@ -149,10 +168,14 @@ export function removeEntry(
 	now: string
 ): RepertoireDoc {
 	const collection = find(doc, id);
-	if (!collection || !hasHymn(collection, ref, hymnIdOf)) return doc;
+	if (!collection) return doc;
+	const exact = collection.entries.findIndex((e) => sameRef(e, ref));
+	const index =
+		exact >= 0 ? exact : collection.entries.findIndex((e) => sameHymn(e, ref, hymnIdOf));
+	if (index < 0) return doc;
 	return update(doc, id, (c) => ({
 		...c,
-		entries: c.entries.filter((e) => !sameHymn(e, ref, hymnIdOf)),
+		entries: c.entries.filter((_, i) => i !== index),
 		updatedAt: now
 	}));
 }
@@ -193,6 +216,23 @@ export function moveEntry(
 /** Ids of the collections that hold this hymn, under any reference. */
 export function collectionsWith(doc: RepertoireDoc, ref: EntryRef, hymnIdOf: HymnIdOf): string[] {
 	return doc.collections.filter((c) => hasHymn(c, ref, hymnIdOf)).map((c) => c.id);
+}
+
+/**
+ * Applies repairs found by `collectRepairs` (resolve.ts). A repair is not a user change, so
+ * `updatedAt` and the order of collections stay as they are. Same document when nothing changes.
+ */
+export function applyRepairs(doc: RepertoireDoc, repairs: CollectionRepair[]): RepertoireDoc {
+	let changed = false;
+	const collections = doc.collections.map((c) => {
+		const mine = repairs.filter((r) => r.collectionId === c.id && r.index < c.entries.length);
+		if (mine.length === 0) return c;
+		changed = true;
+		const entries = [...c.entries];
+		for (const { index, repair } of mine) entries[index] = { ...entries[index], ...repair };
+		return { ...c, entries };
+	});
+	return changed ? { ...doc, collections } : doc;
 }
 
 /** Most recently changed first (FR-001). */

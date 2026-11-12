@@ -1,0 +1,77 @@
+{
+	"id": "par-le-voile-dechire",
+	"title": "Par le voile déchiré",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "220"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans le lieu saint j'entre Seigneur,",
+				"Tout ébloui par ta splendeur ;",
+				"Je tremble un peu devant ta face,",
+				"Mais tu m'accueilles par ta grâce.",
+				"Je me décharge sur toi, Seigneur,",
+				"Caché en toi je n'ai plus peur ;",
+				"Je peux te voir le cœur en paix",
+				"Et libéré de mes péchés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te suis Jésus, Jésus,",
+				"Par le voile déchiré.",
+				"Je te suis Jésus, Jésus,",
+				"Par le voile déchiré."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je te contemple mon Rédempteur,",
+				"Tu me saisis par ta grandeur ;",
+				"Les yeux fixés sur toi, Sauveur,",
+				"Je veux t'ouvrir tout grand mon cœur.",
+				"Tu m'envahis de ta présence,",
+				"Tu me ravis par ton amour ;",
+				"Tu m'as donné ton innocence:",
+				"Reçois ma vie en retour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te suis Jésus, Jésus,",
+				"Par le voile déchiré.",
+				"Je te suis Jésus, Jésus,",
+				"Par le voile déchiré."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem220",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

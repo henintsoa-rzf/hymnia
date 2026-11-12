@@ -1,0 +1,77 @@
+{
+	"id": "nos-fugitives-annees",
+	"title": "Nos fugitives années",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "393"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nos fugitives années",
+				"Disparaissent sans retour,",
+				"Comme autant de fleurs fanées",
+				"Qui n'ont vécu qu'un seul jour.",
+				"Voyageur, hâte le pas :",
+				"Le temps presse et n'attend pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le vent d'heure en heure efface,",
+				"Comme en des sables mouvants,",
+				"Notre fugitive trace",
+				"Sur la terre des vivants.",
+				"Use de moments si courts :",
+				"Voyageur, marche toujours !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tout en poursuivant ta course,",
+				"Sans nul arrêt ici-bas,",
+				"Bois du moins à cette source",
+				"Que Jésus mit sous tes pas.",
+				"Marche, mais en espérant :",
+				"De Dieu le secours est grand."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Prends courage et marche encore ;",
+				"Le rendez-vous est ailleurs :",
+				"Déjà se lève l'aurore,",
+				"L'aurore des jours meilleurs.",
+				"La nuit touche à son déclin :",
+				"Voici l'éternel matin."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Psautier de Strasbourg",
+			"role": "music"
+		},
+		{
+			"name": "E. Buisson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg393",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,109 @@
+{
+	"id": "unissons-nos-coeurs-et-nos-voix",
+	"title": "Unissons nos cœurs et nos voix.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "171"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Unissons nos cœurs et nos voix",
+				"Pour célébrer le Roi des rois",
+				"Qui mourut pour nous sur la croix,",
+				"Victime expiatoire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni soit le jour du Seigneur,",
+				"Jour de triomphe et de bonheur !",
+				"Que partout monte en son honneur",
+				"Un hymne de victoire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il vit, Il est ressuscité !",
+				"Rayonnant d'immortalité !",
+				"Du sépulcre Il est remonté",
+				"Vers son trône de gloire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni soit le jour du Seigneur,",
+				"Jour de triomphe et de bonheur !",
+				"Que partout monte en son honneur",
+				"Un hymne de victoire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Du haut de son trône, Il sourit",
+				"Au pécheur qui pleure, contrit:",
+				"Et la clarté de son Esprit",
+				"Dissipe la nuit noire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni soit le jour du Seigneur,",
+				"Jour de triomphe et de bonheur !",
+				"Que partout monte en son honneur",
+				"Un hymne de victoire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ah ! que nos regards, en ce jour,",
+				"Le cherchent au divin séjour !",
+				"C'est là qu'Il attend, plein d'amour,",
+				"Quiconque en Lui veut croire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni soit le jour du Seigneur,",
+				"Jour de triomphe et de bonheur !",
+				"Que partout monte en son honneur",
+				"Un hymne de victoire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edward Burnett",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af171",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

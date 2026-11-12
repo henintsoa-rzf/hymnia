@@ -1,0 +1,77 @@
+{
+	"id": "qu-as-tu-donne-pour-moi",
+	"title": "Qu’as-tu donné pour moi ?",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "181"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour toi pauvre pécheur,",
+				"Là-haut sur le Calvaire,",
+				"Moi l’homme de douleur,",
+				"J’ai bu la coupe amère.",
+				"Oui, j’ai versé mon sang pour toi,",
+				"Qu’as-tu donné pour moi ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’ai quitté de mon ciel,",
+				"La gloire sainte et pure,",
+				"Pour connaître le fiel,",
+				"Et subir les injures.",
+				"J’ai tout, oui tout quitté pour toi,",
+				"Qu’as-tu laissé pour moi ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui sur l’infâme bois,",
+				"J’ai connu l’agonie,",
+				"Pour t’offrir si tu crois,",
+				"Le salut et la vie !",
+				"Que n’ai-je pas subi pour toi,",
+				"Qu’as-tu souffert pour moi ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! reçois donc, enfin,",
+				"Ma richesse éternelle,",
+				"Pour que de ton destin,",
+				"Le cours se renouvelle !",
+				"Oui tous ces trésors sont pour toi !",
+				"N’as-tu donc rien pour moi ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "P.P. Bliss",
+			"role": "unspecified"
+		},
+		{
+			"name": "H. ARNERA",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1012",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

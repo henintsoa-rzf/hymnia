@@ -1,0 +1,43 @@
+{
+	"id": "toujours-content",
+	"title": "Toujours content",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "151"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toujours content,",
+				"Par la pluie ou par le beau temps,",
+				"Quand c'est facile ou difficile,",
+				"Sachons être contents ;",
+				"Un chant joyeux,",
+				"Rend gai ce qui est ennuyeux,",
+				"Soyons comme dit l'Évangile",
+				"Contents et joyeux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem151",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

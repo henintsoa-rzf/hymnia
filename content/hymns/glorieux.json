@@ -1,0 +1,110 @@
+{
+	"id": "glorieux",
+	"title": "Glorieux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1025"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Considère le mystère, vois, la croix est vide,",
+				"Vois le Ressuscité, victorieux et fort.",
+				"Aucun ne le surpasse, nul n'est si puissant.",
+				"Le Sauveur a vaincu le pouvoir de la mort."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorieux, mes yeux ont vu",
+				"la gloire du Dieu puissant.",
+				"Glorieux, il est plus grand",
+				"que tous les rois du monde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Considère le mystère, vois le Dieu vivant,",
+				"Vois le Ressuscité, il règne sur mon cœur.",
+				"Aucun ne le surpasse, nul n'est son égal.",
+				"L'espoir de son retour remplit tout l'univers."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorieux, mes yeux ont vu",
+				"la gloire du Dieu puissant.",
+				"Glorieux, il est plus grand",
+				"que tous les rois du monde."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Glorieux, glorieux, Dieu, tu es glorieux."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! tu es glorieux.",
+				"Oh ! oh ! tu es glorieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorieux, mes yeux ont vu",
+				"la gloire du Dieu puissant.",
+				"Glorieux, il est plus grand",
+				"que tous les rois du monde."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Glorieux, glorieux, Dieu, tu es glorieux."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! tu es glorieux.",
+				"Oh ! oh ! tu es glorieux.",
+				"Oh ! oh ! tu es glorieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Baloche et Brenton Brown",
+			"role": "music"
+		},
+		{
+			"name": "Paul Baloche et Brenton Brown",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1025",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

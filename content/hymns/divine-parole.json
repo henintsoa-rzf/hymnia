@@ -1,0 +1,121 @@
+{
+	"id": "divine-parole",
+	"title": "Divine parole",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "180"
+		},
+		{
+			"hymnal": "adf",
+			"number": "147"
+		},
+		{
+			"hymnal": "cd",
+			"number": "135"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Divine Parole",
+				"Qui soutiens ma foi,",
+				"Ta clarté console,",
+				"Viens briller en moi.",
+				"Lorsqu'un voile sombre",
+				"S'étend sur mon cœur,",
+				"Tu dissipes l'ombre,",
+				"D'un rayon vainqueur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Divine Parole",
+				"Qui soutiens ma foi,",
+				"Ta clarté console,",
+				"Viens briller en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Message si tendre",
+				"Du Sauveur en croix,",
+				"Qu'il est doux d'entendre",
+				"Ces mots : « Viens et crois ! »",
+				"Par son sacrifice,",
+				"Ineffable don,",
+				"Le Dieu de justice",
+				"Donne son pardon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Divine Parole",
+				"Qui soutiens ma foi,",
+				"Ta clarté console,",
+				"Viens briller en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ce triste monde",
+				"T'écoute en tout lieu,",
+				"O Bible, et réponde",
+				"À l'appel de Dieu !",
+				"Que toute âme humaine",
+				"Par toi trouve enfin,",
+				"En brisant sa chaîne,",
+				"Le bonheur sans fin !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Divine Parole",
+				"Qui soutiens ma foi,",
+				"Ta clarté console,",
+				"Viens briller en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Frances-Ridley Havergal",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Fisch",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg180",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af147",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/970",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

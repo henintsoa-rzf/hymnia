@@ -1,0 +1,97 @@
+{
+	"id": "il-me-gardera-he-will-hold-me-fast",
+	"title": "Il me gardera (He Will Hold Me Fast)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "711"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je crains d’abandonner,",
+				"Christ me gardera.",
+				"Quand Satan vient me tenter,",
+				"Il me gardera.",
+				"Sur ce chemin sans son aide,",
+				"Je ne tiendrais pas.",
+				"Mon amour est souvent tiède,",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me gardera,",
+				"Il me gardera.",
+				"Car mon Sauveur m’aime tant :",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les rachetés font sa joie,",
+				"Christ me gardera.",
+				"Nous sommes précieux pour le roi,",
+				"Il me gardera.",
+				"Mon âme est en sureté,",
+				"Sa promesse il tiendra.",
+				"Quel grand prix il a payé,",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il a souffert pour ma vie,",
+				"Christ me gardera.",
+				"Sa justice est accomplie,",
+				"Il me gardera.",
+				"Avec lui ressuscité,",
+				"Il me gardera.",
+				"Oui, enfin je le verrai,",
+				"Quand il reviendra."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ada Ruth Habershon",
+			"role": "lyrics"
+		},
+		{
+			"name": "Ada Ruth Habershon",
+			"role": "music"
+		},
+		{
+			"name": "Matthew Merker",
+			"role": "lyrics"
+		},
+		{
+			"name": "Matthew Merker",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "translation"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-11",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

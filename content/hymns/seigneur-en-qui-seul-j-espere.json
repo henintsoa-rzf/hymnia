@@ -1,0 +1,85 @@
+{
+	"id": "seigneur-en-qui-seul-j-espere",
+	"title": "Seigneur, en qui seul j’esPère",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "215"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, en qui seul j’espère,",
+				"Je m’abandonne à ta toi,",
+				"Et du sein de ma misère",
+				"J’élève mes mains vers toi.",
+				"Si ma prière hésitante",
+				"A perdu de sa ferveur,",
+				"Tu veux la rendre puissante",
+				"Par ton Esprit, mon Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ton coeur trop vide encore",
+				"De charité, de ferveur,",
+				"Du moins, ô Dieu que j’adore,",
+				"Tu comprendras ma douleur.",
+				"Bénis-la, bénis mes larmes,",
+				"Fais enfin naître à son tour,",
+				"Même au sein de mes alarmes,",
+				"L’allégresse de l’amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Heureux car, dans la souffrance,",
+				"J’ai rencontré le Seigneur.",
+				"La foi, l’amour, l’espérance",
+				"Viennent restaurer mon coeur,",
+				"Ce Dieu clément et fidèle",
+				"Par sa grâce me maintient,",
+				"Quand je faiblis et chancelle,",
+				"De sa main il me soutient."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pourrais-je m’abattre encore",
+				"Dans la douleur et l’effroi ?",
+				"Non ! Car le Dieu que j’implore",
+				"Sera toujours près de moi.",
+				"En lui seul je me confie",
+				"Jusqu’à la fin de mes jours,",
+				"Où, dans la sainte patrie,",
+				"Je l’exalterai toujours !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H.P. Main",
+			"role": "unspecified"
+		},
+		{
+			"name": "R. Peterson",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1048",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

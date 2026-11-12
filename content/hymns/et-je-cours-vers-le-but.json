@@ -1,0 +1,95 @@
+{
+	"id": "et-je-cours-vers-le-but",
+	"title": "Et je cours vers le but",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "667"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je cours vers le but",
+				"Fixé d'avance par mon Dieu.",
+				"Ça ne fait pas de doutes,",
+				"Ma couronne sera éternelle.",
+				"Et je cours vers le but",
+				"Fixé d'avance par mon Dieu.",
+				"Je resterai debout,",
+				"Jusqu'à remporter la victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ni à gauche ni à droite,",
+				"Mais droit devant,",
+				"Les yeux fixés sur Jésus",
+				"Dont ma foi dépend.",
+				"Les doutes, les échecs",
+				"Seront loin derrière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je cours vers le but",
+				"Fixé d'avance par mon Dieu.",
+				"Ça ne fait pas de doutes,",
+				"Ma couronne sera éternelle.",
+				"Et je cours vers le but",
+				"Fixé d'avance par mon Dieu.",
+				"Je resterai debout,",
+				"Jusqu'à remporter la victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mes pas seront affermis",
+				"Sur le sentier,",
+				"Car l'Éternel me prend la main",
+				"Et me dirige,",
+				"Un pas après l'autre,",
+				"Plus près de la victoire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je cours vers le but",
+				"Fixé d'avance par mon Dieu.",
+				"Ça ne fait pas de doutes,",
+				"Ma couronne sera éternelle.",
+				"Et je cours vers le but",
+				"Fixé d'avance par mon Dieu.",
+				"Je resterai debout,",
+				"Jusqu'à remporter la victoire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel Pitarella",
+			"role": "music"
+		},
+		{
+			"name": "Daniel Pitarella",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem667",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

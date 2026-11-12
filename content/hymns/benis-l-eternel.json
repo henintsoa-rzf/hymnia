@@ -1,0 +1,73 @@
+{
+	"id": "benis-l-eternel",
+	"title": "Bénis l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "383"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bénis l'Éternel mon âme,",
+				"Bénis l'Éternel mon âme,",
+				"Sois émerveillée, sa fidélité",
+				"Ne dépendra pas des circonstances.",
+				"Bénis l'Éternel mon âme,",
+				"Bénis l'Éternel mon âme,",
+				"Écoute sa voix, il dit que ta foi",
+				"Déplacera toutes les montagnes.",
+				"Bénis l'Éternel, ô mon âme."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand tout s'effondre, sombre,",
+				"Je sais que tu es là;",
+				"Et que m'importe si les portes",
+				"Se ferment sur mes pas.",
+				"Je suis en marche sous l'arche",
+				"De ton amour pour moi,",
+				"Jésus, tu es Roi",
+				"Et j'avance à ta suite."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bénis l'Éternel mon âme,",
+				"Bénis l'Éternel mon âme,",
+				"Sois émerveillée, sa fidélité",
+				"Ne dépendra pas des circonstances.",
+				"Bénis l'Éternel mon âme,",
+				"Bénis l'Éternel mon âme,",
+				"Écoute sa voix, il dit que ta foi",
+				"Déplacera toutes les montagnes.",
+				"Bénis l'Éternel, ô mon âme."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem383",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

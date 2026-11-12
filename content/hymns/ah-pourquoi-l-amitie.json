@@ -1,0 +1,123 @@
+{
+	"id": "ah-pourquoi-l-amitie",
+	"title": "Ah ! pourquoi l'amitié.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "442"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ah ! pourquoi l'amitié gémirait-elle encore",
+				"Sur ceux qui dans l'exil comme nous dispersés,",
+				"D'un jour consolateur ont vu briller l'aurore",
+				"Et que vers Canaan Dieu lui-même a poussés ?",
+				"Affranchis avant nous du mal qui nous dévore,",
+				"Ils ne sont pas perdus, ils nous ont devancés.",
+				"Ils ne sont pas perdus, ils nous ont devancés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! combien ici-bas pesait à leur faiblesse",
+				"Ce fardeau de chagrins, sur leur tête amassés !",
+				"Et que leur pauvre cœur",
+				"comptait avec tristesse",
+				"Tant d'heures, tant de jours",
+				"dans la douleur passés !",
+				"Nouveau-nés de la tombe, et parés de jeunesse,",
+				"Ils ne sont pas perdus, ils nous ont devancés.",
+				"Ils ne sont pas perdus, ils nous ont devancés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'il est doux, dans les cieux,",
+				"le réveil des fidèles !",
+				"Qu'avec ravissement, autour de Dieu pressés,",
+				"Ils unissent au son des harpes immortelles",
+				"Les hymnes de l'amour ici-bas commencés !",
+				"Amis, joignons nos voix",
+				"à leurs voix fraternelles :",
+				"Ils ne sont pas perdus, ils nous ont devancés.",
+				"Ils ne sont pas perdus, ils nous ont devancés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le péché ni la mort",
+				"ne sauraient les atteindre",
+				"Dans la haute retraite où Dieu les a placés ;",
+				"Leur tranquille regard contemple,",
+				"sans les craindre,",
+				"Sous les pas des humains",
+				"tant de pièges dressés.",
+				"Leur bonheur est au comble,",
+				"et nous pourrions les plaindre !",
+				"Ils ne sont pas perdus, ils nous ont devancés.",
+				"Ils ne sont pas perdus, ils nous ont devancés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Puisse la même foi qui consola leur vie,",
+				"Nous ouvrir les sentiers",
+				"que leur pas ont pressés,",
+				"Et, dirigeant nos pas vers la sainte patrie",
+				"Où leur bonheur s'accroît",
+				"de leurs travaux passés,",
+				"Nous rendre ces objets de tendresse et d'envie,",
+				"Qui ne sont pas perdus,",
+				"mais nous ont devancés.",
+				"Qui ne sont pas perdus,",
+				"mais nous ont devancés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Quand le bruit de tes flots,",
+				"l'aspect de ton rivage,",
+				"O Jourdain ! nous diront :",
+				"« Vos travaux ont cessé »,",
+				"Au pays du salut, conquis par son courage,",
+				"Jésus nous recevra, triomphants et lassés,",
+				"Près de ces compagnons d'exil et d'héritage,",
+				"Qui ne sont pas perdus,",
+				"mais nous ont devancés !",
+				"Qui ne sont pas perdus,",
+				"mais nous ont devancés !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "Alexandre Vinet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af442",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

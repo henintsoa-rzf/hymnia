@@ -1,0 +1,120 @@
+{
+	"id": "roi-des-nations-jem-547",
+	"title": "Roi des nations",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "547"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez, adorons le Seigneur,",
+				"Jésus le Roi des nations.",
+				"Admirable, magnifique,",
+				"Il est juste et bon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Roi des nations,",
+				"Jésus, seul Seigneur.",
+				"Jésus, Roi des nations,",
+				"Seul Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre affection déborde,",
+				"Chants d'amour et de louange,",
+				"Toutes races, toutes langues,",
+				"L'univers t'acclame."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Roi des nations,",
+				"Jésus, seul Seigneur.",
+				"Jésus, Roi des nations,",
+				"Seul Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est le tribut des nations ;",
+				"Venez tous d'un cœur joyeux.",
+				"Une seule clameur s'élève,",
+				"Une seule bannière"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Roi des nations,",
+				"Jésus, seul Seigneur.",
+				"Jésus, Roi des nations,",
+				"Seul Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur, remplis ton temple,",
+				"Glorifie ta demeure.",
+				"Que les nations cherchent ta face.",
+				"Qu'elles voient ta splendeur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Roi des nations,",
+				"Jésus, seul Seigneur.",
+				"Jésus, Roi des nations,",
+				"Seul Seigneur !",
+				"Seul Seigneur !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Craignez le Roi de gloire,",
+				"Il revient pour nous juger.",
+				"Créateur Dieu tout-puissant.",
+				"Venez l'adorer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem547",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

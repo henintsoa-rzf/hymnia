@@ -1,0 +1,105 @@
+{
+	"id": "o-tendresse-infinie",
+	"title": "O tendresse infinie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "56"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O tendresse infinie,",
+				"amour mystérieux,",
+				"Plus profond que la mer,",
+				"plus vaste que les cieux !",
+				"Amour du Fils de Dieu,",
+				"qui mourut pour le monde !",
+				"Possède tout mon être,",
+				"et que ta paix l'inonde,",
+				"Possède tout mon être,",
+				"amour victorieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Assez de vains regrets,",
+				"de soupirs, de sanglots !",
+				"Que ton sang rédempteur",
+				"me couvre de ses flots,",
+				"Agneau qui t'es offert",
+				"pour le salut du monde !",
+				"Lave mon âme impure,",
+				"et que ta paix l'inonde,",
+				"Qu'en ton amour je puise",
+				"enfin le vrai repos !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Océan de la Grâce,",
+				"à genoux sur tes bords,",
+				"Je t'apporte mon cœur",
+				"accablé de remords !",
+				"Où le mal abonda,",
+				"la Grâce surabonde.",
+				"Viens donc, sainte marée,",
+				"emporter dans ton onde",
+				"Le péché qui perd l'âme,",
+				"et qui souille le corps !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ah ! ce flot me soulève",
+				"et s'empare de moi !",
+				"Amour, amour divin,",
+				"je m'abandonne à Toi !",
+				"Je disparais, je meurs,",
+				"je renais dans cette onde…",
+				"Et c'est une autre vie,",
+				"et c'est un autre monde,",
+				"Le monde où la victoire",
+				"est donnée à la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Alléluia ! Je veux",
+				"Te servir nuit et jour,",
+				"T'adorer, Te bénir,",
+				"attendre ton retour,",
+				"O Christ qui pris sur Toi",
+				"tous les péchés du monde !",
+				"Ah ! que l'on reconnaisse,",
+				"au bonheur qui m'inonde,",
+				"La vertu souveraine,",
+				"ô Christ, de ton amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ruben Saillens ; imité de Général William Booth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af056",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

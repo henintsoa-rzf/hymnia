@@ -51,6 +51,20 @@ describe('hymnal + number (FR-002, FR-004, US1)', () => {
 		expect(response.results.every((r) => r.tier !== 1)).toBe(true);
 	});
 
+	it('still recognises a hymnal with no published hymn yet', async () => {
+		const { catalog, indexJson } = await loadSample();
+		catalog.hymnals.push({
+			id: 'jem',
+			name: 'J’aime l’Éternel',
+			abbreviations: ['JEM'],
+			sortOrder: 9,
+			hymnCount: 0
+		});
+		const response = createEngine(catalog, indexJson).search({ query: 'JEM 245' });
+		expect(response.kind).toBe('hymnal-number');
+		expect(response.notFound).toEqual({ hymnal: 'jem', number: '245' });
+	});
+
 	it('lists the other hymns with the same number, apart from the exact one', () => {
 		const response = engine.search({ query: 'CE 7' });
 		expect(response.results.map((r) => r.hymnId)).toEqual(['quel-ami-fidele-et-tendre']);
@@ -65,10 +79,11 @@ describe('hymnal + number (FR-002, FR-004, US1)', () => {
 	});
 
 	it('names an unknown hymnal when nothing else matches', () => {
-		const response = engine.search({ query: 'JEM 245' });
+		// "XYZ" is not a hymnal in any collection.
+		const response = engine.search({ query: 'XYZ 245' });
 		expect(response.kind).toBe('text');
 		expect(response.results).toEqual([]);
-		expect(response.unknownHymnal).toBe('JEM');
+		expect(response.unknownHymnal).toBe('XYZ');
 	});
 
 	it('does not report an unknown hymnal when the text search finds something', () => {

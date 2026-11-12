@@ -1,0 +1,88 @@
+{
+	"id": "leve-les-yeux-vers-christ",
+	"title": "Lève les yeux vers Christ",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "333"
+		},
+		{
+			"hymnal": "adf",
+			"number": "383"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lève les yeux vers Christ,",
+				"Toi qu'assaille l'orage !",
+				"Il peut par son regard ranimer ton courage.",
+				"La mer est menaçante et faible est ton esquif.",
+				"Mais regarde à Jésus et ne sois plus craintif."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lève les yeux vers Christ !",
+				"Sur les flots Il s'avance,",
+				"Du geste et de la voix leur imposant silence.",
+				"L'harmonie et la paix accompagnent Jésus ;",
+				"Lève les yeux vers lui,",
+				"frère, et ne tremble plus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Lève les yeux vers Christ !",
+				"Qu'à lui ton cri s'adresse.",
+				"Nul ne peut comme lui",
+				"sauver l'âme en détresse,",
+				"D'un seul mot mettre un frein",
+				"à la fureur des vents,",
+				"Et guider ta nacelle",
+				"au sein des flots mouvants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! regarde à Jésus",
+				"Durant ta vie entière ;",
+				"Sur lui fixe les yeux à ton heure dernière.",
+				"Sa clarté chassera les ombres de la mort,",
+				"Et tout sera paisible et tu verras le port."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie hébraïque",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg333",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af383",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

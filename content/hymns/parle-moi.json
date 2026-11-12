@@ -1,0 +1,39 @@
+{
+	"id": "parle-moi",
+	"title": "Parle-moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "169"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Parle-moi, parle-moi:",
+				"C'est là ma prière.",
+				"Je t'écoute, ô Père,",
+				"Prêt à t'obéir, prêt à t'obéir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "E. P. Grahame",
+			"role": "music"
+		},
+		{
+			"name": "E. P. Grahame",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem169",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

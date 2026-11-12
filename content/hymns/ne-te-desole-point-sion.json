@@ -1,0 +1,85 @@
+{
+	"id": "ne-te-desole-point-sion",
+	"title": "Ne te désole point, Sion",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "334"
+		},
+		{
+			"hymnal": "adf",
+			"number": "390"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ne te désole point, Sion, sèche tes larmes :",
+				"L'Éternel est ton Dieu, ne sois plus en alarmes ;",
+				"Il te reste un repos dans la terre de paix ;",
+				"Le Seigneur te ramène et te garde à jamais !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un jour, un jour viendra",
+				"que tes gardes fidèles,",
+				"Sur les monts d'Ephraïm",
+				"s'écrieront : ô rebelles,",
+				"Retournez en Sion ! L'Éternel, votre Dieu",
+				"Vous rappelle ; venez,",
+				"et montons au saint lieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Relève ton courage, ô Sion désolée !",
+				"Par le Dieu tout-puissant, tu seras consolée ;",
+				"Il vient pour rassembler",
+				"tes enfants bienheureux,",
+				"Bientôt tu les verras, réunis sous tes yeux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Les peuples connaîtront",
+				"que l'Éternel lui-même",
+				"A délivré Jacob par son pouvoir suprême.",
+				"Oui, Sion, ton Dieu règne, et tous tes ennemis",
+				"Dans peu de jours seront confondus et soumis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean Crüger",
+			"role": "music"
+		},
+		{
+			"name": "Félix Neff",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg334",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af390",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

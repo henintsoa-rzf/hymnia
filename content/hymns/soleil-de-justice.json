@@ -1,0 +1,105 @@
+{
+	"id": "soleil-de-justice",
+	"title": "Soleil de justice",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "208"
+		},
+		{
+			"hymnal": "adf",
+			"number": "348"
+		},
+		{
+			"hymnal": "cd",
+			"number": "65"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Soleil de justice,",
+				"Jésus, bon Sauveur !",
+				"Sois à tous propice,",
+				"Sauve le pécheur !",
+				"Que ta connaissance",
+				"Couvre l'univers,",
+				"Comme l'onde immense",
+				"L'abîme des mers !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous voyons l'aurore",
+				"Éclairer les cieux,",
+				"Mais la nuit encore",
+				"Règne en bien des lieux.",
+				"Céleste lumière",
+				"De la vérité,",
+				"Sur toute la terre",
+				"Répands ta clarté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jour de délivrance",
+				"Longtemps attendu,",
+				"Jour où la souffrance",
+				"Aura disparu,",
+				"O jour salutaire",
+				"Où Dieu règnera,",
+				"Notre âme t'espère,",
+				"Notre œil te verra !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La terre soupire,",
+				"Seigneur, après toi,",
+				"Elle te désire,",
+				"Saint et juste Roi.",
+				"À toi la victoire,",
+				"O Dieu de bonté !",
+				"À toi seul la gloire",
+				"Pour l'éternité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr. William Croft",
+			"role": "music"
+		},
+		{
+			"name": "Psautier morave",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg208",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af348",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/873",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

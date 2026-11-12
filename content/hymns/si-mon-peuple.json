@@ -1,0 +1,42 @@
+{
+	"id": "si-mon-peuple",
+	"title": "Si mon peuple…",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "216"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si mon peuple sur qui est invoqué mon nom",
+				"S'humilie, prie et me cherche ;",
+				"Si mon peuple, sur qui est invoqué mon nom",
+				"Se détourne de ses mauvaises voies,",
+				"Je l'exaucerai des cieux,",
+				"J'effacerai son péché",
+				"Et son pays je guérirai."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem216",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

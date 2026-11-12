@@ -1,0 +1,107 @@
+{
+	"id": "saint-des-saints",
+	"title": "Saint des saints.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "192"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Saint des saints,",
+				"tout mon cœur veut s'élever à Toi,",
+				"Veut s'élever à Toi ;",
+				"Tu me dis de chercher le regard de ta face ;",
+				"Fais-moi sentir ta puissante efficace :",
+				"Esprit de Dieu, viens soutenir ma foi,",
+				"Esprit de Dieu, viens soutenir ma foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Éternel, ton amour te fit mon Créateur,",
+				"Te fit mon Créateur ;",
+				"L'univers tout entier,",
+				"Seigneur est ton ouvrage ;",
+				"Mais tu formas notre âme à ton image,",
+				"Et pour t'aimer tu nous donnas un cœur.",
+				"Et pour t'aimer tu nous donnas un cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta bonté m'accueillit",
+				"au matin de mes jours,",
+				"Au matin de mes jours ;",
+				"Tu veillas au berceau de ma fragile vie ;",
+				"Par ta faveur ma route fut choisie,",
+				"Mille bienfaits en marquèrent le cours.",
+				"Mille bienfaits en marquèrent le cours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais bientôt j'oubliai,",
+				"Seigneur, ce tendre soin ;",
+				"Seigneur, ce tendre soin ;",
+				"Trop souvent en mon cœur",
+				"je méconnus ta grâce.",
+				"Que de mépris, que d'orgueil et d'audace,",
+				"Que de détours dont tu fus le témoin !",
+				"Que de détours dont tu fus le témoin !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Devant Toi je rougis et demeure confus ;",
+				"Et demeure confus ;",
+				"Mais, Seigneur, ta pitié relève ma misère.",
+				"N'as-tu pas mis entre elle et ta colère",
+				"L'amour, la croix et le sang de Jésus ?",
+				"L'amour, la croix et le sang de Jésus ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Oui, Seigneur, tu m'entends,",
+				"tu m'ôtes ma douleur ;",
+				"Tu m'ôtes ma douleur ;",
+				"Je me sens ton enfant ; mon Père je t'appelle.",
+				"De ton secours la promesse est fidèle ;",
+				"Béni sois-tu ! Ta paix rentre en mon cœur.",
+				"Béni sois-tu ! Ta paix rentre en mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af192",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

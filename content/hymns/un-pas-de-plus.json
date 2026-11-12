@@ -1,0 +1,59 @@
+{
+	"id": "un-pas-de-plus",
+	"title": "Un pas de plus",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "115"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu as réalisé qu’il est mort pour toi,",
+				"Qu’il a donné sa vie entière pour t’appeler;",
+				"Tu lui as confessé tes péchés passés,",
+				"Et lui, il a voulu remplir tout ton coeur de sa joie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En retour ne veux-tu pas l’aimer, tout lui donner,",
+				"Lui offrir ton coeur et le laisser régner ?",
+				"Alors tu verras sa lumière et sa joie inonder",
+				"Ta vie de liberté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Maintenant laisse Dieu pénétrer ton univers,",
+				"Abandonne ce qui t’éloigne de lui :",
+				"Crainte ou égoïsme, envie ou jalousie;",
+				"Purifie ton coeur pour l’aimer mieux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Jaccard",
+			"role": "lyrics"
+		},
+		{
+			"name": "Sylvain Jaccard",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-15",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,120 @@
+{
+	"id": "dans-les-jours-ou-tout-est-joie",
+	"title": "Dans les jours où tout est joie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "277"
+		},
+		{
+			"hymnal": "adf",
+			"number": "605"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans les jours où tout est joie,",
+				"Lumière et félicité,",
+				"Quand les fleurs, sur notre voie,",
+				"S'ouvrent au soleil d'été,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu peut-il compter sur nous ?",
+				"Dieu peut-il compter sur nous ?",
+				"Le pourra-t-il jusqu'au bout ?",
+				"Dieu peut-il compter sur nous ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et si l'obstacle se dresse,",
+				"Effrayant, sur le chemin,",
+				"Si notre cœur en détresse",
+				"N'ose penser à demain,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu peut-il compter sur nous ?",
+				"Dieu peut-il compter sur nous ?",
+				"Le pourra-t-il jusqu'au bout ?",
+				"Dieu peut-il compter sur nous ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand Dieu cherche sur la terre",
+				"Un fidèle intercesseur,",
+				"S'adonnant à la prière",
+				"Pour un monde si pécheur,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu peut-il compter sur nous ?",
+				"Dieu peut-il compter sur nous ?",
+				"Le pourra-t-il jusqu'au bout ?",
+				"Dieu peut-il compter sur nous ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Par son Esprit, par sa grâce,",
+				"Dieu pourra compter sur moi.",
+				"Je le suivrai, quoi qu'il fasse,",
+				"Sur le chemin de la foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, tu peux compter sur moi,",
+				"Car je peux compter sur toi.",
+				"Je te suivrai par la foi…",
+				"Oui, tu peux compter sur moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mme E. Tissot-Robert",
+			"role": "music"
+		},
+		{
+			"name": "Mme E. Tissot-Robert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg277",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af605",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

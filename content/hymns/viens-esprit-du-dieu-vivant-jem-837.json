@@ -1,0 +1,49 @@
+{
+	"id": "viens-esprit-du-dieu-vivant-jem-837",
+	"title": "Viens, Esprit du Dieu vivant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "837"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, Esprit du Dieu vivant,",
+				"Baptise-nous tout à nouveau.",
+				"Viens et répands sur nos vies",
+				"La rosée fraîche de l'Esprit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens, viens, ondée de Dieu,",
+				"Visite-nous en ce lieu.",
+				"Viens, viens, Esprit du Dieu vivant,",
+				"Souffle sur nous maintenant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem837",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,124 @@
+{
+	"id": "devant-toi-seigneur",
+	"title": "Devant toi, Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "259"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Devant toi, Seigneur,",
+				"Je répands mon âme.",
+				"Devant toi, Seigneur,",
+				"Je répands mon âme."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O mon Dieu, je suis à toi,",
+				"Je me confie en toi,",
+				"Conduis-moi dans la voie de la vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Souviens-toi de moi,",
+				"Car en toi j'espère",
+				"Souviens-toi de moi,",
+				"Car en toi j'espère"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O mon Dieu, je suis à toi,",
+				"Je me confie en toi,",
+				"Conduis-moi dans la voie de la vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Montre-moi la voie,",
+				"Le chemin à suivre",
+				"Montre-moi la voie,",
+				"Le chemin à suivre"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O mon Dieu, je suis à toi,",
+				"Je me confie en toi,",
+				"Conduis-moi dans la voie de la vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"L'Éternel est droit,",
+				"Il est bon et juste",
+				"L'Éternel est droit,",
+				"Il est bon et juste"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O mon Dieu, je suis à toi,",
+				"Je me confie en toi,",
+				"Conduis-moi dans la voie de la vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"L'amitié de Dieu,",
+				"Est pour ceux qui l'aiment",
+				"L'amitié de Dieu,",
+				"Est pour ceux qui l'aiment"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O mon Dieu, je suis à toi,",
+				"Je me confie en toi,",
+				"Conduis-moi dans la voie de la vérité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles F. Monroe",
+			"role": "music"
+		},
+		{
+			"name": "Charles F. Monroe",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem259",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

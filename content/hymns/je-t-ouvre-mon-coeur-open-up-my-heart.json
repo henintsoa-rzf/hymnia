@@ -1,0 +1,43 @@
+{
+	"id": "je-t-ouvre-mon-coeur-open-up-my-heart",
+	"title": "Je t’ouvre mon cœur (Open Up My Heart)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "310"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je t’ouvre mon coeur, Seigneur, fais-le brûler par ton Esprit;",
+				"Pénètre jusqu’au fond de moi, au fond de mon être.",
+				"Reçois ma vie, mon désir est de te servir.",
+				"A ton appel je réponds : «Oui», je ne recule pas."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tore W. Aas",
+			"role": "lyrics"
+		},
+		{
+			"name": "Tore W. Aas",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-10",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

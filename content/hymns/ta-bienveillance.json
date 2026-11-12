@@ -1,0 +1,85 @@
+{
+	"id": "ta-bienveillance",
+	"title": "Ta bienveillance",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "595"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'écouterai ce que dit Dieu,",
+				"Car il est droit pour qui l'écoute.",
+				"Sa paix divine est sur tous ceux qui vont à lui,",
+				"Quand vient le doute,",
+				"Fidèlement je veux le suivre.",
+				"Je veux marcher dans ses sentiers.",
+				"Il est la main qui me délivre",
+				"De la folie de mes projets."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta bienveillance, ô Éternel,",
+				"Vaut mieux que tout ce que j'ai vu.",
+				"Ma délivrance est sous ton aile,",
+				"Sur le rocher de ton salut.",
+				"Ta bienveillance, ô Éternel,",
+				"Vaut mieux que tout ce que j'ai vu.",
+				"Ma délivrance est sous ton aile,",
+				"Sur le rocher de ton salut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sa gloire est proche, son règne vient",
+				"Et le pays est apaisé.",
+				"Lorsque la crainte est en chacun,",
+				"Lorsque son nom est exalté,",
+				"Marchons en paix suivant son pas,",
+				"En justice et en vérité.",
+				"Recevons tout ce qu'il voudra,",
+				"Ce que sa main veut nous donner."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta bienveillance, ô Éternel,",
+				"Vaut mieux que tout ce que j'ai vu.",
+				"Ma délivrance est sous ton aile,",
+				"Sur le rocher de ton salut.",
+				"Ta bienveillance, ô Éternel,",
+				"Vaut mieux que tout ce que j'ai vu.",
+				"Ma délivrance est sous ton aile,",
+				"Sur le rocher de ton salut."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem595",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

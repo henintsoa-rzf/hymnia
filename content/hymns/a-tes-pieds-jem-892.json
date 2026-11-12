@@ -1,0 +1,41 @@
+{
+	"id": "a-tes-pieds-jem-892",
+	"title": "À tes pieds",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "892"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À tes pieds, je suis à ma place.",
+				"Devant toi, mon roi, face à face,",
+				"Je désire t'adorer maintenant,",
+				"T'offrir mon amour simplement.",
+				"Tu es mon Seigneur et mon Dieu,",
+				"Tu es mon Sauveur glorieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond ; Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond ; Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem892",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

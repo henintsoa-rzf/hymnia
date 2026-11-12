@@ -1,0 +1,79 @@
+{
+	"id": "toi-leve-toi",
+	"title": "Toi, lève-toi !",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "335"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi, lève-toi et va au nom du Christ",
+				"Porter l'amour de Dieu au monde.",
+				"Toi, lève-toi et va au nom du Christ",
+				"Porter l'amour de Dieu au monde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment les hommes croiront-ils",
+				"Ce qu'ils n'ont pas connu,",
+				"Comment les nations de la terre",
+				"Serviront-elles Jésus ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi, lève-toi et va au nom du Christ",
+				"Porter l'amour de Dieu au monde.",
+				"Toi, lève-toi et va au nom du Christ",
+				"Porter l'amour de Dieu au monde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Comment les pauvres, les démunis",
+				"Seront-ils rassasiés,",
+				"Les prisonniers, les réfugiés",
+				"seront-ils consolés ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi, lève-toi et va au nom du Christ",
+				"Porter l'amour de Dieu au monde.",
+				"Toi, lève-toi et va au nom du Christ",
+				"Porter l'amour de Dieu au monde."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem335",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

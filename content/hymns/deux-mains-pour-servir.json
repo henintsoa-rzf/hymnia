@@ -1,0 +1,120 @@
+{
+	"id": "deux-mains-pour-servir",
+	"title": "Deux mains pour servir",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "286"
+		},
+		{
+			"hymnal": "adf",
+			"number": "479"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Deux mains pour servir le Maître,",
+				"Deux pieds pour aller partout",
+				"Dire à tous : nous voulons être",
+				"Au bon Sauveur humble et doux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, prends toute ma vie,",
+				"Mon cœur et ma volonté ;",
+				"Que jamais je ne t'oublie,",
+				"Dieu de grâce et de bonté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Deux oreilles pour entendre",
+				"Le vrai message du ciel ;",
+				"La mémoire pour apprendre",
+				"Les leçons de l'Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, prends toute ma vie,",
+				"Mon cœur et ma volonté ;",
+				"Que jamais je ne t'oublie,",
+				"Dieu de grâce et de bonté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Deux yeux pour lire le Livre",
+				"Qu'il faut aimer toujours plus ;",
+				"C'est le pain qui nous fait vivre,",
+				"Qui nous rend forts en Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, prends toute ma vie,",
+				"Mon cœur et ma volonté ;",
+				"Que jamais je ne t'oublie,",
+				"Dieu de grâce et de bonté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Un cœur pour être le trône",
+				"Où doit régner le Seigneur ;",
+				"Une vie qui se donne",
+				"Tout entière au Créateur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, prends toute ma vie,",
+				"Mon cœur et ma volonté ;",
+				"Que jamais je ne t'oublie,",
+				"Dieu de grâce et de bonté !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Helen Howarth Lemmel",
+			"role": "music"
+		},
+		{
+			"name": "James Hunter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg286",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af479",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

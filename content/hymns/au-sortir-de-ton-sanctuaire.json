@@ -1,0 +1,84 @@
+{
+	"id": "au-sortir-de-ton-sanctuaire",
+	"title": "Au sortir de ton sanctuaire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "575"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au sortir de ton sanctuaire,",
+				"Dans la louange et la prière,",
+				"Nos cœurs s'élèvent jusqu'à toi,",
+				"Pour te bénir, ô notre Roi !",
+				"Pour te bénir, ô notre Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous voudrions rester encore",
+				"Sur les hauteurs où l'on adore,",
+				"Bien loin du mal et de l'erreur,",
+				"Bien loin d'un monde séducteur.",
+				"Bien loin d'un monde séducteur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur la terre il faut redescendre,",
+				"Avec courage il faut reprendre,",
+				"Humblement soumis à tes lois,",
+				"Et notre tâche et notre croix.",
+				"Et notre tâche et notre croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Affermis donc notre courage,",
+				"Et, jusqu'au terme du voyage,",
+				"Seigneur, dirige tous nos pas ;",
+				"Assiste-nous dans nos combats.",
+				"Assiste-nous dans nos combats."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Bientôt nous quitterons la terre ;",
+				"Alors, dans le vrai sanctuaire,",
+				"Sans que rien trouble notre paix,",
+				"Nous dirons ta gloire à jamais.",
+				"Nous dirons ta gloire à jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Wolfgang Amadeus Mozart",
+			"role": "music"
+		},
+		{
+			"name": "Eugène Bersier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af575",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

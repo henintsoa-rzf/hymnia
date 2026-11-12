@@ -1,0 +1,68 @@
+{
+	"id": "ne-crains-pas",
+	"title": "Ne crains pas",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "334"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ne crains pas, je t'ai racheté,",
+				"Je t'appelle par ton nom,",
+				"Tu m'appartiens,",
+				"Tu m'appartiens.",
+				"Ne crains pas, je t'ai racheté,",
+				"Je t'appelle par ton nom,",
+				"Tu m'appartiens,",
+				"Tu m'appartiens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand tu passeras par les eaux,",
+				"Quand tu seras dans le feu,",
+				"Je serai avec toi, tu ne seras pas atteint."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ne crains pas, je t'ai racheté,",
+				"Je t'appelle par ton nom,",
+				"Tu m'appartiens,",
+				"Tu m'appartiens.",
+				"Tu as du prix à mes yeux,",
+				"Mon amour te soutient.",
+				"Tu es à moi,",
+				"Et je t'aime,",
+				"Tu es à moi,",
+				"Et je t'aime."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem334",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

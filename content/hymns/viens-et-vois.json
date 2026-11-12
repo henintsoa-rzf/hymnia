@@ -1,0 +1,73 @@
+{
+	"id": "viens-et-vois",
+	"title": "Viens et vois",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "129"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens et vois : mettre mon Sauveur en croix !",
+				"Viens et vois : mettre mon Sauveur en croix !",
+				"Oh ! Comprends pourquoi parfois",
+				"je tremble, tremble, tremble.",
+				"Viens et vois : mettre mon Sauveur en croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens et vois : de leur lance, ils l'ont percé !",
+				"Viens et vois : de leur lance, ils l'ont percé !",
+				"Oh ! Comprends pourquoi parfois",
+				"je tremble, tremble, tremble.",
+				"Viens et vois : de leur lance, ils l'ont percé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens et vois : dans sa tombe, il est porté !",
+				"Viens et vois : dans sa tombe, il est porté !",
+				"Oh ! Comprends pourquoi parfois",
+				"je tremble, tremble, tremble.",
+				"Viens et vois : dans sa tombe, il est porté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens et vois : Jésus est ressuscité !",
+				"Viens et vois : Jésus est ressuscité !",
+				"Oh ! Comprends pourquoi parfois",
+				"je chante, chante, chante.",
+				"Viens et vois : Jésus est ressuscité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Negro-spiritual",
+			"role": "music"
+		},
+		{
+			"name": "Hector Arnéra",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg129",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,40 @@
+{
+	"id": "abba-pere",
+	"title": "Abba, Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "324"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Abba, Père, je veux être à toi seulement,",
+				"Et ma volonté soumettre à toi constamment.",
+				"Que mon cœur reste enflammé,",
+				"Près de toi je veux rester.",
+				"Abba, Père, je veux être à toi seulement."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Bilbrough",
+			"role": "music"
+		},
+		{
+			"name": "David Bilbrough",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem324",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

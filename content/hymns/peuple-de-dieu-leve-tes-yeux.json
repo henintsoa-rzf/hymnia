@@ -1,0 +1,71 @@
+{
+	"id": "peuple-de-dieu-leve-tes-yeux",
+	"title": "Peuple de Dieu, lève tes yeux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "543"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuple de Dieu lève les yeux,",
+				"Ton Roi s'avance",
+				"au milieu des cris de victoire.",
+				"Il a vaincu, la mort n'est plus.",
+				"Jésus est vivant, il est couronné de gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car le Seigneur Dieu règne à jamais ;",
+				"Le salut qu'il nous donne est parfait.",
+				"Réjouissons-nous soyons dans l'allégresse.",
+				"Nous voyons s'accomplir la promesse !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuple de Dieu lève les yeux,",
+				"Ton Roi s'avance",
+				"au milieu des cris de victoire.",
+				"Il a vaincu, la mort n'est plus.",
+				"Jésus est vivant, il est couronné de gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'étais mort et me voici vivant ;",
+				"J'ai anéanti l'œuvre de Satan.",
+				"Relevez vos têtes, avancez-vous vers moi.",
+				"Contemplez mon triomphe par la croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-François Bussy",
+			"role": "music"
+		},
+		{
+			"name": "Jean-François Bussy",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem543",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

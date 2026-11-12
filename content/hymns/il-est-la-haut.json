@@ -1,0 +1,68 @@
+{
+	"id": "il-est-la-haut",
+	"title": "Il est là-haut !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "441"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est là-haut !",
+				"Nous nous courbons, ô Père !",
+				"Car mieux que nous tu sais ce qu'il nous faut.",
+				"Le pèlerin a fini sa carrière,",
+				"Il n'est point là sous le marbre ou la pierre :",
+				"Il est là-haut,",
+				"Il est là-haut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est là-haut !",
+				"Car, soldat sous les armes,",
+				"Il a vaincu lors du dernier assaut !",
+				"Il est heureux, loin des maux, des alarmes ;",
+				"Et nous chantons, au travers de nos larmes :",
+				"Il est là-haut !",
+				"Il est là-haut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est là-haut !",
+				"Dans la sainte lumière,",
+				"Il resplendit, sans ombre, sans défaut.",
+				"Il nous attend dans les parvis du Père.",
+				"Oh ! quel revoir, lorsqu'on dira sur terre :",
+				"Ils sont là-haut !",
+				"Ils sont là-haut !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Franz Abt",
+			"role": "music"
+		},
+		{
+			"name": "R. Wennagel",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af441",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

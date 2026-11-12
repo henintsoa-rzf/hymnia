@@ -1,0 +1,79 @@
+{
+	"id": "veille-et-prie",
+	"title": "Veille et prie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "304"
+		},
+		{
+			"hymnal": "jem",
+			"number": "88"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Veille et prie et sois fervent,",
+				"Combats sans relâche,",
+				"Animé d'un zèle ardent",
+				"Pour ta sainte tâche !",
+				"Ne crains rien, Jésus vient,",
+				"Quand le mal menace,",
+				"T'armer de sa grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Veille et prie et sois aimant,",
+				"Marche à sa lumière,",
+				"Et poursuis fidèlement",
+				"Ta noble carrière.",
+				"Son amour, chaque jour,",
+				"Sera ta défense",
+				"Et ta récompense."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Veille et prie et, confiant,",
+				"Relève la tête.",
+				"Va, demande au Tout-puissant",
+				"Une paix parfaite.",
+				"Avec lui pour appui,",
+				"Sûre est la victoire.",
+				"À lui soit la gloire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Dresde",
+			"role": "music"
+		},
+		{
+			"name": "J. Siordet-Ruckert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg304",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem088",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

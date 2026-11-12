@@ -1,0 +1,89 @@
+{
+	"id": "pere-jem-811",
+	"title": "Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "811"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Père, être près de ton cœur,",
+				"c'est ce que je désire.",
+				"Voir ta gloire et ta splendeur,",
+				"c'est ma raison de vivre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Où aller, Seigneur ?",
+				"Où fuirai-je loin de toi ?",
+				"Père, montre-moi ta demeure,",
+				"je ne veux pas être ailleurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Père, être près de ton cœur,",
+				"c'est ce que je désire.",
+				"Voir ta gloire et ta splendeur,",
+				"c'est ma raison de vivre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Où aller, Seigneur ?",
+				"Où fuirai-je loin de toi ?",
+				"Père, montre-moi ta demeure,",
+				"je ne veux pas être ailleurs."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Père, Père,",
+				"Père, mon refuge, mon rocher,",
+				"Je crie vers toi. Viens, guéris-moi,",
+				"Inonde-moi de ta paix, de ta joie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Où aller, Seigneur ?",
+				"Où fuirai-je loin de toi ?",
+				"Père, montre-moi ta demeure,",
+				"je ne veux pas être ailleurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nicolas Ternisien",
+			"role": "music"
+		},
+		{
+			"name": "Nicolas Ternisien",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem811",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

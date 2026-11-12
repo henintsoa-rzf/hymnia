@@ -1,0 +1,93 @@
+{
+	"id": "oh-mystere-infini",
+	"title": "Oh ! mystère infini",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "464"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mystère de Jésus-Christ,",
+				"homme et Dieu réunis",
+				"En parfaite harmonie, Roi humble de cœur,",
+				"Seigneur d'éternité,",
+				"Dans notre humanité,",
+				"Suprême humilité,",
+				"S'abaisse et lave nos pieds."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh, mystère infini, homme et Dieu réunis !",
+				"Fléchis le genou, car Il est ton Dieu.",
+				"Il est ton Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Du Père le reflet, innocent et parfait,",
+				"Pourtant, il se soumet, jusqu'à la croix.",
+				"Pour nos péchés souffrant,",
+				"Victorieux par son sang,",
+				"Prie en agonisant:",
+				"O Père, pardonne-leur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh, mystère infini, homme et Dieu réunis !",
+				"Fléchis le genou, car Il est ton Dieu.",
+				"Il est ton Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! sagesse insondable, amour inaltérable,",
+				"Il naît dans une étable, il s'offre humblement.",
+				"Roi aux mille richesses,",
+				"Se penche avec tendresse,",
+				"Porte notre faiblesse",
+				"Jusqu'au trône de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh, mystère infini, homme et Dieu réunis !",
+				"Fléchis le genou, car Il est ton Dieu.",
+				"Il est ton Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem464",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

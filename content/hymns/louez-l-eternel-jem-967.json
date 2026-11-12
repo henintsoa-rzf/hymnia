@@ -1,0 +1,91 @@
+{
+	"id": "louez-l-eternel-jem-967",
+	"title": "Louez l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "967"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez l'Éternel, car il est bon.",
+				"Louez l'Éternel, car il est grand.",
+				"Louez l'Éternel, car il est bon.",
+				"Louez l'Éternel, car il est grand."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je m'écrie : « Loué soit l'Éternel ! »",
+				"Et je suis délivré de tous mes ennemis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez l'Éternel, car il est bon.",
+				"Louez l'Éternel, car il est grand.",
+				"Louez l'Éternel, car il est bon.",
+				"Louez l'Éternel, car il est grand."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je m'écrie : « Loué soit l'Éternel ! »",
+				"Et je suis délivré de tous mes ennemis."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Que tout ce qui respire loue l'Éternel.",
+				"Peuple de Sion, réclame la victoire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez l'Éternel, car il est bon.",
+				"Louez l'Éternel, car il est grand.",
+				"Louez l'Éternel, car il est bon.",
+				"Louez l'Éternel, car il est grand."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je m'écrie : « Loué soit l'Éternel ! »",
+				"Et je suis délivré de tous mes ennemis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc Dumont",
+			"role": "music"
+		},
+		{
+			"name": "Luc Dumont",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem967",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

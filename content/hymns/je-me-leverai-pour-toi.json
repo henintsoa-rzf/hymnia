@@ -1,0 +1,98 @@
+{
+	"id": "je-me-leverai-pour-toi",
+	"title": "Je me leverai pour toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1169"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je me lèverai pour toi, je serai tes mains, tes bras.",
+				"J’irai parler à mes frères, leur dire que tu es mon Roi.",
+				"J’irai bâtir sur la terre le Royaume de paix, de joie.",
+				"J’irai porter la lumière là où personne ne va pour toi,",
+				"Ne va pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans ce monde où les cris de nos frères",
+				"Sont perdus dans le bruit de nos guerres,",
+				"Tu m’as placé, tu m’as placé.",
+				"Dans ce monde où les cris de la terre",
+				"Sont perdus dans le bruit de nos affaires.",
+				"Qui osera se lever pour toi ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je me lèverai pour toi, je serai tes mains, tes bras.",
+				"J’irai parler à mes frères, leur dire que tu es mon Roi.",
+				"J’irai bâtir sur la terre le Royaume de paix, de joie.",
+				"J’irai porter la lumière là où personne ne va pour toi,",
+				"Ne va pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ce monde, où la bonté du Père",
+				"S’est perdue dans nos peines et nos carrières,",
+				"Tu m’as placé, tu m’as placé.",
+				"À la croix, pour moi, tu as souffert.",
+				"Je dépose mon péché au Calvaire.",
+				"Tu m’as sauvé ! Tu m’as libéré !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je me lèverai pour toi, je serai tes mains, tes bras.",
+				"J’irai parler à mes frères, leur dire que tu es mon Roi.",
+				"J’irai bâtir sur la terre le Royaume de paix, de joie.",
+				"J’irai porter la lumière là où personne ne va pour toi,",
+				"Ne va pour toi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ô Jésus, nous sommes ton peuple.",
+				"Nous voici pour te louer,",
+				"Pour agir en espérance dans ce monde.",
+				"En Jésus, nous sommes lumière.",
+				"Nous voici pour t’adorer,",
+				"Proclamer: «Le Royaume est là !»"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alexy Fleury",
+			"role": "music"
+		},
+		{
+			"name": "Karine Forêt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1169",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

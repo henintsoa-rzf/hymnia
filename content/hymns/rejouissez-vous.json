@@ -1,0 +1,35 @@
+{
+	"id": "rejouissez-vous",
+	"title": "Réjouissez-vous",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "179"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Réjouissez-vous toujours dans le Seigneur !",
+				"Réjouissez-vous toujours dans le Seigneur !",
+				"Réjouissez-vous toujours dans le Seigneur,",
+				"Je le répète : réjouissez-vous !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "P. VAN WOERDEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/946",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

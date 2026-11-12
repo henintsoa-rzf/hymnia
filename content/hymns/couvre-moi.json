@@ -1,0 +1,57 @@
+{
+	"id": "couvre-moi",
+	"title": "Couvre-moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "609"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme ton souffle planait sur les eaux",
+				"Aux premiers jours du monde,",
+				"Comme la puissance est venue sur Marie",
+				"Plus doux que la colombe,",
+				"Comme tu guérissais tous ceux",
+				"Que touchait l'ombre de Pierre,",
+				"Saint-Esprit, vois mon désir.",
+				"Saint-Esprit, vois mon désir.",
+				"Viens et couvre-moi,",
+				"Viens et couvre-moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais de l'ombre de tes ailes",
+				"Un manteau d'amour,",
+				"Viens et couvre-moi,",
+				"Que ton ombre soit ma sécurité, ma force,",
+				"Mon abri, ma joie.",
+				"Viens et couvre-moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham",
+			"role": "music"
+		},
+		{
+			"name": "David Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem609",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

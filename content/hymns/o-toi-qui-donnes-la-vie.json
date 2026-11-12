@@ -1,0 +1,76 @@
+{
+	"id": "o-toi-qui-donnes-la-vie",
+	"title": "O toi qui donnes la vie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "264"
+		},
+		{
+			"hymnal": "adf",
+			"number": "518"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O toi qui donnes la vie,",
+				"À tes pieds je veux m'asseoir,",
+				"Comme s'asseyait Marie",
+				"À l'heure douce du soir.",
+				"Comme s'asseyait Marie",
+				"À l'heure douce du soir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon être entier te réclame :",
+				"Tout n'est que faiblesse en moi ;",
+				"Viens te pencher sur mon âme,",
+				"Elle a tant besoin de toi !",
+				"Viens te pencher sur mon âme,",
+				"Elle a tant besoin de toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Maître, à tes pieds je m'incline,",
+				"Je t'appartiens sans retour,",
+				"Verse en moi ta paix divine,",
+				"Répands en moi ton amour !",
+				"Verse en moi ta paix divine,",
+				"Répands en moi ton amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J. Beer",
+			"role": "music"
+		},
+		{
+			"name": "Marcelle Perrenoud",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg264",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af518",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

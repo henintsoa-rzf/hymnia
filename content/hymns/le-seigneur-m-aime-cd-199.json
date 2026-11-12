@@ -1,0 +1,85 @@
+{
+	"id": "le-seigneur-m-aime-cd-199",
+	"title": "Le Seigneur m’aime",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "199"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur m’aime,",
+				"Bonheur suprême,",
+				"Le Seigneur m’aime,",
+				"Il est amour !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je redirai toujours :",
+				"Le Seigneur m’aime,",
+				"Le Seigneur m’aime,",
+				"Il est amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Portant ma peine,",
+				"Ma lourde chaîne,",
+				"Portant ma peine,",
+				"J’étais perdu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu, dans sa grâce",
+				"Prit à ma place,",
+				"Dieu dans sa grâce,",
+				"Prit son cher Fils."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le poids immense",
+				"De mon offense,",
+				"Le poids immense",
+				"Tomba sur lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Il purifie",
+				"Toute ma vie,",
+				"Il purifie",
+				"Avec son sang."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "G. GUILLOD",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1026",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

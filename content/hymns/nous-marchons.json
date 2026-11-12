@@ -1,0 +1,95 @@
+{
+	"id": "nous-marchons",
+	"title": "Nous marchons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "538"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous marchons pas à pas,",
+				"Nous marchons derrière le Roi",
+				"Nous marchons par la foi.",
+				"Nous suivons le Dieu très-haut,",
+				"Nous suivons son drapeau,",
+				"Nous suivons notre héros."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus,",
+				"C'est lui le Dieu tout-puissant.",
+				"Jésus, Jésus,",
+				"Seigneur, le Dieu vivant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous chantons d'un seul cœur",
+				"Nous chantons le Créateur",
+				"Nous chantons sa splendeur.",
+				"Nous crions: Dieu est bon !",
+				"Nous crions: Dieu est grand !",
+				"Nous crions à l'unisson."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus,",
+				"C'est lui le Dieu tout-puissant.",
+				"Jésus, Jésus,",
+				"Seigneur, le Dieu vivant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous courons pleins d'espoir,",
+				"Nous courons sous ton regard",
+				"Nous courons vers la victoire.",
+				"Nous dansons en ton honneur,",
+				"Nous dansons plein d'ardeur,",
+				"Nous dansons pour le Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus,",
+				"C'est lui le Dieu tout-puissant.",
+				"Jésus, Jésus,",
+				"Seigneur, le Dieu vivant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem538",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

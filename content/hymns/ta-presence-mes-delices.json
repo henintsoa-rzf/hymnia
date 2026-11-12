@@ -1,0 +1,62 @@
+{
+	"id": "ta-presence-mes-delices",
+	"title": "Ta présence, mes délices",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1060"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux faire de ta présence mes délices.",
+				"Je veux faire de ta présence mes délices,",
+				"Habiter dans ta maison,",
+				"Goûter combien tu es bon.",
+				"Je veux demeurer dans ta présence, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les bienfaits de ta maison me rassasient.",
+				"Les bienfaits de ta maison me rassasient,",
+				"Tu es ce dont j'ai besoin,",
+				"Tu es ma droite, mon soutien.",
+				"Je veux demeurer dans ta présence, Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car un jour dans tes parvis",
+				"Vaut mieux que mille ailleurs,",
+				"Vaut mieux que mille ailleurs.",
+				"Je soupire et je languis",
+				"Après ta présence, Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "music"
+		},
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1060",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

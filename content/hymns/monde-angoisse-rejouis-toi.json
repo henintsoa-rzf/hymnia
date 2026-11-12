@@ -1,0 +1,68 @@
+{
+	"id": "monde-angoisse-rejouis-toi",
+	"title": "Monde angoissé, réjouis-toi !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "141"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Monde angoissé, réjouis-toi,",
+				"Un Sauveur t'est donné.",
+				"Jésus revient du ciel,",
+				"Jésus, ton divin Roi,",
+				"De gloire couronné,",
+				"De gloire couronné,",
+				"De gloire, oui, de gloire couronné !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Peuple de Dieu, voici le jour",
+				"Où Jésus est vainqueur !",
+				"Avec tout l'univers,",
+				"Entonne un chant d'amour !",
+				"Exalte ton Sauveur,",
+				"Exalte ton Sauveur,",
+				"Exalte, oui, exalte ton Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! Saint bonheur ! Après la nuit,",
+				"Voici poindre le jour",
+				"Où le Christ va régner,",
+				"Où le ciel nous bénit !",
+				"La justice et l'amour,",
+				"La justice et l'amour,",
+				"En Jésus-Christ sont unis pour toujours !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frideric Haendel",
+			"role": "music"
+		},
+		{
+			"name": "Hector Arnéra",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg141",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

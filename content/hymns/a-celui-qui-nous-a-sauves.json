@@ -1,0 +1,64 @@
+{
+	"id": "a-celui-qui-nous-a-sauves",
+	"title": "À Celui qui nous a sauvés.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "7"
+		},
+		{
+			"hymnal": "cd",
+			"number": "63"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À Celui qui nous a sauvés",
+				"Et dont le sang nous a lavés,",
+				"Soient empire et magnificence !",
+				"D'esclaves il nous a fait rois ;",
+				"Rendons à ses divines lois",
+				"Une parfaite obéissance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Célébrons tous la charité",
+				"De ce Sauveur ressuscité,",
+				"Et disons avec les saints anges :",
+				"« Digne est l'Agneau de recevoir",
+				"Hommage, honneur, force et pouvoir,",
+				"Gloire, richesses et louanges ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Bénédict. Pictet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af007",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/871",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

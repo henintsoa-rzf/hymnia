@@ -1,0 +1,51 @@
+{
+	"id": "a-toi-le-regne",
+	"title": "À toi le règne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "378"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi le règne, la puissance,",
+				"À toi la gloire, l'honneur,",
+				"À toi la majesté, l'unique autorité,",
+				"La victoire éternelle. Amen.",
+				"À toi le règne, la puissance,",
+				"À toi la gloire, l'honneur,",
+				"À toi la majesté, l'unique autorité,",
+				"La victoire éternelle,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À toi l'Agneau de Dieu,",
+				"Pour les siècles des siècles. Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christophe Berly",
+			"role": "music"
+		},
+		{
+			"name": "Christophe Berly",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem378",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

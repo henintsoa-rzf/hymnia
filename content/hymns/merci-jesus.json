@@ -1,0 +1,69 @@
+{
+	"id": "merci-jesus",
+	"title": "Merci, Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1033"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous regardons tous à la croix,",
+				"C'est là que tu as tout donné.",
+				"Par ce sacrifice sur le bois,",
+				"Le monde, à jamais, a changé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci, Jésus, pour le prix payé.",
+				"Tu t'es livré pour nous racheter",
+				"Et sacrifié pour nous sauver.",
+				"Merci, Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Priant le Père de t'épargner,",
+				"Tu n'as pas refusé la mort",
+				"Pour accomplir sa volonté.",
+				"Ton amour était le plus fort."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci, Jésus, pour le prix payé.",
+				"Tu t'es livré pour nous racheter",
+				"Et sacrifié pour nous sauver.",
+				"Merci, Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Siméon et Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Siméon et Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1033",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

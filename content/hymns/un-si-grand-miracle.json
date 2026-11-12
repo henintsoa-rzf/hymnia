@@ -1,0 +1,73 @@
+{
+	"id": "un-si-grand-miracle",
+	"title": "Un si grand miracle",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "514"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, quel amour pour moi, quelle patience.",
+				"Tu as conduit vers toi mon ignorance.",
+				"Comment pouvais-je alors saisir",
+				"Ce que ton cœur voulait m'offrir ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un si grand miracle, un don si précieux,",
+				"Ta mort à la Pâque nous ouvre les yeux.",
+				"Ton salut remplace ma condamnation,",
+				"Mon péché s'efface par ta rédemption.",
+				"Loué sois-tu, Dieu tout-puissant,",
+				"loué sois-tu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce don si merveilleux, comment le vivre,",
+				"Sans le répandre à ceux que tu veux suivre,",
+				"Sur les chemins où ils s'égarent,",
+				"Loin de la vie et de l'espoir ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un si grand miracle, un don si précieux,",
+				"Ta mort à la Pâque nous ouvre les yeux.",
+				"Ton salut remplace ma condamnation,",
+				"Mon péché s'efface par ta rédemption.",
+				"Loué sois-tu, Dieu tout-puissant,",
+				"loué sois-tu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David et Rebecca Durham",
+			"role": "music"
+		},
+		{
+			"name": "David et Rebecca Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem514",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

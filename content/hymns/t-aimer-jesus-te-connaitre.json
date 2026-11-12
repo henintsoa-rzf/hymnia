@@ -1,0 +1,105 @@
+{
+	"id": "t-aimer-jesus-te-connaitre",
+	"title": "T'aimer Jésus, te connaître",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "309"
+		},
+		{
+			"hymnal": "adf",
+			"number": "413"
+		},
+		{
+			"hymnal": "cd",
+			"number": "239"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"T'aimer, Jésus ! te connaître,",
+				"Se reposer sur ton sein,",
+				"T'avoir pour son Roi, son Maître,",
+				"Pour son breuvage et son pain ;",
+				"Savourer en paix ta grâce ;",
+				"De ta mort, puissant Sauveur,",
+				"Goûter la sainte efficace,",
+				"Quelle ineffable douceur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O bonheur inexprimable !",
+				"J'ai l'Éternel pour Berger :",
+				"Toujours tendre et secourable,",
+				"Son cœur ne saurait changer.",
+				"Dans sa charité suprême,",
+				"Il descendit ici-bas",
+				"Chercher sa brebis qu'il aime,",
+				"Et la prendre dans ses bras."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il donna pour moi sa vie,",
+				"Il me connaît par mon nom ;",
+				"À sa table il me convie,",
+				"J'ai ma place en sa maison.",
+				"Il veut bien, de ma faiblesse,",
+				"De tous mes maux s'enquérir…",
+				"Qu'il est bon ! il veut sans cesse",
+				"Me pardonner, me guérir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Rien, ô Jésus ! que ta grâce,",
+				"Rien que ton sang précieux,",
+				"Qui seul mes péchés efface,",
+				"Ne me rend saint, juste, heureux.",
+				"Ne me dites autre chose,",
+				"Sinon qu'il est mon Sauveur.",
+				"L'auteur, la source et la cause",
+				"De mon éternel bonheur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Psautier morave",
+			"role": "music"
+		},
+		{
+			"name": "Émile Guers",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg309",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af413",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1066",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

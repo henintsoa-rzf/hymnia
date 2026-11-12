@@ -1,0 +1,100 @@
+{
+	"id": "avec-toi-seigneur",
+	"title": "Avec toi, Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "241"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec toi, Seigneur, tous ensemble,",
+				"Nous voici joyeux et sûrs de ton amour.",
+				"Tu nous as rassemblés",
+				"Dans la joie de ta présence,",
+				"Et c'est toi qui nous unis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est toi qui nous unis ;",
+				"Ton amour a fait de nous des frères.",
+				"Tu es vivant au milieu de nous !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec toi, Seigneur, tous ensemble,",
+				"Nous voici joyeux et sûrs de ton amour.",
+				"Tu nous as rassemblés",
+				"Dans la joie de ta présence,",
+				"Et c'est toi qui nous unis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O Christ ressuscité,",
+				"Nous chantons la vie que tu nous donnes.",
+				"Tu es vivant au milieu de nous !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec toi, Seigneur, tous ensemble,",
+				"Nous voici joyeux et sûrs de ton amour.",
+				"Tu nous as rassemblés",
+				"Dans la joie de ta présence,",
+				"Et c'est toi qui nous unis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu nous donnes ton amour ;",
+				"Ton Esprit fait vivre ton Église.",
+				"Tu es vivant au milieu de nous !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec toi, Seigneur, tous ensemble,",
+				"Nous voici joyeux et sûrs de ton amour.",
+				"Tu nous as rassemblés",
+				"Dans la joie de ta présence,",
+				"Et c'est toi qui nous unis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Maurice Debaisieux",
+			"role": "music"
+		},
+		{
+			"name": "Maurice Debaisieux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem241",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

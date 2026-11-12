@@ -1,0 +1,131 @@
+{
+	"id": "je-leve-les-yeux-jem-625",
+	"title": "Je lève les yeux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "625"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux",
+				"vers le Dieu de mon salut.",
+				"Du haut des cieux, il voit ma peine.",
+				"Il étend sa main",
+				"quand la mienne s'est perdue",
+				"Et me ramène."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux",
+				"vers le Dieu de mon salut.",
+				"Du haut des cieux, il voit ma peine.",
+				"Il étend sa main",
+				"quand la mienne s'est perdue",
+				"Et me ramène."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans ma vie, tant de cris oh-oh oh-oh",
+				"Et tant de larmes.",
+				"Sous les coups du mépris, oh-oh oh-oh",
+				"Je n'ai qu'une arme."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux",
+				"vers le Dieu de mon salut.",
+				"Du haut des cieux, il voit ma peine.",
+				"Il étend sa main",
+				"quand la mienne s'est perdue",
+				"Et me ramène."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux",
+				"vers le Dieu de mon salut.",
+				"Du haut des cieux, il voit ma peine.",
+				"Il étend sa main",
+				"quand la mienne s'est perdue",
+				"Et me ramène."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par sa grâce infinie, oh-oh oh-oh",
+				"Il me libère.",
+				"Il répond par la vie oh-oh oh-oh",
+				"À mes prières"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux",
+				"vers le Dieu de mon salut.",
+				"Du haut des cieux, il voit ma peine.",
+				"Il étend sa main",
+				"quand la mienne s'est perdue",
+				"Et me ramène."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux",
+				"vers le Dieu de mon salut.",
+				"Du haut des cieux, il voit ma peine.",
+				"Il étend sa main",
+				"quand la mienne s'est perdue",
+				"Et me ramène."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je lève les yeux.",
+				"Je lève les yeux.",
+				"Je lève les yeux.",
+				"Je lève les yeux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem625",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

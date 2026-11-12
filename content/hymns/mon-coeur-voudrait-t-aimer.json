@@ -1,0 +1,91 @@
+{
+	"id": "mon-coeur-voudrait-t-aimer",
+	"title": "Mon cœur voudrait t'aimer",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "262"
+		},
+		{
+			"hymnal": "adf",
+			"number": "655"
+		},
+		{
+			"hymnal": "cd",
+			"number": "197"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon cœur voudrait t'aimer,",
+				"Assez t'aimer,",
+				"Pour pouvoir supporter,",
+				"Tout supporter.",
+				"La souffrance et la peine,",
+				"L'injustice et la haine.",
+				"Je veux assez t'aimer",
+				"Pour tout supporter."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon cœur voudrait t'aimer,",
+				"Assez t'aimer,",
+				"Pour pouvoir accepter,",
+				"Tout accepter.",
+				"Quand je ne puis t'entendre,",
+				"Accepter sans comprendre.",
+				"Je veux assez t'aimer",
+				"Pour tout accepter."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon cœur voudrait t'aimer,",
+				"Assez t'aimer,",
+				"Pour pouvoir espérer,",
+				"Tout espérer.",
+				"La fin de la souffrance,",
+				"La pleine délivrance.",
+				"Je veux assez t'aimer",
+				"Pour tout espérer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Howard Doane",
+			"role": "music"
+		},
+		{
+			"name": "Mme M. Wargenau-Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg262",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af655",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1024",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

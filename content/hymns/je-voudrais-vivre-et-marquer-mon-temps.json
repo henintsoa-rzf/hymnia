@@ -1,0 +1,92 @@
+{
+	"id": "je-voudrais-vivre-et-marquer-mon-temps",
+	"title": "Je voudrais vivre et marquer mon temps",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "440"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je voudrais vivre et marquer mon temps",
+				"Rester fidèle au Dieu tout-puissant,",
+				"Que Dieu puisse écrire avec ma vie",
+				"Les pages de l'histoire d'aujourd'hui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux voir ton règne venir",
+				"Et ta volonté s'accomplir sur la terre.",
+				"Je veux voir ton règne venir",
+				"Et ta volonté s'accomplir",
+				"Sur la terre comme au ciel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je crois que tu nous as appelés",
+				"Avant que le monde fût créé,",
+				"Et nous formons un peuple choisi,",
+				"Elu pour porter beaucoup de fruit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux voir ton règne venir",
+				"Et ta volonté s'accomplir sur la terre.",
+				"Je veux voir ton règne venir",
+				"Et ta volonté s'accomplir",
+				"Sur la terre comme au ciel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, nous serons la génération",
+				"Qui te proclame à chaque nation.",
+				"Dieu nous remplit de son Saint-Esprit,",
+				"Amassons un trésor de grand prix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux voir ton règne venir",
+				"Et ta volonté s'accomplir sur la terre.",
+				"Je veux voir ton règne venir",
+				"Et ta volonté s'accomplir",
+				"Sur la terre comme au ciel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem440",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

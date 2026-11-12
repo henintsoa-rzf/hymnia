@@ -1,0 +1,62 @@
+{
+	"id": "parole-de-vie",
+	"title": "Parole de vie",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "105"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ma vie a besoin d’une lumière;",
+				"Ta Parole m’éclairera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si dans le chemin mon pied est incertain,",
+				"Tu me dis : “Viens et suis-moi”.",
+				"Rien à redouter tant que tu seras là;",
+				"Jésus, j’ai besoin de Toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je n’oublierai pas combien Tu m’as aimé,",
+				"Mais mon coeur est souvent troublé;",
+				"Jésus, guide-moi, et tiens-moi par la main.",
+				"Oui, je veux t’aimer toujours.",
+				"Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michael W. Smith",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		},
+		{
+			"name": "Amy Grant",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-5",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

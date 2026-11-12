@@ -1,0 +1,113 @@
+{
+	"id": "amour-sublime",
+	"title": "Amour sublime.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "63"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Amour sublime,",
+				"Immense charité,",
+				"Jésus victime,",
+				"Méprisé, maltraité,",
+				"Souffrit la peine",
+				"De mes nombreux forfaits,",
+				"Et brisa ma chaîne,",
+				"Oh ! gloire à jamais !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, ta grâce",
+				"Atteint jusqu'aux cieux,",
+				"Elle surpasse",
+				"Tout don merveilleux",
+				"Que dans ce monde",
+				"J'aurais souhaité ;",
+				"Cette grâce inonde",
+				"Ton racheté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand je chancelle",
+				"Sur un sombre chemin,",
+				"L'ami fidèle",
+				"Me saisit par la main ;",
+				"Alors la crainte",
+				"Se dissipe aussitôt,",
+				"Plus d'amère plainte,",
+				"Le regard en haut."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, ta grâce",
+				"Atteint jusqu'aux cieux,",
+				"Elle surpasse",
+				"Tout don merveilleux",
+				"Que dans ce monde",
+				"J'aurais souhaité ;",
+				"Cette grâce inonde",
+				"Ton racheté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta croix sanglante",
+				"Est seule ma rançon,",
+				"L'âme souffrante,",
+				"Y trouve un plein pardon ;",
+				"C'est mon refuge",
+				"Dans la vie et la mort.",
+				"Devant le grand juge,",
+				"Oh ! quel heureux sort !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, ta grâce",
+				"Atteint jusqu'aux cieux,",
+				"Elle surpasse",
+				"Tout don merveilleux",
+				"Que dans ce monde",
+				"J'aurais souhaité ;",
+				"Cette grâce inonde",
+				"Ton racheté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James Hunter",
+			"role": "music"
+		},
+		{
+			"name": "James Hunter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af063",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

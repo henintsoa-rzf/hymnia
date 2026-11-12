@@ -1,0 +1,75 @@
+{
+	"id": "devant-mon-ame-confondue",
+	"title": "Devant mon âme confondue",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "101"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Devant mon âme confondue",
+				"S’étend un océan d’amour !",
+				"Et d’en haut la paix descendue,",
+				"Inonde mon coeur en ce jour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sur la croix, Christ a porté",
+				"Toute mon iniquité ;",
+				"A lui je m’abandonne enfin,",
+				"Pour être à ce Sauveur divin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je cherchais, luttais avec larmes,",
+				"Je voulais vaincre, mais en vain ;",
+				"Quand lassé, je rendis les armes,",
+				"La paix brilla sur mon chemin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur moi posant sa main bénie,",
+				"Il me lava complètement,",
+				"Et mon âme trouva la vie :",
+				"Sa justice est mon vêtement."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le Prince de paix passe encore,",
+				"En cet instant, pour me bénir,",
+				"Et dans mon âme a lui l’aurore",
+				"D’un beau jour, qui ne peut finir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Gustavus Fischer",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/950",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

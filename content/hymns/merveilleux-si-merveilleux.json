@@ -1,0 +1,116 @@
+{
+	"id": "merveilleux-si-merveilleux",
+	"title": "Merveilleux, si merveilleux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "874"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Merveilleux, si merveilleux",
+				"est ton immense amour.",
+				"Ta croix proclame la grâce de Dieu sur moi.",
+				"Personne n'a vu ni entendu et nul ne peut saisir",
+				"Combien tu es puissant et glorieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu merveilleux, je t'aime ;",
+				"Dieu merveilleux, je t'adore ;",
+				"Dieu merveilleux, mon cœur te chante."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rayonnante, si rayonnante,",
+				"ta gloire remplit les cieux.",
+				"Tu montres à tous la grandeur de tes œuvres.",
+				"La beauté de ta majesté",
+				"pousse mon cœur à chanter",
+				"Combien tu es splendide et merveilleux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu merveilleux, je t'aime ;",
+				"Dieu merveilleux, je t'adore ;",
+				"Dieu merveilleux, mon cœur te chante."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu m'as révélé à nouveau tes merveilles,",
+				"Tu m'as saisi par ton amour,",
+				"Car rien sur la terre",
+				"n'est merveilleux comme toi.",
+				"Tu m'as révélé à nouveau tes merveilles,",
+				"Tu m'as saisi par ton amour,",
+				"Car rien sur la terre",
+				"n'est merveilleux comme toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu merveilleux, je t'aime ;",
+				"Dieu merveilleux, je t'adore ;",
+				"Dieu merveilleux, mon cœur te chante."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Mon cœur, mon cœur te chante.",
+				"Mon cœur, mon cœur te chante.",
+				"Mon cœur, mon cœur te chante.",
+				"Dieu merveilleux.",
+				"Mon cœur, mon cœur te chante.",
+				"Mon cœur, mon cœur te chante.",
+				"Mon cœur, mon cœur te chante.",
+				"Dieu merveilleux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu merveilleux, je t'aime ;",
+				"Dieu merveilleux, je t'adore ;",
+				"Dieu merveilleux, mon cœur te chante."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tim Hughes",
+			"role": "music"
+		},
+		{
+			"name": "Tim Hughes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem874",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

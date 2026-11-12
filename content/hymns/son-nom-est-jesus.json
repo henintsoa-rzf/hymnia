@@ -1,0 +1,40 @@
+{
+	"id": "son-nom-est-jesus",
+	"title": "Son nom est Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "285"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Son nom est Jésus, Jésus,",
+				"Il vient pour te consoler.",
+				"Il guérit les cœurs brisés,",
+				"Soulage les opprimés,",
+				"Il est toujours capable de délivrer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem285",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

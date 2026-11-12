@@ -1,0 +1,129 @@
+{
+	"id": "triomphons-chantons-d-allegresse",
+	"title": "Triomphons, chantons d'allégresse.",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "16"
+		},
+		{
+			"hymnal": "adf",
+			"number": "372"
+		},
+		{
+			"hymnal": "cd",
+			"number": "309"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Triomphons, chantons d'allégresse,",
+				"Réjouissons-nous devant Dieu !",
+				"Qu'un chant de louanges sans cesse",
+				"À sa gloire monte en tout lieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Triomphe, triomphe,",
+				"Tressaille de joie en ton Dieu !",
+				"Triomphe, triomphe,",
+				"Tressaille de joie en ton Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chantons à Celui qui s'avance",
+				"Dans les cieux, les cieux éternels !",
+				"Il fait entendre avec puissance",
+				"Sa voix, c'est le Dieu d'Israël !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Triomphe, triomphe,",
+				"Tressaille de joie en ton Dieu !",
+				"Triomphe, triomphe,",
+				"Tressaille de joie en ton Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il donne à son peuple victoire,",
+				"Puissance, force, liberté :",
+				"À notre Dieu rendons la gloire,",
+				"Louons sa sainte majesté !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Triomphe, triomphe,",
+				"Tressaille de joie en ton Dieu !",
+				"Triomphe, triomphe,",
+				"Tressaille de joie en ton Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"De concert avec les saints anges,",
+				"Faisons retentir notre voix,",
+				"Chantons à jamais les louanges",
+				"De l'Agneau divin mis en Croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Triomphe, triomphe,",
+				"Tressaille de joie en ton Dieu !",
+				"Triomphe, triomphe,",
+				"Tressaille de joie en ton Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James McGranahan",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg016",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af372",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1111",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

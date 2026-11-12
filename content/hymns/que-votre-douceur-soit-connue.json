@@ -1,0 +1,58 @@
+{
+	"id": "que-votre-douceur-soit-connue",
+	"title": "Que votre douceur soit connue",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "47"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que votre douceur",
+				"Soit connue de tous les hommes.",
+				"Le Seigneur est proche.",
+				"Amen, alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus a dit,",
+				"Aimez-vous les uns les autres",
+				"Comme je vous ai aimés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que votre douceur",
+				"Soit connue de tous les hommes.",
+				"Le Seigneur est proche.",
+				"Amen, alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christiane Maire",
+			"role": "music"
+		},
+		{
+			"name": "Christiane Maire",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem047",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

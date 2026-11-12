@@ -1,0 +1,59 @@
+{
+	"id": "tendre-pere",
+	"title": "Tendre Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "265"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tendre Père, j'aime te contempler,",
+				"Tendre Père, j'aime te contempler,",
+				"Je t'offre ma vie, je chante ta gloire,",
+				"Tendre Père, j'aime te contempler."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fils de Dieu, j'aime exalter ton nom,",
+				"Fils de Dieu, j'aime exalter ton nom,",
+				"Tu m'aimes, tu m'aides, tu combles ma vie,",
+				"Fils de Dieu, j'aime exalter ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Saint-Esprit, tu éclaires ma vie,",
+				"Saint-Esprit, tu éclaires ma vie,",
+				"Tu diriges mes pas, tu restes près de moi,",
+				"Saint-Esprit, tu éclaires ma vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem265",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

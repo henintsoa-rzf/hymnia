@@ -1,0 +1,69 @@
+{
+	"id": "viens-me-rendre-sage",
+	"title": "Viens me rendre sage",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "313"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens me rendre sage,",
+				"Plein d’amour, Seigneur;",
+				"Que sur mon visage",
+				"Brille ta douceur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens me rendre aimable,",
+				"Très obéissant,",
+				"Pour tous charitable,",
+				"Humble et complaisant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! rends-moi fidèle,",
+				"Pur, loyal et droit;",
+				"Viens, divin modèle,",
+				"Viens, demeure en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu’un rayon de joie",
+				"Je sois pour les miens,",
+				"Car il faut qu’on voie",
+				"Que je t’appartiens."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "unspecified"
+		},
+		{
+			"name": "E.M. Clarkson",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1115",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

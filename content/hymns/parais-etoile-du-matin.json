@@ -1,0 +1,93 @@
+{
+	"id": "parais-etoile-du-matin",
+	"title": "Parais, étoile du matin.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "266"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Parais, Étoile du matin,",
+				"Et répands tes flammes.",
+				"Chasse la nuit !",
+				"D'un jour serein",
+				"Viens éclairer nos âmes.",
+				"Viens éclairer nos âmes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Étoile céleste !",
+				"Étoile céleste !",
+				"Brillant Étoile,",
+				"Étoile du matin !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, Étoile de la foi,",
+				"Ouvre-nous la voie.",
+				"Élève nos cœurs jusqu'à Toi,",
+				"Et remplis-les de joie.",
+				"Et remplis-les de joie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Étoile céleste !",
+				"Étoile céleste !",
+				"Brillant Étoile,",
+				"Étoile du matin !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Brille, astre de l'amour divin !",
+				"Verse en nous ta vie,",
+				"En attendant le beau matin",
+				"Auquel Dieu nous convie.",
+				"Auquel Dieu nous convie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Étoile céleste !",
+				"Étoile céleste !",
+				"Brillant Étoile,",
+				"Étoile du matin !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Felix Mendelssohn",
+			"role": "music"
+		},
+		{
+			"name": "Cantiques du Réveil",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af266",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,43 @@
+{
+	"id": "entends-o-dieu",
+	"title": "Entends, ô Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "405"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entends, ô Dieu,",
+				"Ma prière et mon cri.",
+				"Du bout de la terre,",
+				"Je crie à toi, Seigneur,",
+				"Et quand mon cœur est abattu,",
+				"Conduis-moi sur le roc",
+				"Trop élevé pour moi ;",
+				"Trop élevé pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem405",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

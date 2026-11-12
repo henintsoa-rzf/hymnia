@@ -1,0 +1,89 @@
+{
+	"id": "si-ton-ciel",
+	"title": "Si ton ciel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "886"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si ton ciel est bleu et sans nuages,",
+				"Si le vent caresse ton visage,",
+				"Si tes champs sont blancs pour la moisson",
+				"Et si tu savoures les fruits de saison."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"N'oublie jamais, ô n'oublie pas,",
+				"D'où cela te vient, à qui tu le dois !",
+				"Remercie-le à pleine voix",
+				"Pour la grâce qu'il déverse sur toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si l'amour éclaire ta maison,",
+				"Qu'elle déborde des rires des enfants,",
+				"Si l'amitié, la prospérité",
+				"Sont toujours parmi tes invités."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"N'oublie jamais, ô n'oublie pas,",
+				"D'où cela te vient, à qui tu le dois !",
+				"Remercie-le à pleine voix",
+				"Pour la grâce qu'il déverse sur toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si ton bonheur devait s'assombrir,",
+				"Et un jour tu devais même souffrir,",
+				"Si tu devais tenir pour son nom",
+				"Face au mal ou la persécution."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"N'oublie jamais, ô n'oublie pas,",
+				"Sa promesse de veiller sur toi !",
+				"Remercie-le à pleine voix",
+				"Pour la grâce qu'il déverse sur toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem886",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

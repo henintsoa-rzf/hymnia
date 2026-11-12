@@ -1,0 +1,69 @@
+{
+	"id": "oh-qui-soutiendra-ma-faiblesse",
+	"title": "Oh ! qui soutiendra ma faiblesse.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "178"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! qui soutiendra ma faiblesse,",
+				"Dans l'épreuve et dans le danger,",
+				"Et qui pourra, dans la détresse,",
+				"Me secourir, me diriger ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui me donnera dans la vie",
+				"Paix, repos, lumière et bonheur ?",
+				"C'est l'Ami divin que je prie :",
+				"C'est Toi, Jésus, Toi mon Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu, dont la douce voix m'appelle,",
+				"Dieu, qui m'achetas à grand prix,",
+				"Selon ta promesse fidèle",
+				"Éclaire et garde ta brebis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Donne-moi ta sainte assistance,",
+				"Dans tes sentiers guide mes pas :",
+				"On repose avec assurance,",
+				"Seigneur Jésus, entre tes bras."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Hews",
+			"role": "music"
+		},
+		{
+			"name": "Psaumes et Cantiques",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af178",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

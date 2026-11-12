@@ -1,0 +1,85 @@
+{
+	"id": "celeste-voix-qui-nous-convies",
+	"title": "Céleste voix qui nous convies.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "569"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Céleste voix qui nous convies",
+				"Au festin de la charité,",
+				"Tu remplis nos âmes ravies.",
+				"D'une sainte félicité.",
+				"Nous venons, Seigneur, à ta table",
+				"Où tu veux nourrir notre foi,",
+				"Pour goûter ta grâce ineffable",
+				"Et pour nous consacrer à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Approchez, âmes accablées",
+				"Sous le fardeau de vos péchés",
+				"Approchez, soyez consolées",
+				"Voici les biens que vous cherchez.",
+				"Ne craignez point : Jésus pardonne",
+				"Au cœur contrit et pénitent ;",
+				"Et la gloire qui l'environne",
+				"N'empêche pas qu'il soit clément."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vous qu'abandonne l'espérance,",
+				"Vous qui marchez triste et las,",
+				"Vous dont le deuil ou l'indigence",
+				"Est la lourde part ici-bas,",
+				"Approchez : Jésus voit vos larmes ;",
+				"Qu'elles coulent plus doucement ;",
+				"Le Dieu qui connaît vos alarmes",
+				"Se donne à vous en ce moment."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Chrétiens, célébrons la mémoire",
+				"D'un bienfaiteur si généreux,",
+				"Jusqu'au jour où, brillant de gloire,",
+				"Il viendra nous ouvrir les cieux.",
+				"Là nous chanterons tes louanges",
+				"Devant le trône du Dieu fort,",
+				"O Roi des hommes et des anges",
+				"Qui nous a sauvés par ta mort."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Freylinghausen",
+			"role": "music"
+		},
+		{
+			"name": "J.-F.-J. Rau",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af569",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

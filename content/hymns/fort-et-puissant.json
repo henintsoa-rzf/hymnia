@@ -1,0 +1,139 @@
+{
+	"id": "fort-et-puissant",
+	"title": "Fort et puissant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "998"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, tu es ma force et mon chant,",
+				"Chaque jour je me confie en toi.",
+				"Tout puissant, mon Sauveur règne aux cieux.",
+				"Dieu tu es ma force, mon appui,",
+				"La forteresse où je me réfugie,",
+				"Le rocher qui protège ma vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Malgré les ténèbres et les dangers qui m'entourent,",
+				"Je lève les yeux pour accueillir ton secours.",
+				"Je ne craindrai pas si tu veilles sur moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis venu pour te rencontrer,",
+				"Pour proclamer que tu es fort et puissant.",
+				"Nul ne peut te résister, sois glorifié.",
+				"Dieu, tu es fort et puissant,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rien n'est impossible à toi,",
+				"O Roi des rois,",
+				"Que tu es fort et puissant",
+				"Au-dessus de tous les noms.",
+				"Nous déclarons : « Dieu, tu es fort et puissant. »",
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Dieu, tu es fort et puissant.",
+				"Oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu, tu es ma force et mon chant,",
+				"Bouclier et mon libérateur.",
+				"Souverain, mon Sauveur règne aux cieux.",
+				"Dieu, tu es ma force, mon appui,",
+				"Mon réconfort et mon plus tendre ami,",
+				"Un rempart devant mes ennemis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Malgré les ténèbres et les dangers qui m'entourent,",
+				"Je lève la voix pour affirmer ton amour.",
+				"Je ne craindrai pas si tu es près de moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis venu pour te rencontrer,",
+				"Pour proclamer que tu es fort et puissant.",
+				"Nul ne peut te résister, sois glorifié.",
+				"Dieu, tu es fort et puissant,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rien n'est impossible à toi,",
+				"O Roi des rois,",
+				"Que tu es fort et puissant",
+				"Au-dessus de tous les noms.",
+				"Nous déclarons : « Dieu, tu es fort et puissant. »",
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Dieu, tu es fort et puissant.",
+				"Oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Rien ne peut me séparer",
+				"De ton amour manifesté en Jésus-Christ.",
+				"Mon Sauveur règne aux cieux.",
+				"Rien ne peut me séparer",
+				"De ton amour manifesté en Jésus-Christ.",
+				"Mon Sauveur règne aux cieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem998",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

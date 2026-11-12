@@ -3,8 +3,8 @@
 	"title": "Les anges dans nos campagnes",
 	"entries": [
 		{
-			"hymnal": "he",
-			"number": "12"
+			"hymnal": "atg",
+			"number": "108"
 		}
 	],
 	"sections": [
@@ -12,9 +12,9 @@
 			"type": "verse",
 			"number": 1,
 			"lines": [
-				"Les anges dans nos campagnes",
-				"Ont entonné l’hymne des cieux,",
-				"Et l’écho de nos montagnes",
+				"Les anges dans nos campagnes,",
+				"Ont entonné des chœurs joyeux ;",
+				"Et l'écho de nos montagnes",
 				"Redit ce chant mélodieux :"
 			]
 		},
@@ -22,17 +22,58 @@
 			"type": "chorus",
 			"number": null,
 			"lines": [
-				"Gloria in excelsis Deo !",
-				"Gloria in excelsis Deo !"
+				"Gloria in excelsis Deo,",
+				"Gloria in excelsis Deo."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bergers, grande est la nouvelle :",
+				"Le Christ est né, le Dieu Sauveur !",
+				"Venez, le ciel vous appelle",
+				"À rendre hommage au Rédempteur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloria in excelsis Deo,",
+				"Gloria in excelsis Deo."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vers l'enfant qui vient de naître,",
+				"Accourons tous avec bonheur !",
+				"Le ciel nous l'a fait connaître ;",
+				"Oui, gloire au Christ, au Dieu Sauveur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloria in excelsis Deo,",
+				"Gloria in excelsis Deo."
 			]
 		}
 	],
-	"credits": [],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		}
+	],
 	"source": {
-		"name": "Échantillon de test — domaine public, texte non vérifié",
-		"url": null,
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg108",
 		"retrievedAt": "2026-11-11"
 	},
-	"rights": "public-domain",
+	"rights": "unconfirmed",
 	"corrections": []
 }

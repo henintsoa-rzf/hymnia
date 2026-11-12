@@ -1,0 +1,119 @@
+{
+	"id": "il-m-a-sauve-jem-1101",
+	"title": "Il m'a sauvé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1101"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je raconterai ses merveilles,",
+				"Je bénirai son nom.",
+				"Le cœur débordant,",
+				"Je célèbre mon Dieu car il est bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon âme est en fête",
+				"Et je crie ma joie de le connaître.",
+				"Je n’ai pas honte de Jésus",
+				"Car il m’a fait renaître."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il m’a sauvé, il m’a guéri,",
+				"Il m’a libéré, transformé",
+				"Il m’a racheté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Christ est ma victoire, ma justice,",
+				"Ma force et mon appui.",
+				"Sans un seul regret,",
+				"Je vivrai pour lui sans compromis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il m’a sauvé, il m’a guéri,",
+				"Il m’a libéré, transformé",
+				"Il m’a racheté."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Élever Jésus, c’est ce qui réjouit mon cœur ;",
+				"Il est ma raison de vivre.",
+				"Un jour avec lui vaut bien mieux que mille ailleurs ;",
+				"Il est ma raison de vivre."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Élever Jésus, c’est ce qui réjouit mon cœur ;",
+				"Il est ma raison de vivre.",
+				"Un jour avec lui vaut bien mieux que mille ailleurs ;",
+				"Il est ma raison de vivre."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Il m’a sauvé, sauvé, sauvé,",
+				"Il m’a guéri, guéri, guéri,",
+				"Il m’a libéré, (il m’a libéré,)",
+				"Il m’a transformé, (il m’a transformé,)"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Il m’a sauvé, sauvé, sauvé,",
+				"Il m’a guéri, guéri, guéri,",
+				"Il m’a libéré, (il m’a libéré,)",
+				"Il m’a transformé, (il m’a transformé,)",
+				"Il m’a racheté.",
+				"Il m’a sauvé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Marvane",
+			"role": "music"
+		},
+		{
+			"name": "Matt Marvane",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1101",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

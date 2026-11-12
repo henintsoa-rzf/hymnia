@@ -1,0 +1,60 @@
+{
+	"id": "ah-qu-il-est-doux-pour-des-freres",
+	"title": "Ah ! qu'il est doux pour des frères !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "31"
+		},
+		{
+			"hymnal": "jem",
+			"number": "17"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ah ! qu'il est doux pour des frères",
+				"De demeurer ensemble !",
+				"Ah ! qu'il est doux pour des frères",
+				"De demeurer ensemble !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ah ! qu'il est doux",
+				"De demeurer ensemble !",
+				"Ah ! qu'il est doux",
+				"De demeurer ensemble !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air hébraïque",
+			"role": "music"
+		},
+		{
+			"name": "Christian Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg031",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem017",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"id": "c-est-le-temps-de-l-amour",
+	"title": "C'est le temps de l'amour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "562"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un chant nouveau a jailli,",
+				"Chant d'amour sur le pays ;",
+				"À l'appel du Saint-Esprit,",
+				"Nos entrailles ont frémi.",
+				"Notre cœur s'est embrasé",
+				"À la vue du bien-aimé.",
+				"Il nous a tous appelés",
+				"Et dans l'amour entraînés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est le temps de l'amour,",
+				"De la joie pour la fiancée,",
+				"Alors, chantons et dansons,",
+				"Courons vers le bien-aimé,",
+				"C'est le temps de l'amour,",
+				"De la joie pour la fiancée,",
+				"Le voici courant vers nous,",
+				"Jésus notre bien-aimé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans la joie de sa présence",
+				"Et de sa passion intense,",
+				"Un seul cri s'est élevé:",
+				"Je suis à mon bien-aimé.",
+				"Il est beau, resplendissant,",
+				"Celui que nous aimons tant.",
+				"Il nous a comblés d'amour,",
+				"De celui qui dure toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est le temps de l'amour,",
+				"De la joie pour la fiancée,",
+				"Alors, chantons et dansons,",
+				"Courons vers le bien-aimé,",
+				"C'est le temps de l'amour,",
+				"De la joie pour la fiancée,",
+				"Le voici courant vers nous,",
+				"Jésus notre bien-aimé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le cortège des fiancés",
+				"Dans les nations s'est formé.",
+				"Au rythme de son amour,",
+				"Nous marchons jusqu'au grand jour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est le temps de l'amour,",
+				"De la joie pour la fiancée,",
+				"Alors, chantons et dansons,",
+				"Courons vers le bien-aimé,",
+				"C'est le temps de l'amour,",
+				"De la joie pour la fiancée,",
+				"Le voici courant vers nous,",
+				"Jésus notre bien-aimé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fabienne Pons",
+			"role": "music"
+		},
+		{
+			"name": "Fabienne Pons",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem562",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

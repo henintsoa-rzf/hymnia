@@ -1,0 +1,84 @@
+{
+	"id": "levons-nous-freres",
+	"title": "Levons-nous, frères",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "147"
+		},
+		{
+			"hymnal": "adf",
+			"number": "362"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Levons-nous, frères, levons-nous !",
+				"Car voici notre Maître.",
+				"Il est minuit, voici l'Époux :",
+				"Jésus-Christ va paraître,",
+				"Jésus-Christ va paraître."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Avec les siens Il vient régner",
+				"Et délivrer l'Église ;",
+				"Bientôt Il va la couronner",
+				"De la gloire promise,",
+				"De la gloire promise."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ne crains donc point, petit troupeau,",
+				"Toi que chérit le Père !",
+				"Que toujours la croix de l'Agneau",
+				"Soit ta seule bannière.",
+				"Soit ta seule bannière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Gloire à Jésus-Christ, mon Sauveur,",
+				"Car en lui seul j'espère !",
+				"Heureux celui qui dans son cœur",
+				"L'adore et le révère !",
+				"L'adore et le révère !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frideric Haendel",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Jacques Hoseman",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg147",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af362",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

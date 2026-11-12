@@ -1,0 +1,73 @@
+{
+	"id": "divin-soleil-de-justice",
+	"title": "Divin soleil de justice",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "383"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Divin soleil de justice,",
+				"Que ta clarté resplendisse !",
+				"Nous vivons des jours mauvais,",
+				"Répands sur nous tes bienfaits !",
+				"Oui, viens bientôt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu peux guérir notre monde",
+				"Qui meurt dans la nuit profonde.",
+				"Porte-lui, nous t'en prions,",
+				"La santé dans tes rayons.",
+				"Oui, viens bientôt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que le jour naissant réveille",
+				"La chrétienté qui sommeille !",
+				"Qu'à ta lumière elle ait peur",
+				"De rester dans sa torpeur !",
+				"Oui, viens bientôt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ah ! La nuit est sombre encore,",
+				"Quand donc verrons-nous l'aurore ?",
+				"Fais lever le grand matin",
+				"Où tous les maux prendront fin !",
+				"Oui, viens bientôt !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air bohémien",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg383",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,85 @@
+{
+	"id": "lutte-quand-l-esprit-de-grace",
+	"title": "Lutte quand l'esprit de grâce.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "343"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lutte quand l'Esprit de grâce",
+				"T'attire et te convertit ;",
+				"Que ton cœur se débarrasse",
+				"De tout secret interdit !",
+				"Ne reste pas en chemin !",
+				"cœur qui doute n'obtient rien :",
+				"Lutte bien,",
+				"Lutte bien !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lutte pour brûler de zèle,",
+				"Pour que le premier amour",
+				"T'arrache au monde infidèle,",
+				"T'en détache sans retour.",
+				"Ne t'accorde aucun répit ;",
+				"Persévère jour et nuit :",
+				"Lutte bien,",
+				"Lutte bien !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Lorsque la perle est gagnée,",
+				"Ne crois pas que, désormais,",
+				"Le lutte soit terminée,",
+				"Le mal détruit pour jamais.",
+				"Défie-toi de ton cœur ;",
+				"Ne regarde qu'au Sauveur !",
+				"Veille bien,",
+				"Veille bien !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Un cœur fidèle et sincère,",
+				"Aime Christ, hait le péché,",
+				"Pleure et combat sur la terre,",
+				"À soif de l'éternité.",
+				"Soldats de Christ, lutte encor !",
+				"Dans le ciel est ton trésor :",
+				"Lutte bien,",
+				"Lutte bien !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Freylinghausen",
+			"role": "music"
+		},
+		{
+			"name": "Cantiques imités",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af343",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

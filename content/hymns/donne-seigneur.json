@@ -1,0 +1,41 @@
+{
+	"id": "donne-seigneur",
+	"title": "Donne, Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "220"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Donne, Seigneur, paix et grâce ;",
+				"Donne ta paix à celui qui vient à toi.",
+				"Ta paix qui surpasse",
+				"La paix, la joie que nous connaissons.",
+				"Donne-nous, dans ta grâce,",
+				"Ta paix, ta joie, nous t'en prions."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dona nobis pacem",
+			"role": "music"
+		},
+		{
+			"name": "Alfred Kuen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg220",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

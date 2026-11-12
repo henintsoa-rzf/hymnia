@@ -1,0 +1,65 @@
+{
+	"id": "as-tu-trouve-coeur-en-detresse",
+	"title": "As-tu trouvé, coeur en détresse ?",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "146"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"As-tu trouvé, coeur en détresse,",
+				"Le seul appui dans le malheur ?",
+				"As-tu trouvé, as-tu trouvé",
+				"Le roc puissant, le seul et vrai Sauveur ?",
+				"Seul Jésus donne paix et bonheur ;",
+				"Sauve et pardonne l’homme pécheur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jour après jour, de sa Parole,",
+				"Tu dois nourrir ton faible coeur",
+				"Jour après jour, jour après jour,",
+				"Tu dois nourrir ton pauvre et faible coeur !",
+				"Seul Jésus donne force et bonheur,",
+				"Et se redonne à notre coeur..."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand j’ai crié vers mon doux maître,",
+				"Il m’a comblé de son amour,",
+				"Il m’a sauvé, Il m’a sauvé,",
+				"Et vers le ciel, je marche jour par jour.",
+				"Heure après heure, mon grand ami",
+				"Toujours demeure mon ferme appui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "R.C. Jones",
+			"role": "unspecified"
+		},
+		{
+			"name": "H. ARNERA",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/981",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

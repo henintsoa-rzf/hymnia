@@ -1,0 +1,91 @@
+{
+	"id": "rendons-gloire-au-pere",
+	"title": "Rendons gloire au Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "954"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rendons gloire au Père.",
+				"Rendons gloire au Fils de Dieu.",
+				"Rendons gloire au Saint-Esprit",
+				"Pour ce qu'il a fait !",
+				"Rendons gloire au Père.",
+				"Rendons gloire au Fils de Dieu.",
+				"Rendons gloire au Saint-Esprit",
+				"Pour ce qu'il a fait !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À celui qui est venu",
+				"Nous sauver, nous délivrer",
+				"Soient honneur, puissance et force",
+				"Aux siècles des siècles !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rendons gloire au Père.",
+				"Rendons gloire au Fils de Dieu.",
+				"Rendons gloire au Saint-Esprit",
+				"Pour ce qu'il a fait !",
+				"Rendons gloire au Père.",
+				"Rendons gloire au Fils de Dieu.",
+				"Rendons gloire au Saint-Esprit",
+				"Pour ce qu'il a fait !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Au seul roi, Dieu immortel,",
+				"Invisible et éternel,",
+				"Nous disons : « Louange et gloire",
+				"Pour l'éternité ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rendons gloire au Père.",
+				"Rendons gloire au Fils de Dieu.",
+				"Rendons gloire au Saint-Esprit",
+				"Pour ce qu'il a fait !",
+				"Rendons gloire au Père.",
+				"Rendons gloire au Fils de Dieu.",
+				"Rendons gloire au Saint-Esprit",
+				"Pour ce qu'il a fait !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem954",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

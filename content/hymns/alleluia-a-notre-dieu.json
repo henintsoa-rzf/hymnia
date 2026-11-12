@@ -1,0 +1,107 @@
+{
+	"id": "alleluia-a-notre-dieu",
+	"title": "Alléluia à notre Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1198"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Trésor d’éternité, tu règnes des cieux.",
+				"Diamant d’humanité brillant de mille feux,",
+				"Digne es-tu, ô notre Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Majesté infinie, beauté sans égale,",
+				"Ton éclat resplendit comme un million d’étoiles.",
+				"Digne es-tu, ô notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, (chantons) alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tous les anges éblouis, milliers et myriades",
+				"Prosternés devant lui d’un même chant proclament :",
+				"«Digne es-tu, Agneau de Dieu.»"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que dans tout l’univers, l’Église célèbre",
+				"Jésus, roi de la terre et souverain du ciel.",
+				"Digne es-tu, Agneau de Dieu.",
+				"Jésus, tu es glorieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Alléluia, (chantons) alléluia."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Honneur et gloire, règne et puissance",
+				"À notre Dieu, à notre Dieu !",
+				"Splendeur et grâce, force et louange",
+				"À notre Dieu ! À notre Dieu !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Honneur et gloire, règne et puissance",
+				"À notre Dieu, à notre Dieu !",
+				"Splendeur et grâce, force et louange",
+				"À notre Dieu ! À notre Dieu !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Alléluia, (chantons) alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dan Luiten, Pauline Bétuel, Samuel Olivier, Sébastien Corn",
+			"role": "music"
+		},
+		{
+			"name": "Dan Luiten, Pauline Bétuel, Samuel Olivier, Sébastien Corn",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1198",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

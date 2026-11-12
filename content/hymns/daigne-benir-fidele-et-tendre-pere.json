@@ -1,0 +1,91 @@
+{
+	"id": "daigne-benir-fidele-et-tendre-pere",
+	"title": "Daigne bénir, fidèle et tendre Père",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "388"
+		},
+		{
+			"hymnal": "adf",
+			"number": "191"
+		},
+		{
+			"hymnal": "cd",
+			"number": "233"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Daigne bénir, fidèle et tendre Père,",
+				"Ce cher enfant, gage de ton amour ;",
+				"Il vient remplir sa tâche sur la terre :",
+				"Se préparer au céleste séjour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ah ! qu'il est grand",
+				"dans sa faiblesse extrême !",
+				"Tu l'as aimé de toute éternité,",
+				"Il porte en lui ton image elle-même,",
+				"Et de ton Fils, le sang l'a racheté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qui sommes-nous",
+				"pour former sa jeune âme ?",
+				"Pour lui montrer le chemin du salut,",
+				"Lui faire aimer ce que ta loi réclame,",
+				"Et le guider pas à pas vers le but ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous te l'offrons, sois son guide suprême ;",
+				"Viens le marquer du sceau de Jésus-Christ.",
+				"Dans ton Église, introduis-le toi-même",
+				"Et que son nom dans les cieux soit écrit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Henry Monk",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Louis Decoppet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg388",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af191",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1062",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

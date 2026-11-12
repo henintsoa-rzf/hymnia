@@ -1,0 +1,51 @@
+{
+	"id": "nous-tous-qui-refletons",
+	"title": "Nous tous, qui reflétons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "639"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous tous, qui reflétons le Seigneur de gloire",
+				"À visage découvert, comme dans un miroir,",
+				"Nous sommes transformés à son image,",
+				"Transfigurés, de gloire en gloire",
+				"Par le Seigneur, l'Esprit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es merveilleux notre Dieu, notre Père,",
+				"Tu es glorieux sur ton trône de lumière",
+				"Et tu resplendis dans ton palais de gloire.",
+				"Sur ta beauté, nous fixons nos regards,",
+				"Sur ta beauté, nous fixons nos regards."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem639",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,52 @@
+{
+	"id": "dieu-est-esprit",
+	"title": "Dieu est esprit",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "169"
+		},
+		{
+			"hymnal": "jem",
+			"number": "327"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu est esprit",
+				"Et il faut que ceux qui l'adorent,",
+				"L'adorent en esprit",
+				"Et en vérité,",
+				"L'adorent en esprit",
+				"Et en vérité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg169",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem327",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

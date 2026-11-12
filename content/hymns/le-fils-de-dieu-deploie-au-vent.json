@@ -1,0 +1,99 @@
+{
+	"id": "le-fils-de-dieu-deploie-au-vent",
+	"title": "Le Fils de Dieu déploie au vent.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "363"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Fils de Dieu déploie au vent",
+				"Sa bannière immortelle :",
+				"En avant, frères, en avant,",
+				"Et combattons pour elle :",
+				"Comme Jésus, sachons souffrir",
+				"Sans murmure et sans haine…",
+				"Pour triompher, il faut mourir",
+				"Avec son Capitaine !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voyez ce martyr glorieux :",
+				"Il chancelle, il succombe,",
+				"Mais Jésus lui sourit des cieux,",
+				"Il ne craint pas la tombe ;",
+				"Et, plus grand que tous les héros,",
+				"Le noble et doux Étienne",
+				"Meurt, en priant pour ses bourreaux,",
+				"Comme son Capitaine."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voyez marcher derrière lui",
+				"Cette troupe sublime :",
+				"Dans leurs yeux une flamme a lui,",
+				"L'Esprit-Saint les anime.",
+				"Apôtres de la vérité,",
+				"Sur la sanglante arène",
+				"Ils tombent, mais sans lâcheté",
+				"Comme leur Capitaine."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Voyez ces enfants, ces vieillards,",
+				"Ces petits de la terre",
+				"Enrôlés sous les étendards",
+				"Du Prince débonnaire.",
+				"Ils ont souffert, ils ont vécu,",
+				"Ils sont morts à la peine,",
+				"Mais c'est ainsi qu'ils ont vaincu,",
+				"Comme leur Capitaine."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Le Fils de Dieu déploie au vent",
+				"Sa bannière immortelle :",
+				"En avant, frères, en avant,",
+				"Et combattons pour elle !",
+				"C'est l'heure du dernier effort,",
+				"La victoire est certaine",
+				"Si nous luttons jusqu'à la mort",
+				"Pour notre Capitaine !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cantiques populaires",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af363",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

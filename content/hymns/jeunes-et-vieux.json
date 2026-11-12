@@ -1,0 +1,55 @@
+{
+	"id": "jeunes-et-vieux",
+	"title": "Jeunes et vieux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "237"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jeunes et vieux se réjouiront ensemble ;",
+				"Les jeunes filles danseront de joie !",
+				"Laï, laï, laï, laï, laï, laï,",
+				"Laï, laï, laï, laï, laï, laï, laï,",
+				"Laï, laï, laï, laï, laï, laï, laï, laï,",
+				"Laï, laï,",
+				"Je changerai leur deuil en allégresse",
+				"Et je les consolerai."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je leur donnerai la joie,",
+				"Au lieu du chagrin,",
+				"Je leur donnerai la joie.",
+				"Je leur donnerai la joie,",
+				"Au lieu du chagrin,",
+				"Je leur donnerai la joie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Merla Watson",
+			"role": "music"
+		},
+		{
+			"name": "Merla Watson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem237",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

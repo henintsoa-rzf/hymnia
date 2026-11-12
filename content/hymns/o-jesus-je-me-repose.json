@@ -1,0 +1,145 @@
+{
+	"id": "o-jesus-je-me-repose",
+	"title": "O Jésus, je me repose",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "320"
+		},
+		{
+			"hymnal": "adf",
+			"number": "408"
+		},
+		{
+			"hymnal": "cd",
+			"number": "249"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus, je me repose",
+				"Sur ce que je sais de toi…",
+				"Quelle merveilleuse chose :",
+				"Ton amour pour moi !",
+				"À moi tu t'es fait connaître,",
+				"Et ta divine beauté",
+				"A transformé tout mon être",
+				"Pour l'éternité !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Jésus, je me repose",
+				"Sur ce que je sais de toi…",
+				"Quelle merveilleuse chose :",
+				"Tu mourus pour moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De ta croix, qui me révèle",
+				"L'amour qui ne peut périr,",
+				"Jaillit l'eau toujours nouvelle",
+				"Qui ne peut tarir !",
+				"O grâce, ô flot salutaire !",
+				"Que sur tes bords, désormais,",
+				"Mon âme se désaltère",
+				"De joie et de paix !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Jésus, je me repose",
+				"Sur ce que je sais de toi…",
+				"Quelle merveilleuse chose :",
+				"Tu mourus pour moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Simplement, je me confie,",
+				"En toi, bien-aimé Sauveur,",
+				"Et ne veux toute ma vie",
+				"Point d'autre faveur.",
+				"Car, de toutes mes détresses",
+				"Ton sourire me guérit,",
+				"Et de toutes tes promesses",
+				"Ma foi se nourrit !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Jésus, je me repose",
+				"Sur ce que je sais de toi…",
+				"Quelle merveilleuse chose :",
+				"Tu mourus pour moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je veux te rester fidèle,",
+				"Pour toi vivre et travailler,",
+				"Avec toi, parfait Modèle,",
+				"Veiller et prier.",
+				"O Christ, image du Père,",
+				"Brille toujours à mes yeux,",
+				"Jusqu'à ce que de la terre",
+				"Je m'envole aux cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Jésus, je me repose",
+				"Sur ce que je sais de toi…",
+				"Quelle merveilleuse chose :",
+				"Tu mourus pour moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James Mountain",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg320",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af408",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1075",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

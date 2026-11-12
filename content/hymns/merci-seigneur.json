@@ -1,0 +1,110 @@
+{
+	"id": "merci-seigneur",
+	"title": "Merci, Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "47"
+		},
+		{
+			"hymnal": "jem",
+			"number": "113"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Merci, Seigneur, pour ta lumière,",
+				"Merci pour tous les clairs matins ;",
+				"Merci d'entendre ma prière,",
+				"D'être mon soutien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Merci, Seigneur, pour tous mes frères,",
+				"Merci de les avoir donnés.",
+				"Merci, car si l'amour s'altère,",
+				"Tu veux pardonner."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Merci, Seigneur, pour toute joie,",
+				"Merci pour mes divers travaux,",
+				"Merci, car quand soudain je ploie,",
+				"Tu prends mes fardeaux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Merci, Seigneur, pour la vieillesse,",
+				"Merci pour les petits enfants,",
+				"Merci pour toutes tes promesses,",
+				"Pour tes soins constants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Merci, Seigneur, pour ta parole,",
+				"Merci, par elle tu m'instruis,",
+				"Merci, car elle est ma boussole,",
+				"Elle me conduit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Merci, Seigneur, pour ta présence,",
+				"Merci pour ton parfait salut.",
+				"Merci des dons que tu dispenses",
+				"À tous tes élus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Merci, Seigneur, pour ta puissance,",
+				"Merci de nous donner l'Esprit.",
+				"Merci pour ton amour immense",
+				"Qui partout nous suit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Martin Gotthard Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg047",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem113",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

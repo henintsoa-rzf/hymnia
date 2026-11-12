@@ -1,0 +1,64 @@
+{
+	"id": "il-est-beau-de-louer-le-seigneur",
+	"title": "Il est beau de louer le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "213"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est beau de louer le Seigneur !",
+				"Il est beau de chanter",
+				"En l'honneur de ton nom ;",
+				"D'annoncer au matin ta bonté,",
+				"Et pendant les nuits ta fidélité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu me réjouis par tes œuvres, ô Éternel !",
+				"Et je chante avec allégresse",
+				"L'ouvrage de tes mains.",
+				"Que tes œuvres sont grandes, ô Éternel !",
+				"Que tes œuvres sont grandes,",
+				"Que tes pensées sont profondes !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est beau de louer le Seigneur !",
+				"Il est beau de chanter",
+				"En l'honneur de ton nom ;",
+				"D'annoncer au matin ta bonté,",
+				"Et pendant les nuits ta fidélité.",
+				"Et pendant les nuits ta fidélité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louise Neuenschwander",
+			"role": "music"
+		},
+		{
+			"name": "Louise Neuenschwander",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem213",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

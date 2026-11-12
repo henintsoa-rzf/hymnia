@@ -87,7 +87,7 @@
 				>
 					<a class="hb-item__link" href={hymnUrl(hymnal.id, entry.number)}>
 						<span class="hb-item__num">{entry.number}</span>
-						<span class="hb-item__title">{frenchSpaces(hymn.title)}</span>
+						<span class="hb-item__title">{frenchSpaces(entry.title ?? hymn.title)}</span>
 					</a>
 				</li>
 			{/each}

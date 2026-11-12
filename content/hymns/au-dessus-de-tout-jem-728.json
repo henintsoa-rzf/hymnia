@@ -1,0 +1,75 @@
+{
+	"id": "au-dessus-de-tout-jem-728",
+	"title": "Au-dessus de tout",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "728"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "404"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au-dessus des puissances,",
+				"Au-dessus des rois,",
+				"Au-dessus de la nature et de la création ;",
+				"Au-dessus de tous",
+				"Les plans des hommes sages,",
+				"Bien avant le monde, tu existais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Au-dessus des royaumes,",
+				"Au-dessus des trônes,",
+				"Au-dessus des merveilles",
+				"Que ce monde a connues ;",
+				"Par dessus tous les trésors de la terre,",
+				"Rien ne peut mesurer ta valeur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Crucifié, seul, abandonné,",
+				"Tu as souffert méprisé, rejeté,",
+				"Telle une rose, foulée par nos pieds,",
+				"Tu m'as sauvé, tu m'as aimé",
+				"Par dessus tout."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lenny Leblanc ; Paul Baloche",
+			"role": "music"
+		},
+		{
+			"name": "Lenny Leblanc",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem728",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-moments-deternite/#chant-4",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "jesus-tu-es-digne",
+	"title": "Jésus, Tu es digne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "867"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu as été immolé",
+				"Et tu nous as racheté pour Dieu",
+				"Par ton sang.",
+				"Tu as fait de nous un royaume",
+				"De sacrificateurs pour Dieu",
+				"Notre Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as été immolé",
+				"Et tu nous as racheté pour Dieu",
+				"Par ton sang.",
+				"Tu as fait de nous un royaume",
+				"De sacrificateurs pour Dieu",
+				"Notre Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus,",
+				"Jésus tu es digne.",
+				"Jésus, Jésus,",
+				"Jésus tu es digne."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"À celui qui règne,",
+				"À l'Agneau de Dieu",
+				"La louange et l'honneur.",
+				"À celui qui règne,",
+				"À l'Agneau de Dieu",
+				"Le pouvoir et la gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus,",
+				"Jésus tu es digne.",
+				"Jésus, Jésus,",
+				"Jésus tu es digne."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joël Andres",
+			"role": "music"
+		},
+		{
+			"name": "Joël Andres",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem867",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

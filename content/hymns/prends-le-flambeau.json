@@ -1,0 +1,108 @@
+{
+	"id": "prends-le-flambeau",
+	"title": "Prends le flambeau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "471"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le monde est dans la nuit,",
+				"Mais, la lumière a luit.",
+				"Espoir pour les gens perdus:",
+				"Entendront-ils parler du salut ?",
+				"Jésus les aime, Il est mort pour les sauver."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends le flambeau,",
+				"Prends le flambeau !",
+				"Va dire à tous les enfants",
+				"Qu'ils sont précieux à ses yeux.",
+				"Prends le flambeau,",
+				"Prends le flambeau !",
+				"Annonce l'Évangile à tous les malheureux.",
+				"Au nom de Jésus-Christ,",
+				"prends le flambeau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des milliers de prisonniers,",
+				"Liés par le péché,",
+				"Oh, ils meurent dans l'ignorance,",
+				"Connaîtront-ils leur espérance ?",
+				"Jésus les aime, et son cœur est brisé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends le flambeau,",
+				"Prends le flambeau !",
+				"Va dire à tous les enfants",
+				"Qu'ils sont précieux à ses yeux.",
+				"Prends le flambeau,",
+				"Prends le flambeau !",
+				"Annonce l'Évangile à tous les malheureux,",
+				"Annonce l'Évangile.",
+				"Au nom de Jésus-Christ:",
+				"prends le flambeau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Allez sur la terre entière,",
+				"allez porter la lumière !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends le flambeau,",
+				"Prends le flambeau,",
+				"Prends le flambeau !",
+				"Va dire à tous les enfants",
+				"Qu'ils sont précieux à ses yeux.",
+				"Prends le flambeau,",
+				"Prends le flambeau,",
+				"Prends le flambeau !",
+				"Annonce l'Évangile à tous les malheureux,",
+				"Annonce l'Évangile.",
+				"Au nom de Jésus-Christ:",
+				"prends le flambeau !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Twila Paris",
+			"role": "music"
+		},
+		{
+			"name": "Twila Paris",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem471",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

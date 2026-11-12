@@ -1,0 +1,90 @@
+{
+	"id": "je-viens-seigneur-a-ce-bapteme-adf-574a",
+	"title": "Je viens, Seigneur, à ce baptême.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "574A"
+		},
+		{
+			"hymnal": "cd",
+			"number": "129"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je viens, Seigneur, à ce baptême,",
+				"Où tu descendis avant moi,",
+				"Heureux de mourir à moi-même",
+				"Afin de vivre comme toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Aux plaisirs, aux gloires du monde,",
+				"Je dis un éternel adieu ;",
+				"Je livre aux profondeurs de l'onde",
+				"Tout ce qui déplaît à mon Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Après tant d'erreurs et de chutes,",
+				"Tant de péchés et de remords.",
+				"Je renonce à mes vaines luttes,",
+				"Et me réfugie en ta mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"C'est pour moi que tu l'as soufferte,",
+				"Victime sainte, Agneau très doux !",
+				"Pour moi ton âme fut offerte",
+				"Et ton corps meurtri par les clous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"À ton baptême, à ton calice,",
+				"Je veux avoir part en ce jour",
+				"Et goûter, dans ton sacrifice,",
+				"La douceur de ton grand amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air grégorien arrangé par Dr Lowell Mason",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af574a",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/965",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

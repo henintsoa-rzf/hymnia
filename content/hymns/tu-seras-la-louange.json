@@ -1,0 +1,101 @@
+{
+	"id": "tu-seras-la-louange",
+	"title": "Tu seras la louange",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1160"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Me voici humblement devant toi,",
+				"Accueillant ta grâce qui se déverse en moi,",
+				"Car voici ce que j'ai à t'offrir :",
+				"Un esprit brisé, une terre délaissée,",
+				"Un soupir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu seras la louange au cœur de mes épreuves.",
+				"Tu seras la réponse à tout ce que je vis.",
+				"Tu seras la main qui viendra pour me relever.",
+				"Tu seras ma vie, mon chemin, ma vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Relevé, restauré et guéri,",
+				"Là, dans ta présence, en ta tendresse immense,",
+				"En ce lieu où mon cœur est béni,",
+				"Les flots de l'amour sont déversés sur moi",
+				"Pour toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu seras la louange au cœur de mes épreuves.",
+				"Tu seras la réponse à tout ce que je vis.",
+				"Tu seras la main qui viendra pour me relever.",
+				"Tu seras ma vie, mon chemin, ma vérité."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Du haut du ciel, tu me bénis,",
+				"Tu étends ta main avec puissance,",
+				"Tu fends la mer, tu me saisis.",
+				"Sans peur, je marche avec confiance."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Du haut du ciel, tu me bénis,",
+				"Tu étends ta main avec puissance,",
+				"Tu fends la mer, tu me saisis.",
+				"Sans peur, je marche avec confiance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu seras la louange au cœur de mes épreuves.",
+				"Tu seras la réponse à tout ce que je vis.",
+				"Tu seras la main qui viendra pour me relever.",
+				"Tu seras ma vie, mon chemin, ma vérité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Glorious",
+			"role": "music"
+		},
+		{
+			"name": "Glorious",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1160",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

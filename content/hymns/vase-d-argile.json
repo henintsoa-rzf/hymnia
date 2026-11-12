@@ -1,0 +1,111 @@
+{
+	"id": "vase-d-argile",
+	"title": "Vase d'argile",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1074"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "606",
+			"title": "Vase d’argile (Broken Vessels)"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'étais brisé, vide et sans espoir.",
+				"Ta grâce m'a trouvé, m'a restauré.",
+				"Je n'ai rien à moi, mais tel que je suis",
+				"Tu me libères, tu me libères."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Grâce infinie de notre Dieu",
+				"Qui un jour m'a sauvé.",
+				"J'allais, errant de lieu en lieu,",
+				"Quand tu m'as retrouvé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et maintenant je vois,",
+				"Je vois l'amour, la grâce dans tes yeux,",
+				"Donnant ta vie pour moi,",
+				"Me ramenant de la mort à la vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu prends nos échecs,",
+				"Tu prends nos faiblesses,",
+				"Tu places ton trésor dans des vases d'argile.",
+				"Oh ! prends mon cœur, Père !",
+				"Je veux te servir",
+				"Pour que tous voient ta vie en moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Grâce infinie de notre Dieu",
+				"Qui un jour m'a sauvé.",
+				"J'allais, errant de lieu en lieu,",
+				"Quand tu m'as retrouvé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et maintenant je vois,",
+				"Je vois l'amour, la grâce dans tes yeux,",
+				"Donnant ta vie pour moi,",
+				"Me ramenant de la mort à la vie."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! oh !",
+				"Oh ! oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joel Houston et Jonas Myrin",
+			"role": "music"
+		},
+		{
+			"name": "Joel Houston et Jonas Myrin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1074",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-6",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

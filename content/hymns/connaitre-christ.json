@@ -1,0 +1,113 @@
+{
+	"id": "connaitre-christ",
+	"title": "Connaître Christ",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "13"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon cher désir : connaître Christ,",
+				"En qui j’ai gagné la justice.",
+				"Ce don de Dieu, précieux trésor,",
+				"Éclipse tous mes vains efforts."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma pleine joie : connaître Christ,",
+				"En qui mon âme est affermie.",
+				"Dans l’abondance ou la douleur,",
+				"Sa paix viendra garder mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, je veux te connaître,",
+				"Toi, mon bien suprême,",
+				"Illumine mon esprit !",
+				"Que mon âme émerveillée",
+				"En toi seul soit comblée,",
+				"Car tu es ma vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je veux grandir en sainteté,",
+				"À Jésus être conformé,",
+				"En communiant à ses souffrances,",
+				"Être changé par sa puissance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je veux courir, saisir le prix",
+				"Pour lequel Jésus m’a saisi.",
+				"Ma foi enfin récompensée",
+				"Quand de mes yeux je le verrai !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/connaitrechrist",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

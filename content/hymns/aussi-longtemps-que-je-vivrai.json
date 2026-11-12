@@ -1,0 +1,105 @@
+{
+	"id": "aussi-longtemps-que-je-vivrai",
+	"title": "Aussi longtemps que je vivrai",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "658"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aussi longtemps que je vivrai,",
+				"Et tant que je respirerai,",
+				"Même si le temps s'arrêtait,",
+				"Si le soleil disparaissait,",
+				"Je te louerai, je te louerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les jours, les mois et les années",
+				"N'y pourront jamais rien changer.",
+				"Mon cœur est prêt à t'adorer,",
+				"Dès maintenant et à jamais",
+				"Je te louerai, je te louerai,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te louerai, je te louerai, Seigneur,",
+				"Je te louerai, je te louerai, Seigneur,",
+				"Oh ! Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les étoiles et les océans",
+				"Témoignent, ô Dieu, que tu es grand.",
+				"Tu renouvelles sur tes enfants",
+				"Ta bienveillance à chaque instant,",
+				"Je te louerai, je te louerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'entends au loin le chant des anges",
+				"Qui partout portent tes louanges.",
+				"Leurs voix m'élèvent jusqu'aux cieux,",
+				"Je vois ta gloire devant mes yeux.",
+				"Je te louerai, je te louerai,",
+				"Je te louerai, je te louerai,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te louerai, je te louerai, Seigneur,",
+				"Je te louerai, je te louerai,",
+				"Je te louerai, je te louerai, Seigneur,",
+				"Je te louerai, je te louerai, Seigneur,",
+				"Je te louerai, je te louerai, Seigneur,",
+				"Oh ! Seigneur.",
+				"Je te louerai, je te louerai."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te louerai, je te louerai, je te louerai.",
+				"Je te louerai, je te louerai,",
+				"Je te louerai, je te louerai."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nicolas Ternisien",
+			"role": "music"
+		},
+		{
+			"name": "Nicolas Ternisien",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem658",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

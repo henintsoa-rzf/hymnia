@@ -1,0 +1,97 @@
+{
+	"id": "joie-promise-des-l-origine-joy-has-dawned",
+	"title": "Joie promise dès l’origine (Joy Has Dawned)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "608"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Joie promise dès l’origine,",
+				"Matin de la naissance,",
+				"Révélant les voies divines :",
+				"À tous donne espérance.",
+				"Sans fanfare ni tambour,",
+				"Sans éclat, sans grand cri,",
+				"Mais tout simple don d’amour :",
+				"Jésus naît de Marie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans le ciel on s’émerveille,",
+				"Chants parmi les anges.",
+				"Le puissant Prince de Vie,",
+				"Logé dans l’étable.",
+				"Ses mains plaçaient les étoiles",
+				"Et formaient la terre;",
+				"Maintenant sont vulnérables",
+				"Et serrent le sein d’une mère."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Prosternés devant l’Agneau",
+				"Les bergers l’adorent.",
+				"Les dons de l’Orient lointain",
+				"Nous révèlent son destin :",
+				"L’or pour la naissance d’un roi,",
+				"L’encens, Dieu parmi nous,",
+				"Et la myrrhe nous dit la croix,",
+				"Son sang versé, sa victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Fils d’Adam, Fils du Très-Haut,",
+				"Pour nous, en rançon livré,",
+				"Homme et Dieu réconciliés",
+				"Par Jésus puissant héros.",
+				"Quel Sauveur, oui quel Ami,",
+				"Quel glorieux mystère :",
+				"Un bébé à Bethléhem",
+				"Seigneur de tout l’univers."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Keith Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "music"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-8",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

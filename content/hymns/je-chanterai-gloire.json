@@ -1,0 +1,92 @@
+{
+	"id": "je-chanterai-gloire",
+	"title": "Je chanterai gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "910"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je viens t'offrir, Seigneur,",
+				"Ce que j'ai de meilleur.",
+				"Je viens t'offrir ma vie,",
+				"Oui, à toi, Jésus-Christ.",
+				"Et même si je suis fragile,",
+				"Et même si c'est difficile,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai gloire à l'Éternel,",
+				"Je chanterai louange à son nom,",
+				"Je chanterai Dieu, mon essentiel,",
+				"Je chanterai en l'honneur de son nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je viens te dire, Seigneur,",
+				"Que tu es mon bonheur.",
+				"Non, rien ne peut détruire",
+				"Notre bel avenir.",
+				"Et même si je suis fragile,",
+				"Et même si c'est difficile,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai gloire à l'Éternel,",
+				"Je chanterai louange à son nom,",
+				"Je chanterai Dieu, mon essentiel,",
+				"Je chanterai en l'honneur de son nom."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Toute ma vie, je redirai que tu as donné ta vie,",
+				"Toute ma vie, je redirai que tu as payé le prix,",
+				"Toute ma vie, je redirai que je ne vis que pour lui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai gloire à l'Éternel,",
+				"Je chanterai louange à son nom,",
+				"Je chanterai Dieu, mon essentiel,",
+				"Je chanterai en l'honneur de son nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matthieu Marvane",
+			"role": "music"
+		},
+		{
+			"name": "Matthieu Marvane",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem910",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

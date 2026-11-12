@@ -1,0 +1,113 @@
+{
+	"id": "de-dieu-l-amour-eternel",
+	"title": "De Dieu l'amour éternel",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "246"
+		},
+		{
+			"hymnal": "adf",
+			"number": "55"
+		},
+		{
+			"hymnal": "cd",
+			"number": "37"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"De Dieu l'amour éternel,",
+				"À mon cœur s'est fait connaître,",
+				"Et je sais qu'il est réel,",
+				"Par l'Esprit qui me pénètre.",
+				"Toutes mes terreurs ont fui,",
+				"Une douce paix m'inonde ;",
+				"O sécurité profonde !",
+				"Il est à moi, je suis à lui !",
+				"O sécurité profonde !",
+				"Il est à moi, je suis à lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jamais l'oiseau n'a chanté",
+				"Hymnes si mélodieuses,",
+				"Et la terre n'a porté",
+				"Tant de fleurs si radieuses.",
+				"Jamais, dans l'azur n'a lui",
+				"Une lumière si belle…",
+				"O bonheur ! vie éternelle !",
+				"Il est à moi, je suis à lui !",
+				"O bonheur ! vie éternelle !",
+				"Il est à moi, je suis à lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mes péchés ont disparu,",
+				"Chassés comme une fumée ;",
+				"Car pour moi Jésus mourut ;",
+				"De lui mon âme est aimée.",
+				"Sûr et fort de son appui,",
+				"Je repose en sa tendresse,",
+				"Et tout bas redis sans cesse ;",
+				"Il est à moi, je suis à lui !",
+				"Et tout bas redis sans cesse ;",
+				"Il est à moi, je suis à lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À lui seul, et pour toujours !",
+				"L'enfer, la mort, ni la vie,",
+				"Rien ne peut, de son amour",
+				"Priver mon âme ravie.",
+				"Que le monde soit détruit,",
+				"Et que le soleil s'éteigne !",
+				"Jésus vit et Jésus règne :",
+				"Je vis et je règne avec lui !",
+				"Jésus vit et Jésus règne :",
+				"Il est à moi, je suis à lui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James Mountain",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg246",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af055",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/852",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

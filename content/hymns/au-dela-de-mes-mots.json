@@ -1,0 +1,73 @@
+{
+	"id": "au-dela-de-mes-mots",
+	"title": "Au-delà de mes mots",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "953"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au-delà de mes mots,",
+				"mon cœur t'adore.",
+				"Au-delà de mes mots,",
+				"mon cœur t'adore."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aucun son ne peut décrire,",
+				"Aucune toile ne peut montrer",
+				"Ton vrai visage.",
+				"Les couleurs de l'arc-en-ciel",
+				"Se dérobent devant l'éclat",
+				"De ta lumière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au-delà de mes mots,",
+				"mon cœur t'adore.",
+				"Au-delà de mes mots,",
+				"mon cœur t'adore."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le bonheur de ta maison",
+				"Me remplit d'émerveillement,",
+				"Ô Dieu vivant.",
+				"J'aime le goût de ta présence",
+				"Quand ta gloire se révèle",
+				"Par ta puissance."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem953",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

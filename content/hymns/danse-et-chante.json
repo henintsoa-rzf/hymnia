@@ -1,0 +1,106 @@
+{
+	"id": "danse-et-chante",
+	"title": "Danse et chante",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "393"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alors que l'aube enlève",
+				"Le voile de tes rêves,",
+				"Danse, danse et chante.",
+				"Quand le soleil se lève,",
+				"À peine la nuit s'achève,",
+				"Danse, danse et chante."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Danse et chante, danse et chante,",
+				"Danse et chante, n'attends pas.",
+				"Danse et chante, danse et chante,",
+				"Danse et chante, devant le Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et la journée s'avance,",
+				"Les ennuis commencent,",
+				"Danse, danse et chante.",
+				"Mais à travers la brume,",
+				"Une lueur s'allume,",
+				"Danse, danse et chante."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Danse et chante, danse et chante,",
+				"Danse et chante, n'attends pas.",
+				"Danse et chante, danse et chante,",
+				"Danse et chante, devant le Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et lorsque la nuit tombe,",
+				"Quand s'éteint le monde,",
+				"Danse, danse et chante.",
+				"Le ciel et les étoiles",
+				"Devant les yeux s'étalent,",
+				"Danse, danse et chante."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Danse et chante, danse et chante,",
+				"Danse et chante, n'attends pas.",
+				"Danse et chante, danse et chante,",
+				"Danse et chante, devant le Roi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Danse et chante, danse et chante,",
+				"Danse et chante, n'attends pas.",
+				"Danse et chante, danse et chante,",
+				"Danse et chante, devant le Roi.",
+				"N'attends pas !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Christensen",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem393",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

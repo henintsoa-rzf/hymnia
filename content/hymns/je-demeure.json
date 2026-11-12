@@ -1,0 +1,77 @@
+{
+	"id": "je-demeure",
+	"title": "Je demeure",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "862"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je demeure sous l'abri du Très-Haut,",
+				"Et je me repose à l'ombre",
+				"du Dieu tout-puissant.",
+				"Il est mon refuge et mon appui,",
+				"L'Éternel en qui je me confie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je demeure sous l'abri du Très-Haut,",
+				"Et je me repose à l'ombre",
+				"du Dieu tout-puissant.",
+				"Il est mon refuge et mon appui,",
+				"L'Éternel en qui je me confie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es ma délivrance et mon salut",
+				"En toi j'ai mis ma confiance, Seigneur Jésus.",
+				"Je n'ai pas peur des frayeurs de la nuit,",
+				"Je sais que tu veilles sur ma vie.",
+				"Je m'accroche à toi,",
+				"Je garde mes yeux sur toi,",
+				"Éternel mon refuge !",
+				"J'invoque ton nom, je proclame ton nom.",
+				"Mon salut c'est Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je demeure sous l'abri du Très-Haut,",
+				"Et je me repose à l'ombre",
+				"du Dieu tout-puissant.",
+				"Il est mon refuge et mon appui,",
+				"L'Éternel en qui je me confie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joël Andres",
+			"role": "music"
+		},
+		{
+			"name": "Joël Andres",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem862",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

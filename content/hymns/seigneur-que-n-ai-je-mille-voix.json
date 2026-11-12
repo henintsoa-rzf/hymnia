@@ -1,0 +1,110 @@
+{
+	"id": "seigneur-que-n-ai-je-mille-voix",
+	"title": "Seigneur, que n'ai-je mille voix",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "76"
+		},
+		{
+			"hymnal": "adf",
+			"number": "51"
+		},
+		{
+			"hymnal": "jem",
+			"number": "68"
+		},
+		{
+			"hymnal": "cd",
+			"number": "15"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur que n'ai-je mille voix",
+				"Pour chanter tes louanges,",
+				"Pour chanter tes louanges",
+				"Et faire monter jusqu'aux anges",
+				"Les gloires de ta croix !",
+				"Les gloires de ta croix !",
+				"Les gloires de ta croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, mon Seigneur et mon Dieu,",
+				"Que ton souffle m'anime,",
+				"Que ton souffle m'anime",
+				"Pour que par moi ton nom sublime",
+				"Retentisse en tout lieu !",
+				"Retentisse en tout lieu !",
+				"Retentisse en tout lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Doux Nom qui fait tarir nos pleurs,",
+				"Ineffable harmonie,",
+				"Ineffable harmonie,",
+				"Tu répands la joie et la vie",
+				"Et la paix dans nos cœurs !",
+				"Et la paix dans nos cœurs !",
+				"Et la paix dans nos cœurs !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Désormais, je n'ai plus d'effroi,",
+				"Aucun mal ne m'accable,",
+				"Aucun mal ne m'accable ;",
+				"Ton sang rend pur le plus coupable ;",
+				"Ton sang coula pour moi !",
+				"Ton sang coula pour moi !",
+				"Ton sang coula pour moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Jarman",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg076",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af051",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem068",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/271",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

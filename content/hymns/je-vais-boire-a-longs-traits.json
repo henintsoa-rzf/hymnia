@@ -1,0 +1,52 @@
+{
+	"id": "je-vais-boire-a-longs-traits",
+	"title": "Je vais boire à longs traits",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "123"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je vais boire à longs traits",
+				"Aux sources de la paix,",
+				"Mon Sauveur est merveilleux pour moi !",
+				"Sa gloire je dirai,",
+				"Son nom j'exalterai,",
+				"Mon Sauveur est merveilleux pour moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Merveilleux, merveilleux,",
+				"Mon Sauveur est si merveilleux !",
+				"Où jaillit le flot vivant,",
+				"Je vais boire constamment,",
+				"Mon Sauveur est vraiment merveilleux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hugh Mitchell",
+			"role": "music"
+		},
+		{
+			"name": "Hugh Mitchell",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem123",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,53 @@
+{
+	"id": "jesus-j-eleve-ma-voix-vers-toi",
+	"title": "Jésus, j'élève ma voix vers toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "771"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, j'élève ma voix vers toi",
+				"Car tu as tout pardonné,",
+				"Tout ce qui m'accablait.",
+				"Jésus, j'élève ma voix vers toi,",
+				"Pour moi tu as tout donné",
+				"Oh je veux te louer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Même si tout basculait,",
+				"Si la peur venait m'envahir,",
+				"Rien ne pourrait taire ton amour.",
+				"Ni les puissances du ciel,",
+				"Ni le présent, ni l'avenir,",
+				"Rien ne me séparera de ton amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel Pialat",
+			"role": "music"
+		},
+		{
+			"name": "Daniel Pialat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem771",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

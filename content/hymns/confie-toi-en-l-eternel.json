@@ -1,0 +1,63 @@
+{
+	"id": "confie-toi-en-l-eternel",
+	"title": "Confie-toi en l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "25"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Confie-toi en l'Éternel de tout ton cœur,",
+				"Et ne t'appuie pas sur ta sagesse ;",
+				"Confie-toi en l'Éternel de tout ton cœur,",
+				"Et ne t'appuie pas sur ta sagesse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Reconnais-le dans toutes tes voies,",
+				"Et il aplanira tes sentiers.",
+				"Confie-toi en l'Éternel de tout ton cœur,",
+				"Et ne t'appuie pas sur ta sagesse.",
+				"Ne sois point sage à tes propres yeux,",
+				"Crains l'Éternel, et détourne-toi du mal:",
+				"Ce sera la santé pour tes muscles,",
+				"Et un rafraîchissement pour tes os."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Confie-toi en l'Éternel de tout ton cœur,",
+				"Et ne t'appuie pas sur ta sagesse ;",
+				"Confie-toi en l'Éternel de tout ton cœur,",
+				"Et ne t'appuie pas sur ta sagesse."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem025",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

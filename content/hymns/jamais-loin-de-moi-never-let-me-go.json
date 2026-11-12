@@ -1,0 +1,83 @@
+{
+	"id": "jamais-loin-de-moi-never-let-me-go",
+	"title": "Jamais loin de moi (Never Let Me Go)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "610"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Cherche-moi, attire-moi près de toi.",
+				"Révèle les désirs de ton cœur.",
+				"Souffle en moi,",
+				"Ranime le feu qui purifie,",
+				"Le don de ton Esprit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toujours tu m’entends,",
+				"Toujours tu me connais.",
+				"Bien à l’abri dans tes bras",
+				"Je suis heureux.",
+				"Seigneur Yahweh El-Shaddaï,",
+				"Oui, c’est toi le Dieu Tout-Puissant.",
+				"J’aime te louer, te chanter,",
+				"Toi qui m’aimes tant.",
+				"Je dirai au monde entier",
+				"Les louanges de ta grandeur.",
+				"Oh, merci, tu n’es jamais loin,",
+				"Jamais loin de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"« Viens, dit Dieu,",
+				"De tout ton cœur, ton âme,",
+				"Mets-moi au centre de ta joie. »",
+				"Oui, Seigneur, mon cœur, ma vie,",
+				"Je donne tout à nul autre que toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Quand je t’aime, te fais confiance,",
+				"Je reçois ta paix parfaite.",
+				"Ma vie est dans ton plan:",
+				"Ma sécurité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tore W. Aas",
+			"role": "lyrics"
+		},
+		{
+			"name": "Tore W. Aas",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-10",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

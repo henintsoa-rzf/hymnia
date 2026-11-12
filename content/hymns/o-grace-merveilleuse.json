@@ -1,0 +1,113 @@
+{
+	"id": "o-grace-merveilleuse",
+	"title": "O grâce merveilleuse",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "76"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O grâce merveilleuse,",
+				"Don qui nous vient de Dieu,",
+				"Grâce si précieuse,",
+				"Fleuve jailli des cieux !",
+				"Qui donc saurait décrire",
+				"Sa force et sa fraîcheur ?",
+				"Et qui donc a pu dire",
+				"Quelle est sa profondeur ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous n'avons qu'un seul sujet de gloire:",
+				"C'est ta sainte croix, divin Sauveur.",
+				"Ta grâce est puissante, toute suffisante,",
+				"Et ton sang nous rend plus que vainqueurs.",
+				"Plus touchant que l'hymne des archanges",
+				"Est le chant qu'entonnent les élus,",
+				"Venez, chrétiens,",
+				"Qu'éclatent vos louanges: gloire à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O grâce qui nous donne",
+				"Le vrai repos du cœur,",
+				"Et qui nous environne",
+				"Quand rôde le malheur !",
+				"Elle a rompu nos chaînes",
+				"Et couvre nos forfaits,",
+				"Que Satan se démène:",
+				"Nous demeurons en paix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous n'avons qu'un seul sujet de gloire:",
+				"C'est ta sainte croix, divin Sauveur.",
+				"Ta grâce est puissante, toute suffisante,",
+				"Et ton sang nous rend plus que vainqueurs.",
+				"Plus touchant que l'hymne des archanges",
+				"Est le chant qu'entonnent les élus,",
+				"Venez, chrétiens,",
+				"Qu'éclatent vos louanges: gloire à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Grâce sans fond ni rive,",
+				"Plus vaste que la mer,",
+				"Source dont les eaux vives",
+				"Coulent en plein désert !",
+				"Par ce courant de vie,",
+				"Nous nous savons portés,",
+				"Et notre âme affranchie",
+				"Chante sa liberté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous n'avons qu'un seul sujet de gloire:",
+				"C'est ta sainte croix, divin Sauveur.",
+				"Ta grâce est puissante, toute suffisante,",
+				"Et ton sang nous rend plus que vainqueurs.",
+				"Plus touchant que l'hymne des archanges",
+				"Est le chant qu'entonnent les élus,",
+				"Venez, chrétiens,",
+				"Qu'éclatent vos louanges: gloire à Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Haldor Lillenas",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem076",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

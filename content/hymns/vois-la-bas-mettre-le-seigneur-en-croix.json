@@ -1,0 +1,65 @@
+{
+	"id": "vois-la-bas-mettre-le-seigneur-en-croix",
+	"title": "Vois, là-bas, mettre le Seigneur en croix !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "96"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vois, là-bas, mettre le Seigneur en Croix !",
+				"Vois, là-bas, mettre le Seigneur en Croix ! Oh !",
+				"Le coeur saisi d’effroi, je tremble, tremble, tremble,",
+				"Vois, là-bas, mettre le Seigneur en Croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vois, là-bas, clouer le Seigneur au bois !",
+				"Vois, là-bas, clouer le Seigneur au bois ! Oh !",
+				"Le coeur saisi d’effroi, je tremble, tremble, tremble,",
+				"Vois, là-bas, clouer le Seigneur au bois !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vois, là-bas, de leur lance ils l’ont percé !",
+				"Vois, là-bas, de leur lance ils l’ont percé ! Oh !",
+				"Le coeur saisi d’effroi, je tremble, tremble, tremble,",
+				"Vois, là-bas, de leur lance ils l’ont percé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Vois, là-bas, dans sa tombe ils l’ont porté !",
+				"Vois, là-bas, dans sa tombe ils l’ont porté ! Oh !",
+				"Le coeur saisi d’effroi, je tremble, tremble, tremble,",
+				"Vois, là-bas, dans sa tombe ils l’ont porté !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "C.Jullien",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/899",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

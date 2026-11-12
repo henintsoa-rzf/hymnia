@@ -1,0 +1,89 @@
+{
+	"id": "paix",
+	"title": "Paix",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1053"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En prière, je t'implore.",
+				"Dieu mon Père, réponds-moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta lumière : mon trésor,",
+				"Ma bannière, mon éclat.",
+				"C'est en toi, tout en toi",
+				"Que j'espère et que j'ai",
+				"L'assurance et la paix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton secours, de ton amour,",
+				"La nuit, le jour,",
+				"Vers toi je prie",
+				"À l'infini.",
+				"Mon Dieu, merci."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En prière, je supplie.",
+				"Dieu et Père, entends-moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon espoir : ton Esprit,",
+				"Je veux croire en tes voies.",
+				"C'est en toi, tout en toi",
+				"Que j'espère et que j'ai",
+				"L'assurance et la paix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton secours, de ton amour,",
+				"La nuit, le jour,",
+				"Vers toi je prie",
+				"À l'infini.",
+				"Mon Dieu, merci."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Denis Riedinger et Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Denis Riedinger et Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1053",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

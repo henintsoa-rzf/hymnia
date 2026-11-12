@@ -1,0 +1,45 @@
+{
+	"id": "en-ton-nom-seigneur",
+	"title": "En ton nom, Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "406"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"a. En ton nom, Seigneur, nous sommes là,",
+				"Tous réunis devant toi.",
+				"En ton nom, Seigneur, nous sommes là,",
+				"Tous réunis devant toi.",
+				"b. Honneur au Père, honneur au Fils,",
+				"Honneur à l'Esprit du Dieu tout-puissant.",
+				"Honneur au Père, honneur au Fils,",
+				"Honneur à l'Esprit du Dieu tout-puissant.",
+				"c. Alléluia, Alléluia,",
+				"Alléluia, Alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem406",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

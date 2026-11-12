@@ -1,0 +1,96 @@
+{
+	"id": "comme-un-cerf-altere-brame",
+	"title": "Comme un cerf altéré brame",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "12"
+		},
+		{
+			"hymnal": "adf",
+			"number": "12"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme un cerf altéré brame",
+				"Après le courant des eaux,",
+				"Ainsi soupire mon âme,",
+				"Seigneur, après tes ruisseaux ;",
+				"Elle a soif du Dieu vivant,",
+				"Et s'écrie en le suivant :",
+				"O mon Dieu, quand donc sera-ce",
+				"Que mes yeux verront ta face ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour pain je n'ai que mes larmes,",
+				"Et nuit et jour en tout lieu,",
+				"Lorsqu'en mes dures alarmes",
+				"On me dit : Que fait ton Dieu ?",
+				"Je regrette la saison",
+				"Où j'allais en ta maison,",
+				"Chantant avec les fidèles",
+				"Tes louanges immortelles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tous les flots de ta colère",
+				"Sur moi, Seigneur, ont passé ;",
+				"Mais par ta grâce j'espère",
+				"Qu'enfin l'orage a cessé.",
+				"Le jour tu me conduiras,",
+				"Et la nuit tu me feras",
+				"Chanter d'une âme ravie,",
+				"Ton saint nom, Dieu de ma vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais quel chagrin te dévore ?",
+				"Mon âme, rassure-toi :",
+				"Espère en Dieu, car encore",
+				"Il sera loué de moi.",
+				"Un regard, dans sa faveur,",
+				"Me dit qu'il est mon Sauveur,",
+				"Et c'est aussi lui, mon âme,",
+				"Qu'en tous mes maux je réclame."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg012",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af012",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

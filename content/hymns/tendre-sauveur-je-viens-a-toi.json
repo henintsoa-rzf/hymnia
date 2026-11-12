@@ -1,0 +1,93 @@
+{
+	"id": "tendre-sauveur-je-viens-a-toi",
+	"title": "Tendre Sauveur, je viens à toi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "282"
+		},
+		{
+			"hymnal": "adf",
+			"number": "606"
+		},
+		{
+			"hymnal": "cd",
+			"number": "231"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tendre Sauveur, je viens à toi,",
+				"Je voudrais te servir",
+				"Comme un disciple d'autrefois,",
+				"Je veux me soumettre à ta loi,",
+				"Te croire et t'obéir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je t'apporte mon pauvre cœur,",
+				"Remplis-le de ta paix.",
+				"Pour qu'il t'adore avec ferveur,",
+				"Rends-le plus pur et viens, Seigneur,",
+				"Y régner désormais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Maintenant au monde bruyant",
+				"Fais que je reste sourd,",
+				"Pour entendre à travers le vent,",
+				"Le feu, l'orage et l'ouragan",
+				"Ta tendre voix d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur, à tes pieds je me tiens,",
+				"Calme et silencieux.",
+				"Je sais que je suis l'un des tiens,",
+				"Et pour jamais que j'appartiens",
+				"Au royaume des cieux…"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Frederick Charles Maker",
+			"role": "music"
+		},
+		{
+			"name": "Jacques-A. Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg282",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af606",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1060",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

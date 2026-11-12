@@ -1,0 +1,49 @@
+{
+	"id": "frappe-des-mains",
+	"title": "Frappe des mains",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "305"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frappe des mains et chante ta joie,",
+				"Dès le matin glorifie ton Roi !",
+				"Frappe des mains et chante ta joie,",
+				"Dès le matin glorifie ton Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car dans ton cœur, il est entré",
+				"Le Roi de gloire pour y régner,",
+				"Règne d'amour, règne de paix,",
+				"Louange à toi, Jésus mon Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Helene Precigout",
+			"role": "music"
+		},
+		{
+			"name": "Helene Precigout",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem305",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

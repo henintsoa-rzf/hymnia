@@ -1,0 +1,119 @@
+{
+	"id": "saint-et-eleve",
+	"title": "Saint et élevé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1176"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu aurais pu choisir de rester au ciel",
+				"Auprès de ton Père,",
+				"Mais tu es venu sur terre,",
+				"Refusant l'honneur pour l'humanité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu aurais pu chérir la gloire éternelle",
+				"Auprès de ton Père,",
+				"Mais tu as tendu la main,",
+				"Dévoilant ton cœur pour l'humanité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, tu as tout donné.",
+				"Rien n’est égal à cette passion",
+				"Démontrée à la croix.",
+				"Tu es saint et élevé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu as porté le poids de mes grandes fautes",
+				"Pour me libérer",
+				"Et tu as gravi l'infâme bois,",
+				"Acquittant ma dette pour me délivrer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, tu as tout donné.",
+				"Rien n’est égal à cette passion",
+				"Démontrée à la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Où Jésus le fils de gloire,",
+				"Fut cloué pour mon péché.",
+				"L'ennemi criait victoire,",
+				"Mais la lumière a jaillit des ténèbres."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es saint et élevé,",
+				"Car tu es ressuscité.",
+				"Tout-puissant pour me sauver,",
+				"Ton sang m'a racheté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Oh !",
+				"Tu es saint et élevé,",
+				"Car tu es ressuscité.",
+				"Tout-puissant pour me sauver,",
+				"Ton sang m'a racheté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ma vie t'est consacrée,",
+				"Je suivrai tes pas pour refléter ton cœur.",
+				"Mon âme t'est livrée,",
+				"Je ferai le choix de te rendre honneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jade et Joseh Charrette, Jean-Daniel Labrie",
+			"role": "music"
+		},
+		{
+			"name": "Jade et Joseh Charrette, Jean-Daniel Labrie",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1176",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

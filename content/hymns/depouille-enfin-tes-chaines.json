@@ -1,0 +1,82 @@
+{
+	"id": "depouille-enfin-tes-chaines",
+	"title": "Dépouille enfin tes chaînes",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "134"
+		},
+		{
+			"hymnal": "adf",
+			"number": "122"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dépouille enfin tes chaînes,",
+				"Mon cœur, reprends ta foi !",
+				"Vers les clartés sereines,",
+				"Mon âme, envole-toi !",
+				"C'est l'heure où ton Sauveur,",
+				"Plus fort que la douleur,",
+				"Resplendissant et beau,",
+				"Sortit de son tombeau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Où donc est ta victoire,",
+				"Où, mort ton aiguillon ?",
+				"La tombe la plus noire",
+				"Se transforme en sillon.",
+				"Pareil au grain de blé,",
+				"Par sa mort centuplé,",
+				"Le cœur porte du fruit,",
+				"S'il meurt, s'il est détruit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que j'accepte, ô mon Maître,",
+				"Et cet ordre et ce don.",
+				"Je meurs, fais-moi renaître",
+				"Fort de mon abandon.",
+				"En vain le monde croit",
+				"M'arracher à mon Roi ;",
+				"Du saint Ressuscité",
+				"Je suis le Racheté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Sebastian Bach",
+			"role": "music"
+		},
+		{
+			"name": "Paul Gerhardt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg134",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af122",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

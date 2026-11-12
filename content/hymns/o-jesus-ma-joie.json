@@ -1,0 +1,86 @@
+{
+	"id": "o-jesus-ma-joie",
+	"title": "O Jésus ma joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "466"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus, ma joie,",
+				"Toi que Dieu m'envoie,",
+				"Mon Sauveur, mon Roi,",
+				"Viens, à ma prière,",
+				"Mettre ta lumière et ta vie en moi.",
+				"De mon cœur, sois le Seigneur.",
+				"Hors de toi, seul adorable,",
+				"Rien n'est désirable."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand le mal menace,",
+				"O Jésus, ta grâce",
+				"S'offre à notre foi.",
+				"Tu nous justifies, tu promets la vie",
+				"À celui qui croit.",
+				"Ton amour est mon recours,",
+				"En lui seul je me confie.",
+				"Veille sur ma vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seul Jésus m'attire,",
+				"Seul il peut suffire",
+				"Pour remplir mon cœur.",
+				"Il est ma richesse:",
+				"Tous les biens paraissent",
+				"pour moi sans valeur.",
+				"Les terreurs, ni les douleurs,",
+				"Ne méritent qu'on les craigne,",
+				"Puisque Jésus règne !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sois le seul exemple",
+				"Que mes yeux contemplent",
+				"O Jésus, mon Roi !",
+				"Donne-moi de vivre",
+				"Pour t'aimer, te suivre, et mourir en toi.",
+				"Chaque jour, que ton amour",
+				"Me soutienne dans ma voie,",
+				"O Jésus, ma joie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean Crüger",
+			"role": "music"
+		},
+		{
+			"name": "Jean Crüger",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem466",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

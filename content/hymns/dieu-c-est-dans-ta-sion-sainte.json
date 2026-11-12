@@ -1,0 +1,85 @@
+{
+	"id": "dieu-c-est-dans-ta-sion-sainte",
+	"title": "Dieu, c'est dans ta Sion sainte.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "9"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu, c'est dans ta Sion sainte",
+				"Que tu seras loué",
+				"C'est là qu'on t'apporte avec crainte",
+				"Ce que l'on t'a voué",
+				"Et puisque tu daignes entendre",
+				"Nos vœux et nos soupirs,",
+				"Tous les peuples viendront s'y rendre",
+				"Plein des mêmes désirs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De la paix de ton sanctuaire",
+				"Nos âmes jouiront,",
+				"Du bien que tu nous voudras faire",
+				"Elles s'enrichiront",
+				"Selon tes bontés secourables",
+				"O Dieu, tu nous maintiens",
+				"Par des prodiges admirables",
+				"Tu répondras aux tiens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, jusques aux bouts du monde,",
+				"Tout être espère en toi,",
+				"Et tout, sur la terre et sur l'onde,",
+				"Est soumis à Ta Loi.",
+				"Ceint de tes forces redoutables,",
+				"De grandeur revêtu,",
+				"Tu rends les monts inébranlables",
+				"Par ta seule vertu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À ta voix, la mer fait silence :",
+				"Ses flots sont abaissés,",
+				"Et tu réprimes l'insolence",
+				"Des peuples courroucés.",
+				"Voyant tes œuvres sans pareilles,",
+				"Les hommes, pleins d'effroi,",
+				"S'étonnent de tant de merveilles",
+				"Et tremblent devant toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af009",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

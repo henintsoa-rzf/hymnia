@@ -1,14 +1,22 @@
 {
 	"id": "a-toi-la-gloire",
-	"title": "À toi la gloire",
+	"title": "À Toi la Gloire !",
 	"entries": [
 		{
-			"hymnal": "ce",
+			"hymnal": "atg",
 			"number": "1"
 		},
 		{
-			"hymnal": "he",
-			"number": "7"
+			"hymnal": "adf",
+			"number": "118"
+		},
+		{
+			"hymnal": "jem",
+			"number": "79"
+		},
+		{
+			"hymnal": "cd",
+			"number": "110"
 		}
 	],
 	"sections": [
@@ -19,9 +27,9 @@
 				"À toi la gloire,",
 				"Ô Ressuscité !",
 				"À toi la victoire",
-				"Pour l’éternité !",
+				"Pour l'éternité !",
 				"Brillant de lumière,",
-				"L’ange est descendu,",
+				"L'ange est descendu,",
 				"Il roule la pierre",
 				"Du tombeau vaincu."
 			]
@@ -33,7 +41,7 @@
 				"À toi la gloire,",
 				"Ô Ressuscité !",
 				"À toi la victoire",
-				"Pour l’éternité !"
+				"Pour l'éternité !"
 			]
 		},
 		{
@@ -41,13 +49,23 @@
 			"number": 2,
 			"lines": [
 				"Vois-le paraître :",
-				"C’est lui, c’est Jésus,",
+				"C'est lui, c'est Jésus,",
 				"Ton Sauveur, ton Maître !",
 				"Oh ! ne doute plus !",
-				"Sois dans l’allégresse,",
+				"Sois dans l'allégresse,",
 				"Peuple du Seigneur,",
 				"Et redis sans cesse",
-				"Que Christ est vainqueur !"
+				"Que Christ est vainqueur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi la gloire,",
+				"Ô Ressuscité !",
+				"À toi la victoire",
+				"Pour l'éternité !"
 			]
 		},
 		{
@@ -56,30 +74,57 @@
 			"lines": [
 				"Craindrais-je encore ?",
 				"Il vit à jamais,",
-				"Celui que j’adore,",
-				"Le Prince de paix ;",
+				"Celui que j'adore,",
+				"Le Prince de paix.",
 				"Il est ma victoire,",
 				"Mon puissant soutien,",
 				"Ma vie et ma gloire :",
-				"Non, je ne crains rien !"
+				"Non, je ne crains rien."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi la gloire,",
+				"Ô Ressuscité !",
+				"À toi la victoire",
+				"Pour l'éternité !"
 			]
 		}
 	],
 	"credits": [
 		{
-			"name": "Edmond Budry",
-			"role": "lyrics"
+			"name": "George Frideric Haendel",
+			"role": "music"
 		},
 		{
-			"name": "Georg Friedrich Haendel",
-			"role": "music"
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
 		}
 	],
 	"source": {
-		"name": "Échantillon de test — domaine public, texte non vérifié",
-		"url": null,
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg001",
 		"retrievedAt": "2026-11-11"
 	},
-	"rights": "public-domain",
-	"corrections": []
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af118",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem079",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/930",
+			"retrievedAt": "2026-11-11"
+		}
+	]
 }

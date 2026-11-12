@@ -1,18 +1,59 @@
 [
 	{
-		"id": "ce",
-		"name": "Cantiques d’exemple",
+		"id": "jem",
+		"name": "J’aime l’Éternel",
 		"abbreviations": [
-			"CE"
+			"JEM"
 		],
-		"sortOrder": 1
+		"sortOrder": 3
 	},
 	{
-		"id": "he",
-		"name": "Hymnes d’exemple",
+		"id": "adf",
+		"name": "Ailes de la Foi",
 		"abbreviations": [
-			"HE"
+			"AdF",
+			"AF"
 		],
-		"sortOrder": 2
+		"sortOrder": 4
+	},
+	{
+		"id": "atg",
+		"name": "À Toi la Gloire",
+		"abbreviations": [
+			"ATG"
+		],
+		"sortOrder": 5
+	},
+	{
+		"id": "cd",
+		"name": "Célébrons Dieu",
+		"abbreviations": [
+			"CD"
+		],
+		"sortOrder": 6
+	},
+	{
+		"id": "exo",
+		"name": "Exo",
+		"abbreviations": [
+			"Exo"
+		],
+		"sortOrder": 7
+	},
+	{
+		"id": "ecriture",
+		"name": "Écritures",
+		"abbreviations": [
+			"Écritures"
+		],
+		"sortOrder": 8
+	},
+	{
+		"id": "psalmodie",
+		"name": "Chorale Psalmodie",
+		"abbreviations": [
+			"Psalmodie"
+		],
+		"sortOrder": 9
 	}
 ]

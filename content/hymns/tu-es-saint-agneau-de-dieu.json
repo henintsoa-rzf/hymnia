@@ -1,0 +1,55 @@
+{
+	"id": "tu-es-saint-agneau-de-dieu",
+	"title": "Tu es saint, Agneau de Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "512"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es saint, Agneau de Dieu,",
+				"Jésus-Christ, Fils de Dieu,",
+				"Élevé, tu t'es livré pour moi.",
+				"Sacrifié pour mes péchés,",
+				"Ton sang versé toujours me sauve,",
+				"Me lave, me guérit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je t'exalte,",
+				"Jésus, mon sacrifice.",
+				"Je t'exalte, mon Seigneur,",
+				"Mon Rédempteur.",
+				"Je t'exalte,",
+				"Jésus, Agneau de Dieu,",
+				"Et devant ton trône,",
+				"Je me tiens prosterné."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Bowater",
+			"role": "music"
+		},
+		{
+			"name": "Chris Bowater",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem512",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

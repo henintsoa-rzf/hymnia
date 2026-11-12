@@ -1,0 +1,51 @@
+{
+	"id": "nous-elevons-nos-mains-vers-toi",
+	"title": "Nous élevons nos mains vers toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1068"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous élevons nos mains vers toi.",
+				"Nous élevons nos mains vers toi",
+				"Et nous chantons ta gloire.",
+				"Nous élevons nos mains vers toi.",
+				"Nous élevons nos mains vers toi",
+				"Et nous chantons ta gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À chaque instant, à tout moment,",
+				"Je bénirai le Seigneur,",
+				"Quoi qu'il se passe, quoi qu'il advienne,",
+				"Sa louange à mes lèvres."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Benjamin et Thomas Pouzin",
+			"role": "music"
+		},
+		{
+			"name": "Benjamin et Thomas Pouzin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1068",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

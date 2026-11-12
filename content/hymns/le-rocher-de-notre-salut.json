@@ -1,0 +1,57 @@
+{
+	"id": "le-rocher-de-notre-salut",
+	"title": "Le rocher de notre salut",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "310"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je chanterai avec joie pour toi, mon Dieu,",
+				"Le rocher de notre salut,",
+				"Et avec reconnaissance, je t'exalterai Jésus.",
+				"Tu es le grand Roi au-dessus de tous,",
+				"Tu tiens le monde entier dans tes mains.",
+				"Je chanterai avec joie pour toi, mon Dieu,",
+				"Le rocher de notre salut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je chanterai avec joie pour toi, mon Dieu,",
+				"Le rocher de notre salut,",
+				"Et avec reconnaissance, je t'exalterai Jésus.",
+				"Tu es le grand Roi au-dessus de tous,",
+				"Tu tiens le monde entier dans tes mains.",
+				"Je chanterai avec joie pour toi, mon Dieu,",
+				"Le rocher de notre salut.",
+				"Je chanterai avec joie pour toi, mon Dieu,",
+				"Le rocher de notre salut."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Shona Sauni",
+			"role": "music"
+		},
+		{
+			"name": "Shona Sauni",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem310",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,88 @@
+{
+	"id": "c-est-dans-le-calme",
+	"title": "C'est dans le calme",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "847"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est dans le calme et la tranquillité",
+				"Que sera notre force",
+				"Et la confiance en ta fidélité",
+				"Sera notre paix.",
+				"C'est dans le calme et la tranquillité",
+				"Que sera notre force",
+				"Et la confiance en ta fidélité",
+				"Sera notre paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous avons tant de peine à croire",
+				"En tes promesses",
+				"Et à ne pas compter sur nos propres efforts."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est dans le calme et la tranquillité",
+				"Que sera notre force",
+				"Et la confiance en ta fidélité",
+				"Sera notre paix.",
+				"C'est dans le calme et la tranquillité",
+				"Que sera notre force",
+				"Et la confiance en ta fidélité",
+				"Sera notre paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Car tu attends de nous révéler ta tendresse",
+				"Et de convaincre nos cœurs de ta compassion."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est dans le calme et la tranquillité",
+				"Que sera notre force",
+				"Et la confiance en ta fidélité",
+				"Sera notre paix.",
+				"C'est dans le calme et la tranquillité",
+				"Que sera notre force",
+				"Et la confiance en ta fidélité",
+				"Sera notre paix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham",
+			"role": "music"
+		},
+		{
+			"name": "David Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem847",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

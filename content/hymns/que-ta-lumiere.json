@@ -1,0 +1,38 @@
+{
+	"id": "que-ta-lumiere",
+	"title": "Que ta lumière",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "266"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que ta lumière nous conduise,",
+				"Que ta Parole nous instruise,",
+				"Que ton Esprit nous transforme, ô Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Alfred Kuen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg266",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

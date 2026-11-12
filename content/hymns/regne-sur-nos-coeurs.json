@@ -1,0 +1,61 @@
+{
+	"id": "regne-sur-nos-coeurs",
+	"title": "Règne sur nos cœurs",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1064"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Une seule Église, un seul Esprit,",
+				"Un seul Père pour tous les hommes.",
+				"Un seul baptême et une seule foi,",
+				"Un même appel pour son Royaume."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Règne sur nos cœurs !",
+				"Règne en nous, Seigneur !",
+				"Que ta gloire, ô Jésus,",
+				"Partout soit répandue",
+				"Par l'amour que nous portons !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Règne sur nos cœurs !",
+				"Règne en nous, Seigneur !",
+				"Et qu'au bout de la terre",
+				"Brille la lumière",
+				"Du Rédempteur des nations !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1064",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

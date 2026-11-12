@@ -1,0 +1,53 @@
+{
+	"id": "donnez-louange-et-gloire",
+	"title": "Donnez louange et gloire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "91"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Donnez louange et gloire",
+				"Au Père, au Fils, au Saint-Esprit",
+				"Et gardez la mémoire",
+				"Des biens dont Dieu nous enrichit.",
+				"Heureux qui se confie",
+				"En son divin pouvoir !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Heureux qui, pour la vie,",
+				"Met en lui son espoir !",
+				"Seigneur, en nos détresses,",
+				"Nous regardons à toi.",
+				"Tu remplis tes promesses,",
+				"Augmente-nous la foi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Kugelmann",
+			"role": "music"
+		},
+		{
+			"name": "C. Ecklin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg091",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

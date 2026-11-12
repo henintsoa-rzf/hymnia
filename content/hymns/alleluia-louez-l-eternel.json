@@ -1,0 +1,91 @@
+{
+	"id": "alleluia-louez-l-eternel",
+	"title": "Alléluia ! louez l'Éternel !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "51"
+		},
+		{
+			"hymnal": "jem",
+			"number": "64",
+			"title": "Louez l'Éternel"
+		},
+		{
+			"hymnal": "cd",
+			"number": "17",
+			"title": "Louez l'Éternel"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alléluia ! Louez l'Éternel,",
+				"Car il et bon, car sa miséricorde",
+				"Dure à toujours, dure à toujours, amen !",
+				"Dure à toujours, amen !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Non, pas à nous, Seigneur, pas à nous,",
+				"Mais à ton nom, à ton nom, donne gloire,",
+				"Pour ton amour, pour ta fidélité,",
+				"Pour ta fidélité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'un chant nouveau, joyeux, monte au ciel",
+				"Vers notre Dieu, car sa parole est droite.",
+				"Il dit un mot : la chose s'accomplit,",
+				"La chose s'accomplit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ton trône, ô Dieu, subsiste à jamais.",
+				"Tu tiens en main le sceptre de justice.",
+				"Et moi, je dis : mon œuvre est pour le Roi,",
+				"Mon œuvre est pour le Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "K. Schulz",
+			"role": "music"
+		},
+		{
+			"name": "K. Schulz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg051",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem064",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/908",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

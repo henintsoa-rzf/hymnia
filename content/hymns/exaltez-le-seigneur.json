@@ -1,0 +1,53 @@
+{
+	"id": "exaltez-le-seigneur",
+	"title": "Exaltez le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "408"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Exaltez le Seigneur.",
+				"Exaltez le Seigneur.",
+				"Prosternez-vous, adorez.",
+				"Prosternez-vous, adorez.",
+				"Saint est notre Dieu.",
+				"Saint est notre Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Exaltons le Seigneur.",
+				"Exaltons le Seigneur.",
+				"Prosternons-nous, adorons.",
+				"Prosternons-nous, adorons.",
+				"Saint est notre Dieu.",
+				"Saint est notre Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rick Ridings",
+			"role": "music"
+		},
+		{
+			"name": "Rick Ridings",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem408",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,72 @@
+{
+	"id": "quand-ton-peuple-au-desert",
+	"title": "Quand ton peuple au désert.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "382"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand ton peuple, au désert,",
+				"habitait sous la tente,",
+				"Éternel, tu daignas prouver que tu l'aimais,",
+				"En voulant pour demeure une toile flottante,",
+				"Où le feu de l'autel ne s'éteignît jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et nous avons ici dressé ce tabernacle,",
+				"Pour y louer ton Nom, pour écouter ta voix ;",
+				"À la mort éternelle arrachés par miracle,",
+				"Nous venons célébrer la gloire de ta croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si l'autel est debout, qu'importe l'édifice ?",
+				"Quel temple pourrions-nous",
+				"bâtir à ton honneur ?",
+				"Tu t'es offert toi-même, Agneau du Sacrifice ;",
+				"À nous de nous offrir,",
+				"corps, esprit, âme et cœur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu sièges maintenant à la droite du Père ;",
+				"Dans le temple céleste où tu nous recevras.",
+				"Jésus, ta chère Église attend, désire, espère",
+				"Le jour où sur le nue enfin tu paraîtras."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ludwig van Beethoven",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af382",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

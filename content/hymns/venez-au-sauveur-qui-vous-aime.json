@@ -1,0 +1,109 @@
+{
+	"id": "venez-au-sauveur-qui-vous-aime",
+	"title": "Venez au Sauveur qui vous aime",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "223"
+		},
+		{
+			"hymnal": "adf",
+			"number": "465"
+		},
+		{
+			"hymnal": "cd",
+			"number": "186"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez au Sauveur qui vous aime,",
+				"Venez, il a brisé vos fers ;",
+				"Il veut vous recevoir lui-même,",
+				"Ses bras vous sont ouverts."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel beau jour, Sauveur fidèle,",
+				"Quand, nous appuyant sur ton bras,",
+				"Dans la demeure paternelle",
+				"Nous porterons nos pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Venez, pécheurs, il vous appelle,",
+				"Le bonheur est dans son amour.",
+				"Ah ! donnez-lui ce cœur rebelle,",
+				"Donnez-le sans retour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel beau jour, Sauveur fidèle,",
+				"Quand, nous appuyant sur ton bras,",
+				"Dans la demeure paternelle",
+				"Nous porterons nos pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le temps s'enfuit, l'heure s'écoule,",
+				"Qui sait si nous vivrons demain ?",
+				"Jésus est ici dans la foule :",
+				"Ah ! saisissez sa main !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel beau jour, Sauveur fidèle,",
+				"Quand, nous appuyant sur ton bras,",
+				"Dans la demeure paternelle",
+				"Nous porterons nos pas !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frederick Root",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg223",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af465",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1015",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

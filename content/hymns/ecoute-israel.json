@@ -1,0 +1,73 @@
+{
+	"id": "ecoute-israel",
+	"title": "Écoute Israël",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "568"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Écoute Israël, le Seigneur notre Dieu,",
+				"Le Seigneur est un.",
+				"Écoute Israël, le Seigneur notre Dieu,",
+				"Le Seigneur est un."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Écoute Israël,",
+				"Le Seigneur notre Dieu,",
+				"Le Seigneur est un.",
+				"Écoute Israël,",
+				"Le Seigneur notre Dieu,",
+				"Le Seigneur est un."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Shma, Israël, Adonaï Eloheinou,",
+				"Adonaï echad.",
+				"Shma, Israël, Adonaï Eloheinou,",
+				"Adonaï echad."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Shma, Israël,",
+				"Adonaï Eloheinou,",
+				"Adonaï echad.",
+				"Shma, Israël,",
+				"Adonaï Eloheinou,",
+				"Adonaï echad."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem568",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

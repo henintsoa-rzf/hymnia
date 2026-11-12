@@ -1,0 +1,67 @@
+{
+	"id": "j-ai-faim",
+	"title": "J'ai faim",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "859"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai faim, je viens à toi,",
+				"Je le sais : tu rassasies.",
+				"J'ai soif, mais je sais que ton amour ne peut tarir.",
+				"Je m'attends à toi, je m'attends à toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À genoux devant toi,",
+				"Je t'offre tout de moi.",
+				"Jésus, tu es le seul pour qui je vis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Brisé, je cours vers toi,",
+				"Car tes bras sont grand ouverts.",
+				"Je suis épuisé mais ton esprit restaure mon être.",
+				"Je m'attends à toi, je m'attends à toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À genoux devant toi,",
+				"Je t'offre tout de moi.",
+				"Jésus, tu es le seul pour qui je vis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Kathryn Scott",
+			"role": "music"
+		},
+		{
+			"name": "Kathryn Scott",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem859",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,93 @@
+{
+	"id": "ta-parole-ecriture-1",
+	"title": "Ta Parole",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "1"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta Parole, portée par l'Esprit,",
+				"Te révèle et te glorifie.",
+				"Que nous puissions entendre et comprendre,",
+				"Ouvre nos yeux pour te contempler."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel sublime trésor, plus précieux que l'or,",
+				"Tes paroles de vie éternelle !",
+				"Œuvre par ton Esprit pour révéler le Christ.",
+				"Parle-nous, nourris-nous par ta voix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta Parole convainc de péché",
+				"Et nous change pour te ressembler.",
+				"Que nos cœurs soient comme un sol fertile,",
+				"Combats en nous l’incrédulité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta Parole, sûre fondation,",
+				"L'espérance des générations.",
+				"Que nos vies soient bâties sur ce roc,",
+				"Instruis-nous pour marcher dans tes voies !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/taparole",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

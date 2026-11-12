@@ -1,0 +1,71 @@
+{
+	"id": "j-aime-du-soir",
+	"title": "J'aime du soir.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "452"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'aime du soir les pures harmonies",
+				"Et les parfums qui montent vers le ciel,",
+				"J'unis ma voix à ces voix réunies",
+				"Pour célébrer le Seigneur Éternel.",
+				"Avec un doux sourire,",
+				"Le ciel semble nous dire,",
+				"Dans les adieux du jour qui fuit :",
+				"Pense à Dieu, crois en Lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La fleur alors se penche sur sa tige",
+				"Pour exhaler ses suaves senteurs,",
+				"Et moi, je sens que cette heure m'oblige",
+				"À bénir Dieu pour ses tendres faveurs.",
+				"À l'âme recueillie",
+				"Répond sa voix amie,",
+				"Disant avec le jour qui fuit :",
+				"Pense à Dieu, crois en Lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand du couchant l'éclat pourpré s'allume,",
+				"Les monts lointains se dressent en autels,",
+				"Et des vallons effacés dans la brume",
+				"Monte un soupir au Seigneur Éternel.",
+				"Dieu, de sa voix propice,",
+				"Répond au sacrifice,",
+				"Dans les rayons du jour qui fuit :",
+				"Pense à Dieu, crois en Lui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Durand",
+			"role": "music"
+		},
+		{
+			"name": "Louis Durand",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af452",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

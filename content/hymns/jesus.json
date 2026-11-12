@@ -1,0 +1,61 @@
+{
+	"id": "jesus",
+	"title": "Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "101"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus,",
+				"Jésus, Jésus, Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, il mourut, oui, il mourut,",
+				"Oui, il mourut, oui, il mourut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ressuscité, ressuscité,",
+				"Ressuscité, ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il vit en moi, il vit en moi,",
+				"Il vit en moi, il vit en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Debby Kerner",
+			"role": "music"
+		},
+		{
+			"name": "Debby Kerner",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem101",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

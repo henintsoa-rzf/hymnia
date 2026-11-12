@@ -1,0 +1,105 @@
+{
+	"id": "brisant-ses-liens-funebres",
+	"title": "Brisant ses liens funèbres",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "136"
+		},
+		{
+			"hymnal": "adf",
+			"number": "119"
+		},
+		{
+			"hymnal": "cd",
+			"number": "111"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Brisant ses liens funèbres,",
+				"Alléluia !",
+				"Christ est sorti des ténèbres ;",
+				"Alléluia !",
+				"Le ciel, la terre ont chanté :",
+				"Alléluia !",
+				"Jésus est ressuscité.",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les soldats, le sceau, la pierre,",
+				"Alléluia !",
+				"N'ont pu le garder en terre ;",
+				"Alléluia !",
+				"Et c'est pour nous qu'aujourd'hui,",
+				"Alléluia !",
+				"Le ciel s'ouvre devant Lui !",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il vit, notre Roi de gloire !",
+				"Alléluia !",
+				"Sépulcre, où est ta victoire ?",
+				"Alléluia !",
+				"Il a détruit sans effort,",
+				"Alléluia !",
+				"La puissance de la mort.",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Puisque ta mort fut suivie,",
+				"Alléluia !",
+				"Du triomphe de la vie,",
+				"Alléluia !",
+				"Je veux, ô mon divin Roi,",
+				"Alléluia !",
+				"Mourir et naître avec toi !",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil Lyra Davidica",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg136",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af119",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/958",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

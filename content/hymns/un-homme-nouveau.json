@@ -1,0 +1,70 @@
+{
+	"id": "un-homme-nouveau",
+	"title": "Un homme nouveau",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "504"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un homme transformé, en plein coeur et pour toujours",
+				"Un homme éclairé par la flamme de l’amour.",
+				"Un homme au coeur de pierre, rendu tendre, obéissant",
+				"Un homme adopté par un Dieu au coeur de Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vivre pleinement cette vie, voilà le cadeau de Jésus",
+				"Je vis dans son amour et son pardon, j’ai trouvé la liberté,",
+				"Je vis dans son amour et son pardon, j’ai trouvé la liberté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vivre par Jésus tous les jours, enlever le mal de mon coeur",
+				"Laisser agir en moi le Saint-Esprit, par lui je serai vainqueur,",
+				"Laisser agir en moi le Saint-Esprit, par lui je serai vainqueur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vivre dans l’amour et la joie, porter la lumière à tout homme",
+				"Ma vie entière est toute offerte à Dieu, et je vis pour le servir,",
+				"Ma vie entière est toute offerte à Dieu, et je vis pour le servir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Varidel",
+			"role": "lyrics"
+		},
+		{
+			"name": "Frédérique Jaccard",
+			"role": "lyrics"
+		},
+		{
+			"name": "Sylvain Jaccard",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-4",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

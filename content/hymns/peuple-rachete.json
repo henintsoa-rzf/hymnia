@@ -1,0 +1,131 @@
+{
+	"id": "peuple-rachete",
+	"title": "Peuple racheté",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1003"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Peuple racheté du Seigneur,",
+				"Lève-toi pour louer ton Dieu.",
+				"Chante de tout ton cœur,",
+				"Car il est merveilleux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toutes les nations,",
+				"Assemblées en son saint nom,",
+				"Louent le Dieu tout-puissant",
+				"Qui unit ses enfants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez, louez, louez l'Éternel,",
+				"Car l'Éternel est bon.",
+				"Il est rempli de miséricorde,",
+				"De grâce, de compassion."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez, louez, louez l'Éternel,",
+				"Car l'Éternel est bon.",
+				"Il est rempli de miséricorde,",
+				"D'amour et de pardon."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je veux chanter la fidélité",
+				"Du grand Dieu d'Israël.",
+				"Et admirer ses plans éternels,",
+				"Lui qui les a gardés."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je veux parler de ses compassions",
+				"Pour toutes les nations.",
+				"Dans son amour,",
+				"Il les a greffées sur son olivier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez, louez, louez l'Éternel,",
+				"Car l'Éternel est bon.",
+				"Il est rempli de miséricorde,",
+				"De grâce, de compassion."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez, louez, louez l'Éternel,",
+				"Car l'Éternel est bon.",
+				"Il est rempli de miséricorde,",
+				"D'amour et de pardon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Halle, hallelu et Adonaï,",
+				"Kitov Adonaï",
+				"Rah'ameïcha rabim.",
+				"Imcha haslicha."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Halle, hallelu et Adonaï,",
+				"Kitov Adonaï",
+				"Rah'ameïcha rabim.",
+				"Imcha haslicha.",
+				"Imcha haslicha !",
+				"Imcha ha hava !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1003",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

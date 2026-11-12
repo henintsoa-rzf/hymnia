@@ -1,0 +1,51 @@
+{
+	"id": "quel-bonheur-de-marcher-avec-lui-jem-146",
+	"title": "Quel bonheur de marcher avec lui",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "146"
+		},
+		{
+			"hymnal": "cd",
+			"number": "348"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel bonheur de marcher avec lui,",
+				"Quel bonheur de marcher avec lui,",
+				"Il conduira tous mes pas",
+				"De mon voyage ici-bas.",
+				"Quel bonheur de marcher avec lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Haldor Lillenas",
+			"role": "music"
+		},
+		{
+			"name": "Haldor Lillenas",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem146",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1186",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"id": "beni-soit-ton-nom-jem-986",
+	"title": "Béni soit ton nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "986"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta majesté, ta sainteté",
+				"Nous incitent à louer ton nom,",
+				"Ta vérité, ta loyauté.",
+				"Béni soit ton nom !",
+				"Ta création, tes décisions",
+				"Démontrent combien tu es bon.",
+				"Et d'un seul cœur nous te chantons :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois ô Roi, nos cris de joie.",
+				"Oh ! béni soit ton nom !",
+				"Oh ! béni soit ton nom !",
+				"Reçois, ô Père, notre prière.",
+				"Oh ! béni soit ton nom !",
+				"Oh ! béni soit ton nom !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Te regarder, te ressembler",
+				"Sont désormais notre ambition,",
+				"Parler de toi, de ta beauté.",
+				"Béni soit ton nom !",
+				"Ta bienveillance et ta puissance",
+				"Sont bien réelles, et nous verrons",
+				"Tous les bienfaits de ta présence."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois ô Roi, nos cris de joie.",
+				"Oh ! béni soit ton nom !",
+				"Oh ! béni soit ton nom !",
+				"Reçois, ô Père, notre prière.",
+				"Oh ! béni soit ton nom !",
+				"Oh ! béni soit ton nom !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Notre Père, qui es dans les cieux,",
+				"Ton nom est beau et glorieux.",
+				"Reçois nos cœurs et nos pensées,",
+				"Notre amour pour l'éternité.",
+				"Notre Père, qui es dans les cieux,",
+				"Ton nom est beau et glorieux.",
+				"Reçois nos cœurs et nos pensées,",
+				"Notre amour pour l'éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois ô Roi, nos cris de joie.",
+				"Oh ! béni soit ton nom !",
+				"Oh ! béni soit ton nom !",
+				"Reçois, ô Père, notre prière.",
+				"Oh ! béni soit ton nom !",
+				"Oh ! béni soit ton nom !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Blanc",
+			"role": "music"
+		},
+		{
+			"name": "Thomas Blanc",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem986",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

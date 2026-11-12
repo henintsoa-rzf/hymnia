@@ -1,0 +1,59 @@
+{
+	"id": "je-sais-en-verite",
+	"title": "Je sais en vérité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "768"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je sais en vérité que l'Éternel est grand",
+				"Et que notre Seigneur surpasse tous les dieux.",
+				"L'Éternel accomplit tout ce qu'il veut",
+				"Au ciel et sur la terre,",
+				"dans les mers et dans les abîmes.",
+				"Des confins de la terre,",
+				"il fait monter les brumes,",
+				"Il lance les éclairs au milieu de la pluie,",
+				"Il fait lever le vent qu'il tenait en réserve."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je sais en vérité que l'Éternel est grand",
+				"Et que notre Seigneur surpasse tous les dieux.",
+				"L'Éternel accomplit tout ce qu'il veut",
+				"Au ciel et sur la terre,",
+				"dans les mers et dans les abîmes.",
+				"Des confins de la terre,",
+				"il fait monter les brumes,",
+				"Il lance les éclairs au milieu de la pluie,",
+				"Il fait lever le vent qu'il tenait en réserve."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem768",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

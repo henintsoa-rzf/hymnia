@@ -1,0 +1,113 @@
+{
+	"id": "sur-de-la-victoire",
+	"title": "Sûr de la victoire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "643"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sûr de la victoire,",
+				"Soldat du Seigneur,",
+				"Marche, chante : « Gloire ! »",
+				"Tu seras vainqueur.",
+				"Le grand Capitaine,",
+				"Qui va devant toi,",
+				"Te la rend certaine ;",
+				"Combats avec foi :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, la victoire,",
+				"Tu l'auras.",
+				"Chante donc : « Gloire ! »",
+				"Tu verras",
+				"Ton adversaire",
+				"Fort, vaillant,",
+				"Tomber à terre",
+				"À l'instant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'ennemi s'avance",
+				"Redoublant le pas",
+				"Et, plein d'assurance,",
+				"Ne s'arrête pas ;",
+				"Mais Christ va combattre,",
+				"Reste près de Lui ;",
+				"Déjà pour l'abattre",
+				"Son épée a lui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et, la victoire.",
+				"Tu l'auras.",
+				"Chante donc : « Gloire ! »",
+				"Tu verras",
+				"Ton adversaire",
+				"Fort, vaillant,",
+				"Tomber à terre",
+				"À l'instant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu tient la couronne",
+				"Promise au vainqueur,",
+				"C'est lui qui la donne",
+				"Avec le bonheur ;",
+				"Bientôt sur ta tête",
+				"Il va la poser ;",
+				"Dans sa paix parfaite",
+				"Tu vas reposer,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car la victoire,",
+				"Tu l'auras.",
+				"Chante donc : « Gloire ! »",
+				"Tu verras",
+				"Ton adversaire",
+				"Fort, vaillant,",
+				"Tomber à terre",
+				"À l'instant !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Howard Doane",
+			"role": "music"
+		},
+		{
+			"name": "A. Boisson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af643",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

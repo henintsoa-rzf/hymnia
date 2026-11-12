@@ -1,0 +1,139 @@
+{
+	"id": "pare-de-splendeur",
+	"title": "Paré de splendeur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1019"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tes merveilles et ta splendeur",
+				"Nous poussent à l'adoration.",
+				"Tout ce qui vit chante en ton honneur",
+				"La gloire de ta création."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans tes mains, tout l'univers,",
+				"La vie et tous ses mystères,",
+				"Tant de beautés nous parlent de toi.",
+				"Toute la terre s'écrie avec joie :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tu es beau, Seigneur, paré de splendeur. »",
+				"Tout ce que tu fais révèle ta gloire.",
+				"Ton amour, ta grâce à jamais nous dépassent.",
+				"Tu nous éblouis, auteur de la vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans le monde, tant de douleurs,",
+				"De souffrances et de laideurs,",
+				"Même la nature soupire après toi.",
+				"Tu es notre seul espoir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par la croix, réconcilié,",
+				"Tout en toi est restauré.",
+				"Sur la terre, un jour on verra",
+				"Ta beauté dans tout son éclat."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tu es beau, Seigneur, paré de splendeur. »",
+				"Tout ce que tu fais révèle ta gloire.",
+				"Ton amour, ta grâce à jamais nous dépassent.",
+				"Tu nous éblouis, auteur de la vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Créateur des océans",
+				"Comme des doux rires d'un enfant,",
+				"Ouvre nos yeux sur tous nos chemins",
+				"Aux splendeurs venant de ta main."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rassemblés, nous t'adorons,",
+				"Nous célébrons ta victoire.",
+				"Que nous soyons pour la création,",
+				"En Christ, des porteurs d'espoir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tu es beau, Seigneur, paré de splendeur. »",
+				"Tout ce que tu fais révèle ta gloire.",
+				"Ton amour, ta grâce à jamais nous dépassent.",
+				"Tu nous éblouis, auteur de la vie !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tous les hommes de toutes les nations",
+				"D'un seul cœur exalteront",
+				"Ta beauté aux mille couleurs,",
+				"Tout ce qui vit proclamera :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tu es beau, Seigneur, paré de splendeur. »",
+				"Tout ce que tu fais révèle ta gloire.",
+				"Ton amour, ta grâce à jamais nous dépassent.",
+				"Tu nous éblouis, auteur de la vie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Bancal et Cédric Chanson",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Bancal et Cédric Chanson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1019",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

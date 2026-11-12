@@ -1,0 +1,87 @@
+{
+	"id": "seigneur-fais-couler",
+	"title": "Seigneur, fais couler",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "708"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Herr, giesse Ströme",
+				"des lebendigen Wassers aus,",
+				"O Herr, über uns.",
+				"O Herr, giesse neu",
+				"die Kraft des Heiligen Geistes aus,",
+				"O Herr, über uns."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sieh' unser dürres Land, hör' unser Schrei'n.",
+				"Nur deine starke Hand kann uns befrei'n.",
+				"Lass Wasser fliessen Herr,",
+				"Von deinem Thron,",
+				"Giess'aus in unser Land den Lebenstrom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, fais couler tes fleuves d'eau",
+				"Sur tous tes enfants,",
+				"Seigneur, sur nous.",
+				"Seigneur, fais couler en nous",
+				"La force de ton Esprit saint,",
+				"Seigneur, sur nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vois ce pays aride, écoute nos cris.",
+				"Ta main seule, ô Seigneur, peut nous libérer.",
+				"Que les sources d'eau limpides,",
+				"Coulant de ton trône,",
+				"Inondent ce pays des flots de ta vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, fais couler tes fleuves d'eau",
+				"Sur tous tes enfants,",
+				"Seigneur, sur nous.",
+				"Seigneur, fais couler en nous",
+				"La force de ton Esprit saint,",
+				"Seigneur, sur nous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Albert Frey",
+			"role": "music"
+		},
+		{
+			"name": "Albert Frey",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem708",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

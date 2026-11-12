@@ -1,0 +1,114 @@
+{
+	"id": "a-l-agneau-sur-son-trone",
+	"title": "À l'Agneau sur son trône",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "67"
+		},
+		{
+			"hymnal": "adf",
+			"number": "62"
+		},
+		{
+			"hymnal": "jem",
+			"number": "518"
+		},
+		{
+			"hymnal": "cd",
+			"number": "40"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À l'Agneau sur son trône,",
+				"Apportons la couronne !",
+				"Il l'a conquise sur la Croix ;",
+				"Il est le Roi des rois !",
+				"Éveille-toi, mon âme !",
+				"Bénis, adore, acclame,",
+				"Avec tous les anges du ciel,",
+				"Jésus, Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À l'Agneau sur son trône,",
+				"L'encens et la couronne !",
+				"Car il est le Verbe incarné,",
+				"D'une vierge Il est né.",
+				"O sagesse profonde !",
+				"Le Créateur du monde,",
+				"Pour vaincre le mal triomphant,",
+				"S'est fait petit enfant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il eut la croix pour trône,",
+				"L'épine pour couronne !",
+				"Mais le Père a glorifié",
+				"Son Fils crucifié.",
+				"Au Prince de la Vie",
+				"La mort est asservie ;",
+				"Hors de la tombe Il est monté ;",
+				"Christ est ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À l'Agneau tous les trônes,",
+				"Et toutes les couronnes !",
+				"Il est le Maître souverain,",
+				"Les temps sont en sa main.",
+				"Rendons l'honneur suprême",
+				"À celui qui nous aime,",
+				"Et qui revient victorieux,",
+				"Pour nous ouvrir les cieux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Job Elvey",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg067",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af062",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem518",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/518",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

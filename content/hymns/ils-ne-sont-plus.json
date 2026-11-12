@@ -1,0 +1,91 @@
+{
+	"id": "ils-ne-sont-plus",
+	"title": "Ils ne sont plus.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "514"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ils ne sont plus, ô Dieu,",
+				"ces sombres jours d'orage,",
+				"Où portant ses soupirs de rivage en rivage,",
+				"Ta plaintive Sion t'invoquait au désert ;",
+				"N'ayant pour pavillon que la voûte azurée,",
+				"Pour musique sacrée",
+				"Que le bruit des torrents et le souffle des airs,",
+				"Que le bruit des torrents et le souffle des airs,",
+				"Que le bruit des torrents et le souffle des airs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La voix de la prière et le chant des cantiques",
+				"Font retentir enfin de paisibles portiques :",
+				"Gloire soit à jamais à notre Rédempteur !",
+				"Dans sa miséricorde Il a séché nos larmes ;",
+				"À de longues alarmes,",
+				"Il a fait succéder le calme et le bonheur.",
+				"Il a fait succéder le calme et le bonheur.",
+				"Il a fait succéder le calme et le bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bénis, ô notre Dieu, ce nouveau sanctuaire",
+				"Qui désormais nous offre un abri tutélaire !",
+				"Que notre culte y soit esprit et vérité,",
+				"Et que nous y trouvions la source désirée",
+				"Où notre âme altérée",
+				"Viendra puiser la vie et l'immortalité.",
+				"Viendra puiser la vie et l'immortalité.",
+				"Viendra puiser la vie et l'immortalité ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Fais-toi connaître à nous",
+				"dans cette maison sainte ;",
+				"Que nos enfants, Seigneur,",
+				"élevés dans ta crainte,",
+				"Te servent avec nous, peuple libre et joyeux !",
+				"Pour célébrer ton nom, allume dans notre âme",
+				"Cette foi, cette flamme,",
+				"Qui, dans les jours d'épreuve,",
+				"animait nos aïeux.",
+				"Qui, dans les jours d'épreuve,",
+				"animait nos aïeux.",
+				"Qui, dans les jours d'épreuve,",
+				"animait nos aïeux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisée Bost",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af514",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

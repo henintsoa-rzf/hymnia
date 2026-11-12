@@ -1,0 +1,65 @@
+{
+	"id": "le-cri-d-el-shaddai",
+	"title": "Le cri d'El shaddaï",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "780"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entendez-vous comme un tonnerre au loin ?",
+				"Quand nous louons, le lion de Juda rugit.",
+				"Les forteresses, autour de nous,",
+				"S'écroulent en présence du Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La victoire est dans le camp",
+				"Quand nous crions: « El Shaddaï. »",
+				"Tous nos ennemis s'enfuient",
+				"Loin du feu de son regard.",
+				"Les captifs sont libérés.",
+				"C'est l'année du jubilé",
+				"Quand retentit le cri: « El Shaddaï. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La victoire est dans le camp",
+				"Quand nous crions: « El Shaddaï. »",
+				"Tous nos ennemis s'enfuient",
+				"Loin du feu de son regard.",
+				"Les captifs sont libérés.",
+				"C'est l'année du jubilé",
+				"Quand retentit le cri: « El Shaddaï. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Wilbur ; Ed Kerr",
+			"role": "music"
+		},
+		{
+			"name": "Paul Wilbur ; Ed Kerr",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem780",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,92 @@
+{
+	"id": "dieu-ta-fidelite",
+	"title": "Dieu, ta fidélité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "400"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, ta fidélité va jusqu'aux nues,",
+				"Plus vaste est ton amour que l'horizon,",
+				"Ta tendre main est toujours étendue,",
+				"Inépuisable est ta compassion."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, ta fidélité, ton immense bonté",
+				"Se renouvelle envers moi chaque jour.",
+				"Tous mes besoins,",
+				"c'est ta main qui les comble,",
+				"Dieu, ta fidélité dure à toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Romance du printemps, or de l'automne,",
+				"Neige hivernale ou saveurs de l'été,",
+				"Tout l'univers, à ta louange entonne",
+				"L'hymne à ta grâce, à ta fidélité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, ta fidélité, ton immense bonté",
+				"Se renouvelle envers moi chaque jour.",
+				"Tous mes besoins,",
+				"c'est ta main qui les comble,",
+				"Dieu, ta fidélité dure à toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta joie et ton pardon en abondance,",
+				"Ta présence en mon cœur, ta chaude voix,",
+				"Ta force à chaque pas, ton espérance,",
+				"Par ta fidélité, tout est à moi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, ta fidélité, ton immense bonté",
+				"Se renouvelle envers moi chaque jour.",
+				"Tous mes besoins,",
+				"c'est ta main qui les comble,",
+				"Dieu, ta fidélité dure à toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Chisholm",
+			"role": "music"
+		},
+		{
+			"name": "Thomas Chisholm",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem400",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

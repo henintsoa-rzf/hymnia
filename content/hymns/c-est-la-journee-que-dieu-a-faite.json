@@ -1,0 +1,39 @@
+{
+	"id": "c-est-la-journee-que-dieu-a-faite",
+	"title": "C'est la journée que Dieu a faite",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "848"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est la journée que Dieu a faite,",
+				"Qu'elle soit pour nous un jour de fête !",
+				"Venez chanter, frapper des mains",
+				"Et acclamer celui qui vient."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michel Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Michel Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem848",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

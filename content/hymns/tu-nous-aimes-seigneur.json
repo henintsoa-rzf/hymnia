@@ -1,0 +1,96 @@
+{
+	"id": "tu-nous-aimes-seigneur",
+	"title": "Tu nous aimes, Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "186"
+		},
+		{
+			"hymnal": "adf",
+			"number": "165"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu nous aimes, Seigneur,",
+				"comme Dieu, comme Père ;",
+				"Ton amour tout-puissant couvre notre misère",
+				"Et soutient notre faible cœur.",
+				"Tu l'as offert, Seigneur, le sang qui purifie ;",
+				"Oui, par amour pour nous tu quittas cette vie,",
+				"Que par amour tu pris, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et près de la quitter,",
+				"à cette heure suprême",
+				"Tu nous dis : « Aimez-vous",
+				"comme moi je vous aime »",
+				"Et qui peut aimer plus que toi ?",
+				"« Aimez-vous ! c'est la loi",
+				"qu'en partant je vous laisse ;",
+				"Aimez-vous ! qu'à ceci le monde reconnaisse",
+				"Que vraiment vous êtes à moi ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais serions-nous à toi,",
+				"si ta main paternelle",
+				"N'eût mis en nous les traits",
+				"de cet amour fidèle,",
+				"Doux, secourable, patient ?",
+				"Rapporter tout à soi, chercher sa propre gloire,",
+				"D'une injure, d'un tort, conserver la mémoire,",
+				"Est-ce bien être ton enfant ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Seigneur, qu'il est doux,",
+				"qu'il est bon pour des frères",
+				"De t'offrir en commun",
+				"leurs vœux et leurs prières",
+				"Et de travailler réunis ;",
+				"De s'aider au combat, de partager leurs joies ;",
+				"Et de marcher ensemble en ces paisibles voies",
+				"Où tu diriges et bénis !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chrétien d'Urhan",
+			"role": "music"
+		},
+		{
+			"name": "Mme Lemire",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg186",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af165",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

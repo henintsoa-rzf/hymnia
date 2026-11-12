@@ -1,0 +1,53 @@
+{
+	"id": "je-reveillerai-l-aurore",
+	"title": "Je réveillerai l'aurore",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "429"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je réveillerai l'aurore",
+				"Pour célébrer tes bontés.",
+				"Je t'apporterai, ô Seigneur,",
+				"Le fruit de mes lèvres.",
+				"Près de toi, je suis tranquille,",
+				"Je chanterai tes louanges.",
+				"Grande est la fidélité",
+				"Que tu déploies sur moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux te louer, et t'adorer à jamais.",
+				"Je veux te louer, t'aimer de plus en plus.",
+				"Je veux te louer, et t'adorer à jamais.",
+				"Je veux te louer Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robin Brooks",
+			"role": "music"
+		},
+		{
+			"name": "Robin Brooks",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem429",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

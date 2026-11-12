@@ -1,0 +1,39 @@
+{
+	"id": "notre-pere-qui-es-aux-cieux-jem-116",
+	"title": "Notre Père qui es aux cieux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "116"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Père qui es aux cieux,",
+				"Pour tous ces biens si précieux ;",
+				"Pour tes bienfaits, tes faveurs,",
+				"Reçois le merci de nos cœurs !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Seth Sykes",
+			"role": "music"
+		},
+		{
+			"name": "Seth Sykes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem116",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

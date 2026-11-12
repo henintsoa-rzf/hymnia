@@ -1,0 +1,107 @@
+{
+	"id": "en-avant-en-avant",
+	"title": "En avant ! en avant !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "162"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En avant ! En avant !",
+				"Que ton drapeau flotte au vent,",
+				"O Sion, reine immortelle !",
+				"À ton Maître, en le suivant,",
+				"Que ton cœur reste fidèle ;",
+				"C'est au bonheur qu'Il t'appelle…",
+				"En avant ! En avant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sous la croix, Sous la croix,",
+				"Sion, souffre, prie et crois !",
+				"Du serpent brave la rage !",
+				"De Jésus la douce voix",
+				"Te rendras force et courage :",
+				"N'a-t-Il pas subi l'outrage",
+				"De la croix ? De la croix ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ici-bas, Ici-bas",
+				"Sion, veille sur tes pas !",
+				"Fuis les gloires de ce monde.",
+				"Ses plaisirs ne durent pas,",
+				"Ils s'écoulent comme l'onde.",
+				"En Christ seul la paix abonde",
+				"Ici-bas, Ici-bas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que l'Esprit, Que l'Esprit",
+				"De ton Époux Jésus-Christ,",
+				"Sion, toujours te conduise !",
+				"Que ces mots : « Il est écrit »",
+				"Soient ton unique devise :",
+				"Que sa Parole t'instruise,",
+				"Par l'Esprit ! Par l'Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Vis en Lui ! Vis en Lui !",
+				"Sion, pour porter du fruit,",
+				"Au divin Cep sois unie,",
+				"N'es-tu pas, dès aujourd'hui,",
+				"L'Épouse auguste et bénie",
+				"Que le Sauveur a choisie ?",
+				"Vis en Lui ! Vis en Lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Par la foi ! Par la foi !",
+				"Reste digne de ton Roi !",
+				"Son invisible présence,",
+				"O Sion, plane sur toi…",
+				"Marche avec persévérance :",
+				"Au ciel est la récompense",
+				"De la foi ! De la foi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Freylinghausen",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af162",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

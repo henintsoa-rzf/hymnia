@@ -1,0 +1,51 @@
+{
+	"id": "prosternez-vous",
+	"title": "Prosternez-vous",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "46"
+		},
+		{
+			"hymnal": "jem",
+			"number": "279"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Prosternez-vous devant votre Roi.",
+				"Adorez-le de tout votre cœur.",
+				"Faites monter vers sa majesté",
+				"Des chants de gloire",
+				"Pour votre Roi des rois !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Steven Fry",
+			"role": "music"
+		},
+		{
+			"name": "Steven Fry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg046",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem279",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

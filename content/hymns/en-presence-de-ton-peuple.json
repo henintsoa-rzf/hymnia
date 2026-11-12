@@ -1,0 +1,42 @@
+{
+	"id": "en-presence-de-ton-peuple",
+	"title": "En présence de ton peuple",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "248"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En présence de ton peuple,",
+				"Je publie ton nom,",
+				"Tu es saint et tu trônes",
+				"Au milieu des louanges d'Israël.",
+				"Nous proclamons tous ensemble ta fidélité.",
+				"Que ton nom soit exalté",
+				"Sur la terre et dans le ciel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brent Chambers",
+			"role": "music"
+		},
+		{
+			"name": "Brent Chambers",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem248",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

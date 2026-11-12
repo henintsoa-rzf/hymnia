@@ -1,0 +1,61 @@
+{
+	"id": "pardonne",
+	"title": "Pardonné",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "930"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Pardonné, pardonné,",
+				"Pardonné, je suis pardonné,",
+				"Libéré de mon péché.",
+				"Je suis pardonné, pardonné,",
+				"Libéré de mon péché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand l'ennemi vient se présenter",
+				"Devant l'Éternel pour m'accuser,",
+				"Rappeler un à un tous mes péchés",
+				"Et demander ma vie pour la cribler,",
+				"Alors Jésus s'empresse de dire à ma place :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Il est pardonné, je lui ai fait grâce,",
+				"Plus de condamnation pour lui,",
+				"Plus de condamnation pour lui,",
+				"Plus de condamnation, j'en ai payé le prix. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem930",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

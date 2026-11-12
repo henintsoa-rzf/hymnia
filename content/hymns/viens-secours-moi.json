@@ -1,0 +1,105 @@
+{
+	"id": "viens-secours-moi",
+	"title": "Viens, secours-moi",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "30"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Dieu, du plus profond de l’âme,",
+				"Où nul autre ne peut aller,",
+				"Mon être entier crie et réclame :",
+				"Viens panser mon cœur affligé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon Dieu, au plus profond du doute,",
+				"L’esprit troublé, la chair meurtrie,",
+				"Quand tout est douleur et déroute,",
+				"Viens briller au fort de ma nuit."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"J’épanche mon cœur sans feinte ;",
+				"Entends mon cri et ma plainte."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh viens, secours-moi, ô Éternel !",
+				"Dans ce désert où fuit la paix,",
+				"Fais voir ta vérité.",
+				"Tiens ferme et droit mon pas si frêle.",
+				"Oui, Roi des rois, entends l’appel :",
+				"Secours-moi, Éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon Dieu, au fond de ma mémoire,",
+				"Viens raviver le souvenir",
+				"De ces jours où tu me fis voir",
+				"Ton bras fort qui vint me tenir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon Dieu, je crois en tes promesses,",
+				"En ta Parole juste et vraie.",
+				"Tu rachèteras ma tristesse",
+				"Dans l’attente ou l’éternité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/vienssecoursmoi",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

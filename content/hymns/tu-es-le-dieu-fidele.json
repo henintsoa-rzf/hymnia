@@ -1,0 +1,101 @@
+{
+	"id": "tu-es-le-dieu-fidele",
+	"title": "Tu es le Dieu fidèle",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "112"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu nous partages",
+				"ton corps et ton sang,",
+				"Seigneur, tu nous partages",
+				"ton corps et ton sang,",
+				"Et nous allons tout joyeux,",
+				"vers toi, en chantant:",
+				"Tu es le Dieu fidèle, éternellement !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le Dieu fidèle, éternellement !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par cette eucharistie, ô Dieu de bonté,",
+				"Par cette eucharistie, ô Dieu de bonté,",
+				"Tu fais de nous des frères",
+				"qui s'aiment dans la paix.",
+				"Tu es le Dieu fidèle, éternellement !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le Dieu fidèle, éternellement !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L'amour que tu nous donnes nous a libérés,",
+				"L'amour que tu nous donnes nous a libérés,",
+				"Et nous marchons vers la sainteté de ton nom.",
+				"Tu es le Dieu fidèle, éternellement !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le Dieu fidèle, éternellement !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu as tracé la route qui nous mène à toi,",
+				"Tu as tracé la route qui nous mène à toi,",
+				"Et nous allons, invitant le monde à ta joie.",
+				"Tu es le Dieu fidèle, éternellement !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le Dieu fidèle, éternellement !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Odette Vercruysse",
+			"role": "music"
+		},
+		{
+			"name": "Odette Vercruysse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem112",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,72 @@
+{
+	"id": "je-viens-t-adorer",
+	"title": "Je viens t'adorer",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "775"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je viens t'adorer, t'apporter ma prière,",
+				"Dire tout simplement: « Je t'aime Jésus. »",
+				"Je veux me livrer, contempler le mystère",
+				"Du Roi crucifié pour mon salut."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vivre près de toi,",
+				"Je veux m'attacher à faire ce qui te plaît.",
+				"Vivre près de toi,",
+				"C'est dans ta présence",
+				"que mon âme est comblée."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est ton sacrifice",
+				"qui fait tomber mes chaînes,",
+				"Pour me rendre esclave de Jésus-Christ.",
+				"Je veux tout donner et mourir à moi-même",
+				"Pour que règne en moi ton Saint-Esprit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vivre près de toi,",
+				"Je veux m'attacher à faire ce qui te plaît.",
+				"Vivre près de toi,",
+				"C'est dans ta présence",
+				"que mon âme est comblée."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem775",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

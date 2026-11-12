@@ -1,0 +1,147 @@
+{
+	"id": "o-viens-jesus",
+	"title": "Ô viens, Jésus",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "11"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En ces jours empreints de souffrances,",
+				"Nous prions : « Jusqu’à quand, Seigneur ? »",
+				"Corps affligés, cœurs accablés,",
+				"Nos vies, d’éphémères vapeurs.",
+				"A ton retour, tu changeras",
+				"Nos gémissements en cris de joie !",
+				"La mort enfin disparaîtra,",
+				"La nuit fuira !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô viens, Jésus,",
+				"Ô Seigneur, hâte ton retour !",
+				"Nous attendons,",
+				"Nous guettons l’aube de ce jour !‍ ‍"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Enveloppés par le péché,",
+				"Nous résistons, luttons sans fin,",
+				"Souvent tentés d’abandonner,",
+				"Soupirant après ce destin :",
+				"Là où demeurent tes rachetés,",
+				"Il n’entrera point de péché !",
+				"Christ, notre Époux, glorifié",
+				"Par sa mariée !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô viens, Jésus,",
+				"Ô Seigneur, hâte ton retour !",
+				"Nous attendons,",
+				"Nous guettons l’aube de ce jour !",
+				"Ô viens, Jésus,",
+				"Descends pour rassembler les tiens !",
+				"Nous attendons",
+				"Que la trompette sonne enfin !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et dans l’attente de ce jour,",
+				"Tremblants, nous marchons par la foi",
+				"En tes promesses invisibles,",
+				"Scellées par Jésus à la croix.",
+				"Nous pourrons enfin de nos yeux",
+				"Voir le visage de notre Dieu !",
+				"Que cet espoir est glorieux :",
+				"En lui heureux !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Toute langue confessera,",
+				"Tout genou pliera !",
+				"Tout ton peuple le chantera :",
+				"Jésus, notre Roi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô viens, Jésus,",
+				"Descends pour rassembler les tiens !",
+				"Nous attendons",
+				"Que la trompette sonne enfin !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/oviensjesus",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

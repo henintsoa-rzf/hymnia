@@ -1,0 +1,96 @@
+{
+	"id": "ma-vie-enfin-je-te-donne-adf-600a",
+	"title": "Ma vie enfin je te donne.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "600A"
+		},
+		{
+			"hymnal": "cd",
+			"number": "262"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ma vie enfin je te donne,",
+				"O Jésus, Agneau de Dieu !",
+				"Prends-la, je te l'abandonne,",
+				"À cette heure et dans ce lieu.",
+				"Je t'apporte mes souillures,",
+				"Mon péché, mon mauvais cœur.",
+				"Dans le sang de tes blessures,",
+				"Blanchis-moi, divin Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu connais mes luttes vaines",
+				"Pour triompher de mon cœur ;",
+				"Tu sais le poids de mes chaînes",
+				"Et ma secrète douleur.",
+				"Que ta puissance infinie",
+				"M'affranchisse du péché,",
+				"Et que par l'Esprit de vie",
+				"Du mal je sois détaché !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sans réserve, je me livre,",
+				"Je ne garde rien pour moi.",
+				"Mon désir est de te suivre,",
+				"D'être à tes ordres, mon Roi !",
+				"Joyeux dans l'obéissance",
+				"Que tu donnes, que je veux,",
+				"Sans plus tarder, je m'élance",
+				"D'un coup d'aile vers les cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Scelle à jamais l'alliance",
+				"Que je traite maintenant,",
+				"Et dans ton amour immense",
+				"Viens la signer de ton sang.",
+				"Si je regarde à moi-même",
+				"Un instant : je suis perdu !",
+				"Mais tu sauras, ton cœur m'aime,",
+				"Me tenir debout, Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henry Thomas Smart",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af600a",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1085",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

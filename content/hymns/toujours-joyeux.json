@@ -1,0 +1,74 @@
+{
+	"id": "toujours-joyeux",
+	"title": "Toujours joyeux !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "646"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toujours joyeux ! telle est notre devise,",
+				"Joyeux d'avoir Jésus-Christ pour Sauveur.",
+				"Oui, joyeux même alors qu'on nous méprise,",
+				"Rien ne saurait assombrir notre cœur.",
+				"N'ayons pas peur de l'adversaire !",
+				"Marchons en chantant vers les cieux.",
+				"Triomphant déjà sur la terre,",
+				"Toujours joyeux, toujours joyeux !",
+				"Triomphant déjà sur la terre,",
+				"Toujours joyeux, toujours joyeux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Joyeux encore au fort de la bataille,",
+				"Nous combattrons pour lui jusqu'au tombeau.",
+				"Ah ! pourrions-nous,",
+				"pour plaire à qui nous raille,",
+				"Trahir jamais de Jésus le drapeau !",
+				"Que nul de nous ne le renie !",
+				"N'est-il pas un Roi glorieux ?",
+				"Bravons pour lui la moquerie,",
+				"Toujours joyeux, toujours joyeux !",
+				"Bravons pour lui la moquerie,",
+				"Toujours joyeux, toujours joyeux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toujours joyeux ! Un jour, devant les anges,",
+				"Jésus dira : « Ces vaillants sont à moi. »",
+				"Nos cœurs alors d'éclater en louanges,",
+				"Pour ce Jésus, notre bien-aimé Roi.",
+				"Souffrir pour lui, bonheur suprême !",
+				"Victorieux par son secours,",
+				"Nous resterons, puisqu'il nous aime,",
+				"Toujours joyeux, joyeux toujours.",
+				"Nous resterons, puisqu'il nous aime,",
+				"Toujours joyeux, joyeux toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henri Frédéric Amiel",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af646",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

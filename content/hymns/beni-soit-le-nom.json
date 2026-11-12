@@ -1,0 +1,107 @@
+{
+	"id": "beni-soit-le-nom",
+	"title": "Béni soit le nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "523"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit le nom du Seigneur,",
+				"Béni soit le nom du Seigneur,",
+				"Béni soit le nom du Seigneur,",
+				"Le Très-Haut !",
+				"Béni soit le nom du Seigneur,",
+				"Béni soit le nom du Seigneur,",
+				"Béni soit le nom du Seigneur,",
+				"Le Très-Haut !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le nom du Seigneur est un refuge,",
+				"Le juste accourt dans ses murs",
+				"Pour être sauvé.",
+				"Le nom du Seigneur est un refuge,",
+				"Le juste accourt dans ses murs",
+				"Pour être sauvé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Glorifions le nom du Seigneur,",
+				"Glorifions le nom du Seigneur,",
+				"Glorifions le nom du Seigneur,",
+				"Le Très-Haut !",
+				"Glorifions le nom du Seigneur,",
+				"Glorifions le nom du Seigneur,",
+				"Glorifions le nom du Seigneur,",
+				"Le Très-Haut !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le nom du Seigneur est un refuge,",
+				"Le juste accourt dans ses murs",
+				"Pour être sauvé.",
+				"Le nom du Seigneur est un refuge,",
+				"Le juste accourt dans ses murs",
+				"Pour être sauvé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Honorons le nom du Seigneur,",
+				"Honorons le nom du Seigneur,",
+				"Honorons le nom du Seigneur,",
+				"Le Très-Haut !",
+				"Honorons le nom du Seigneur,",
+				"Honorons le nom du Seigneur,",
+				"Honorons le nom du Seigneur,",
+				"Le Très-Haut !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le nom du Seigneur est un refuge,",
+				"Le juste accourt dans ses murs",
+				"Pour être sauvé.",
+				"Le nom du Seigneur est un refuge,",
+				"Le juste accourt dans ses murs",
+				"Pour être sauvé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Simon Utterbach",
+			"role": "music"
+		},
+		{
+			"name": "Simon Utterbach",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem523",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,59 @@
+{
+	"id": "tu-es-ma-gloire-tu-releves-ma-tete",
+	"title": "Tu es ma gloire, Tu relèves ma tête",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "174"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es ma gloire, tu relèves ma tête,",
+				"Tu es ma gloire, tu relèves ma tête.",
+				"O Seigneur, tu es mon bouclier,",
+				"Tu es ma gloire, tu relèves ma tête."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, de ma voix je crie à toi,",
+				"Seigneur, de ma voix je crie à toi,",
+				"Seigneur, de ma voix je crie à toi,",
+				"Et tu me réponds de ton saint lieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es ma gloire, tu relèves ma tête,",
+				"Tu es ma gloire, tu relèves ma tête.",
+				"O Seigneur, tu es mon bouclier,",
+				"Tu es ma gloire, tu relèves ma tête."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mae Mc Alister",
+			"role": "music"
+		},
+		{
+			"name": "Mae Mc Alister",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem174",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

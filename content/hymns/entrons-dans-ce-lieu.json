@@ -1,0 +1,79 @@
+{
+	"id": "entrons-dans-ce-lieu",
+	"title": "Entrons dans ce lieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "752"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entrons dans ce lieu, exaltons le Roi,",
+				"Élevons les mains, nos cœurs à l'unisson.",
+				"Il est digne, digne de nos louanges,",
+				"Oui, digne, digne de nos louanges."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par nos mélodies, chantons notre Roi,",
+				"il nous a donné la louange pour épée.",
+				"Il est digne, digne de nos louanges,",
+				"Oui, digne, digne de nos louanges."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À lui soient l'honneur, la louange,",
+				"La puissance et la gloire !",
+				"Fléchis le genou et adore,",
+				"Exalte son saint nom !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entrons dans ce lieu, exaltons le Roi,",
+				"Élevons les mains, nos cœurs à l'unisson.",
+				"Il est digne, digne de nos louanges,",
+				"Oui, digne, digne de nos louanges."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par nos mélodies, chantons notre Roi,",
+				"il nous a donné la louange pour épée.",
+				"Il est digne, digne de nos louanges,",
+				"Oui, digne, digne de nos louanges."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gary Oliver",
+			"role": "music"
+		},
+		{
+			"name": "Gary Oliver",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem752",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

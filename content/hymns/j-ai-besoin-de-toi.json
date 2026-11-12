@@ -1,0 +1,59 @@
+{
+	"id": "j-ai-besoin-de-toi",
+	"title": "J'ai besoin de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "420"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai besoin de toi,",
+				"Tu as besoin de moi.",
+				"Unissons nos mains,",
+				"Unissons nos voix,",
+				"Partageons le pain,",
+				"Partageons la joie,",
+				"Autour de Jésus,",
+				"Mort pour toi et moi",
+				"Sur la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'ai besoin de toi,",
+				"Tu as besoin de moi.",
+				"Unissons nos voix,",
+				"Unissons nos vies,",
+				"Unis par le Roi,",
+				"Par le Saint-Esprit,",
+				"Autour de Jésus,",
+				"Le Ressuscité",
+				"Qui reviendra."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gérard Bryon",
+			"role": "music"
+		},
+		{
+			"name": "Gérard Bryon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem420",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

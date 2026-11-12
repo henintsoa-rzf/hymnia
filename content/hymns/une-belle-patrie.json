@@ -1,0 +1,99 @@
+{
+	"id": "une-belle-patrie",
+	"title": "Une belle patrie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "488"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Une belle patrie,",
+				"Dans les hauts cieux,",
+				"Rassemble après la vie",
+				"Les bienheureux.",
+				"Ils eurent la victoire",
+				"Par l'Esprit du Seigneur.",
+				"Oh ! comme ils chantent : Gloire,",
+				"Gloire au Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les anges de lumière,",
+				"Dans ce séjour,",
+				"Exhalent en prière,",
+				"Leur pur amour.",
+				"Du pécheur la victoire",
+				"Redouble leur ardeur ;",
+				"Eux aussi chantent gloire,",
+				"Gloire au Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Fils de Dieu Lui-même",
+				"Vint des hauts cieux",
+				"Vers ce séjour suprême",
+				"Tourner nos yeux.",
+				"Gardons bien la mémoire",
+				"Des leçons du Seigneur,",
+				"Et d'ici donnons gloire,",
+				"Gloire au Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"De la sainte patrie",
+				"Vinrent encor",
+				"Un Moïse, un Élie,",
+				"Sur le Thabor.",
+				"Contemplons dans l'histoire",
+				"Ces élus du Seigneur,",
+				"Et d'ici donnons gloire,",
+				"Gloire au Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"À la belle patrie",
+				"Qui veut venir ?",
+				"Divin Fils de Marie,",
+				"Viens nous bénir.",
+				"Sans Toi point de victoire,",
+				"Par Toi l'on est vainqueur.",
+				"Oh ! gloire, gloire, gloire,",
+				"Gloire au Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air télougou",
+			"role": "music"
+		},
+		{
+			"name": "Cantiques des Écoles du Dimanche",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af488",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

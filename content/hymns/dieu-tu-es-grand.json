@@ -1,0 +1,62 @@
+{
+	"id": "dieu-tu-es-grand",
+	"title": "Dieu tu es grand",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "368"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "118"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, tu es grand, tu es fidèle et bon,",
+				"Ton amour infini nous confond.",
+				"Dieu tu es grand, tu es saint et puissant,",
+				"Viens régner dans nos cœurs maintenant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu tu es grand et digne de régner,",
+				"Dieu tu es grand et digne de gloire.",
+				"Dieu tu es grand, j'élève ma voix,",
+				"J'élève ma voix.",
+				"Dieu tu es grand,",
+				"Dieu tu es grand."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michael Whitaker Smith",
+			"role": "music"
+		},
+		{
+			"name": "Michael Whitaker Smith",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem368",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-18",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

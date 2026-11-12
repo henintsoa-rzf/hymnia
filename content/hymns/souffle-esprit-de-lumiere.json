@@ -1,0 +1,59 @@
+{
+	"id": "souffle-esprit-de-lumiere",
+	"title": "Souffle, Esprit de lumière !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "172"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Souffle, Esprit de lumière,",
+				"Répands ta vie en moi ;",
+				"Mon cœur n'a plus qu'une prière :",
+				"Vivre, aimer comme toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Souffle, divin murmure,",
+				"Unis mon cœur au tien ;",
+				"Allume en moi la flamme pure",
+				"Du plus doux des liens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ton souffle, Esprit de vie,",
+				"Emanant du saint lieu,",
+				"Portera mon âme ravie",
+				"Dans les palais de Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robert Jackson",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg172",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

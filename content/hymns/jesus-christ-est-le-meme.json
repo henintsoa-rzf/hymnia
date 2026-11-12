@@ -1,0 +1,50 @@
+{
+	"id": "jesus-christ-est-le-meme",
+	"title": "Jésus-Christ est le même",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "52"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ est le même",
+				"Hier, aujourd'hui ;",
+				"Jésus-Christ est le même",
+				"Hier, aujourd'hui ;"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus-Christ est le même,",
+				"Jésus-Christ est le même,",
+				"Hier, aujourd'hui,",
+				"Éternellement, éternellement,",
+				"Éternellement, éternellement."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alain Stamp",
+			"role": "music"
+		},
+		{
+			"name": "Alain Stamp",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem052",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

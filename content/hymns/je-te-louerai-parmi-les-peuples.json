@@ -1,0 +1,71 @@
+{
+	"id": "je-te-louerai-parmi-les-peuples",
+	"title": "Je te louerai parmi les peuples",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "984"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dès le matin, je chanterai ta force.",
+				"Tu es pour moi une haute retraite,",
+				"Un refuge au jour de ma détresse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te louerai parmi les peuples,",
+				"Je te chanterai parmi les nations",
+				"Car ta bonté atteint les nuées.",
+				"Je te louerai parmi les peuples,",
+				"Je te chanterai parmi les nations",
+				"Car ta bonté atteint les nuées."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par ma louange, j'éveillerai l'aurore.",
+				"O Dieu très haut, élève-toi sur les cieux,",
+				"Que ta gloire couvre toute la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te louerai parmi les peuples,",
+				"Je te chanterai parmi les nations",
+				"Car ta bonté atteint les nuées.",
+				"Je te louerai parmi les peuples,",
+				"Je te chanterai parmi les nations",
+				"Car ta bonté atteint les nuées."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc Dumont",
+			"role": "music"
+		},
+		{
+			"name": "Luc Dumont",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem984",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,42 @@
+{
+	"id": "je-veux-chanter",
+	"title": "Je veux chanter",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "121"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux chanter, je veux prier,",
+				"Je veux chanter, je veux prier,",
+				"Gloire au Seigneur,",
+				"Et quand Jésus reviendra,",
+				"Dans son ciel Il me prendra.",
+				"Je veux chanter, je veux prier",
+				"Gloire au Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem121",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

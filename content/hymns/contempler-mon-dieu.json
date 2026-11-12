@@ -1,0 +1,80 @@
+{
+	"id": "contempler-mon-dieu",
+	"title": "Contempler mon Dieu.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "418"
+		},
+		{
+			"hymnal": "cd",
+			"number": "353"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Contempler mon Dieu sur son trône,",
+				"Vivre avec Jésus dans le ciel,",
+				"Jeter à ses pieds ma couronne,",
+				"C'est là le bonheur éternel,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans le ciel, dans le ciel.",
+				"Vivre avec Jésus dans le ciel,",
+				"Dans le ciel, dans le ciel, dans le ciel.",
+				"C'est là le bonheur éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Unir ma voix au chant des anges,",
+				"Bénir, louer Emmanuel,",
+				"Chanter à jamais ses louanges,",
+				"C'est là le bonheur éternel,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans le ciel, dans le ciel.",
+				"Vivre avec Jésus dans le ciel,",
+				"Dans le ciel, dans le ciel, dans le ciel.",
+				"C'est là le bonheur éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tullius Clinton O'Kane",
+			"role": "music"
+		},
+		{
+			"name": "Messager des Écoles du Dimanche",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af418",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1149",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

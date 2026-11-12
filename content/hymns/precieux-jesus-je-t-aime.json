@@ -1,0 +1,105 @@
+{
+	"id": "precieux-jesus-je-t-aime",
+	"title": "Précieux Jésus, je t'aime !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "586"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Précieux Jésus je t'aime",
+				"Conquis par ton grand amour",
+				"Tout entier, à l'instant même",
+				"Je m'offre à toi sans retour"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus, ô mon Sauveur,",
+				"Sois le trésor de mon cœur !",
+				"Jésus, Jésus, ô mon Sauveur,",
+				"Sois le trésor de mon cœur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je ne veux plus autre chose",
+				"Qu'accomplir tes volontés.",
+				"Que le Saint-Esprit dispose",
+				"De toutes mes facultés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus, ô mon Sauveur,",
+				"Sois le trésor de mon cœur !",
+				"Jésus, Jésus, ô mon Sauveur,",
+				"Sois le trésor de mon cœur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J'avance ma main sans crainte",
+				"Je saisis ton vêtement ;",
+				"De toi sort la vertu sainte",
+				"Qui guérit entièrement."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus, ô mon Sauveur,",
+				"Sois le trésor de mon cœur !",
+				"Jésus, Jésus, ô mon Sauveur,",
+				"Sois le trésor de mon cœur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ton amour remplit mon âme",
+				"De paix, d'espoir, de bonheur !",
+				"Tout mon être te réclame",
+				"Jésus, mon Roi, mon Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Jésus, ô mon Sauveur,",
+				"Sois le trésor de mon cœur !",
+				"Jésus, Jésus, ô mon Sauveur,",
+				"Sois le trésor de mon cœur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af586",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

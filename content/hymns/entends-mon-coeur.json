@@ -1,0 +1,112 @@
+{
+	"id": "entends-mon-coeur",
+	"title": "Entends mon cœur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "570"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment expliquer et comment décrire",
+				"Un amour si grand, si puissant,",
+				"Que rien ne peut le contenir ?",
+				"Tu sais mes espoirs,",
+				"Seigneur, tu sais mes craintes",
+				"Et mes mots sont bien trop petits",
+				"Pour dire tout l'amour que j'ai pour toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors entends mon cœur,",
+				"Mon esprit qui te loue,",
+				"Entends le chant d'amour",
+				"D'un enfant racheté.",
+				"Je prendrai mes faibles mots",
+				"Pour te dire quel Dieu merveilleux tu es,",
+				"Mais je ne pourrai pas",
+				"Te dire combien je t'aime ;",
+				"Alors entends mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si tout comme la pluie",
+				"Les mots pouvaient couler",
+				"Et si j'avais l'éternité,",
+				"Je ne pourrais pas l'exprimer.",
+				"Mais dans les battements de mon cœur",
+				"Tu entendras toujours:",
+				"« Merci pour la vie, pour la vérité",
+				"Et pour le chemin »."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors entends mon cœur,",
+				"Mon esprit qui te loue,",
+				"Entends le chant d'amour",
+				"D'un enfant racheté.",
+				"Je prendrai mes faibles mots",
+				"Pour te dire quel Dieu merveilleux tu es,",
+				"Mais je ne pourrai pas",
+				"Te dire combien je t'aime ;",
+				"Alors entends mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"(Instrumental)",
+				"Tu sais nos espoirs,",
+				"Seigneur, tu sais nos craintes",
+				"Et nos mots sont bien trop petits",
+				"Pour dire tout l'amour que nous avons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors entends nos cœurs,",
+				"Nos esprits qui te louent,",
+				"Entends le chant d'amour",
+				"De tous tes rachetés.",
+				"Nous prendrons nos faibles mots",
+				"Pour te dire quel Dieu merveilleux tu es,",
+				"Non nous ne pourrons pas",
+				"Te dire tout notre amour ;",
+				"Alors entends nos cœurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Geoff Moore",
+			"role": "music"
+		},
+		{
+			"name": "Geoff Moore",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem570",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

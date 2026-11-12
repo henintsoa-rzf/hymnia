@@ -1,0 +1,59 @@
+{
+	"id": "somlandela",
+	"title": "Somlandela",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "651"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Somlandela, somlandela e Jesu.",
+				"Somlandela, yonke indawo.",
+				"Somlandela, somlandela e Jesu.",
+				"Lapho eya khona, somlandela."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je te suivrai, je te suivrai Jésus.",
+				"Je te suivrai, là où tu iras.",
+				"Je te suivrai, je te suivrai Jésus.",
+				"Là où tu iras, je te suivrai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"I will follow, I will follow Jesus.",
+				"I will follow, wherever He goes.",
+				"I will follow, I will follow Jesus.",
+				"Wherever He goes, I will follow."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem651",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

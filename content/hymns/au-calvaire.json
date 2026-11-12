@@ -1,0 +1,106 @@
+{
+	"id": "au-calvaire",
+	"title": "Au calvaire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "382"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "109"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ils le menèrent comme un brigand",
+				"Hors de la ville qu'il aimait.",
+				"Ils le clouèrent de coups violents,",
+				"Lui qui annonçait la paix,",
+				"Il s'est livré, il n'a rien dit,",
+				"En agonie, souffrant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le sang coulant du Calvaire,",
+				"Répandu sur nos cœurs,",
+				"Enlève chagrin et misère",
+				"Purifie le pécheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Alors sa tête il a baissé:",
+				"« Voici tout est accompli. »",
+				"Le ciel, la terre ont tressailli,",
+				"Quand Jésus a expiré;",
+				"De Dieu, son Père abandonné,",
+				"Payant pour nos péchés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le sang coulant du Calvaire,",
+				"Répandu sur nos cœurs,",
+				"Enlève chagrin et misère",
+				"Purifie le pécheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comment comprendre amour si grand",
+				"Se donnant de lui-même,",
+				"Qu'un Dieu si saint et si puissant",
+				"Expire en solitaire,",
+				"Mourant au bois, bien qu'innocent,",
+				"De tous portant la peine."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le sang coulant du Calvaire,",
+				"Répandu sur nos cœurs,",
+				"Enlève chagrin et misère",
+				"Purifie le pécheur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-François Bussy",
+			"role": "music"
+		},
+		{
+			"name": "Jean-François Bussy",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem382",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-9",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

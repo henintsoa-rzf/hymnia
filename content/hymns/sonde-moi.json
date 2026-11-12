@@ -1,0 +1,86 @@
+{
+	"id": "sonde-moi",
+	"title": "Sonde-moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "825"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sonde-moi, ô Dieu et connais mon cœur !",
+				"Eprouve-moi et connais mes pensées !",
+				"Regarde si je suis sur une mauvaise voie",
+				"Et conduis-moi, conduis-moi,",
+				"Conduis-moi sur la voie de l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh connais-moi,",
+				"éprouve et sonde mes pensées.",
+				"Je veux me laisser transpercer par ta vérité.",
+				"Éclaire-moi, fais jaillir en moi ta lumière !",
+				"C'est mon désir, c'est ma prière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sonde-moi, ô Dieu et connais mon cœur !",
+				"Eprouve-moi et connais mes pensées !",
+				"Regarde si je suis sur une mauvaise voie",
+				"Et conduis-moi, conduis-moi,",
+				"Conduis-moi sur la voie de l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh conduis-moi,",
+				"dans les secrets de ton palais.",
+				"Là où ta gloire est révélée",
+				"aux cœurs assoiffés.",
+				"Emmène-moi tout près de toi,",
+				"contre ton cœur !",
+				"Que je connaisse ta douceur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sonde-moi, ô Dieu et connais mon cœur !",
+				"Eprouve-moi et connais mes pensées !",
+				"Regarde si je suis sur une mauvaise voie",
+				"Et conduis-moi, conduis-moi,",
+				"Conduis-moi sur la voie de l'éternité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem825",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

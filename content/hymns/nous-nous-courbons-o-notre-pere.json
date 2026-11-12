@@ -1,0 +1,69 @@
+{
+	"id": "nous-nous-courbons-o-notre-pere",
+	"title": "Nous nous courbons, ô notre Père",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "269"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous nous courbons, ô notre Père,",
+				"Devant ta sainte majesté.",
+				"Prends en pitié notre misère,",
+				"Efface notre indignité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Hélas ! Nous faisons tous partie,",
+				"Nous, nos parents et nos enfants,",
+				"D'une humanité pervertie,",
+				"Dès le commencement des temps."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Après avoir reçu ta grâce,",
+				"Souvent encor nous t'offensons,",
+				"Quand l'adversaire nous enlace",
+				"De ses coupables séductions."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Donne-nous, Seigneur, ta victoire",
+				"Par le secours de ton Esprit.",
+				"Transforme-nous de gloire en gloire",
+				"À ton image, ô Jésus-Christ !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mary Jane Hammond",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg269",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

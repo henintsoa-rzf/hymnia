@@ -1,0 +1,63 @@
+{
+	"id": "protege-nous",
+	"title": "Protège-nous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "170"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Protège-nous sur le chemin,",
+				"Conduis-nous par ta sûre main,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Et qu'à toute heure",
+				"Ta joie demeure dans nos cœurs,",
+				"O Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand s'assombrit la nuit,",
+				"Ta grâce nous suffit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, qu'à toute heure",
+				"Ta joie demeure dans nos cœurs,",
+				"O Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Audrey Mieir",
+			"role": "music"
+		},
+		{
+			"name": "Audrey Mieir",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem170",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

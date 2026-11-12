@@ -1,0 +1,118 @@
+{
+	"id": "celebrez-l-eternel",
+	"title": "Célébrez l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "661"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Célébrez l'Éternel,",
+				"Habitants de la terre.",
+				"Vous, tous les peuples et les nations,",
+				"Réjouissez-vous en lui.",
+				"Célébrez l'Éternel,",
+				"Habitants de la terre.",
+				"Vous, tous les peuples et les nations,",
+				"Réjouissez-vous en lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ensemble nous disons",
+				"La grandeur du Seigneur.",
+				"Il est bon pour Israël.",
+				"Joignez-vous à moi pour l'adorer ;",
+				"C'est le seul Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Célébrez l'Éternel,",
+				"Habitants de la terre.",
+				"Vous, tous les peuples et les nations,",
+				"Réjouissez-vous en lui.",
+				"Célébrez l'Éternel,",
+				"Habitants de la terre.",
+				"Vous, tous les peuples et les nations,",
+				"Réjouissez-vous en lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il a montré au monde",
+				"Sa puissance éternelle,",
+				"Son savoir et son pouvoir.",
+				"Tout ce qu'il a fait est merveilleux ;",
+				"Il n'a pas changé !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Célébrez l'Éternel,",
+				"Habitants de la terre.",
+				"Vous, tous les peuples et les nations,",
+				"Réjouissez-vous en lui.",
+				"Célébrez l'Éternel,",
+				"Habitants de la terre.",
+				"Vous, tous les peuples et les nations,",
+				"Réjouissez-vous en lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La louange sur nos lèvres",
+				"Et l'épée dans nos mains,",
+				"Poussons des cris de triomphe.",
+				"Acclamons le Roi et proclamons:",
+				"« Il est le Dieu fort ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Célébrez l'Éternel,",
+				"Habitants de la terre.",
+				"Vous, tous les peuples et les nations,",
+				"Réjouissez-vous en lui.",
+				"Célébrez l'Éternel,",
+				"Habitants de la terre.",
+				"Vous, tous les peuples et les nations,",
+				"Réjouissez-vous en lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem661",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

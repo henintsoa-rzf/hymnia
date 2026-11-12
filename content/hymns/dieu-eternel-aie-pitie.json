@@ -1,0 +1,87 @@
+{
+	"id": "dieu-eternel-aie-pitie",
+	"title": "Dieu éternel, aie pitié",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "663"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu éternel, aie pitié de nous.",
+				"Dieu fidèle, aie pitié de nous.",
+				"Dieu éternel, aie pitié de nous.",
+				"Dieu fidèle, aie pitié de nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Depuis trop longtemps,",
+				"Nous t'avons délaissé,",
+				"Nous avons fait confiance",
+				"Aux richesses, à l'argent.",
+				"Nous avons bien souvent",
+				"Adoré de faux dieux,",
+				"Peu à peu notre cœur",
+				"S'est détourné de toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu éternel, aie pitié de nous.",
+				"Dieu fidèle, aie pitié de nous.",
+				"Dieu éternel, aie pitié de nous.",
+				"Dieu fidèle, aie pitié de nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous venons devant toi,",
+				"Notre Père bienveillant,",
+				"Prosternés à tes pieds",
+				"Nous prions, sauve-nous,",
+				"Convaincus sans excuse,",
+				"Accablés par nos fautes,",
+				"Nous avons tant besoin",
+				"De ta grâce, ton pardon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu éternel, aie pitié de nous.",
+				"Dieu fidèle, aie pitié de nous.",
+				"Dieu éternel, aie pitié de nous.",
+				"Dieu fidèle, aie pitié de nous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Meya Corthay",
+			"role": "music"
+		},
+		{
+			"name": "Meya Corthay",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem663",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

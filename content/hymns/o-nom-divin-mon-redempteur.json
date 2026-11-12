@@ -1,0 +1,84 @@
+{
+	"id": "o-nom-divin-mon-redempteur",
+	"title": "Ô nom divin, mon rédempteur",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "60"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô mon divin mon rédempteur,",
+				"Jésus puissant Sauveur",
+				"Jésus puissant Sauveur!",
+				"Nous prosternant tous devant toi,",
+				"Nous te couronnons, roi, nous te couronnons roi.",
+				"C'est toi Jésus,",
+				"C'est toi que nous couronnons roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Avec les anges dans les cieux.",
+				"Les martyrs glorieux.",
+				"Les martyrs glorieux.",
+				"Qui jadis ont souffert pour toi,",
+				"Divin roi, Jésus.",
+				"C'est toi Jésus",
+				"C'est toi Jésus,",
+				"C'est toi que nous couronnons roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rachetés au prix de ton sang.",
+				"Ô Sauveur tout-puissant,",
+				"Ô Sauveur tout-puissant,",
+				"Sauvés par grâce, par la foi,",
+				"Divin roi, Jésus.",
+				"C'est toi Jésus",
+				"C'est toi Jésus,",
+				"C'est toi que nous couronnons roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bientôt nous te verrons au ciel",
+				"Sur ton trône éternel",
+				"Sur ton trône éternel",
+				"Mais ne vivant déjà qu'en toi,",
+				"Divin roi, Jésus.",
+				"C'est toi Jésus",
+				"C'est toi Jésus,",
+				"C'est toi que nous couronnons roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Rochedieu",
+			"role": "unspecified"
+		},
+		{
+			"name": "W.H Jude",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/868",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

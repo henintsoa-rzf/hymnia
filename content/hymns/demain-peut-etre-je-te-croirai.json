@@ -1,0 +1,79 @@
+{
+	"id": "demain-peut-etre-je-te-croirai",
+	"title": "Demain, peut-être, je te croirai.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "209"
+		},
+		{
+			"hymnal": "cd",
+			"number": "175"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Demain peut-être, je te croirai,",
+				"Et pour mon maître",
+				"Je te prendrai.",
+				"Ainsi, quand Dieu l'invite,",
+				"L'âme répond : « Attends ! »",
+				"Ah ! pécheur, entre vite ;",
+				"Viens, il est temps !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Demain, peut-être, plus de pardon !",
+				"Quoi ! méconnaître",
+				"Un pareil don !",
+				"Dieu t'offre, dans sa grâce,",
+				"Le bonheur des élus ;",
+				"Avant que l'heure passe,",
+				"Viens à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Demain, peut-être, du châtiment",
+				"Tu vas connaître",
+				"L'affreux tourment.",
+				"Jésus t'appelle, Il t'aime,",
+				"Il est le seul Chemin ;",
+				"Viens, c'est l'instant suprême !",
+				"Pourquoi demain ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af209",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1007",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

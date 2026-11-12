@@ -1,0 +1,60 @@
+{
+	"id": "debout-nous-sommes-freres",
+	"title": "Debout, nous sommes frères !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "358"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Debout, nous sommes frères,",
+				"unis en Jésus-Christ.",
+				"Que notre vie entière soit soumise à l'Esprit.",
+				"Qu'importe si le monde s'acharne contre nous ?",
+				"Sa grâce surabonde pour qui lutte à genoux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pensons à la nuée des témoins d'autrefois,",
+				"À leur vaillante armée, puissante par la foi.",
+				"Ils ont bravé la haine, les coups, les fers, la mort.",
+				"Leur fermeté sereine soutenait leur effort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Fils de Dieu lui-même nous accompagnera.",
+				"Toujours, puisqu'il nous aime, il nous protégera.",
+				"Que son grand sacrifice stimule notre ardeur !",
+				"Debout pour son service, avançons sans frayeur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr Lowell Mason",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg358",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

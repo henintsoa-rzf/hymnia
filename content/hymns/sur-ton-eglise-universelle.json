@@ -1,0 +1,71 @@
+{
+	"id": "sur-ton-eglise-universelle",
+	"title": "Sur ton Église universelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "566"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur ton Église universelle,",
+				"Objet constant de ton amour,",
+				"Oh ! que ta grâce paternelle,",
+				"Seigneur, se répande en ce jour.",
+				"Tes enfants, avec confiance,",
+				"Partout fléchissent les genoux ;",
+				"Ne confonds pas leur espérance",
+				"Jésus, sois au milieu de nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des promesses de ta Parole",
+				"Daigne, Seigneur, te souvenir :",
+				"Que ton Esprit Saint nous console",
+				"Et nous apprenne à te bénir !",
+				"Ouvre nos yeux à ta lumière,",
+				"Change et maîtrise notre cœur,",
+				"Et que ton Église en prière",
+				"Obtienne une ère de bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que l'Évangile se répande",
+				"De l'aurore jusqu'au couchant ;",
+				"Que de tous côtés l'on entende",
+				"Monter vers toi le même chant !",
+				"Que, les peuples les plus sauvages,",
+				"Viennent se ranger sous la croix,",
+				"Et que tous rendent leurs hommages",
+				"À l'invincible Roi des rois !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Carl Philipp Emanuel Bach",
+			"role": "music"
+		},
+		{
+			"name": "Jean-M. de Carbon-Ferrière",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af566",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

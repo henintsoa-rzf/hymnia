@@ -1,0 +1,109 @@
+{
+	"id": "christ-seul-nous-suffit",
+	"title": "Christ seul nous suffit",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "3"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous rendons gloire à Jésus-Christ ;",
+				"En lui, pour lui tout fut créé,",
+				"Image du Dieu invisible,",
+				"Vivant de toute éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous louons Christ, Dieu infini,",
+				"Chef de l’Église, tête du corps.",
+				"La plénitude habite en lui,",
+				"Qui seul s’est levé de la mort."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Par son amour réconciliés,",
+				"Unis à celui qui libère,",
+				"De tous nos péchés pardonnés,",
+				"Nos cœurs s’élèvent sur cette terre.",
+				"Par son amour réconciliés,",
+				"Unis à celui qui libère,",
+				"De tous nos péchés pardonnés,",
+				"Nos cœurs s’élèvent :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Adorons Jésus, Dieu incarné,",
+				"Auteur suprême du salut parfait !",
+				"Restons ancrés, fondés en lui,",
+				"Car Jésus-Christ seul nous suffit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous rendons gloire à Dieu le Père,",
+				"Dont l’œuvre arrache de l’ennemi.",
+				"Il nous transporte dans sa lumière",
+				"Pour saisir l’héritage promis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous qui étions des étrangers,",
+				"Par nos pensées, des ennemis,",
+				"La mort du Fils fut notre paix,",
+				"Dieu nous a rendus saints pour lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/christseul",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

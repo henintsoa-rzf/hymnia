@@ -1,0 +1,129 @@
+{
+	"id": "qu-il-fait-bon-a-ton-service",
+	"title": "Qu'il fait bon à ton service",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "274"
+		},
+		{
+			"hymnal": "adf",
+			"number": "307"
+		},
+		{
+			"hymnal": "cd",
+			"number": "288"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'il fait bon à ton service,",
+				"Jésus, mon Sauveur !",
+				"Qu'il est doux le sacrifice",
+				"Que t'offre mon cœur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends, ô Jésus, prends ma vie,",
+				"Elle est toute à toi !",
+				"Et dans ta grâce infinie,",
+				"Du mal garde-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon désir, mon vœu suprême,",
+				"C'est la sainteté !",
+				"Rien je ne veux et je n'aime",
+				"Que ta volonté !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends, ô Jésus, prends ma vie,",
+				"Elle est toute à toi !",
+				"Et dans ta grâce infinie,",
+				"Du mal garde-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme l'ange au vol rapide,",
+				"Je veux te servir,",
+				"Les yeux fixés sur mon guide,",
+				"Toujours obéir !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends, ô Jésus, prends ma vie,",
+				"Elle est toute à toi !",
+				"Et dans ta grâce infinie,",
+				"Du mal garde-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ensemble donc vers la gloire,",
+				"Marchons en avant !",
+				"Chantant l'hymne de victoire.",
+				"Toujours triomphant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends, ô Jésus, prends ma vie,",
+				"Elle est toute à toi !",
+				"Et dans ta grâce infinie,",
+				"Du mal garde-moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Russel",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg274",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af307",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1093",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

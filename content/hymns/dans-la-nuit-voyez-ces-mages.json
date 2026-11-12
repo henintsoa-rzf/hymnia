@@ -1,0 +1,124 @@
+{
+	"id": "dans-la-nuit-voyez-ces-mages",
+	"title": "Dans la nuit, voyez ces mages.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "84"
+		},
+		{
+			"hymnal": "cd",
+			"number": "76"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans la nuit, voyez ces mages",
+				"Qui, d'un pays éloigné,",
+				"Viennent rendre leurs hommages",
+				"Au Rédempteur nouveau-né.",
+				"Viennent rendre leurs hommages",
+				"Au Rédempteur nouveau-né."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui les conduit ? Une étoile",
+				"Qu'ils ont vue en Orient.",
+				"Quand un nuage la voile",
+				"Ils s'arrêtent en priant.",
+				"Quand un nuage la voile",
+				"Ils s'arrêtent en priant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"« Ah ! voici le lieu, sans doute,",
+				"Oui, voici Jérusalem ! »",
+				"Mais l'étoile suit sa route",
+				"Jusqu'à l'humble Bethléem.",
+				"Mais l'étoile suit sa route",
+				"Jusqu'à l'humble Bethléem."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"C'est sur une hôtellerie",
+				"Que l'astre s'est arrêté,",
+				"Près d'une crèche, Marie",
+				"Tient l'enfant emmailloté.",
+				"Près d'une crèche, Marie",
+				"Tient l'enfant emmailloté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Est-ce vrai ? Le Roi des anges",
+				"Vient-il de naître en ce lieu ?",
+				"Et cet enfant dans ses langes",
+				"Est-ce bien le Fils de Dieu ?",
+				"Et cet enfant dans ses langes",
+				"Est-ce bien le Fils de Dieu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Si sa majesté se voile,",
+				"Et s'il naît pauvre et souffrant,",
+				"Mages, contemplez l'étoile",
+				"Qui rayonne sur l'Enfant !",
+				"Mages, contemplez l'étoile",
+				"Qui rayonne sur l'Enfant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"C'est le regard de Dieu même",
+				"Qui vous dit : « Je l'ai donné ! »",
+				"Adorez l'amour suprême,",
+				"Mages, dans ce nouveau-né !",
+				"Adorez l'amour suprême,",
+				"Mages, dans ce nouveau-né !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Emma-I. Stillwell",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af084",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/882",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

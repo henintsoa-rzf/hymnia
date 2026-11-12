@@ -1,0 +1,125 @@
+{
+	"id": "je-suis-scelle-pour-la-gloire",
+	"title": "Je suis scellé pour la gloire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "273"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis scellé pour la gloire,",
+				"J'avance vers mon pays ;",
+				"Écoutez tous mon histoire",
+				"Et l'amour de Jésus-Christ :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, mon Ami suprême,",
+				"Sur moi veille, Il l'a promis ;",
+				"J'aime Jésus, Jésus m'aime",
+				"Comme un berger sa brebis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'étais mort dans ma misère,",
+				"Sans Dieu, sans espoir, sans foi ;",
+				"Un jour j'appris, ô mystère,",
+				"Que Jésus est mort pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, mon Ami suprême,",
+				"Sur moi veille, Il l'a promis ;",
+				"J'aime Jésus, Jésus m'aime",
+				"Comme un berger sa brebis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Son amour, que rien n'arrête,",
+				"Brisa mon cœur endurci ;",
+				"Maintenant ce cœur souhaite",
+				"D'en guider d'autres vers Lui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, mon Ami suprême,",
+				"Sur moi veille, Il l'a promis ;",
+				"J'aime Jésus, Jésus m'aime",
+				"Comme un berger sa brebis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"J'ai passé par mainte épreuve",
+				"Depuis que je suis à Lui,",
+				"Mais en tout j'ai vu la preuve",
+				"De son amour infini."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, mon Ami suprême,",
+				"Sur moi veille, Il l'a promis ;",
+				"J'aime Jésus, Jésus m'aime",
+				"Comme un berger sa brebis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Maintenant, Sauveur fidèle,",
+				"Remplis-moi de ton amour ;",
+				"Qu'animé d'un nouveau zèle,",
+				"Je te suive chaque jour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, mon Ami suprême,",
+				"Sur moi veille, Il l'a promis ;",
+				"J'aime Jésus, Jésus m'aime",
+				"Comme un berger sa brebis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Clemens Brentano",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af273",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

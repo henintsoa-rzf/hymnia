@@ -1,0 +1,101 @@
+{
+	"id": "libere-jem-1071",
+	"title": "Libéré",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1071"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À la croix tu as déclaré : « Tout est accompli ! »",
+				"Payant le prix de chaque vie,",
+				"La mort n'a pu te retenir,",
+				"Je sais que tu es ressuscité !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Libéré, racheté, délivré, pardonné,",
+				"Je vivrai désormais pour toi.",
+				"Libéré, racheté, délivré, pardonné,",
+				"Je vivrai désormais pour toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans mon cœur, tu fais résonner le son de ta voix,",
+				"Afin de diriger mes pas.",
+				"Tu es le rocher de ma foi,",
+				"Dieu d'éternité, je te suivrai !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Libéré, racheté, délivré, pardonné,",
+				"Je vivrai désormais pour toi.",
+				"Libéré, racheté, délivré, pardonné,",
+				"Je vivrai désormais pour toi !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! garde-moi toujours près de toi !",
+				"Oh ! oh ! tu es mon secours et ma joie.",
+				"Oh ! oh ! garde-moi toujours près de toi !",
+				"Oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Libéré, racheté, délivré, pardonné,",
+				"Je vivrai désormais pour toi.",
+				"Libéré, racheté, délivré, pardonné,",
+				"Je vivrai désormais pour toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dan Luiten et Jérémie Poulet",
+			"role": "music"
+		},
+		{
+			"name": "Dan Luiten et Jérémie Poulet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1071",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

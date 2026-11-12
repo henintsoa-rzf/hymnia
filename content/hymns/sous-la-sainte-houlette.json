@@ -1,0 +1,63 @@
+{
+	"id": "sous-la-sainte-houlette",
+	"title": "Sous la sainte houlette",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "312"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sous la sainte houlette",
+				"De mon divin berger",
+				"Il n’est point de disette,",
+				"Ni de mortel danger,",
+				"Ni de mortel danger;",
+				"Dans ses verts pâturages,",
+				"Le long des vives eaux,",
+				"Et sous ses frais ombrages,",
+				"Il mène ses agneaux,",
+				"Et sous ses frais ombrages,",
+				"Il mène, Il mène ses agneaux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand la brebis chétive",
+				"Faiblit en son chemin,",
+				"Jésus, de l’autre rive,",
+				"La porte dans sa main,",
+				"La porte dans sa main;",
+				"Mais dans son ciel de gloire,",
+				"Dans l’éternel séjour :",
+				"Bonheur, paix et victoire,",
+				"Auprès du Dieu d’amour,",
+				"Bonheur, paix et victoire,",
+				"Auprès auprès du Dieu d’amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H. ARNERA",
+			"role": "unspecified"
+		},
+		{
+			"name": "George Frideric Haendel",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1114",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

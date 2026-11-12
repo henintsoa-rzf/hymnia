@@ -1,0 +1,69 @@
+{
+	"id": "preparez-pour-le-seigneur",
+	"title": "Préparez pour le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "697"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Préparez pour le Seigneur",
+				"Un chemin dans le désert.",
+				"Il est au-dessus de tous les rois.",
+				"Il est vainqueur par sa mort sur la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton règne vienne, Seigneur,",
+				"Sois élevé, Seigneur tout-puissant.",
+				"À toi l'honneur, la gloire et la majesté !",
+				"Que ta gloire soit parmi nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Marchons pour notre Seigneur,",
+				"Car il s'est choisi un peuple",
+				"Qui régnera toujours avec lui.",
+				"Préparons nos cœurs, nos vies pour le suivre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton règne vienne, Seigneur,",
+				"Sois élevé, Seigneur tout-puissant.",
+				"À toi l'honneur, la gloire et la majesté !",
+				"Que ta gloire soit parmi nous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lothar Kosse",
+			"role": "music"
+		},
+		{
+			"name": "Lothar Kosse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem697",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

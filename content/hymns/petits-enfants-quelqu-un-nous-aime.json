@@ -1,0 +1,112 @@
+{
+	"id": "petits-enfants-quelqu-un-nous-aime",
+	"title": "Petits enfants, quelqu'un nous aime.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "484"
+		},
+		{
+			"hymnal": "adf",
+			"number": "484A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Petits enfants, quelqu'un nous aime",
+				"Par delà le ciel bleu ;",
+				"Son amour est toujours le même,",
+				"Car c'est le Fils de Dieu.",
+				"Personne ici-bas qui ne meure ;",
+				"Tout, un jour, doit passer,",
+				"Mais l'Ami céleste demeure"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et peut tout remplacer,",
+				"Et peut tout remplacer,",
+				"Et peut tout remplacer,",
+				"Mais l'Ami céleste demeure",
+				"Et peut tout remplacer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Petits enfants, qu'elles sont belles,",
+				"Par delà le ciel bleu,",
+				"Ces phalanges aux blanches ailes",
+				"Qui chantent devant Dieu !",
+				"À leur chant nous joindrons le nôtre ;",
+				"Un jour nous volerons,",
+				"Portant, d'un bout du ciel à l'autre,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sa gloire sur nos fronts !",
+				"Sa gloire sur nos fronts !",
+				"Sa gloire sur nos fronts !",
+				"Portant, d'un bout du ciel à l'autre,",
+				"Sa gloire sur nos fronts !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Petits enfants, qui donc nous donne",
+				"Par delà le ciel bleu,",
+				"La robe blanche et la couronne ?…",
+				"Jésus, le Fils de Dieu !",
+				"Il dépouilla ces biens suprêmes",
+				"Pour nous les apporter ;",
+				"Par sa mort, les enfants eux-mêmes"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuvent en hériter,",
+				"Peuvent en hériter,",
+				"Peuvent en hériter.",
+				"Par sa mort, les enfants eux-mêmes",
+				"Peuvent en hériter."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "O.-F. Presbury",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af484",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af484a",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"id": "certitudes",
+	"title": "Certitudes",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "302"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans notre vie, on se pose des questions :",
+				"« D’où je viens ? Où je vais ? et pourquoi je suis fait ? »",
+				"On cherche des réponses, mais où les trouver ?",
+				"Les théories abondent, quelle est la vraie ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux te dire : La Bible parle à chacun de nous !",
+				"La Bible répond !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je sais d’où je viens : c’est Dieu qui m’a créé !",
+				"Je sais que Dieu m’aime : son Fils est mort pour moi !",
+				"Jésus est venu, il m’accepte comme je suis.",
+				"Il me ressuscitera pour une vie éternelle !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon avenir est sans pareil : l’éternité avec mon Dieu !",
+				"Ma place est prête, Jésus viendra me chercher,",
+				"M’introduire là-bas !",
+				"Dans cet endroit rempli de joie qui éternellement durera,",
+				"Où larmes et pleurs ne seront pas,",
+				"Où nous verrons Dieu face à face !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"En croyant en Jésus, j’ai ces certitudes,",
+				"La réponse aux questions que si souvent on se pose.",
+				"N’est-ce pas cela qui donne un sens à la vie ?",
+				"Savoir d’où je viens, où je vais et pourquoi je suis fait !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Je veux te dire : viens maintenant à Jésus le Christ !",
+				"Je veux te dire : crois maintenant en Jésus le Christ !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-2",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

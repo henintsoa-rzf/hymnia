@@ -1,0 +1,71 @@
+{
+	"id": "o-jesus-mon-doux-partage",
+	"title": "O Jésus, mon doux partage",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "156"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus, mon doux partage,",
+				"Quel bonheur d'être avec toi !",
+				"Ta présence me soulage,",
+				"Quand ma peine est lourde en moi.",
+				"Je possède en ma faiblesse,",
+				"Ta personne et tes bienfaits :",
+				"Si mon âme me délaisse,",
+				"Qui me donnera la paix ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O Jésus, mon espérance,",
+				"Joie et sève de mon cœur,",
+				"Garde-moi de la souffrance,",
+				"Sois ma force et ma vigueur !",
+				"O divin soleil de l'âme,",
+				"Resplendis devant mes yeux :",
+				"Si j'éteins en moi ta flamme,",
+				"Qui me montrera les cieux ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Jésus, ô tendre Maître,",
+				"Nous voici tous devant toi,",
+				"T'implorant de tout notre être,",
+				"Et t'adorant avec foi.",
+				"Tu nous aimas jusqu'au bout,",
+				"En toi nous possédons tout.",
+				"O Jésus, ô Roi de paix,",
+				"Règne sur nous désormais !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Sebastian Bach",
+			"role": "music"
+		},
+		{
+			"name": "E. Blineau",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg156",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

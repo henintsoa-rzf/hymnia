@@ -1,0 +1,77 @@
+{
+	"id": "le-roi-vient",
+	"title": "Le Roi vient",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "921"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'humanité l'attend,",
+				"Tous les signes sont présents,",
+				"C'est l'accomplissement des temps, car il vient.",
+				"Le temps est suspendu, notre souffle retenu,",
+				"Et le mal sera déchu, car il vient."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Roi vient ! Le Roi vient !",
+				"Le Roi vient ! Le Roi vient !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Préparez le chemin",
+				"Dans vos cœurs et par vos mains,",
+				"Entrez dans votre destin, car il vient.",
+				"Construisez une voie digne de cet humble Roi,",
+				"C'est la saison de la foi, car il vient,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Roi vient ! Le Roi vient !",
+				"Le Roi vient ! Le Roi vient !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Toute la création se lève",
+				"Pour acclamer notre champion,",
+				"Toutes les nations frémissent.",
+				"Voici, il apparaît à l'horizon."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Judith Ann Robertson",
+			"role": "music"
+		},
+		{
+			"name": "Judith Ann Robertson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem921",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

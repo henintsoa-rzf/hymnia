@@ -1,0 +1,121 @@
+{
+	"id": "veille-au-matin",
+	"title": "Veille au matin",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "297"
+		},
+		{
+			"hymnal": "adf",
+			"number": "342"
+		},
+		{
+			"hymnal": "cd",
+			"number": "316"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Veille au matin, quand un ciel sans nuage",
+				"Semble annoncer un jour calme et serein,",
+				"C'est dans ton cœur que peut gronder l'orage",
+				"Qui fait tomber le pèlerin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Veille au matin, veille le soir,",
+				"Veille et prie toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Veille à midi, quand les bruits de la terre",
+				"Font oublier le céleste séjour ;",
+				"Trouve un instant pour être solitaire",
+				"Dans la prière et dans l'amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Veille au matin, veille le soir,",
+				"Veille et prie toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Veille le soir, quand se fait le silence :",
+				"Pense aux bienfaits de ton céleste Ami ;",
+				"Cherche avec soin sa divine présence,",
+				"Verse en son cœur tout ton souci."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Veille au matin, veille le soir,",
+				"Veille et prie toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Veille toujours, en tous lieux, à toute heure,",
+				"Car l'ennemi te guette, à chaque instant,",
+				"Pour se glisser dans la sainte demeure",
+				"Où doit régner le Tout-Puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Veille au matin, veille le soir,",
+				"Veille et prie toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "S. Zuberbuhler",
+			"role": "music"
+		},
+		{
+			"name": "Recueil de l'Étoile",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg297",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af342",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1118",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

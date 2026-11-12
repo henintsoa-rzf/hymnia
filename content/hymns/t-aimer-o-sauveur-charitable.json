@@ -1,0 +1,101 @@
+{
+	"id": "t-aimer-o-sauveur-charitable",
+	"title": "T'aimer, ô Sauveur charitable.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "75"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"T'aimer, ô Sauveur charitable,",
+				"C'est de mon cœur l'ardent désir ;",
+				"Seigneur, ta grâce est redoutable",
+				"À qui ne veut pas la saisir,",
+				"Seigneur, ta grâce est redoutable",
+				"À qui ne veut pas la saisir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu m'aimas d'un amour immense,",
+				"O Christ ! que je t'aime à mon tour,",
+				"Et n'aspire à d'autre science",
+				"Que de connaître ton amour,",
+				"Et n'aspire à d'autre science",
+				"Que de connaître ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Christ ! pour moi tu donnas ta vie,",
+				"Et, dépouillant ta majesté,",
+				"Tu revêtis l'ignominie,",
+				"Car tu m'aimas d'éternité.",
+				"Tu revêtis l'ignominie,",
+				"Car tu m'aimas d'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Fais que mon âme aussi réponde",
+				"À tant de biens reçus de Toi ;",
+				"Pour qu'en mon cœur ta grâce abonde",
+				"Reste, ô Jésus, reste avec moi.",
+				"Pour qu'en mon cœur ta grâce abonde",
+				"Reste, ô Jésus, reste avec moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Céleste maison paternelle,",
+				"Quand s'ouvriront tes portes d'or ?",
+				"Quand, vers toi, patrie éternelle,",
+				"Pourrons-nous prendre notre essor ?",
+				"Quand, vers toi, patrie éternelle,",
+				"Pourrons-nous prendre notre essor ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"O Seigneur, en ce jour suprême",
+				"Ton enfant saisira ta main ;",
+				"Car Toi seul es toujours le même",
+				"Fidèle hier, aujourd'hui, demain.",
+				"Car Toi seul es toujours le même",
+				"Fidèle hier, aujourd'hui, demain."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie populaire suisse",
+			"role": "music"
+		},
+		{
+			"name": "Mme W. Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af075",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

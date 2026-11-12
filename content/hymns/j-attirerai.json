@@ -1,0 +1,88 @@
+{
+	"id": "j-attirerai",
+	"title": "J'attirerai",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "624"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'attirerai le cœur des pères à leurs fils,",
+				"J'attirerai le cœur des fils à leurs pères.",
+				"J'attirerai le cœur des pères à leurs fils,",
+				"J'attirerai le cœur des fils à leurs pères."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je guérirai les cœurs brisés, je consolerai.",
+				"Mon fils, ma fille, je t'aime tant,",
+				"Toi mon enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Réconcilié avec Dieu le Père,",
+				"L'Esprit en moi crie « Abba Père ».",
+				"Réconcilié avec Dieu le Père,",
+				"L'Esprit en moi crie « Abba Père »."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je guérirai les cœurs brisés, je consolerai.",
+				"Mon fils, ma fille, je t'aime tant,",
+				"Toi mon enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et tu seras une couronne de gloire,",
+				"Un diadème dans la main de l'Éternel.",
+				"Et tu seras une couronne de gloire,",
+				"Un diadème dans la main de l'Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je guérirai les cœurs brisés, je consolerai.",
+				"Mon fils, ma fille, je t'aime tant,",
+				"Toi mon enfant, mon enfant,",
+				"Je t'aime tant,",
+				"Mon enfant, je t'aime tant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Étienne Rochat",
+			"role": "music"
+		},
+		{
+			"name": "Étienne Rochat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem624",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

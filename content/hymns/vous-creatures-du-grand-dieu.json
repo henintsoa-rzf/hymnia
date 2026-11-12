@@ -1,0 +1,68 @@
+{
+	"id": "vous-creatures-du-grand-dieu",
+	"title": "Vous créatures du grand Dieu",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "27"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous, créatures du grand Dieu,",
+				"Que l’hymne de la terre aux cieux",
+				"Vous unisse, vous unisse!",
+				"Vous, clair soleil aux rayons d’or,",
+				"Lune qui brille quand tout dort,",
+				"Chantez gloire, Chantez gloire,",
+				"Qu’à Dieu montent vos louanges, vos louanges!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vous, coeur où brûle la pitié,",
+				"Qui pardonnez, ayant prié,",
+				"Donnez gloire, Donnez gloire,",
+				"Vous qui souffrez de longs tourments,",
+				"Et les portez au Tout-Puissant,",
+				"Chantez gloire, Chantez gloire,",
+				"Qu’à Dieu montent vos louanges, vos louanges!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vous, créatures, d’un seul coeur,",
+				"Humbles et grands, formez un choeur",
+				"De louanges, de louanges!",
+				"Au Père, au Fils, au Saint-Esprit,",
+				"Trinité sainte, un Dieu béni,",
+				"Soit la gloire, Soit la gloire!",
+				"Qu’aux cieux montent vos louanges, vos louanges!"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "L. Monastier-Schroeder",
+			"role": "unspecified"
+		},
+		{
+			"name": "Cologne",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/846",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

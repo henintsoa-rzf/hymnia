@@ -1,0 +1,100 @@
+{
+	"id": "le-ciel-etait-voile",
+	"title": "Le ciel était voilé",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "379"
+		},
+		{
+			"hymnal": "adf",
+			"number": "504"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le ciel était voilé,",
+				"La route était obscure ;",
+				"Voyageur désolé,",
+				"J'errais à l'aventure.",
+				"Chaque arbre du chemin",
+				"Était une menace,",
+				"Et je cherchais en vain",
+				"La porte de la grâce,",
+				"La porte de la grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Enfin, las et transi,",
+				"Je tombai sur la route",
+				"En disant : « C'est ici",
+				"Que je mourrai, sans doute ! »",
+				"Quand un rayon des cieux,",
+				"Pour moi perçant l'espace,",
+				"Vint montrer à mes yeux",
+				"La porte de la grâce,",
+				"La porte de la grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais je doutais encor :",
+				"Se peut-il, ô merveille,",
+				"Que seule, quand tout dort,",
+				"La grâce toujours veille ?",
+				"« Pitié ! je vais mourir ! »",
+				"Murmurai-je à voix basse.",
+				"Et je la vis s'ouvrir",
+				"La porte de la grâce,",
+				"La porte de la grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et je vis, sur le seuil,",
+				"Debout dans la lumière,",
+				"Jésus ! Quel doux accueil",
+				"Il fit à ma misère !",
+				"« Je t'attendais ; pourquoi, »",
+				"Dit-il, « pauvre âme lasse,",
+				"Viens-tu si tard ? C'est moi.",
+				"C'est moi qui suis la grâce,",
+				"C'est moi qui suis la grâce ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air américain",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg379",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af504",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

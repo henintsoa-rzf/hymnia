@@ -1,0 +1,96 @@
+{
+	"id": "que-ne-puis-je-o-mon-dieu",
+	"title": "Que ne puis-je, ô mon Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "344"
+		},
+		{
+			"hymnal": "adf",
+			"number": "48"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que ne puis-je, ô mon Dieu,",
+				"Dieu de ma délivrance,",
+				"Remplir de ta louange",
+				"et la terre et les cieux,",
+				"Les prendre pour témoins",
+				"de ma reconnaissance,",
+				"Et dire au monde entier",
+				"combien je suis heureux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Heureux quand je te parle,",
+				"et que de ma poussière,",
+				"Je fais monter vers toi",
+				"mon hommage ou mon vœu,",
+				"Avec la liberté",
+				"d'un fils devant son père,",
+				"Et le saint tremblement",
+				"d'un pécheur devant Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Heureux, lorsque, assailli",
+				"par l'Ange de la chute,",
+				"Prenant la croix pour arme",
+				"et l'Agneau pour Sauveur,",
+				"Je triomphe à genoux,",
+				"et sors de cette lutte,",
+				"Vainqueur, mais tout meurtri ;",
+				"tout meurtri, mais vainqueur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Heureux, toujours heureux !",
+				"J'ai le Dieu fort pour Père,",
+				"Pour frère, Jésus-Christ,",
+				"pour conseil, l'Esprit-Saint :",
+				"Que peut ôter l'enfer,",
+				"que peut donner la terre",
+				"À qui jouit du ciel",
+				"et du Dieu trois fois saint ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H. Duvernoy",
+			"role": "music"
+		},
+		{
+			"name": "Adolphe Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg344",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af048",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

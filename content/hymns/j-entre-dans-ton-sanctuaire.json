@@ -1,0 +1,58 @@
+{
+	"id": "j-entre-dans-ton-sanctuaire",
+	"title": "J'entre dans ton sanctuaire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "673"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'entre dans ton sanctuaire",
+				"Pour contempler ta face, ô Dieu,",
+				"Et là devant le trône saint,",
+				"Prosterné devant le Dieu très haut,",
+				"Je reconnais tout mon péché.",
+				"Sous ton regard, je m'humilie,",
+				"Je me tiens devant toi, Seigneur,",
+				"Lavé par ton sang,",
+				"O mon Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux voir ta gloire,",
+				"Les anges et les archanges,",
+				"L'armée des cieux en feu",
+				"Qui se prépare au combat.",
+				"Je veux voir ta gloire,",
+				"La gloire de ta présence,",
+				"La puissance et la force",
+				"De ton pouvoir éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem673",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

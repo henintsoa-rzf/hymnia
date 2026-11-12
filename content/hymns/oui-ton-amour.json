@@ -1,0 +1,107 @@
+{
+	"id": "oui-ton-amour",
+	"title": "Oui, ton amour.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "57"
+		},
+		{
+			"hymnal": "cd",
+			"number": "26",
+			"title": "Oui, ton amour est un amour sublime"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, ton amour est un amour sublime ;",
+				"Il est plus haut que la plus haute cime",
+				"Et que l'azur insondable des cieux.",
+				"Comment pourrais-je, ô Dieu ! vers cet abîme",
+				"Lever les yeux ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pourtant, Seigneur, si je ne puis comprendre,",
+				"Ah ! que, du moins, ma voix se fasse entendre,",
+				"Et que mon cœur, par l'amour soulevé,",
+				"Chante aujourd'hui l'amour puissant et tendre",
+				"Qui m'a sauvé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les séraphins, devant cette clémence",
+				"Que rien ne borne et que rien ne commence,",
+				"Courbent leur front par leurs ailes voilé…",
+				"Et c'est pour moi que cet amour immense",
+				"S'est révélé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! quel amour ! Il m'entoure, il m'inonde ;",
+				"C'est une mer calme, pure, profonde,",
+				"Qui se déroule aux regards de ma foi.",
+				"Vaste océan, que murmure ton onde ?",
+				"« Pour toi, pour toi ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Oui, c'est pour moi, je le crois et j'adore,",
+				"O Christ Sauveur ! Qu'il retentisse encore,",
+				"Ce mot divin, ce mot de ton amour !",
+				"Redis-le moi, jusqu'à la douce aurore",
+				"De ton retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Et quand luira cette aurore bénie,",
+				"Quand, à Jésus plus tendrement unie,",
+				"Mon âme, enfin, mon âme le verra,",
+				"D'elle vers Lui ma louange infinie",
+				"S'élèvera !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af057",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/845",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

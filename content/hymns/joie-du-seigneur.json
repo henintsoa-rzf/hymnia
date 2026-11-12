@@ -1,0 +1,145 @@
+{
+	"id": "joie-du-seigneur",
+	"title": "Joie du Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1180"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bien que les larmes coulent,",
+				"Mon chant s’élève, mon chant s’élève à toi.",
+				"Bien que mon cœur souffre,",
+				"Mon chant s’élève, mon chant s’élève à toi.",
+				"Tant que j’existerai, je louerai ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand vient la détresse,",
+				"Je lève mes yeux, je lève mes yeux vers toi.",
+				"Quand les flots rugissent,",
+				"Je lève mes yeux, je lève mes yeux vers toi.",
+				"Tant que j’aurai espoir, je louerai ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La joie du Seigneur est ma force !",
+				"La joie du Seigneur est ma force !",
+				"Dans les épreuves je danse, dans la vallée je chante.",
+				"La joie du Seigneur est ma force !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La joie du Seigneur est ma force !",
+				"La joie du Seigneur est ma force !",
+				"Dans les épreuves je danse, dans la vallée je chante.",
+				"La joie du Seigneur est ma force !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ma foi s’élève",
+				"Jusqu’à toi quand je ne te vois pas.",
+				"Que ma foi s’élève",
+				"Jusqu’à toi quand je ne t’entends pas.",
+				"Dieu de miséricorde, je louerai ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Brillant de lumière,",
+				"Tu resplendis, tu resplendis, Seigneur.",
+				"Et, dans ta présence,",
+				"Je reprends vie, je reprends vie, Seigneur.",
+				"La force vient quand je dis: «Je louerai ton nom !»"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La joie du Seigneur est ma force !",
+				"La joie du Seigneur est ma force !",
+				"Dans les épreuves je danse, dans la vallée je chante.",
+				"La joie du Seigneur est ma force !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La joie du Seigneur est ma force !",
+				"La joie du Seigneur est ma force !",
+				"Dans les épreuves je danse, dans la vallée je chante.",
+				"La joie du Seigneur est ma force !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dans la vallée de l’ombre,",
+				"Tu es mon bouclier,",
+				"Toujours à ma droite quand je suis épuisé.",
+				"J’entends ta voix m’appeler.",
+				"Jésus, me voici.",
+				"Marchant sur les vagues, je peux tout par Christ !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La joie du Seigneur est ma force !",
+				"La joie du Seigneur est ma force !",
+				"Dans les épreuves je danse, dans la vallée je chante.",
+				"La joie du Seigneur est ma force !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La joie du Seigneur est ma force !",
+				"La joie du Seigneur est ma force !",
+				"Dans les épreuves je danse, dans la vallée je chante.",
+				"La joie du Seigneur est ma force !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rend Collective",
+			"role": "music"
+		},
+		{
+			"name": "Chris Llewellyn, Gareth Gilkerson et Ed Cash",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1180",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

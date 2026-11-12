@@ -1,0 +1,89 @@
+{
+	"id": "l-amour-de-dieu-a-ete-manifeste",
+	"title": "L'amour de Dieu a été manifesté",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "55"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'amour de Dieu a été manifesté",
+				"envers nous",
+				"En ce que Dieu a envoyé",
+				"Son Fils unique dans le monde,",
+				"Afin que nous vivions par Lui.",
+				"Afin que nous vivions par Lui.",
+				"Afin que nous vivions par Lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus a dit:",
+				"« Je suis le chemin, la vérité et la vie »,",
+				"Il a dit aussi,",
+				"« Je suis la lumière, la lumière du monde »."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'amour de Dieu a été manifesté",
+				"envers nous",
+				"En ce que Dieu a envoyé",
+				"Son Fils unique dans le monde,",
+				"Afin que nous vivions par Lui.",
+				"Afin que nous vivions par Lui.",
+				"Afin que nous vivions par Lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus a dit:",
+				"« Je suis le pain, le pain de vie, et l'eau vive »,",
+				"Il a dit aussi,",
+				"« Je suis le bon berger",
+				"de tous ceux qui me suivent »."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'amour de Dieu a été manifesté",
+				"envers nous",
+				"En ce que Dieu a envoyé",
+				"Son Fils unique dans le monde,",
+				"Afin que nous vivions par Lui.",
+				"Afin que nous vivions par Lui.",
+				"Afin que nous vivions par Lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem055",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

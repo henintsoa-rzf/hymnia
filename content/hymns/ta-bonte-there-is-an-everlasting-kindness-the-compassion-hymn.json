@@ -1,0 +1,99 @@
+{
+	"id": "ta-bonte-there-is-an-everlasting-kindness-the-compassion-hymn",
+	"title": "Ta bonté (There is an Everlasting Kindness – The Compassion Hymn)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "612"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, ta bonté pour nous comme un soleil",
+				"Descendu du ciel",
+				"Se répand sur les perdus",
+				"Vient sauver pour toujours.",
+				"Aux brebis sans berger tu viens dire :",
+				"« Abandonne tes peurs,",
+				"Viens boire au fleuve du pardon,",
+				"Viens trouver le repos. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et dans ta compassion pour ceux qui souffrent,",
+				"Tu tendais la main",
+				"Au boiteux pour qu’il accoure,",
+				"Au mort pour qu’il respire.",
+				"Tu voyais la tristesse au fond des yeux",
+				"Et tu consolais :",
+				"Tu entendais les soupirs,",
+				"Les enfants s’approchaient."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amour sans fin, grâce illimitée,",
+				"Ta compassion, ô Dieu, nous a touchés.",
+				"Nos mots, nos gestes de chaque jour",
+				"Sont des actes à la louange de ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Debout devant la croix du Calvaire",
+				"Je vois ton visage",
+				"Sous le poids des épines,",
+				"Sous les coups de la honte.",
+				"Certainement ce sont nos douleurs",
+				"Que tu prends sur toi",
+				"Quand tu pardonnes aux moqueurs",
+				"Et fais grâce au brigand."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Comme il est beau d’être un messager",
+				"Qui annonce la paix",
+				"Où l’injustice est semée,",
+				"Où le manque est immense.",
+				"D’être la voix d’espoir, de salut,",
+				"De répondre aux cris",
+				"De désespoir et de faim",
+				"Par l’amour de Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Keith & Kristyn Getty & Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith & Kristyn Getty & Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-12",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

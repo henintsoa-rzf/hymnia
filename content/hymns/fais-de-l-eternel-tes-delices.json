@@ -1,0 +1,50 @@
+{
+	"id": "fais-de-l-eternel-tes-delices",
+	"title": "Fais de l'Éternel tes délices",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "7"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais de l'Éternel tes délices,",
+				"Et Il te donnera",
+				"Ce que ton cœur désire.",
+				"Fais de l'Éternel tes délices,",
+				"Et Il te donnera",
+				"Ce que ton cœur désire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Recommande ton sort à l'Éternel,",
+				"Mets en lui ta confiance, et Il agira,",
+				"Oui, Il agira !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem007",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

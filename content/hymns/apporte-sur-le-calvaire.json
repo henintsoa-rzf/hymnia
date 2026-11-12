@@ -1,0 +1,89 @@
+{
+	"id": "apporte-sur-le-calvaire",
+	"title": "Apporte sur le calvaire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "248"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Apporte sur le Calvaire",
+				"Tes pesants fardeaux,",
+				"Là, tu trouveras, mon frère,",
+				"Le repos."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est moi, c'est moi qui console !",
+				"Quelle est cette voix ?",
+				"D'où viens-tu, douce parole ?",
+				"De la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Regarde ma main percée,",
+				"Mon côté sanglant,",
+				"Pour toi, pauvre âme angoissée,",
+				"cœur tremblant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Voilant mes splendeurs divines",
+				"Sous l'horrible affront,",
+				"Pour toi saignent les épines",
+				"Sur mon front !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Ah ! quand même, pour te suivre,",
+				"Il faille souffrir,",
+				"Pour toi, Sauveur, je veux vivre",
+				"Et mourir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Car tu soutiendras ma tête",
+				"Dans les grandes eaux,",
+				"M'ouvrant, après la tempête,",
+				"Le repos !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ethelbert William Bullinger",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af248",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

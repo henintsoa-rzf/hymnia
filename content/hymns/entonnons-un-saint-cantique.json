@@ -1,0 +1,109 @@
+{
+	"id": "entonnons-un-saint-cantique",
+	"title": "Entonnons un saint cantique",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "71"
+		},
+		{
+			"hymnal": "adf",
+			"number": "444"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entonnons un saint cantique",
+				"À la gloire du Fils unique,",
+				"Fils éternel du Dieu des cieux.",
+				"Dans sa mort, dans sa souffrance,",
+				"Nous trouvons tous en abondance",
+				"Ce qu'il nous faut pour être heureux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louange, empire, honneur",
+				"Soient à notre Sauveur !",
+				"Alléluia !",
+				"Gloire à Jésus, au Roi des rois,",
+				"Qui pour nous mourut sur la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que tout en nous glorifie",
+				"Jésus, le Prince de la vie ;",
+				"Que tout proclame son amour !",
+				"Sa paix, sa grâce éternelle,",
+				"Sur son peuple se renouvelle",
+				"Et se répand de jour en jour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louange, empire, honneur",
+				"Soient à notre Sauveur !",
+				"Alléluia !",
+				"Gloire à Jésus, au Roi des rois,",
+				"Qui pour nous mourut sur la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, reçois nos hommages :",
+				"Nous chanterons, dans tous les âges,",
+				"L'amour qui nous a rachetés.",
+				"Que, sauvés par tes blessures,",
+				"Et guéris par tes meurtrissures,",
+				"Tous nos cœurs te soient consacrés !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louange, empire, honneur",
+				"Soient à notre Sauveur !",
+				"Alléluia !",
+				"Gloire à Jésus, au Roi des rois,",
+				"Qui pour nous mourut sur la croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Nicolaï",
+			"role": "music"
+		},
+		{
+			"name": "J.-F. Monnier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg071",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af444",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

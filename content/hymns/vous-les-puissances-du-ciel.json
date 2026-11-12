@@ -1,0 +1,73 @@
+{
+	"id": "vous-les-puissances-du-ciel",
+	"title": "Vous, les puissances du ciel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "557"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous, les puissances du ciel,",
+				"Venez honorer le Seigneur.",
+				"Vous, les puissants de la terre,",
+				"Venez honorer le Seigneur.",
+				"Venez proclamer sa gloire,",
+				"Venez proclamer sa force."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Courbez-vous jusqu'à terre,",
+				"Devant Lui, en prière.",
+				"Courbez-vous jusqu'à terre,",
+				"Devant Lui, en prière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tous nous proclamons hosanna",
+				"Dans le grand palais du Seigneur.",
+				"Dans la présence du Dieu saint,",
+				"Nous nous prosternons tous ensemble.",
+				"Il sera toujours le juge,",
+				"Il sera toujours le Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Courbez-vous jusqu'à terre,",
+				"Devant Lui, en prière.",
+				"Courbez-vous jusqu'à terre,",
+				"Devant Lui, en prière."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem557",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,57 @@
+{
+	"id": "certainement",
+	"title": "Certainement",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "110"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Certainement tu as porté nos maladies",
+				"Et tu t’es chargé de nos douleurs",
+				"Alors que nous pensions que Dieu t’avais puni",
+				"Frappé, humilié, abandonné …",
+				"Mais c’est pour nos péchés",
+				"Que tu as été percé",
+				"C’est pour nos fautes",
+				"Que tu as été brisé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le châtiment qui nous donne la paix",
+				"Est retombé sur toi, Seigneur Jésus,",
+				"Et c’est par tes blessures que nous sommes guéris;",
+				"Seigneur, nous voulons te dire merci,",
+				"Car c’est pour nos péchés",
+				"Que tu as été percé",
+				"C’est pour nos fautes",
+				"Que tu as été brisé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "La Bible, d’après Esaïe 53",
+			"role": "lyrics"
+		},
+		{
+			"name": "Sylvain Jaccard",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-10",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,96 @@
+{
+	"id": "la-croix-que-dieu-me-donne",
+	"title": "La croix que Dieu me donne",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "294"
+		},
+		{
+			"hymnal": "adf",
+			"number": "378"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La croix que Dieu me donne",
+				"À porter ici-bas,",
+				"Est jointe à la couronne",
+				"Qui ne se flétrit pas.",
+				"Celui qui me l'impose",
+				"Se nomme mon Sauveur ;",
+				"Sur lui je me repose,",
+				"Il est mon défenseur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le premier, sur lui-même",
+				"Il a chargé la croix ;",
+				"Après lui, puisqu'il m'aime,",
+				"Dois-je en craindre le poids ?",
+				"Jésus en qui j'espère",
+				"Et qui la prit sur lui,",
+				"Me la rendra légère ;",
+				"Il est mon sûr appui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est lui dont la sagesse",
+				"Me trace mon chemin,",
+				"Lui qui, dans ma faiblesse,",
+				"Me tend toujours la main.",
+				"C'est lui qui renouvelle",
+				"Ma force chaque jour ;",
+				"Jamais ce Dieu fidèle",
+				"N'a trompé mon amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Prends donc, prends sans tristesse,",
+				"O mon âme, ta croix !",
+				"Du Seigneur la sagesse",
+				"En mesure le poids,",
+				"La douleur qu'il t'envoie",
+				"Bientôt disparaîtra ;",
+				"D'une éternelle joie",
+				"Ton Dieu te comblera."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chrétien d'Urhan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg294",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af378",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

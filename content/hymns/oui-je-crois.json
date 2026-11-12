@@ -1,0 +1,167 @@
+{
+	"id": "oui-je-crois",
+	"title": "Oui, je crois",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1162"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "604",
+			"title": "Oui je crois (This I Believe)"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Père éternel,",
+				"Toi, qui as tout créé,",
+				"Dieu tout-puissant,",
+				"C'est par ton Saint-Esprit",
+				"Que Jésus fut conçu,",
+				"Christ, notre Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je crois en Dieu notre Père,",
+				"Oui, je crois en Christ son Fils.",
+				"Oui, je crois en ton Saint-Esprit,",
+				"Ô trinité divine."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je crois à la résurrection,",
+				"Que nous vivrons à jamais,",
+				"Car oui, je crois",
+				"Dans le nom de Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre juge et défenseur,",
+				"Tu souffris à la croix,",
+				"Le pardon est en toi.",
+				"Descendu jusqu'aux ténèbres,",
+				"Tu es ressuscité,",
+				"À jamais élevé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je crois en Dieu notre Père,",
+				"Oui, je crois en Christ son Fils.",
+				"Oui, je crois en ton Saint-Esprit,",
+				"Ô trinité divine."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je crois à la résurrection,",
+				"Que nous vivrons à jamais,",
+				"Car oui, je crois",
+				"Dans le nom de Jésus."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oui, je crois en lui,",
+				"Oui, je crois qu’il est vivant.",
+				"Oui, je crois que Jésus est Seigneur."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oui, je crois en lui,",
+				"Oui, je crois qu’il est vivant.",
+				"Oui, je crois que Jésus est Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je crois en Dieu notre Père,",
+				"Oui, je crois en Christ son Fils.",
+				"Oui, je crois en ton Saint-Esprit,",
+				"Ô trinité divine."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je crois à la résurrection,",
+				"Que nous vivrons à jamais,",
+				"Car oui, je crois",
+				"Dans le nom de Jésus.",
+				"Car oui, je crois",
+				"Dans le nom de Jésus,",
+				"Car oui, je crois",
+				"Dans le nom de Jésus."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oui, je crois à la vie éternelle,",
+				"Je crois que d'une vierge il est né.",
+				"Je crois à la communion des saints",
+				"Et en ta sainte Église."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oui, je crois à la résurrection",
+				"Quand Jésus reviendra,",
+				"Car oui, je crois",
+				"Dans le nom de Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Crocker et Ben Fielding",
+			"role": "music"
+		},
+		{
+			"name": "Matt Crocker et Ben Fielding",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1162",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-4",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

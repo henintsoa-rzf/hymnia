@@ -1,0 +1,89 @@
+{
+	"id": "quand-ma-route-est-obscure",
+	"title": "Quand ma route est obscure",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "323"
+		},
+		{
+			"hymnal": "adf",
+			"number": "601"
+		},
+		{
+			"hymnal": "cd",
+			"number": "333"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand ma route est obscure,",
+				"Qu'à peine une lueur",
+				"M'éclaire et me rassure,",
+				"Je regarde au Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand ma coupe est remplie,",
+				"Comblé par la faveur",
+				"Du Dieu que l'homme oublie,",
+				"Je regarde au Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand mon âme, entraînée",
+				"Vers un plaisir trompeur,",
+				"Au mal est enchaînée,",
+				"Je regarde au Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dans le calme ou l'orage,",
+				"La joie ou la douleur,",
+				"À toute heure, à tout âge,",
+				"Regardons au Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alexander Robert Reinagle",
+			"role": "music"
+		},
+		{
+			"name": "Recueil de l'Étoile",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg323",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af601",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1133",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

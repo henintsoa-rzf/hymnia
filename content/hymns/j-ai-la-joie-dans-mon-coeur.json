@@ -1,0 +1,81 @@
+{
+	"id": "j-ai-la-joie-dans-mon-coeur",
+	"title": "J’ai la joie dans mon coeur",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "269"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, j’ai la joie dans mon coeur,",
+				"Joie dans mon coeur,",
+				"Joie dans mon coeur,",
+				"Joie dans mon coeur,",
+				"Oui, j’ai la joie dans mon coeur,",
+				"Joie dans mon coeur,",
+				"La joie de mon Sauveur!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’ai le pardon, Son pardon,",
+				"Divin pardon,",
+				"Divin pardon,",
+				"Divin pardon,",
+				"J’ai le pardon",
+				"Son pardon, Divin pardon,",
+				"J’ai le divin pardon!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, j’ai la paix, dans mon coeur,",
+				"Parfaite paix,",
+				"Parfaite paix,",
+				"Parfaite paix,",
+				"Oui, j’ai la paix dans mon coeur,",
+				"Parfaite paix, Parfaite paix,",
+				"La paix de mon Sauveur!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et quand Jésus reviendra,",
+				"Il me prendra,",
+				"Il me prendra,",
+				"Il me prendra,",
+				"Et quand Jésus reviendra,",
+				"Il me prendra",
+				"Là-haut! Alléluia!"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "A. Omer",
+			"role": "unspecified"
+		},
+		{
+			"name": "G. Cooke",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1300",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

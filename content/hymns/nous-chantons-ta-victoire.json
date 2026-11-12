@@ -1,0 +1,77 @@
+{
+	"id": "nous-chantons-ta-victoire",
+	"title": "Nous chantons ta victoire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1075"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, au-dessus de tout nom,",
+				"Ta gloire remplit les cieux et la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous chantons ta victoire,",
+				"Nous élevons ton nom,",
+				"Car tu as gagné le combat.",
+				"Nous chantons ta victoire,",
+				"Nous élevons ton nom,",
+				"Car tu as gagné le combat."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Toute langue confesse ton nom.",
+				"Ton règne est éternel, éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, au-dessus de tout nom,",
+				"Ta gloire remplit les cieux et la terre."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Nous chantons ta victoire,",
+				"Nous élevons ton nom,",
+				"Car tu as gagné le combat.",
+				"Nous chantons ta victoire,",
+				"Nous élevons ton nom,",
+				"Car tu as gagné le combat."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matthieu Marvane",
+			"role": "music"
+		},
+		{
+			"name": "Matthieu Marvane",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1075",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

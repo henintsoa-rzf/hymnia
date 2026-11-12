@@ -1,0 +1,140 @@
+{
+	"id": "je-dois-voyager-au-monde",
+	"title": "Je dois voyager au monde.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "339"
+		},
+		{
+			"hymnal": "cd",
+			"number": "308"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je dois voyager au monde",
+				"Comme un esquif sur les eaux,",
+				"Et la tempête qui gronde",
+				"Déjà fait mugir les flots."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est ma vie,",
+				"Il est mon Roi.",
+				"Toujours il prie",
+				"Notre Père pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il m'a donné la boussole",
+				"Qui, sans erreur, pointe au port :",
+				"C'est sa vivante Parole ;",
+				"Avec elle, point de mort !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est ma vie,",
+				"Il est mon Roi.",
+				"Toujours il prie",
+				"Notre Père pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si le vent m'est favorable,",
+				"Si mon ciel est clair et pur,",
+				"Ce pilote charitable",
+				"Me dit : « Veille ! rien n'est sûr ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est ma vie,",
+				"Il est mon Roi.",
+				"Toujours il prie",
+				"Notre Père pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et si vient le sombre orage,",
+				"Si tout semble menaçant,",
+				"Mon pilote m'encourage",
+				"De son regard tout-puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est ma vie,",
+				"Il est mon Roi.",
+				"Toujours il prie",
+				"Notre Père pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Je ne crains donc ni naufrage,",
+				"Ni pirate, ni récif ;",
+				"J'ai déjà reçu le gage",
+				"Du salut de mon esquif."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est ma vie,",
+				"Il est mon Roi.",
+				"Toujours il prie",
+				"Notre Père pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af339",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1110",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

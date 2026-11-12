@@ -1,0 +1,92 @@
+{
+	"id": "aide-nous",
+	"title": "Aide-nous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1127"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Fondement de ce que fut",
+				"La nuit des temps en son début,",
+				"Lumière du monde,",
+				"Sainteté au sein de notre humanité,",
+				"Agneau de Dieu, éclat divin,",
+				"Seigneur, étoile du matin,",
+				"Inaltérable vérité, Dieu puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pain de vie, source d’infini",
+				"Pour celle et celui",
+				"Que Dieu attire en sa présence,",
+				"Incomparable bienveillance,",
+				"Bien suprême, Roi des cieux,",
+				"Auprès du Père en son saint lieu",
+				"Jusqu’à la fin des temps,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aide-moi, aide-nous",
+				"À te vivre à genoux",
+				"À saisir la portée de tes voies.",
+				"Mmm, et, de nous jusqu’à toi,",
+				"Conduis-nous pas à pas",
+				"Au palais où tu es Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Majesté sans fin depuis toujours",
+				"Et pour l’éternité,",
+				"Incontestable auteur de l’univers",
+				"Jusqu’à sa destinée,",
+				"Messie de Dieu parmi les siens,",
+				"Incomparable, unique et saint,",
+				"Tu es Dieu, tu es Vie, tu es là !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aide-moi, aide-nous",
+				"À te vivre à genoux",
+				"À saisir la portée de tes voies.",
+				"Mmm, et, de nous jusqu’à toi,",
+				"Conduis-nous pas à pas",
+				"Au palais où tu es Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christian Frappier",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini et Christian Frappier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1127",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

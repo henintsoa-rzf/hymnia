@@ -1,0 +1,87 @@
+{
+	"id": "dieu-souverain",
+	"title": "Dieu souverain",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1083"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Assis devant le trône je me tiens,",
+				"Invité à ta table, ton festin.",
+				"Reçois avec faveur",
+				"L'offrande de mon cœur,",
+				"Qu'un doux parfum réjouisse ton cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Dieu souverain,",
+				"Chaque jour je contemple l'œuvre de tes mains.",
+				"Tu es Dieu trois fois saint.",
+				"Demeurer en toi est mon seul dessein,",
+				"Dieu souverain.",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Justifié par la grâce, je me tiens",
+				"Dans ton intimité, ton jardin.",
+				"Tu es le vigneron,",
+				"Nous sommes les sarments.",
+				"Apprends-moi à aimer en tout temps."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Dieu souverain,",
+				"Chaque jour je contemple l'œuvre de tes mains.",
+				"Tu es Dieu trois fois saint.",
+				"Demeurer en toi est mon seul dessein,"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu es Dieu souverain.",
+				"Chaque jour je contemple l'œuvre de tes mains.",
+				"Tu es Dieu trois fois saint.",
+				"Demeurer en toi est mon seul dessein,",
+				"Dieu souverain.",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Blanc",
+			"role": "music"
+		},
+		{
+			"name": "Thomas Blanc",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1083",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

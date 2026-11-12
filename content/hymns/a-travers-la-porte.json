@@ -1,0 +1,109 @@
+{
+	"id": "a-travers-la-porte",
+	"title": "À travers la porte.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "268"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À travers la porte que Dieu",
+				"Pour nous laisse entr'-ouverte,",
+				"La gloire auguste du saint lieu,",
+				"À ma vue est offerte."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amour insondable à la foi !",
+				"La porte est ouverte pour moi !",
+				"Pour moi ! pour moi !..",
+				"est ouverte pour moi !.."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La porte est ouverte à celui",
+				"Qui le salut réclame,",
+				"Qui cherche en Jésus son appui,",
+				"Et la paix de son âme"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amour insondable à la foi !",
+				"La porte est ouverte pour moi !",
+				"Pour moi ! pour moi !..",
+				"est ouverte pour moi !.."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Riche et pauvre, grand et petit,",
+				"D'un pôle à l'autre pôle,",
+				"Pour tous les humains retentit",
+				"La divine Parole"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amour insondable à la foi !",
+				"La porte est ouverte pour moi !",
+				"Pour moi ! pour moi !..",
+				"est ouverte pour moi !.."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Marchons amis ! Le Roi des rois",
+				"Au ciel nous garde un trône.",
+				"Ici-bas nous portons la croix,",
+				"Mais là-haut la couronne"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amour insondable à la foi !",
+				"La porte est ouverte pour moi !",
+				"Pour moi ! pour moi !..",
+				"est ouverte pour moi !.."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Songs and Solos",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af268",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

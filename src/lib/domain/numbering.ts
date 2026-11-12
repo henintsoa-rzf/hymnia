@@ -6,10 +6,16 @@ import type { SortKey } from './schema';
 
 const NUMBER = /^\s*0*(\d+)\s*(.*?)\s*$/;
 
+/**
+ * Sort key of a number with no leading digits. A finite value, so that it survives JSON (where
+ * `Infinity` becomes `null` and would sort first).
+ */
+export const NO_NUMBER = Number.MAX_SAFE_INTEGER;
+
 /** Numeric part, then lowercase suffix. Numbers with no leading digits sort last. */
 export function sortKey(printed: string): SortKey {
 	const match = NUMBER.exec(printed);
-	if (!match) return [Number.POSITIVE_INFINITY, printed.trim().toLowerCase()];
+	if (!match) return [NO_NUMBER, printed.trim().toLowerCase()];
 	return [Number(match[1]), match[2].toLowerCase().replace(/\s+/g, ' ')];
 }
 
@@ -26,6 +32,6 @@ export function compareNumbers(a: string, b: string): number {
 /** Lookup key: "12 bis", "12bis", "012 BIS" → "12bis". */
 export function normalizeNumber(printed: string): string {
 	const [num, suffix] = sortKey(printed);
-	const head = Number.isFinite(num) ? String(num) : '';
+	const head = num === NO_NUMBER ? '' : String(num);
 	return head + suffix.replace(/[^\p{L}\p{N}]/gu, '');
 }

@@ -1,0 +1,125 @@
+{
+	"id": "je-prie-pour-mon-pays",
+	"title": "Je prie pour mon pays",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1063"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je prie pour mon pays,",
+				"Pour tous ses habitants,",
+				"Je prie pour mon pays,",
+				"Pour ses enfants.",
+				"Je prie pour mon pays,",
+				"Pour tous ses habitants,",
+				"Je prie pour mon pays,",
+				"Pour ses enfants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire vienne,",
+				"Que ton Esprit descende",
+				"Dès maintenant,",
+				"Dès maintenant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je pleure pour mon pays,",
+				"Pour tous ses habitants,",
+				"Je prie pour mon pays,",
+				"Pour ses enfants.",
+				"Je prie pour mon pays,",
+				"Pour tous ses habitants,",
+				"Je prie pour mon pays,",
+				"Pour ses enfants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire vienne,",
+				"Que ton Esprit descende",
+				"Dès maintenant,",
+				"Dès maintenant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je chante pour mon pays,",
+				"Pour tous ses habitants,",
+				"Je prie pour mon pays,",
+				"Pour ses enfants.",
+				"Je prie pour mon pays,",
+				"Pour tous ses habitants,",
+				"Je prie pour mon pays,",
+				"Pour ses enfants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire vienne,",
+				"Que ton Esprit descende",
+				"Dès maintenant,",
+				"Dès maintenant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Merci pour mon pays,",
+				"Pour tous ses habitants,",
+				"Je prie pour mon pays,",
+				"Pour ses enfants.",
+				"Je prie pour mon pays,",
+				"Pour tous ses habitants,",
+				"Je prie pour mon pays,",
+				"Pour ses enfants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire vienne,",
+				"Que ton Esprit descende",
+				"Dès maintenant,",
+				"Dès maintenant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Étienne Rochat",
+			"role": "music"
+		},
+		{
+			"name": "Étienne Rochat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1063",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

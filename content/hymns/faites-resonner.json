@@ -1,0 +1,115 @@
+{
+	"id": "faites-resonner",
+	"title": "Faites résonner",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "754"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Faites résonner un chant de victoire,",
+				"Le Seigneur est ressuscité !",
+				"Il est vivant parmi nous et sa gloire",
+				"Se voit dans nos vies transformées."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est venu partager notre sort,",
+				"En être humain, sans jamais faire de tort.",
+				"Il est unique par sa vie et sa mort."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Faites résonner un chant de victoire,",
+				"Le Seigneur est ressuscité !",
+				"Il est vivant parmi nous et sa gloire",
+				"Se voit dans nos vies transformées."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il a parlé comme personne n'a parlé,",
+				"En enseignant avec autorité.",
+				"Puis il est mort, on l'a crucifié."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Faites résonner un chant de victoire,",
+				"Le Seigneur est ressuscité !",
+				"Il est vivant parmi nous et sa gloire",
+				"Se voit dans nos vies transformées."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais le tombeau n'a pas pu le garder.",
+				"Le jour de Pâques, Christ est ressuscité.",
+				"Il est vainqueur, au ciel il est monté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Faites résonner un chant de victoire,",
+				"Le Seigneur est ressuscité !",
+				"Il est vivant parmi nous et sa gloire",
+				"Se voit dans nos vies transformées."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Devant le Père, il est notre avocat,",
+				"Il intercède et ne fléchira pas.",
+				"Pour son Église, bientôt il reviendra."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Faites résonner un chant de victoire,",
+				"Le Seigneur est ressuscité !",
+				"Il est vivant parmi nous et sa gloire",
+				"Se voit dans nos vies transformées."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michel Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Michel Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem754",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

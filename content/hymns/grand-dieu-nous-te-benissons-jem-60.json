@@ -1,0 +1,129 @@
+{
+	"id": "grand-dieu-nous-te-benissons-jem-60",
+	"title": "Grand Dieu, nous te bénissons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "60"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Grand Dieu nous te bénissons,",
+				"Nous célébrons tes louanges !",
+				"Éternel nous t'exaltons,",
+				"De concert avec les anges,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et prosternés devant Toi,",
+				"nous t'adorons ô grand Roi !",
+				"Et prosternés devant Toi,",
+				"nous t'adorons ô grand Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les saints et les bienheureux,",
+				"Les trônes et les puissances,",
+				"Toutes les vertus des cieux,",
+				"Disent tes magnificences,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Proclamant dans leurs concerts,",
+				"Le grand Dieu de l'univers.",
+				"Proclamant dans leurs concerts,",
+				"Le grand Dieu de l'univers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Saint, saint, saint est l'Éternel,",
+				"Le Seigneur, Dieu des armées ;",
+				"Son pouvoir est immortel ;",
+				"Ses œuvres partout semées"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Font éclater sa grandeur,",
+				"sa majesté, sa splendeur.",
+				"Font éclater sa grandeur,",
+				"sa majesté, sa splendeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sauve ton peuple, Seigneur,",
+				"Et bénis ton héritage ;",
+				"Que ta gloire et ta splendeur,",
+				"Soient à jamais son partage,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Conduis-le par ton amour",
+				"Jusqu'au céleste séjour !",
+				"Conduis-le par ton amour",
+				"Jusqu'au céleste séjour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Gloire soit au Saint-Esprit !",
+				"Gloire soit à Dieu le Père !",
+				"Gloire soit à Jésus-Christ,",
+				"Notre Sauveur, notre Frère !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son immense charité",
+				"Dure à perpétuité.",
+				"Son immense charité",
+				"Dure à perpétuité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Peter Ritter",
+			"role": "music"
+		},
+		{
+			"name": "Henri-Louis Empeytaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem060",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

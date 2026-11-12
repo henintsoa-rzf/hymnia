@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Conducteur de louange</title>
+    <meta name="viewport" content="width&#x3D;device-width,&#x20;initial-scale&#x3D;1,&#x20;shrink-to-fit&#x3D;no">
+<meta http-equiv="X-UA-Compatible" content="IE&#x3D;edge">
+<meta name="copyright" content="www.conducteurdelouange.com">
+<meta name="robots" content="index,follow">
+        <link href="&#x2F;css&#x2F;bootstrap.min.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;style.css&#x3F;11" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;messages.css&#x3F;11" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;print.css&#x3F;11" media="print" rel="stylesheet" type="text&#x2F;css">
+    <!--[if lt IE 9]><script  src="&#x2F;js&#x2F;html5shiv.min.js"></script><![endif]-->
+<!--[if lt IE 9]><script  src="&#x2F;js&#x2F;respond.min.js"></script><![endif]-->
+<script  src="&#x2F;js&#x2F;jquery-3.0.0.min.js"></script>
+<script  src="&#x2F;js&#x2F;bootstrap.min.js"></script>
+<script  src="&#x2F;js&#x2F;newsletter.js&#x3F;11"></script>
+<script  src="&#x2F;js&#x2F;cart.js&#x3F;11"></script>
+<script  src="&#x2F;js&#x2F;search.js&#x3F;11"></script>
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9110793-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-9110793-1');
+    </script>
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png?v=6948y6OMkA">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png?v=6948y6OMkA">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png?v=6948y6OMkA">
+    <link rel="manifest" href="/favicon/manifest.json?v=6948y6OMkA">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg?v=6948y6OMkA" color="#5bbad5">
+    <link rel="shortcut icon" href="/favicon/favicon.ico?v=6948y6OMkA">
+    <meta name="apple-mobile-web-app-title" content="Conducteur de Louange">
+    <meta name="application-name" content="Conducteur de Louange">
+    <meta name="theme-color" content="#ffffff">
+
+  </head>
+  <body data-base-path="/">
+    <div class="white-background">
+      <div id="container" class="container">
+
+        <div class="row p-l-40 p-r-40">
+          <div id="logo" class="col-lg-6 p-t-20 p-b-20">
+            <a href="/"><img src="/img/logo.png" class="responsive" /></a>
+          </div>
+          <div class="col-lg-6">
+            <div>
+              <section id="session" class="no-print">
+                <span class="session-item">
+                  <span class="glyphicon glyphicon-shopping-cart"></span>
+                  <a href="/panier">Panier</a>
+                  <span class="badge item-count" style="display:none">
+                    <span class="item-count-number">0</span>
+                  </span>
+                </span>
+                                <span class="session-item">
+                  <span class="glyphicon glyphicon-log-in"></span>
+                  <a href="/compte/connexion">Connexion</a>
+                                </span>
+              </section>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="container-fluid">
+
+
+        <div class="navbar navbar-conducteur no-print not-connected" id="nav">
+          <div class="container">
+            <div id="mobile-menu" class="visible-xs-block" onclick="$('.navbar-conducteur .navbar-nav').slideToggle()">
+              <span class="mobile-menu-label">Menu</span>
+              <a href="javascript:void(0);"><span class="  glyphicon glyphicon-menu-hamburger"></span></a>
+            </div>
+            
+            <ul class="nav&#x20;navbar-nav">
+    <li>
+        <a href="&#x2F;">Accueil</a>
+    </li>
+    <li>
+        <a href="&#x2F;chants">Chants</a>
+    </li>
+    <li>
+        <a href="&#x2F;articles">Articles</a>
+    </li>
+    <li>
+        <a href="&#x2F;produits">Produits</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected&#x20;not-connected&#x20;cart" href="&#x2F;panier">Panier</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected" href="&#x2F;compte">Mon compte</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected" href="&#x2F;programme">Mon programme</a>
+    </li>
+    <li>
+        <a class="phone&#x20;not-connected" href="&#x2F;compte&#x2F;connexion">Connexion</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected" href="&#x2F;compte&#x2F;deconnexion">Déconnexion</a>
+    </li>
+</ul>    
+              <form class="navbar-form p-0 m-0" method="GET" action="/chants/rechercher">
+              <div class="form-group" style="display:inline;">
+                <div id="search" class="input-group" style="display:table;">
+                  <div id="quick-results"><div id="quick-results-content" class="search-results quick visible-lg"></div></div>
+                  <input type="text" name="parametre" class="form-control" placeholder="Recherche" autocomplete="off" />
+  <span class="input-group-addon" style="width:1%;"><span class="glyphicon glyphicon-search"></span></span>
+                </div>
+              </div>
+            </form>
+
+
+          </div>
+        </div>
+
+      </div>
+      <div class="container">
+
+        <section id="flash-messages">
+          <div class="row p-l-40 p-r-40">
+            <div class="col-xs-12">
+                                                                        </div>
+          </div>
+        </section>
+
+        <div class="row p-l-40 p-r-40 m-b-40">
+  <div class="col-xs-12">
+
+	<div id="colC">
+	<h2>TERMES ET CONDITIONS DE VENTE</h2>
+	<p><b>VEUILLEZ LIRE LE PRÉSENT DOCUMENT ATTENTIVEMENT! IL RENFERME DES RENSEIGNEMENTS TRÈS IMPORTANTS SUR VOS DROITS ET VOS OBLIGATIONS.</b></p>
+	        
+	<h2>Licence de Téléchargement de MP3 et de partitions électroniques</h2>
+
+	<h3>Droits et propriétés intellectuelles</h3>
+	<p>Tous les droits de propriété intellectuelle sur les MP3, les recueils de chant et
+	    leur adaptation électronique en format PDF appartiennent aux entreprises impliquées dans la réalisation et à leurs ayants droit. Ces éléments sont protégés par la loi sur les droits d'auteur et par les conventions internationales, ils ne peuvent être utilisés sur d'autres supports ou à des fins publiques ou commerciales sans autorisation.</p>
+	<p>En acceptant ce contrat vous vous engagez à ne pas altérer, traduire, créer des travaux dérivés, dans sa totalité ou en partie. Vous n'êtes pas autorisé à supprimer des informations relatives aux partitions et aux recueils.</p>
+	<p>L'utilisation de ces recueils doit se faire de manière conforme aux lois en vigueur. Ainsi le site www.conducteurdelouange.com et les éditeurs ne pourraientt être tenu responsable d'abus dans le cas de violations de droits d'auteurs ou de règles de morale.</p>
+	<h3>Utilisation</h3>
+	<p>En utilisant les MP3 et/ou les partitions pdf, vous acceptez les termes de ce contrat de licence. Le site www.conducteurdelouange.com vous accorde par la présente une licence d'utilisation limitée, personnelle, non commercialisable.</p> <p>Votre achat de partition vous autorise à utiliser ces textes et pdf au maximum sur trois ordinateurs d'un seul utilisateur ou sur une station de travail utilisée non simultanément par plusieurs personnes.</p> <p>Vous êtes autorisé à effectuer une copie électronique de ces MP3 ou partitions à des fins d'archivage uniquement. Ces versions ne peuvent pas être distribuées librement à d'autres personnes.</p> <p>Chaque utilisateur a le droit de tirer en version papier les partitions pour son propre usage.</p>
+	<h3>Les droits d'auteurs</h3>
+	<p>Les droits d'auteurs sont payés pour l'utilisation individuelle de l'acheteur. Pour des utilisations publiques ou en nombre, veuillez vous référer aux droits et usages en cours et payer les droits d'auteurs consécutifs à leur utilisation. (Droits mécaniques, droits de projections, droits de publication, etc)</p>
+	<h2>Modification de ce contrat de licence</h2>
+	<p>
+	    Le site www.conducteurdelouange.com peut réviser de temps à autre le contrat de licence de l'utilisateur. Les dernières versions de ce document sont disponibles sur le site: http://www.conducteurdelouange.com/termes.aspx. Seules les modalités de la version la plus récente de ce contrat de licence est applicable.</p> <h2>Engagement</h2>
+	<p>En achetant un produit sur le site www.conducteurdelouange.com, vous acceptez d'être lié à tous les termes et conditions de ce contrat. Si vous n'êtes pas en accord avec ce contrat, vous devez renoncer à l'utilisation des ces produits.</p>
+
+	<h2>Achats en ligne</h2>
+	<p>Pour faire des achats au moyen de ce site Internet, vous devez avoir l'âge de la majorité dans votre province, territoire ou pays de résidence et vous devez vous engager à payer tous les frais indiqués comme étant à votre charge sur ce site Internet. Tous les prix indiqués sur ce site sont exprimés en <b>dollars canadiens</b> et tous les frais seront traités en dollars canadiens. Outre tous droits ou recours, le site www.conducteurdelouange.com peut, à sa seule discrétion et sans limitation de responsabilité, restreindre ou bloquer votre accès à toute partie de ce site Internet à tout moment.</p>
+
+	<h2>Paiement</h2>
+	<p>Les modes de paiement offert lors d'un achat sont par carte de crédit via Paypal (incluant Visa, Master Card, Discover et American Express).</p>
+	<p>Les transactions faites par carte de crédit passent par notre partenaire Paypal. Lors du paiement d'une commande, vous serez transféré sur le serveur sécurisé de Paypal, où vous serez invité à remplir un formulaire avec les informations de votre carte de crédit. Votre achat sera alors validé en direct avec votre banque, par l'intermédiaire de Paypal et de son réseau sécurisé, ou encore, via votre compte Paypal si vous en possédez un.</p>
+	<p>Nous ne recevrons jamais les informations de votre carte de crédit, et ceux-ci ne seront jamais conservés ni sur le site www.conducteurdelouange.com</p>
+	<h12Remboursement</h2>
+	<p>Aucun remboursement ou échange ne sera accordé pour tout achat de MP3 ou Partition électronique.</p>
+
+	<h2>Utilisation du contenu</h2>
+	<p>Les droits d'auteur des textes, images, vidéos ou de tous supports multimédias sont la propriété du site www.conducteurdelouange.com.</p>
+	<p>La commercialisation ou l'utilisation publique à l'aide de quelque support que ce soit du contenu du site www.conducteurdelouange.com est interdite, à moins d'une entente écrite.</p>
+
+	<h2>Avis de non-responsabilité</h2>
+	<p>Veuillez noter que tout le contenu de ce site internet est fourni « tel quel » et « selon sa disponibilité ». Le site www.conducteurdelouange.com nie toute garantie ou responsabilité, explicite ou implicite, découlant de l'effet de la loi ou autrement, relativement à ce site ou à tout autre site internet relié à lui ainsi qu'à tout contenu de ce site internet ou d'un autre site relié à lui, y compris : toute garantie implicite de la qualité marchande ou du caractère propre à un usage particulier et toute garantie implicite d'absence de contrefaçon; et vous renoncez par les présentes à toutes ces garanties ainsi qu'à toute réclamation contre le site www.conducteurdelouange.com et ses administrateurs. À cet égard, notamment toute réclamation en responsabilité délictuelle (y compris la négligence). Sans limiter la généralité de ce qui précède, vous reconnaissez que le site www.conducteurdelouange.com ne déclare pas ni ne garantit que ce site internet sera accessible sans interruption ni que ce site internet ou le serveur qui y donne accès ne comportent pas d'erreurs, de défauts, de défauts de conception ou d'omissions, ni de virus ou d'autres éléments dommageables.</p>
+	<p>Le site www.conducteurdelouange.com ne garantie pas l'exactitude, l'intégrité ni l'intégralité du contenu fourni sur ce site internet, y compris tout conseil ou autre renseignement semblable que vous obtenez de nous ou grâce à ce site.</p>
+
+	<h2>Erreurs, inexactitudes ou omissions</h2>
+	<p>Le site www.conducteurdelouange.com fait tout en son pouvoir pour s'assurer que le contenu de ce site Internet est complet et exact. Toutefois, elle ne garantit pas que l'information qu'il renferme ne contiendra pas d'erreurs, d'inexactitudes ou d'omissions. Ces erreurs, inexactitudes ou omissions peuvent avoir trait au prix, à la description ou à la disponibilité des produits. Le site www.conducteurdelouange.com se réserve le droit de corriger toute erreur, inexactitude ou omission ou de changer le contenu ou le mettre à jour sans vous en aviser au préalable. De plus, le site www.conducteurdelouange.com se réserve le droit de refuser ou d'annuler les commandes contenant une erreur, une inexactitude ou une omission, que la commande ait été ou non transmise, confirmée et/ou portée à votre carte de crédit.</p>
+
+	<h2>Indemnisation</h2>
+	<p>Vous indemnisez et dégagez de toute responsabilité aux administrateurs du site www.conducteurdelouange.com à l'égard de toute réclamation, cause d'action ou demande, y compris, mais sans s'y limiter, les honoraires raisonnables d'avocat, de comptable ou autres découlant de votre utilisation de ce site Internet.</p>
+
+	<h2>Liens vers des sites Web externes</h2>
+	<p>Des liens sont présents sur le site www.conducteurdelouange.com, vers différents sites Web exploités par d'autres individus, organismes ou entreprises. En cliquant sur ces liens, vous quittez www.conducteurdelouange.com. Le site www.conducteurdelouange.com n'exerce aucun contrôle sur l'exploitation de ces sites et n'est responsable ni de leur contenu ni de leur mise à jour.</p>
+
+  <h2>Facebook</h2>
+  <p>Lorsque vous vous connectez à votre compte utilisateur par l'entremise de Facebook, le site www.conducteurdelouange.com enregistre les informations suivantes : le nom, le prénom, le courriel et la photo de profil de votre compte Facebook. Ces informations sont uniquement utilisées afin de créer votre compte utilisateur www.conducteurdelouange.com, ou le mettre à jour si un compte associé au courriel existe déjà dans notre base de données. Votre photo de profil est affichée sur l'application Mon Conducteur et n'est visible que par vous et les utilisateurs que vous avez autorisé au partage de vos répertoires de chants.
+
+  <p>Vous pouvez en tout temps exiger la suppression de ces informations de notre base de données en vous rendant dans la section "Applications et sites web" de vos paramêtres Facebook, cliquant "Supprimer" à droite de l'application "Conducteur de louange" et cochant "Autoriser Facebook à avertir l’application Conducteur de louange que votre connexion a été supprimée". Vous pouvez également en faire la demande en vous rendant dans la section "<a href="/compte">Mon Compte</a>" et cliquant "Supprimer mes données Facebook" dans la section "Données Facebook" au bas de la page.</p>
+	</div>
+
+	<hr/>
+
+	</div>
+</div>
+
+      </div>
+    </div>
+    <div class="container-fluid dark no-print">
+      <div class="container">
+        <section id="footer">
+          <div class="row p-l-40 p-r-40">
+            <div class="col-md-3 col-sm-4">
+              <h3>Informations</h3>
+              <p><a href="/chants">Chants</a></p>
+              <p><a href="/articles">Articles</a></p>
+              <p><a href="/bible">Bible</a></p>
+              <p><a href="/produits">Produits</a></p>
+            </div>
+            <div class="col-md-3 col-sm-4">
+              <h3>Mon compte</h3>
+              <p><a href="/compte">Mes informations</a></p>
+              <p><a href="/compte/telechargements">Téléchargements</a></p>
+              <p><a href="/panier">Mon panier</a></p>
+              <p><a href="/programme">Mon programme</a></p>
+            </div>
+            <div class="col-md-3 col-sm-4">
+              <h3>Nous joindre</h3>
+              <p class="m-b-0"><a class="social" href="/contacter"><span class="symbol">roundedemail</span> <span class="text">Courriel</span></a></p>
+              <p class="m-b-0"><a class="social" href="http://www.facebook.com/pages/Conducteur-de-louange/233059966712239" target="_blank"><span class="symbol">roundedfacebook</span> <span class="text">Facebook</span></a></p>
+              <p class="m-b-0"><a class="social" href="https://twitter.com/Conduct_Louange" target="_blank"><span class="symbol">roundedtwitter</span> <span class="text">Twitter</span></a></p>
+            </div>
+            <div class="col-md-3 m-b-20 col-sm-12">
+              <h3>Abonnez-vous à notre lettre de nouvelles</h3>
+              <form id="newsletter" method="POST" action="/lettre-de-nouvelles/abonner">
+                <input class="form-control" type="email" name="courriel" placeholder="Courriel"></input>
+              </form>
+            </div>
+          </div>
+        </section>
+
+        <section id="copyright">
+          <div class="row p-l-40 p-r-40 m-t-10 m-b-20">
+            <div class="col-xs-12">
+              <center>&copy; 2026 Conducteurdelouange.com - <a href="/termes-et-conditions">Termes et conditions</a></center>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a18540163750b0012e6b953&product=inline-share-buttons"></script>
+    <script> /* Fix for hastagh sticking after Facebook login. */  if (window.location.href.split('#')[1] == '_=_') { window.location.href = window.location.href.split('#')[0] } </script>
+  </body>
+</html>

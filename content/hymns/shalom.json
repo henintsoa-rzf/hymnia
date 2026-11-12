@@ -1,0 +1,58 @@
+{
+	"id": "shalom",
+	"title": "Shalom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "648"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Shalom, shalom,",
+				"Que la paix soit sur toi,",
+				"Shalom, shalom,",
+				"Et l'amour sous ton toit.",
+				"Que le pain quotidien,",
+				"Le travail de tes mains,",
+				"Aujourd'hui et demain",
+				"Soit béni du Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Shalom, shalom,",
+				"Que la paix soit sur toi,",
+				"Shalom, shalom,",
+				"Et l'amour sous ton toit.",
+				"Que le pain quotidien,",
+				"Le travail de tes mains,",
+				"Aujourd'hui et demain",
+				"Soit béni du Seigneur.",
+				"Soit béni du Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem648",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

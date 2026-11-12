@@ -1,0 +1,103 @@
+{
+	"id": "je-veux-proclamer",
+	"title": "Je veux proclamer",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1104"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu’importent mes peurs,",
+				"Je me confie en toi, en toi.",
+				"Divin créateur,",
+				"Rien n’est trop grand pour toi, pour toi,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car tu es puissant,",
+				"Je ne manquerai de rien.",
+				"Tu es ma force et ma vie t’appartient."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux proclamer",
+				"Que Jésus-Christ est Roi, il est Roi.",
+				"Il est vivant et son Esprit est en moi, en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mes yeux sont sur toi,",
+				"Tu garderas mes pas, mes pas.",
+				"Rien ne te surprend,",
+				"Tu veilles sur mes voies, mes voies,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car tu es puissant,",
+				"Je ne manquerai de rien.",
+				"Tu es ma force et ma vie t’appartient."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux proclamer",
+				"Que Jésus-Christ est Roi, il est Roi.",
+				"Il est vivant et son Esprit est en moi, en moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Woh ! oh ! oh ! oh ! oh !",
+				"Woh ! oh ! oh ! oh ! oh !",
+				"En moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Woh ! oh ! oh ! oh ! oh !",
+				"Woh ! oh ! oh ! oh ! oh !",
+				"En moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sébastien Corn ; Stéphane Hoareau",
+			"role": "music"
+		},
+		{
+			"name": "Sébastien Corn ; Stéphane Hoareau",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1104",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,110 @@
+{
+	"id": "peuples-venez",
+	"title": "Peuples, venez",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "14"
+		},
+		{
+			"hymnal": "adf",
+			"number": "2"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Peuples, venez, et qu'on entende",
+				"Partout votre hymne solennel !",
+				"Qu'en cris de joie on se répande,",
+				"Et que l'on dise à l'Éternel :",
+				"Combien Tu te montres terrible,",
+				"Seigneur, en tout ce que Tu fais !",
+				"L'ennemi, longtemps invincible,",
+				"S'abaisse pour avoir la paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toute la terre est prosternée",
+				"Au pied de ton trône, Seigneur,",
+				"Et de tes bienfaits couronnée",
+				"Elle célèbre ta grandeur.",
+				"Venez, rendez-lui vos hommages,",
+				"Et jugez, d'un commun accord,",
+				"Si tant de merveilleux ouvrages",
+				"Sont d'un autre que du Dieu fort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Peuples, que toujours on bénisse",
+				"Du Seigneur le nom glorieux,",
+				"Et que le monde retentisse",
+				"De Ses louanges en tous lieux.",
+				"C'est lui qui garde notre vie,",
+				"Et conduit sûrement nos pas ;",
+				"C'est lui dont la grâce infinie",
+				"Nous a garantis du trépas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur, ta justice divine",
+				"Voulut éprouver notre foi,",
+				"Comme l'argent que l'on affine",
+				"Lorsqu'il n'est pas de bon aloi.",
+				"Mais, nous délivrant par ta grâce,",
+				"Tu nous donnes des jours heureux ;",
+				"Et moi, j'irai devant ta face,",
+				"Éternel, accomplir mes vœux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Venez tous, et que je proclame,",
+				"En la présence du Seigneur,",
+				"Le bien qu'il a fait à mon âme,",
+				"Alors qu'il m'a vu droit de cœur.",
+				"Béni soit mon Dieu secourable,",
+				"Qui, jamais ne m'a rejeté,",
+				"Et de moi, pécheur misérable,",
+				"N'a point détourné sa bonté !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg014",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af002",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

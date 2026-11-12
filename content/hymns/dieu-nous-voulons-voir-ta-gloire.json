@@ -1,0 +1,121 @@
+{
+	"id": "dieu-nous-voulons-voir-ta-gloire",
+	"title": "Dieu, nous voulons voir ta gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1126"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous.",
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous.",
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, nous te donnons nos cœurs,",
+				"Nos vies, tout notre temps.",
+				"Sois le centre de nos valeurs,",
+				"Le motif de nos élans."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, nous venons en Jésus",
+				"Par le voile déchiré.",
+				"Merci pour ton salut,",
+				"Toi, l'Agneau immolé !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous.",
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous.",
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous croyons en tes promesses,",
+				"Oui et amen en Jésus.",
+				"Nous sommes conscients de nos faiblesses.",
+				"Sans ta grâce nous sommes perdus,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais nous venons en Jésus",
+				"Par le voile déchiré.",
+				"Merci pour ton salut,",
+				"Toi, l'Agneau immolé !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous.",
+				"Dieu, nous voulons voir ta gloire",
+				"Descendre en ce lieu parmi nous,",
+				"Descendre en ce lieu parmi nous,",
+				"Descendre en ce lieu parmi nous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc Gingras",
+			"role": "music"
+		},
+		{
+			"name": "Luc Gingras",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1126",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

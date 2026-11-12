@@ -1,0 +1,53 @@
+{
+	"id": "esaie-53",
+	"title": "Esaïe 53",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "506"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Certainement tu as porté nos maladies",
+				"et tu t’es chargé de nos douleurs,",
+				"alors que nous pensions que Dieu t’avait puni,",
+				"frappé, humilié, abandonné.",
+				"Mais c’est pour nos péchés que tu as été percé,",
+				"c’est pour nos fautes que tu as été brisé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le châtiment qui nous donne la paix",
+				"est retombé sur toi, Seigneur Jésus,",
+				"et c’est par tes blessures que nous sommes guéris,",
+				"Seigneur, nous voulons te dire merci,",
+				"car c’est pour nos péchés que tu as été percé,",
+				"c’est pour nos fautes que tu as été brisé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "La Bible, Esaïe 53",
+			"role": "lyrics"
+		},
+		{
+			"name": "Sylvain Jaccard",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-6",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

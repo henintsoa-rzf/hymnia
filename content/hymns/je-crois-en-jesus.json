@@ -1,0 +1,57 @@
+{
+	"id": "je-crois-en-jesus",
+	"title": "Je crois en Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "424"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je crois en Jésus,",
+				"Je crois qu'il est le Fils de Dieu.",
+				"Je crois qu'il est mort et ressuscité.",
+				"Je crois qu'il a payé pour tous,",
+				"Et je crois qu'il est ici,",
+				"Présent au milieu de nous,",
+				"Tout puissant pour nous guérir",
+				"Et par sa grâce, nous pardonner."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je crois en toi Seigneur,",
+				"Je crois que tu es le Fils de Dieu.",
+				"Après ta mort, Dieu t'a ressuscité.",
+				"Je crois que tu as payé pour tous,",
+				"Et je crois que tu es là,",
+				"Présent au milieu de nous,",
+				"Tout puissant pour nous guérir,",
+				"Et par ta grâce nous pardonner."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Nelson",
+			"role": "music"
+		},
+		{
+			"name": "Marc Nelson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem424",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

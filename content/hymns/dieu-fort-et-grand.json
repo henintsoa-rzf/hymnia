@@ -1,0 +1,99 @@
+{
+	"id": "dieu-fort-et-grand",
+	"title": "Dieu fort et grand",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "35"
+		},
+		{
+			"hymnal": "adf",
+			"number": "14"
+		},
+		{
+			"hymnal": "cd",
+			"number": "32"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu fort et grand ! tu vois toute ma vie,",
+				"Tu m'as connu, tu m'as sondé des cieux ;",
+				"Où puis-je fuir ta science infinie ?",
+				"Éternel Roi, tu me suis en tous lieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Soit que je marche ou bien que je m'arrête,",
+				"Voici, Seigneur ! tu te tiens près de moi ;",
+				"Et, pour parler quand ma langue s'apprête,",
+				"Tout mon dessein est déjà devant toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vivant ou mort, dans les cieux, sur la terre,",
+				"Ceint de lumière ou ceint d'obscurité,",
+				"Partout ta main peut me saisir, ô Père !",
+				"Partout, sur moi ton œil est arrêté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que ta pensée est donc mystérieuse !",
+				"Je ne saurais mesurer la hauteur ;",
+				"À mes regards ton œuvre est merveilleuse,",
+				"Et, confondu, j'adore ta grandeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Connaître, ô Dieu ! ton amour, ta puissance,",
+				"Sur mon sentier voir briller ta splendeur,",
+				"Fonder sur toi toute mon espérance,",
+				"Sont les seuls biens que désire mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "Mme Lemire",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg035",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af014",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/848",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "louange-a-l-agneau",
+	"title": "Louange à l'Agneau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "450"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louange à l'Agneau, Louange à l'Agneau,",
+				"Louange à l'Agneau, Louange à l'Agneau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Honneur à l'Agneau, Honneur à l'Agneau,",
+				"Honneur à l'Agneau, Honneur à l'Agneau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Puissance à l'Agneau, Puissance à l'Agneau,",
+				"Puissance à l'Agneau, Puissance à l'Agneau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Victoire à l'Agneau, Victoire à l'Agneau,",
+				"Victoire à l'Agneau, Victoire à l'Agneau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Jésus est l'Agneau, Jésus est l'Agneau,",
+				"Jésus est l'Agneau, Jésus est l'Agneau."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem450",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

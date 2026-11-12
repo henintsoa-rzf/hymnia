@@ -1,0 +1,129 @@
+{
+	"id": "le-signal-de-la-victoire",
+	"title": "Le signal de la victoire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "354"
+		},
+		{
+			"hymnal": "adf",
+			"number": "365"
+		},
+		{
+			"hymnal": "cd",
+			"number": "322"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le signal de la victoire",
+				"Déjà brille aux cieux ;",
+				"La couronne de la gloire",
+				"Paraît à nos yeux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je viens, combattez encore !",
+				"Dit Jésus à tous.",
+				"Oui, mon Sauveur, je t'implore,",
+				"Je lutte à genoux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que l'ennemi plein de rage",
+				"Redouble ses coups,",
+				"Nous ne perdons point courage :",
+				"Christ est avec nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je viens, combattez encore !",
+				"Dit Jésus à tous.",
+				"Oui, mon Sauveur, je t'implore,",
+				"Je lutte à genoux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Suivons, amis, la bannière",
+				"Du Sauveur en croix,",
+				"Et que notre armée entière",
+				"Se range à sa voix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je viens, combattez encore !",
+				"Dit Jésus à tous.",
+				"Oui, mon Sauveur, je t'implore,",
+				"Je lutte à genoux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Rude et longue est la mêlée :",
+				"Voici le secours !",
+				"Dans nos mains prenons l'épée",
+				"Qui vainquit toujours !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je viens, combattez encore !",
+				"Dit Jésus à tous.",
+				"Oui, mon Sauveur, je t'implore,",
+				"Je lutte à genoux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Barde",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg354",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af365",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1123",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

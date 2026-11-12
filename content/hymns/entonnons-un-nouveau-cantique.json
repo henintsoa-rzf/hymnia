@@ -1,0 +1,82 @@
+{
+	"id": "entonnons-un-nouveau-cantique",
+	"title": "Entonnons un nouveau cantique",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "21"
+		},
+		{
+			"hymnal": "adf",
+			"number": "522"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entonnons un nouveau cantique",
+				"À la gloire du Dieu des cieux ;",
+				"Car son pouvoir est magnifique",
+				"Et son bras est victorieux.",
+				"À son peuple il a fait connaître",
+				"Ses fidèles compassions.",
+				"Sa justice a daigné paraître",
+				"Pour nous, devant les nations."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu, de sa bonté secourable",
+				"Daigne aujourd'hui se souvenir :",
+				"Selon sa promesse immuable,",
+				"Il veut encore nous maintenir.",
+				"Le salut que Dieu nous envoie",
+				"Jusqu'aux bouts du monde s'est vu ;",
+				"Que d'une vive et sainte joie",
+				"L'univers entier soit ému !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que des mers, les flots retentissent,",
+				"Et les voix de tous les humains !",
+				"Que les montagnes applaudissent,",
+				"Que les fleuves battent des mains.",
+				"Car il vient vers sa créature,",
+				"Il vient, dans sa fidélité,",
+				"Juger le monde avec droiture,",
+				"Les peuples avec équité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg021",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af522",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,93 @@
+{
+	"id": "viens-m-apprendre-a-t-aimer",
+	"title": "Viens m'apprendre à t'aimer",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "306"
+		},
+		{
+			"hymnal": "adf",
+			"number": "611"
+		},
+		{
+			"hymnal": "cd",
+			"number": "243"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens m'apprendre à t'aimer,",
+				"c'est en toi qu'est la vie,",
+				"En toi qu'est le bonheur et la félicité.",
+				"Jésus, étends sur moi",
+				"ta main, ta main meurtrie,",
+				"Et dis-moi : j'ai souffert, j'ai porté ton péché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vois, je suis à tes pieds,",
+				"je pleure et m'humilie,",
+				"À l'ombre de ta croix je me tiens prosterné.",
+				"Que ton divin amour me retienne et me lie,",
+				"Et m'apprenne à t'aimer,",
+				"toi qui m'as tout donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ton sang répandu m'ôte toute souillure,",
+				"Viens me donner un cœur",
+				"qui ressemble à ton cœur ;",
+				"Rends-moi participant de ta sainte nature,",
+				"Je ne veux que toi seul",
+				"pour Maître et pour vainqueur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens m'apprendre à t'aimer",
+				"ainsi qu'au ciel on t'aime,",
+				"M'apprendre à t'adorer",
+				"comme on t'adore au ciel.",
+				"Au ciel je te verrai, toi, la beauté suprême :",
+				"Au ciel je t'aimerai d'un amour éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Georges Bieni",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg306",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af611",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1069",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "la-terre-au-seigneur-appartient",
+	"title": "La terre au Seigneur appartient.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "8"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La terre au Seigneur appartient,",
+				"La terre et ce qu'elle contient,",
+				"L'homme et les autres créatures ;",
+				"Sa main sur les mers la posa,",
+				"Il l'enrichit et l'arrosa",
+				"De fleuves et de sources pures."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais quel homme, dans le saint Lieu,",
+				"Et sur la montagne de Dieu,",
+				"Sera digne de trouver place ?",
+				"L'homme net de mains et de cœur,",
+				"Qui n'est parjure ni trompeur,",
+				"Qui marche, ô Dieu ! devant ta face."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Cet homme, Dieu le bénira ;",
+				"Dieu, Son Sauveur, l'enrichira",
+				"Des trésors de sa bienveillance ;",
+				"Telle est la génération",
+				"De ceux qui cherchent en Sion,",
+				"O Dieu de Jacob, ta Présence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ouvrez-vous, parvis du vrai Dieu !",
+				"Haussez-vous, portes du saint lieu :",
+				"Le Roi revient de la victoire.",
+				"Quel est-il, ce Roi glorieux ?",
+				"C'est le Seigneur, le Dieu des cieux,",
+				"C'est l'Éternel, le Roi de gloire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af008",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

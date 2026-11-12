@@ -1,0 +1,121 @@
+{
+	"id": "lorsque-devant-l-agneau",
+	"title": "Lorsque devant l'Agneau.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "208"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lorsque devant l'Agneau,",
+				"s'ouvrira le grand Livre",
+				"Où sont inscrits les noms",
+				"des coupables absous,",
+				"Dans le ciel, pour jamais",
+				"nous aurons droit de vivre ;",
+				"Sous le regard de Dieu,",
+				"le repos sera doux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Serez-vous avec nous",
+				"Au divin rendez-vous ?",
+				"Serez-vous avec nous",
+				"Au divin rendez-vous ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous serons tous assis",
+				"à la table du Maître,",
+				"Jouissant du bonheur",
+				"des amis de l'époux.",
+				"Comme Il nous a connus,",
+				"nous pourrons Le connaître ;",
+				"Sous le regard de Dieu,",
+				"l'amour sera bien doux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Serez-vous avec nous",
+				"Au divin rendez-vous ?",
+				"Serez-vous avec nous",
+				"Au divin rendez-vous ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Du revoir éternel",
+				"nous connaîtrons les charmes ;",
+				"Pour ne plus les quitter,",
+				"nous retrouverons tous",
+				"Les amis dont la mort",
+				"nous coûta tant de larmes !",
+				"Sous le regard de Dieu,",
+				"le revoir sera doux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Serez-vous avec nous",
+				"Au divin rendez-vous ?",
+				"Serez-vous avec nous",
+				"Au divin rendez-vous ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ouvrez, ouvrez vos cœurs",
+				"aux appels de la grâce ;",
+				"Aux délices du ciel,",
+				"Dieu vous invite tous.",
+				"Quel que soit le péché,",
+				"le sang de Christ l'efface.",
+				"Sous le regard de Dieu,",
+				"le pardon est bien doux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Venez tous avec nous",
+				"Au divin rendez-vous,",
+				"Venez tous avec nous",
+				"Au divin rendez-vous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rose Gaensli",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af208",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

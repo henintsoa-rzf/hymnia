@@ -1,0 +1,83 @@
+{
+	"id": "les-mouettes",
+	"title": "Les mouettes",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "103"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les mouettes légères, emportées par le vent,",
+				"Ne semblent jamais trouver d’abri permanent",
+				"Ou cherchent un appui sur l’instable océan.",
+				"Mais l’homme est comme elles, en constant mouvement,",
+				"Il cherche une issue sans pouvoir en trouver,",
+				"Perdu dans le monde et son immensité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Dieu a construit une maison de paix",
+				"Pour l’avenir et pour notre vie d’aujourd’hui.",
+				"C’est Lui la réponse aux questions qui troublaient,",
+				"La joie et la paix sont en Lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La vie est facile et l’argent coule à flots,",
+				"L’angoisse est cachée mais resurgit bientôt,",
+				"Les peurs et soucis désarçonnent l’espoir.",
+				"On cherche ardemment, à tout prix, le bonheur,",
+				"On a faim d’amour, d’amitié, de chaleur…",
+				"Souvent cette quête aboutit au désespoir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"D’où vient l’être humain, et quelle est sa fin ?",
+				"Qui m’expliquera le pourquoi de la vie ?",
+				"Et qui donnera l’espoir du lendemain ?",
+				"Demain est très sombre et s’envolent les rêves,",
+				"Et s’en va la terre dans ses luttes sans trêve …",
+				"Mais qui comblera notre attente inassouvie ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Peter Strauch",
+			"role": "lyrics"
+		},
+		{
+			"name": "Etienne Demaurex",
+			"role": "translation"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		},
+		{
+			"name": "Peter Strauch",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-3",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

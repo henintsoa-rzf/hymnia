@@ -1,0 +1,71 @@
+{
+	"id": "libere",
+	"title": "Libéré",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1048"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'importe ce qui s'offre à moi,",
+				"Je fixe mon regard sur toi.",
+				"Je n'ai qu'un seul but,",
+				"Me rapprocher de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu t'es incliné vers moi,",
+				"Tu as affermi mes pas.",
+				"Je n'suis plus le même,",
+				"Jamais plus le même,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Car là où est ton Esprit,",
+				"Je trouve la liberté,",
+				"Car là où est ton Esprit,",
+				"Je trouve la liberté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chante car Jésus m'a sauvé,",
+				"Je danse car Jésus m'a libéré,",
+				"Je saute car Jésus m'a libéré.",
+				"Je chante car Jésus m'a sauvé,",
+				"Je danse car Jésus m'a libéré,",
+				"Je saute car Jésus m'a libéré."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ugo Bertrand, Sébastien Corn, Marie-Ésther Olivier, Simon Labonté",
+			"role": "music"
+		},
+		{
+			"name": "Ugo Bertrand, Sébastien Corn, Marie-Ésther Olivier, Simon Labonté",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1048",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

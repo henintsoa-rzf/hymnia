@@ -1,0 +1,136 @@
+{
+	"id": "a-moi-les-coeurs-braves",
+	"title": "« À moi les cœurs braves ! »",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "369"
+		},
+		{
+			"hymnal": "cd",
+			"number": "338"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"« À moi, les cœurs braves ! »",
+				"A dit le Vainqueur",
+				"Qui rompt les entraves",
+				"Du pauvre pécheur.",
+				"« Noble est la carrière :",
+				"Qui veut y courir ?",
+				"Et, sous ma bannière,",
+				"Combattre et mourir ? »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi, divin Maître,",
+				"Mon cœur et mon bras :",
+				"Jésus, je veux être",
+				"Un de tes soldats !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'ennemi fait rage :",
+				"Je sens ses fureurs ;",
+				"Comme un bruit d'orage,",
+				"J'entends ses clameurs,",
+				"Quand Satan déchaîne",
+				"Tous ses alliés :",
+				"Mais ce flot de haine",
+				"Expire à tes pieds."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi, divin Maître,",
+				"Mon cœur et mon bras :",
+				"Jésus, je veux être",
+				"Un de tes soldats !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ma couronne est prête :",
+				"Tu m'as racheté !",
+				"Ma justice est faite",
+				"De ta sainteté.",
+				"Ta grâce infinie",
+				"Couvre mes péchés",
+				"À ta croix bénie",
+				"Ils sont attachés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi, divin Maître,",
+				"Mon cœur et mon bras :",
+				"Jésus, je veux être",
+				"Un de tes soldats !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Après tant de luttes,",
+				"Lassés mais vainqueurs,",
+				"Relevés des chutes,",
+				"Guéris des douleurs,",
+				"Gardés sous ton aile,",
+				"Nous irons goûter",
+				"La paix éternelle,",
+				"Et pourrons chanter :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« À toi les couronnes",
+				"De tous les élus !",
+				"C'est toi qui leur donnes",
+				"Ton ciel, ô Jésus ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J. Mercer",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af369",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1137",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

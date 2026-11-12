@@ -1,0 +1,36 @@
+{
+	"id": "beni-soit-le-nom-cd-305",
+	"title": "Béni soit le nom",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "305"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit le nom !",
+				"Béni soit le nom !",
+				"Béni soit le nom du Seigneur !",
+				"Jésus est le même, oui toujours le même,",
+				"Béni soit le nom du Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William James Kirkpatrick",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1107",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

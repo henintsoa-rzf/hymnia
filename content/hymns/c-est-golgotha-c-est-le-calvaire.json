@@ -1,0 +1,56 @@
+{
+	"id": "c-est-golgotha-c-est-le-calvaire",
+	"title": "C'est Golgotha, c'est le calvaire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "517"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est Golgotha, c'est le Calvaire,",
+				"C'est le jardin des Oliviers,",
+				"Qui sont mes maisons de prière",
+				"Et mes rendez-vous journaliers.",
+				"Dans ce jardin, que vois-je en terre ?",
+				"Le Fils du grand Dieu prosterné,",
+				"Abattu, triste, consterné,",
+				"Abattu, triste, consterné !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est pour moi qu'il est en prière.",
+				"Grand Sacrificateur,",
+				"Priant pour le pécheur,",
+				"Jésus ! Jésus ! ah ! souviens-toi",
+				"D'intercéder pour moi.",
+				"Jésus ! Jésus ! ah ! souviens-toi",
+				"D'intercéder pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mlle Zollikofer",
+			"role": "music"
+		},
+		{
+			"name": "Félix Neff",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af517",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,76 @@
+{
+	"id": "ensemble-nous-pouvons-chanter",
+	"title": "Ensemble nous pouvons chanter",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "188"
+		},
+		{
+			"hymnal": "jem",
+			"number": "363",
+			"title": "Ensemble"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ensemble nous pouvons chanter,",
+				"Ensemble nous pouvons prier,",
+				"Élever nos voix",
+				"Et adorer celui",
+				"Qui nous a réunis.",
+				"Ensemble nous pouvons donner,",
+				"Ensemble nous pouvons porter",
+				"Nos fardeaux, nos joies",
+				"Et proclamer l'amour",
+				"Que Dieu met dans nos vies."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tous ensemble, tous ensemble,",
+				"Nous pouvons montrer son amour",
+				"au monde entier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ensemble nous pouvons chanter,",
+				"Ensemble nous pouvons prier,",
+				"Élever nos voix",
+				"Et adorer celui qui nous a réunis !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Abraham Edewards",
+			"role": "music"
+		},
+		{
+			"name": "Ruth Muller",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg188",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem363",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

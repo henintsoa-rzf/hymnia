@@ -1,0 +1,41 @@
+{
+	"id": "ton-bien-etre-serait-comme-un-fleuve",
+	"title": "Ton bien-être serait comme un fleuve",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "405"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh, si tu étais attentif à mes commandements !",
+				"Oui, si tu étais attentif à mes commandements !",
+				"Ton bien-être serait comme un fleuve,",
+				"Ton bien-être serait comme un fleuve,",
+				"Et ton bonheur comme les flots de la mer,",
+				"Et ton bonheur comme les flots de la mer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Esaïe 48:18",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-moments-deternite/#chant-5",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

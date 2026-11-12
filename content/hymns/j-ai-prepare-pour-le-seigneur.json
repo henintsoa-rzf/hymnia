@@ -1,0 +1,101 @@
+{
+	"id": "j-ai-prepare-pour-le-seigneur",
+	"title": "J'ai préparé pour le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1137"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J’ai préparé pour le Seigneur",
+				"Tout ce qu’il y a de meilleur.",
+				"Je viens offrir pour sa demeure",
+				"La reconnaissance de mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis venu pour t’apporter",
+				"Tout ce que je t’ai consacré.",
+				"Je suis si petit devant toi,",
+				"Tout ce que j’ai me vient de toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi l’honneur et la grandeur,",
+				"La majesté, l’autorité."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Avec ton peuple rassemblé,",
+				"Nous rendons grâces pour ta bonté.",
+				"Nous célébrons ta bienveillance",
+				"Et proclamons ta grâce immense."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À toi la puissance et le règne,",
+				"Tu es le souverain suprême.",
+				"Toutes nos offrandes et tous nos dons",
+				"Sont pour la gloire de ton saint nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car sur la terre et dans le ciel",
+				"Tout t’appartient, tout te revient."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Siméon et Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond et Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1137",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

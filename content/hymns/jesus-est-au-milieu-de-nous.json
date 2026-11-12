@@ -1,0 +1,88 @@
+{
+	"id": "jesus-est-au-milieu-de-nous",
+	"title": "Jésus est au milieu de nous",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "157"
+		},
+		{
+			"hymnal": "adf",
+			"number": "77"
+		},
+		{
+			"hymnal": "cd",
+			"number": "205"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus est au milieu de nous,",
+				"Son regard s'abaisse sur nous,",
+				"Sa douce voix, l'entendez-vous ?",
+				"Je veux vous bénir tous !",
+				"Je veux vous bénir tous !",
+				"Sa douce voix, l'entendez-vous ?",
+				"Je veux vous bénir tous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus est au milieu de nous,",
+				"Son regard s'abaisse sur nous,",
+				"Sa douce voix, l'entendez-vous ?",
+				"Je veux vous sauver tous !",
+				"Je veux vous sauver tous !",
+				"Sa douce voix, l'entendez-vous ?",
+				"Je veux vous sauver tous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus est au milieu de nous,",
+				"Son regard s'abaisse sur nous,",
+				"Sa douce voix, l'entendez-vous ?",
+				"Oh ! Je vous aime tous !",
+				"Oh ! Je vous aime tous !",
+				"Sa douce voix, l'entendez-vous ?",
+				"Oh ! Je vous aime tous !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg157",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af077",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1040",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

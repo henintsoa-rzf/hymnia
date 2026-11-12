@@ -1,0 +1,60 @@
+{
+	"id": "toi-seul-o-jesus",
+	"title": "Toi seul, ô Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1103"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L’Éternel est ma force et ma joie,",
+				"Il est le sujet de toutes mes louanges, eh ! eh !",
+				"Il est mon berger, je ne manque de rien.",
+				"Il est mon rocher, mon abri, mon seul bien.",
+				"Je veux chanter, je veux chanter."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Toi seul, ô Jésus,",
+				"Toi seul, ô Jésus,",
+				"Es digne de recevoir",
+				"La puissance, la louange et la gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi seul, ô Jésus,",
+				"Toi seul, ô Jésus,",
+				"Es digne de recevoir",
+				"La puissance, la louange et la gloire. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "music"
+		},
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1103",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

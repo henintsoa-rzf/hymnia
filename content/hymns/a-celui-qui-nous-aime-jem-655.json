@@ -1,0 +1,75 @@
+{
+	"id": "a-celui-qui-nous-aime-jem-655",
+	"title": "À celui qui nous aime",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "655"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À celui qui nous aime,",
+				"Qui nous a délivrés",
+				"De tous nos péchés par son sang,",
+				"Et qui a fait de nous",
+				"Un royaume de prêtres,",
+				"Des sacrificateurs pour Dieu son Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À lui la gloire et le pouvoir,",
+				"Aux siècles des siècles, amen !",
+				"À lui la gloire et le pouvoir,",
+				"Aux siècle des siècle, amen !",
+				"Aux siècles des siècles, amen !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il vient sur les nuées,",
+				"Et tout œil le verra,",
+				"Le Seigneur Dieu, le Tout-puissant.",
+				"Il dit: « je suis l'alpha",
+				"Et je suis l'oméga,",
+				"Celui qui est, qui était et qui vient. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À lui la gloire et le pouvoir,",
+				"Aux siècles des siècles, amen !",
+				"À lui la gloire et le pouvoir,",
+				"Aux siècle des siècle, amen !",
+				"Aux siècles des siècles, amen !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem655",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

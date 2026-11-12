@@ -1,0 +1,52 @@
+{
+	"id": "tu-es-l-auteur-de-mon-bonheur",
+	"title": "Tu es l'auteur de mon bonheur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "347"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es l'auteur de mon bonheur,",
+				"Tu es le chant de mon cœur,",
+				"Tu es la mélodie,",
+				"Tu en es l'harmonie,",
+				"Je te célèbre, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es le Dieu puissant,",
+				"La source de ma joie,",
+				"Tu me remplis de ta vie,",
+				"Et, Seigneur en retour,",
+				"Je t'offre ce chant d'amour,",
+				"Tu es le chant de mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem347",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,119 @@
+{
+	"id": "devant-toi",
+	"title": "Devant toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1039"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous venons devant toi",
+				"pour sanctifier ton nom.",
+				"Nous venons devant toi implorer ton pardon.",
+				"Le cœur reconnaissant,",
+				"nous proclamons ta gloire,",
+				"Le cœur reconnaissant,",
+				"nous chantons ta victoire."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Lève ta lumière et brille sur la terre,",
+				"Donne-nous de voir que tout est accompli.",
+				"Et tu nous appelles à briller dans le ciel",
+				"Comme des étoiles que toi-même tu fais luire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voici devant toi",
+				"Ici et maintenant",
+				"Embrasés, tu es le Dieu vivant.",
+				"Nous étions prisonniers,",
+				"Nous voici libérés, relevés.",
+				"Tu es le Dieu présent."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Wow ! oh ! oh ! oh ! oh !",
+				"Wow ! oh ! oh ! oh ! oh !",
+				"Wow ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous venons devant toi",
+				"pour vivre en ta présence.",
+				"Nous venons devant toi goûter ta bienveillance.",
+				"Le cœur reconnaissant,",
+				"nous accueillons ta grâce,",
+				"Le cœur reconnaissant,",
+				"nous contemplons ta face."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Lève ta lumière et brille sur la terre,",
+				"Donne-nous de voir que tout est accompli.",
+				"Et tu nous appelles à briller dans le ciel",
+				"Comme des étoiles que toi-même tu fais luire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voici devant toi",
+				"Ici et maintenant",
+				"Embrasés, tu es le Dieu vivant.",
+				"Nous étions prisonniers,",
+				"Nous voici libérés, relevés.",
+				"Tu es le Dieu présent."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Wow ! oh ! oh ! oh ! oh !",
+				"Wow ! oh ! oh ! oh ! oh !",
+				"Wow ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Benjamin et Thomas Pouzin",
+			"role": "music"
+		},
+		{
+			"name": "Benjamin et Thomas Pouzin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1039",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

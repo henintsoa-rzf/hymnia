@@ -1,0 +1,43 @@
+{
+	"id": "chaque-instant-de-chaque-jour",
+	"title": "Chaque instant de chaque jour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "145"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chaque instant de chaque jour,",
+				"Jésus prend soin de moi,",
+				"Chaque instant de chaque jour,",
+				"Mon cœur est dans la joie,",
+				"Depuis que Christ m'a sauvé;",
+				"C'est le bonheur:",
+				"Libéré de mon péché",
+				"J'ai la paix dans mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Harry Dixon Loes",
+			"role": "music"
+		},
+		{
+			"name": "Harry Dixon Loes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem145",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

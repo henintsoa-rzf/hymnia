@@ -1,0 +1,67 @@
+{
+	"id": "voici-l-agneau",
+	"title": "Voici l'Agneau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "838"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici l'Agneau,",
+				"voici l'Agneau,",
+				"Voici l'Agneau de Dieu",
+				"est sur le trône.",
+				"Voici l'Agneau,",
+				"voici l'Agneau,",
+				"Voici l'Agneau de Dieu",
+				"est sur le trône."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chérubins et séraphins",
+				"S'écrient: « Gloire à l'Agneau »,",
+				"À genou pour l'adorer",
+				"Au siècle des siècles."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici l'Agneau,",
+				"voici l'Agneau,",
+				"Voici l'Agneau de Dieu",
+				"est sur le trône.",
+				"Voici l'Agneau,",
+				"voici l'Agneau,",
+				"Voici l'Agneau de Dieu",
+				"est sur le trône."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cathy Perrin",
+			"role": "music"
+		},
+		{
+			"name": "Cathy Perrin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem838",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

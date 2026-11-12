@@ -1,0 +1,112 @@
+{
+	"id": "roc-seculaire",
+	"title": "Roc séculaire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "331"
+		},
+		{
+			"hymnal": "cd",
+			"number": "167"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Roc séculaire,",
+				"Frappé pour moi",
+				"Sur le Calvaire,",
+				"Je viens à Toi.",
+				"Tu sais mes chutes,",
+				"O mon Sauveur !",
+				"Tu vois mes luttes",
+				"Et ma douleur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Roc séculaire,",
+				"Frappé pour moi",
+				"Sur le Calvaire,",
+				"Je viens à Toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! purifie,",
+				"Lave, Seigneur,",
+				"Et sanctifie",
+				"Mon pauvre cœur.",
+				"Ma main tremblante",
+				"Ne t'offre rien ;",
+				"Ta croix sanglante",
+				"Est mon seul bien."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Roc séculaire,",
+				"Frappé pour moi",
+				"Sur le Calvaire,",
+				"Je viens à Toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans la détresse",
+				"Sois mon Berger,",
+				"Ma forteresse",
+				"Dans le danger.",
+				"Et qu'à toute heure,",
+				"Que chaque jour",
+				"Mon cœur demeure",
+				"En ton amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Roc séculaire,",
+				"Frappé pour moi",
+				"Sur le Calvaire,",
+				"Je viens à Toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Gay",
+			"role": "music"
+		},
+		{
+			"name": "Augustus Montague Toplady",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af331",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1000",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

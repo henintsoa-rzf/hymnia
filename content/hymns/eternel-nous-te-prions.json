@@ -1,0 +1,79 @@
+{
+	"id": "eternel-nous-te-prions",
+	"title": "Éternel, nous te prions",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "685"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous nous tenons devant ta face",
+				"Pour implorer ta grâce.",
+				"Nous sommes rebelles à ton amour.",
+				"Souvent, nous t'avons rejeté.",
+				"Nous te prions:",
+				"« Pardonne-nous, reviens régner en nous. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Éternel, nous te prions pour la nation.",
+				"Tous ensemble nous supplions:",
+				"« Touche la nation ! »",
+				"Fais-nous grâce tout à nouveau",
+				"Par ta miséricorde !",
+				"Nous élevons ton drapeau ;",
+				"Sois le Roi de ce pays !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Reviens chez nous avec puissance",
+				"Pour nous montrer ta force,",
+				"Afin que les dirigeants,",
+				"De ta présence, soient conscients.",
+				"Oui, la nation a tant besoin de toi,",
+				"Jésus-Christ !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Éternel, nous te prions pour la nation.",
+				"Tous ensemble nous supplions:",
+				"« Touche la nation ! »",
+				"Fais-nous grâce tout à nouveau",
+				"Par ta miséricorde !",
+				"Nous élevons ton drapeau ;",
+				"Sois le Roi de ce pays !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem685",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

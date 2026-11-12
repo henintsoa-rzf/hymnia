@@ -1,0 +1,106 @@
+{
+	"id": "a-dieu-soit-la-gloire",
+	"title": "À Dieu soit la gloire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "64"
+		},
+		{
+			"hymnal": "jem",
+			"number": "70"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À Dieu soit la gloire ! Pour son grand amour,",
+				"En lui je veux croire Jusqu'au dernier jour.",
+				"Jésus, à ma place, Mourut sur la croix,",
+				"Il m'offre sa grâce Et je la reçois !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu ! Gloire à Dieu !",
+				"Terre, écoute sa voix !",
+				"Gloire à Dieu ! Gloire à Dieu !",
+				"Monde, réjouis-toi !",
+				"Oh ! Venez au Père : Jésus est vainqueur ;",
+				"que toute la terre chante en son honneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De Jésus, la joie, Inonde mon cœur ;",
+				"Je suis sur la voie Du parfait bonheur.",
+				"Selon sa promesse, Jésus me fera",
+				"Chanter d'allégresse Quand il reviendra."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu ! Gloire à Dieu !",
+				"Terre, écoute sa voix !",
+				"Gloire à Dieu ! Gloire à Dieu !",
+				"Monde, réjouis-toi !",
+				"Oh ! Venez au Père : Jésus est vainqueur ;",
+				"que toute la terre chante en son honneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Céleste patrie, Mon cœur pense à toi ;",
+				"Là, mon âme unie À Jésus, son Roi,",
+				"Bénira sans cesse Le grand Dieu Sauveur,",
+				"Qui, dans sa tendresse, Sauve le pécheur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu ! Gloire à Dieu !",
+				"Terre, écoute sa voix !",
+				"Gloire à Dieu ! Gloire à Dieu !",
+				"Monde, réjouis-toi !",
+				"Oh ! Venez au Père : Jésus est vainqueur ;",
+				"que toute la terre chante en son honneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Howard Doane",
+			"role": "music"
+		},
+		{
+			"name": "Mlle E. Schürer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg064",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem070",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

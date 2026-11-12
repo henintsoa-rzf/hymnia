@@ -1,0 +1,109 @@
+{
+	"id": "entendez-vous-l-appel-du-maitre",
+	"title": "Entendez-vous l'appel du Maître.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "462"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entendez-vous l'appel du Maître ?",
+				"Il dit : Jeune homme, lève-toi !",
+				"Nous voici tous : nous voulons être",
+				"Dociles à ta sainte loi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À Toi, Jésus, notre jeunesse,",
+				"À Toi l'ardeur de notre amour,",
+				"À Toi, malgré notre faiblesse,",
+				"À Toi jusques au dernier jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous avons soif de ta lumière,",
+				"Soif d'amour et de sainteté,",
+				"Et nous voulons, sous ta bannière,",
+				"Combattre sans timidité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À Toi, Jésus, notre jeunesse,",
+				"À Toi l'ardeur de notre amour,",
+				"À Toi, malgré notre faiblesse,",
+				"À Toi jusques au dernier jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! tends-nous donc ta main puissante",
+				"Pour nous conduire pas à pas,",
+				"Et quand soufflera la tourmente,",
+				"Protège-nous entre tes bras !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À Toi, Jésus, notre jeunesse,",
+				"À Toi l'ardeur de notre amour,",
+				"À Toi, malgré notre faiblesse,",
+				"À Toi jusques au dernier jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Rends-nous vaillants comme nos pères,",
+				"Animés de la même foi,",
+				"Vivant comme eux, chrétiens austères,",
+				"Et, s'il le faut, mourant pour toi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À Toi, Jésus, notre jeunesse,",
+				"À Toi l'ardeur de notre amour,",
+				"À Toi, malgré notre faiblesse,",
+				"À Toi jusques au dernier jour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Guillaume Granier",
+			"role": "music"
+		},
+		{
+			"name": "Guillaume Granier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af462",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

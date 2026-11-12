@@ -1,0 +1,51 @@
+{
+	"id": "assis-avec-christ",
+	"title": "Assis avec Christ",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "283"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Assis avec Christ dans les lieux célestes,",
+				"Regardons en bas l'ennemi vaincu.",
+				"Assis avec Christ dans les lieux célestes,",
+				"Nous ne craignons rien de l'ange déchu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car c'est en Jésus-Christ",
+				"Que nous sommes vainqueurs,",
+				"Il nous a délivrés de l'oppresseur !",
+				"Car c'est en Jésus-Christ",
+				"Que nous sommes vainqueurs,",
+				"Il nous a rachetés, il est Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem283",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

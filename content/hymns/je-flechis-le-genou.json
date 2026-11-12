@@ -1,0 +1,73 @@
+{
+	"id": "je-flechis-le-genou",
+	"title": "Je fléchis le genou",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "766"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je fléchis le genou devant toi",
+				"Et je veux que tu règnes sur moi.",
+				"Je te donne ma vie et mes droits.",
+				"Viens, Jésus, sois mon maître et mon Roi.",
+				"Je ne veux pas cacher mon péché,",
+				"Je ne veux pas tromper ta bonté.",
+				"Je n'ai qu'un seul désir, qu'un seul souhait,",
+				"Celui de te servir, de t'adorer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et j'abandonne entre tes mains",
+				"Ma personne. Je ne suis rien",
+				"Et je soumets ma volonté",
+				"À ta divine royauté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je fléchis le genou,",
+				"Je fléchis le genou devant toi,",
+				"Je fléchis le genou.",
+				"Je fléchis le genou,",
+				"Je fléchis le genou devant toi,",
+				"Je fléchis le genou."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je m'humilie devant ta face,",
+				"Je fléchis le genou."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nicolas Ternisien",
+			"role": "music"
+		},
+		{
+			"name": "Nicolas Ternisien",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem766",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

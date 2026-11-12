@@ -1,0 +1,79 @@
+{
+	"id": "golgotha-mont-de-la-victoire",
+	"title": "Golgotha, mont de la victoire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "107"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Golgotha, Mont de la Victoire,",
+				"Plus rayonnant que le Thabor !",
+				"À travers les âges, ta gloire",
+				"Jusqu'à nous resplendit encor."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est ici la lutte suprême !",
+				"Là, pour une âme à conquérir,",
+				"Le Fils de Dieu s'offre Lui-même",
+				"Et ne peut vaincre sans mourir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est ici que Dieu se révèle,",
+				"Et qu'Il fait naître, ô charité !",
+				"Pour peupler la terre nouvelle",
+				"Une nouvelle humanité !…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je veux ici dresser ma tente :",
+				"Près de la croix je veux m'asseoir ;",
+				"Je veux y vivre dans l'attente,",
+				"Je veux y prier jusqu'au soir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Oui, jusqu'à ce moment suprême",
+				"Où le Martyr de Golgotha",
+				"Viendra chercher l'âme qu'Il aime,",
+				"Et qu'en mourant Il racheta !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edward Miller",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af107",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

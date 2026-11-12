@@ -1,0 +1,51 @@
+{
+	"id": "ton-grand-amour",
+	"title": "Ton grand amour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "266"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton grand amour s'élève jusqu'aux cieux,",
+				"Et ta bonté atteint les nuées.",
+				"Ta justice est comme les montagnes,",
+				"Ta sagesse est plus vaste que la mer,",
+				"Et tu viens à moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu m'envahis d'amour et de grâce.",
+				"Je vis en paix à l'ombre de tes ailes.",
+				"Tu me combles des biens de ta table,",
+				"Et je viens boire au fleuve de ta joie ;",
+				"Tu es mon Roi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ted Sandquist",
+			"role": "music"
+		},
+		{
+			"name": "Ted Sandquist",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem266",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

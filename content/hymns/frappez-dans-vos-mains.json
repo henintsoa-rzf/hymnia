@@ -1,0 +1,77 @@
+{
+	"id": "frappez-dans-vos-mains",
+	"title": "Frappez dans vos mains",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1056"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frappez dans vos mains,",
+				"Vous, tous les humains !",
+				"Venez applaudir,",
+				"Faite retentir le nom solennel de Dieu, l'Éternel !",
+				"Tremblez à la fois de crainte et de joie,",
+				"Car Dieu, le grand Roi,",
+				"Fait sentir sa force à travers l'immense univers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantez-moi, chantez toutes ses bontés,",
+				"Chantez, chantez-moi notre puissant Roi,",
+				"Car il est le Dieu qui règne en tout lieu.",
+				"Chantez, vrais savants, ses merveilleux plans,",
+				"Car chaque pays est soumis à lui.",
+				"Sur son trône saint, il règne sans fin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frappez dans vos mains,",
+				"Vous, tous les humains !",
+				"Venez applaudir,",
+				"Faite retentir le nom solennel de Dieu, l'Éternel !",
+				"Tremblez à la fois de crainte et de joie,",
+				"Car Dieu, le grand Roi,",
+				"Fait sentir sa force à travers l'immense univers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Car Dieu dans sa main, comme souverain,",
+				"Tient le bouclier de ce monde entier",
+				"Bien plus haut que tout,",
+				"Toujours et partout !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Théodore de Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1056",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

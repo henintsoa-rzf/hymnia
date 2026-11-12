@@ -1,0 +1,79 @@
+{
+	"id": "un-seul-dieu",
+	"title": "Un seul Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1044"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il y a un seul Corps, un seul Esprit,",
+				"Une espérance, un seul Seigneur, Jésus !",
+				"Une seule foi, un seul baptême,",
+				"Un seul Dieu et Père de tous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Unis à toi, notre Roi,",
+				"Nous recevons ta joie",
+				"Et nos cœurs débordants",
+				"Redisent en chantant :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il y a un seul Corps, un seul Esprit,",
+				"Une espérance, un seul Seigneur, Jésus !",
+				"Une seule foi, un seul baptême,",
+				"Un seul Dieu et Père de tous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des cieux ouverts maintenant",
+				"Coule ta bénédiction",
+				"Et nos cœurs débordants",
+				"Redisent en chantant :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il y a un seul Corps, un seul Esprit,",
+				"Une espérance, un seul Seigneur, Jésus !",
+				"Une seule foi, un seul baptême,",
+				"Un seul Dieu et Père de tous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Benoît Dubray",
+			"role": "music"
+		},
+		{
+			"name": "Benoît Dubray",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1044",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

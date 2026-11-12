@@ -1,0 +1,79 @@
+{
+	"id": "debout-soldats-du-christ",
+	"title": "Debout, soldats du Christ.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "358"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Debout, soldats du Christ,",
+				"le Maître nous appelle !",
+				"Marchons, marchons au glorieux combat !",
+				"Que dans nos rangs l'Esprit Saint renouvelle",
+				"Le feu sacré d'un cœur, le feu sacré d'un cœur,",
+				"Le feu sacré d'un cœur qui pour sa cause bat !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Trop longtemps désunis,",
+				"affaiblis par le doute,",
+				"Du ciel au monde entraînés tous les jours,",
+				"Enfin, Jésus, tu nous mets sur la route",
+				"Où nous attend de Dieu,",
+				"où nous attend de Dieu",
+				"Où nous attend de Dieu l'invincible secours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Au plus fort du danger",
+				"nous aurons la victoire,",
+				"Si nous luttons en regardant à toi ;",
+				"Tu l'as promis, il y va de ta gloire !",
+				"En ton fidèle amour, en ton fidèle amour,",
+				"En ton fidèle amour, augmente-nous la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Repos, temps et talent,",
+				"santé, fortune et vie,",
+				"Nous donnons tout : en priant on le peut !",
+				"Ici la croix : demain, gloire infinie !…",
+				"Nous partons, ô Jésus, nous partons, ô Jésus",
+				"Nous partons, ô Jésus,",
+				"Dieu le veut ! Dieu le veut !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Reading",
+			"role": "music"
+		},
+		{
+			"name": "Gustave Tophel",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af358",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

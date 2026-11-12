@@ -1,0 +1,122 @@
+{
+	"id": "avec-patience",
+	"title": "Avec patience",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "845"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Avec patience tu nous as nourris,",
+				"Tu as rassasié nos âmes.",
+				"Avec patience tu nous as conduits",
+				"Sous ta nuée, sous ta flamme."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es le rocher qui nous a suivis",
+				"Au travers du désert.",
+				"Tu es la source d'eau qui jamais ne tarit,",
+				"L'eau pure qui désaltère."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous reconnaissons que tu es fidélité.",
+				"D'âge en âge tu es le même,",
+				"Tu conduis ton peuple sur la terre.",
+				"Nous reconnaissons que tu es fidélité.",
+				"Tu as toujours marché au milieu de nous."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Avec patience tu nous as nourris,",
+				"Tu as rassasié nos âmes.",
+				"Avec patience tu nous as conduits",
+				"Sous ta nuée, sous ta flamme."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es la parole qui nous a gardés",
+				"Tout au long des années.",
+				"Messager de l'alliance, tu nous as pardonné",
+				"Malgré nos défaillances."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous reconnaissons que tu es fidélité.",
+				"D'âge en âge tu es le même,",
+				"Tu conduis ton peuple sur la terre.",
+				"Nous reconnaissons que tu es fidélité.",
+				"Tu as toujours marché au milieu de nous."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Avec patience tu nous as nourris,",
+				"Tu as rassasié nos âmes.",
+				"Avec patience tu nous as conduits",
+				"Sous ta nuée, sous ta flamme."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu es le chemin étroit, resserré",
+				"Qui nous conduit au Père.",
+				"Véritable lumière, engendrée pour briller",
+				"Et chasser les ténèbres."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous reconnaissons que tu es fidélité.",
+				"D'âge en âge tu es le même,",
+				"Tu conduis ton peuple sur la terre.",
+				"Nous reconnaissons que tu es fidélité.",
+				"Tu as toujours marché au milieu de nous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem845",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,80 @@
+{
+	"id": "tu-es-un-dieu-de-joie",
+	"title": "Tu es un Dieu de joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1091"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es un Dieu de joie",
+				"Qui sauves encore aujourd'hui.",
+				"Tu es un Dieu de joie qui nous redonnes la vie.",
+				"Tu es un Dieu de joie qui nous sors de la nuit.",
+				"Tu es un Dieu de joie, tu chantes sur nos vies,",
+				"Tu chantes sur nos vies, tu chantes sur nos vies."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Laï, laï, laï, laï, laï, laï, laï, laï, laï, laï,",
+				"laï, laï, laï, laï, laï, laï, laï",
+				"Laï, laï, laï, laï, laï, laï, laï, laï, laï, laï,",
+				"laï, laï, laï, laï, laï, laï, laï",
+				"Laï, laï, laï, laï, laï, laï, laï, laï, laï, laï,",
+				"laï, laï, laï, laï, laï, laï, laï",
+				"Laï, laï, laï, laï, laï, laï, laï, laï, laï, laï,",
+				"laï, laï, laï, laï, laï, laï, laï"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es un Dieu de joie qui restaures nos vies.",
+				"Tu es un Dieu de joie qui nous embellis.",
+				"Tu es un Dieu de joie qui brilles sur nos vies.",
+				"Tu es un Dieu de joie, tu danses sur nos vies,",
+				"Tu danses sur nos vies, tu danses sur nos vies."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Laï, laï, laï, laï, laï, laï, laï, laï, laï, laï,",
+				"laï, laï, laï, laï, laï, laï, laï",
+				"Laï, laï, laï, laï, laï, laï, laï, laï, laï, laï,",
+				"laï, laï, laï, laï, laï, laï, laï",
+				"Laï, laï, laï, laï, laï, laï, laï, laï, laï, laï,",
+				"laï, laï, laï, laï, laï, laï, laï",
+				"Laï, laï, laï, laï, laï, laï, laï, laï, laï, laï,",
+				"laï, laï, laï, laï, laï, laï, laï"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Francine Charton",
+			"role": "music"
+		},
+		{
+			"name": "Francine Charton",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1091",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

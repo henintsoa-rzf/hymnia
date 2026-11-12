@@ -1,0 +1,71 @@
+{
+	"id": "chant-victorieux",
+	"title": "Chant victorieux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "389"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es mon Roi, Seigneur,",
+				"Ta joie remplit mon cœur.",
+				"Chaque jour, je te louerai ;",
+				"Tes desseins sont parfaits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es le seul Seigneur,",
+				"Ta loi fait mon bonheur.",
+				"Que ton règne s'établisse,",
+				"Ta volonté s'accomplisse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Gloire, gloire à toi l'Agneau,",
+				"Tu traces un chemin nouveau.",
+				"Nous y marchons en vainqueurs,",
+				"Nous proclamons ta grandeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Victoire au Lion de Juda !",
+				"Tu es le Tout-puissant.",
+				"Victoire au Lion de Juda !",
+				"Tu es si merveilleux,",
+				"Tu es si merveilleux,",
+				"Tu es si merveilleux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joseph Vogels",
+			"role": "music"
+		},
+		{
+			"name": "Joseph Vogels",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem389",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

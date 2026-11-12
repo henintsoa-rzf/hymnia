@@ -1,0 +1,101 @@
+{
+	"id": "jesus-seul-est-notre-vie",
+	"title": "Jésus seul est notre vie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "133"
+		},
+		{
+			"hymnal": "adf",
+			"number": "558"
+		},
+		{
+			"hymnal": "cd",
+			"number": "121"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus seul est notre vie",
+				"Par la mort qu'il a subie.",
+				"Admirable, triomphant,",
+				"Pour toujours il est vivant.",
+				"Il a brisé toute chaîne,",
+				"Sa victoire est bien certaine :",
+				"Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il a vaincu, dans la lutte,",
+				"Les puissances de la chute.",
+				"L'ennemi ne pourra plus",
+				"Troubler la paix des élus.",
+				"Délivrés de son étreinte,",
+				"Chantons désormais sans crainte :",
+				"Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Chantons, dans ce jour de gloire :",
+				"« Sépulcre où est ta victoire,",
+				"Où donc est ton aiguillon ? »",
+				"Chantons la rédemption.",
+				"Jésus vit, il nous délivre,",
+				"Jésus vit, il nous fait vivre :",
+				"Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La nature s'associe",
+				"Au triomphe de la vie.",
+				"Monts et plaines, prés et bois,",
+				"Ensemble élevez la voix.",
+				"Jésus vit, c'est la promesse",
+				"D'une éternelle allégresse :",
+				"Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Sebastian Bach",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg133",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af558",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/939",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

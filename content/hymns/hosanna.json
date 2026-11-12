@@ -1,0 +1,69 @@
+{
+	"id": "hosanna",
+	"title": "Hosanna",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "336"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Hosanna, hosanna,",
+				"Hosanna au plus haut des cieux.",
+				"Hosanna, hosanna,",
+				"Hosanna au plus haut des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous célébrons ton nom,",
+				"D'un cœur reconnaissant,",
+				"Tu es le Seigneur glorieux.",
+				"Hosanna au plus haut des cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Gloire, gloire,",
+				"Gloire à Jésus notre Roi.",
+				"Gloire, gloire,",
+				"Gloire à Jésus notre Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous célébrons ton nom,",
+				"D'un cœur reconnaissant,",
+				"Tu es le Seigneur glorieux.",
+				"O gloire à Jésus notre Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Carl Tuttle",
+			"role": "music"
+		},
+		{
+			"name": "Carl Tuttle",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem336",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

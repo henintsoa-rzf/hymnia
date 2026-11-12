@@ -1,0 +1,79 @@
+{
+	"id": "gloire-a-jesus",
+	"title": "Gloire à Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1012"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous choisissons de te suivre,",
+				"D'écouter ta voix et de vivre,",
+				"Et sur nos cœurs nous porterons",
+				"La gloire de ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous venons déposer à tes pieds",
+				"Nous couronnes et toutes nos vies",
+				"Et, jusqu'à la fin, oui, nous vivrons",
+				"Pour l'honneur de ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Jésus, gloire à Jésus,",
+				"Gloire au Roi des rois.",
+				"Gloire à Jésus, gloire à Jésus,",
+				"Gloire au Roi des rois."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Voici, le jour vient et il est là",
+				"Où tout genou fléchira.",
+				"La terre et les cieux proclameront",
+				"« Saint est son nom. »"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire à Jésus, gloire à Jésus,",
+				"Gloire au Roi des rois.",
+				"Gloire à Jésus, gloire à Jésus,",
+				"Gloire au Roi des rois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tabitha Lemaire, Sarah Gerhon et David Gasse",
+			"role": "music"
+		},
+		{
+			"name": "Tabitha Lemaire, Sarah Gerhon et David Gasse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1012",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

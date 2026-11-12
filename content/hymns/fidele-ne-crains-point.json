@@ -1,0 +1,85 @@
+{
+	"id": "fidele-ne-crains-point",
+	"title": "Fidèle, ne crains point.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "329"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Fidèle, ne crains point, prépare ta requête.",
+				"Dans le sein de ton Dieu,",
+				"viens épancher ton cœur.",
+				"Il t'a dit de prier : sa grâce est toute prête",
+				"À faire succéder la paix à ta douleur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est vers le Roi des rois",
+				"que ta plainte s'exhale,",
+				"Demande-lui beaucoup, pour beaucoup obtenir.",
+				"La bonté du Seigneur à son pouvoir égale",
+				"Ne se mesure pas à ton faible désir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je viens à toi, Seigneur,",
+				"tout couvert de souillure,",
+				"Accablé, chancelant sous le poids du péché.",
+				"Ote-moi ce fardeau ; lave mon âme impure,",
+				"Régénère mon cœur, à la terre attaché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Règne seul en ce cœur,",
+				"sans rival, sans partage ;",
+				"Demeure en lui toujours ; accorde-lui ta paix.",
+				"Qu'il ne perde jamais ton vivant témoignage",
+				"Et le droit que ta mort lui donne à tes bienfaits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Sois mon fidèle ami ;",
+				"sois ma force et ma vie ;",
+				"Éclaire mon sentier ; garde-moi de l'erreur ;",
+				"Et, quand viendra la mort, qu'à ma vue affaiblie",
+				"Se montre encor ta face,",
+				"ô mon Dieu, mon Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "A. Boissier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af329",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

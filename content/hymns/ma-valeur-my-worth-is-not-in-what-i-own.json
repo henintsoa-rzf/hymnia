@@ -1,0 +1,109 @@
+{
+	"id": "ma-valeur-my-worth-is-not-in-what-i-own",
+	"title": "Ma valeur (My Worth Is Not In What I Own)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "509"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ma valeur n’est pas dans mes biens,",
+				"Ni dans mes forces ou ma santé,",
+				"Mais dans l’amour du prix payé",
+				"À la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma valeur n’est pas dans mes dons,",
+				"Dans mes succès ou ma fierté,",
+				"Mais dans le sang versé, Jésus,",
+				"À la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ma plus grande joie, c’est Jésus,",
+				"Mon trésor et source pour mon cœur.",
+				"Ma confiance, ma plénitude,",
+				"En Jésus seul se trouve mon bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme les fleurs, nous périssons ;",
+				"Beauté, jeunesse ne tiennent pas.",
+				"Mais la vie éternelle m’attend",
+				"À la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pas de fierté dans la puissance,",
+				"Ni dans la sagesse éphémère,",
+				"Mais je connais Jésus le Christ",
+				"À la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Ma valeur et ma petitesse :",
+				"Double mystère, je le confesse.",
+				"Mon prix se trouve dans mon rachat",
+				"À la croix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Keith Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "music"
+		},
+		{
+			"name": "Kristyn Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Kristyn Getty",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-9",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

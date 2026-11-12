@@ -1,0 +1,101 @@
+{
+	"id": "tout-est-accompli",
+	"title": "Tout est accompli",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "6"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vois Jésus dans le jardin,",
+				"Il accepte notre dû,",
+				"Boit la coupe jusqu’à la lie ;",
+				"Peine purgée, mort vaincue.",
+				"Chrétien, relève la tête,",
+				"Car il ne reste pour toi",
+				"Aucune ombre de colère ;",
+				"Bannis la crainte et l’effroi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout est accompli",
+				"Par son ultime sacrifice !",
+				"Une fois pour toutes",
+				"Et pour toujours la croix suffit.",
+				"Tout est accompli !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vois-le cloué sur la croix,",
+				"Son sang innocent versé,",
+				"Aspergeant nos cœurs impurs ;",
+				"L’Agneau de Dieu immolé.",
+				"Chrétien, fortifie ton âme,",
+				"Ta conscience est purifiée,",
+				"Lavée des plus sombres taches ;",
+				"Christ abolit ton péché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vois, dans le lieu saint du temple,",
+				"L’ancien voile déchiré,",
+				"Laissant la voie enfin libre ;",
+				"L’homme à Dieu réconcilié.",
+				"Chrétien, sois plein d’assurance ;",
+				"Rien ne peut te séparer.",
+				"Entends la voix de ton Père :",
+				"« Viens, mon enfant bien-aimé ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Jésus-Christ,",
+				"Digne de louange infinie !",
+				"Toujours sûrs en lui,",
+				"Nous rejoignons son dernier cri :",
+				"« Tout est accompli ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/toutestaccompli",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

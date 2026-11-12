@@ -1,0 +1,77 @@
+{
+	"id": "fidele",
+	"title": "Fidèle",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1042"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tes bontés se renouvellent",
+				"Chaque jour, chaque saison",
+				"Pour ceux qui te cherchent et craignent",
+				"La splendeur de ton saint nom.",
+				"Tes bontés se renouvellent",
+				"Chaque jour, chaque saison",
+				"Pour ceux qui te cherchent et craignent",
+				"La splendeur de ton saint nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es fidèle !",
+				"Tu ne changes pas !",
+				"Tu es fidèle !",
+				"Tu ne changes pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Celui qui se réfugie",
+				"Près de toi trouve un abri.",
+				"Tu es pour lui un rocher,",
+				"En tout temps un bouclier.",
+				"Celui qui se réfugie",
+				"Près de toi trouve un abri.",
+				"Tu es pour lui un rocher,",
+				"En tout temps un bouclier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es fidèle !",
+				"Tu ne changes pas !",
+				"Tu es fidèle !",
+				"Tu ne changes pas !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "music"
+		},
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1042",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

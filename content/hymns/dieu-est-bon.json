@@ -1,0 +1,59 @@
+{
+	"id": "dieu-est-bon",
+	"title": "Dieu est bon",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "340"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu est bon, nous voulons le crier,",
+				"Dieu est bon, le célébrer,",
+				"Dieu est bon, ne plus jamais en douter,",
+				"Dieu est bon, oui c'est bien vrai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Et quand je pense à son amour pour moi,",
+				"Mon cœur saute de joie et je veux danser,",
+				"Car dans son cœur, il y a place pour moi",
+				"Et j'y cours les bras grands ouverts."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu est bon, nous voulons le crier,",
+				"Dieu est bon, le célébrer,",
+				"Dieu est bon, ne plus jamais en douter,",
+				"Dieu est bon, oui c'est bien vrai."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem340",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

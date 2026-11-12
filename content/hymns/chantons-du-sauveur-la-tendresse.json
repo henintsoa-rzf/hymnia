@@ -1,0 +1,109 @@
+{
+	"id": "chantons-du-sauveur-la-tendresse",
+	"title": "Chantons du sauveur la tendresse",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "130"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons du Sauveur la tendresse :",
+				"Sur la croix il est mort pour nous.",
+				"Il remplit nos coeurs d’allégresse,",
+				"Au ciel il nous invite tous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux chanter",
+				"Je veux dire à tous mon bonheur,",
+				"Chantons, chantons",
+				"Chantons l’amour du Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chantons du Sauveur la puissance !",
+				"C’est lui qui brisa nos liens.",
+				"Perdus, sans Dieu, sans espérance,",
+				"Il nous racheta, nous fit siens."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux chanter",
+				"Je veux dire à tous mon bonheur,",
+				"Chantons, chantons",
+				"Chantons le puissant Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Chantons, remplis de confiance !",
+				"Chantons sans peur du lendemain,",
+				"En paix, gardés par sa puissance,",
+				"Conduits chaque jour par sa main."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux chanter",
+				"Je veux dire à tous mon bonheur,",
+				"Chantons, chantons",
+				"Chantons notre grand Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Chantons du Rédempteur la gloire !",
+				"Celui qui nous aime est le roi,",
+				"Le roi couronné de victoire ;",
+				"À lui notre amour, notre foi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux chanter",
+				"Je veux dire à tous mon bonheur,",
+				"Chantons, chantons",
+				"Chantons, louons le Rédempteur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James Mac Granahan",
+			"role": "unspecified"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/966",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

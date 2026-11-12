@@ -1,0 +1,60 @@
+{
+	"id": "il-a-depouille-les-dominations",
+	"title": "Il a dépouillé les dominations",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "49"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il a dépouillé les dominations",
+				"Et les autorités,",
+				"Et les a livrées publiquement,",
+				"Publiquement en spectacle,",
+				"Il a dépouillé les dominations",
+				"Et les autorités,",
+				"Et les a livrées publiquement,",
+				"Publiquement en spectacle,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En triomphant d'elles par la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il a dépouillé les dominations",
+				"Et les autorités,",
+				"Et les a livrées publiquement,",
+				"Publiquement en spectacle."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel Schaerer ; M. Meyer",
+			"role": "music"
+		},
+		{
+			"name": "Daniel Schaerer ; M. Meyer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem049",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

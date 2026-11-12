@@ -1,0 +1,96 @@
+{
+	"id": "noel-o-doux-mystere",
+	"title": "Noël ! ô doux mystère",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "95"
+		},
+		{
+			"hymnal": "cd",
+			"number": "77"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Noël ! ô doux mystère :",
+				"Un Dieu s'est incarné.",
+				"Le ciel descend sur terre :",
+				"Le Fils de l'homme est né.",
+				"C'est pour nous qu'il délaisse",
+				"Son trône glorieux.",
+				"Voyez comme il s'abaisse",
+				"Pour nous ouvrir les cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Noël ! ô grand prodige :",
+				"Le Verbe créateur",
+				"Vient naître sans prestige",
+				"Comme humble serviteur.",
+				"Dans notre pauvre monde,",
+				"Sa tente il vient dresser :",
+				"Nouvelle sans seconde",
+				"Pour tous les cœurs blessés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Noël ! clarté soudaine",
+				"Qui dans notre âme luit.",
+				"Vers Christ l'étoile entraîne",
+				"Qui marche dans la nuit.",
+				"On suit une autre voie,",
+				"Lorsqu'on a vu Jésus.",
+				"Le cœur bondit de joie,",
+				"Jamais il n'est déçu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Noël ! joyeux message",
+				"Pour tous, petits et grands.",
+				"Qu'on chante d'âge en âge",
+				"Un tel événement !",
+				"Qu'on dise la merveille",
+				"De tant de charité,",
+				"Car elle est sans pareille",
+				"Dans notre humanité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air finlandais",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg095",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/883",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

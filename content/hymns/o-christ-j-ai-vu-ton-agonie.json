@@ -1,0 +1,69 @@
+{
+	"id": "o-christ-j-ai-vu-ton-agonie",
+	"title": "O Christ, j'ai vu ton agonie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "113"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Christ ! j'ai vu ton agonie",
+				"Et mon âme a frémi d'horreur !",
+				"Oui, tu viens de perdre la vie,",
+				"Et c'est pour moi, pauvre pécheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À ta mort, la nature entière",
+				"Se répand en cris de douleur ;",
+				"Le soleil cache sa lumière,",
+				"Les élus pleurent leur Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ta mort, ô sainte Victime,",
+				"Soit toujours présente à nos yeux !",
+				"Ton sang peut seul laver le crime ;",
+				"Seul il peut nous ouvrir les cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Christ ! ta charité profonde",
+				"Touche et pénètre notre cœur :",
+				"Tu meurs pour les péchés du monde ;",
+				"Toi seul es notre Dieu Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Freylinghausen",
+			"role": "music"
+		},
+		{
+			"name": "Barth. Bastie",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af113",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

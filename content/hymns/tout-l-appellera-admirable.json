@@ -1,0 +1,49 @@
+{
+	"id": "tout-l-appellera-admirable",
+	"title": "Tout l'appellera \"admirable\"",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "59"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"On l'appellera \"Admirable, Conseiller et Dieu tout-puissant,",
+				"Père éternel, Prince de la paix\".On l'appellera \"Admirable\"."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est lui qui nous a choisis et c'est lui qui nous unit.",
+				"Il donne sa vie, enlève la peur. Son amour est le véritable."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toi et moi, nous construisons en Jésus notre maison.",
+				"Sur des nuées, un jour le ciel avec lui nous partirons."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "R. Ouellette",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/867",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

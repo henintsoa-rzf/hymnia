@@ -1,0 +1,79 @@
+{
+	"id": "mon-dieu-possede-toutes-choses",
+	"title": "Mon Dieu possède toutes choses",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "25"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Dieu possède toutes choses,",
+				"C’est le Dieu tout puissant!",
+				"Mon Dieu possède toutes choses,",
+				"Et je suis son enfant!"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Dieu possède toutes choses,",
+				"Et toutes ses richesses sont à moi!",
+				"Mon Dieu possède toutes choses,",
+				"Je sais qu’Il prendra soin de moi!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il conduit toute ma carrière,",
+				"Il me tient dans sa main!",
+				"Oh! Quel ami! Quel tendre Père!",
+				"Non, non, je ne crains rien!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Heureux à l’ombre de ses ailes,",
+				"Mon coeur se réjouit",
+				"En mon Seigneur toujours fidèle!",
+				"Mon âme le bénit!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bientôt, dans la maison du père,",
+				"Avec lui, pour toujours!",
+				"Bientôt, dans la pure lumière,",
+				"Avec le Dieu d’amour!"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "A. Omer",
+			"role": "unspecified"
+		},
+		{
+			"name": "J.W. PETERSON",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/844",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

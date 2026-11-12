@@ -1,0 +1,55 @@
+{
+	"id": "jesus-tu-es-l-agneau",
+	"title": "Jésus, tu es l'Agneau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "436"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, tu es l'Agneau de Dieu.",
+				"Ton règne demeure à jamais.",
+				"Ton nom: le Prince de la paix.",
+				"Tu payas de ton sang précieux",
+				"Dieu saint, par toi je vis, j'entends",
+				"Ta voix me dire: « Je t'aime,",
+				"Reçois ma présence. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Perdu, mais par toi retrouvé",
+				"Libéré, ta mort m'a racheté.",
+				"Vivant, je ne peux plus le taire,",
+				"O Jésus, je vis de ta lumière.",
+				"Victoire, gloire et honneur au Prince",
+				"Toi, mon Seigneur, ta main",
+				"Retrace mon chemin."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Francano",
+			"role": "music"
+		},
+		{
+			"name": "Charles Francano",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem436",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

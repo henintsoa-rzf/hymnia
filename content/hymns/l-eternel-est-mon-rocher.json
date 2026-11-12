@@ -1,0 +1,51 @@
+{
+	"id": "l-eternel-est-mon-rocher",
+	"title": "L'Éternel est mon rocher",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "22"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel est mon rocher,",
+				"Ma forteresse et mon libérateur.",
+				"Dieu est mon rocher,",
+				"Où je trouve un abri,",
+				"Mon bouclier et la force qui me sauve,",
+				"Ma haute retraite et mon refuge."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'Éternel est mon rocher,",
+				"Ma forteresse et mon libérateur.",
+				"Dieu est mon rocher,",
+				"Où je trouve un abri, un abri."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem022",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

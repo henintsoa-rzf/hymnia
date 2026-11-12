@@ -1,0 +1,153 @@
+{
+	"id": "la-joie-du-seigneur-jem-1177",
+	"title": "La joie du Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1177"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Esprit du Seigneur est sur moi, car il m'a envoyé",
+				"Annoncer la délivrance à tous ceux qui sont prisonniers.",
+				"Il fait renaître l'espoir quand mes rêves étaient morts.",
+				"Il me redonne courage quand je n'ai plus de forces.",
+				"J'ai son sourire à mon réveil et sa paix quand je dors,",
+				"Il est mon tout et bien plus encore."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est comme une fontaine au fond de moi,",
+				"La joie du Seigneur jaillit en moi.",
+				"C'est un océan de vie qui déborde autour de moi,",
+				"Qui se répand partout sur mes pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La joie du Seigneur est ma force,",
+				"La joie du Seigneur est ma force.",
+				"Quel que soit demain, je ne craindrai rien,",
+				"Car la joie du Seigneur est ma force."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Esprit du Seigneur est sur moi,",
+				"L'Esprit du Seigneur est en moi.",
+				"Il remplit mon cœur, je suis sa demeure.",
+				"Oui, l'Esprit du Seigneur est en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'Esprit du Seigneur est sur moi, car il m'a envoyé,",
+				"Il m'a envoyé pour guérir ceux qui ont le cœur brisé.",
+				"Il m'a revêtu de splendeur au lieu de la cendre.",
+				"Il a couvert mes épaules d'un vêtement de louange.",
+				"Je suis devenu le temple où sa présence demeure.",
+				"J'entends son rire qui chasse mes peurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'apprends à danser dans mes détresses,",
+				"Trouver sa puissance dans mes faiblesses.",
+				"Même au plus fort de mes nuits, je me réjouis encore,",
+				"Car sa tendresse fait lever l'aurore."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La joie du Seigneur est ma force,",
+				"La joie du Seigneur est ma force.",
+				"Quel que soit demain, je ne craindrai rien,",
+				"Car la joie du Seigneur est ma force."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Esprit du Seigneur est sur moi,",
+				"L'Esprit du Seigneur est en moi.",
+				"Il remplit mon cœur, je suis sa demeure.",
+				"Oui, l'Esprit du Seigneur est en moi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Esprit de vie, de liberté,",
+				"Remplis-moi jusqu'à déborder.",
+				"Que ta rivière jaillisse en moi,",
+				"Je veux ta joie, joie, joie."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Esprit de vie, de liberté,",
+				"Remplis-moi jusqu'à déborder.",
+				"Que ta rivière jaillisse en moi,",
+				"Je veux ta joie, joie, joie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La joie du Seigneur est ma force,",
+				"La joie du Seigneur est ma force.",
+				"Quel que soit demain, je ne craindrai rien,",
+				"Car la joie du Seigneur est ma force."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Esprit du Seigneur est sur moi,",
+				"L'Esprit du Seigneur est en moi.",
+				"Il remplit mon cœur, je suis sa demeure.",
+				"Oui, l'Esprit du Seigneur est en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1177",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,113 @@
+{
+	"id": "esprit-saint-dieu-puissant",
+	"title": "Esprit saint, Dieu puissant.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "141"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Esprit saint, Dieu puissant,",
+				"que méconnaît le monde,",
+				"Ton pouvoir sur les cœurs",
+				"est un secret pour lui.",
+				"Mais l'Église est à Toi,",
+				"ta grâce en elle abonde,",
+				"Ton souffle la ranime,",
+				"et quand ton jour a lui,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sous ton divin regard",
+				"elle devient féconde ;",
+				"C'est Toi qui la maintiens",
+				"dans une paix profonde,",
+				"C'est Toi qui la maintiens",
+				"dans une paix profonde :",
+				"Loin des murs de Sion,",
+				"le malin s'est enfui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Puissant Consolateur,",
+				"que ta visite est chère !",
+				"Qui dira tes bienfaits",
+				"et tes gratuités",
+				"Dans la maison de deuil,",
+				"au sein de la misère,",
+				"Dans les afflictions",
+				"de tous les rachetés ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand tu descends vers nous,",
+				"envoyé par le Père,",
+				"Sur nos sentiers obscurs",
+				"tu répands la lumière,",
+				"Sur nos sentiers obscurs",
+				"tu répands la lumière,",
+				"Et tu rends le courage",
+				"à nos cœurs attristés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens à notre secours,",
+				"oh ! viens, Esprit de grâce !",
+				"Lorsque vers le Seigneur",
+				"nos regards sont tournés,",
+				"Dicte-nous l'oraison",
+				"qui seule est efficace ;",
+				"Et quand nous nous sentons",
+				"par le doute enchaînés,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ne sachant point prier",
+				"avec assez d'audace,",
+				"Viens augmenter en nous",
+				"cette foi qui nous place",
+				"Viens augmenter en nous",
+				"cette foi qui nous place",
+				"Au nombre des vainqueurs",
+				"par ta main couronnés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Landurner",
+			"role": "music"
+		},
+		{
+			"name": "Galland",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af141",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

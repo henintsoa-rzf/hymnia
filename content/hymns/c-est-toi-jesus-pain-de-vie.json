@@ -1,0 +1,101 @@
+{
+	"id": "c-est-toi-jesus-pain-de-vie",
+	"title": "C'est toi, Jésus, pain de vie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "194"
+		},
+		{
+			"hymnal": "adf",
+			"number": "530"
+		},
+		{
+			"hymnal": "cd",
+			"number": "126"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est toi, Jésus, pain de vie,",
+				"Qui me nourris jour par jour,",
+				"Manne céleste et bénie,",
+				"C'est ton merveilleux amour.",
+				"Pain de vie, Pain de vie, Pain de vie,",
+				"Don du ciel toujours nouveau,",
+				"Tu me nourris, pain d'En-Haut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est encor toi, source vive,",
+				"Le secours du pèlerin.",
+				"Il puise, il boit, et ravive",
+				"Son cœur le long du chemin.",
+				"Source vive, Source vive, Source vive.",
+				"Don du ciel toujours nouveau,",
+				"Tu jaillis sur moi d'En-Haut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ames toujours altérées,",
+				"Qui cherchez de fraîches eaux,",
+				"Aux citernes crevassées",
+				"Préférez les clairs ruisseaux !",
+				"O rosées, O rosées, O rosées.",
+				"Don du ciel toujours nouveau,",
+				"Descendez sur nous d'En-Haut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À ton amour je me fie,",
+				"Que me faudrait-il de plus ?",
+				"Rien, non, rien ne rassasie",
+				"Ici-bas, que toi, Jésus.",
+				"Pain de vie, Pain de vie, Pain de vie.",
+				"Don du ciel toujours nouveau,",
+				"Je te bénis, pain d'En-Haut !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Owen",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg194",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af530",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/962",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

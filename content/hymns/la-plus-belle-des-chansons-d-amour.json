@@ -1,0 +1,85 @@
+{
+	"id": "la-plus-belle-des-chansons-d-amour",
+	"title": "La plus belle des chansons d'amour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "108"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es la plus belle parmi les plus belles,",
+				"La plus belle des chansons d'amour.",
+				"Quand je te chante j'ai le cœur en joie,",
+				"Car tu parles de l'amour de Jésus pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il naquit dans une écurie",
+				"La nuit de Noël,",
+				"Pour le Fils de Dieu,",
+				"Quel étrange lieu !",
+				"Il mourut sur une croix entre deux brigands,",
+				"Pour le Roi des rois,",
+				"Quel étrange endroit !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es la plus belle parmi les plus belles,",
+				"La plus belle des chansons d'amour.",
+				"Quand je te chante j'ai le cœur en joie,",
+				"Car tu parles de l'amour de Jésus pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand Marie vint au tombeau",
+				"Trois matins plus tard,",
+				"On avait roulé la pierre,",
+				"Le corps n'était plus là.",
+				"Au fond du jardin, un homme lui dit:",
+				"« Ne cherche pas parmi les morts",
+				"Celui qui est vivant ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es la plus belle parmi les plus belles,",
+				"La plus belle des chansons d'amour.",
+				"Quand je te chante j'ai le cœur en joie,",
+				"Car tu parles de l'amour de Jésus pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Noël-André Chefneux",
+			"role": "music"
+		},
+		{
+			"name": "Noël-André Chefneux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem108",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

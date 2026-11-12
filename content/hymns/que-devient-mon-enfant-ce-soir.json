@@ -1,0 +1,129 @@
+{
+	"id": "que-devient-mon-enfant-ce-soir",
+	"title": "Que devient mon enfant ce soir ?",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "240"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que devient mon enfant ce soir ?",
+				"Il suit une sombre voie,",
+				"Lui qui faisait tout mon espoir",
+				"Et ma couronne de joie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cherchez mon enfant ce soir !",
+				"Cherchez mon enfant ce soir !",
+				"Mon cœur est plein, je veux le revoir.",
+				"Cherchez mon enfant ce soir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout jeune encor, je crois le voir,",
+				"Lorsque, fervent et sincère,",
+				"Il disait à Dieu chaque soir",
+				"Son enfantine prière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cherchez mon enfant ce soir !",
+				"Cherchez mon enfant ce soir !",
+				"Mon cœur est plein, je veux le revoir.",
+				"Cherchez mon enfant ce soir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je le revois, plus grand, plus fort,",
+				"Lorsqu'aux jours de sa jeunesse,",
+				"Son cœur était candide encor",
+				"Et pour moi plein de tendresse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cherchez mon enfant ce soir !",
+				"Cherchez mon enfant ce soir !",
+				"Mon cœur est plein, je veux le revoir.",
+				"Cherchez mon enfant ce soir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! qui me rendra mon enfant",
+				"Comme autrefois plein de charmes ?",
+				"Je veille et pleure en l'attendant :",
+				"Cherchez le fils de mes larmes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cherchez mon enfant ce soir !",
+				"Cherchez mon enfant ce soir !",
+				"Mon cœur est plein, je veux le revoir.",
+				"Cherchez mon enfant ce soir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Combien J'ai soif de te revoir,",
+				"Mon enfant ! combien Je t'aime !",
+				"Oh ! dans mes bras reviens, ce soir ;",
+				"Entends mon appel suprême."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reviens, mon enfant, ce soir",
+				"Reviens, mon enfant, ce soir",
+				"Mon cœur est plein ! Je veux te revoir.",
+				"Reviens, mon enfant, ce soir !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robert Lowry",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af240",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

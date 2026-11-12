@@ -1,0 +1,109 @@
+{
+	"id": "qui-sont-ces-gens",
+	"title": "Qui sont ces gens.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "446"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui sont ces gens au radieux visage",
+				"Que, par delà les flots tumultueux,",
+				"Je vois là-bas sur le rivage",
+				"S'assembler pour monter aux cieux ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Des palmes à la main et couronnés de gloire,",
+				"Ils vont chantant le cantique nouveau :",
+				"« Heureux qui par la foi remporta la victoire,",
+				"Lavé dans le sang de l'Agneau ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce sont des rois, jadis pauvres esclaves,",
+				"Dont Jésus-Christ a fait tomber les fers.",
+				"Libres enfin de leurs entraves,",
+				"Ils vont régner sur l'univers."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Des palmes à la main et couronnés de gloire,",
+				"Ils vont chantant le cantique nouveau :",
+				"« Heureux qui par la foi remporta la victoire,",
+				"Lavé dans le sang de l'Agneau ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Aux jours mauvais, aux heures solennelles,",
+				"Pendant l'épreuve ou la tentation,",
+				"Toujours ils restèrent fidèles",
+				"À leur noble vocation."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Des palmes à la main et couronnés de gloire,",
+				"Ils vont chantant le cantique nouveau :",
+				"« Heureux qui par la foi remporta la victoire,",
+				"Lavé dans le sang de l'Agneau ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu'ils sont heureux ! l'épreuve est terminée,",
+				"Du triste mal ils ne souffriront plus,",
+				"Et désormais leur destinée",
+				"C'est de régner avec Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Des palmes à la main et couronnés de gloire,",
+				"Ils vont chantant le cantique nouveau :",
+				"« Heureux qui par la foi remporta la victoire,",
+				"Lavé dans le sang de l'Agneau ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tullius Clinton O'Kane",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af446",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

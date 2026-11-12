@@ -1,0 +1,100 @@
+{
+	"id": "la-foi",
+	"title": "La Foi…",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "361"
+		},
+		{
+			"hymnal": "adf",
+			"number": "361A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La foi fait tomber sous nos yeux",
+				"Les plus fortes murailles ;",
+				"La foi nous rend victorieux",
+				"Et gagne les batailles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La foi nous ouvre les trésors",
+				"De la toute-puissance ;",
+				"Les plus faibles deviennent forts",
+				"Sous sa sainte influence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Protégés par ce bouclier,",
+				"Nous n'avons nulle crainte.",
+				"Qui sait en Dieu se confier",
+				"Du mal brave l'atteinte."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que n'ont pas souffert les héros",
+				"Dont nous suivons la trace !",
+				"Que de dangers, que de travaux,",
+				"Mais quelle sainte audace !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Que leur victoire et leurs combats",
+				"Enflamment notre zèle.",
+				"Croyons, et courons sur leur pas :",
+				"Notre Chef nous appelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Quand la foi vit au fond du cœur",
+				"Et nourrit l'espérance,",
+				"On est, pour l'amour du Sauveur,",
+				"Joyeux dans la souffrance."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "M. Ewan",
+			"role": "music"
+		},
+		{
+			"name": "Nicolaus Ludwig von Zinzendorf",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af361",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af361a",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

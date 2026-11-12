@@ -1,0 +1,110 @@
+{
+	"id": "ou-trouver-une-retraite",
+	"title": "Où trouver une retraite.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "230"
+		},
+		{
+			"hymnal": "cd",
+			"number": "159"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Où trouver une retraite,",
+				"Où trouver un sûr abri,",
+				"Quand, du sein de la tempête,",
+				"Dieu me parle au Sinaï ?",
+				"Vois la mort que j'ai soufferte",
+				"Pour devenir ton Sauveur !",
+				"Entre par la plaie ouverte",
+				"Et cache toi dans Mon cœur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quelle cité de refuge",
+				"S'offre pour l'homme perdu,",
+				"Quand fuyant devant son Juge,",
+				"Il tremble et pleure, éperdu ?",
+				"Vers moi, sans repos ni trêve,",
+				"Accours, c'est ton seul espoir !",
+				"Mon cœur, qu'a percé le glaive,",
+				"S'ouvre pour te recevoir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand il faudra rendre compte,",
+				"O Dieu ! qui t'affrontera ?",
+				"Où cacherais-je ma honte,",
+				"Quand ton œil me sondera ?",
+				"Si tu veux fuir ma colère,",
+				"Cache-toi dans Mon amour !",
+				"Approche-toi du Calvaire,",
+				"Et ne crains plus le grand Jour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais mes fautes, plus nombreuses",
+				"Que le sable au bord des mers,",
+				"Rendent mes nuits trop affreuses",
+				"Et mes regrets trop amers !",
+				"Pauvre âme, sois rassurée !",
+				"Mon Sang, à flots épanché,",
+				"Couvre, comme une marée,",
+				"Le sable de ton péché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"À son banquet misérable",
+				"Le monde m'appelle en vain.",
+				"Oh ! fais-moi place à ta table,",
+				"Et donnes-moi de ton pain !",
+				"Prends ! Je suis le pain de vie.",
+				"Prends ta place à ce festin",
+				"Où Dieu même te convie,",
+				"Et qui n'aura point de fin."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fr. Ambresin",
+			"role": "music"
+		},
+		{
+			"name": "Fr. Ambresin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af230",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/992",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

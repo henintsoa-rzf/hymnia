@@ -1,0 +1,51 @@
+{
+	"id": "viens-seigneur-jesus",
+	"title": "Viens, Seigneur Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "326"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens Seigneur Jésus !",
+				"Par ton Esprit,",
+				"Viens nous apprendre à partager ;",
+				"Tu es le pain, tu es la vie.",
+				"De toi j'ai faim, par toi je prie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens Seigneur Jésus !",
+				"Par ton Esprit,",
+				"Viens nous apprendre à t'adorer ;",
+				"Tu es le pain, tu es la vie.",
+				"De toi j'ai faim, par toi je prie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claude Fraysse",
+			"role": "music"
+		},
+		{
+			"name": "Colette Bergèse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem326",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

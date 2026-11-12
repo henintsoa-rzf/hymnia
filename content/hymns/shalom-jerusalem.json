@@ -1,0 +1,84 @@
+{
+	"id": "shalom-jerusalem",
+	"title": "Shalom, Jérusalem",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "823"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Shalom, shalom, Jérusalem,",
+				"reçois la paix !",
+				"Quand le Messie viendra nous chercher,",
+				"Qu'il trouve en toi la louange !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Prie pour la paix, Jérusalem,",
+				"cité du grand Roi !",
+				"Ton salut fut envoyé vers toi,",
+				"le rachat de l'Éternel,",
+				"Tes rues furent remplies de joie.",
+				"Les branches à la main,",
+				"Ils criaient: « Béni soit le Dieu très saint,",
+				"Yeshouat Adonaï ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Shalom, shalom, Jérusalem,",
+				"reçois la paix !",
+				"Quand le Messie viendra nous chercher,",
+				"Qu'il trouve en toi la louange !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Israël, mon bien-aimé, Ephraïm, mon fils,",
+				"Combien je voudrais t'entendre dire:",
+				"« Le Messie est venu ! » Que ces paroles,",
+				"ô mes frères, pénètrent vos âmes !",
+				"Revenez adorer Adonaï, découvrez le Messie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Shalom, shalom, Jérusalem,",
+				"reçois la paix !",
+				"Quand le Messie viendra nous chercher,",
+				"Qu'il trouve en toi la louange !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Wilbur",
+			"role": "music"
+		},
+		{
+			"name": "Paul Wilbur",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem823",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

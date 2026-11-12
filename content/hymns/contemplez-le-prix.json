@@ -1,0 +1,104 @@
+{
+	"id": "contemplez-le-prix",
+	"title": "Contemplez le prix",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "18"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pourquoi va-t-il là, chargé d’une croix,",
+				"Se laissant mener sans lever la voix ?",
+				"Il s’est dépouillé pour venir chercher",
+				"Ses brebis, loin, égarées.",
+				"Sur lui l'opprobre est tombé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô contemplez le prix !",
+				"Jésus a sacrifié sa vie.",
+				"Ô mystère infini !",
+				"Par ses blessures il nous guérit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pourquoi pend-il là, frappé, méprisé,",
+				"Parmi les méchants se laissant compter ?",
+				"Agneau innocent, il est immolé,",
+				"Chargé de tous nos péchés,",
+				"Livré pour les effacer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pourquoi meurt-il là, cerné par la nuit,",
+				"Appelant son Père dans un dernier cri ?",
+				"Sur lui le courroux de Dieu est versé,",
+				"De nous il est détourné.",
+				"Châtié pour donner la paix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/contemplezleprix",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

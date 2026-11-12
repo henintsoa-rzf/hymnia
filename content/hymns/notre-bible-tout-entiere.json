@@ -1,0 +1,77 @@
+{
+	"id": "notre-bible-tout-entiere",
+	"title": "Notre Bible tout entière",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "177"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Bible tout entière",
+				"Pour le monde tout entier,",
+				"Qu'elle guide et qu'elle éclaire",
+				"Notre pauvre humanité.",
+				"Qu'elle guide et qu'elle éclaire",
+				"Notre pauvre humanité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Car la Bible est la lumière",
+				"Sur le plus obscur sentier,",
+				"Christ est la pierre angulaire :",
+				"Tout sur lui doit s'édifier.",
+				"Christ est la pierre angulaire :",
+				"Tout sur lui doit s'édifier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Notre monde de misère",
+				"Cherche à quel chef se confier,",
+				"Et notre cœur désespère",
+				"Sans le Sauveur crucifié.",
+				"Et notre cœur désespère",
+				"Sans le Sauveur crucifié."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Proclamez donc ce mystère,",
+				"Qu'il faut partout publier :",
+				"Que par Jésus, notre frère,",
+				"Nous sommes réconciliés.",
+				"Que par Jésus, notre frère,",
+				"Nous sommes réconciliés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air russe",
+			"role": "music"
+		},
+		{
+			"name": "Ch. Hoffmann",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg177",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

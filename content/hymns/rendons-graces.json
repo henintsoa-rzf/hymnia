@@ -1,0 +1,61 @@
+{
+	"id": "rendons-graces",
+	"title": "Rendons grâces",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "482"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rendons grâces à Dieu car il est bon,",
+				"Car son amour demeure à jamais.",
+				"Rendons grâces,",
+				"Louons le Seigneur",
+				"Pour sa sainteté et sa splendeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Et si l'ennemi vient nous cerner",
+				"Et veut nous envahir,",
+				"C'est le Dieu puissant qui combattra",
+				"Et la victoire est dans ses mains."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rendons grâces à Dieu car il est bon,",
+				"Car son amour demeure à jamais.",
+				"Rendons grâces,",
+				"Louons le Seigneur",
+				"Pour sa sainteté et sa splendeur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dale Garratt",
+			"role": "music"
+		},
+		{
+			"name": "Dale Garratt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem482",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

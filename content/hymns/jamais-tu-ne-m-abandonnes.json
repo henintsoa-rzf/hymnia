@@ -1,0 +1,123 @@
+{
+	"id": "jamais-tu-ne-m-abandonnes",
+	"title": "Jamais tu ne m'abandonnes",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1045"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Même si je marche dans la vallée",
+				"De l'ombre de la mort,",
+				"Ton amour parfait bannit la peur,",
+				"Et même si je suis pris",
+				"Au milieu des remous de la vie,",
+				"Je tiendrai, je sais que tu es là."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Non, je ne craindrai aucun mal,",
+				"Car mon Dieu est avec moi.",
+				"Et si mon Dieu est avec moi,",
+				"Je ne crains personne,",
+				"Je ne crains personne."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jamais, tu ne m'abandonnes",
+				"Dans le calme ou la tempête.",
+				"Jamais, tu ne m'abandonnes",
+				"Dans les hauts comme dans les bas.",
+				"Jamais, tu ne m'abandonnes,",
+				"Dieu, tu ne m'abandonnes pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et je vois une lumière, elle apparaît",
+				"À celui qui tient bon,",
+				"Une lumière d'un éclat sans pareil.",
+				"Alors viendra la fin de ces tourments,",
+				"Mais jusqu'à ce grand jour",
+				"Nous voulons te connaître ici-bas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Non, je ne craindrai aucun mal,",
+				"Car mon Dieu est avec moi.",
+				"Et si mon Dieu est avec moi,",
+				"Je ne crains personne,",
+				"Je ne crains personne."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jamais, tu ne m'abandonnes",
+				"Dans le calme ou la tempête.",
+				"Jamais, tu ne m'abandonnes",
+				"Dans les hauts comme dans les bas.",
+				"Jamais, tu ne m'abandonnes,",
+				"Dieu, tu ne m'abandonnes pas."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Et je vois une lumière, elle apparaît",
+				"À celui qui tient bon.",
+				"Alors viendra la fin de ces tourments,",
+				"Mais jusqu'à ce grand jour,",
+				"Je louerai ton nom,",
+				"Je louerai ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jamais, tu ne m'abandonnes",
+				"Dans le calme ou la tempête.",
+				"Jamais, tu ne m'abandonnes",
+				"Dans les hauts comme dans les bas.",
+				"Jamais, tu ne m'abandonnes,",
+				"Dieu, tu ne m'abandonnes pas."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt et Beth Redman",
+			"role": "music"
+		},
+		{
+			"name": "Matt et Beth Redman",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1045",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

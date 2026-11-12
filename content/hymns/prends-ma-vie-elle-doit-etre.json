@@ -1,0 +1,89 @@
+{
+	"id": "prends-ma-vie-elle-doit-etre",
+	"title": "Prends ma vie, elle doit être",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "285"
+		},
+		{
+			"hymnal": "adf",
+			"number": "288"
+		},
+		{
+			"hymnal": "cd",
+			"number": "225"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Prends ma vie, elle doit être",
+				"À Toi seul, ô divin Maître,",
+				"Que sur le flot de mes jours,",
+				"Ton regard brille toujours !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que mes mains, à ton service,",
+				"S'offrent pour le sacrifice,",
+				"Qu'à te suivre pas à pas",
+				"Mes pieds ne faiblissent pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que mon esprit s'illumine",
+				"De ta sagesse divine ;",
+				"Prends mon argent et mon or",
+				"Et toi seul, sois mon trésor."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que ma volonté devienne",
+				"La servante de la tienne ;",
+				"Fais ton trône de mon cœur :",
+				"Il t'appartient, bon Sauveur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Coles Stebbins",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg285",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af288",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1054",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

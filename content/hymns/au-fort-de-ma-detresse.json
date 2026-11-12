@@ -1,0 +1,96 @@
+{
+	"id": "au-fort-de-ma-detresse",
+	"title": "Au fort de ma détresse",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "33"
+		},
+		{
+			"hymnal": "adf",
+			"number": "19"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au fort de ma détresse,",
+				"Dans mes profonds ennuis,",
+				"À toi seul je m'adresse",
+				"Et les jours et les nuits ;",
+				"Mon Dieu ! prête l'oreille",
+				"À ma triste clameur ;",
+				"Que ma voix te réveille :",
+				"Il en est temps, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si ta rigueur extrême",
+				"Nos péchés veut compter,",
+				"O Majesté suprême !",
+				"Qui pourra subsister ?",
+				"Mais ta juste colère",
+				"Fait place à ta bonté,",
+				"Afin qu'on te révère",
+				"Avec humilité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En Dieu je me console",
+				"Dans mes plus grands malheurs,",
+				"Et sa ferme parole",
+				"Apaise mes douleurs.",
+				"Mon cœur vers lui regarde,",
+				"Et plein d'un saint amour,",
+				"L'attend, comme la garde",
+				"Attend l'aube du jour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu'Israël sur Dieu fonde",
+				"En tout temps son appui !",
+				"En lui la grâce abonde,",
+				"Le secours vient de lui.",
+				"De toutes nos offenses",
+				"Il nous rachètera ;",
+				"De toutes nos souffrances",
+				"Il nous délivrera."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Strasbourg",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg033",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af019",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

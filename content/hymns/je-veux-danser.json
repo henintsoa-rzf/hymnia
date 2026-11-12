@@ -1,0 +1,85 @@
+{
+	"id": "je-veux-danser",
+	"title": "Je veux danser",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "323"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux danser de joie",
+				"Pour le Roi des rois,",
+				"Il donna sa vie pour moi,",
+				"Il vint me libérer,",
+				"Je peux marcher",
+				"Dans sa liberté.",
+				"Quand il toucha mon cœur,",
+				"J'ai senti son bonheur,",
+				"Et j'ai trouvé ma place,",
+				"Car tu m'as racheté,",
+				"Seigneur par ta grâce,",
+				"Et je veux toujours te louer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux danser de joie",
+				"Pour le Roi des rois,",
+				"Il donna sa vie pour moi,",
+				"Il vint me libérer,",
+				"Je peux marcher",
+				"Dans sa liberté.",
+				"Quand il toucha mon cœur,",
+				"J'ai senti son bonheur,",
+				"Et j'ai trouvé ma place,",
+				"Car tu m'as racheté,",
+				"Seigneur par ta grâce,",
+				"Et je veux toujours te louer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux danser, je veux chanter,",
+				"libéré du désespoir,",
+				"Je veux louer, je veux crier",
+				"au Seigneur de victoire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Venez danser, venez chanter,",
+				"libérés du désespoir,",
+				"Venez louer, venez crier",
+				"au Seigneur de victoire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dale Garratt",
+			"role": "music"
+		},
+		{
+			"name": "Dale Garratt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem323",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

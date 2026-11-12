@@ -1,0 +1,93 @@
+{
+	"id": "on-raconte-qu-aux-jours-bien-eloignes",
+	"title": "On raconte qu'aux jours bien éloignés.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "483"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"On raconte qu'aux jours",
+				"bien éloignés de nous,",
+				"Où Jésus vivait sur la terre,",
+				"On le voyait souvent prendre sur ses genoux",
+				"Les enfants, conduits par leur mère.",
+				"Sur leur tête où sa main se posait pour bénir,",
+				"Il penchait sa face attendrie ;",
+				"Bon Berger ! Il disait « Laissez, laissez venir",
+				"Les agneaux dans ma bergerie. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Comme aux jours d'autrefois",
+				"je ne puis l'approcher,",
+				"Mais voici ce qui me console :",
+				"Lui, du haut de son ciel,",
+				"peut encore me toucher,",
+				"Et me bénir par sa Parole.",
+				"Je puis chaque matin le prier à genoux ;",
+				"Et puis lui demander sa grâce ;",
+				"Et je sais qu'en un jour",
+				"qui n'est pas loin de nous,",
+				"Je pourrai le voir face à face."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je sais que vers Son trône",
+				"accourent chaque jour",
+				"Des enfants venus de la terre ;",
+				"Et, tandis que son cœur les presse avec amour,",
+				"Son regard console leur mère.",
+				"Je ne veux pas mourir, puisque même ici-bas",
+				"Je puis lui parler et l'entendre ;",
+				"Mais, si la mort venait, je ne tremblerais pas,",
+				"Car c'est Lui qui viendrait me prendre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais que d'enfants, Seigneur,",
+				"ne savent pas ton nom,",
+				"Ne savent pas ton sacrifice !",
+				"Pourtant tu ne veux pas,",
+				"ô Sauveur juste et bon,",
+				"Qu'aucun de ces enfants périsse.",
+				"Je veux vivre, ô Jésus, pour te les amener,",
+				"Pour leur dire que tu les aimes,",
+				"Et que c'est aux petits",
+				"qu'au ciel tu veux donner",
+				"Les plus beaux de tes diadèmes !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie grecque",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af483",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

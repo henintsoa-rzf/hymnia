@@ -1,0 +1,72 @@
+{
+	"id": "rendu-libre-the-day-you-set-me-free",
+	"title": "Rendu libre (The Day You Set Me Free)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "510"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, toi le seul chemin, Jésus mon Sauveur,",
+				"Partout où je vais, je ne crains rien,",
+				"car tu marches avec moi.",
+				"Je dis merci. Tu prends soin de moi,",
+				"Jésus, mon berger,",
+				"Tu tiens toutes tes promesses",
+				"depuis le jour où tu m’as libéré."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, toi ma raison de vivre,",
+				"Depuis que tu fais partie de ma vie,",
+				"Tout a changé, le monde me paraît différent ;",
+				"Oui, tu éclaires mes nuits sombres, ma solitude,",
+				"Tu me donnes la paix.",
+				"Oh, les temps changent, mais ce sera pour mon bien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Maître, toi la source de ma vie,",
+				"Ta lumière me guide dans la nuit.",
+				"J’ne suis pas seul,",
+				"plus rien ne pourra m’angoisser.",
+				"Oh, que ta volonté soit faite,",
+				"oui, je veux te servir d’un cœur vraiment pur.",
+				"Oh, les temps changent,",
+				"mais j’ai confiance en toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tore W. Aas",
+			"role": "lyrics"
+		},
+		{
+			"name": "Tore W. Aas",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-10",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

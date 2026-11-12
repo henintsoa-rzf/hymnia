@@ -1,0 +1,61 @@
+{
+	"id": "dieu-est-pour-nous-un-refuge",
+	"title": "Dieu est pour nous un refuge",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "197"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu est pour nous un refuge et un appui,",
+				"Un secours qui ne manque jamais ;",
+				"C'est pourquoi nous sommes sans crainte,",
+				"Nous sommes sans crainte,",
+				"Nous sommes sans crainte."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand la terre est bouleversée,",
+				"Que les flots se déchaînent,",
+				"Que les montagnes chancellent",
+				"Au cœur des mers !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, car Dieu est pour nous un refuge et un appui,",
+				"Un secours qui ne manque jamais ;",
+				"C'est pourquoi nous sommes sans crainte,",
+				"Nous sommes sans crainte,",
+				"Nous sommes sans crainte."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jolinette Maire",
+			"role": "music"
+		},
+		{
+			"name": "Jolinette Maire",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem197",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

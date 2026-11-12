@@ -1,0 +1,54 @@
+{
+	"id": "venez-le-celebrer",
+	"title": "Venez le célébrer",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "516"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez le célébrer,",
+				"Son grand amour, venez le chanter ;",
+				"Le Fils de Dieu est venu donner la vie.",
+				"Nous te fêtons, ô Roi,",
+				"Car tu nous fais partager ta joie,",
+				"Et nous offrons, en ton honneur,",
+				"Un chant d'amour, Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Venez le célébrer, célébrer,",
+				"Célébrer, chanter,",
+				"Célébrer, chanter notre Roi.",
+				"Venez le célébrer, célébrer,",
+				"Célébrer, chanter,",
+				"Célébrer, chanter notre Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Patricia Morgan",
+			"role": "music"
+		},
+		{
+			"name": "Patricia Morgan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem516",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

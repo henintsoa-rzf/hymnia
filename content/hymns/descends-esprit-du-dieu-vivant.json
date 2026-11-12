@@ -1,0 +1,99 @@
+{
+	"id": "descends-esprit-du-dieu-vivant",
+	"title": "Descends, Esprit du Dieu vivant.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "139"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Descends, Esprit du Dieu vivant,",
+				"Sur notre pauvre race",
+				"Qui s'est perdue, en poursuivant",
+				"L'illusion qui passe !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Donne-nous des langues de feu,",
+				"La voix surnaturelle",
+				"Qui ramène les cœurs à Dieu",
+				"Par la bonne Nouvelle !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De nos ténèbres, fais le jour,",
+				"Du chaos, l'harmonie ;",
+				"Chasse la haine par l'amour,",
+				"Et la mort par la vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Prépare l'homme, Esprit divin,",
+				"À rencontrer son Maître ;",
+				"Sois comme l'air pur du matin,",
+				"Par qui tout doit renaître."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Au-dessus des peuples divers,",
+				"Que la croix resplendisse ;",
+				"Au Nom du Christ, dans l'univers,",
+				"Que tout genou fléchisse !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Dès l'éternité, Dieu voulut",
+				"Donner son Fils au monde.",
+				"Toute chair verra son Salut :",
+				"Par toi, qu'elle y réponde !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Ainsi sera glorifié",
+				"Par toi, l'amour du Père,",
+				"Et le sang du Crucifié",
+				"Aura conquis la terre !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Henry Gladstone",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af139",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

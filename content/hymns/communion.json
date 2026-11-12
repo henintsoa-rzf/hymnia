@@ -1,0 +1,49 @@
+{
+	"id": "communion",
+	"title": "Communion",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "964"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ceci est mon corps brisé pour vos péchés ;",
+				"Mangez-en tous en mémoire de mon sacrifice.",
+				"Ceci est mon sang, le sang de mon alliance ;",
+				"Il purifie et sanctifie mon Église."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque fois que vous mangez ce pain,",
+				"Chaque fois que vous buvez ce vin,",
+				"Vous annoncez la mort du Seigneur",
+				"Jusqu'à son retour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem964",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

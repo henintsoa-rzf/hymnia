@@ -1,0 +1,85 @@
+{
+	"id": "connais-tu-cette-cite",
+	"title": "Connais-tu cette cité ?",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "436"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Connais-tu cette cité,",
+				"La cité céleste ?",
+				"Dans ses murs tout est clarté,",
+				"plus d'ombre funeste.",
+				"Pèlerins et voyageurs,",
+				"Ici-bas dans les douleurs,",
+				"Toujours ce trésor nous reste,",
+				"La cité céleste."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Connais-tu cette cité,",
+				"La cité bénie ?",
+				"Où tout est félicité,",
+				"Sublime harmonie.",
+				"L'Agneau seul est son soleil",
+				"Et son éclat sans pareil,",
+				"Illumine et vivifie",
+				"La cité bénie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"D'or, de perles, et d'azur",
+				"Est notre patrie !",
+				"Connais-tu le fleuve pur",
+				"L'arbre de la vie ?",
+				"Plus de fardeaux à jamais,",
+				"Pour les élus tout est paix !",
+				"De Dieu la cité chérie,",
+				"C'est notre patrie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Salem, repos si doux,",
+				"Mon cœur te désire !",
+				"Après son chef, son époux,",
+				"L'Église soupire !",
+				"Être toujours devant toi,",
+				"Mon Seigneur ! mon divin Roi,",
+				"Pour te chanter et te dire :",
+				"Mon cœur te désire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hart Pease Danks",
+			"role": "music"
+		},
+		{
+			"name": "Georges Guillod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af436",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

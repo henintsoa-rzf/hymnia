@@ -1,0 +1,89 @@
+{
+	"id": "il-me-reste-encore-la-croix",
+	"title": "Il me reste encore la croix",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "993"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand l'obscurité vient assiéger mon cœur",
+				"Et, complice, je m'enfonce au plus bas,",
+				"Quand mes rêves s'effondrent et les questions demeurent,",
+				"Il me reste encore la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le fardeau de ma misère,",
+				"Jésus l'a porté pour moi !",
+				"Jamais je ne désespère,",
+				"Il me reste encore la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand la mort ou la souffrance me font trembler,",
+				"Quand le feu vient éprouver ma foi,",
+				"Par la grâce de Dieu je peux tout surmonter,",
+				"Car il me reste encore la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le fardeau de ma misère,",
+				"Jésus l'a porté pour moi !",
+				"Jamais je ne désespère,",
+				"Car il me reste encore la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si la pauvreté, la guerre ou les conflits",
+				"Me font plonger dans le désarroi,",
+				"Dans l'adversité j'ai toujours un abri ;",
+				"Ma victoire est dans la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le fardeau de ma misère,",
+				"Jésus l'a porté pour moi !",
+				"Jamais je ne désespère,",
+				"Ma victoire est dans la croix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem993",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

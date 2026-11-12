@@ -1,0 +1,58 @@
+{
+	"id": "le-seigneur-est-vivant",
+	"title": "Le Seigneur est vivant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "235"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur est vivant !",
+				"Béni soit mon rocher !",
+				"À mon libérateur soit la gloire !",
+				"Le Seigneur est vivant !",
+				"Béni soit mon rocher !",
+				"À mon libérateur soit la gloire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je te célébrerai parmi les nations",
+				"Et je chanterai la gloire de ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur est vivant !",
+				"Béni soit mon rocher !",
+				"À mon libérateur soit la gloire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jerry Cook",
+			"role": "music"
+		},
+		{
+			"name": "Jerry Cook",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem235",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

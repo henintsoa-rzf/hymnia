@@ -1,0 +1,88 @@
+{
+	"id": "agneau-de-dieu-messager-de-la-grace",
+	"title": "Agneau de Dieu, Messager de la grâce",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "236"
+		},
+		{
+			"hymnal": "adf",
+			"number": "261"
+		},
+		{
+			"hymnal": "cd",
+			"number": "143"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Agneau de Dieu, Messager de la grâce,",
+				"Je veux entendre ta voix,",
+				"Le langage de la croix :",
+				"Pour toi je fus livré,",
+				"Méprisé, maltraité,",
+				"Battu, meurtri, blessé,",
+				"Pour ton iniquité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Agneau de Dieu, Messager de la grâce,",
+				"J'ai péché, je viens à toi,",
+				"Je t'invoque, réponds-moi !",
+				"Pour toi je fus brisé,",
+				"D'épines couronné,",
+				"De tous abandonné,",
+				"Frappé pour ton péché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Agneau de Dieu, Messager de la grâce,",
+				"Je me confie et je crois,",
+				"Ton pardon, je le reçois !",
+				"Sur l'enfant racheté",
+				"Qui fait ma volonté,",
+				"Je mets ma sainteté,",
+				"Ma divine beauté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johannes Brahms",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg236",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af261",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/978",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "chaque-fois-que-je-te-loue",
+	"title": "Chaque fois que je te loue",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "946"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque fois que je te loue,",
+				"Que je chante ou que je joue,",
+				"C'est le plus beau rendez-vous",
+				"Où je te redonne tout.",
+				"Chaque fois que je t'adore",
+				"Je t'apporte plus encore,",
+				"Que mon âme et que mon corps ;",
+				"J'abandonne tous mes trésors."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je déclare que tu es grand.",
+				"Je déclare que tu es bon.",
+				"Je proclame au monde entier",
+				"Ton amour parfait."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque fois que je te loue,",
+				"Que je chante ou que je joue,",
+				"C'est le plus beau rendez-vous",
+				"Où je te redonne tout.",
+				"Chaque fois que je t'adore",
+				"Je t'apporte plus encore,",
+				"Que mon âme et que mon corps ;",
+				"J'abandonne tous mes trésors."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je dis que tu es le même",
+				"Je dis que tu es fidèle.",
+				"Je proclame devant les hommes :",
+				"« Tu es le Sauveur ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem946",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

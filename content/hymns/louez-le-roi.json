@@ -1,0 +1,84 @@
+{
+	"id": "louez-le-roi",
+	"title": "Louez le Roi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "636"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez le Roi, sa mort nous a libérés,",
+				"Il a vaincu la mort et son pouvoir.",
+				"Louez le Roi,",
+				"Jésus est vivant pour toujours,",
+				"Il règne pour l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur terre, quelle obscurité;",
+				"Satan semblait avoir triomphé.",
+				"Un cri jaillit: « Il est vivant ! ».",
+				"La mort n'a pu le retenir,",
+				"Jésus est vainqueur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez le Roi, sa mort nous a libérés,",
+				"Il a vaincu la mort et son pouvoir.",
+				"Louez le Roi,",
+				"Jésus est vivant pour toujours,",
+				"Il règne pour l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tous donneront gloire à Dieu,",
+				"Il est le Christ, il est le Seigneur.",
+				"Et ils diront: « Il est vivant ! ».",
+				"La mort n'a pu le retenir,",
+				"Jésus est vainqueur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez le Roi, sa mort nous a libérés,",
+				"Il a vaincu la mort et son pouvoir.",
+				"Louez le Roi,",
+				"Jésus est vivant pour toujours,",
+				"Il règne pour l'éternité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Billy Funk",
+			"role": "music"
+		},
+		{
+			"name": "Billy Funk",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem636",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

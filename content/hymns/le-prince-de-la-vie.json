@@ -1,0 +1,124 @@
+{
+	"id": "le-prince-de-la-vie",
+	"title": "Le Prince de la vie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "257"
+		},
+		{
+			"hymnal": "cd",
+			"number": "256"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le prince de la vie",
+				"Guérit seul nos infirmités ;",
+				"Son sang nous purifie,",
+				"Son sang nous purifie",
+				"De toutes nos iniquités."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel bonheur pour le pêcheur !",
+				"Sans argent et sans aucun don,",
+				"Jésus, Jésus",
+				"Accorde un plein pardon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Affligé, misérable,",
+				"Je fis connaître mon tourment",
+				"À l'Ami secourable,",
+				"À l'Ami secourable",
+				"Qui me sauva du jugement."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel bonheur pour le pêcheur !",
+				"Sans argent et sans aucun don,",
+				"Jésus, Jésus",
+				"Accorde un plein pardon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À quiconque s'approche,",
+				"Au plus indigne des pécheurs,",
+				"Sans faire aucun reproche,",
+				"Sans faire aucun reproche,",
+				"Il offre le repos du cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel bonheur pour le pêcheur !",
+				"Sans argent et sans aucun don,",
+				"Jésus, Jésus",
+				"Accorde un plein pardon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens donc sans défiance !",
+				"Tu goûteras sa douce paix",
+				"Et la ferme assurance,",
+				"Et la ferme assurance",
+				"D'un bonheur parfait pour jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel bonheur pour le pêcheur !",
+				"Sans argent et sans aucun don,",
+				"Jésus, Jésus",
+				"Accorde un plein pardon."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "F. Grunholzer",
+			"role": "music"
+		},
+		{
+			"name": "J.-R. Mazeirac",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af257",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1081",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

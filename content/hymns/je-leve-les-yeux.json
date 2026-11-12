@@ -1,0 +1,89 @@
+{
+	"id": "je-leve-les-yeux",
+	"title": "Je lève les yeux",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "32"
+		},
+		{
+			"hymnal": "adf",
+			"number": "18"
+		},
+		{
+			"hymnal": "cd",
+			"number": "209"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je lève les yeux vers les monts que j'aime ;",
+				"D'où peut me venir ici le secours ?",
+				"Le secours me vient de l'Éternel même,",
+				"Du Dieu qui créa les nuits et les jours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pourra-t-il souffrir que ton pied chancelle ?",
+				"Ton Gardien peut-il sommeiller jamais ?",
+				"Non, il ne dort pas, le Gardien fidèle,",
+				"Celui qui maintient Israël en paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour toi l'Éternel est une retraite ;",
+				"Il te sert à droite et d'ombre et d'appui :",
+				"Le soleil ne peut frapper sur ta tête,",
+				"Ni la lune à l'heure où le jour a fui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il te gardera de tout mal possible ;",
+				"Il garde ton âme, il garde tes jours ;",
+				"Il te gardera ! Rentre ou sors paisible ;",
+				"L'Éternel sur toi veillera toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claude Goudimel",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Louis Decoppet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg032",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af018",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1043",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,141 @@
+{
+	"id": "je-t-adore-seigneur",
+	"title": "Je t'adore Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "914"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je t'adore, Seigneur,",
+				"Ton amour est si puissant.",
+				"Tu t'es livré sur la croix à Golgotha.",
+				"Je t'adore, Seigneur,",
+				"Ton amour est si puissant.",
+				"Tu as porté mon péché, mes infirmités."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par tes blessures je suis guéri.",
+				"Par tes blessures je suis guéri."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Devant ta majesté,",
+				"L'enfer, la mort tremblent,",
+				"Le joug est brisé,",
+				"Ton peuple est délivré",
+				"Par Jésus, Fils de Dieu.",
+				"À toi la magnificence.",
+				"Je viens me prosterner,",
+				"Chanter ta bienveillance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Devant ta majesté,",
+				"L'enfer, la mort tremblent,",
+				"Le joug est brisé,",
+				"Ton peuple est délivré",
+				"Par Jésus, Fils de Dieu.",
+				"À toi la magnificence.",
+				"Je viens me prosterner,",
+				"Chanter ta bienveillance, Amen."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chanter ta bienveillance : Amen.",
+				"Chanter ta bienveillance : Amen."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Père, nous t'adorons,",
+				"Ton amour est si puissant.",
+				"Tu t'es livré sur la croix à Golgotha.",
+				"Père, nous t'adorons,",
+				"Ton amour est si puissant.",
+				"Tu as porté nos péchés, nos infirmités."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par tes blessures je suis guéri.",
+				"Par tes blessures je suis guéri."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Devant ta majesté,",
+				"L'enfer, la mort tremblent,",
+				"Le joug est brisé,",
+				"Ton peuple est délivré",
+				"Par Jésus, Fils de Dieu.",
+				"À toi la magnificence.",
+				"Je viens me prosterner,",
+				"Chanter ta bienveillance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Devant ta majesté,",
+				"L'enfer, la mort tremblent,",
+				"Le joug est brisé,",
+				"Ton peuple est délivré",
+				"Par Jésus, Fils de Dieu.",
+				"À toi la magnificence.",
+				"Je viens me prosterner,",
+				"Chanter ta bienveillance, Amen."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chanter ta bienveillance : Amen.",
+				"Chanter ta bienveillance : Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lilo Keller",
+			"role": "music"
+		},
+		{
+			"name": "Lilo Keller",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem914",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

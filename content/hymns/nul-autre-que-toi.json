@@ -1,0 +1,127 @@
+{
+	"id": "nul-autre-que-toi",
+	"title": "Nul autre que toi",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "20"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui peut plaider en ma faveur",
+				"Auprès du Dieu très saint,",
+				"Se tenir devant sa splendeur,",
+				"Intercéder sans fin ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui peut offrir pour mon péché",
+				"L’ultime sacrifice,",
+				"Me laver pour l’éternité",
+				"Par son parfait supplice ?",
+				"Nul autre que Christ."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Jésus, prêtre parfait,",
+				"Pour moi s’est livré en sacrifice.",
+				"Purifié à jamais,",
+				"Je peux m’approcher par sa justice."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, seul Sauveur,",
+				"Ferme ancre de mon cœur !",
+				"Je me confie en toi,",
+				"Je me confie en toi.",
+				"Jésus, seul Sauveur,",
+				"Toujours mon défenseur !",
+				"Je me confie en toi,",
+				"En nul autre que toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quel autre a traversé les cieux",
+				"Pour tracer un chemin,",
+				"Et me ramène auprès de Dieu,",
+				"Ouvre grand les lieux saints ?",
+				"Nul autre que toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Mon appui fidèle",
+				"Quand mon pied chancelle.",
+				"Il plaide sans cesse,",
+				"Jamais ne me laisse !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/nulautrequetoi",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

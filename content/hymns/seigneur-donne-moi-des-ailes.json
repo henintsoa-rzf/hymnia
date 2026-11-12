@@ -1,0 +1,120 @@
+{
+	"id": "seigneur-donne-moi-des-ailes",
+	"title": "Seigneur, donne-moi des ailes.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "439"
+		},
+		{
+			"hymnal": "cd",
+			"number": "355"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, donne-moi des ailes",
+				"Pour m'élever par la foi",
+				"Jusqu'aux rives éternelles,",
+				"Où je vivrai près de Toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est là-haut qu'est ma patrie.",
+				"Là-haut, là-haut, je trouve mon Sauveur !",
+				"Ensemble aux sources de la vie",
+				"Abreuvons tous notre cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Loin du monde et de ses charmes,",
+				"Du péché, de la douleur,",
+				"Loin des pleurs et des alarmes,",
+				"Je veux m'élever, Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est là-haut qu'est ma patrie.",
+				"Là-haut, là-haut, je trouve mon Sauveur !",
+				"Ensemble aux sources de la vie",
+				"Abreuvons tous notre cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Fais-moi des ailes de flamme",
+				"Pour porter en ces bas lieux",
+				"Ton salut aux pauvres âmes",
+				"Qui périssent loin des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est là-haut qu'est ma patrie.",
+				"Là-haut, là-haut, je trouve mon Sauveur !",
+				"Ensemble aux sources de la vie",
+				"Abreuvons tous notre cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais là-haut j'ai ma patrie.",
+				"Là-haut, là-haut, je trouve mon Sauveur !",
+				"Ensemble aux sources de la vie",
+				"Abreuvons tous notre cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est là-haut qu'est ma patrie.",
+				"Là-haut, là-haut, je trouve mon Sauveur !",
+				"Ensemble aux sources de la vie",
+				"Abreuvons tous notre cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robert Lowry",
+			"role": "music"
+		},
+		{
+			"name": "Cantique imité",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af439",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1151",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

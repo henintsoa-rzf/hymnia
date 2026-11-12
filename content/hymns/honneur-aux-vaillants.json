@@ -1,0 +1,109 @@
+{
+	"id": "honneur-aux-vaillants",
+	"title": "Honneur aux vaillants.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "356"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Honneur aux vaillants, aux braves,",
+				"Aux soldats de Dieu",
+				"Qui, même chargés d'entraves,",
+				"Luttent en tout lieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ leur donne",
+				"Un cœur libre et fort,",
+				"Et leur promet la couronne",
+				"Quand viendra la mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qu'on les raille ou les immole,",
+				"Fermes jusqu'au bout,",
+				"On les voit devant l'idole,",
+				"Seuls rester debout !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ leur donne",
+				"Un cœur libre et fort,",
+				"Et leur promet la couronne",
+				"Quand viendra la mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Joignant l'amour au courage,",
+				"Ces nobles lutteurs",
+				"Du monde qui les outrage",
+				"Sont les bienfaiteurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ leur donne",
+				"Un cœur libre et fort,",
+				"Et leur promet la couronne",
+				"Quand viendra la mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ils s'en vont… et l'on oublie",
+				"Leurs noms, leurs combats,",
+				"Mais leur sublime folie",
+				"Ne périra pas !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est toi qui leur donnes",
+				"Un cœur libre et fort,",
+				"Et leur promets des couronnes",
+				"Quand viendra la mort !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af356",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

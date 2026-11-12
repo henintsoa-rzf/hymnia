@@ -1,0 +1,73 @@
+{
+	"id": "oui-je-t-aime",
+	"title": "Oui je t'aime",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "928"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quels mots tracerait mon crayon",
+				"Si je n'avais pas de passion ?",
+				"Et que deviendrait cette chanson",
+				"Si ce n'était de l'adoration ?",
+				"Qu'y a-t-il de plus profond",
+				"Pour exprimer à ma façon",
+				"Ton amour immense qui me confond ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il ne me reste que l'adoration !",
+				"Oui, je t'aime, oui, je t'aime,",
+				"Mon Jésus, je t'aime."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que pourrais-je encore ajouter",
+				"À tous ceux qui l'ont déjà chantée ?",
+				"Les témoins de ta fidélité",
+				"Nous ont tant parlé de ta bonté.",
+				"Comment décrire tes actions,",
+				"Toute la puissance du pardon",
+				"Face à cet amour sans condition ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il ne me reste que l'adoration !",
+				"Oui, je t'aime, oui, je t'aime,",
+				"Mon Jésus, je t'aime."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem928",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

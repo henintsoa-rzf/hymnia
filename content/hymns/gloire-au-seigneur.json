@@ -1,0 +1,86 @@
+{
+	"id": "gloire-au-seigneur",
+	"title": "Gloire au Seigneur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "511"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Gloire au Seigneur, dont l'amour se révèle",
+				"À qui le cherche avec sincérité !",
+				"Gloire aux témoins de la bonne nouvelle.",
+				"Nous devons tout à leur fidélité !",
+				"Par les tourments qu'ils souffrirent pour elle,",
+				"Ils l'ont transmise à leur postérité ;",
+				"Par les tourments qu'ils souffrirent pour elle,",
+				"Ils l'ont transmise à leur postérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De leurs bûchers se leva l'aube immense,",
+				"L'aube d'un sûr et prochain avenir,",
+				"Ere de paix, d'amour et de clémence,",
+				"Où tous les fils du Père vont s'unir.",
+				"Oui, c'est par vous, ô martyrs, que commence",
+				"Le jour de Dieu qui ne doit pas finir.",
+				"Oui, c'est par vous, ô martyrs, que commence",
+				"Le jour de Dieu qui ne doit pas finir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pasteurs, errant par les monts et la plaine,",
+				"Prêchant la nuit et vous cachant le jour,",
+				"Savants docteurs, pauvres cardeurs de laine,",
+				"Nobles forçats, captives de la Tour,",
+				"De cette foi dont votre âme était pleine,",
+				"Que vos enfants soient remplis à leur tour.",
+				"De cette foi, dont votre âme était pleine,",
+				"Que vos enfants soient remplis à leur tour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que nous aimions,",
+				"comme vous, le saint Livre,",
+				"Où le Sauveur fait entendre sa voix ;",
+				"Que nous voulions le servir et le suivre,",
+				"Lui qui, pour nous, mourut sur une croix,",
+				"Et qui, vivant, bientôt fera revivre",
+				"Ceux qui sont morts pour défendre ses lois.",
+				"Et qui, vivant, bientôt fera revivre",
+				"Ceux qui sont morts pour défendre ses lois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "D. Courtois",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af511",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

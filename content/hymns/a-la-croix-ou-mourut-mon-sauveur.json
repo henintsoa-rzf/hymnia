@@ -1,0 +1,85 @@
+{
+	"id": "a-la-croix-ou-mourut-mon-sauveur",
+	"title": "À la croix, où mourut mon sauveur",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "151"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À la croix où mourut mon Sauveur,",
+				"Je suis venu, brisé de douleur ;",
+				"Là son sang purifia mon coeur.",
+				"À son nom la gloire !",
+				"À son nom la gloire !",
+				"À son nom la gloire !",
+				"Là son sang purifia mon coeur.",
+				"À son nom la gloire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quelle merveille ! Il vint me sauver ;",
+				"Quand de sa croix je me fus chargé,",
+				"En moi Jésus vint pour demeurer.",
+				"À son nom la gloire !",
+				"À son nom la gloire !",
+				"À son nom la gloire !",
+				"En moi Jésus vint pour demeurer.",
+				"À son nom la gloire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ô fontaine effaçant le péché,",
+				"Donnant la vie au coeur desséché !",
+				"Là, Jésus me retient attaché.",
+				"À son nom la gloire !",
+				"À son nom la gloire !",
+				"À son nom la gloire !",
+				"Là, Jésus me retient attaché.",
+				"À son nom la gloire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pauvre âme, viens aux pieds du Sauveur,",
+				"À la source ouverte à tout pécheur ;",
+				"Viens t’y plonger, trouver le bonheur.",
+				"À son nom la gloire !",
+				"À son nom la gloire !",
+				"À son nom la gloire !",
+				"Viens t’y plonger, trouver le bonheur.",
+				"À son nom la gloire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J.H. Stockton",
+			"role": "unspecified"
+		},
+		{
+			"name": "Maj. Cox",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/985",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

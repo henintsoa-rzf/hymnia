@@ -1,0 +1,99 @@
+{
+	"id": "dieu-dans-tout-mon-etre",
+	"title": "Dieu dans tout mon être",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1076"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu dans tout mon être,",
+				"Dans ce que je suis,",
+				"Dieu dans mon éveil,",
+				"Dieu dans mon sommeil."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu dans mon repos,",
+				"Dieu dans mon travail,",
+				"Dieu dans mes pensées,",
+				"Dieu dans mes paroles,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, sois tout en moi,",
+				"Dieu, sois tout en moi,",
+				"Dieu, sois tout en moi,",
+				"Oui, sois tout en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu dans mes espoirs,",
+				"Présent dans mes rêves,",
+				"Dieu dans mes regards,",
+				"Dieu dans mes attentes."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu dans mon bonheur,",
+				"Présent dans mes pleurs,",
+				"Dieu dans mes souffrances,",
+				"Dans ma guérison,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, sois tout en moi,",
+				"Dieu, sois tout en moi,",
+				"Dieu, sois tout en moi,",
+				"Oui, sois tout en moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Dieu, sois tout en moi,",
+				"Dieu, sois tout en moi,",
+				"Dieu, sois tout en moi,",
+				"Oui, sois tout en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tim Hughes",
+			"role": "music"
+		},
+		{
+			"name": "Tim Hughes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1076",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

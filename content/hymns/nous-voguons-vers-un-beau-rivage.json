@@ -1,0 +1,128 @@
+{
+	"id": "nous-voguons-vers-un-beau-rivage",
+	"title": "Nous voguons vers un beau rivage.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "219"
+		},
+		{
+			"hymnal": "cd",
+			"number": "359"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous voguons vers un beau rivage",
+				"Que Jésus nous prépara ;",
+				"Nous ne craignons aucun naufrage,",
+				"Sa grâce nous conduira."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens avec nous, la voile est prête ;",
+				"Frère, viens ; que rien ne t'arrête.",
+				"Plus d'ouragan, de tempête,",
+				"Au séjour du Dieu d'amour,",
+				"Plus d'ouragan, de tempête,",
+				"Au séjour du Dieu d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour notre céleste patrie",
+				"Voici l'heure du départ ;",
+				"À venir Jésus te convie ;",
+				"Demain il serait trop tard."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens avec nous, la voile est prête ;",
+				"Frère, viens ; que rien ne t'arrête.",
+				"Plus d'ouragan, de tempête,",
+				"Au séjour du Dieu d'amour,",
+				"Plus d'ouragan, de tempête,",
+				"Au séjour du Dieu d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur cette rive hospitalière",
+				"Dieu réunit ses enfants ;",
+				"Après les luttes de la terre,",
+				"Nous irons grossir leurs rangs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens avec nous, la voile est prête ;",
+				"Frère, viens ; que rien ne t'arrête.",
+				"Plus d'ouragan, de tempête,",
+				"Au séjour du Dieu d'amour,",
+				"Plus d'ouragan, de tempête,",
+				"Au séjour du Dieu d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Devant nous, de la cité sainte",
+				"Bientôt va s'ouvrir le port ;",
+				"De nos cœurs bannissant la crainte,",
+				"Chantons dans un saint transport :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens avec nous, la voile est prête ;",
+				"Frère, viens ; que rien ne t'arrête.",
+				"Plus d'ouragan, de tempête,",
+				"Au séjour du Dieu d'amour,",
+				"Plus d'ouragan, de tempête,",
+				"Au séjour du Dieu d'amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Willliam Batchelder Bradbury",
+			"role": "music"
+		},
+		{
+			"name": "Vesson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af219",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1155",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

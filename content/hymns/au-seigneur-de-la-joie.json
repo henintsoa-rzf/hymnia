@@ -1,0 +1,116 @@
+{
+	"id": "au-seigneur-de-la-joie",
+	"title": "Au Seigneur de la joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "234"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que sur la terre et dans les cieux chantent nos voix ;",
+				"Que tous les arbres des forêts dansent de joie ;",
+				"Dans la campagne",
+				"tous les fruits jubilent en toi !",
+				"Et les montagnes crient de joie",
+				"Et l'océan bat des mains ;",
+				"car tu es le Seigneur notre Dieu ! Chantez !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que les nations te rendent grâce,",
+				"ô Dieu Très-Haut !",
+				"Et tous les peuples qu'ils te chantent",
+				"un chant nouveau !",
+				"Toute la terre te célèbre en son repos !",
+				"Et tous les justes qu'ils t'adorent",
+				"Et te bénissent à jamais !",
+				"car tu es le Seigneur notre Dieu ! Chantez !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je te bénis et je t'exalte dans mon cœur,",
+				"Ivre de joie je marcherai vers toi Seigneur.",
+				"Que ton ami proclame et chante son bonheur !",
+				"Tu combleras ton serviteur",
+				"Au grand festin de l'Agneau !",
+				"car tu es le Seigneur notre Dieu ! Chantez !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À toi la gloire ô notre Père dans les cieux !",
+				"Toute louange et toute grâce au Fils de Dieu !",
+				"Paix dans l'esprit et joie au cœur",
+				"des bienheureux !",
+				"Cris d'allégresse et chants de fête",
+				"jour et nuit dans le ciel !",
+				"car tu es le Seigneur notre Dieu ! Chantez !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alain Dumont",
+			"role": "music"
+		},
+		{
+			"name": "Paul Arsenault",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem234",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

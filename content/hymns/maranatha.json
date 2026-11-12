@@ -1,0 +1,71 @@
+{
+	"id": "maranatha",
+	"title": "Maranatha !",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "247"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je lève les yeux vers les montagnes…",
+				"D'où me viendra le secours ?",
+				"Le secours me vient de Dieu,",
+				"Qui a fait la terre et les cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Maranatha ! Viens, Seigneur, viens !",
+				"Seigneur Jésus",
+				"nous tendons les mains vers toi.",
+				"Maranatha ! Viens, Seigneur, viens !",
+				"Et là où tu es, oh prends nous avec toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je suis dans la joie quand on me dit:",
+				"Allons à la maison du Seigneur !",
+				"Car nos peines sont finies,",
+				"Au grand jour de l'Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Maranatha ! Viens, Seigneur, viens !",
+				"Seigneur Jésus",
+				"nous tendons les mains vers toi.",
+				"Maranatha ! Viens, Seigneur, viens !",
+				"Et là où tu es, oh prends nous avec toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christian Gonzales",
+			"role": "music"
+		},
+		{
+			"name": "Christian Gonzales",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem247",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

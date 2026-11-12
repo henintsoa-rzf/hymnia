@@ -1,0 +1,82 @@
+{
+	"id": "alpha-et-omega",
+	"title": "Alpha et Omega",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "377"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Réjouis-toi ! Voici la ville sainte.",
+				"Réjouis-toi ! Nouvelle Jérusalem.",
+				"Réjouis-toi ! Prépare-toi,",
+				"Il vient pour son épouse.",
+				"Il est l'Alpha et l'Omega,",
+				"Le commencement, la fin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Réjouis-toi ! Voici la ville sainte.",
+				"Réjouis-toi ! Nouvelle Jérusalem.",
+				"Réjouis-toi ! Prépare-toi,",
+				"Il vient pour son épouse.",
+				"Il est l'Alpha et l'Omega,",
+				"Il est vivant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Réjouis-toi ! Voici la ville sainte.",
+				"Réjouis-toi ! Nouvelle Jérusalem.",
+				"Réjouis-toi ! Prépare-toi,",
+				"Il vient pour son épouse.",
+				"Il est l'Alpha et l'Omega,",
+				"Le commencement, la fin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Réjouis-toi ! Voici la ville sainte.",
+				"Réjouis-toi ! Nouvelle Jérusalem.",
+				"Réjouis-toi ! Prépare-toi,",
+				"Il vient pour son épouse.",
+				"Il est l'Alpha et l'Omega,",
+				"Il est vivant.",
+				"Réjouis-toi ! Prépare-toi,",
+				"Il vient pour son épouse.",
+				"Il est l'Alpha et l'Omega,",
+				"Il est vivant.",
+				"Il est vivant, Il est vivant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adrian Snell",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Snell",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem377",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

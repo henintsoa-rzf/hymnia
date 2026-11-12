@@ -1,0 +1,129 @@
+{
+	"id": "vers-toi-monte-notre-hommage",
+	"title": "Vers toi monte notre hommage",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "74"
+		},
+		{
+			"hymnal": "adf",
+			"number": "53"
+		},
+		{
+			"hymnal": "cd",
+			"number": "68"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vers Toi monte notre hommage,",
+				"Fils de Dieu, puissant Sauveur,",
+				"Qui demeures d'âge en âge",
+				"Le refuge du pécheur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Loué soit ton amour, loués soient à jamais",
+				"Ton nom, Jésus, ta gloire et tes bienfaits ;",
+				"Loué soit ton amour, loués soient à jamais",
+				"Ton Nom, ta gloire et tes bienfaits !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De Toi vient la délivrance :",
+				"Tu payas notre rançon.",
+				"C'est en Toi qu'est l'espérance,",
+				"La paix et la guérison."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Loué soit ton amour, loués soient à jamais",
+				"Ton nom, Jésus, ta gloire et tes bienfaits ;",
+				"Loué soit ton amour, loués soient à jamais",
+				"Ton Nom, ta gloire et tes bienfaits !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par ta divine Parole",
+				"Chaque jour tu nous instruis.",
+				"Et par l'Esprit qui console,",
+				"Sûrement tu nous conduis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Loué soit ton amour, loués soient à jamais",
+				"Ton nom, Jésus, ta gloire et tes bienfaits ;",
+				"Loué soit ton amour, loués soient à jamais",
+				"Ton Nom, ta gloire et tes bienfaits !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bientôt, glorieuse attente !",
+				"Tu combleras tous nos vœux :",
+				"Sur la nue étincelante,",
+				"Tu viendras à nous des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Loué soit ton amour, loués soient à jamais",
+				"Ton nom, Jésus, ta gloire et tes bienfaits ;",
+				"Loué soit ton amour, loués soient à jamais",
+				"Ton Nom, ta gloire et tes bienfaits !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie anglaise",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg074",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af053",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/874",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

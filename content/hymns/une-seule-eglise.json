@@ -1,0 +1,161 @@
+{
+	"id": "une-seule-eglise",
+	"title": "Une seule Église",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1018"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "514"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Issus du même Créateur,",
+				"Le même souffle nous a donné la vie.",
+				"Tous, aussi perdus, tous, aussi pécheurs,",
+				"Nous avons eu la chance qu'il nous attire à lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il nous a trouvés si précieux",
+				"Qu'il a choisi de quitter les cieux.",
+				"Malgré sa colère, notre rébellion,",
+				"Il est venu payer la rançon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous n'avons qu'un seul Père,",
+				"Nous n'avons qu'un Sauveur",
+				"Qui, pour nous, s'est offert",
+				"Quand nous étions indignes et pécheurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous n'avons qu'un seul Roi,",
+				"Nous n'avons qu'une seule foi.",
+				"Au pied de la croix se brise ce qui nous divise,",
+				"Nous sommes une seule Église."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un nouveau jour se lève",
+				"Pour ceux qui se revêtent de l'Esprit.",
+				"Et nous n'aurons qu'un seul rêve :",
+				"Que cette nation connaisse",
+				"le nom de Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Louons Dieu pour nos différences,",
+				"Abandonnons les médisances.",
+				"Que l'œuvre du diable soit mise en lumière,",
+				"Que le Père fasse tomber les barrières."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous n'avons qu'un seul Père,",
+				"Nous n'avons qu'un Sauveur",
+				"Qui, pour nous, s'est offert",
+				"Quand nous étions indignes et pécheurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous n'avons qu'un seul Roi,",
+				"Nous n'avons qu'une seule foi.",
+				"Au pied de la croix se brise ce qui nous divise,",
+				"Nous sommes une seule Église."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les élus de tous les temps,",
+				"Avec les anges et nous ici présents",
+				"Passerons l'éternité ensemble, à l'adorer.",
+				"Alors dès maintenant, vivons dans l'unité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"On verra que nous sommes ses disciples",
+				"À l'amour qui nous unira.",
+				"Nous n'aurons qu'un seul but : élever Jésus",
+				"Et que son salut soit répandu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous n'avons qu'un seul Père,",
+				"Nous n'avons qu'un Sauveur",
+				"Qui, pour nous, s'est offert",
+				"Quand nous étions indignes et pécheurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous n'avons qu'un seul Roi,",
+				"Nous n'avons qu'une seule foi.",
+				"Au pied de la croix se brise ce qui nous divise,",
+				"Nous sommes une seule Église."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Prigent",
+			"role": "music"
+		},
+		{
+			"name": "David Prigent",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1018",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-14",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

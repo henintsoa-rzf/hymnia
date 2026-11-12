@@ -1,0 +1,71 @@
+{
+	"id": "ta-gloire-o-notre-dieu",
+	"title": "Ta gloire, ô notre Dieu.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "149"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta gloire, ô notre Dieu,",
+				"brille dans ta Parole ;",
+				"Elle est, pour tes enfants,",
+				"un trésor précieux ;",
+				"C'est la voix d'un ami",
+				"qui soutient et console ;",
+				"C'est la lettre d'amour",
+				"écrite dans les cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En la lisant, notre âme",
+				"est toujours rafraîchie,",
+				"Notre cœur déchargé",
+				"des plus rudes fardeaux :",
+				"C'est la source abondante",
+				"où se puise la vie,",
+				"Le fleuve de la grâce",
+				"aux salutaires eaux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O vous qui gémissez",
+				"dans les sentiers du monde !",
+				"Vous dont le cœur s'agite",
+				"et s'abat tour à tour !",
+				"Venez tous y trouver",
+				"la paix pure et profonde",
+				"Que donnent l'Évangile",
+				"et l'éternel amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Crüger",
+			"role": "music"
+		},
+		{
+			"name": "Mme Exchaquet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af149",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

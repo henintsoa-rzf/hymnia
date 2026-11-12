@@ -1,0 +1,109 @@
+{
+	"id": "notre-frere",
+	"title": "Notre Frère",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "17"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Assis à la droite de Dieu,",
+				"Reflet de son Père glorieux,",
+				"Christ est révélation ultime,",
+				"Créateur éternel et sublime.",
+				"Abaissé au-dessous des anges,",
+				"Ce grand Roi digne de louanges",
+				"S’incline pour nous rencontrer,",
+				"Vêtu de notre humble humanité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui d’autre que toi, Seigneur,",
+				"Unit l’homme et le divin,",
+				"Incarne sur la terre",
+				"La splendeur du Dieu très saint !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En homme, Jésus a souffert ;",
+				"Sa croix nous délivre de l’enfer.",
+				"Christ ouvre la voie du salut ;",
+				"Les liens de la mort enfin rompus.",
+				"Rendus saints devant notre Père,",
+				"Jésus-Christ nous appelle frères,",
+				"Nous porte dans la tentation,",
+				"Nous relève, plein de compassion."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui d’autre que toi, Seigneur,",
+				"Unit l’homme et le divin !",
+				"Fidèle, notre Frère",
+				"Nous tient dans sa sûre main."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/notrefrere",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

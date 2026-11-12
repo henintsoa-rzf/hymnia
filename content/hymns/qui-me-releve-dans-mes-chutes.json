@@ -1,0 +1,82 @@
+{
+	"id": "qui-me-releve-dans-mes-chutes",
+	"title": "Qui me relève dans mes chutes.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "80"
+		},
+		{
+			"hymnal": "cd",
+			"number": "246"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui me relève dans mes chutes ?",
+				"C'est Jésus-Christ,",
+				"Qui combat pour moi dans mes luttes ?",
+				"C'est Jésus-Christ.",
+				"Jésus a parlé, je veux croire",
+				"Que je puis lutter pour sa gloire,",
+				"Car mon bouclier, ma victoire",
+				"C'est Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je vais à mon Père, et ma voie",
+				"C'est Jésus-Christ ;",
+				"Je suis bien-heureux et ma joie",
+				"C'est Jésus-Christ.",
+				"Et si, même dans la souffrance,",
+				"Mon cœur me parle d'espérance,",
+				"C'est que j'ai mis ma confiance",
+				"En Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sauvé, je ne me glorifie",
+				"Qu'en Jésus-Christ ;",
+				"Pour la terre et le ciel, ma vie",
+				"C'est Jésus-Christ.",
+				"Bientôt adieu, choses mortelles !",
+				"Loin de vous je prendrai des ailes",
+				"Vers les demeures éternelles,",
+				"Vers Jésus-Christ !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Bishop Southgate",
+			"role": "music"
+		},
+		{
+			"name": "Henri Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af080",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1072",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

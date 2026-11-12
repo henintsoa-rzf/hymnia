@@ -1,0 +1,85 @@
+{
+	"id": "beni-soit-a-jamais",
+	"title": "Béni soit à jamais",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "53"
+		},
+		{
+			"hymnal": "adf",
+			"number": "543"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit à jamais le grand Dieu d'Israël",
+				"L'auteur de tous les biens,",
+				"tout-puissant, éternel,",
+				"Qui, touché de nos cris et de notre misère,",
+				"Dans nos calamités s'est montré notre Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ses compassions il nous a visités,",
+				"Par son bras invincible il nous a rachetés,",
+				"Et malgré nos péchés,",
+				"ce Dieu tendre et propice,",
+				"À fait lever sur nous le Soleil de justice."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tous les peuples assis",
+				"dans l'ombre de la mort",
+				"Se lèveront joyeux à la voix du Dieu fort :",
+				"Éclairés désormais par sa vive lumière,",
+				"Ils connaîtront leur Dieu,",
+				"leur Sauveur et leur Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il conduira nos pas au chemin de la paix,",
+				"Et ce divin Sauveur remplira nos souhaits.",
+				"Nous l'aimerons toujours,",
+				"nous lui serons fidèles,",
+				"Et nous vivrons heureux à l'ombre de ses ailes."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Psautier de Genève",
+			"role": "music"
+		},
+		{
+			"name": "Bénédict Pictet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg053",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af543",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

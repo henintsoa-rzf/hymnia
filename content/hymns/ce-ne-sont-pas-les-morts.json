@@ -1,0 +1,71 @@
+{
+	"id": "ce-ne-sont-pas-les-morts",
+	"title": "Ce ne sont pas les morts",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "662"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ce ne sont pas les morts",
+				"Qui célèbrent l'Éternel,",
+				"Ce n'est aucun de ceux",
+				"Qui descendent dans le silence."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais nous, nous bénirons l'Éternel,",
+				"Mais nous, nous bénirons l'Éternel,",
+				"Mais nous, nous bénirons l'Éternel.",
+				"Dès maintenant et à jamais,",
+				"Louez l'Éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce ne sont pas les morts",
+				"Qui célèbrent l'Éternel,",
+				"Ce n'est aucun de ceux",
+				"Qui descendent dans le silence."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais nous, nous bénirons l'Éternel,",
+				"Mais nous, nous bénirons l'Éternel,",
+				"Mais nous, nous bénirons l'Éternel.",
+				"Dès maintenant et à jamais,",
+				"Louez l'Éternel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem662",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

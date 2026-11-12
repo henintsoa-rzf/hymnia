@@ -1,0 +1,59 @@
+{
+	"id": "dieu-mon-rocher",
+	"title": "Dieu, mon rocher.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "176"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, mon Rocher ! j'élève à toi mes cris.",
+				"Ne sois pas sourd à mon humble prière :",
+				"À m'exaucer si ton amour diffère,",
+				"Dans ma douleur je sens que je péris."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est par Jésus que je m'adresse à toi !",
+				"C'est son nom seul, son nom que je réclame.",
+				"Ah ! tu ne peux repousser aucune âme",
+				"Qui sur ton Fils fonde toute sa foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bénis sois-tu ! déjà tu m'as ouï.",
+				"Toujours en toi je trouve une retraite.",
+				"À m'affermir ta force est toujours prête,",
+				"Aussi, Seigneur ! mon cœur est réjoui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frideric Haendel",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af176",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

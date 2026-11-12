@@ -1,0 +1,101 @@
+{
+	"id": "pere",
+	"title": "Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "588"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Père, oui, tu es mon Père,",
+				"Je suis ton enfant.",
+				"Toujours, demain comme aujourd'hui,",
+				"Tu es mon Père.",
+				"Père, oui, tu es mon Père,",
+				"Je suis ton enfant.",
+				"Toujours, demain comme aujourd'hui,",
+				"Tu es mon Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Abba, Père, je suis à toi.",
+				"Abba, oh Père, je suis ton enfant.",
+				"Abba, Père, je suis à toi.",
+				"Abba, oh Père, je suis ton enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Père, je t'adore,",
+				"Père, je louerai ton nom.",
+				"Toujours, demain comme aujourd'hui,",
+				"Tu es mon Père.",
+				"Père, je t'adore,",
+				"Père, je louerai ton nom.",
+				"Toujours, demain comme aujourd'hui,",
+				"Tu es mon Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Abba, Père, je suis à toi.",
+				"Abba, oh Père, je suis ton enfant.",
+				"Abba, Père, je suis à toi.",
+				"Abba, oh Père, je suis ton enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Père, je t'écoute,",
+				"Père, je te servirai.",
+				"Toujours, demain comme aujourd'hui,",
+				"Tu es mon Père.",
+				"Père, je t'écoute,",
+				"Père, je te servirai.",
+				"Toujours, demain comme aujourd'hui,",
+				"Tu es mon Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Abba, Père, je suis à toi.",
+				"Abba, oh Père, je suis ton enfant.",
+				"Abba, Père, je suis à toi.",
+				"Abba, oh Père, je suis ton enfant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Danny Daniels",
+			"role": "music"
+		},
+		{
+			"name": "Danny Daniels",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem588",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

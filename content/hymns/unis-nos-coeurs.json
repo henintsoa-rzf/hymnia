@@ -1,0 +1,98 @@
+{
+	"id": "unis-nos-coeurs",
+	"title": "Unis nos cœurs",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "513"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous venons en ton nom",
+				"Rassemblés pour t'adorer.",
+				"Conduis-nous vers l'harmonie.",
+				"Saint-Esprit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Unis nos cœurs dans ton amour,",
+				"Unis nos cœurs dans ton amour,",
+				"Comme la rosée sur les montagnes,",
+				"Descends sur nous !",
+				"Unis nos cœurs dans ton amour,",
+				"Unis nos cœurs dans ton amour,",
+				"Là notre Seigneur a décidé de bénir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qu'il est doux, oui, qu'il est bon",
+				"De rester dans l'unité",
+				"Comme l'huile, comme l'onction",
+				"Sur Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Unis nos cœurs dans ton amour,",
+				"Unis nos cœurs dans ton amour,",
+				"Comme la rosée sur les montagnes,",
+				"Descends sur nous !",
+				"Unis nos cœurs dans ton amour,",
+				"Unis nos cœurs dans ton amour,",
+				"Là notre Seigneur a décidé de bénir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avançons d'un même pas",
+				"Renforçons les liens de paix.",
+				"C'est la vie, vie éternelle.",
+				"Viens Esprit !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Unis nos cœurs dans ton amour,",
+				"Unis nos cœurs dans ton amour,",
+				"Comme la rosée sur les montagnes,",
+				"Descends sur nous !",
+				"Unis nos cœurs dans ton amour,",
+				"Unis nos cœurs dans ton amour,",
+				"Là notre Seigneur a décidé de bénir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem513",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

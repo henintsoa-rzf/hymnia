@@ -18,6 +18,7 @@
 	import OtherRefs from '$lib/components/OtherRefs.svelte';
 	import TextSizeControl from '$lib/components/TextSizeControl.svelte';
 	import { normalizeNumber } from '$lib/domain/numbering';
+	import { titleIn } from '$lib/domain/titles';
 	import { frenchSpaces, hymnalUrl, hymnInCollectionUrl, hymnUrl, refLabel } from '$lib/format';
 	import { collectionsWith } from '$lib/repertoire/model';
 	import { hymnIdOf, resolveEntries } from '$lib/repertoire/resolve';
@@ -66,7 +67,7 @@
 		const steps: Step[] = rows.map((r, i) => ({
 			url: hymnInCollectionUrl(r.entry.hymnal, r.entry.number, collection.id),
 			ref: refLabel(r.hymnal?.abbreviations[0] ?? r.entry.hymnal, r.entry.number),
-			title: r.hymn!.title,
+			title: titleIn(r.hymn!, r.entry.hymnal, r.entry.number),
 			current: i === position
 		}));
 		return { collection, steps, position };
@@ -77,7 +78,7 @@
 		return data.siblings.map((s) => ({
 			url: hymnUrl(s.entry.hymnal, s.entry.number),
 			ref: refLabel(abbr, s.entry.number),
-			title: s.hymn.title,
+			title: s.entry.title ?? s.hymn.title,
 			current: s.entry.number === data.found?.entry.number
 		}));
 	});
@@ -137,7 +138,10 @@
 <svelte:window {onkeydown} />
 <svelte:head>
 	{#if data.found}
-		<title>{refLabel(abbr, data.found.entry.number)} · {data.found.hymn.title} · Hymnia</title>
+		<title
+			>{refLabel(abbr, data.found.entry.number)} · {data.found.entry.title ?? data.found.hymn.title} ·
+			Hymnia</title
+		>
 	{/if}
 </svelte:head>
 
@@ -145,6 +149,7 @@
 {#if data.hymnal && data.found && item}
 	{@const hymnal = data.hymnal}
 	{@const { hymn, entry } = data.found}
+	{@const title = entry.title ?? hymn.title}
 	{@const backUrl = reading
 		? resolve('/repertoire/[collection]', { collection: reading.collection.id })
 		: hymnalUrl(hymnal.id)}
@@ -215,7 +220,7 @@
 			</div>
 
 			<div class="hymn__swipe" bind:this={swipeArea}>
-				<LyricsView {hymn} reference={refLabel(abbr, entry.number)}>
+				<LyricsView {hymn} {title} reference={refLabel(abbr, entry.number)}>
 					<HymnCredits {hymn} />
 				</LyricsView>
 			</div>
@@ -292,7 +297,7 @@
 		{/if}
 	</div>
 
-	<CollectionSheet bind:open={sheetOpen} ref={item} title={hymn.title} hymnIdOf={idOf} />
+	<CollectionSheet bind:open={sheetOpen} ref={item} {title} hymnIdOf={idOf} />
 {:else}
 	{@const known = data.hymnal}
 	<div class="page">

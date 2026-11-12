@@ -1,0 +1,53 @@
+{
+	"id": "nous-voici-seigneur",
+	"title": "Nous voici, Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "351"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voici, Seigneur,",
+				"Pour louer ton nom,",
+				"Et pour te donner",
+				"Le meilleur de nos dons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre amour pour toi,",
+				"Nos vies tout entières,",
+				"Et nos cœurs crient de joie",
+				"Abba, Père",
+				"Aide-nous sans cesse,",
+				"À te faire plaisir,",
+				"Et te dire avec tendresse:",
+				"Je t'aime Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem351",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

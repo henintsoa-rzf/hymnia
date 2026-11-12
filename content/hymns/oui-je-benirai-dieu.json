@@ -1,0 +1,120 @@
+{
+	"id": "oui-je-benirai-dieu",
+	"title": "Oui, je bénirai Dieu.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "29"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, je bénirai Dieu",
+				"tout le temps de ma vie ;",
+				"Les justes l'entendront ;",
+				"Des glorieux transports",
+				"de mon âme ravie",
+				"Ils se réjouiront !",
+				"Ils se réjouiront !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chrétiens, magnifions",
+				"et louons tous ensemble",
+				"Le beau nom du Sauveur !",
+				"Ses élus, à leurs cris,",
+				"sous son aile il rassemble,",
+				"Et chasse leur frayeur,",
+				"Et chasse leur frayeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dès qu'on l'a regardé,",
+				"dans sa vive lumière,",
+				"On renaît à l'espoir ;",
+				"Cet affligé criait ;",
+				"Jésus, à sa prière,",
+				"Lui montra son pouvoir,",
+				"Lui montra son pouvoir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"L'ange de l'Éternel",
+				"se campe avec puissance",
+				"Autour de ses enfants.",
+				"Il les garde et soutient,",
+				"il est leur délivrance",
+				"Dans leurs dangers pressants,",
+				"Dans leurs dangers pressants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Quand l'enfant du Seigneur",
+				"à son Père s'adresse,",
+				"Dieu l'exauce à l'instant.",
+				"Et par un prompt secours",
+				"fait cesser la tristesse",
+				"De ce cœur repentant,",
+				"De ce cœur repentant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Le fidèle ici-bas",
+				"a des maux en grand nombre,",
+				"Mais le Consolateur",
+				"De son cœur alarmé",
+				"dissipe la nuit sombre,",
+				"Et guérit sa douleur,",
+				"Et guérit sa douleur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Venez et savourez,",
+				"sous son paisible empire,",
+				"Sa fidèle bonté.",
+				"Oh ! que l'homme est heureux",
+				"qui vers Dieu se retire",
+				"En sa calamité !",
+				"En sa calamité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af029",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

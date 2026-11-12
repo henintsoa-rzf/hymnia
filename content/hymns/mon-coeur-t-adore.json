@@ -1,0 +1,43 @@
+{
+	"id": "mon-coeur-t-adore",
+	"title": "Mon cœur t'adore",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "455"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon cœur t'adore, mon Dieu puissant,",
+				"Nul n'est comme toi.",
+				"Mon cœur t'adore, Prince de paix,",
+				"C'est ce que mon cœur désire.",
+				"Sois glorifié,",
+				"Car tu es ma sainteté.",
+				"Mon cœur t'adore, ô Dieu puissant,",
+				"Nul n'est comme toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sandra Corbett",
+			"role": "music"
+		},
+		{
+			"name": "Sandra Corbett",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem455",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

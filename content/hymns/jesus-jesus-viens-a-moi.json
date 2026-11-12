@@ -1,0 +1,82 @@
+{
+	"id": "jesus-jesus-viens-a-moi",
+	"title": "Jésus, Jésus, viens à moi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "253"
+		},
+		{
+			"hymnal": "adf",
+			"number": "503"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, Jésus, viens à moi !",
+				"Mon cœur soupire après toi.",
+				"Qu'elle est longue, ton absence !",
+				"Entre nous, quelle distance !",
+				"Nuit et jour, pleine d'émoi,",
+				"Mon âme, ô Sauveur, t'appelle :",
+				"Ami tendre, Ami fidèle,",
+				"Jésus, Jésus, viens à moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsque je ne te vois pas",
+				"Tout paraît sombre ici-bas ;",
+				"Il n'est de voix que la tienne",
+				"Qui me charme et me soutienne.",
+				"Toi seul, ô mon divin Roi,",
+				"Es ma force et ma lumière :",
+				"Ah ! réponds à ma prière,",
+				"Jésus, Jésus, viens à moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens habiter dans mon cœur ;",
+				"Qu'il soit ton temple, ô Seigneur.",
+				"Alors, avec patience,",
+				"J'attendrai ta délivrance,",
+				"Le jour où, tremblant d'effroi,",
+				"Le monde verra ta face,",
+				"Le jour de paix et de grâce",
+				"Où tu reviendras à moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Sebastian Bach",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg253",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af503",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

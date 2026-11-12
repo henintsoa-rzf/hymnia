@@ -1,0 +1,82 @@
+{
+	"id": "christ-est-ressuscite",
+	"title": "Christ est ressuscité",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "137"
+		},
+		{
+			"hymnal": "adf",
+			"number": "49"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ est ressuscité ! c'est le cri de victoire",
+				"Qui de la terre aux cieux franchit l'immensité.",
+				"Il couronne à jamais son œuvre expiatoire ;",
+				"Oui « Tout est accompli ! » Christ est ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce sépulcre vaincu proclame avec puissance",
+				"Sa justice parfaite et sa divinité.",
+				"À genoux, adorons son éternelle essence :",
+				"Christ est le Fils unique. Il est ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme lui, du tombeau",
+				"brisant la froide pierre,",
+				"Nous nous réveillerons pour l'immortalité,",
+				"Et nous irons jouir, dans la maison du Père,",
+				"D'un bonheur éternel : Christ est ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu'au Rédempteur vivant",
+				"notre âme soit unie ;",
+				"Aimant de son amour, saints de sa sainteté,",
+				"Commençons sur la terre une nouvelle vie,",
+				"En attendant les cieux : Christ est ressuscité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alfred Kuen",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg137",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af049",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

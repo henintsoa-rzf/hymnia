@@ -1,0 +1,62 @@
+{
+	"id": "alleluia-de-noel",
+	"title": "Alléluia de Noël",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "616"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alléluia, alléluia.",
+				"Le Sauveur du monde est là, c’est Jésus.",
+				"Alléluia, alléluia.",
+				"Au plus grand de tous les noms,",
+				"Alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les cieux rugissent, les anges chantent !",
+				"« À notre Dieu et Roi la gloire ! »",
+				"Oh, nuit divine !",
+				"Oui pour toujours : Alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Tomlin",
+			"role": "lyrics"
+		},
+		{
+			"name": "Chris Tomlin",
+			"role": "music"
+		},
+		{
+			"name": "Joan Myrin",
+			"role": "lyrics"
+		},
+		{
+			"name": "Joan Myrin",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-16",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

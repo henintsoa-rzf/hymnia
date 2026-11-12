@@ -1,0 +1,170 @@
+{
+	"id": "en-toi-je-sais-qui-je-suis",
+	"title": "En toi, je sais qui je suis",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1172"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui suis-je pour que le Roi des Cieux",
+				"M’ouvre ses bras ?",
+				"Perdu, mais trouvé par sa grâce,",
+				"Son amour pour moi,",
+				"Son amour pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il m’a libéré,",
+				"Ma dette est payée.",
+				"Je suis enfant de Dieu,",
+				"Je suis à lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il m’a racheté à la croix,",
+				"Grâce insondable.",
+				"J’étais esclave du péché,",
+				"Mais il m’a sauvé.",
+				"Jésus m’a sauvé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il m’a libéré,",
+				"Ma dette est payée.",
+				"Je suis enfant de Dieu,",
+				"Je suis à lui.",
+				"Et dans sa maison,",
+				"J’ai trouvé ma place.",
+				"Je suis enfant de Dieu,",
+				"Je suis à lui."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je suis choisi et affranchi.",
+				"En toi je sais qui je suis.",
+				"Tu es pour moi,",
+				"Pas contre moi,",
+				"En toi, je sais qui je suis."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je suis choisi et affranchi.",
+				"En toi je sais qui je suis.",
+				"Tu es pour moi,",
+				"Pas contre moi,",
+				"En toi, je sais qui je suis.",
+				"En toi, je sais qui je suis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il m’a libéré,",
+				"Ma dette est payée.",
+				"Je suis enfant de Dieu,",
+				"Je suis à lui.",
+				"Et dans sa maison,",
+				"J’ai trouvé ma place.",
+				"Je suis enfant de Dieu,",
+				"Je suis à lui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et dans sa maison,",
+				"J’ai trouvé ma place.",
+				"Je suis enfant de Dieu,",
+				"Je suis à lui."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je suis choisi et affranchi.",
+				"En toi je sais qui je suis.",
+				"Tu es pour moi,",
+				"Pas contre moi,",
+				"En toi, je sais qui je suis."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je suis choisi et affranchi.",
+				"En toi je sais qui je suis.",
+				"Tu es pour moi,",
+				"Pas contre moi,",
+				"En toi, je sais qui je suis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis choisi et affranchi.",
+				"En toi je sais qui je suis.",
+				"Tu es pour moi,",
+				"Pas contre moi,",
+				"En toi, je sais qui je suis.",
+				"En toi, je sais qui je suis."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Il m’a libéré,",
+				"Ma dette est payée.",
+				"Je suis enfant de Dieu,",
+				"Je suis à lui.",
+				"Et dans sa maison,",
+				"J’ai trouvé ma place.",
+				"Je suis enfant de Dieu,",
+				"Je suis à lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ben Fielding et Reuben Morgan",
+			"role": "music"
+		},
+		{
+			"name": "Ben Fielding et Reuben Morgan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1172",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

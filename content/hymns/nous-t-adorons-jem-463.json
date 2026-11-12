@@ -1,0 +1,81 @@
+{
+	"id": "nous-t-adorons-jem-463",
+	"title": "Nous t'adorons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "463"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous t'adorons, ô Père,",
+				"Dans ton temple,",
+				"Nous t'adorons en esprit et en vérité.",
+				"Tu habites nos louanges,",
+				"Nous t'adorons en esprit et en vérité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car un jour près de toi",
+				"Vaut mieux que mille ailleurs,",
+				"Je désire habiter dans ton temple.",
+				"Car un jour près de toi",
+				"Vaut mieux que mille ailleurs,",
+				"Je désire habiter",
+				"Dans ta maison, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous t'adorons, ô Père,",
+				"Dans ton temple,",
+				"Nous t'adorons en esprit et en vérité.",
+				"Tu habites nos louanges,",
+				"Nous t'adorons en esprit et en vérité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car un jour près de toi",
+				"Vaut mieux que mille ailleurs,",
+				"Je désire habiter dans ton temple.",
+				"Car un jour près de toi",
+				"Vaut mieux que mille ailleurs,",
+				"Je désire habiter",
+				"Dans ta maison, Seigneur;",
+				"Je désire habiter",
+				"Dans ta maison, Seigneur ;",
+				"Je désire habiter",
+				"Dans ta maison, Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem463",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,55 @@
+{
+	"id": "quand-je-contemple",
+	"title": "Quand je contemple",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "474"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je contemple ta sainteté",
+				"Et quand je contemple ta beauté,",
+				"Et quand toutes les choses pâlissent",
+				"À ta lumière.",
+				"Quand j'ai trouvé la joie près de ton cœur,",
+				"Quand je m'enveloppe de ton amour,",
+				"Et quand toutes les choses pâlissent",
+				"À ta lumière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! je t'adore, oui, je t'adore.",
+				"Si je vis, Seigneur,",
+				"C'est pour t'adorer.",
+				"Oh ! je t'adore, oui, je t'adore.",
+				"Si je vis, Seigneur,",
+				"C'est pour t'adorer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Wayne et Cathy Perrin",
+			"role": "music"
+		},
+		{
+			"name": "Wayne et Cathy Perrin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem474",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

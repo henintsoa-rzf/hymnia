@@ -1,0 +1,74 @@
+{
+	"id": "prince-de-lumiere",
+	"title": "Prince de lumière",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "98"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Prince de lumière,",
+				"Doux enfant Jésus,",
+				"Sois sur cette terre",
+				"Le bienvenu.",
+				"Toi, le Roi des anges,",
+				"De gloire couronné,",
+				"Dans ces pauvres langes,",
+				"Tu es emprisonné :",
+				"Jésus est né !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les bergers, les mages",
+				"Venus d'Orient,",
+				"Offrent leurs hommages",
+				"À l'humble enfant.",
+				"Dans la nuit profonde",
+				"Le ciel tout étonné",
+				"Voit le Roi du monde",
+				"Pour l'homme se donner :",
+				"Jésus est né !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La route effroyable",
+				"Commence pour toi,",
+				"Qui va de l'étable",
+				"Jusqu'à la croix.",
+				"O Sauveur des hommes,",
+				"Qui vient nous pardonner !",
+				"Pour toujours nous sommes",
+				"À tes pieds prosternés :",
+				"Jésus est né !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Noël hollandais",
+			"role": "music"
+		},
+		{
+			"name": "Jacques-A. Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg098",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

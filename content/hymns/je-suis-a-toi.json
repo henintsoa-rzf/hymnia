@@ -1,0 +1,80 @@
+{
+	"id": "je-suis-a-toi",
+	"title": "Je suis à toi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "244"
+		},
+		{
+			"hymnal": "adf",
+			"number": "272"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis à toi ; gloire à ton nom suprême !",
+				"O mon Sauveur, je fléchis sous ta loi.",
+				"Je suis à toi, je t'adore, je t'aime ;",
+				"Je suis à toi, je suis à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jadis j'étais sous l'empire du monde,",
+				"Mais aujourd'hui Jésus-Christ est mon Roi.",
+				"Ton joug est doux et ta paix est profonde ;",
+				"Je suis à toi, je suis à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nul ne saurait m'effacer de ton livre ;",
+				"Nul ne saurait me soustraire à ta loi.",
+				"C'est ton regard qui fais mourir et vivre ;",
+				"Je suis à toi, je suis à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sur cette terre où tu veux que j'habite,",
+				"O mon Sauveur, mon Dieu, je suis à toi !",
+				"Et dans le ciel où ta grâce m'invite,",
+				"Encore à toi, toujours à toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bonnet",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Scherer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg244",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af272",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "le-seigneur-est-au-milieu-de-toi",
+	"title": "Le Seigneur est au milieu de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "361"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur est au milieu de toi,",
+				"Il te sauvera, il est le Roi des rois.",
+				"Il triomphe de tes ennemis,",
+				"Nous proclamons",
+				"Le nom du Seigneur tout puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Crie de joie, chante alléluia,",
+				"Il te gardera dans son amour pour toi.",
+				"Crie de joie, chante alléluia,",
+				"Il vient délivrer ceux qui s'appuient sur lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem361",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,50 @@
+{
+	"id": "j-entrerai-dans-ses-portes",
+	"title": "J'entrerai dans ses portes",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "30"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'entrerai dans ses portes avec la joie",
+				"dans mon cœur,",
+				"Je viendrai louer le Seigneur.",
+				"Je dirai : « Voici le jour que l'Éternel a fait :",
+				"Qu'il soit pour nous tous un sujet de joie,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un sujet de joie, un sujet de joie ;",
+				"Qu'il soit pour nous tous un sujet de joie,",
+				"Un sujet de joie, un sujet de joie ;",
+				"Qu'il soit pour nous tous un sujet de joie. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Pierre Lachat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg030",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

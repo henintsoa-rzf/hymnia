@@ -1,0 +1,91 @@
+{
+	"id": "des-que-l-aube-depose",
+	"title": "Dès que l'aube dépose",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "373"
+		},
+		{
+			"hymnal": "adf",
+			"number": "345"
+		},
+		{
+			"hymnal": "cd",
+			"number": "344"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dès que l'aube dépose",
+				"Ses perles sur les fleurs,",
+				"Dès que s'ouvre la rose",
+				"Aux brillantes couleurs,",
+				"Dès que l'ombre s'efface",
+				"Devant le jour qui luit,",
+				"À l'œuvre, le temps passe !",
+				"À l'œuvre avant la nuit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand le soleil inonde",
+				"Et remplit le ciel bleu,",
+				"Illuminant le monde",
+				"De ses rayons de feu,",
+				"À l'œuvre sans relâche,",
+				"À l'œuvre, le jour fuit !",
+				"Si pénible est la tâche,",
+				"Bientôt viendra la nuit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À cette heure indécise,",
+				"Où le jour disparaît,",
+				"Où murmure la brise",
+				"À travers la forêt,",
+				"Quand le couchant se dore",
+				"Et que s'éteint le bruit,",
+				"Frères, à l'œuvre encore,",
+				"Voici, voici la nuit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr Lowell Mason",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg373",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af345",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1142",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

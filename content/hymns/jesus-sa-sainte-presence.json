@@ -1,0 +1,141 @@
+{
+	"id": "jesus-sa-sainte-presence",
+	"title": "Jésus, sa sainte présence.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "317"
+		},
+		{
+			"hymnal": "cd",
+			"number": "237",
+			"title": "Jésus, ta sainte présence"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, ta sainte présence",
+				"Est la source du bonheur.",
+				"Dans la joie et la souffrance",
+				"Elle est le repos du cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais briller sur moi ta face,",
+				"O Jésus, Agneau de Dieu !",
+				"À tes pieds, c'est là ma place,",
+				"Près de toi mon ciel est bleu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur celui qui te contemple",
+				"Descend un rayon divin ;",
+				"Tu fais de son cœur ton temple,",
+				"Ton doigt pointe son chemin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais briller sur moi ta face,",
+				"O Jésus, Agneau de Dieu !",
+				"À tes pieds, c'est là ma place,",
+				"Près de toi mon ciel est bleu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ah ! que mon âme ravie",
+				"Te rencontre, ô mon Sauveur !",
+				"Car ton regard c'est la vie,",
+				"C'est la richesse du cœur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais briller sur moi ta face,",
+				"O Jésus, Agneau de Dieu !",
+				"À tes pieds, c'est là ma place,",
+				"Près de toi mon ciel est bleu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il faut aussi ta présence",
+				"Pour ton service, ô Jésus !",
+				"Car elle est une puissance",
+				"Pour relever les perdus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais briller sur moi ta face,",
+				"O Jésus, Agneau de Dieu !",
+				"À tes pieds, c'est là ma place,",
+				"Près de toi mon ciel est bleu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Quand, dans l'étendue immense,",
+				"O Jésus, tu paraîtras,",
+				"C'est encore par ta présence",
+				"Que tu nous attireras !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais briller sur moi ta face,",
+				"O Jésus, Agneau de Dieu !",
+				"À tes pieds, c'est là ma place,",
+				"Près de toi mon ciel est bleu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mlle Annie Harrison",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af317",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1065",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

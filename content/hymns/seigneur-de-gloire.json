@@ -1,0 +1,98 @@
+{
+	"id": "seigneur-de-gloire",
+	"title": "Seigneur de gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "489"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu !",
+				"Viens adorer son nom !",
+				"Il est le Tout-puissant,",
+				"Il est le Roi de gloire.",
+				"Dieu de vie et Seigneur,",
+				"Dieu d'amour",
+				"À genoux devant Lui,",
+				"Viens l'adorer toujours",
+				"Il est le Seigneur de gloire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu a créé le ciel et la terre,",
+				"Puis il prit un peu de poussière",
+				"Et façonna un être humain.",
+				"Il est l'étoile qui scintille",
+				"Dans le silence de la nuit,",
+				"Le Père, le créateur sans fin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu !",
+				"Viens adorer son nom !",
+				"Il est le Tout-puissant,",
+				"Il est le Roi de gloire.",
+				"Dieu de vie et Seigneur,",
+				"Dieu d'amour",
+				"À genoux devant Lui,",
+				"Viens l'adorer toujours",
+				"Il est le Seigneur de gloire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chante au Seigneur, le grand « Je suis ».",
+				"Il entend des humains le cri",
+				"Et nous fait vivre chaque jour.",
+				"Que ce chant de liberté,",
+				"Par tous les vents soit proclamé:",
+				"Notre Dieu régnera toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu !",
+				"Viens adorer son nom !",
+				"Il est le Tout-puissant,",
+				"Il est le Roi de gloire.",
+				"Dieu de vie et Seigneur,",
+				"Dieu d'amour",
+				"À genoux devant Lui,",
+				"Viens l'adorer toujours",
+				"Il est le Seigneur de gloire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mark Gersmehl",
+			"role": "music"
+		},
+		{
+			"name": "Mark Gersmehl",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem489",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

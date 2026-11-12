@@ -1,0 +1,57 @@
+{
+	"id": "livre-saint-celeste-livre",
+	"title": "Livre saint, céleste livre.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "298"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Livre Saint, céleste Livre,",
+				"Mon plus précieux trésor,",
+				"Guide sûr que j'aime à suivre",
+				"Tu vaux plus que beaucoup d'or.",
+				"C'est toi, Bible bien-aimée,",
+				"Qui me montres le Sauveur,",
+				"Tu peux à l'âme affamée",
+				"Procurer le vrai bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O puissante et sainte épée,",
+				"Marteau brisant les rochers,",
+				"Par toi, mon âme frappée",
+				"A pleuré sur ses péchés.",
+				"Oui, dans toutes mes détresses,",
+				"Dans mes larmes, ma douleur,",
+				"Par tes divines promesses,",
+				"Tu viens consoler mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henry Thomas Smart",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af298",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,65 @@
+{
+	"id": "pour-t-invoquer-o-seigneur",
+	"title": "Pour t'invoquer, ô Seigneur !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "570"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour t'invoquer, ô Seigneur,",
+				"Je viens dans ton sanctuaire.",
+				"À ta voix ouvre mon cœur",
+				"Et mes yeux à ta lumière.",
+				"Qu'avec une sainte ardeur",
+				"Je t'adresse ma prière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui suis-je, ô Dieu saint et grand,",
+				"Pour voir ta face adorable ?",
+				"N'entre pas en jugement",
+				"Avec mon âme coupable.",
+				"De ton regard pénétrant,",
+				"L'éclat me trouble et m'accable."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais mon œil s'est arrêté",
+				"Sur la croix, ô Dieu suprême,",
+				"Où Jésus m'a racheté",
+				"Quand Il s'immola lui-même :",
+				"J'ai compris ta charité",
+				"Et mon cœur t'adore et t'aime."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Rudolph Ahle",
+			"role": "music"
+		},
+		{
+			"name": "Eugène Bersier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af570",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

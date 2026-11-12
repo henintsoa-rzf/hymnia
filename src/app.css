@@ -838,6 +838,13 @@ mark {
 	color: var(--ink);
 }
 
+.hb-header__also {
+	margin: var(--space-1) 0 0;
+	font-size: calc(var(--lyric) * 0.75);
+	line-height: 1.45;
+	color: var(--ink-muted);
+}
+
 .hb-header__credit {
 	margin: var(--space-2) 0 0;
 	font-size: calc(var(--lyric) * 0.75);

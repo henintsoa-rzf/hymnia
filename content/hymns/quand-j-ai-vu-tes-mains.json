@@ -1,0 +1,109 @@
+{
+	"id": "quand-j-ai-vu-tes-mains",
+	"title": "Quand j'ai vu tes mains",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "203"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand j'ai vu tes mains",
+				"Guérir tant de malades,",
+				"Quand j'ai vu tes mains",
+				"Qui rompaient du pain,",
+				"Pour nourrir tout autour de toi",
+				"Des milliers d'hommes"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur en retour, reçois mon amour !",
+				"Seigneur en retour, reçois mon amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand j'ai vu tes pieds",
+				"Saigner de partout,",
+				"Quand j'ai vu tes pieds",
+				"Percés par le clou,",
+				"Pour sauver tout autour de toi",
+				"Des milliers d'hommes"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur en retour, reçois mon amour !",
+				"Seigneur en retour, reçois mon amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand j'ai vu tes yeux",
+				"Pleins de pleurs, de larmes ;",
+				"Quand j'ai vu tes yeux",
+				"Au regard d'amour",
+				"Pardonner tout autour de toi",
+				"Des milliers d'hommes"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur en retour, reçois mon amour !",
+				"Seigneur en retour, reçois mon amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et quand j'ai vu ton corps",
+				"Tout meurtri de coups ;",
+				"Quand j'ai vu ton corps",
+				"Vivant malgré tout,",
+				"Ressusciter pour toujours",
+				"Des milliers d'hommes"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur en retour, reçois mon amour !",
+				"Seigneur en retour, reçois mon amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Chanson",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Chanson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem203",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

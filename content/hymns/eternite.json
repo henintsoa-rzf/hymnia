@@ -1,0 +1,54 @@
+{
+	"id": "eternite",
+	"title": "Éternité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "616"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je serai à toi, tu seras à moi,",
+				"Ensemble pour l'éternité.",
+				"Nos cœurs unis d'un même amour,",
+				"Ensemble pour l'éternité.",
+				"Je serai à toi, tu seras à moi,",
+				"Ensemble pour l'éternité.",
+				"Nos cœurs unis d'un même amour,",
+				"Ensemble pour l'éternité",
+				"Pour toujours dans l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Plus jamais de larmes dans nos yeux,",
+				"Plus de peur, de honte",
+				"Quand nous serons avec toi,",
+				"Oui nous serons avec toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brian Doerksen",
+			"role": "music"
+		},
+		{
+			"name": "Brian Doerksen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem616",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

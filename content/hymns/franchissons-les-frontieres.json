@@ -1,0 +1,71 @@
+{
+	"id": "franchissons-les-frontieres",
+	"title": "Franchissons les frontières",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "411"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Franchissons les frontières,",
+				"Ouvrons les barrières,",
+				"Joignons les mains d'un peuple à l'autre",
+				"Et proclamons: Christ est Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Repoussons toute oppression,",
+				"Plaidons pour le pauvre",
+				"Et annonçons le règne du Christ,",
+				"De l'orient à l'occident."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Moissonnons le champ du maître",
+				"Oeuvrons tant qu'il fait jour.",
+				"Celui qui sème avec des larmes,",
+				"Dans la joie, récoltera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous verrons bientôt sa gloire,",
+				"L'Agneau ressuscité.",
+				"Il recevra de toutes nations,",
+				"L'épouse acquise au prix du sang.",
+				"Et nous dirons: Christ est Seigneur !",
+				"Oui, nous dirons: Christ est Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem411",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,7 +1,9 @@
 # Contract: Import files
 
-Field rules are in [../data-model.md](../data-model.md). All JSON is UTF-8 and NFC, uses sorted
-keys and 2-space indentation, and ends with a newline, so diffs stay stable.
+Field rules are in [../data-model.md](../data-model.md). All JSON is UTF-8 and NFC, uses tab
+indentation with keys in the order of the Zod schema (the format of the existing `content/`
+files), and ends with a newline, so re-runs are byte-identical and diffs stay small. The
+examples below show the fields, not the key order.
 
 ## Layout
 
@@ -75,8 +77,17 @@ import/
 ]
 ```
 
-## Change to feature 001's content schema
+## Changes to feature 001's content
 
-`content/hymns/<id>.json` gains an optional `alternateSources: Source[]` (default `[]`). The
-change is additive, so existing files stay valid. Feature 001's
-`contracts/content-schema.md` and Zod schema are updated in the same change.
+- `content/hymns/<id>.json` gains an optional `alternateSources: Source[]` (default `[]`). The
+  change is additive, so existing files stay valid.
+- The content schemas become strict: unknown fields fail the build.
+- New file `content/redirects.json`, written by the importer on merges and published in the
+  catalog as `redirects`:
+
+  ```json
+  { "a-toi-la-gloire-jem-245": "a-toi-la-gloire" }
+  ```
+
+Feature 001's `contracts/content-schema.md`, `data-model.md` and Zod schema are updated in the
+same change.

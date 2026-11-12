@@ -1,0 +1,42 @@
+{
+	"id": "acclamons-jesus",
+	"title": "Acclamons Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "375"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Acclamons Jésus,",
+				"Acclamons le Seigneur",
+				"Roi des rois, Fils de Dieu,",
+				"Brillante étoile",
+				"Et toute l'éternité,",
+				"Je veux te louer",
+				"Et je règnerai toujours avec toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dave Moody",
+			"role": "music"
+		},
+		{
+			"name": "Dave Moody",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem375",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

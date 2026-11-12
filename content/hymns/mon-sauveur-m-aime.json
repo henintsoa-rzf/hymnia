@@ -1,0 +1,112 @@
+{
+	"id": "mon-sauveur-m-aime",
+	"title": "Mon Sauveur m'aime",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "166"
+		},
+		{
+			"hymnal": "adf",
+			"number": "535"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Sauveur m'aime,",
+				"Quel ferme appui pour ma foi !",
+				"L'amour suprême",
+				"Descend vers moi !",
+				"Dieu vint sur la terre",
+				"Vivre en homme de douleur ;",
+				"Voyant ma misère,",
+				"Il m'ouvre son cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus ! Jésus !",
+				"Qui peut sonder ton amour !",
+				"Jésus ! Jésus !",
+				"Je t'aime en retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon Sauveur m'aime,",
+				"Malgré mon indignité,",
+				"Toujours le même,",
+				"Plein de pitié !",
+				"Il voit ma souffrance,",
+				"Il enlève mon souci ;",
+				"Son amour immense",
+				"Est mon sûr abri."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus ! Jésus !",
+				"Qui peut sonder ton amour !",
+				"Jésus ! Jésus !",
+				"Je t'aime en retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon Sauveur m'aime,",
+				"Comme un joyau précieux",
+				"Du diadème",
+				"Qu'il porte aux cieux.",
+				"Sa vie éternelle,",
+				"Il la partage avec moi,",
+				"Sa gloire immortelle,",
+				"Il l'offre à ma foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus ! Jésus !",
+				"Qui peut sonder ton amour !",
+				"Jésus ! Jésus !",
+				"Je t'aime en retour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air espagnol",
+			"role": "music"
+		},
+		{
+			"name": "Mme E. Tissot-Robert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg166",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af535",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

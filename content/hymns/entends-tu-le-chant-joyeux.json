@@ -1,0 +1,96 @@
+{
+	"id": "entends-tu-le-chant-joyeux",
+	"title": "Entends-tu le chant joyeux ?",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "232"
+		},
+		{
+			"hymnal": "cd",
+			"number": "170"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entends-tu le chant joyeux ?",
+				"Jésus sauve aujourd'hui !",
+				"Il retentit en tous lieux :",
+				"Jésus sauve aujourd'hui !",
+				"C'est un cri de délivrance,",
+				"Un cantique d'espérance,",
+				"Qui remplit l'espace immense :",
+				"Jésus sauve aujourd'hui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Partout, élève la voix :",
+				"Jésus sauve aujourd'hui !",
+				"Vaillant héraut de la croix,",
+				"Jésus sauve aujourd'hui !",
+				"À parler, Jésus t'appelle,",
+				"Répands au loin la nouvelle,",
+				"En connais-tu de plus belle ?",
+				"Jésus sauve aujourd'hui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Répète au pécheur contrit :",
+				"Jésus sauve aujourd'hui !",
+				"Ceux que le mal asservit,",
+				"Jésus sauve aujourd'hui !",
+				"Va jusqu'à l'île lointaine,",
+				"Briser du captif la chaîne,",
+				"Redire aux cœurs dans la peine :",
+				"Jésus sauve aujourd'hui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jusqu'aux confins des déserts,",
+				"Jésus sauve aujourd'hui !",
+				"Jusque par-delà les mers,",
+				"Jésus sauve aujourd'hui !",
+				"Que d'un pôle à l'autre pôle",
+				"Coure la sainte Parole",
+				"Qui relève, instruit, console :",
+				"Jésus sauve aujourd'hui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William James Kirkpatrick",
+			"role": "music"
+		},
+		{
+			"name": "M. Hunter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg232",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1003",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

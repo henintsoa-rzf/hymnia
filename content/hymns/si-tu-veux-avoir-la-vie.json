@@ -1,0 +1,109 @@
+{
+	"id": "si-tu-veux-avoir-la-vie",
+	"title": "Si tu veux avoir la vie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "595"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si tu veux avoir la vie,",
+				"Si tu veux être sauvé,",
+				"De ton fardeau d'infamie,",
+				"Si tu veux être lavé,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il faut naître de nouveau !",
+				"Il faut naître de nouveau,",
+				"Pour aller là-haut !",
+				"Pour aller là-haut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si tu veux que ton offense",
+				"Soit effacé à jamais,",
+				"Si tu veux que ta souffrance",
+				"Se transforme en douce paix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il faut naître de nouveau !",
+				"Il faut naître de nouveau,",
+				"Pour aller là-haut !",
+				"Pour aller là-haut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si tu veux dans ta carrière,",
+				"Posséder la joie du cœur,",
+				"Par les armes de lumière,",
+				"Avancer, libre et vainqueur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il faut naître de nouveau !",
+				"Il faut naître de nouveau,",
+				"Pour aller là-haut !",
+				"Pour aller là-haut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Si tu veux que dans sa grâce,",
+				"Jésus t'ouvre un jour le ciel,",
+				"Si tu veux avoir ta place",
+				"Dans le royaume éternel !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il faut naître de nouveau !",
+				"Il faut naître de nouveau,",
+				"Pour aller là-haut !",
+				"Pour aller là-haut !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Georges Guillod",
+			"role": "music"
+		},
+		{
+			"name": "Georges Guillod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af595",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

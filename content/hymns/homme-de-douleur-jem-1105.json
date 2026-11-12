@@ -1,0 +1,130 @@
+{
+	"id": "homme-de-douleur-jem-1105",
+	"title": "Homme de douleur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1105"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Homme de douleur, Fils de Dieu",
+				"Trahi par les siens,",
+				"Le fardeau de notre péché",
+				"Sur Jésus fut posé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est lui qu’on a méprisé,",
+				"Faussement accusé,",
+				"Blessé, meurtri et humilié,",
+				"D’épines couronné."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Cette croix, ma rédemption,",
+				"Où ton sang coula pour moi.",
+				"Que mon âme s’écrie : « Alléluia,",
+				"Gloire et honneur à toi seul. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Venu du ciel sur la terre",
+				"Pour nous réconcilier,",
+				"Pour racheter et pardonner",
+				"Ceux qui l’ont crucifié."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Cette croix, ma rédemption,",
+				"Où ton sang coula pour moi.",
+				"Que mon âme s’écrie : « Alléluia,",
+				"Gloire et honneur à toi seul. »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ma dette est payée, elle est effacée",
+				"Par le sang précieux que Christ a versé.",
+				"Le péché vaincu, son emprise n’est plus.",
+				"Il m’a libéré pour l’éternité."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ma dette est payée, elle est effacée",
+				"Par le sang précieux que Christ a versé.",
+				"Le péché vaincu, son emprise n’est plus.",
+				"Il m’a libéré pour l’éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Cette croix, ma rédemption,",
+				"Où ton sang coula pour moi.",
+				"Que mon âme s’écrie : « Alléluia,",
+				"Gloire et honneur à toi seul. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La pierre a été roulée,",
+				"Oh ! Vois le tombeau vide.",
+				"Alléluia, Dieu soit loué,",
+				"Il est ressuscité."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! Cette croix, ma rédemption,",
+				"Où ton sang coula pour moi.",
+				"Que mon âme s’écrie : « Alléluia,",
+				"Gloire et honneur à toi seul,",
+				"Gloire et honneur à toi seul. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Crocker; Brooke Ligertwood",
+			"role": "music"
+		},
+		{
+			"name": "Matt Crocker; Brooke Ligertwood",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1105",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,103 @@
+{
+	"id": "mon-bien-aime",
+	"title": "Mon bien-aimé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1167"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est descendu dans son jardin,",
+				"Où les aromates parfument l'air",
+				"Et les grenadiers fleurissent au soleil.",
+				"Il viendra cueillir les lys blancs",
+				"Au milieu des vignes qui mûrissent",
+				"En menant son troupeau vers les abreuvoirs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis à mon bien-aimé",
+				"Et mon bien-aimé est à moi.",
+				"Je suis à mon bien-aimé",
+				"Et mon bien-aimé est à moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens, mon bien-aimé, courrons ensemble !",
+				"Nous irons goûter les meilleurs fruits",
+				"Dans les vergers où nous chanterons l'amour.",
+				"Garde-moi cachée tout près de toi !",
+				"Serre-moi très fort contre ton cœur ;",
+				"Je me pendrai comme un collier à ton cou."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis à mon bien-aimé",
+				"Et mon bien-aimé est à moi.",
+				"Je suis à mon bien-aimé",
+				"Et mon bien-aimé est à moi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Egayons-nous dans ta maison ;",
+				"Ton amour vaut mieux que le vin.",
+				"L'hiver est passé, la pluie s'est arrêtée,",
+				"Le temps de célébrer revient."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je suis à mon bien-aimé",
+				"Et mon bien-aimé est à moi.",
+				"Je suis à mon bien-aimé",
+				"Et mon bien-aimé est à moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je suis à mon bien-aimé",
+				"Et mon bien-aimé est à moi.",
+				"Je suis à mon bien-aimé",
+				"Et mon bien-aimé est à moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1167",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

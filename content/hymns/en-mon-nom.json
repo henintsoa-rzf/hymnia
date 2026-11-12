@@ -1,0 +1,86 @@
+{
+	"id": "en-mon-nom",
+	"title": "En mon nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "528"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En mon nom,",
+				"Ils chasseront des esprits rebelles.",
+				"En mon nom,",
+				"Ils parleront des langues nouvelles."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allez dans le monde entier",
+				"Prêcher la bonne nouvelle",
+				"À toute la création."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En mon nom,",
+				"Ils saisiront des serpents dans leurs mains.",
+				"S'ils boivent un poison mortel,",
+				"Il ne leur fera rien."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allez dans le monde entier",
+				"Prêcher la bonne nouvelle",
+				"À toute la création."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En mon nom,",
+				"Ils poseront les mains sur les souffrants.",
+				"Par la force de l'Esprit,",
+				"Ils seront guéris."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allez dans le monde entier",
+				"Prêcher la bonne nouvelle",
+				"À toute la création."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem528",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

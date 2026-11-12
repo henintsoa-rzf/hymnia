@@ -1,0 +1,80 @@
+{
+	"id": "voici-l-enfant-nous-est-ne",
+	"title": "Voici l'Enfant nous est né.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "547"
+		},
+		{
+			"hymnal": "cd",
+			"number": "73"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voici l'enfant nous est né",
+				"Et le Fils nous est donné !",
+				"À Dieu gloire dans les cieux,",
+				"Grâce et paix dans ces bas lieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il vient de l'humanité",
+				"Revêtir l'infirmité,",
+				"Et porter sur une croix",
+				"De nos péchés tout le poids."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je t'adore, ô divin Roi !",
+				"Qui t'abaisses jusqu'à moi ;",
+				"Vient établir pour jamais",
+				"En nous ton règne de paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Maintenant que dans les cieux",
+				"Tu règnes victorieux,",
+				"Prépare tous tes élus",
+				"À ton retour, ô Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Freylinghausen",
+			"role": "music"
+		},
+		{
+			"name": "Psalmodie morave",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af547",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/879",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

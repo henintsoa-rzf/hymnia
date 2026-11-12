@@ -7,6 +7,7 @@
 import { get, writable, type Readable } from 'svelte/store';
 import {
 	addEntry,
+	applyRepairs,
 	createCollection,
 	deleteCollection,
 	moveEntry,
@@ -15,6 +16,7 @@ import {
 	renameCollection,
 	restoreCollection,
 	toggleEntry,
+	type CollectionRepair,
 	type HymnIdOf
 } from './model';
 import type { EntryRef, RepertoireDoc } from './schema';
@@ -42,18 +44,28 @@ export function createRepertoireStore(options: Options = {}) {
 	const lastDeleted = writable<LastDeleted>(null);
 	let undoTimer: ReturnType<typeof setTimeout> | undefined;
 	let persistAsked = false;
+	/** The "unavailable" notice is shown once per visit, even after it is dismissed. */
+	let unavailableShown = false;
+
+	function showUnavailable() {
+		if (unavailableShown) return;
+		unavailableShown = true;
+		notice.set('unavailable');
+	}
 
 	function load(): RepertoireDoc {
 		let raw: string | null = null;
 		try {
 			raw = storage?.getItem(STORAGE_KEY) ?? null;
 		} catch {
-			notice.set('unavailable');
+			showUnavailable();
 		}
 		const parsed = parseDocument(raw);
 		if (parsed.ok) return parsed.doc;
 		try {
 			storage?.setItem(`${CORRUPT_PREFIX}${now()}`, raw ?? '');
+			// Set aside once: the unreadable document must not be copied again on every launch.
+			storage?.removeItem(STORAGE_KEY);
 		} catch {
 			// Could not keep a copy; the notice still tells the user.
 		}
@@ -69,7 +81,7 @@ export function createRepertoireStore(options: Options = {}) {
 			if (!storage) throw new Error('no storage');
 			storage.setItem(STORAGE_KEY, JSON.stringify(next));
 		} catch {
-			if (get(notice) === null) notice.set('unavailable');
+			if (get(notice) === null) showUnavailable();
 		}
 		if (persist && !persistAsked && next.collections.length > 0) {
 			persistAsked = true;
@@ -137,6 +149,11 @@ export function createRepertoireStore(options: Options = {}) {
 			const result = toggleEntry(current(), id, ref, hymnIdOf, now());
 			if (result.status !== 'no-collection') save(result.doc);
 			return result.status;
+		},
+		/** Stores the repairs found when a catalog loads (feature 002, FR-027); one save. */
+		applyRepairs(repairs: CollectionRepair[]) {
+			const next = applyRepairs(current(), repairs);
+			if (next !== current()) save(next);
 		},
 		move(id: string, from: number, to: number) {
 			const next = moveEntry(current(), id, from, to, now());

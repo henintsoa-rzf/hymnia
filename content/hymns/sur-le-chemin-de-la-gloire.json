@@ -1,0 +1,65 @@
+{
+	"id": "sur-le-chemin-de-la-gloire",
+	"title": "Sur le chemin de la gloire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "382"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur le chemin de la gloire,",
+				"J'avance vers mon pays ;",
+				"Écoutez tous mon histoire",
+				"Et l'amour de Jésus-Christ :"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'étais mort dans ma misère,",
+				"Sans Dieu, sans espoir, sans foi ;",
+				"Un jour, j'appris, ô mystère,",
+				"Que Jésus est mort pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Son amour, que rien n'arrête,",
+				"Brisa mon cœur endurci ;",
+				"Maintenant ce cœur souhaite",
+				"D'en guider d'autres vers lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus, mon Ami suprême,",
+				"Sur moi veille : il l'a promis ;",
+				"J'aime Jésus, Jésus m'aime",
+				"Comme un berger sa brebis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Clemens Brentano",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg382",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

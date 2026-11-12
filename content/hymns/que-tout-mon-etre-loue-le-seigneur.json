@@ -1,0 +1,61 @@
+{
+	"id": "que-tout-mon-etre-loue-le-seigneur",
+	"title": "Que tout mon être loue le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "479"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que tout mon être loue le Seigneur,",
+				"Que tout mon être loue le Seigneur.",
+				"Que ma bouche célèbre le nom du Seigneur.",
+				"Que tout mon être le loue."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que tout mon être loue le Seigneur,",
+				"Que tout mon être loue le Seigneur.",
+				"Que ma bouche proclame",
+				"Les bienfaits du Seigneur.",
+				"Que tout mon être le loue."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que toute ma vie révèle le Dieu vivant,",
+				"Que toute ma vie révèle le Dieu vivant.",
+				"Que sa présence et sa vie",
+				"Me fassent porter du fruit.",
+				"Que tout mon être le loue."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gérard Bryon",
+			"role": "music"
+		},
+		{
+			"name": "Gérard Bryon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem479",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

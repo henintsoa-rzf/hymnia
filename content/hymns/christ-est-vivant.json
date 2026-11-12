@@ -1,0 +1,62 @@
+{
+	"id": "christ-est-vivant",
+	"title": "Christ est vivant !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "346"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !",
+				"Christ est vivant ! Sublime nouvelle :",
+				"Il a vaincu la tombe cruelle,",
+				"Et nous acquit la vie éternelle.",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !",
+				"Christ est vivant ! Ce cri de victoire",
+				"A transformé le cours de l’histoire,",
+				"Et de la croix il chante la gloire.",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !",
+				"Christ est vivant ! Ô sainte allégresse :",
+				"Il reviendra, telle est sa promesse,",
+				"Et nous vivrons avec lui sans cesse.",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "unspecified"
+		},
+		{
+			"name": "G.P. de Palestrina",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1144",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

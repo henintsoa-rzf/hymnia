@@ -1,0 +1,109 @@
+{
+	"id": "sois-fidele-tu-seras-fort",
+	"title": "Sois fidèle, tu seras fort.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "519"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sois fidèle, tu seras fort,",
+				"Sois fidèle jusqu'à la mort !",
+				"Car il n'est vie et liberté",
+				"Que dans le Christ ressuscité.",
+				"Il est le Verbe triomphant",
+				"Qui t'a créé, qui te défend,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sois fidèle, tu seras fort,",
+				"Sois fidèle jusqu'à la mort !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour résister au tentateur,",
+				"Regarde au Christ libérateur.",
+				"Quel autre est digne de ta foi ?",
+				"Lui seul, Lui seul est mort pour toi !",
+				"Apporte à ce Maître en ce jour,",
+				"La fleur de ton premier amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sois fidèle, tu seras fort,",
+				"Sois fidèle jusqu'à la mort !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour le droit et la vérité,",
+				"La patrie et l'humanité,",
+				"Pour ceux dont les jours vont finir,",
+				"Pour ceux dont le jour va venir,",
+				"Pour les peuples et pour les rois",
+				"Il n'est d'espoir que dans la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sois fidèle, tu seras fort,",
+				"Sois fidèle jusqu'à la mort !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il régnera sur l'univers,",
+				"Il fera tomber tous les fers,",
+				"Tous les pleurs seront essuyés,",
+				"Tous les maux seront oubliés.",
+				"Pour voir ces temps nouveaux s'ouvrir",
+				"Qui ne serait prêt à mourir ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sois fidèle, tu seras fort,",
+				"Sois fidèle jusqu'à la mort !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "August Hendrik Winding",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af519",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

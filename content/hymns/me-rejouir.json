@@ -1,0 +1,72 @@
+{
+	"id": "me-rejouir",
+	"title": "Me réjouir",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "637"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux fêter ton amour pour moi,",
+				"Laisser déborder mon bonheur d'être à toi.",
+				"Je veux danser, tourbillonner de joie.",
+				"Je veux tout oublier, ne penser qu'à toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Me réjouir dans ta présence,",
+				"Et t'offrir mes chants et mes danses.",
+				"C'est toi qui réjouis mon cœur,",
+				"Et je veux crier ma joie",
+				"D'être avec toi, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est ton Esprit qui agit en moi.",
+				"Il me saisit et me remplit de sa joie.",
+				"Toute ma vie, je la donne pour toi.",
+				"Oui, je choisis de te louer,",
+				"Toi, mon Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Me réjouir dans ta présence,",
+				"Et t'offrir mes chants et mes danses.",
+				"C'est toi qui réjouis mon cœur,",
+				"Et je veux crier ma joie",
+				"D'être avec toi, Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Delalande",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Delalande",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem637",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

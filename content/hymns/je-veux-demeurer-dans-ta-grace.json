@@ -1,0 +1,92 @@
+{
+	"id": "je-veux-demeurer-dans-ta-grace",
+	"title": "Je veux demeurer dans ta grâce",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "773"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux demeurer dans ta grâce,",
+				"Je n'ai rien à donner, ni rien à te prouver.",
+				"Je viens m'humilier devant ta face,",
+				"Tu me connais si bien, je ne te cache rien."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a que toi seul, toi seul, ô mon Jésus,",
+				"Qui aies connu",
+				"mes craintes et mes frayeurs.",
+				"Il n'y a que toi seul, toi seul, ô mon Jésus,",
+				"Qui d'un regard viennes apaiser mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'apprends à mourir à moi-même,",
+				"Je choisis ton chemin, j'abandonne le mien.",
+				"Ton Esprit me guide et m'enseigne",
+				"À dépendre de toi, j'ai tant besoin de toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a que toi seul, toi seul, ô mon Jésus,",
+				"Qui aies connu",
+				"mes craintes et mes frayeurs.",
+				"Il n'y a que toi seul, toi seul, ô mon Jésus,",
+				"Qui d'un regard viennes apaiser mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je chéris en moi ta parole,",
+				"Elle me parle de toi, elle fortifie ma foi.",
+				"J'apprends à prier tes prières ;",
+				"Lorsque tu as parlé, je ne peux plus douter."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a que toi seul, toi seul, ô mon Jésus,",
+				"Qui aies connu",
+				"mes craintes et mes frayeurs.",
+				"Il n'y a que toi seul, toi seul, ô mon Jésus,",
+				"Qui d'un regard viennes apaiser mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem773",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

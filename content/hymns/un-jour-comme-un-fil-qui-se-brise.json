@@ -1,0 +1,99 @@
+{
+	"id": "un-jour-comme-un-fil-qui-se-brise",
+	"title": "Un jour comme un fil qui se brise.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "505"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un jour, comme un fil qui se brise",
+				"Ma vie en ces lieux finira ;",
+				"Mais une autre au ciel m'est promise,",
+				"Et nul ne me la ravira.",
+				"Alors je verrai face à face",
+				"Celui qui m'a sauvé par grâce !",
+				"Alors je verrai face à face",
+				"Celui qui m'a sauvé par grâce !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un jour, ma demeure fragile",
+				"S'écroulera, mais dans les cieux,",
+				"Au lieu d'une prison d'argile,",
+				"Dieu m'offre un palais radieux.",
+				"Et je le verrai face à face",
+				"Celui qui m'a sauvé par grâce !",
+				"Et je le verrai face à face",
+				"Celui qui m'a sauvé par grâce !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme s'envole l'hirondelle",
+				"Au pays du jour éclatant,",
+				"Mon âme déploiera son aile",
+				"Vers le repos où Dieu l'attend.",
+				"Et je le verrai face à face",
+				"Celui qui m'a sauvé par grâce !",
+				"Et je le verrai face à face",
+				"Celui qui m'a sauvé par grâce !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais non pas seul ! Vers la lumière",
+				"Le peuple immense des élus",
+				"Montera de toute la terre,",
+				"En chantant l'amour de Jésus.",
+				"Et nous le verrons face à face,",
+				"Celui qui nous sauva par grâce !",
+				"Et nous le verrons face à face,",
+				"Celui qui nous sauva par grâce !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Quand viendra ce jour ? je l'ignore ;",
+				"Mais mon Dieu l'a fixé pour moi…",
+				"Je veille, je prie et j'adore,",
+				"Dans la paix que donne la foi,",
+				"Puis, je te verrai face à face,",
+				"O Christ qui m'as sauvé par grâce !",
+				"Puis, je te verrai face à face,",
+				"O Christ qui m'as sauvé par grâce !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Coles Stebbins",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af505",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

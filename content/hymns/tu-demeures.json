@@ -1,0 +1,118 @@
+{
+	"id": "tu-demeures",
+	"title": "Tu demeures",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1193"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vigne véritable plantée dans notre humanité,",
+				"Faveur formidable, tu m'as choisi, tu m'as greffé.",
+				"Ta sève intarissable en moi ne cesse de couler."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu demeures en moi, je demeure en toi.",
+				"L'échange est divin, il trace un chemin",
+				"Pour porter du fruit, le fruit de l'Esprit,",
+				"Le chant de mon cœur pour toi, mon Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu demeures en moi, je demeure en toi.",
+				"L'échange est divin, il trace un chemin",
+				"Pour porter du fruit, le fruit de l'Esprit,",
+				"Le chant de mon cœur pour toi, mon Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vigne véritable plantée dans notre humanité,",
+				"Faveur formidable, tu m'as choisi, tu m'as greffé.",
+				"Ta sève intarissable en moi ne cesse de couler."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ta parole en moi fortifie ma foi,",
+				"Émonde ma vie des branches ennemies.",
+				"Elle m'aide à marcher dans la vérité,",
+				"Elle crée le terrain pour l'amour du prochain."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ta parole en moi fortifie ma foi,",
+				"Émonde ma vie des branches ennemies.",
+				"Elle m'aide à marcher dans la vérité,",
+				"Elle crée le terrain pour l'amour du prochain."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ô Père, reçois le fruit de mes œuvres qui t'honorent.",
+				"Ô Père, reçois le fruit de mes lèvres qui t'adorent.",
+				"Ô Père, reçois le fruit de mes œuvres qui t'honorent.",
+				"Ô Père, reçois le fruit de mes lèvres qui t'adorent.",
+				"Ô Père, reçois le fruit de mes œuvres qui t'honorent.",
+				"Ô Père, reçois le fruit de mes lèvres."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu demeures en moi, je demeure en toi.",
+				"L'échange est divin, il trace un chemin",
+				"Pour porter du fruit, le fruit de l'Esprit,",
+				"Le chant de mon cœur pour toi, mon Sauveur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Benoît Dubray",
+			"role": "music"
+		},
+		{
+			"name": "Benoît Dubray",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1193",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

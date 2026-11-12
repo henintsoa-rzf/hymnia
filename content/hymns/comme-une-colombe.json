@@ -1,0 +1,74 @@
+{
+	"id": "comme-une-colombe",
+	"title": "Comme une colombe",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "851"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ton amour, oh Jésus, ton amour que je respire",
+				"Comme un parfum sublime me remplit d'émoi.",
+				"Ton amour, oh Jésus, ton amour se révèle",
+				"Comme une rose si belle quand elle se déploie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu as conquis mon cœur,",
+				"oui ton amour m'a ravi.",
+				"Toi seul as su m'attirer",
+				"vers tant de beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon cœur alors s'élance,",
+				"Comme une colombe s'envole vers ton cœur,",
+				"C'est là que je veux rester.",
+				"Mon cœur alors s'élance,",
+				"Comme une colombe s'envole vers ton cœur,",
+				"C'est là que je veux demeurer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon cœur alors s'élance,",
+				"Comme une colombe s'envole vers ton cœur,",
+				"C'est là que je veux rester.",
+				"Mon cœur alors s'élance,",
+				"Comme une colombe s'envole vers ton cœur,",
+				"C'est là que je veux demeurer.",
+				"Demeurer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Francine Charton",
+			"role": "music"
+		},
+		{
+			"name": "Francine Charton",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem851",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

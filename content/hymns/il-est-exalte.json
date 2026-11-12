@@ -1,0 +1,52 @@
+{
+	"id": "il-est-exalte",
+	"title": "Il est exalté",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "352"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est exalté,",
+				"Le Roi est au-dessus des cieux.",
+				"Je veux le louer.",
+				"Il est élevé, à jamais exalté",
+				"Et je loue son saint nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est Seigneur,",
+				"Sa vérité règnera,",
+				"Tout l'univers",
+				"Se réjouit dans son saint nom.",
+				"Il est exalté,",
+				"Le Roi est au-dessus des cieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Twila Paris",
+			"role": "music"
+		},
+		{
+			"name": "Twila Paris",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem352",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

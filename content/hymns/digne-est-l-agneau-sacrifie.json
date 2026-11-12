@@ -1,0 +1,110 @@
+{
+	"id": "digne-est-l-agneau-sacrifie",
+	"title": "Digne est l'Agneau sacrifié",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "902"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Digne est l'Agneau sacrifié,",
+				"Il est saint, il est saint.",
+				"Un chant nouveau à celui qui siège",
+				"Sur le trône de grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Digne est l'Agneau sacrifié,",
+				"Il est saint, il est saint.",
+				"Un chant nouveau à celui qui siège",
+				"Sur le trône de grâce."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint, oui saint, trois fois saint",
+				"Est le Seigneur tout-puissant",
+				"Qui est, qui était, qui revient !",
+				"Je chante avec la création :",
+				"« Louange au Roi des rois !",
+				"Oui, tu es tout pour moi",
+				"Et je veux t'adorer. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ceint des couleurs d'un arc en ciel,",
+				"Entouré d'éclairs, bruits de tonnerre,",
+				"Louange, honneur et puissance,",
+				"Force et gloire sont à toi,",
+				"Sagesse au Roi des rois !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint, oui saint, trois fois saint",
+				"Est le Seigneur tout-puissant",
+				"Qui est, qui était, qui revient !",
+				"Je chante avec la création :",
+				"« Louange au Roi des rois !",
+				"Oui, tu es tout pour moi",
+				"Et je veux t'adorer. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Émerveillé, oui, bouleversé,",
+				"Au seul écho de ton nom.",
+				"Jésus, ton nom est puissance,",
+				"Souffle et source d'eau vive.",
+				"Oh, quel mystère merveilleux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint, oui saint, trois fois saint",
+				"Est le Seigneur tout-puissant",
+				"Qui est, qui était, qui revient !",
+				"Je chante avec la création :",
+				"« Louange au Roi des rois !",
+				"Oui, tu es tout pour moi",
+				"Et je veux t'adorer. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jennie Lee Riddle",
+			"role": "music"
+		},
+		{
+			"name": "Jennie Lee Riddle",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem902",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

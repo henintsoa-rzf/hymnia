@@ -1,0 +1,59 @@
+{
+	"id": "une-nouvelle-creation",
+	"title": "Une nouvelle création",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "360"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Une nouvelle création,",
+				"Plus sous la condamnation,",
+				"Je vis dans la grâce de Dieu.",
+				"Mon cœur est débordant,",
+				"Mon amour grandissant",
+				"Je vis dans la grâce de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux te louer Seigneur,",
+				"Je veux te louer Seigneur,",
+				"Je veux chanter tout ce que tu as fait."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"En moi plus de fardeaux,",
+				"La joie et le repos,",
+				"Je vis dans la grâce de Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Bilbrough",
+			"role": "music"
+		},
+		{
+			"name": "David Bilbrough",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem360",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

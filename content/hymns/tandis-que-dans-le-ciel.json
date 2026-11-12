@@ -1,0 +1,71 @@
+{
+	"id": "tandis-que-dans-le-ciel",
+	"title": "Tandis que dans le ciel.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "150"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tandis que dans le ciel",
+				"tu prépares la place",
+				"Que les tiens avec Toi",
+				"vont occuper un jour,",
+				"Nous voulons célébrer",
+				"ta justice et ta grâce,",
+				"Ton amour, ô Sauveur,",
+				"ton ineffable amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, Seigneur, nous venons,",
+				"en ta sainte présence",
+				"Goûter en cet instant",
+				"les délices du ciel ;",
+				"Et pourtant ici-bas,",
+				"nous sentons ton absence…",
+				"En attendant le jour",
+				"du repos éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En attendant, Seigneur,",
+				"nous prenons sur la terre",
+				"Le festin que pour nous",
+				"prépara ton amour.",
+				"Et nous y proclamons",
+				"ta grâce salutaire,",
+				"Tes souffrances, ta mort,",
+				"et ton prochain retour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Crüger",
+			"role": "music"
+		},
+		{
+			"name": "Tribollier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af150",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

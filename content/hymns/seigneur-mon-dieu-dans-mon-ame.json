@@ -1,0 +1,80 @@
+{
+	"id": "seigneur-mon-dieu-dans-mon-ame",
+	"title": "Seigneur, mon Dieu, dans mon âme.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "591"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, mon Dieu",
+				"dans mon âme angoissée",
+				"Répands enfin la vie et le bonheur ;",
+				"Viens la guérir, viens, car elle est froissée",
+				"Par le péché, la crainte et la douleur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon fol orgueil trop longtemps de tes voies",
+				"A méconnu la fidèle bonté ;",
+				"En te fuyant, dans le monde et ses joies,",
+				"Je n'ai trouvé que vide et vanité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je viens à toi comme l'enfant prodigue,",
+				"O Père saint ! je n'ai rien à t'offrir",
+				"Que mes péchés, ma langueur, ma fatigue ;",
+				"Et toutefois tu veux bien m'accueillir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Dieu Sauveur ! ta fidèle promesse",
+				"De mon pardon m'offre un gage certain :",
+				"Toi qui connais ma honte et ma détresse,",
+				"Ah ! tends vers moi ta secourable main."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Verse en mon cœur, toujours tardif à croire,",
+				"Sans te lasser, les trésors de ta paix ;",
+				"Il est rebelle, il est dur, mais ta gloire",
+				"C'est de les vaincre à force de bienfaits."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "Frédéric Chavannes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af591",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

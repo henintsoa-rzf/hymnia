@@ -1,0 +1,67 @@
+{
+	"id": "jesus-toi-le-reflet",
+	"title": "Jésus, toi le reflet",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "435"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, toi le reflet",
+				"de la splendeur du Père.",
+				"Tu es le Fils, l'héritier choisi.",
+				"Par toi, tout fut créé.",
+				"Par ta parole puissante",
+				"tu soutiens tout l'univers.",
+				"Du péché tu nous as lavés,",
+				"Tu es élevé, Seigneur,",
+				"à la droite de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, toi le reflet",
+				"de la splendeur du Père.",
+				"Tu es le Fils, l'héritier choisi.",
+				"Par toi, tout fut créé.",
+				"Par ta parole puissante",
+				"tu soutiens tout l'univers.",
+				"Du péché tu nous as lavés,",
+				"Tu es élevé, Seigneur,",
+				"à la droite de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Gloire et honneur sont ta couronne.",
+				"Nous t'adorons."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Fellingham",
+			"role": "music"
+		},
+		{
+			"name": "David Fellingham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem435",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

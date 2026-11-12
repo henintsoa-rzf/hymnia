@@ -1,0 +1,62 @@
+{
+	"id": "etonnement",
+	"title": "Étonnement",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "106"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, ta naissance m’étonne : Tu es venu comme un homme;",
+				"Toi qui étais Dieu, Tu es venu les mains vides;",
+				"Pourtant Tu étais riche, mais Tu t’es rendu pauvre,",
+				"Pourtant Tu étais riche, mais Tu t’es tout donné,",
+				"Tu t’es donné pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, ton enfance m’étonne : Tu avais l’âge d’apprendre;",
+				"Toi qui savais tout, Tu pouvais tout diriger,",
+				"Tu pouvais t’imposer, mais Tu t’es abaissé,",
+				"Tu pouvais t’imposer, mais Tu t’es humilié,",
+				"Tu t’es donné pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, ta venue m’étonne ; on savait que Tu viendrais;",
+				"Toi le Maître, on n’a pas voulu de Toi.",
+				"Tu étais Fils de Dieu, mais Tu devins fils d’homme,",
+				"Tu étais Fils de Dieu, mais Tu es né comme moi,",
+				"Tu t’es donné pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Varidel",
+			"role": "lyrics"
+		},
+		{
+			"name": "Mady Ramos",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-6",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

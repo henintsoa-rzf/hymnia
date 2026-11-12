@@ -1,0 +1,60 @@
+{
+	"id": "pas-d-autre-dieu",
+	"title": "Pas d'autre Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "929"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vie abondante,",
+				"Dieu créateur, la terre entière,",
+				"Profondeurs des mers",
+				"Sont entre tes mains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le début, la fin,",
+				"Dieu éternel, tu es le premier,",
+				"Tu es le dernier, alpha, oméga."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a pas d'autre Dieu,",
+				"Il n'y a pas d'autre roi,",
+				"Il n'y a pas d'autre Dieu comme toi.",
+				"Il n'y a pas d'autre Dieu,",
+				"Il n'y a pas d'autre roi,",
+				"Il n'y a pas d'autre Dieu comme toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Markus Fuchs",
+			"role": "music"
+		},
+		{
+			"name": "Markus Fuchs",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem929",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

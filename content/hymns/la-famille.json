@@ -1,0 +1,41 @@
+{
+	"id": "la-famille",
+	"title": "La famille",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "218"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, nous faisons",
+				"Partie de la famille de Dieu,",
+				"Les héritiers du Père.",
+				"Nous partageons",
+				"Nos biens, nos joies et nos fardeaux ;",
+				"Nous sommes sœurs et frères !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem218",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

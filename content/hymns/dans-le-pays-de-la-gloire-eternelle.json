@@ -1,0 +1,89 @@
+{
+	"id": "dans-le-pays-de-la-gloire-eternelle",
+	"title": "Dans le pays de la gloire éternelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "420"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans le pays de la gloire éternelle,",
+				"Dans ce beau ciel où l'on ne souffre plus,",
+				"Te contempler, abrité sous ton aile,",
+				"C'est le bonheur que je rêve, ô Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à jamais, gloire à Jésus !",
+				"Gloire à jamais, gloire à Jésus !",
+				"Auprès de Lui je ne pécherai plus !",
+				"Oh ! gloire à jamais, gloire à Toi, Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand tu m'auras, dans ta grâce infinie,",
+				"Fait une place au milieu des élus,",
+				"Tout mon bonheur, et ma gloire et ma vie",
+				"Sera toujours de te louer, Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à jamais, gloire à Jésus !",
+				"Gloire à jamais, gloire à Jésus !",
+				"Auprès de Lui je ne pleurerai plus !",
+				"Oh ! gloire à jamais, gloire à Toi, Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mes bien-aimés partageront ma gloire,",
+				"Dans ton ciel où l'on ne se quitte plus.",
+				"Mais pour mon cœur la suprême victoire",
+				"Sera d'avoir ton sourire, ô Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à jamais, gloire à Jésus !",
+				"Gloire à jamais, gloire à Jésus !",
+				"Auprès de Lui je ne souffrirai plus !",
+				"Oh ! gloire à jamais, gloire à Toi, Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Hutchinson Gabriel",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af420",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

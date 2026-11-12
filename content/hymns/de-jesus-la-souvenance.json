@@ -1,0 +1,89 @@
+{
+	"id": "de-jesus-la-souvenance",
+	"title": "De Jésus la souvenance.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "539"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"De Jésus la souvenance",
+				"Donne à l'âme un vrai bonheur",
+				"Douce en est la jouissance,",
+				"Mais sa divine présence",
+				"Du miel passe la douceur,",
+				"Du miel passe la douceur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Non, rien de plus agréable",
+				"Ne se chante en aucun lieu,",
+				"Point de parler plus aimable,",
+				"De penser plus délectable",
+				"Que Jésus, le Fils de Dieu,",
+				"Que Jésus, le Fils de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, même le rebelle,",
+				"Dès qu'il t'implore est sauvé ;",
+				"Mais, si ta grâce est fidèle",
+				"Pour qui te cherche, qu'est-elle",
+				"Pour celui qui t'a trouvé !",
+				"Pour celui qui t'a trouvé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La langue ne peut le dire,",
+				"Ni la plume l'exprimer ;",
+				"Qui vers Jésus se retire",
+				"N'a point de mot pour décrire",
+				"Ce que c'est que de l'aimer,",
+				"Ce que c'est que de l'aimer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Sois, ô Jésus ! notre joie,",
+				"Toi qui seras notre ciel,",
+				"Et qu'au terme de la voie",
+				"Ta gloire en nous se déploie",
+				"Dans ton royaume éternel,",
+				"Dans ton royaume éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "A. Oeschner",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af539",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

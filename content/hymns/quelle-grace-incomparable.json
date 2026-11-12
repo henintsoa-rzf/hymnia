@@ -1,0 +1,139 @@
+{
+	"id": "quelle-grace-incomparable",
+	"title": "Quelle grâce incomparable",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1016"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui brise le pouvoir du mal, de la mort ?",
+				"Qui aime d'un amour si puissant, si fort ?",
+				"C'est le Roi de gloire, il est le Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui secoue la terre par un saint tonnerre ?",
+				"Qui nous émerveille par tant de mystères ?",
+				"C'est le Roi de gloire, il est le Roi des rois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quelle grâce incomparable,",
+				"Quel amour infini",
+				"Que tu aies pris ma croix,",
+				"Que tu sois mort pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu as payé le prix",
+				"Pour qu'enfin je sois libre.",
+				"Oh ! Jésus, je te chante",
+				"Pour ce que tu as fait."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qui ramène la paix dans la confusion,",
+				"Change les orphelins en fils et en filles ?",
+				"C'est le Roi de gloire, il est le Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qui règne sur les peuples dans la vérité,",
+				"Brille comme le soleil de tout son éclat ?",
+				"C'est le Roi de gloire, il est le Roi des rois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quelle grâce incomparable,",
+				"Quel amour infini",
+				"Que tu aies pris ma croix,",
+				"Que tu sois mort pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu as payé le prix",
+				"Pour qu'enfin je sois libre.",
+				"Oh ! Jésus, je te chante",
+				"Pour ce que tu as fait."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Digne est l'Agneau immolé.",
+				"Digne est le Roi, vainqueur sur la mort.",
+				"Digne est l'Agneau immolé.",
+				"Digne est le Roi, vainqueur sur la mort.",
+				"Digne est l'Agneau immolé.",
+				"Digne est le Roi, vainqueur sur la mort.",
+				"Digne est l'Agneau immolé.",
+				"Digne est le Roi, vainqueur sur la mort."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quelle grâce incomparable,",
+				"Quel amour infini",
+				"Que tu aies pris ma croix,",
+				"Que tu sois mort pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu as payé le prix",
+				"Pour qu'enfin je sois libre.",
+				"Oh ! Jésus, je te chante",
+				"Pour ce que tu as fait."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Phil Wickham, Jeremy Riddle et Josh Farro",
+			"role": "music"
+		},
+		{
+			"name": "Phil Wickham, Jeremy Riddle et Josh Farro",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1016",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

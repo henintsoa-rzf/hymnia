@@ -1,0 +1,57 @@
+{
+	"id": "ta-fidelite",
+	"title": "Ta fidélité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "503"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta fidélité, Seigneur,",
+				"Dure chaque jour ;",
+				"Tu prends soin de tes enfants,",
+				"Les comblant d'amour.",
+				"Je veux t'obéir, Seigneur,",
+				"Te donner ma vie,",
+				"Accomplir ta volonté,",
+				"Te suivre et t'aimer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je te remercie, Jésus,",
+				"Pour ta vie en moi ;",
+				"Que mes jours te glorifient",
+				"Et parlent de toi.",
+				"Un jour, tu viendras, Seigneur,",
+				"Pour nous rassembler ;",
+				"Nous pourrons te contempler,",
+				"T'adorer sans fin."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Nadler",
+			"role": "music"
+		},
+		{
+			"name": "François Nadler",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem503",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

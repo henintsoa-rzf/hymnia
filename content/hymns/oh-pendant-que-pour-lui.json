@@ -1,0 +1,86 @@
+{
+	"id": "oh-pendant-que-pour-lui",
+	"title": "Oh ! pendant que pour lui.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "613"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! pendant que pour lui",
+				"l'Église est en prière,",
+				"Divin Chef de l'Église intercède pour lui !",
+				"Que sur ton serviteur",
+				"entrant dans la carrière",
+				"Ton Esprit descende aujourd'hui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi que le Roi des rois à son service appelle,",
+				"Confesseur et témoin du nom qui nous unit,",
+				"Reçois de son amour une onction nouvelle,",
+				"Sois fidèle à celui qui demeure fidèle :",
+				"L'Église te consacre et Jésus te bénit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que des armes de Dieu",
+				"l'Esprit-Saint te revête,",
+				"Car la lice aujourd'hui s'ouvre devant tes pas !",
+				"Pendant que vers le ciel",
+				"montent nos chants de fête,",
+				"L'ennemi nous observe",
+				"et dans l'ombre s'apprête",
+				"À te livrer demain de périlleux combats."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Contre toi que le monde entier se coalise,",
+				"Que la lutte soit longue et l'ennemi jaloux,",
+				"Tourne-toi vers ton chef,",
+				"c'est le Chef de l'Église :",
+				"Soldat de Jésus-Christ, la victoire est promise",
+				"À qui sent sa faiblesse et combat à genoux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"En avant pour souffrir,",
+				"pour aimer et pour croire !",
+				"Si la crainte parfois venait troubler ton cœur,",
+				"Vois rayonner là-haut la couronne de gloire,",
+				"Car ce n'est pas de toi que dépend la victoire,",
+				"C'est la grâce de Dieu qui te rendra vainqueur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af613",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

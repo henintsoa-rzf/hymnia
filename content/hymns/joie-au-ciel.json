@@ -1,0 +1,142 @@
+{
+	"id": "joie-au-ciel",
+	"title": "Joie au ciel.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "244"
+		},
+		{
+			"hymnal": "cd",
+			"number": "194"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Joie au ciel !",
+				"Écoutez, écoutez ces cantiques :",
+				"Le prodigue est de retour !",
+				"Il revient, il revient,",
+				"ouvrez-vous, saints portiques !",
+				"Il revient, affamé de pardon et d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Debout sur la route,",
+				"Son père l'attend :",
+				"« C'est lui, plus de doute,",
+				"Voici mon enfant ! »",
+				"Plein de tendresse,",
+				"Il court, il presse",
+				"Dans ses bras le fils repentant.",
+				"Joie au ciel ! Écoutez, écoutez ces cantiques :",
+				"Le prodigue est de retour !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joie au ciel !",
+				"Écoutez, écoutez ces cantiques :",
+				"Le prodigue est de retour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Joie au ciel ! Écoutez, écoutez sa prière,",
+				"Car il pleure et se repent :",
+				"« J'ai péché, j'ai péché contre toi, tendre Père,",
+				"Et je n'ose espérer d'être encor ton enfant. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Père s'écrie :",
+				"« Mon fils est sauvé !",
+				"Il vient à la vie, il est retrouvé ! »",
+				"Le fils écoute,",
+				"Et son cœur doute",
+				"Qu'un si beau jour se soit levé.",
+				"Joie au ciel ! Écoutez, écoutez sa prière,",
+				"Car il pleure et se repent."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joie au ciel !",
+				"Écoutez, écoutez ces cantiques :",
+				"Le prodigue est de retour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Joie au ciel !",
+				"« Apportez des vêtements de fête",
+				"Pour le voyageur lassé.",
+				"Qu'au banquet de l'amour",
+				"ma demeure s'apprête",
+				"Et dans nos chants joyeux",
+				"oublions le passé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, que tout s'efface,",
+				"Qu'il ne reste plus",
+				"Mémoire ni trace des jours disparus",
+				"Au fils que j'aime, aujourd'hui même,",
+				"Mon cœur et mes biens sont rendus. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joie au ciel !",
+				"Écoutez, écoutez ces cantiques :",
+				"Le prodigue est de retour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil anglais",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af244",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1021",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

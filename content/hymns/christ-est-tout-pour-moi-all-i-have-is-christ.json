@@ -1,0 +1,83 @@
+{
+	"id": "christ-est-tout-pour-moi-all-i-have-is-christ",
+	"title": "Christ est tout pour moi (All I Have Is Christ)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "605"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J’étais perdu, la nuit régnait,",
+				"Je croyais voir l’issue.",
+				"Les joies promises par le péché",
+				"Me menaient vers la mort.",
+				"Pour moi rebelle, aucun espoir",
+				"D’un jour t’appartenir",
+				"Sans ton amour venu d’abord",
+				"Je dirais non encore."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Malgré ma course vers l’enfer",
+				"Sourd au prix à payer,",
+				"Tu t’es penché sur ma faiblesse,",
+				"M’as mené vers la croix.",
+				"J’ai contemplé l’amour de Dieu,",
+				"Quand tu souffrais pour moi.",
+				"Ma punition, tu l’as portée",
+				"Maintenant tout est grâce !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, Christ est tout pour moi !",
+				"Alléluia, En Jésus, ma vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je veux, Seigneur, être à toi seul",
+				"Et montrer par ma vie",
+				"Que pour te suivre et t’obéir",
+				"Je ne suis rien sans toi.",
+				"Ô Père, emploie pour tes projets",
+				"Ma vie payée si cher.",
+				"Et que mon chant dise à toujours :",
+				"«Toi seul est ma fierté.»"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jordan Kauflin",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jordan Kauflin",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-5",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

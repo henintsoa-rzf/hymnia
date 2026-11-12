@@ -1,0 +1,117 @@
+{
+	"id": "oh-viens-a-moi",
+	"title": "Oh ! viens à Moi.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "221"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! viens à Moi, ton Sauveur et ton Frère,",
+				"Je donnerai, pèlerin, à ton cœur,",
+				"Tous mes trésors au lieu de ta misère",
+				"Et mon repos au sein de ton labeur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! viens à Moi !",
+				"Oh ! viens à Moi !",
+				"Oh ! viens à Moi !",
+				"Mon repos est pour toi,",
+				"Mon repos est pour toi,",
+				"Mon repos est pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La paix pour toi, et plus d'inquiétude !",
+				"Tous tes péchés, oh ! viens les déposer",
+				"Devant la Croix, remède à toute chute,",
+				"Viens sur mon cœur, enfin, te reposer !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! viens à Moi !",
+				"Oh ! viens à Moi !",
+				"Oh ! viens à Moi !",
+				"Ma paix, elle est pour toi,",
+				"Ma paix, elle est pour toi,",
+				"Ma paix, elle est pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Accours vers Moi, si tu te sens coupable,",
+				"Si du péché tu crains le châtiment,",
+				"Ne sais-tu pas, vérité redoutable,",
+				"Qu'après la mort suivra le jugement ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! viens à Moi !",
+				"Oh ! viens à Moi !",
+				"Oh ! viens à Moi !",
+				"Mon pardon est pour toi,",
+				"Mon pardon est pour toi,",
+				"Mon pardon est pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Elle est pour toi, ma joie impérissable !",
+				"Il est pour toi, mon merveilleux amour !",
+				"Elle est à toi, la source intarissable",
+				"De tous mes biens si tu viens en ce jour !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! viens à Moi !",
+				"Oh ! viens à Moi !",
+				"Oh ! viens à Moi !",
+				"Tous mes biens sont pour toi,",
+				"Tous mes biens sont pour toi,",
+				"Tous mes biens sont pour toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Coles Stebbins",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af221",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,62 @@
+{
+	"id": "embrase-ma-vie",
+	"title": "Embrase ma vie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "619"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ravive mon amour,",
+				"Je crie vers toi, embrase ma vie, Seigneur.",
+				"Que ma vision demeure,",
+				"Je crie vers toi, embrase ma vie, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu vois mon cœur, ma vie,",
+				"Je crie vers toi, embrase ma vie, Seigneur.",
+				"Corrige-moi, Seigneur,",
+				"Je crie vers toi, embrase ma vie, Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je viens pour acheter de l'or purifié.",
+				"Nu, misérable, pauvre et aveugle,",
+				"Je viens, couvre ma honte,",
+				"Donne-moi ta justice,",
+				"Embrase-moi Seigneur.",
+				"Embrase-moi Seigneur.",
+				"Embrase-moi Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brian Doerksen",
+			"role": "music"
+		},
+		{
+			"name": "Brian Doerksen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem619",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

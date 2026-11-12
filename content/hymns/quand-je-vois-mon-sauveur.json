@@ -1,0 +1,70 @@
+{
+	"id": "quand-je-vois-mon-sauveur",
+	"title": "Quand je vois mon Sauveur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "501"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je vois mon Sauveur",
+				"sur le bois d'infamie",
+				"Souffrant pour mon péché Sa terrible agonie",
+				"Mon cœur est tout meurtri,",
+				"mes yeux sont pleins de pleurs",
+				"Mon être racheté se donne au Rédempteur,",
+				"Mon être racheté se donne au Rédempteur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je vois son front saigner",
+				"sous l'infâme couronne",
+				"Je vois son sang couler,",
+				"par qui Dieu nous pardonne",
+				"« Jésus si loin de Toi, je voulais fuir un jour",
+				"Fais-moi revoir le sang que donna ton amour",
+				"Fais-moi revoir le sang que donna Ton amour. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"« Pourquoi m'as-tu laissé,",
+				"gémit-Il, ô mon Père ? »",
+				"Et Dieu le laissa seul, mourir sur le Calvaire.",
+				"Mais Sa mort m'a sauvé,",
+				"Jésus est mort pour moi !",
+				"O mon Frère avec moi,",
+				"viens regarde à la Croix !",
+				"O mon Frère avec moi,",
+				"viens regarde à la Croix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "S.-P. de Roos",
+			"role": "music"
+		},
+		{
+			"name": "Jacques-A. Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af501",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

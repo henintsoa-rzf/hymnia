@@ -1,0 +1,49 @@
+{
+	"id": "rendons-gloire",
+	"title": "Rendons gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "179"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rendons gloire à Dieu notre Père,",
+				"Bénissons notre Rédempteur",
+				"Et que l'Esprit-Saint nous libère",
+				"De la tristesse et de la peur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que la joie de Dieu nous habite,",
+				"Que la paix de notre Seigneur",
+				"Ici-bas jamais ne nous quitte,",
+				"Mais qu'elle éclaire notre cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alain Burnand",
+			"role": "music"
+		},
+		{
+			"name": "Alain Burnand",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem179",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,124 @@
+{
+	"id": "semons-des-l-aurore",
+	"title": "Semons dès l'aurore.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "615"
+		},
+		{
+			"hymnal": "cd",
+			"number": "345"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Semons dès l'aurore,",
+				"Semons dès l'aurore,",
+				"Quand le soleil luit",
+				"Quand le soleil luit,",
+				"Et semons encore",
+				"Lorsque vient la nuit",
+				"Dieu peut faire éclore",
+				"La fleur et le fruit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bon courage, amis !",
+				"Bon courage, amis !",
+				"Nous irons joyeux",
+				"Cueillir les épis.",
+				"Bon courage, amis !",
+				"Bon courage, amis !",
+				"Nous irons joyeux",
+				"Cueillir les épis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Semons pour le Maître,",
+				"Semons pour le Maître,",
+				"Parlons du Sauveur",
+				"Parlons du Sauveur,",
+				"Semons, car peut-être",
+				"Un pauvre pécheur",
+				"Par nous pourra naître",
+				"Au seul vrai bonheur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bon courage, amis !",
+				"Bon courage, amis !",
+				"Nous irons joyeux",
+				"Cueillir les épis.",
+				"Bon courage, amis !",
+				"Bon courage, amis !",
+				"Nous irons joyeux",
+				"Cueillir les épis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La tâche est immense,",
+				"La tâche est immense,",
+				"Et dur le terrain",
+				"Et dur le terrain,",
+				"Mais, bonne espérance !",
+				"Nul travail n'est vain",
+				"De Dieu la puissance",
+				"Fait germer le grain."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bon courage, amis !",
+				"Bon courage, amis !",
+				"Nous irons joyeux",
+				"Cueillir les épis.",
+				"Bon courage, amis !",
+				"Bon courage, amis !",
+				"Nous irons joyeux",
+				"Cueillir les épis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "G.-A. Miner",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Louis Decoppet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af615",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1143",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

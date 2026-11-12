@@ -1,0 +1,109 @@
+{
+	"id": "tu-es-venu-jusqu-a-nous",
+	"title": "Tu es venu jusqu'à nous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "553"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es venu jusqu'à nous,",
+				"Quittant la gloire de ton ciel.",
+				"Tu es venu pour servir,",
+				"Donnant ta vie pour nous sauver."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu tout-puissant, Roi serviteur,",
+				"Tu nous appelles tous à te suivre",
+				"Et à t'offrir nos corps en sacrifice.",
+				"À toi l'honneur, Roi serviteur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans le jardin de douleur,",
+				"Où mon fardeau brisa ton cœur,",
+				"Tu dis à Dieu, dans ta peine:",
+				"« Ta volonté et non la mienne. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu tout-puissant, Roi serviteur,",
+				"Tu nous appelles tous à te suivre",
+				"Et à t'offrir nos corps en sacrifice.",
+				"À toi l'honneur, Roi serviteur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voyez ses mains et ses pieds,",
+				"Pour nous, témoins du sacrifice.",
+				"Les mains qui tenaient la terre,",
+				"Se livrent aux clous de la colère."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu tout-puissant, Roi serviteur,",
+				"Tu nous appelles tous à te suivre",
+				"Et à t'offrir nos corps en sacrifice.",
+				"À toi l'honneur, Roi serviteur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Apprenons donc à servir,",
+				"En laissant Christ régner en nous.",
+				"Car en aimant nos prochains,",
+				"C'est Jésus-Christ que nous servons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu tout-puissant, Roi serviteur,",
+				"Tu nous appelles tous à te suivre",
+				"Et à t'offrir nos corps en sacrifice.",
+				"À toi l'honneur, Roi serviteur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem553",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

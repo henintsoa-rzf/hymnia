@@ -1,0 +1,100 @@
+{
+	"id": "le-seigneur-est-mon-berger",
+	"title": "Le Seigneur est mon berger",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "143"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur est mon berger,",
+				"Réjouis-toi mon âme,",
+				"Car il me fait reposer",
+				"Au bord des eaux calmes.",
+				"Je ne manquerai de rien,",
+				"Restaure-toi mon âme,",
+				"Sa justice est mon seul bien",
+				"Et je le proclame."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, oui, partout je chanterai,",
+				"Alléluia, alléluia,",
+				"le Seigneur est mon berger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que survienne le danger,",
+				"Ne t'en fais pas mon âme,",
+				"Il vient toujours protéger,",
+				"Ceux qui le réclament.",
+				"Oh non ! je ne craindrai rien,",
+				"Réjouis-toi mon âme,",
+				"Le Seigneur est mon gardien",
+				"Et je le proclame."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, oui, partout je chanterai,",
+				"Alléluia, alléluia,",
+				"le Seigneur est mon berger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et lorsque j'arriverai,",
+				"Réjouis-toi mon âme,",
+				"Dans l'éternité bleutée",
+				"De son ciel si calme,",
+				"Oh oui ! que je serai bien.",
+				"Restaure-toi mon âme,",
+				"Car nous le verrons enfin,",
+				"Chante-le mon âme."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, oui, partout je chanterai,",
+				"Alléluia, alléluia,",
+				"le Seigneur est mon berger.",
+				"Le Seigneur est mon berger,",
+				"Jésus c'est le bon berger."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gil Bernard",
+			"role": "music"
+		},
+		{
+			"name": "Gil Bernard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem143",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

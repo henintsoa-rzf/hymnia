@@ -1,0 +1,69 @@
+{
+	"id": "eternel-tu-fus-notre-appui",
+	"title": "Éternel, tu fus notre appui",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "195"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Éternel, tu fus notre appui,",
+				"Tu veux l’être à toujours.",
+				"Dans l’orage et la sombre nuit,",
+				"De toi vient le secours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sous ta garde, tes serviteurs",
+				"Ont marché sûrement.",
+				"Dans nos combats, dans nos malheurs,",
+				"Ton amour nous défend."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Souverain du monde créé,",
+				"Toi seul est l’Éternel.",
+				"Le monde passe et sa beauté,",
+				"Toi seul est immortel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Lorsque viendra la sombre nuit,",
+				"Lorsque viendra la mort,",
+				"Toi qui fus toujours notre appui,",
+				"Reste avec nous, Dieu fort !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "W. Croft",
+			"role": "unspecified"
+		},
+		{
+			"name": "J.E. Siordet",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1022",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

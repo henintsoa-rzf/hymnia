@@ -1,0 +1,41 @@
+{
+	"id": "souffle-esprit-createur",
+	"title": "Souffle, Esprit créateur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "139"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Souffle, oh ! souffle, Esprit créateur,",
+				"Courbe nos volontés rebelles,",
+				"Et qu'aujourd'hui, dans nos cœurs,",
+				"Jaillisse une vie nouvelle !",
+				"Souffle sur nous des quatre vents,",
+				"Souffle, Esprit du Dieu tout-puissant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem139",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

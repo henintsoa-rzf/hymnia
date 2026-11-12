@@ -1,0 +1,109 @@
+{
+	"id": "j-ai-soif-de-ta-presence-jem-623",
+	"title": "J'ai soif de ta présence",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "623"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai soif de ta présence,",
+				"Divin chef de ma foi.",
+				"Dans ma faiblesse immense",
+				"Que ferais-je sans toi ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour, à chaque heure,",
+				"O j'ai besoin de toi.",
+				"Viens Jésus et demeure",
+				"Auprès de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des ennemis, dans l'ombre,",
+				"Rôdent autour de moi.",
+				"Accablé par le nombre",
+				"Que ferais-je sans toi ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour, à chaque heure,",
+				"O j'ai besoin de toi.",
+				"Viens Jésus et demeure",
+				"Auprès de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pendant les jours d'orage,",
+				"D'obscurité, d'effroi,",
+				"Quand faiblit mon courage",
+				"Que ferais-je sans toi ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour, à chaque heure,",
+				"O j'ai besoin de toi.",
+				"Viens Jésus et demeure",
+				"Auprès de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh Jésus, ta présence,",
+				"C'est la vie et la paix.",
+				"La paix dans la souffrance",
+				"Et la vie à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour, à chaque heure,",
+				"O j'ai besoin de toi.",
+				"Viens Jésus et demeure",
+				"Auprès de moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem623",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

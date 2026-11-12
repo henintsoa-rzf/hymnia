@@ -1,0 +1,63 @@
+{
+	"id": "te-ressembler-jesus",
+	"title": "Te ressembler, Jésus",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "263"
+		},
+		{
+			"hymnal": "jem",
+			"number": "240"
+		},
+		{
+			"hymnal": "cd",
+			"number": "263"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Te ressembler, Jésus,",
+				"C'est mon espoir suprême :",
+				"Penser, agir, aimer,",
+				"Toujours plus comme toi.",
+				"Te ressembler Jésus,",
+				"C'est mon espoir suprême.",
+				"Par ton Esprit rends-moi",
+				"Semblable à toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Larsson",
+			"role": "music"
+		},
+		{
+			"name": "John Gowans",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg263",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem240",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1086",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

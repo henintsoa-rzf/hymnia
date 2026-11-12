@@ -1,0 +1,74 @@
+{
+	"id": "sur-le-mont-du-calvaire",
+	"title": "Sur le mont du Calvaire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "130"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur le mont du Calvaire, il était une croix",
+				"Où Jésus souffrit tant de douleurs ;",
+				"Oui, c'est là qu'il mourut, sur cet infâme bois,",
+				"Pour sauver le plus vil des pécheurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cette croix, cette croix",
+				"me sera toujours chère,",
+				"Elle est gloire et victoire pour moi ;",
+				"Et par elle, et par elle,",
+				"en la maison du Père,",
+				"La couronne est offerte à ma foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"M'appuyant avec foi sur la croix de Jésus,",
+				"Son opprobre je veux le porter",
+				"Jusqu'au jour bienheureux où, parmi les élus,",
+				"Dans le ciel je pourrai l'exalter."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cette croix, cette croix",
+				"me sera toujours chère,",
+				"Elle est gloire et victoire pour moi ;",
+				"Et par elle, et par elle,",
+				"en la maison du Père,",
+				"La couronne est offerte à ma foi.",
+				"Cette croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Oemkens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg130",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

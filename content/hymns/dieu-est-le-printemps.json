@@ -1,0 +1,68 @@
+{
+	"id": "dieu-est-le-printemps",
+	"title": "Dieu est le printemps",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "116"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu est le printemps, il chasse l’hiver",
+				"Pour laisser la place à la vie.",
+				"Mais si ton coeur est glacé comme la pierre,",
+				"Dieu peut lui rendre la vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"On parle souvent d’amour, de fraternité,",
+				"Pourtant la solitude te suit.",
+				"Tu as un vide en toi que rien ne peut combler,",
+				"De ton passé tu veux être affranchi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La joie de vivre est passée, emportée par le vent;",
+				"Tu as tourné le dos à Jésus-Christ.",
+				"Pourtant les fleurs des champs recherchent le soleil,",
+				"La lumière qui donne la vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Depuis trop longtemps tu vis en hiver,",
+				"Et tu sais comment changer de saison.",
+				"Pourtant tu continues à refuser la vie. Seul l’amour de Jésus peut te la donner."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Heinrich Riesich",
+			"role": "lyrics"
+		},
+		{
+			"name": "Heinrich Riesich",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-16",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

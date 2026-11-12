@@ -1,0 +1,81 @@
+{
+	"id": "au-pays-d-egypte-israel",
+	"title": "Au pays d'Égypte, Israël…",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "303"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au pays d'Égypte, Israël",
+				"Laisse aller mon peuple !",
+				"Souffrait des coups d'un roi cruel.",
+				"Laisse aller mon peuple !",
+				"Moïse, il faut, au nom de l'Éternel,",
+				"Dire au Pharaon :",
+				"Laisse aller mon peuple !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Israël est mon premier né,",
+				"Laisse aller mon peuple !",
+				"Si tu demeures obstiné,",
+				"Laisse aller mon peuple !",
+				"Je vais frapper de mort ton fils aîné.",
+				"Allons, Pharaon :",
+				"Laisse aller mon peuple !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ils sortiront avec les biens",
+				"Laisse aller mon peuple !",
+				"Qu'ils ôteront aux Égyptiens.",
+				"Laisse aller mon peuple !",
+				"Le bras de Dieu va rompre tous leurs liens.",
+				"Dis au Pharaon :",
+				"Laisse aller mon peuple !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Au mal nous étions asservis,",
+				"Laisse aller mon peuple !",
+				"Le Tout-Puissant nous a saisis.",
+				"Laisse aller mon peuple !",
+				"Jésus, par toi nous sommes affranchis.",
+				"Tu dis au Démon :",
+				"Laisse aller mon peuple !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Negro-spiritual",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg303",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

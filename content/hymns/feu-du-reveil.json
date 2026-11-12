@@ -1,0 +1,99 @@
+{
+	"id": "feu-du-reveil",
+	"title": "Feu du réveil",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "755"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brûle en nous, feu du réveil !",
+				"Embrase-nous, Dieu de vie !",
+				"Révèle-nous la gloire du ciel,",
+				"La communion de l'Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'amour du Père a transformé nos cœurs",
+				"Par la folie de la croix.",
+				"Il nous délivre de notre tiédeur",
+				"Pour enflammer notre foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brûle en nous, feu du réveil !",
+				"Embrase-nous, Dieu de vie !",
+				"Révèle-nous la gloire du ciel,",
+				"La communion de l'Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Étends ta main sur ton peuple assemblé",
+				"Dans la présence de Jésus.",
+				"Tu viens guérir celui qui est blessé,",
+				"Sauver les hommes perdus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brûle en nous, feu du réveil !",
+				"Embrase-nous, Dieu de vie !",
+				"Révèle-nous la gloire du ciel,",
+				"La communion de l'Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"D'une même voix, nous disons: « Notre Père,",
+				"Que ton nom soit sanctifié ! »",
+				"Répands sur nous ton Esprit de prière,",
+				"Accomplis ta volonté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brûle en nous, feu du réveil !",
+				"Embrase-nous, Dieu de vie !",
+				"Révèle-nous la gloire du ciel,",
+				"La communion de l'Esprit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem755",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

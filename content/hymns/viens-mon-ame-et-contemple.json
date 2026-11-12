@@ -1,0 +1,88 @@
+{
+	"id": "viens-mon-ame-et-contemple",
+	"title": "Viens, mon âme, et contemple",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "120"
+		},
+		{
+			"hymnal": "adf",
+			"number": "111"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, mon âme ! et contemple",
+				"Un objet sans exemple :",
+				"Le Dieu Sauveur en croix.",
+				"On le frappe, ou l'outrage,",
+				"On lui crache au visage :",
+				"Il expire enfin sur le bois !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est moi que la justice",
+				"Condamnait au supplice,",
+				"Moi qui devais mourir.",
+				"Les tourments, les blessures,",
+				"Les coups, les meurtrissures,",
+				"C'est moi qui devais les souffrir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu te mets à ma place,",
+				"Et ta croix change en grâce",
+				"Ma condamnation.",
+				"Sur ta tête sacrée,",
+				"D'épines couronnée,",
+				"Tu portas ma confusion."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je te suis redevable,",
+				"Mon Sauveur adorable,",
+				"De tout ce que je suis.",
+				"Mon âme et tout mon être",
+				"À toi seul doivent être :",
+				"C'est le droit que tu t'es acquis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Heinrich Isaac",
+			"role": "music"
+		},
+		{
+			"name": "Paul Gerhardt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg120",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af111",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

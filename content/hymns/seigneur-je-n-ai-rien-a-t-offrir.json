@@ -1,0 +1,133 @@
+{
+	"id": "seigneur-je-n-ai-rien-a-t-offrir",
+	"title": "Seigneur, je n'ai rien à t'offrir",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "238"
+		},
+		{
+			"hymnal": "adf",
+			"number": "262"
+		},
+		{
+			"hymnal": "cd",
+			"number": "253"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur ! je n'ai rien t'offrir",
+				"Qu'un cœur fatigué de souffrir,",
+				"Et qui sans toi ne peut guérir :",
+				"Je n'ai que ma misère."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends-moi tel que je suis,",
+				"sans vertus, sans appui,",
+				"Tel que je suis,",
+				"Tel que je suis,",
+				"O mon céleste Frère !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'ai transgressé ta sainte loi ;",
+				"Le péché vainqueur règne en moi ;",
+				"Pour me présenter devant toi,",
+				"Je n'ai que ma souillure."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends-moi tel que je suis,",
+				"Sans vertu, sans appui,",
+				"Tel que je suis,",
+				"Tel que je suis,",
+				"Lave mon âme impure !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Faible est ma chair, faible est mon cœur ;",
+				"Pour repousser le tentateur,",
+				"O mon divin Libérateur !",
+				"Je n'ai que ma faiblesse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends-moi tel que je suis,",
+				"Sans vertu, sans appui,",
+				"Tel que je suis,",
+				"Tel que je suis,",
+				"Subviens à ma détresse !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ton sang versé me blanchira,",
+				"Ton Saint-Esprit m'affranchira,",
+				"Ta richesse m'enrichira,",
+				"O mon céleste Maître !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends-moi, faible et pêcheur,",
+				"Sans vertu ni vigueur ;",
+				"O mon Sauveur !",
+				"Rends-moi vainqueur,",
+				"Et tel que je dois être !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg238",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af262",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1079",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

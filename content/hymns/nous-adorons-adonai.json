@@ -1,0 +1,52 @@
+{
+	"id": "nous-adorons-adonai",
+	"title": "Nous adorons Adonaï",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "581"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous adorons Adonaï,",
+				"Nous adorons El Shadaï.",
+				"Nous élevons ton grand nom,",
+				"Nous te louons Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"D'un même cœur pour le Seigneur,",
+				"Le Créateur du vrai bonheur.",
+				"Tu es glorieux, mon Roi.",
+				"Tu fais de moi ton serviteur.",
+				"Père, je veux que ma joie demeure,",
+				"Car c'est en toi que je veux être",
+				"éternellement."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-Luc Attias",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Luc Attias",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem581",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

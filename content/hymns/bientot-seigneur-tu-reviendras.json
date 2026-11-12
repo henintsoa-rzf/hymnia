@@ -1,0 +1,69 @@
+{
+	"id": "bientot-seigneur-tu-reviendras",
+	"title": "Bientôt, Seigneur, tu reviendras !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "360"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bientôt, Seigneur, tu reviendras !",
+				"Toi, notre chef, notre espérance !",
+				"Jour de bonheur, de délivrance !",
+				"Au ciel tu nous introduiras :",
+				"Tu reviendras !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu l’as promis : plus qu’un instant,",
+				"Je viens vous prendre dans ma gloire;",
+				"Jusqu’au signal de la victoire,",
+				"Veillez, priez, en combattant,",
+				"Plus qu’un instant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ne tarde plus : reviens, Seigneur !",
+				"C’est le soupir de ton Église;",
+				"Elle est à toi, tu l’as acquise,",
+				"Mourant pour elle, ô Rédempteur !",
+				"Reviens Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour ton retour, oh ! Tiens-nous prêts",
+				"Que ton esprit nous sanctifie,",
+				"Que nul des tiens, manquant de vie,",
+				"Ne soit confus à ton aspect.",
+				"Oui, tiens-nous prêts !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "G. GUILLOD",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1156",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

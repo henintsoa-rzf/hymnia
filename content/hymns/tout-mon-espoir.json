@@ -1,0 +1,125 @@
+{
+	"id": "tout-mon-espoir",
+	"title": "Tout mon espoir",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1186"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rien ne saurait me détourner de ton amour.",
+				"Il dure à jamais",
+				"Et guide mes pas chaque jour.",
+				"Je tiendrai bon, je compterai sur toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rien ne saurait restreindre ta fidélité.",
+				"Ta grâce, je sais, m'entoure dans l'obscurité.",
+				"Je tiendrai bon, je compterai sur toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je ne peux saisir tes voies,",
+				"Mais je me confie en toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout mon espoir est établi",
+				"Sur ton amour et ta justice.",
+				"Je ne suivrai nulle autre voie,",
+				"Je me confie, m'appuie sur toi.",
+				"Je tiendrai bon, je compterai sur toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toi mon appui, quand la tempête vient souffler.",
+				"Tu es mon abri et, quand survient l'adversité,",
+				"Je tiendrai bon, je compterai sur toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je ne peux saisir tes voies,",
+				"Mais je me confie en toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout mon espoir est établi",
+				"Sur ton amour et ta justice.",
+				"Je ne suivrai nulle autre voie,",
+				"Je me confie, m'appuie sur toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je tiendrai bon, je compterai sur toi.",
+				"Oh, Je tiendrai bon, je compterai sur toi.",
+				"Je tiendrai bon, je compterai sur toi.",
+				"Je tiendrai bon, je compterai sur toi.",
+				"Je tiendrai bon, je compterai sur toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je tiendrai bon, je compterai sur toi.",
+				"Je tiendrai bon, je compterai sur toi.",
+				"Je tiendrai bon, je compterai sur toi.",
+				"Je compterai sur toi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tout mon espoir est établi",
+				"Sur ton amour et ta justice.",
+				"Je ne suivrai nulle autre voie,",
+				"Je me confie, m'appuie sur toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Baloche, Ed Kerr, Alyssa Mellinger et Sheila Rabe",
+			"role": "music"
+		},
+		{
+			"name": "Paul Baloche, Ed Kerr, Alyssa Mellinger et Sheila Rabe",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1186",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

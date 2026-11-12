@@ -1,0 +1,78 @@
+{
+	"id": "ton-nom-est-grand",
+	"title": "Ton nom est grand",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "715"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je viens dans ta présence,",
+				"Seigneur de l'univers.",
+				"Rien n'a plus d'importance,",
+				"Rien n'a plus de valeur.",
+				"Je viens chercher ton cœur,",
+				"Trouver ta volonté,",
+				"Me tenir prosterné",
+				"En chantant tes louanges."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton nom est grand, ton nom est saint,",
+				"Ton nom est digne de louange.",
+				"À toi l'honneur, à toi la gloire,",
+				"À toi la puissance et la force,",
+				"Jésus, Agneau de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je viens dans ta présence",
+				"Déposer mes fardeaux,",
+				"Tout ce qui me retient",
+				"De m'approcher de toi.",
+				"Tu es mon bouclier, mon abri, mon seul bien ;",
+				"Vers toi, Seigneur mon Dieu,",
+				"Je veux lever les mains."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton nom est grand, ton nom est saint,",
+				"Ton nom est digne de louange.",
+				"À toi l'honneur, à toi la gloire,",
+				"À toi la puissance et la force,",
+				"Jésus, Agneau de Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nicolas Ternisien",
+			"role": "music"
+		},
+		{
+			"name": "Nicolas Ternisien",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem715",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

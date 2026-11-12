@@ -1,0 +1,82 @@
+{
+	"id": "j-ai-tout-quitte-pour-te-suivre",
+	"title": "J'ai tout quitté pour te suivre",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "279"
+		},
+		{
+			"hymnal": "adf",
+			"number": "297"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai tout quitté pour te suivre,",
+				"O Jésus, j'ai pris ma croix.",
+				"À Toi pour mourir et vivre :",
+				"Pour toujours j'ai fait mon choix !",
+				"La pauvreté, la souffrance,",
+				"L'abandon et le mépris,",
+				"J'ai tout accepté d'avance :",
+				"Mon bonheur est à ce prix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que le monde me délaisse,",
+				"Jésus est là, c'est assez !",
+				"Qu'on m'insulte, qu'on me blesse,",
+				"Mon Maître aussi fut blessé !",
+				"Sous mes pieds, orgueil tenace,",
+				"Oripeaux, gloires d'un jour !",
+				"Il me reste, à votre place,",
+				"Dieu, son ciel, et son amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Contre la haine et l'outrage,",
+				"Je m'abrite dans ton cœur.",
+				"Là, je puise le courage,",
+				"Là, je suis plus que vainqueur !",
+				"Ah ! que rien ne me ravisse",
+				"Ta Présence et ton Esprit !",
+				"Très doux est le sacrifice",
+				"Pour qui t'aime, ô Jésus-Christ !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henry Smart",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg279",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af297",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "agnus-dei",
+	"title": "Agnus dei",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "724"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia,",
+				"Gloire à Dieu le Seigneur tout-puissant.",
+				"Alléluia, alléluia,",
+				"Gloire à Dieu le Seigneur tout-puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alléluia.",
+				"Tu es saint, trois fois saint.",
+				"Dieu tout-puissant, éternel.",
+				"Louange à l'agneau, louange à l'agneau,",
+				"Car toi seul es saint, trois fois saint.",
+				"Dieu tout-puissant, éternel.",
+				"Louange à l'agneau, louange à l'agneau,",
+				"Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michael Whitaker Smith",
+			"role": "music"
+		},
+		{
+			"name": "Michael Whitaker Smith",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem724",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

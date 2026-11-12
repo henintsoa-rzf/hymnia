@@ -1,0 +1,69 @@
+{
+	"id": "un-chretien-je-croyais-etre",
+	"title": "Un chrétien, je croyais être",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "286"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un chrétien, je croyais être.",
+				"Mais j’ignorais le bonheur.",
+				"Que Jésus, mon divin maître,",
+				"Vient apporter dans un coeur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! La paix que Jésus donne,",
+				"Je ne la connaissais pas,",
+				"Tout sur mon chemin rayonne,",
+				"Depuis qu’Il conduit mes pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sa puissance souveraine",
+				"Maintenant règne sur moi;",
+				"Du péché brise la chaîne,",
+				"Me rend vainqueur par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et, tranquillement j’avance,",
+				"M’appuyant sur mon Sauveur.",
+				"Son adorable présence",
+				"Me donne le vrai bonheur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "E. Schürer",
+			"role": "unspecified"
+		},
+		{
+			"name": "Francis Augustus Blackmer",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1092",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

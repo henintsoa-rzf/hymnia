@@ -1,0 +1,41 @@
+{
+	"id": "alleluia-rendons-gloire-a-dieu",
+	"title": "Alléluia, rendons gloire à Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "59"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alléluia, rendons gloire à Dieu car Il règne !",
+				"Alléluia, rendons gloire à Dieu car Il règne !",
+				"Soyons joyeux, gloire à Dieu !",
+				"Soyons toujours dans l'allégresse.",
+				"Alléluia !",
+				"Car le Seigneur tout-puissant règne !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dale Garratt",
+			"role": "music"
+		},
+		{
+			"name": "Dale Garratt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem059",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,59 @@
+{
+	"id": "que-toute-la-terre-acclame",
+	"title": "Que toute la terre acclame",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "107"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que toute la terre acclame ton nom,",
+				"Jésus notre frère, Christ notre rançon !",
+				"Que tout genou plie devant ta grandeur,",
+				"Prince de la vie, ô notre Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu laissas ta gloire, tu pris nos douleurs,",
+				"Et par ta victoire tu taris nos pleurs.",
+				"Parole éternelle, verbe créateur,",
+				"Une chair mortelle voile ta splendeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Céleste victime de tous nos péchés,",
+				"À ta croix sublime tiens-nous attachés.",
+				"Maître de nos âmes, fais brûler nos coeurs",
+				"De tes saintes flammes, et rends-nous vainqueurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie galloise",
+			"role": "unspecified"
+		},
+		{
+			"name": "E. Monod",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/955",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

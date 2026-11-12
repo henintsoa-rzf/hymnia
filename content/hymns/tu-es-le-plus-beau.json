@@ -1,0 +1,81 @@
+{
+	"id": "tu-es-le-plus-beau",
+	"title": "Tu es le plus beau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "600"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Des paroles pleines de charme",
+				"Bouillonnent en moi ; pour mon Roi,",
+				"Je dis: mon œuvre est pour toi.",
+				"Que ma langue,",
+				"Telle la plume d'un habile écrivain,",
+				"Sous ta main, t'adore,",
+				"O Dieu souverain."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le plus beau",
+				"de tous les fils de l'homme,",
+				"Oui Dieu t'a béni pour toujours,",
+				"Et la grâce qui coule de tes lèvres",
+				"Est un baume,",
+				"Un baume de vie et un baume d'amour,",
+				"Un baume de vie et un baume d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tes parfums se répandent",
+				"Dans tout ton palais, mon bien-aimé,",
+				"Et mon âme est enivrée.",
+				"Tu me combles",
+				"Et ton amour vaut mieux que le vin,",
+				"Le meilleur des vins ;",
+				"Oui, ta tendresse m'étreint."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le plus beau",
+				"de tous les fils de l'homme,",
+				"Tu déploies sur moi ton amour,",
+				"Et la grâce qui coule de tes lèvres",
+				"Est un baume,",
+				"Un baume de vie et un baume d'amour.",
+				"Oui je suis malade, malade d'amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem600",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

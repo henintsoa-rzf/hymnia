@@ -1,0 +1,75 @@
+{
+	"id": "au-pied-de-la-sainte-croix",
+	"title": "Au pied de la sainte croix",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "212"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au pied de la sainte croix,",
+				"Jaillit la fontaine",
+				"Du salut que je reçois,",
+				"Grâce souveraine."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô Sauveur, rédempteur,",
+				"Par toi j’ai la vie ;",
+				"C’est dans le sang de la croix",
+				"Que je me confie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, le sang de ta croix",
+				"Mes péchés efface,",
+				"Tu me le dis, je le crois :",
+				"« Du mal plus de trace. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"M’asseoir au pied de ta croix",
+				"Est mon doux partage,",
+				"C’est là que j’entends ta voix",
+				"Qui me dit : courage !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jusqu’au bout, la sainte croix",
+				"Sera mon seul thème,",
+				"Car près d’elle, j’entrevois",
+				"Au loin le ciel même."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "W.H. Doane",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1045",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

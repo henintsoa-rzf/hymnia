@@ -1,0 +1,65 @@
+{
+	"id": "freres-prions",
+	"title": "Frères, prions !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "454"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Frères, prions ! le jour décline,",
+				"Et tout s'emplit de majesté.",
+				"L'ombre descend de la colline ;",
+				"Des cloches la voix argentine",
+				"Semble annoncer l'Éternité !",
+				"Semble annoncer l'Éternité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Frères, veillons ! la nuit est noire ;",
+				"Au ciel une pâle clarté",
+				"Brille seule, mais je veux croire",
+				"Que bientôt je verrai ta gloire,",
+				"O radieuse Éternité !",
+				"O radieuse Éternité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Frères, chantons ! voici l'aurore,",
+				"Voici le Roi dans sa beauté !",
+				"De sa splendeur le ciel se dore ;",
+				"O Jésus ! mon âme t'adore,",
+				"Car tu m'ouvres l'Éternité !",
+				"Car tu m'ouvres l'Éternité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Phillip Philipps",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af454",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

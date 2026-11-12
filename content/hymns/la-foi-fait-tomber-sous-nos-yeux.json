@@ -1,0 +1,69 @@
+{
+	"id": "la-foi-fait-tomber-sous-nos-yeux",
+	"title": "La foi fait tomber sous nos yeux",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "328"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La foi fait tomber sous nos yeux",
+				"Les plus fortes murailles ;",
+				"La foi nous rend victorieux",
+				"Et gagne les batailles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Protégés par ce bouclier,",
+				"Nous n'avons nulle crainte.",
+				"Qui sait en Dieu se confier",
+				"Du mal brave l'atteinte."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avant nous, de vaillants héros",
+				"Nous ont montré la route.",
+				"Suivons leur exemple si beau",
+				"Et chassons tous nos doutes !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand la foi vit au fond du cœur",
+				"Et nourrit l'espérance,",
+				"On est, pour l'amour du Sauveur,",
+				"Joyeux dans la souffrance."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Psautier suisse allemand",
+			"role": "music"
+		},
+		{
+			"name": "Nicolaus Ludwig von Zinzendorf",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg328",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

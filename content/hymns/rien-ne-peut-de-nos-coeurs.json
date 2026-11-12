@@ -1,0 +1,86 @@
+{
+	"id": "rien-ne-peut-de-nos-coeurs",
+	"title": "Rien ne peut de nos cœurs.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "330"
+		},
+		{
+			"hymnal": "adf",
+			"number": "330A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rien ne peut de nos cœurs",
+				"effacer la souillure !",
+				"Rien que le sang du Christ",
+				"sur la croix répandu ;",
+				"Source toujours ouverte où l'âme devient pure,",
+				"Pardon toujours offert à tout pécheur perdu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le larron pénitent,",
+				"plein d'une humble espérance,",
+				"Tourne vers le Sauveur le regard de la foi.",
+				"Je n'irai point chercher une autre délivrance :",
+				"Le sang versé pour lui le fut aussi pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu s'est fait notre Frère,",
+				"Il a pris notre place,",
+				"Notre offense est sur lui,",
+				"sa justice est sur nous :",
+				"Son sang garde à jamais sa vivante efficace,",
+				"Et devant son amour, nous tombons à genoux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je dirai ta louange, ô Rédempteur fidèle,",
+				"Jusqu'à l'heure où la mort fera taire ma voix ;",
+				"Et sous les nouveaux cieux,",
+				"dans la gloire éternelle,",
+				"Je chanterai ta grâce et le sang de ta croix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af330",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af330a",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

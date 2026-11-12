@@ -1,0 +1,65 @@
+{
+	"id": "contempler-ta-magnificence",
+	"title": "Contempler ta magnificence",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "949"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux contempler ta magnificence.",
+				"Je veux contempler ta magnificence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel est ma lumière et mon salut.",
+				"L'Éternel est mon secours et mon abri.",
+				"Il me cachera à l'ombre de sa tente,",
+				"Je pourrai lui chanter mon admiration."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux contempler ta magnificence.",
+				"Je veux contempler ta magnificence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Éternel, fais-moi connaître tes sentiers !",
+				"Conduis-moi sur le chemin de vérité !",
+				"Tu es mon espoir, ne m'abandonne pas !",
+				"J'ai confiance en toi, car tu entends ma voix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem949",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

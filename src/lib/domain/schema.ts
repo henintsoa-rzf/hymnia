@@ -1,6 +1,8 @@
 /**
  * Content schemas. Source: specs/001-hymnal-browse-search/data-model.md and
  * contracts/content-schema.md. Feature 002 (import) writes files that must pass these schemas.
+ *
+ * Schemas are strict: an unknown or misspelt field fails the build instead of being dropped.
  */
 import { z } from 'zod';
 
@@ -9,7 +11,7 @@ const slug = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'must be a lowercase
 const text = z.string().min(1);
 
 /** Hymnal id: "Unique, lowercase slug (`jem`, `adf`, `atg`). Used in URLs. Never changes." */
-export const HymnalSchema = z.object({
+export const HymnalSchema = z.strictObject({
 	id: slug,
 	name: text,
 	/** "At least one". Unique across all hymnals once normalised. */
@@ -20,7 +22,7 @@ export const HymnalSchema = z.object({
 /** "`verse`, `chorus`, `bridge`, `other`" */
 export const SectionTypeSchema = z.enum(['verse', 'chorus', 'bridge', 'other']);
 
-export const SectionSchema = z.object({
+export const SectionSchema = z.strictObject({
 	type: SectionTypeSchema,
 	/** Verse number, as in the source. `null` for chorus and bridge. */
 	number: z.number().int().positive().nullable(),
@@ -28,27 +30,42 @@ export const SectionSchema = z.object({
 	lines: z.array(z.string()).min(1)
 });
 
-export const HymnalEntrySchema = z.object({
+export const HymnalEntrySchema = z.strictObject({
 	hymnal: slug,
 	/** As printed ("245", "123a", "123 bis"). */
-	number: text
+	number: text,
+	/**
+	 * The title this hymnal prints, only when it differs from the hymn's `title` (hymnals often
+	 * retitle a hymn: JEM 232 "Ma joie de t'appartenir" is ATG 42 "C'est vers toi que je me
+	 * tourne"). Searched like the title, and shown when the hymn is read from this entry.
+	 */
+	title: text.optional()
 });
 
-/** "`lyrics`, `music`, `translation`, `arrangement`" */
-export const CreditRoleSchema = z.enum(['lyrics', 'music', 'translation', 'arrangement']);
+/**
+ * "`lyrics`, `music`, `translation`, `arrangement`", plus `unspecified` (feature 002) for a
+ * source that names its authors without saying who wrote the words and who wrote the music.
+ */
+export const CreditRoleSchema = z.enum([
+	'lyrics',
+	'music',
+	'translation',
+	'arrangement',
+	'unspecified'
+]);
 
-export const CreditSchema = z.object({
+export const CreditSchema = z.strictObject({
 	name: text,
 	role: CreditRoleSchema
 });
 
-export const SourceSchema = z.object({
+export const SourceSchema = z.strictObject({
 	name: text,
 	url: z.string().url().nullable(),
 	retrievedAt: isoDate
 });
 
-export const CorrectionSchema = z.object({
+export const CorrectionSchema = z.strictObject({
 	date: isoDate,
 	description: text
 });
@@ -56,7 +73,7 @@ export const CorrectionSchema = z.object({
 /** "`confirmed`, `public-domain`, `unconfirmed`. Only the first two are published." */
 export const RightsSchema = z.enum(['confirmed', 'public-domain', 'unconfirmed']);
 
-export const HymnSchema = z.object({
+export const HymnSchema = z.strictObject({
 	id: slug,
 	title: text,
 	/** "At least one". */
@@ -66,10 +83,23 @@ export const HymnSchema = z.object({
 	credits: z.array(CreditSchema),
 	source: SourceSchema,
 	rights: RightsSchema,
-	corrections: z.array(CorrectionSchema)
+	corrections: z.array(CorrectionSchema),
+	/**
+	 * Feature 002: other sources that provide the same hymn after a merge. Optional, absent
+	 * meaning none. Not published in the catalog (not shown in the app yet).
+	 */
+	alternateSources: z.array(SourceSchema).optional()
 });
 
 export const HymnalListSchema = z.array(HymnalSchema);
+
+/**
+ * Feature 002 (FR-026): `content/redirects.json` maps a hymn id removed by a merge to the id
+ * it was merged into. Sources are never live hymn ids; targets are existing hymns, never
+ * another redirect (no chains).
+ */
+export const RedirectsSchema = z.record(slug, slug);
+export type Redirects = z.infer<typeof RedirectsSchema>;
 
 export type Hymnal = z.infer<typeof HymnalSchema>;
 export type Section = z.infer<typeof SectionSchema>;
@@ -105,6 +135,8 @@ export type Catalog = {
 	version: string;
 	hymnals: PublishedHymnal[];
 	hymns: PublishedHymn[];
+	/** Merged hymn id → kept hymn id (`content/redirects.json`). */
+	redirects: Redirects;
 };
 
 export type DataManifest = {

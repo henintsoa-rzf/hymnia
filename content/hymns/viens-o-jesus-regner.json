@@ -1,0 +1,73 @@
+{
+	"id": "viens-o-jesus-regner",
+	"title": "Viens, ô Jésus régner…",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "563"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, ô Jésus, régner sur cette terre ;",
+				"Viens te montrer puissant et glorieux ;",
+				"Nous t'attendons : reviens du haut des cieux",
+				"Sécher nos pleurs, finir notre misère,",
+				"Sécher nos pleurs, finir notre misère."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta sainteté du monde est méconnue,",
+				"Ton nom, ta loi, ton pouvoir, ta grandeur",
+				"Lui sont cachés, il refuse en son cœur",
+				"De te donner la gloire qui t'est due,",
+				"De te donner la gloire qui t'est due."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand tu parais, son orgueil se courrouce ;",
+				"Quand tu bénis, il dit : Ce n'est pas toi :",
+				"Lorsqu'à ses yeux tu découvres ta loi,",
+				"Il la maudit, la brave et la repousse,",
+				"Il la maudit, la brave et la repousse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens donc, ô Dieu ! faire éclater ta gloire !",
+				"Que tout pécheur, prosterné devant toi,",
+				"Te rende honneur, comme à son divin Roi,",
+				"Et, plein d'amour, célèbre ta victoire !",
+				"Et, plein d'amour, célèbre ta victoire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mme H. Lutteroth",
+			"role": "music"
+		},
+		{
+			"name": "Mme Lutteroth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af563",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

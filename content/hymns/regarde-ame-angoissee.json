@@ -1,0 +1,87 @@
+{
+	"id": "regarde-ame-angoissee",
+	"title": "Regarde, âme angoissée.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "249"
+		},
+		{
+			"hymnal": "cd",
+			"number": "149",
+			"title": "Regarde à la croix !"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Regarde, âme angoissée,",
+				"au mourant du Calvaire ;",
+				"Regarde à Christ, sur la croix élevé !",
+				"C'est là qu'est ton Sauveur,",
+				"contemple-le mon frère ;",
+				"Un seul regard, et sois sauvé !",
+				"Regarde et crois !",
+				"La vie et le pardon descendent du Calvaire :",
+				"Oh ! regarde, regarde à la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pourquoi fut-Il frappé",
+				"par les foudres divines,",
+				"Pourquoi fut-Il sur le bois attaché,",
+				"Pourquoi son front sacré",
+				"fut-il meurtri d'épines,",
+				"Sinon pour toi, pour ton péché ?",
+				"Regarde et crois !",
+				"Pour Lui la mort, pour toi",
+				"les promesses divines ;",
+				"Oh ! regarde, regarde à la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu ne peux effacer",
+				"par ton sang, par tes larmes,",
+				"Ton long oubli de la divine loi ;",
+				"Pour vivre et triompher,",
+				"il n'est pas d'autres armes",
+				"Que l'humble regard de la foi.",
+				"Regarde et crois !",
+				"Jésus, divin soleil, dissipera tes larmes ;",
+				"Oh ! regarde, regarde à la croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edward G. Taylor",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af249",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/984",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

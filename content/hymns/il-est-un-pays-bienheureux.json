@@ -1,0 +1,83 @@
+{
+	"id": "il-est-un-pays-bienheureux",
+	"title": "Il est un pays bienheureux.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "428"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est un pays bienheureux",
+				"Où les larmes sont inconnues ;",
+				"La foi le découvre à nos yeux,",
+				"Bien qu'il soit au-delà des nues."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans ce doux avenir",
+				"Bientôt Dieu va nous réunir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus de péchés, plus de douleur ;",
+				"Entre nous et Dieu, plus de voiles !",
+				"De Christ reflétant la splendeur,",
+				"Nous luirons comme des étoiles."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans ce doux avenir",
+				"Bientôt Dieu va nous réunir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur ce rivage fortuné,",
+				"Nos voix rediront les louanges",
+				"De Celui qui nous a donné",
+				"Une place au-dessus des anges."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans ce doux avenir",
+				"Bientôt Dieu va nous réunir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air Gallois",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af428",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

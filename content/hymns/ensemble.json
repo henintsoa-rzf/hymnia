@@ -1,0 +1,69 @@
+{
+	"id": "ensemble",
+	"title": "Ensemble",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "751"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Dieu nous a créés différents,",
+				"Il nous aime d'un amour infini.",
+				"Accepter les uns, respecter les autres,",
+				"C'est donner gloire au Roi des rois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ensemble nous voulons élever nos voix.",
+				"Ensemble nous voulons proclamer le Roi.",
+				"Ensemble nous voulons élever nos voix.",
+				"Ensemble nous voulons proclamer le Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre Dieu nous a sauvés, rachetés,",
+				"Il nous aime d'un amour infini.",
+				"Il nous donne à tous de merveilleux dons",
+				"Pour servir, pour nous faire grandir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ensemble nous voulons élever nos voix.",
+				"Ensemble nous voulons proclamer le Roi.",
+				"Ensemble nous voulons élever nos voix.",
+				"Ensemble nous voulons proclamer le Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charly Siounath",
+			"role": "music"
+		},
+		{
+			"name": "Charly Siounath",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem751",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

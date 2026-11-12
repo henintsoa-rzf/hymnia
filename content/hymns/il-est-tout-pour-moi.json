@@ -1,0 +1,58 @@
+{
+	"id": "il-est-tout-pour-moi",
+	"title": "Il est tout pour moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "125"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans l'étoile s'il rayonne en clarté,",
+				"Dans le vent s'il parle en majesté,",
+				"S'il rend les éléments déchaînés",
+				"Qu'est-ce donc pour moi ?",
+				"Que d'une étable et de Galilée,",
+				"Pour nous il est mort sanctifié,",
+				"En proclamant notre liberté,",
+				"Qu'est-il donc pour moi ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jusqu'au jour où voulant face à face,",
+				"Rencontrer celui qui me créa,",
+				"Oui j'ai compris qu'il est mieux",
+				"Qu'un simple nom, qu'un simple éclat ;",
+				"Que tout montre sa grâce.",
+				"Qu'il vient vers moi pour prendre ma main,",
+				"Et m'accompagnant soir et matin,",
+				"Et me menant dans le droit chemin,",
+				"Oui, il est tout pour moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ralph Carmichael",
+			"role": "music"
+		},
+		{
+			"name": "Ralph Carmichael",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem125",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

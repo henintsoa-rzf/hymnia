@@ -1,0 +1,85 @@
+{
+	"id": "toi-dont-l-ame-est-tourmentee",
+	"title": "Toi dont l'âme est tourmentée.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "412"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toi dont l'âme est tourmentée",
+				"Aux approches de la mort,",
+				"Toi dont la nef ballottée",
+				"Ne sait où trouver le port,",
+				"Regarde, à travers tes larmes,",
+				"Ce phare qui tant de fois",
+				"A brillé dans tes alarmes :",
+				"C'est la croix ! c'est la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O toi qu'a mordu le doute,",
+				"Toi que le monde a séduit,",
+				"Toi qui marches sur la route",
+				"Dans la nuit et vers la nuit,",
+				"Même en doutant, prie, adore",
+				"Celui qui meurt sur le bois ;",
+				"Regarde, oh ! regarde encore",
+				"Vers la croix ! vers la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur la croix où Christ expire,",
+				"La mort succombe avec Lui :",
+				"C'en est fait de son empire,",
+				"Le jour de la vie a lui !",
+				"Péchés, doutes et souffrances",
+				"Demeurent cloués au bois :",
+				"O sublime délivrance",
+				"De la croix ! de la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Au pied de la croix bénie,",
+				"Signe auguste et méprisé",
+				"De triomphe et d'agonie,",
+				"J'apporte mon cœur brisé,",
+				"O Jésus, sois ma lumière !",
+				"Je veux vivre sous tes lois",
+				"Et mourir sous la bannière",
+				"De la croix ! de la croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Simeon Butler Marsh",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af412",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

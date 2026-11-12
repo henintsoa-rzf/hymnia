@@ -1,0 +1,62 @@
+{
+	"id": "tu-es-digne",
+	"title": "Tu es digne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "834"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es digne de recevoir,",
+				"Tu es digne de recevoir,",
+				"La puissance et la richesse,",
+				"La force et la sagesse,",
+				"L'honneur, la gloire et la louange."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es digne de recevoir,",
+				"Tu es digne de recevoir,",
+				"La puissance et la richesse,",
+				"La force et la sagesse,",
+				"L'honneur, la gloire et la louange",
+				"Pour toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car l'Agneau immolé",
+				"Nous a rachetés pour Dieu,",
+				"Maintenant nous chantons",
+				"La gloire de son nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joël Andres",
+			"role": "music"
+		},
+		{
+			"name": "Joël Andres",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem834",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

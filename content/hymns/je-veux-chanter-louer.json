@@ -1,0 +1,70 @@
+{
+	"id": "je-veux-chanter-louer",
+	"title": "Je veux chanter, louer...",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "58"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux chanter, louer mon Dieu,",
+				"Dans tous les temps, dans tous les lieux!",
+				"Que ma vie",
+				"Tout glorifie",
+				"Le nom puissant d'Emmanuel!",
+				"Alléluia! Alléluia!",
+				"Avec les anges dans le ciel,",
+				"Alléluia! Alléluia!",
+				"Célébrons tous Emmanuel!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux chanter mon Rédempteur,",
+				"L'amour profond de mon Sauveur!",
+				"Sa mort sanglante",
+				"Et triophante",
+				"M'affranchit du joug du péché.",
+				"Alléluia!Alléluia!",
+				"Gloire à Jésus, je suis sauvé!",
+				"Alléluia! Alleluia!",
+				"Oui! sauvé pour l'éternité!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Exaltons tous et célébrons",
+				"Le nom de notre Dieu; chantons!",
+				"Dans l'allégresse",
+				"Soyons sans cesse!",
+				"Vous tous qui souffrez, malheureux,",
+				"Alléluia! Alléluia!",
+				"Non! plus de larmes dans vos yeux!",
+				"Alléluia! Alléluia!",
+				"Venez, il veut vous rendre heureux!"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Amélie Humbert",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/866",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

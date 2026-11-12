@@ -1,0 +1,103 @@
+{
+	"id": "c-est-dieu-seul-qui-peut-nous-sauver",
+	"title": "C'est Dieu seul qui peut nous sauver",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "561"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est Dieu seul qui peut nous sauver,",
+				"Il est assis sur le trône ;",
+				"Adorons l'Agneau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Force et puissance, gloire et louange,",
+				"Honneur, sagesse et victoire",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Amen !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Amen !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Son sang nous a tous rachetés ;",
+				"Unis en lui, nous sommes forts",
+				"Et nous déclarons:"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Force et puissance, gloire et louange,",
+				"Honneur, sagesse et victoire",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Amen !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Force et puissance, gloire et louange,",
+				"Honneur, sagesse et victoire,",
+				"À notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Amen !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Sont à notre Dieu aux siècles des siècles,",
+				"Amen !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Turner ; Adrian Howard",
+			"role": "music"
+		},
+		{
+			"name": "Pat ; Howard, Adrian Turner",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem561",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

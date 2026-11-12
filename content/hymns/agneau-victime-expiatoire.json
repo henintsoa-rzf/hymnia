@@ -1,0 +1,89 @@
+{
+	"id": "agneau-victime-expiatoire",
+	"title": "Agneau, victime expiatoire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "161"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Agneau, victime expiatoire,",
+				"Nous contemplons ta charité,",
+				"Ta mort sanglante et ta victoire",
+				"Pour nous, ton peuple racheté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Réunis autour de ta table,",
+				"Nos cœurs célèbrent ton amour,",
+				"En t'adorant, ô Sauveur charitable !",
+				"Nous attendons ton glorieux retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Enfants d'une race coupable,",
+				"Nous avons trouvé dans ta croix,",
+				"Parfaite paix, grâce ineffable,",
+				"Joie et force tout à la fois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Réunis autour de ta table,",
+				"Nos cœurs célèbrent ton amour,",
+				"En t'adorant, ô Sauveur charitable !",
+				"Nous attendons ton glorieux retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En toi, revêtus de justice,",
+				"Lavés dans ton sang précieux,",
+				"Nous rappelons ton sacrifice,",
+				"Qui nous ouvrit l'accès des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Réunis autour de ta table,",
+				"Nos cœurs célèbrent ton amour,",
+				"En t'adorant, ô Sauveur charitable !",
+				"Nous attendons ton glorieux retour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "Hymnes et cantiques",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af161",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

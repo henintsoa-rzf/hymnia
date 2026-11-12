@@ -1,0 +1,73 @@
+{
+	"id": "ton-nom-seigneur-jesus",
+	"title": "Ton nom, Seigneur Jésus",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "81"
+		},
+		{
+			"hymnal": "jem",
+			"number": "208",
+			"title": "Ton nom est admirable"
+		},
+		{
+			"hymnal": "cd",
+			"number": "45",
+			"title": "Ton nom est admirable"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton nom, Seigneur Jésus, est admirable,",
+				"Ton nom surpasse tout autre nom.",
+				"Tu es le Roi des rois,",
+				"Le Seigneur des seigneurs,",
+				"Ton nom surpasse tout autre nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es le Tout-Puissant, le Prince de la paix,",
+				"L'Étoile du matin, le bon Berger.",
+				"Tu es le Roi des rois,",
+				"Le Seigneur des seigneurs,",
+				"Ton nom surpasse tout autre nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Jeunesse en Mission",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg081",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem208",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/923",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

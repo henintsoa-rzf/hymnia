@@ -1,0 +1,110 @@
+{
+	"id": "bien-loin-de-toi-mon-pere",
+	"title": "Bien loin de toi mon père.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "226"
+		},
+		{
+			"hymnal": "cd",
+			"number": "177"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bien loin de toi mon Père,",
+				"J'ai dissipé mes biens ;",
+				"Dans ma douleur amère,",
+				"Je reviens, je reviens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vois, mon âme souffrante,",
+				"Et mon corps épuisé ;",
+				"Saisis ma main tremblante,",
+				"Guéris mon cœur brisé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La honte et la misère",
+				"Ont sillonné mon front ;",
+				"J'ai péché, tendre Père,",
+				"J'implore ton pardon !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Non je ne suis pas digne",
+				"D'être appelé ton fils ;",
+				"De tes grâces, indigne,",
+				"J'ai méconnu le prix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Traite-moi, je te prie,",
+				"Comme Ton serviteur ;",
+				"Mon passé m'humilie,",
+				"Grâce pour moi, pécheur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"…Mais que vois-je à cette heure ?",
+				"Père, ô Père, c'est toi !",
+				"Du seuil de ta demeure",
+				"Tu t'avances vers moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"O bonheur ! tu me donnes",
+				"Le baiser paternel,",
+				"O bonheur ! tu pardonnes :",
+				"Et tu m'ouvres le ciel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cantiques du Réveil",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af226",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1009",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"id": "briller",
+	"title": "Briller",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "503"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu vois mon orgueil, mon manque d’amour",
+				"lorsque j’entends ta voix et que je reste sourd.",
+				"Avec ma faible volonté, je crois pouvoir y arriver,",
+				"Mais je tombe découragé seul face à mon péché."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux te laisser faire au travers de mes doigts,",
+				"Te laisser aimer au travers de moi,",
+				"Te laisser briller sur mon visage,",
+				"Me laisser transformer à ton image.",
+				"Car ce qui m’est impossible, en toi est accessible.",
+				"Je m’abandonne à toi.",
+				"Ce n’est plus moi qui vis, c’est Christ qui vit en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma foi est bien petite, mais tu étendras mes limites.",
+				"Alors je pourrai grandir les yeux fixés sur la croix.",
+				"Je pourrais devenir ce que tu veux que je sois.",
+				"Mon corps pourra s’épuiser",
+				"Et mon cœur défaillir,",
+				"Je tomberai à tes pieds,",
+				"Te prier d’intervenir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Prigent",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Prigent",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-3",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,39 @@
+{
+	"id": "o-mon-pere-je-crois",
+	"title": "O mon Père, je crois",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "269"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O mon Père, je crois.",
+				"Jésus, je te reçois.",
+				"Saint-Esprit, je te prie,",
+				"Viens et crée en moi ta vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sally Anderson",
+			"role": "music"
+		},
+		{
+			"name": "Sally Anderson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem269",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

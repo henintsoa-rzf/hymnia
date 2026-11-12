@@ -1,0 +1,59 @@
+{
+	"id": "digne-es-tu",
+	"title": "Digne es-tu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "614"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu de gloire, je t'adore,",
+				"Ton nom s'élève en majesté.",
+				"De mes lèvres, je célèbre ta victoire,",
+				"Ton règne, ton autorité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Digne es-tu, Agneau de Dieu,",
+				"Digne es-tu, Agneau de Dieu,",
+				"Tous les anges, ensemble,",
+				"Acclament la puissance de ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Digne es-tu, Agneau de Dieu,",
+				"Digne es-tu, Agneau de Dieu,",
+				"L'univers entier proclame",
+				"La beauté de ton saint nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem614",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

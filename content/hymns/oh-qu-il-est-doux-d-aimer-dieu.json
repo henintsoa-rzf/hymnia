@@ -1,0 +1,92 @@
+{
+	"id": "oh-qu-il-est-doux-d-aimer-dieu",
+	"title": "Oh ! qu'il est doux d'aimer Dieu.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "399"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! qu'il est doux",
+				"d'aimer Dieu comme un Père,",
+				"D'aller à lui sans détour, sans frayeur ;",
+				"De parcourir sa terrestre carrière",
+				"Toujours conduit par l'Esprit du Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! qu'il est doux de trouver à toute heure",
+				"Un tendre Ami, prêt à nous soulager !",
+				"D'être en tout lieu, Jésus, dans ta demeure,",
+				"Et sur ton sein au plus fort du danger !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! qu'il est doux de penser à ta grâce,",
+				"Dans ma faiblesse et toutes mes langueurs,",
+				"Et de me dire : « Il s'est mis à ma place,",
+				"Comme un agneau,",
+				"pour porter mes douleurs ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! qu'il est doux de contempler ta gloire,",
+				"Seigneur Jésus ! et tous les tiens en Toi ;",
+				"D'attendre en paix le jour de ta victoire,",
+				"Et de ta main le prix de notre foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Oh ! quel moment, Jésus, devant ton trône.",
+				"Quand tous les saints, alors glorifiés,",
+				"Portant chacun l'immortelle couronne,",
+				"En t'adorant, la mettront à tes pieds !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Dans nos concerts,",
+				"joints aux concerts des anges,",
+				"Nous chanterons le cantique nouveau :",
+				"Nos harpes d'or, nos voix et nos louanges",
+				"Rendront la gloire et l'honneur à l'Agneau !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "F. Guillaumet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af399",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

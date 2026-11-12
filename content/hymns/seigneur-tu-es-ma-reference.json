@@ -1,0 +1,61 @@
+{
+	"id": "seigneur-tu-es-ma-reference",
+	"title": "Seigneur, tu es ma référence",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "650"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu es ma référence.",
+				"Dans ma vie, tu es à la première place.",
+				"Je ne connais plus la décadence.",
+				"Avec toi, Seigneur, j'atteins l'excellence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus mon Roi, tu as d'la classe",
+				"C'est pourquoi, pour t'honorer, je danse.",
+				"Et au galop vers toi je m'élance,",
+				"Pour te dire que je t'aime, je danse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire alléluia, hosanna,",
+				"Gloire alléluia, hosanna,",
+				"Tu es Roi !",
+				"Gloire alléluia, hosanna,",
+				"Gloire alléluia, hosanna,",
+				"Tu es Roi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rose Medza-Minko",
+			"role": "music"
+		},
+		{
+			"name": "Rose Medza-Minko",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem650",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "oh-quelle-grace",
+	"title": "Oh ! Quelle grâce",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1049"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je ne peux que te remercier",
+				"Quand je regarde au Dieu que tu es.",
+				"Irréprochable et juste en tout temps,",
+				"Ton amour couvre toutes nos fautes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui pourrait contredire ?",
+				"Qui pourrait mépriser ?",
+				"Qui oserait affronter un Dieu si grand ?",
+				"Personne, non personne !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quelle grâce de vivre pour toi !",
+				"Oh ! quelle grâce de vivre en ta présence !",
+				"Oh ! quelle grâce d'être avec toi !",
+				"Oh ! quelle grâce de chanter tes louanges !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as envoyé ton propre Fils",
+				"Mourir sur une croix à cause de moi,",
+				"Lui qui était innocent et pur,",
+				"Offert en sacrifice pour nous tous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui pourrait contredire ?",
+				"Qui pourrait mépriser ?",
+				"Qui oserait affronter un Dieu si grand ?",
+				"Personne, non personne !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quelle grâce de vivre pour toi !",
+				"Oh ! quelle grâce de vivre en ta présence !",
+				"Oh ! quelle grâce d'être avec toi !",
+				"Oh ! quelle grâce de chanter tes louanges !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Marvane",
+			"role": "music"
+		},
+		{
+			"name": "Matt Marvane",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1049",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

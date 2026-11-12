@@ -1,0 +1,50 @@
+{
+	"id": "notre-roi-est-couronne",
+	"title": "Notre Roi est couronné",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "460"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Roi est couronné",
+				"Et tout son règne est justice.",
+				"Notre Roi est couronné",
+				"Et sa parole soutient le monde."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son règne est puissant,",
+				"Et combien glorieux.",
+				"Il est le Roi de l'univers,",
+				"Roi de l'univers,",
+				"Roi de l'univers."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Sellers",
+			"role": "music"
+		},
+		{
+			"name": "John Sellers",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem460",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

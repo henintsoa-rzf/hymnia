@@ -1,0 +1,97 @@
+{
+	"id": "terre-chante-de-joie",
+	"title": "Terre, chante de joie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "97"
+		},
+		{
+			"hymnal": "adf",
+			"number": "94"
+		},
+		{
+			"hymnal": "cd",
+			"number": "86"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Terre, chante de joie !",
+				"Celui que Dieu t'envoie,",
+				"Le Christ est né !",
+				"Oui, chante, ô race humaine !",
+				"C'est pour briser ta chaîne",
+				"Et pour t'ouvrir le ciel qu'il t'est donné !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton Seigneur et ton Maître,",
+				"Pour toi voulut connaître",
+				"La pauvreté ;",
+				"Mais rien n'est comparable",
+				"À ce lieu misérable",
+				"Où rayonne, de Dieu, la charité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Cette crèche est un temple",
+				"Où la foi te contemple,",
+				"O Roi des rois !",
+				"Car c'est là que commence",
+				"Le sacrifice immense",
+				"Que tu dois achever sur une croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ah ! fais qu'à ton école,",
+				"Loin du monde frivole,",
+				"Enfant Sauveur,",
+				"Dans l'amour qui pardonne,",
+				"S'humilie et se donne,",
+				"J'apprenne le secret du vrai bonheur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Felice de Giardini",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg097",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af094",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/890",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

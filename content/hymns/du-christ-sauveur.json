@@ -1,0 +1,59 @@
+{
+	"id": "du-christ-sauveur",
+	"title": "Du Christ Sauveur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "461"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du Christ Sauveur glorieuse phalange,",
+				"Rangeons-nous, rangeons-nous sous la croix !",
+				"Chantons, chantons l'éternelle louange",
+				"Du puissant, du puissant Roi des rois !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La croix, la croix ! Du chrétien seule gloire,",
+				"Étendard, Étendard des élus !",
+				"Marchons, marchons ! Nous aurons la victoire",
+				"Par la croix, par la croix de Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le ciel, le ciel ! Jésus-Christ te le donne,",
+				"Mon frère, Mon frère, si tu crois !",
+				"Là-haut, là-haut, il offre une couronne",
+				"Aux soldats, aux soldats de la croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil anglais",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af461",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

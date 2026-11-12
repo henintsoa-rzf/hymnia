@@ -1,0 +1,73 @@
+{
+	"id": "il-regne-dans-sa-splendeur",
+	"title": "Il règne dans sa splendeur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "419"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il règne dans toute sa splendeur,",
+				"Amour victorieux,",
+				"Jésus-Christ, le Sauveur",
+				"Descendra des cieux.",
+				"Toutes dominations",
+				"Et royaumes tomberont,",
+				"Car son nom est Jésus,",
+				"Et il est le Seigneur,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est Seigneur, Il est Seigneur,",
+				"Il est Seigneur, Il est Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il règne dans toute sa splendeur,",
+				"Amour victorieux,",
+				"Jésus-Christ, le Sauveur",
+				"Descendra des cieux.",
+				"Toutes dominations",
+				"Et royaumes tomberont,",
+				"Car son nom est Jésus,",
+				"Et il est le Seigneur,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est Seigneur, Il est Seigneur,",
+				"Il est Seigneur, Il est Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Bilbrough",
+			"role": "music"
+		},
+		{
+			"name": "David Bilbrough",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem419",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

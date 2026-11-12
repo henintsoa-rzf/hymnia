@@ -1,0 +1,75 @@
+{
+	"id": "pres-de-toi",
+	"title": "Près de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "645"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu est bon, juste et parfait,",
+				"Nous venons vers toi pour t'adorer.",
+				"Car tu es lumière, vérité et vie,",
+				"Nous nous approchons pour proclamer",
+				"Que c'est près de toi que nous voulons vivre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans ta maison, près de toi, de ton cœur.",
+				"Car ton amour a lavé nos souillures,",
+				"Et nous t'adorons",
+				"pour ta bonté, pour ta grâce.",
+				"Oui, nous t'adorons",
+				"pour ta bonté, pour ta grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu tu es amour, oui, tu es la paix,",
+				"Tu seras toujours, celui qui est.",
+				"Alors d'un seul cœur, oui, d'une même voix,",
+				"Élevons Jésus, le Roi des rois,",
+				"Car c'est près de toi que nous voulons vivre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans ta maison, près de toi, de ton cœur.",
+				"Car ton amour a lavé nos souillures,",
+				"Et nous t'adorons",
+				"pour ta bonté, pour ta grâce.",
+				"Oui, nous t'adorons",
+				"pour ta bonté, pour ta grâce."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "R. Muskinson",
+			"role": "music"
+		},
+		{
+			"name": "R. Muskinson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem645",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,73 @@
+{
+	"id": "qui-dit-au-soleil",
+	"title": "Qui dit au soleil.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "470"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui dit au soleil sur la terre",
+				"D'éclairer tout homme en tout lieu,",
+				"Et qui donne aux nuits leur mystère ?",
+				"C'est l'Éternel, c'est notre Dieu,",
+				"C'est l'Éternel, c'est notre Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le bluet et le ciel superbe,",
+				"Qui les a teints d'un si beau bleu ?",
+				"Qui verdit l'émeraude et l'herbe ?",
+				"C'est l'Éternel, c'est notre Dieu,",
+				"C'est l'Éternel, c'est notre Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand nous pleurons, qui nous console ?",
+				"Qui veille sur nous en tout lieu ?",
+				"Qui nous soutient par sa Parole ?",
+				"C'est l'Éternel, c'est notre Dieu,",
+				"C'est l'Éternel, c'est notre Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et lorsque notre âme immortelle",
+				"À la terre aura dit adieu,",
+				"Près de qui s'envolera-t-elle ?",
+				"Vers l'Éternel, vers notre Dieu !",
+				"Vers l'Éternel, vers notre Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie populaire",
+			"role": "music"
+		},
+		{
+			"name": "Louis Tournier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af470",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

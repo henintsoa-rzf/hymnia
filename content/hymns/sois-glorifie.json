@@ -1,0 +1,129 @@
+{
+	"id": "sois-glorifie",
+	"title": "Sois glorifié",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "978"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est en ton nom que je poursuis",
+				"Les humbles tâches d'aujourd'hui.",
+				"Toi seul pénètres mes pensées,",
+				"Tu vois mes actes, mes projets."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En ton nom, j'irai, Seigneur.",
+				"Je veux courir sans me lasser",
+				"Vers le but que tu m'as montré.",
+				"Dans mon travail sois adoré",
+				"En accord à ta volonté.",
+				"En ton nom, j'irai."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sois glorifié en moi !",
+				"Sois glorifié en moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Garde-moi fidèle à l'appel,",
+				"Le regard tourné vers le ciel.",
+				"Garde-moi des soucis futiles",
+				"De l'attrait des amours faciles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En ton nom, j'irai, Seigneur.",
+				"Tu fais siéger à tes côtés",
+				"Celui qui t'aime et te connaît",
+				"En suivant ton commandement",
+				"D'œuvrer pour toi dans les nations.",
+				"En ton nom, j'irai."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sois glorifié en moi !",
+				"Sois glorifié en moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ton fardeau me soit léger.",
+				"Qu'en chaque instant je sache prier",
+				"Pour m'attacher aux choses d'en haut ;",
+				"Tu es celui qui vient bientôt."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En ton nom, j'irai, Seigneur.",
+				"Ta joie se répand dans le cœur",
+				"De tous tes fidèles serviteurs,",
+				"De ceux qui achèvent leur parcours",
+				"Pour vivre avec toi pour toujours.",
+				"En ton nom, j'irai."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sois glorifié en moi !",
+				"Sois glorifié en moi !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dans mes paroles, dans mes actions,",
+				"Jésus, sois glorifié en moi !",
+				"Dans mes paroles, dans mes actions,",
+				"Jésus, sois glorifié en moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem978",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

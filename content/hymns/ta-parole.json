@@ -1,0 +1,83 @@
+{
+	"id": "ta-parole",
+	"title": "Ta parole",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "828"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta parole est une lampe devant mes pas,",
+				"Elle éclaire mon sentier.",
+				"Ta parole est une lampe devant mes pas,",
+				"Elle éclaire mon sentier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand parfois je crains",
+				"d'avoir perdu mon chemin,",
+				"Tu es toujours tout près de moi.",
+				"Non, je ne craindrai rien,",
+				"Car tu me tiens par la main,",
+				"Tout près de moi jusqu'à la fin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta parole est une lampe devant mes pas,",
+				"Elle éclaire mon sentier.",
+				"Ta parole est une lampe devant mes pas,",
+				"Elle éclaire mon sentier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je n'oublierai pas",
+				"ton grand amour pour moi,",
+				"Pourtant, parfois, je doute encore.",
+				"Ô Jésus, guide-moi,",
+				"Garde-moi tout près de toi,",
+				"Je veux t'aimer jusqu'à la fin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta parole est une lampe devant mes pas,",
+				"Elle éclaire mon sentier.",
+				"Ta parole est une lampe devant mes pas,",
+				"Elle éclaire mon sentier."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Amy Grant",
+			"role": "music"
+		},
+		{
+			"name": "Amy Grant ; Michaël W. Smith",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem828",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

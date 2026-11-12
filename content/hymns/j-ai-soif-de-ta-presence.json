@@ -1,0 +1,138 @@
+{
+	"id": "j-ai-soif-de-ta-presence",
+	"title": "J'ai soif de ta présence",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "261"
+		},
+		{
+			"hymnal": "adf",
+			"number": "184"
+		},
+		{
+			"hymnal": "jem",
+			"number": "423"
+		},
+		{
+			"hymnal": "cd",
+			"number": "284"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai soif de ta présence,",
+				"Divin Chef de ma foi ;",
+				"Dans ma faiblesse immense",
+				"Que ferais-je sans toi ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour, à chaque heure,",
+				"Oh ! j'ai besoin de toi ;",
+				"Viens, Jésus, et demeure",
+				"Auprès de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des ennemis dans l'ombre,",
+				"Rôdent autour de moi ;",
+				"Accablé par le nombre,",
+				"Que ferais-je sans toi ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour, à chaque heure,",
+				"Oh ! j'ai besoin de toi ;",
+				"Viens, Jésus, et demeure",
+				"Auprès de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pendant les jours d'orage,",
+				"D'obscurité, d'effroi,",
+				"Quand faiblit mon courage,",
+				"Que ferais-je sans toi ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour, à chaque heure,",
+				"Oh ! j'ai besoin de toi ;",
+				"Viens, Jésus, et demeure",
+				"Auprès de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Jésus ! ta présence,",
+				"C'est la vie et la paix,",
+				"La paix dans la souffrance,",
+				"Et la vie à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour, à chaque heure,",
+				"Oh ! j'ai besoin de toi ;",
+				"Viens, Jésus, et demeure",
+				"Auprès de moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robert Lowry",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg261",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af184",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem423",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1178",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

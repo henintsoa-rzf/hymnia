@@ -1,0 +1,71 @@
+{
+	"id": "juste-souverain",
+	"title": "Juste Souverain",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "444"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Force et pouvoir sont dans ta main,",
+				"Lumière et gloire viendront enfin",
+				"Quand tu entreras dans cette ville",
+				"Pour la gouverner."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Juste souverain, nous te couronnons.",
+				"Juste souverain, oui, nous t'exaltons.",
+				"Que les saints proclament:",
+				"Toi seul tu es Roi,",
+				"Toi le souverain, le Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les rois du monde s'inclineront",
+				"Et les puissants reconnaîtront",
+				"Leur faiblesse devant le Roi de gloire,",
+				"Seigneur de la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Juste souverain, nous te couronnons.",
+				"Juste souverain, oui, nous t'exaltons.",
+				"Que les saints proclament:",
+				"Toi seul tu es Roi,",
+				"Toi le souverain, le Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Patti Ridings",
+			"role": "music"
+		},
+		{
+			"name": "Patti Ridings",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem444",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

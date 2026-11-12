@@ -1,0 +1,54 @@
+{
+	"id": "tu-es-le-dieu-puissant",
+	"title": "Tu es le Dieu puissant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "273"
+		},
+		{
+			"hymnal": "cd",
+			"number": "30"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es le Dieu puissant,",
+				"Tu règnes dans l'univers.",
+				"Tu es le Dieu vivant,",
+				"Pour nous un Père.",
+				"Tu es le Dieu très saint,",
+				"Parfait à l'infini.",
+				"Tu est celui qui vient",
+				"Et pour nous un ami."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rick Ridings",
+			"role": "music"
+		},
+		{
+			"name": "Rick Ridings",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem273",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/917",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

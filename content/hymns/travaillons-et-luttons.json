@@ -1,0 +1,135 @@
+{
+	"id": "travaillons-et-luttons",
+	"title": "Travaillons et luttons",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "366"
+		},
+		{
+			"hymnal": "adf",
+			"number": "350"
+		},
+		{
+			"hymnal": "cd",
+			"number": "347"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Travaillons et luttons !",
+				"Nous sommes au Seigneur :",
+				"Suivons l'étroit sentier qui conduit à la vie !",
+				"Jésus marche avec nous,",
+				"avançons sans frayeur,",
+				"Il nous garde et son bras toujours nous fortifie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Travaillons et luttons,",
+				"Travaillons et luttons ;",
+				"Soyons prêts et prions :",
+				"Bientôt le Maître va venir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Travaillons et luttons !",
+				"Que les cœurs affligés,",
+				"Les perdus loin de Dieu retrouvent l'espérance !",
+				"Vers la croix dirigeons leurs regards angoissés,",
+				"Pressons-les d'accepter Jésus, leur délivrance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Travaillons et luttons,",
+				"Travaillons et luttons ;",
+				"Soyons prêts et prions :",
+				"Bientôt le Maître va venir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Travaillons et luttons !",
+				"Il nous appelle tous :",
+				"Le champ nous est ouvert",
+				"et la moisson est grande !",
+				"Pour servir notre Chef, ne pensons plus à nous,",
+				"En avant vers le but ! le Maître le demande."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Travaillons et luttons,",
+				"Travaillons et luttons ;",
+				"Soyons prêts et prions :",
+				"Bientôt le Maître va venir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Travaillons et luttons !",
+				"Sans jamais nous lasser,",
+				"De notre Rédempteur élevons la bannière ;",
+				"Fidèles jusqu'au bout, sachons persévérer :",
+				"Le repos nous attend dans la pleine lumière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Travaillons et luttons,",
+				"Travaillons et luttons ;",
+				"Soyons prêts et prions :",
+				"Bientôt le Maître va venir !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Howard Doane",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg366",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af350",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1145",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "jesus-m-aime-comme-je-suis",
+	"title": "Jésus m’aime comme je suis",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "114"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus m’aime comme je suis,",
+				"Son immense amour illumine ma vie;",
+				"Mon Rocher et mon Ami",
+				"Il me gardera auprès de Lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En sécurité dans le creux de sa main,",
+				"Je suis protégé et je ne craindrai rien;",
+				"Il a promis de nous sauver,",
+				"Il a promis de régner."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chaque jour nouveau est un cadeau de Dieu,",
+				"Il est avec nous en tout temps, en tout lieu.",
+				"Il me remplit de son Esprit,",
+				"Toute ma vie je serai près de Lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Heinrich Riesich",
+			"role": "lyrics"
+		},
+		{
+			"name": "Heinrich Riesich",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-14",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

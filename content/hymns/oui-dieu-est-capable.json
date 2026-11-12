@@ -1,0 +1,92 @@
+{
+	"id": "oui-dieu-est-capable",
+	"title": "Oui, Dieu est capable",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1187"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, Dieu est capable, il est tout-puissant.",
+				"Il peut même restaurer ceux qui sont épuisés.",
+				"Oui, Dieu est partout, bien ici comme ailleurs.",
+				"Nul ne peut s’éloigner trop loin de sa chaleur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joie pour les hommes ici-bas,",
+				"Il a conquis la mort,",
+				"Tout est accompli.",
+				"Là, Jésus, là, sur la croix,",
+				"Il a changé le sort de ceux qui croient en lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui Dieu veut guérir nos âmes et nos corps,",
+				"Enfin nous affranchir de la crainte de la mort.",
+				"Oui, Dieu est parfait dans tous ses desseins",
+				"Où chacune de nos vies repose au creux de sa main."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joie pour les hommes ici-bas,",
+				"Il a conquis la mort,",
+				"Tout est accompli.",
+				"Là, Jésus, là, sur la croix,",
+				"Il a changé le sort de ceux qui croient en lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, Dieu est justice pour les assoiffés.",
+				"Un jour, tous, nous serons dans son palais, rassasiés.",
+				"Oui, Dieu est fidèle, son retour est certain ;",
+				"Notre espoir éternel est en route, il revient !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joie pour les hommes ici-bas,",
+				"Il a conquis la mort,",
+				"Tout est accompli.",
+				"Là, Jésus, là, sur la croix,",
+				"Il a changé le sort de ceux qui croient en lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christian Frappier et Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Christian Frappier et Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1187",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

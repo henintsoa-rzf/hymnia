@@ -1,0 +1,79 @@
+{
+	"id": "je-te-donne-tout",
+	"title": "Je te donne tout",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "864"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je te donne mon cœur,",
+				"Il ne m'appartient plus.",
+				"Ce que j'ai de meilleur,",
+				"Tout est pour toi Jésus.",
+				"Je te donne mon cœur,",
+				"Il ne m'appartient plus.",
+				"Ce que j'ai de meilleur,",
+				"Tout est pour toi Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends mon âme, prends mon cœur,",
+				"Je te donne tout.",
+				"Prends ma vie, me voici,",
+				"Je te donne tout.",
+				"Mon cœur est à toi, tout à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un parfum de valeur",
+				"Sur toi est répandu,",
+				"C'est l'offrande de mon cœur,",
+				"Je suis à toi Jésus.",
+				"Un parfum de valeur",
+				"Sur toi est répandu,",
+				"C'est l'offrande de mon cœur,",
+				"Je suis à toi Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prends mon âme, prends mon cœur,",
+				"Je te donne tout.",
+				"Prends ma vie, me voici,",
+				"Je te donne tout.",
+				"Mon cœur est à toi, tout à toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc Dumont",
+			"role": "music"
+		},
+		{
+			"name": "Luc Dumont",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem864",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

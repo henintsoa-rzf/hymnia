@@ -1,0 +1,82 @@
+{
+	"id": "o-mon-ame-captive",
+	"title": "O mon âme captive.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "132"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O mon âme captive,",
+				"Vers la céleste rive,",
+				"Vers ce port que jamais l'orage n'a battu,",
+				"Par delà tous les voiles,",
+				"Par delà les étoiles,",
+				"Auprès de ton Sauveur,",
+				"quand t'envoleras-tu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Parfois je crois entendre",
+				"Un accord doux et tendre ;",
+				"Parfois, au fond des cieux,",
+				"il me semble entrevoir",
+				"Les radieux portiques,",
+				"Et les chœurs angéliques",
+				"S'ouvrir pour m'inviter",
+				"et pour me recevoir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vision fugitive !",
+				"Ma pauvre âme captive",
+				"Loin du ciel, loin de Dieu,",
+				"pleure et gémit encor.",
+				"Phalanges immortelles,",
+				"Oh ! prêtez-moi vos ailes,",
+				"Et que vers mon Sauveur",
+				"je prenne mon essor !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Courage, âme craintive ;",
+				"Le jour suprême arrive !",
+				"Garde ton espérance et ranime ta foi !",
+				"L'horizon se colore,",
+				"Voici, voici l'aurore,",
+				"Et bientôt sur la nue apparaîtra ton Roi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Songs and Solos",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af132",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

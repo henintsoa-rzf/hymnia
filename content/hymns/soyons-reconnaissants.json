@@ -1,0 +1,62 @@
+{
+	"id": "soyons-reconnaissants",
+	"title": "Soyons reconnaissants",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1031"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Soyons reconnaissants, il a tout créé.",
+				"Soyons reconnaissants, il nous a tout donné.",
+				"Soyons reconnaissants,",
+				"En lui nous sommes aimés.",
+				"Disons merci pour notre vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Soyons reconnaissants, il prend soin de nous.",
+				"Soyons reconnaissants, il règne sur tout.",
+				"Soyons reconnaissants,",
+				"Sa grâce s'étend sur nous.",
+				"Disons merci pour cette vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi, Seigneur,",
+				"Merci, oh ! merci,",
+				"Merci, oh ! merci.",
+				"Merci, oh ! merci,",
+				"Merci, oh ! merci."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Siméon et Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Siméon et Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1031",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

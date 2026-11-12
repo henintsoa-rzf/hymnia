@@ -1,0 +1,82 @@
+{
+	"id": "doux-agneau-sans-tache",
+	"title": "Doux Agneau sans tache",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "278"
+		},
+		{
+			"hymnal": "adf",
+			"number": "301"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Doux Agneau sans tache",
+				"Qui mourus pour moi,",
+				"Ton amour m'arrache",
+				"Au monde, à sa loi.",
+				"Son néant sonore",
+				"Ne me tente plus :",
+				"C'est toi que j'adore,",
+				"Toi seul, ô Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À tes pieds, j'immole",
+				"Mon orgueil, Seigneur,",
+				"La dernière idole",
+				"De mon pauvre cœur.",
+				"Ici j'abandonne",
+				"Mes fausses vertus,",
+				"Ici je me donne",
+				"À Toi seul, Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta mort volontaire",
+				"Me rend immortel ;",
+				"Je meurs à la terre",
+				"Pour renaître au ciel.",
+				"O bonheur suprême !",
+				"O chants des élus !",
+				"Oui, c'est toi que j'aime,",
+				"Toi seul, ô Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Bacchus Dykes",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg278",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af301",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

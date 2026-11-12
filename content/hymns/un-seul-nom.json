@@ -1,0 +1,142 @@
+{
+	"id": "un-seul-nom",
+	"title": "Un seul nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1173"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je te donne mon «oui» et je m’abandonne.",
+				"Quelles que soient mes questions,",
+				"Mes incompréhensions,",
+				"Je déclare que tu es bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je te donne mon «oui» et je m’abandonne.",
+				"Quelles que soient mes questions,",
+				"Mes incompréhensions,",
+				"Je déclare que tu es bon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n’y a qu’un seul nom qui sauve,",
+				"Qui guérit toutes les maladies.",
+				"Le nom qui fait l’impossible.",
+				"Je chanterai, j’élèverai"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je te donne mon «oui» et je m’abandonne.",
+				"Quelles que soient mes questions,",
+				"Mes incompréhensions,",
+				"Je déclare que tu es bon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n’y a qu’un seul nom qui sauve,",
+				"Qui guérit toutes les maladies.",
+				"Le nom qui fait l’impossible.",
+				"Je chanterai, j’élèverai"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Au-delà des mots de cette chanson,",
+				"Tu es celui que mon cœur aime,",
+				"Tu es celui qui me poursuit."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Au-delà des mots de cette chanson,",
+				"Tu es celui que mon cœur aime,",
+				"Tu es celui qui me poursuit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus,",
+				"Un seul nom, un seul nom, celui de Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sophie Bernard",
+			"role": "music"
+		},
+		{
+			"name": "Sophie Bernard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1173",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

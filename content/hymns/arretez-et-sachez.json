@@ -1,0 +1,129 @@
+{
+	"id": "arretez-et-sachez",
+	"title": "Arrêtez et sachez",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1139"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand tout s’agite autour de nous,",
+				"Que l’avenir est flou,",
+				"Quand l’angoisse et l’obscurité",
+				"Cherchent à nous emporter,",
+				"Tu vois nos cœurs troublés et alarmés.",
+				"Et de ta voix tu viens nous rappeler :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Arrêtez et sachez",
+				"Que je suis l’Eternel Dieu,",
+				"Oui, je suis l’Eternel Dieu. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est toi qui es maître du temps,",
+				"De toutes circonstances.",
+				"Nous apprenons à tout lâcher,",
+				"À te faire confiance.",
+				"Tu formes en nous ton cœur et ta pensée.",
+				"Oui, par amour, tu viens nous émonder."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Arrêtons, acceptons",
+				"Que c’est lui l’Eternel Dieu,",
+				"Oui, c’est lui l’Eternel Dieu."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Exalté sur toute la terre,",
+				"Exalté au plus haut des cieux,",
+				"Devant lui tout se prosterne,",
+				"Il règne en victorieux."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oui, c’est lui l’Eternel Dieu,",
+				"Oui c’est lui l’Eternel Dieu."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que les montagnes chancellent,",
+				"Que les mers se déchaînent",
+				"Les peuples se soulèvent,",
+				"Tu restes le même."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Malgré la confusion,",
+				"La peur dans les nations,",
+				"Quelle que soit la saison,",
+				"Fidèle est ton nom."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que les montagnes chancellent,",
+				"Que les mers se déchaînent",
+				"Les peuples se soulèvent,",
+				"Tu restes le même."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Malgré la confusion,",
+				"La peur dans les nations,",
+				"Quelle que soit la saison,",
+				"Fidèle est ton nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre-Nicolas et Mary-Colleen de Katow",
+			"role": "music"
+		},
+		{
+			"name": "Pierre-Nicolas et Mary-Colleen de Katow",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1139",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

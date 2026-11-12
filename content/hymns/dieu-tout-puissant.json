@@ -1,0 +1,123 @@
+{
+	"id": "dieu-tout-puissant",
+	"title": "Dieu tout-puissant",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "58"
+		},
+		{
+			"hymnal": "jem",
+			"number": "66"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu tout puissant,",
+				"quand mon cœur considère",
+				"Tout l'univers créé par ton pouvoir ;",
+				"Le ciel d'azur, les éclairs, le tonnerre,",
+				"Le clair matin, ou les ombres du soir…"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De tout mon être, alors, s'élève un chant:",
+				"« Dieu tout-puissant, que tu es grand ! »",
+				"De tout mon être, alors, s'élève un chant:",
+				"« Dieu tout-puissant, que tu es grand ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand, par les bois, ou la forêt profonde,",
+				"J'entends, joyeux, tous les oiseaux chanter ;",
+				"Quand, sur les monts, la source avec son onde",
+				"Livre au zéphyr son chant doux et léger…"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon cœur, heureux,",
+				"s'écrie à chaque instant:",
+				"« O Dieu d'amour, que tu es grand ! »",
+				"Mon cœur heureux,",
+				"s'écrie à chaque instant:",
+				"« O Dieu d'amour, que tu es grand ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais quand je songe, ô sublime mystère !",
+				"Qu'un Dieu si grand a pu penser à moi ;",
+				"Que son cher Fils est devenu mon Frère,",
+				"Et que je suis l'héritier du grand Roi…"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors mon cœur redit, la nuit, le jour:",
+				"« Que tu es bon, ô Dieu d'amour ! »",
+				"Alors mon cœur redit, la nuit, le jour:",
+				"« Que tu es bon, ô Dieu d'amour ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand mon Sauveur, éclatant de lumière,",
+				"Se lèvera de son trône éternel ;",
+				"Et que, laissant les douleurs de la terre,",
+				"Je pourrai voir les splendeurs de son ciel…"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je redirai, dans son divin séjour :",
+				"« Rien n'est plus grand que ton amour ! »",
+				"Je redirai, dans son divin séjour :",
+				"« Rien n'est plus grand que ton amour ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air russe",
+			"role": "music"
+		},
+		{
+			"name": "Hector Arnéra",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg058",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem066",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

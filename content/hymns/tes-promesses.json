@@ -1,0 +1,101 @@
+{
+	"id": "tes-promesses",
+	"title": "Tes promesses",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "412"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dès l’aurore, chaque matin,",
+				"Jusqu’au coucher du soleil,",
+				"Mon appui, c’est ta Parole et tes promesses.",
+				"Voix puissante qui me sauve,",
+				"Qui jamais ne passera,",
+				"Mon appui, c’est ta Parole et tes promesses.",
+				"Ton alliance est éternelle,",
+				"Oui, c’est ma sécurité.",
+				"Mon appui, c’est ta Parole et tes promesses."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand je tombe et que je pèche",
+				"Mon cœur me condamnerait.",
+				"Je vivrai de ta Parole et tes promesses.",
+				"Tu pardonnes, tu es fidèle,",
+				"Tu me rends la liberté.",
+				"Je vivrai de ta Parole et tes promesses.",
+				"De coupable, je suis pur,",
+				"Mes péchés tu les oublies.",
+				"Mon appui, c’est ta Parole et tes promesses."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si mes choix me font trop peur",
+				"Je veux écouter ta voix,",
+				"Mon appui, c’est ta Parole et tes promesses.",
+				"Dans la nuit, lorsque je crains,",
+				"Tu me guides par la main.",
+				"Mon appui, c’est ta Parole et tes promesses.",
+				"Tes projets, ton œuvre en moi,",
+				"Tu les conduiras au but.",
+				"Mon appui, c’est ta Parole et tes promesses."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"L’espérance comme l’amour",
+				"Ôteront tout désespoir.",
+				"Mon appui, c’est ta Parole et tes promesses.",
+				"Jamais seul, abandonné,",
+				"Car l’Esprit habite en moi.",
+				"Mon appui, c’est ta Parole et tes promesses.",
+				"Et ta grâce suffira",
+				"Et pour moi et pour chacun",
+				"Qui veut croire en ta Parole et tes promesses."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-moments-deternite/#chant-12",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

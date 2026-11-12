@@ -1,0 +1,73 @@
+{
+	"id": "symbole-des-apotres",
+	"title": "Symbole des apôtres",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "402"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je crois en Dieu, le Père tout-puissant,",
+				"Créateur du ciel, Créateur de la terre.",
+				"Je crois en Dieu, le Père tout-puissant,",
+				"Créateur du ciel, Créateur de la terre.",
+				"Je crois en Jésus-Christ,",
+				"Fils unique de Dieu,",
+				"conçu par la puissance",
+				"du Saint-Esprit en Marie.",
+				"Je crois en Jésus-Christ,",
+				"mort au temps de Pilate,",
+				"crucifié de mains d’hommes,",
+				"mis dans la nuit du tombeau.",
+				"Je crois en Jésus-Christ",
+				"ressuscité des morts,",
+				"monté auprès de Dieu ;",
+				"il revient pour juger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je crois en Dieu, le Père tout-puissant,",
+				"Créateur du ciel, Créateur de la terre.",
+				"Je crois en Dieu, le Père tout-puissant,",
+				"Créateur du ciel, Créateur de la terre.",
+				"Je crois en l’Esprit Saint,",
+				"puissance de Dieu en nous.",
+				"Je crois en Son Eglise,",
+				"présence de Dieu sur terre.",
+				"Je crois à l’unité,",
+				"l’amitié des croyants,",
+				"au pardon des péchés,",
+				"admis, jugés, confessés ;",
+				"à la résurrection",
+				"du corps de tout croyant,",
+				"à la vie éternelle,",
+				"dans la paix, dans la joie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Varidel",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-moments-deternite/#chant-2",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

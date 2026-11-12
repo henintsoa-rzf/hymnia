@@ -1,0 +1,112 @@
+{
+	"id": "bienheureux-qui-t-aime",
+	"title": "Bienheureux qui t'aime",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "310"
+		},
+		{
+			"hymnal": "adf",
+			"number": "538"
+		},
+		{
+			"hymnal": "cd",
+			"number": "220"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bienheureux qui t'aime,",
+				"Jésus, bien suprême,",
+				"Source du bonheur ;",
+				"Verse, dans mon âme,",
+				"De ta sainte flamme",
+				"La divine ardeur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec toi tout est à moi.",
+				"Accorde-moi ta présence,",
+				"Et ton assistance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Au sein de l'épreuve,",
+				"Ton Esprit m'abreuve",
+				"D'un calme divin.",
+				"En toi, mon asile,",
+				"Mon âme est tranquille",
+				"Et mon cœur serein."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec toi tout est à moi.",
+				"Accorde-moi ta présence,",
+				"C'est mon espérance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Jésus que j'aime !",
+				"Au moment suprême,",
+				"Prends-moi dans tes bras ;",
+				"Soutiens ma faiblesse,",
+				"Change en allégresse",
+				"Mes derniers combats."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec toi tout est à moi.",
+				"Accorde-moi ta présence,",
+				"C'est ma délivrance."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean Crüger",
+			"role": "music"
+		},
+		{
+			"name": "Charles Cuvier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg310",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af538",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1051",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

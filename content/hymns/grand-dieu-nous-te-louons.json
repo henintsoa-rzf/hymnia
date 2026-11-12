@@ -1,0 +1,82 @@
+{
+	"id": "grand-dieu-nous-te-louons",
+	"title": "Grand Dieu, nous te louons",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "39"
+		},
+		{
+			"hymnal": "adf",
+			"number": "35"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Grand Dieu, nous te louons,",
+				"nous t'adorons, Seigneur,",
+				"Et nous voulons chanter",
+				"un hymne à ton honneur.",
+				"L'univers tout entier",
+				"te craint et te révère",
+				"Comme son Créateur,",
+				"son Monarque et son Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tous prêchent ta puissance",
+				"et ta fidélité,",
+				"Ta sagesse infinie",
+				"et ta grande bonté :",
+				"Tes apôtres, tes saints,",
+				"tes martyrs, tes prophètes,",
+				"Tes ministres sacrés,",
+				"tes divins interprètes."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Veuille par ton Esprit",
+				"diriger tes enfants,",
+				"Et répandre sur eux",
+				"tes bienfaits en tout temps ;",
+				"Nous voulons désormais",
+				"employer notre vie",
+				"À louer hautement",
+				"ta grandeur infinie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Psautier de Genève",
+			"role": "music"
+		},
+		{
+			"name": "Bénédict Pictet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg039",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af035",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

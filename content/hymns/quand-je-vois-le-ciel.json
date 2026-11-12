@@ -1,0 +1,63 @@
+{
+	"id": "quand-je-vois-le-ciel",
+	"title": "Quand je vois le ciel.",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "2"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand je vois le ciel,",
+				"Oeuvre de tes doigts,",
+				"La lune et les étoiles que tu créas.",
+				"Quand je vois le ciel,",
+				"Oeuvre de tes doigts,",
+				"La lune et les étoiles que tu créas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'est donc l'homme, ô Éternel ?",
+				"Qu'est donc l'homme, ô Éternel ?",
+				"Qu'est donc l'homme, ô Éternel ?",
+				"Que tu prennes garde à lui ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand je vois le ciel,",
+				"Oeuvre de tes doigts,",
+				"La lune et les étoiles que tu créas.",
+				"Quand je vois le ciel,",
+				"Oeuvre de tes doigts,",
+				"La lune et les étoiles que tu créas."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "C. Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem002",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

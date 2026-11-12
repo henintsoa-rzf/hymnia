@@ -1,0 +1,77 @@
+{
+	"id": "manifeste-ta-presence",
+	"title": "Manifeste ta présence",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "536"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, viens ranimer",
+				"Le feu que tu as mis en moi.",
+				"Toi seul peux m'éclairer.",
+				"Viens, Seigneur, m'ouvrir les yeux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O manifeste ta présence",
+				"Et convaincs-moi de ta puissance.",
+				"Revêts-moi de ta sainteté,",
+				"Surprends-moi par ta beauté,",
+				"O manifeste ta présence",
+				"Et convaincs-moi de ta puissance.",
+				"Revêts-moi de ta sainteté,",
+				"Surprends-moi par ta majesté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, viens ranimer",
+				"Le feu que tu as mis en nous.",
+				"Toi seul peux tout changer.",
+				"Viens, Seigneur, nous ouvrir les yeux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O manifeste ta présence",
+				"Et convaincs-moi de ta puissance.",
+				"Revêts-moi de ta sainteté,",
+				"Surprends-nous par ta beauté,",
+				"O manifeste ta présence",
+				"Et convaincs-moi de ta puissance.",
+				"Revêts-moi de ta sainteté,",
+				"Surprends-nous par ta majesté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham",
+			"role": "music"
+		},
+		{
+			"name": "David Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem536",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

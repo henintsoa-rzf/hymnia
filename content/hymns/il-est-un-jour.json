@@ -1,0 +1,117 @@
+{
+	"id": "il-est-un-jour",
+	"title": "Il est un jour.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "89"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est un jour où le doux nom",
+				"De Jésus est plus doux encore,",
+				"Où, réjoui par son pardon,",
+				"Plus que jamais le cœur adore :",
+				"C'est toi, Noël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est un jour où le foyer",
+				"Le plus désert et le plus sombre",
+				"Tout à coup semble s'égayer",
+				"Et comme rayonner dans l'ombre :",
+				"C'est toi, Noël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est un jour où des enfants",
+				"Plus douce encor la voix s'éveille,",
+				"Où, pour mieux entendre leurs chants,",
+				"Dieu Lui-même prête l'oreille :",
+				"C'est toi, Noël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il est un jour où les petits",
+				"En s'endormant, croient voir des anges",
+				"Voler au-dessus de leurs lits",
+				"Avec des bruits d'ailes étranges :",
+				"C'est toi, Noël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Il est un jour où l'indigent",
+				"Voit tout cœur s'ouvrir à sa plainte,",
+				"Où le fort devient indulgent,",
+				"Où le faible n'a plus de crainte :",
+				"C'est toi, Noël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Il est un jour où le bonheur",
+				"Va chercher la souffrance obscure,",
+				"La rencontre et lui dit : « Ma sœur,",
+				"Viens, je guérirais ta blessure : »",
+				"C'est toi, Noël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Il est un jour où l'âme en deuil",
+				"Elle-même un instant respire,",
+				"Et trouve encor, près d'un cercueil,",
+				"Un peu de force pour sourire :",
+				"C'est toi, Noël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 8,
+			"lines": [
+				"Aussi, pour fêter son retour,",
+				"Pas une bouche n'est muette !",
+				"Avec ardeur, avec amour,",
+				"Pas une voix qui ne répète :",
+				"C'est toi, Noël !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mme Osborne",
+			"role": "music"
+		},
+		{
+			"name": "Louis Tournier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af089",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

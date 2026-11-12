@@ -1,0 +1,96 @@
+{
+	"id": "pecheurs-voyez-l-agneau-du-pere",
+	"title": "Pécheurs, voyez l'Agneau du Père.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "516"
+		},
+		{
+			"hymnal": "adf",
+			"number": "516A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pécheurs, voyez l'Agneau du Père",
+				"Sur le bois,",
+				"Sur le bois de la croix.",
+				"Pour nous Il rend l'âme au Calvaire,",
+				"Sur le bois,",
+				"Sur le bois de la croix.",
+				"J'entends Son cri d'agonie :",
+				"Eli ! Lamma sabachthani !",
+				"Ta mort, Jésus, sera ma vie.",
+				"Oui, je crois",
+				"À Jésus mort en croix !",
+				"Oui, je crois à Jésus mort en croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton sang, Jésus, seul purifie ;",
+				"Du pécheur",
+				"Tu peux laver le cœur.",
+				"Ta voix d'amour m'offre la vie ;",
+				"Du pécheur",
+				"Tu peux laver le cœur.",
+				"De Golgotha ta voix crie :",
+				"Eli ! Lamma sabachthani !",
+				"O Christ ! j'entends ta voix chérie :",
+				"Bon Sauveur,",
+				"Je te donne mon cœur.",
+				"Bon Sauveur,",
+				"Je te donne mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Agneau de Dieu, près de ton Père,",
+				"Souviens-toi",
+				"D'un pécheur tel que moi !",
+				"O Christ, souviens-toi du Calvaire ;",
+				"Souviens-Toi",
+				"D'un pécheur tel que moi !",
+				"Pour moi fut ton agonie ;",
+				"Eli ! Lamma sabachthani !",
+				"À Toi sera toute ma vie,",
+				"O mon Roi !",
+				"O Christ, je suis à Toi !",
+				"O mon Roi !",
+				"O Christ, je suis à toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel-François-Esprit Auber",
+			"role": "music"
+		},
+		{
+			"name": "Jean Wesley Lelièvre",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af516",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af516a",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"id": "je-te-chante-une-melodie",
+	"title": "Je te chante une mélodie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "246"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je te chante, je te chante",
+				"Une mélodie, Seigneur ;",
+				"Je te chante, je te chante",
+				"Une mélodie, Seigneur ;",
+				"Je te chante, je te chante",
+				"Une mélodie, Seigneur ;",
+				"Alléluia, gloire à toi, Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Alléluia, gloire à toi, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus-Christ, Jésus-Christ,",
+				"Est vraiment ressuscité;",
+				"Jésus-Christ, Jésus-Christ,",
+				"Est vraiment ressuscité;",
+				"Jésus-Christ, Jésus-Christ,",
+				"Est vraiment ressuscité;",
+				"Alléluia, gloire à toi, Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Alléluia, gloire à toi, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par son nom, par son nom,",
+				"Nous avons la victoire,",
+				"Par son nom, par son nom,",
+				"Nous avons la victoire,",
+				"Par son nom, par son nom,",
+				"Nous avons la victoire,",
+				"Alléluia, gloire à toi, Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Alléluia, gloire à toi, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tous unis, tous unis,",
+				"Nous aimons Jésus-Christ ;",
+				"Tous unis, tous unis,",
+				"Nous aimons Jésus-Christ ;",
+				"Tous unis, tous unis,",
+				"Nous aimons Jésus-Christ ;",
+				"Alléluia, gloire à toi, Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Allélu, alléluia, gloire à toi, Seigneur ;",
+				"Alléluia, gloire à toi, Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Max Dyer",
+			"role": "music"
+		},
+		{
+			"name": "Max Dyer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem246",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

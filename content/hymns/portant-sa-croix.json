@@ -1,0 +1,71 @@
+{
+	"id": "portant-sa-croix",
+	"title": "Portant sa croix",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "103"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Portant sa croix, il monte",
+				"Le sinistre coteau",
+				"Dans l’opprobre et la honte,",
+				"Muet comme un agneau.",
+				"Ce Sauveur débonnaire,",
+				"Pour le pécheur mortel,",
+				"Va trouver au Calvaire,",
+				"La mort d’un criminel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur cette croix sanglante,",
+				"Sous le divin courroux,",
+				"Regarde, âme tremblante,",
+				"L’Agneau souffrant pour nous.",
+				"Il porte sur sa tête",
+				"Nos péchés odieux !",
+				"Il veut payer ta dette,",
+				"Pour t’introduire aux cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! charité profonde !",
+				"Insondable grandeur !",
+				"Le Créateur du monde",
+				"Veut être ton Sauveur.",
+				"Ainsi, plus de détresse,",
+				"Jésus est ton recours !",
+				"Il est ta forteresse !",
+				"Il t’aime pour toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J.R. Mazeirac",
+			"role": "unspecified"
+		},
+		{
+			"name": "Lowell Mason",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/952",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

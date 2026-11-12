@@ -1,0 +1,101 @@
+{
+	"id": "tu-m-as-aime-seigneur",
+	"title": "Tu m'as aimé, Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "50"
+		},
+		{
+			"hymnal": "adf",
+			"number": "58"
+		},
+		{
+			"hymnal": "cd",
+			"number": "35"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu m'as aimé, Seigneur,",
+				"avant que la lumière",
+				"Brillât sur l'univers que ta voix a formé,",
+				"Et que l'astre du jour, parcourant sa carrière,",
+				"Versât la vie à flots sur la nature entière :",
+				"Mon Dieu, tu m'as aimé !",
+				"Mon Dieu, tu m'as aimé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon Dieu, tu m'as aimé,",
+				"quand sur la croix infâme,",
+				"On vit de Jésus-Christ le corps inanimé ;",
+				"Quand, pour me délivrer de l'éternelle flamme,",
+				"Ton saint Fils a porté le péché de mon âme :",
+				"Mon Dieu, tu m'as aimé !",
+				"Mon Dieu, tu m'as aimé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon Dieu, tu m'as aimé,",
+				"quand par l'Esprit de vie,",
+				"Le feu de ton amour, en mon cœur allumé,",
+				"Ouvrit les nouveaux cieux à mon âme ravie ;",
+				"Quand la paix fut en moi de sainteté suivie,",
+				"Mon Dieu, tu m'as aimé !",
+				"Mon Dieu, tu m'as aimé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu m'aimeras toujours !",
+				"Ni l'enfer, ni le monde,",
+				"De tes dons généreux n'arrêteront le cours :",
+				"Où le mal abonda, ta grâce surabonde ;",
+				"À ton amour, ô Dieu, que mon amour réponde,",
+				"Toi qui m'aimes toujours,",
+				"Toi qui m'aimes toujours !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michel Haydn",
+			"role": "music"
+		},
+		{
+			"name": "Frédéric Chavannes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg050",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af058",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/850",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

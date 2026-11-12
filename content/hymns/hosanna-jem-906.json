@@ -1,0 +1,97 @@
+{
+	"id": "hosanna-jem-906",
+	"title": "Hosanna",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "906"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un chant s'élève,",
+				"Les yeux se tournent vers toi,",
+				"Se tournent vers toi.",
+				"L'espoir renaît,",
+				"Les cœurs soupirent après toi,",
+				"Oui, après toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En te voyant, nous retrouvons la force de vivre.",
+				"Quand nous sommes en ta présence,",
+				"Nos craintes fuient,",
+				"Elles s'enfuient."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Hosanna ! Hosanna !",
+				"Tu es le Roi, le Sauveur,",
+				"À toi la gloire et l'honneur.",
+				"Hosanna ! Hosanna !",
+				"Nous t'accueillons parmi nous,",
+				"Sois le bienvenu, ô Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Entends le son des cœurs",
+				"Qui reviennent à toi,",
+				"Reviennent à toi.",
+				"Dans ton Royaume,",
+				"Les vies brisées sont restaurées,",
+				"Sont restaurées."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En te voyant, nous retrouvons la force de vivre.",
+				"Quand nous sommes en ta présence,",
+				"Nos craintes fuient,",
+				"Elles s'enfuient."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Hosanna ! Hosanna !",
+				"Tu es le Roi, le Sauveur,",
+				"À toi la gloire et l'honneur.",
+				"Hosanna ! Hosanna !",
+				"Nous t'accueillons parmi nous,",
+				"Sois le bienvenu, ô Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Baloche ; Brenton Brown",
+			"role": "music"
+		},
+		{
+			"name": "Paul Baloche ; Brenton Brown",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem906",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

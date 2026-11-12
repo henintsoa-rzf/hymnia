@@ -1,0 +1,92 @@
+{
+	"id": "toi-qui-disposes",
+	"title": "Toi qui disposes",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "215"
+		},
+		{
+			"hymnal": "adf",
+			"number": "52"
+		},
+		{
+			"hymnal": "jem",
+			"number": "63"
+		},
+		{
+			"hymnal": "cd",
+			"number": "28"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toi qui disposes",
+				"De toutes choses",
+				"Et nous les donnes chaque jour,",
+				"Reçois, ô Père ! Notre prière",
+				"De reconnaissance et d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le don suprême",
+				"Que ta main sème,",
+				"C'est notre pardon, c'est ta paix ;",
+				"Et ta clémence, Trésor immense,",
+				"Est le plus grand de tes bienfaits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que, par ta grâce,",
+				"L'instant qui passe",
+				"Serve à nous rapprocher de toi !",
+				"Et qu'à chaque heure,",
+				"Vers ta demeure",
+				"Nos cœurs s'élèvent par la foi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Richard Storrs Willis",
+			"role": "music"
+		},
+		{
+			"name": "Blanche Sautter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg215",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af052",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem063",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/915",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

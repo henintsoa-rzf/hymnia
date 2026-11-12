@@ -1,0 +1,145 @@
+{
+	"id": "jesus-t-appelle-oh-viens-et-vois",
+	"title": "Jésus t'appelle, oh ! viens et vois.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "228"
+		},
+		{
+			"hymnal": "cd",
+			"number": "200",
+			"title": "Jésus t’appelle"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus t'appelle, oh ! viens et vois",
+				"Ton Sauveur cloué sur la Croix ;",
+				"Pour toi le Souverain des cieux",
+				"Vint verser son sang précieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus sauve, Jésus sauve,",
+				"Jésus sauve aujourd'hui,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent à Lui !",
+				"Jésus sauve, Jésus sauve,",
+				"Jésus sauve aujourd'hui,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent à Lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus t'appelle : oh ! cette voix,",
+				"N'a-t-elle aucun charme pour toi ?",
+				"Ne veux-tu donc pas revenir",
+				"À Celui qui veut te bénir ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus sauve, Jésus sauve,",
+				"Jésus sauve aujourd'hui,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent à Lui !",
+				"Jésus sauve, Jésus sauve,",
+				"Jésus sauve aujourd'hui,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent à Lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus t'appelle, Il te connaît ;",
+				"Tu fus rebelle, Il le savait ;",
+				"Il veut purifier ton cœur",
+				"Et te donner le vrai bonheur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus sauve, Jésus sauve,",
+				"Jésus sauve aujourd'hui,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent à Lui !",
+				"Jésus sauve, Jésus sauve,",
+				"Jésus sauve aujourd'hui,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent à Lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus t'appelle, oh ! réponds-Lui ;",
+				"Que ton cœur s'ouvre à ton Ami ;",
+				"Pour te sauver, Il vint mourir,",
+				"Il veut t'aimer et te bénir !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus sauve, Jésus sauve,",
+				"Jésus sauve aujourd'hui,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent à Lui !",
+				"Jésus sauve, Jésus sauve,",
+				"Jésus sauve aujourd'hui,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent,",
+				"Tous ceux qui viennent à Lui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James Mac Granahan",
+			"role": "music"
+		},
+		{
+			"name": "F. Valès",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af228",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1027",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

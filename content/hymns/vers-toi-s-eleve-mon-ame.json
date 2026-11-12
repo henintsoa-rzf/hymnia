@@ -1,0 +1,77 @@
+{
+	"id": "vers-toi-s-eleve-mon-ame",
+	"title": "Vers toi s'élève mon âme.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "587"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vers toi s'élève mon âme,",
+				"Éternel, mon Dieu, mon Roi !",
+				"Elle soupire après toi.",
+				"C'est toi seul qu'elle réclame.",
+				"Toutes mes iniquités,",
+				"Toutes mes infirmités,",
+				"Les voici, Dieu secourable.",
+				"Oh ! montre-toi favorable,",
+				"Et délivre le coupable",
+				"De ce fardeau qui l'accable."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Devant tes yeux nous ne sommes",
+				"Que poudre et corruption,",
+				"Mais, dans ta compassion.",
+				"Tu voulus sauver les hommes :",
+				"Tu nous donnas Jésus-Christ,",
+				"Tu donnes le Saint-Esprit.",
+				"Tu fais grâce au plus rebelle",
+				"Dès qu'il te cherche et t'appelle.",
+				"Oh ! que ton amour fidèle",
+				"Nous garde en paix sous ton aile !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Daigne accepter nos louanges,",
+				"Et permets à des pécheurs",
+				"D'unir leurs voix et leurs cœurs.",
+				"Aux cantiques de tes anges,",
+				"Qu'un hommage solennel",
+				"Monte jusqu'à l'Éternel :",
+				"Gloire soit à Dieu le Père !",
+				"Gloire à son Fils, notre Frère !",
+				"Gloire à l'Esprit de lumière,",
+				"Dans les cieux et sur la terre !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michael Hammerschmidt",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af587",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

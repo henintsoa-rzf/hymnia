@@ -1,0 +1,64 @@
+{
+	"id": "laisse-moi-desormais",
+	"title": "Laisse-moi désormais",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "92"
+		},
+		{
+			"hymnal": "adf",
+			"number": "542"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Laisse-moi désormais,",
+				"Seigneur, aller en paix ;",
+				"Car, selon ta promesse,",
+				"Tu fais voir à mes yeux",
+				"Le salut glorieux",
+				"Que j'attendais sans cesse :"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Salut qu'en l'univers",
+				"Tant de peuples divers",
+				"Vont recevoir et croire,",
+				"Ressource des petits,",
+				"Lumière des Gentils,",
+				"Et d'Israël la gloire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Lyon",
+			"role": "music"
+		},
+		{
+			"name": "Valentin Conrart",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg092",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af542",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

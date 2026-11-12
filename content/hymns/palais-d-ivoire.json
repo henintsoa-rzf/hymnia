@@ -1,0 +1,69 @@
+{
+	"id": "palais-d-ivoire",
+	"title": "Palais d'ivoire",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "87"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus est revêtu de fin lin,",
+				"Tout embaumé de myrrhe;",
+				"Quand il sort de son palais divin,",
+				"Le ciel ému l’admire!"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dépouillé des vêtements royaux,",
+				"Hors des palais d’ivoire,",
+				"Il est mort couvert de nos maux,",
+				"Pour nos donner sa gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il a connu des jours de douleur,",
+				"Loin du ciel, sur la terre;",
+				"De l’aloès goûté la saveur,",
+				"L’agonie au Calvaire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Un jour, de Jésus mes yeux verront",
+				"La céleste parure,",
+				"Et de ses pieds, ses mains et son front,",
+				"La terrestre blessure."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "I. Arnéra",
+			"role": "unspecified"
+		},
+		{
+			"name": "H. Barraclough",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/891",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,121 @@
+{
+	"id": "jesus-soit-avec-vous",
+	"title": "Jésus soit avec vous",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "391"
+		},
+		{
+			"hymnal": "adf",
+			"number": "457",
+			"title": "Jésus sois avec vous."
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus soit avec vous à jamais !",
+				"Vous guidant avec sagesse,",
+				"Vous entourent de tendresse,",
+				"Vous remplissant toujours de sa paix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! joyeuse et sainte espérance",
+				"Pour ceux qui s'aiment en Jésus :",
+				"Nous nous verrons en sa présence",
+				"Quand la mort, le deuil, ne seront plus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Avec vous au milieu du danger,",
+				"À l'heure de la détresse,",
+				"Qu'il soit votre forteresse,",
+				"Qu'il soit toujours votre bon berger !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! joyeuse et sainte espérance",
+				"Pour ceux qui s'aiment en Jésus :",
+				"Nous nous verrons en sa présence",
+				"Quand la mort, le deuil, ne seront plus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avec vous quand votre ciel est bleu,",
+				"Comme au jour de la tempête,",
+				"Que son cœur soit la retraite",
+				"Où vous trouverez la paix de Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! joyeuse et sainte espérance",
+				"Pour ceux qui s'aiment en Jésus :",
+				"Nous nous verrons en sa présence",
+				"Quand la mort, le deuil, ne seront plus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Enfin, dans le dernier des combats,",
+				"Pour échanger cette terre",
+				"Contre la maison du Père,",
+				"Que Jésus vous porte dans ses bras !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! joyeuse et sainte espérance",
+				"Pour ceux qui s'aiment en Jésus :",
+				"Nous nous verrons en sa présence",
+				"Quand la mort, le deuil, ne seront plus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Gould Tomer",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg391",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af457",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

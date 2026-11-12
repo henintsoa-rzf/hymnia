@@ -1,0 +1,75 @@
+{
+	"id": "pere-des-lumieres",
+	"title": "Père des lumières",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "643"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Père des lumières,",
+				"Tu prends plaisir en tes enfants.",
+				"Père des lumières,",
+				"Tu prends plaisir en tes enfants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout don parfait,",
+				"Tout don excellent vient de toi.",
+				"Tout don parfait,",
+				"Tout don excellent vient de toi.",
+				"Tout don parfait,",
+				"Tout don excellent vient de toi.",
+				"Père des lumières."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Père des lumières, toujours le même,",
+				"Tu ne changes pas.",
+				"Père des lumières, toujours le même,",
+				"Tu ne changes pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout don parfait,",
+				"Tout don excellent vient de toi.",
+				"Tout don parfait,",
+				"Tout don excellent vient de toi.",
+				"Tout don parfait,",
+				"Tout don excellent vient de toi.",
+				"Père des lumières."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Barnett",
+			"role": "music"
+		},
+		{
+			"name": "John Barnett",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem643",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

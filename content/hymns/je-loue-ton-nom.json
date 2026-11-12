@@ -1,0 +1,83 @@
+{
+	"id": "je-loue-ton-nom",
+	"title": "Je loue ton nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "576"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je loue ton nom Éternel ;",
+				"Seigneur, je célèbre ta bonté.",
+				"Quelle joie, tu vis en moi !",
+				"Quelle joie, tu viens pour nous sauver.",
+				"Je loue ton nom Éternel ;",
+				"Seigneur, je célèbre ta bonté.",
+				"Quelle joie, tu vis en moi !",
+				"Quelle joie, tu viens pour nous sauver."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu viens du ciel sur la terre",
+				"Montrer la voie,",
+				"De la terre à la croix",
+				"Payer pour moi,",
+				"De la croix jusqu'au tombeau,",
+				"Et du tombeau jusqu'au ciel.",
+				"Je loue ton nom, Éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je loue ton nom Éternel ;",
+				"Seigneur, je célèbre ta bonté.",
+				"Quelle joie, tu vis en moi !",
+				"Quelle joie, tu viens pour nous sauver.",
+				"Je loue ton nom Éternel ;",
+				"Seigneur, je célèbre ta bonté.",
+				"Quelle joie, tu vis en moi !",
+				"Quelle joie, tu viens pour nous sauver."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu viens du ciel sur la terre",
+				"Montrer la voie,",
+				"De la terre à la croix",
+				"Payer pour moi,",
+				"De la croix jusqu'au tombeau,",
+				"Et du tombeau jusqu'au ciel.",
+				"Je loue ton nom, Éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rick Founds",
+			"role": "music"
+		},
+		{
+			"name": "Rick Founds",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem576",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

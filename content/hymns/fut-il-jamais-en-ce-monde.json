@@ -1,0 +1,71 @@
+{
+	"id": "fut-il-jamais-en-ce-monde",
+	"title": "Fut-il jamais, en ce monde... !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "226"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Fut-il jamais, en ce monde,",
+				"Un amour si merveilleux;",
+				"Quel est le flot, quelle est l’onde,",
+				"Dont la source est dans les cieux ?",
+				"Ici, rien de comparable,",
+				"À l’amour du Dieu Sauveur;",
+				"Non, rien d’aussi délectable,",
+				"De si doux à notre coeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Esprit Saint, céleste flamme,",
+				"Tu peux seul nous secourir;",
+				"Seul tu peux blanchir notre âme",
+				"Et nous faire reverdir.",
+				"Souffle donc et brûle, arrache",
+				"Tout orgueil, ou lâcheté;",
+				"En nous tous, poursuis ta tâche,",
+				"Et mets-nous en liberté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, quand la foi chancelle,",
+				"Dans le sombre et mauvais jour;",
+				"Par ton esprit, renouvelle",
+				"Tous les dons de ton amour.",
+				"Car alors, joie et victoire",
+				"Seront à nous à jamais,",
+				"Ici-bas et dans la gloire,",
+				"Avec toi, prince de paix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J. Zundel",
+			"role": "unspecified"
+		},
+		{
+			"name": "H. ARNERA",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1055",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

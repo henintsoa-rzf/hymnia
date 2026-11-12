@@ -1,0 +1,98 @@
+{
+	"id": "quand-j-atteindrai-le-terme",
+	"title": "Quand j'atteindrai le terme.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "499"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand j'atteindrai le terme du voyage",
+				"Quand de la mort je franchirai le flot,",
+				"Mon Sauveur sera sur l'autre rivage",
+				"Car je sais qu'Il m'attend Là-haut !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Là-haut il m'attend,",
+				"Là-haut il m'attend,",
+				"Pour toujours, Là-haut,",
+				"Je verrai l'Agneau,",
+				"Là-haut, Il m'attend,",
+				"Là-haut, Il m'attend,",
+				"Là-haut, Jésus m'accueillera… bientôt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De la mort je ne crains pas la victoire",
+				"Car je puis voir au delà du Tombeau",
+				"Mon Sauveur m'ouvrir les portes de gloire,",
+				"Et je sais qu'Il m'attend Là-haut !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Là-haut il m'attend,",
+				"Là-haut il m'attend,",
+				"Pour toujours, Là-haut,",
+				"Je verrai l'Agneau,",
+				"Là-haut, Il m'attend,",
+				"Là-haut, Il m'attend,",
+				"Là-haut, Jésus m'accueillera… bientôt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les chœurs des élus, rachetés par grâce,",
+				"Vont répétant le Cantique nouveau,",
+				"Dans leurs rangs Jésus m'a fait une place",
+				"Car je sais qu'Il m'attend Là-haut…"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Là-haut il m'attend,",
+				"Là-haut il m'attend,",
+				"Pour toujours, Là-haut,",
+				"Je verrai l'Agneau,",
+				"Là-haut, Il m'attend,",
+				"Là-haut, Il m'attend,",
+				"Là-haut, Jésus m'accueillera… bientôt !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Bentley DeForest Ackley ; harmonisé par S.-P. de Roos",
+			"role": "music"
+		},
+		{
+			"name": "Jacques-A. Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af499",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

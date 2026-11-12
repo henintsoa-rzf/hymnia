@@ -1,0 +1,73 @@
+{
+	"id": "je-leve-les-yeux-jem-911",
+	"title": "Je lève les yeux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "911"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si je suis seul, comme égaré,",
+				"S'il me semble être abandonné de tous.",
+				"Et si le doute frappe à ma porte,",
+				"S'il en faut peu pour qu'il m'emporte au loin,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux vers toi,",
+				"Dieu de l'univers,",
+				"C'est en toi que j'espère.",
+				"Je lève les yeux vers toi,",
+				"Ma vie est dans tes mains,",
+				"Avec toi je ne crains rien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si le monde marche sur la tête",
+				"Et si pour demain je m'inquiète de tout.",
+				"Si je me sens vide, épuisé,",
+				"Si je n'ai plus rien à donner de moi,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je lève les yeux vers toi,",
+				"Dieu de l'univers,",
+				"C'est en toi que j'espère.",
+				"Je lève les yeux vers toi,",
+				"Ma vie est dans tes mains,",
+				"Avec toi je ne crains rien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stéphane Unger ; Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Stéphane Unger ; Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem911",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

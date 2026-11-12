@@ -1,0 +1,89 @@
+{
+	"id": "quand-finira-le-combat",
+	"title": "Quand finira le combat.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "421"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand finira le combat de la foi,",
+				"Quand, aux rayons de la nouvelle aurore,",
+				"Mes yeux verront le Sauveur que j'adore,",
+				"Ah ! ce sera le triomphe pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jour de victoire et de bonheur !",
+				"Mes yeux verront mon Rédempteur,",
+				"Loin du péché, de la mort, de l'erreur…",
+				"O jour de victoire et de bonheur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ton palais, ô mon bien-aimé Roi,",
+				"Tu daigneras m'accorder une place…",
+				"Être à tes pieds et contempler ta face :",
+				"Je ne veux pas d'autre gloire pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jour de victoire et de bonheur !",
+				"Mes yeux verront mon Rédempteur,",
+				"Loin du péché, de la mort, de l'erreur…",
+				"O jour de victoire et de bonheur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Là, je verrai, groupés autour de toi,",
+				"Ceux que j'aimais autrefois sur la terre ;",
+				"Mais ton sourire, ô Prince de lumière,",
+				"Sera le ciel pour eux comme pour moi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jour de victoire et de bonheur !",
+				"Mes yeux verront mon Rédempteur,",
+				"Loin du péché, de la mort, de l'erreur…",
+				"O jour de victoire et de bonheur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Hutchinson Gabriel",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af421",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

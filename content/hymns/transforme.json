@@ -1,0 +1,77 @@
+{
+	"id": "transforme",
+	"title": "Transformé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "832"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Transformé, émerveillé,",
+				"façonné à ton image,",
+				"Entouré, encouragé,",
+				"installé dans ton sillage",
+				"Que toujours chacun voie",
+				"que tu m'as transformé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'aurais mieux fait d'écouter,",
+				"J'aurais mieux fait d'obéir",
+				"Et ne pas mentir et dire l'avoir fait.",
+				"J'aurais pas dû mettre un poing,",
+				"J'aurais pas dû m'énerver.",
+				"J'ai beau m'emporter,",
+				"Je n'vais pas très loin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Éternel, voici ma vie, mon corps,",
+				"Tu vois je n'ai pas d'ailes",
+				"et tombe dans mon décor.",
+				"Ô Seigneur délivre-moi de moi,",
+				"Pénètre dans mon cœur que je sois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Transformé, émerveillé,",
+				"façonné à ton image,",
+				"Entouré, encouragé,",
+				"installé dans ton sillage",
+				"Que toujours chacun voie",
+				"que tu m'as transformé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nicolas Wurtz",
+			"role": "music"
+		},
+		{
+			"name": "Nicolas Wurtz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem832",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

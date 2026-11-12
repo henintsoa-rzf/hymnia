@@ -1,0 +1,61 @@
+{
+	"id": "chant-de-paques",
+	"title": "Chant de Pâques",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "319"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Entends le chant qui résonne:",
+				"« Tu peux naître de nouveau. »",
+				"Entends les cloches qui sonnent:",
+				"« Christ est sorti du tombeau ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'ange devant le tombeau dit:",
+				"« Ne craignez pas, Jésus est vivant !",
+				"Maintenant, hâtez-vous d'annoncer",
+				"Que Jésus-Christ est ressuscité. »"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Joie pour le monde,",
+				"Il est vivant, alléluia,",
+				"Il est vivant, alléluia,",
+				"Il est vivant, alléluia,",
+				"Alléluia,",
+				"Alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Anne Herring",
+			"role": "music"
+		},
+		{
+			"name": "Anne Herring",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem319",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

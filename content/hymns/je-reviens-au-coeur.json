@@ -1,0 +1,97 @@
+{
+	"id": "je-reviens-au-coeur",
+	"title": "Je reviens au cœur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "678"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le chant terminé, le rideau retombe.",
+				"Je viens simplement",
+				"Porter mon offrande, car j'ai le désir",
+				"De réjouir ton cœur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'apporte plus qu'un beau chant ;",
+				"Chanter ne suffit pas",
+				"Pour répondre à ton appel.",
+				"Les apparences sont trompeuses,",
+				"Tu vois bien au-delà;",
+				"O Dieu, tu sondes mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je reviens au cœur de la louange,",
+				"Tout est centré sur toi,",
+				"Centré sur toi, Jésus.",
+				"Oui, je renonce à tous mes faux semblants",
+				"Pour tout centrer sur toi,",
+				"Centrer sur toi, Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Roi d'éternité, qui peut exprimer",
+				"Ce dont tu es digne ?",
+				"Bien que faible et pauvre, je te donne tout,",
+				"Prends toute ma vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J'apporte plus qu'un beau chant ;",
+				"Chanter ne suffit pas",
+				"Pour répondre à ton appel.",
+				"Les apparences sont trompeuses,",
+				"Tu vois bien au-delà;",
+				"O Dieu, tu sondes mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je reviens au cœur de la louange,",
+				"Tout est centré sur toi,",
+				"Centré sur toi, Jésus.",
+				"Oui, je renonce à tous mes faux semblants",
+				"Pour tout centrer sur toi,",
+				"Centrer sur toi, Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Redman",
+			"role": "music"
+		},
+		{
+			"name": "Matt Redman",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem678",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

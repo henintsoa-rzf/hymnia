@@ -1,0 +1,94 @@
+{
+	"id": "dieu-tu-es-bon",
+	"title": "Dieu tu es bon",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "901"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, tu es bon",
+				"et ta grâce envers nous dure à jamais !",
+				"Dieu, tu es bon",
+				"et ta grâce envers nous dure à jamais !",
+				"Nous, les peuples de toutes les nations,",
+				"De génération en génération"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te louons. Alléluia ! Alléluia !",
+				"Nous te louons pour qui tu es.",
+				"Nous te louons. Alléluia ! Alléluia !",
+				"Nous te louons pour qui tu es.",
+				"Tu es bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu, tu es bon",
+				"et ta grâce envers nous dure à jamais !",
+				"Dieu, tu es bon",
+				"et ta grâce envers nous dure à jamais !",
+				"Nous, les peuples de toutes les nations,",
+				"De génération en génération"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te louons. Alléluia ! Alléluia !",
+				"Nous te louons pour qui tu es.",
+				"Nous te louons. Alléluia ! Alléluia !",
+				"Nous te louons pour qui tu es.",
+				"Tu es bon."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Si bon, si bon,",
+				"Tu es bon, tu es bon,",
+				"tu es bon,"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu es bon, en tout temps,",
+				"En tout temps, tu es bon.",
+				"Tu es bon, en tout temps,",
+				"En tout temps, tu es bon."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Israël Houghton",
+			"role": "music"
+		},
+		{
+			"name": "Israël Houghton",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem901",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

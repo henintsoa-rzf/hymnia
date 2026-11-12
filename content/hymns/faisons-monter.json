@@ -1,0 +1,85 @@
+{
+	"id": "faisons-monter",
+	"title": "Faisons monter",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "621"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À nous la force,",
+				"La joie du Seigneur,",
+				"À nous la puissance,",
+				"Par son bras puissant.",
+				"À nous la force,",
+				"La joie du Seigneur,",
+				"À nous la puissance,",
+				"Par son bras puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Faisons monter, monter,",
+				"Un parfum de louange,",
+				"Faisons monter, monter,",
+				"Notre adoration.",
+				"Faisons monter, monter,",
+				"Un parfum de louange,",
+				"Faisons monter, monter,",
+				"Notre adoration."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Revêtu de force,",
+				"Entouré de gloire,",
+				"Assis sur le trône,",
+				"À la droite du Père.",
+				"Revêtu de force,",
+				"Entouré de gloire,",
+				"Assis sur le trône,",
+				"À la droite du Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Faisons monter, monter,",
+				"Un parfum de louange,",
+				"Faisons monter, monter,",
+				"Notre adoration.",
+				"Faisons monter, monter,",
+				"Un parfum de louange,",
+				"Faisons monter, monter,",
+				"Notre adoration."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Raphaël Fernandez",
+			"role": "music"
+		},
+		{
+			"name": "Raphaël Fernandez",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem621",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

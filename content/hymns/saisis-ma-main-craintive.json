@@ -1,0 +1,91 @@
+{
+	"id": "saisis-ma-main-craintive",
+	"title": "Saisis ma main craintive",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "314"
+		},
+		{
+			"hymnal": "adf",
+			"number": "401"
+		},
+		{
+			"hymnal": "cd",
+			"number": "265"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Saisis ma main craintive,",
+				"Et conduis-moi ;",
+				"Fais que toujours je vive",
+				"Plus près de toi.",
+				"Sans toi, mon tendre Père,",
+				"Pour me guider,",
+				"Je ne sais sur la terre",
+				"Comment marcher."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que ta main me dispense",
+				"Joie ou douleur,",
+				"Paisible en ta présence,",
+				"Garde mon cœur ;",
+				"En toi pour toute chose,",
+				"Se confiant,",
+				"À tes pieds se repose",
+				"Ton faible enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand la nuit la plus noire",
+				"Te voilerait,",
+				"Ton bras jusqu'à la gloire",
+				"Me porterait,",
+				"Saisis ma main craintive,",
+				"Et conduis-moi :",
+				"Fais que toujours je vive",
+				"Plus près de toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Frédéric Schilcher",
+			"role": "music"
+		},
+		{
+			"name": "Julia von Haussmann",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg314",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af401",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1088",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

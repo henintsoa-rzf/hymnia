@@ -1,0 +1,108 @@
+{
+	"id": "esprit-de-dieu-jem-1090",
+	"title": "Esprit de Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1090"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, nous voulons être un peuple embrasé,",
+				"L'Église que ton cœur attend.",
+				"Viens briser nos chaînes, détruis notre orgueil,",
+				"Seigneur, fais-le maintenant.",
+				"Oui, nous voulons être un peuple embrasé,",
+				"L'Église que ton cœur attend.",
+				"Viens briser nos chaînes, détruis notre orgueil,",
+				"Seigneur, fais-le maintenant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Père, plein de bonté,",
+				"Nos cœurs à toi s'abandonnent.",
+				"Pour ce monde que tu as tant aimé,",
+				"Seigneur, voici nos couronnes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Esprit de Dieu, Esprit du Dieu vivant,",
+				"Souffle du nord, souffle du sud,",
+				"Souffle de l'est, souffle de l'ouest.",
+				"Esprit de Dieu, Esprit du Dieu vivant,",
+				"Souffle des quatre vents et descends sur nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Envoie ta puissance, rends-nous les témoins",
+				"D'un royaume qui se répand.",
+				"Fais brûler nos cœurs au sein des ténèbres",
+				"Comme un phare dans l'océan.",
+				"Envoie ta puissance, rends-nous les témoins",
+				"D'un royaume qui se répand.",
+				"Fais brûler nos cœurs au sein des ténèbres",
+				"Comme un phare dans l'océan."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre Père, plein de bonté,",
+				"Dieu de tendresse et de grâce",
+				"Pour ce monde que tu as tant aimé,",
+				"Fais briller sur nous ta face."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Esprit de Dieu, Esprit du Dieu vivant,",
+				"Souffle du nord, souffle du sud,",
+				"Souffle de l'est, souffle de l'ouest.",
+				"Esprit de Dieu, Esprit du Dieu vivant,",
+				"Souffle des quatre vents et descends sur nous."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que ton règne vienne, ta volonté soit faite",
+				"Sur la terre comme au ciel,",
+				"Sur la terre comme au ciel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1090",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

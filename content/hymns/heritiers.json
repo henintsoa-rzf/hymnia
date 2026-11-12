@@ -1,0 +1,103 @@
+{
+	"id": "heritiers",
+	"title": "Héritiers",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "8"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu fait éclater son amour",
+				"En sacrifiant son Fils.",
+				"Déclarés justes pour toujours,",
+				"Unis à Jésus-Christ,",
+				"Nous sommes enfants du Seigneur ;",
+				"Sa grâce nous libère.",
+				"Plus d’esclavage, plus de peur,",
+				"Nous crions : « Abba, Père ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Justifiés,",
+				"Bien-aimés, délivrés,",
+				"En Christ jamais condamnés !",
+				"Héritiers,",
+				"Par le Père, adoptés,",
+				"Scellés pour l’éternité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le péché veut nous enchaîner,",
+				"Mais l’Esprit nous conduit.",
+				"Quand nous ne savons que prier,",
+				"Il exprime nos cris.",
+				"Luttons avec persévérance ;",
+				"L’Esprit nous renouvelle !",
+				"Souffrons alors dans l’espérance",
+				"De la vie éternelle !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Qui pourrait nous accuser ?",
+				"Qui pourrait nous condamner ?",
+				"Qui pourrait nous séparer",
+				"De l’amour de Dieu en Christ ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/heritiers",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

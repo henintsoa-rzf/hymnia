@@ -1,0 +1,109 @@
+{
+	"id": "je-te-benis-mon-createur",
+	"title": "Je te bénis, mon Créateur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "677"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tes yeux me voient dès le matin",
+				"Et jusqu'au soir, sans me quitter.",
+				"Tu m'as tissé et façonné",
+				"Dans le silence et la patience."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te bénis, mon Créateur,",
+				"Pour la merveille que je suis.",
+				"Tous ces trésors, au fond de moi,",
+				"Que tu as mis sans faire de bruit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu me connais, ô mon Seigneur,",
+				"Dans mes pensées et dans mon cœur.",
+				"Sur mes épaules, tu mets ta main,",
+				"Quand je me couche et quand je dors."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te bénis, mon Créateur,",
+				"Pour la merveille que je suis.",
+				"Tous ces trésors, au fond de moi,",
+				"Que tu as mis sans faire de bruit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Où vais-je aller, loin de ta face ?",
+				"De toutes parts, tu es présent.",
+				"Quand je m'assieds, quand je me lève,",
+				"Tu es fidèle à mes côtés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te bénis, mon Créateur,",
+				"Pour la merveille que je suis.",
+				"Tous ces trésors, au fond de moi,",
+				"Que tu as mis sans faire de bruit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens, Éternel, viens me guider",
+				"Sur ton chemin d'éternité.",
+				"Dans mes combats, mes désespoirs,",
+				"C'est toi qui as vaincu la mort."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te bénis, mon Créateur,",
+				"Pour la merveille que je suis.",
+				"Tous ces trésors, au fond de moi,",
+				"Que tu as mis sans faire de bruit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fraternité des Jeunes",
+			"role": "music"
+		},
+		{
+			"name": "Fraternité des Jeunes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem677",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

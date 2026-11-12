@@ -1,0 +1,58 @@
+{
+	"id": "voyez-jesus",
+	"title": "Voyez Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "517"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voyez Jésus,",
+				"Couronné de gloire par ce qu'Il a souffert ;",
+				"Sur la croix, par grâce, Il s'est offert.",
+				"Il reçut de Dieu toute puissance.",
+				"Et voyez Jésus,",
+				"Élevé à la droite du Père,",
+				"Pour les siens, toujours, Il intercède,",
+				"Par sa parole, Il soutient toutes choses."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, tu es glorieux,",
+				"Tu es victorieux",
+				"Sur toutes les dominations.",
+				"Oui, tu es glorieux,",
+				"Tu es victorieux",
+				"Sur tous tes nombreux ennemis.",
+				"Les tyrans de la terre",
+				"Sont jetés sous tes pieds,",
+				"Brisés par ton autorité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David W. Morris",
+			"role": "music"
+		},
+		{
+			"name": "David W. Morris",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem517",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

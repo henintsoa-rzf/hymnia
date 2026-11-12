@@ -1,0 +1,65 @@
+{
+	"id": "merveilleux-changement",
+	"title": "Merveilleux changement",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "206"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Merveilleux changement, je naquis de nouveau",
+				"Quand Jésus entra dans mon coeur",
+				"Quel grand jour lumineux, tout fut clair, tout fut beau.",
+				"Quand Jésus entra dans mon coeur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand Jésus entra dans mon coeur",
+				"Quand Jésus entra dans mon coeur",
+				"Ce fut joie et ferveur, ineffable bonheur",
+				"Quand Jésus entra dans mon coeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Autrefois égaré je suivais mon chemin",
+				"Quand Jésus entra dans mon coeur",
+				"Il lava ma souillure et me prit par la main.",
+				"Quand Jésus entra dans mon coeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je jouis d’une paix d’un espoir assuré",
+				"Depuis qu’il entra dans mon coeur",
+				"Il bannit toute peur et toute obscurité",
+				"Depuis qu’il entra dans mon coeur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "C.H. Gabriel",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1041",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

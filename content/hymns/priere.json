@@ -1,0 +1,159 @@
+{
+	"id": "priere",
+	"title": "Prière",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "199"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, fais de nous",
+				"Des ouvriers de paix,",
+				"Seigneur, fais de nous",
+				"Des bâtisseurs d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Là où demeure la haine,",
+				"Que nous apportions l'amour,",
+				"Là où se trouve l'offense",
+				"Que nous mettions le pardon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, fais de nous",
+				"Des ouvriers de paix,",
+				"Seigneur, fais de nous",
+				"Des bâtisseurs d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Là où grandit la discorde,",
+				"Que nous fassions l'unité,",
+				"Là où séjourne l'erreur,",
+				"Que nous mettions la vérité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, fais de nous",
+				"Des ouvriers de paix,",
+				"Seigneur, fais de nous",
+				"Des bâtisseurs d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Là où persistent les ténèbres,",
+				"Que nous mettions la lumière,",
+				"Là où règne la tristesse,",
+				"Que nous fassions chanter la joie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, fais de nous",
+				"Des ouvriers de paix,",
+				"Seigneur, fais de nous",
+				"Des bâtisseurs d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Là où s'attarde le doute,",
+				"Que nous apportions la foi,",
+				"Sur les chemins du désespoir,",
+				"Que nous portions l'espérance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, fais de nous",
+				"Des ouvriers de paix,",
+				"Seigneur, fais de nous",
+				"Des bâtisseurs d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Donne-nous de consoler,",
+				"Plutôt que d'être consolés,",
+				"Donne-nous de comprendre,",
+				"Plus souvent que d'être compris."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, fais de nous",
+				"Des ouvriers de paix,",
+				"Seigneur, fais de nous",
+				"Des bâtisseurs d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Car il faut savoir donner,",
+				"Pour pouvoir être comblés,",
+				"Car il faut s'oublier,",
+				"Pour pouvoir se retrouver."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, fais de nous",
+				"Des ouvriers de paix,",
+				"Seigneur, fais de nous",
+				"Des bâtisseurs d'amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Noël Colombier",
+			"role": "music"
+		},
+		{
+			"name": "St François d' Assise",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem199",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

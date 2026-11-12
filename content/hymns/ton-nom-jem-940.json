@@ -1,0 +1,73 @@
+{
+	"id": "ton-nom-jem-940",
+	"title": "Ton nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "940"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"De l'aube au coucher du soleil,",
+				"Tes splendeurs nous émerveillent",
+				"Et notre cœur d'enfant répond",
+				"En glorifiant ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton nom, comme une tour aux quatre vents,",
+				"Ton nom, nous rend fort à chaque instant,",
+				"Ton nom. Que tous les peuples",
+				"entonnent un chant,",
+				"Car aucun autre nom n'est plus grand",
+				"que ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, fortifie nos cœurs,",
+				"Par ta grâce et ta grandeur,",
+				"Car c'est en toi que nous prions :",
+				"Viens glorifier ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton nom, comme une tour aux quatre vents,",
+				"Ton nom, nous rend fort à chaque instant,",
+				"Ton nom. Que tous les peuples",
+				"entonnent un chant,",
+				"Car aucun autre nom n'est plus grand",
+				"que ton nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Baloche ; Glenn Packiam",
+			"role": "music"
+		},
+		{
+			"name": "Paul Baloche ; Glenn Packiam",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem940",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

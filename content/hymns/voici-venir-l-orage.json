@@ -1,0 +1,71 @@
+{
+	"id": "voici-venir-l-orage",
+	"title": "Voici venir l'orage.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "648"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voici venir l'orage.",
+				"L'horizon s'assombrit.",
+				"La montagne sauvage",
+				"Disparait dans la nuit.",
+				"Berger, berger fidèle,",
+				"Arrête ici tes pas.",
+				"Non, ma brebis m'attend la-bas :",
+				"Je l'entends qui m'appelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'ouragan se dechaîne.",
+				"O berger, fuis ces lieux.",
+				"Il te reste en la plaine",
+				"Un troupeau si nombreux.",
+				"Et ma brebis perdue,",
+				"Qui voudra la chercher ?",
+				"Non, tremblante au bord du rocher,",
+				"Elle attend ma venue."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La nuit devient plus sombre,",
+				"Le vent souffle plus fort.",
+				"Et le berger dans l'ombre",
+				"Avance avec effort.",
+				"Enfin, il l'a sauvée !…",
+				"Oh ! voyez sur son cœur",
+				"Comme il la serre avec bonheur,",
+				"La brebis retrouvée !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Harrison Millard",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af648",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

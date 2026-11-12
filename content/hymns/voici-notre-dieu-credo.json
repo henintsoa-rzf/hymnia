@@ -1,0 +1,124 @@
+{
+	"id": "voici-notre-dieu-credo",
+	"title": "Voici notre Dieu (Credo)",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "27"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous croyons en Dieu le Père,",
+				"Qui était, qui est, qui vient,",
+				"Créateur de l’univers,",
+				"Puissant Maître souverain.",
+				"Trois fois saint, juste et sage,",
+				"Dieu d’amour d’âge en âge,",
+				"Le seul digne d’hommages.",
+				"Tous les saints déclarent :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Voici notre Dieu,",
+				"Grand et merveilleux.",
+				"Nous le proclamons !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous croyons en Jésus-Christ,",
+				"Fils éternel, bien-aimé.",
+				"D’une vierge et par l’Esprit",
+				"Naît le Sauveur incarné.",
+				"Jésus meurt, crucifié,",
+				"Le Seigneur, enterré,",
+				"Glorieux Ressuscité !",
+				"Tous les saints déclarent :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Voici notre Dieu,",
+				"Grand et merveilleux.",
+				"Nous le proclamons !",
+				"Alléluia ! Telle est notre Foi,",
+				"Notre pleine joie !",
+				"Oui, nous le croyons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous croyons en l’Esprit-Saint,",
+				"Venu édifier l’Église,",
+				"À la communion des saints,",
+				"Dont les fautes sont remises.",
+				"Christ reviendra du ciel",
+				"Lever nos corps mortels",
+				"Pour la vie éternelle.",
+				"Tous les saints déclarent :"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/voicinotredieu",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

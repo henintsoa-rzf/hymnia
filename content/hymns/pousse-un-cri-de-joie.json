@@ -1,0 +1,115 @@
+{
+	"id": "pousse-un-cri-de-joie",
+	"title": "Pousse un cri de joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "544"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pousse un cri de joie mon âme,",
+				"En l'honneur de l'Éternel.",
+				"Chante avec reconnaissance",
+				"Car il est le Dieu fidèle.",
+				"Pousse un cri de joie mon âme,",
+				"En l'honneur de son grand nom.",
+				"Réjouis-toi en sa présence",
+				"Car il est fidèle et bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est lui qui me délivre",
+				"Du poids de mon passé.",
+				"C'est lui qui enlève",
+				"Ma culpabilité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pousse un cri de joie mon âme,",
+				"En l'honneur de l'Éternel.",
+				"Chante avec reconnaissance",
+				"Car il est le Dieu fidèle.",
+				"Pousse un cri de joie mon âme,",
+				"En l'honneur de son grand nom.",
+				"Réjouis-toi en sa présence",
+				"Car il est fidèle et bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est lui qui me guérit",
+				"De toutes mes maladies.",
+				"C'est lui qui agit",
+				"Par grâce dans ma vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pousse un cri de joie mon âme,",
+				"En l'honneur de l'Éternel.",
+				"Chante avec reconnaissance",
+				"Car il est le Dieu fidèle.",
+				"Pousse un cri de joie mon âme,",
+				"En l'honneur de son grand nom.",
+				"Réjouis-toi en sa présence",
+				"Car il est fidèle et bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est lui qui me protège,",
+				"Car il est mon sauveur.",
+				"C'est lui qui m'arrache",
+				"À toutes mes frayeurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pousse un cri de joie mon âme,",
+				"En l'honneur de l'Éternel.",
+				"Chante avec reconnaissance",
+				"Car il est le Dieu fidèle.",
+				"Pousse un cri de joie mon âme,",
+				"En l'honneur de son grand nom.",
+				"Réjouis-toi en sa présence",
+				"Car il est fidèle et bon."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fabienne Pons",
+			"role": "music"
+		},
+		{
+			"name": "Fabienne Pons",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem544",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

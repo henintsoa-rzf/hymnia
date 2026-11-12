@@ -1,0 +1,93 @@
+{
+	"id": "avoir-dieu-pour-ami",
+	"title": "Avoir Dieu pour ami",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "271"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avoir Dieu pour ami,",
+				"Marcher main dans la main.",
+				"Vivre en pleine harmonie,",
+				"Suivre le même chemin.",
+				"Avoir Dieu pour ami,",
+				"Marcher main dans la main.",
+				"Vivre en pleine harmonie,",
+				"Construire nos lendemains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Joie d'un compagnon de joie,",
+				"Celle d'un ami tout proche de moi.",
+				"Paix d'un compagnon de paix,",
+				"Ami fidèle à jamais.",
+				"Vie d'un compagnon de vie,",
+				"Rythme de mes jours et de mes nuits.",
+				"Cœur d'un compagnon de cœur,",
+				"Souffle même du Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avoir Dieu pour ami,",
+				"Marcher main dans la main.",
+				"Vivre en pleine harmonie,",
+				"Suivre le même chemin.",
+				"Avoir Dieu pour ami,",
+				"Marcher main dans la main.",
+				"Vivre en pleine harmonie,",
+				"Construire nos lendemains."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dieu d'amour, mon ami,",
+				"Chaque jour je veux partager ta vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avoir Dieu pour ami,",
+				"Marcher main dans la main.",
+				"Vivre en pleine harmonie,",
+				"Suivre le même chemin.",
+				"Avoir Dieu pour ami,",
+				"Marcher main dans la main.",
+				"Vivre en pleine harmonie,",
+				"Construire nos lendemains."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem271",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

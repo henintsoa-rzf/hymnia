@@ -1,0 +1,71 @@
+{
+	"id": "beni-soit-le-nom-du-seigneur",
+	"title": "Béni soit le nom du Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "674"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je demeure à l'abri de tes ailes,",
+				"Je me repose auprès de toi.",
+				"Ta fidélité sera mon bouclier,",
+				"Chaque jour je chanterai:"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Béni soit le nom du Seigneur.",
+				"Béni soit le nom du Seigneur.",
+				"Oui, je bénirai ton nom toute ma vie.",
+				"Béni soit le nom du Seigneur. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux chanter ton nom, Seigneur.",
+				"Chaque jour, tu prends mes fardeaux.",
+				"Ta fidélité fera mes délices,",
+				"Chaque jour je chanterai:"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Béni soit le nom du Seigneur.",
+				"Béni soit le nom du Seigneur.",
+				"Oui, je bénirai ton nom toute ma vie.",
+				"Béni soit le nom du Seigneur. »",
+				"« Béni soit le nom du Seigneur.",
+				"Béni soit le nom du Seigneur. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Andy Park",
+			"role": "music"
+		},
+		{
+			"name": "Andy Park",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem674",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

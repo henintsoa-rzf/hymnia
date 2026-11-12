@@ -1,0 +1,69 @@
+{
+	"id": "la-verite-le-chemin-la-vie",
+	"title": "La vérité, le chemin, la vie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "135"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Né de la poussière et d'éternité,",
+				"J'ai vu la lumière, elle m'a racheté,",
+				"Et, le cœur avide de vraie liberté,",
+				"J'ai suivi ce guide, nommé Vérité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est la Vérité, le Chemin et la Vie,",
+				"On ne vient au Père que par Lui.",
+				"Il est la Vérité, le Chemin et la Vie,",
+				"On ne vient au Père que par Lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton regard s'étonne, tu ne comprends pas:",
+				"Un roi qui pardonne, ça n'existe pas,",
+				"Un roi qui s'incline devant ses sujets,",
+				"Couronné d'épines… à toi de juger."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est la Vérité, le Chemin et la Vie,",
+				"On ne vient au Père que par Lui.",
+				"Il est la Vérité, le Chemin et la Vie,",
+				"On ne vient au Père que par Lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Noël-André Chefneux",
+			"role": "music"
+		},
+		{
+			"name": "Noël-André Chefneux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem135",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

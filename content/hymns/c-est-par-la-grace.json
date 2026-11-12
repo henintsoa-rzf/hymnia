@@ -1,0 +1,87 @@
+{
+	"id": "c-est-par-la-grace",
+	"title": "C'est par la grâce",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "563"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "308",
+			"title": "C’est par la grâce que nous venons (Only By Grace)"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est par la grâce que nous venons",
+				"Nous présenter devant toi.",
+				"Non par nos forces ou nos efforts,",
+				"Mais par le sang de l'Agneau.",
+				"Tu nous appelles auprès de toi ;",
+				"Seigneur, nous voici.",
+				"Tu nous attires auprès de toi,",
+				"Par ta grâce nous voici,",
+				"Par grâce nous voici."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si tu comptais tous nos péchés,",
+				"Qui vivrait ?",
+				"Mais nous entrons purifiés",
+				"Par le sang de l'Agneau.",
+				"Si tu comptais tous nos péchés,",
+				"Qui vivrait ?",
+				"Mais nous entrons purifiés",
+				"Par le sang de l'Agneau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est par la grâce que nous venons",
+				"Nous présenter devant toi.",
+				"Non par nos forces ou nos efforts,",
+				"Mais par le sang de l'Agneau.",
+				"Tu nous appelles auprès de toi ;",
+				"Seigneur, nous voici.",
+				"Tu nous attires auprès de toi,",
+				"Par ta grâce nous voici,",
+				"Par grâce nous voici.",
+				"Par grâce nous voici,",
+				"Par grâce nous voici."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gerrit Gustafson",
+			"role": "music"
+		},
+		{
+			"name": "Gerrit Gustafson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem563",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-8",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "ta-parole-est-la-richesse",
+	"title": "Ta Parole est la richesse",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "183"
+		},
+		{
+			"hymnal": "adf",
+			"number": "170"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta Parole est la richesse",
+				"Unie à l'éternité,",
+				"Accessible à ma faiblesse",
+				"Malgré son immensité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta Parole, c'est l'épée",
+				"Qui souvent vint me meurtrir,",
+				"Aucune n'est mieux trempée",
+				"Pour blesser et pour guérir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta Parole est la semence",
+				"D'où vont naître les moissons,",
+				"Elle répand l'abondance",
+				"Au sein des mortes saisons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ta Parole est l'étincelle",
+				"Qui peut produire un grand feu,",
+				"Car chaque page recèle",
+				"Ton Saint-Esprit, ô mon Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alfred Kuen",
+			"role": "music"
+		},
+		{
+			"name": "Émile Bonnard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg183",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af170",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

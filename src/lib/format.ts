@@ -50,10 +50,18 @@ export const ROLE_LABELS: Record<Credit['role'], string> = {
 	lyrics: 'Paroles',
 	music: 'Musique',
 	translation: 'Traduction',
-	arrangement: 'Arrangement'
+	arrangement: 'Arrangement',
+	// The source names the authors without their role (feature 002).
+	unspecified: 'Auteurs'
 };
 
-const ROLE_ORDER: Credit['role'][] = ['lyrics', 'music', 'translation', 'arrangement'];
+const ROLE_ORDER: Credit['role'][] = [
+	'lyrics',
+	'music',
+	'unspecified',
+	'translation',
+	'arrangement'
+];
 
 /** Credits grouped by role, in a fixed order: [["Paroles", "Edmond Budry"], …]. */
 export function creditLines(credits: Credit[]): [label: string, names: string][] {
@@ -66,7 +74,7 @@ export function creditLines(credits: Credit[]): [label: string, names: string][]
 /** One short line under the title: "Paroles : Edmond Budry · Musique : G. F. Haendel". */
 export function shortCredit(credits: Credit[]): string {
 	return creditLines(credits)
-		.filter(([label]) => label === 'Paroles' || label === 'Musique')
+		.filter(([label]) => label === 'Paroles' || label === 'Musique' || label === 'Auteurs')
 		.map(([label, names]) => `${label}${NNBSP}: ${names}`)
 		.join(' · ');
 }

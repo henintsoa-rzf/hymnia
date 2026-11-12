@@ -1,0 +1,101 @@
+{
+	"id": "par-la-foi-by-faith",
+	"title": "Par la foi (By Faith)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "501"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La foi nous montre la main de Dieu",
+				"agissant dans sa création merveilleuse",
+				"et dans Sa fidélité pour ceux qui vivent",
+				"non par la vue, mais par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nos pères ont parcouru la terre",
+				"dans la foi en sa puissance et ses promesses.",
+				"Ils attendaient la sainte cité de Dieu,",
+				"règne de justice et de paix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous vivrons dans la puissance de sa promesse",
+				"et nos yeux fixés sur Lui, notre couronne,",
+				"jusqu’à la fin de la course et des travaux,",
+				"non par la vue, mais par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et les prophètes, par la foi,",
+				"ont vu le jour où viendrait le Messie,",
+				"puissant pour briser les chaînes du péché,",
+				"surgissant vainqueur du tombeau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dans la puissance de l’Esprit,",
+				"L’Eglise doit proclamer sur la terre",
+				"Que tout captif est délivré par Dieu :",
+				"Bonne nouvelle, par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"La foi déplace nos montagnes.",
+				"Pour ceux qui font appel à Jésus-Christ,",
+				"La puissance de l’Evangile triomphera.",
+				"Tout est possible à celui qui croit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Keith & Kristyn Getty & Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith & Kristyn Getty & Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "translation"
+		},
+		{
+			"name": "Joël Desy",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-1",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

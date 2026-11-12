@@ -1,0 +1,91 @@
+{
+	"id": "grand-dieu-nous-te-benissons",
+	"title": "Grand Dieu, nous te bénissons",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "38"
+		},
+		{
+			"hymnal": "adf",
+			"number": "34"
+		},
+		{
+			"hymnal": "cd",
+			"number": "2"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Grand Dieu, nous te bénissons,",
+				"Nous célébrons tes louanges ;",
+				"Éternel, nous t'exaltons",
+				"De concert avec les anges",
+				"Et prosternés devant toi,",
+				"Nous t'adorons, ô grand Roi !",
+				"Et prosternés devant toi,",
+				"Nous t'adorons, ô grand Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Puisse ton règne de paix",
+				"S'étendre par tout le monde !",
+				"Dès maintenant, à jamais,",
+				"Que sur la terre et sur l'onde",
+				"Tous genoux soient abattus",
+				"Au nom du Seigneur Jésus,",
+				"Tous genoux soient abattus",
+				"Au nom du Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Gloire soit au Saint-Esprit !",
+				"Gloire soit à Dieu le Père !",
+				"Gloire soit à Jésus-Christ,",
+				"Notre Sauveur, notre Frère !",
+				"Son immense charité",
+				"Dure à perpétuité.",
+				"Son immense charité",
+				"Dure à perpétuité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Peter Ritter",
+			"role": "music"
+		},
+		{
+			"name": "Henri-Louis Empeytaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg038",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af034",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/903",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

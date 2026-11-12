@@ -1,0 +1,89 @@
+{
+	"id": "tu-es-fidele",
+	"title": "Tu es fidèle",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1058"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Père éternel, je me confie en toi,",
+				"Toi, mon abri, celui qui ne change pas.",
+				"Tous mes autres appuis peuvent m'échapper,",
+				"C'est à toi seul que je veux me fier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es fidèle, Seigneur, je compte sur toi,",
+				"Par ta grâce soutiens-moi.",
+				"Tu es fidèle, sous tes ailes protège-moi,",
+				"Car je suis faible et j'ai tant besoin de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu traces une route dans les eaux puissantes",
+				"Quand la lueur de l'espoir est vacillante.",
+				"Tu déploies un chemin dans le désert,",
+				"Un avenir qu'un nouveau jour éclaire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es fidèle, Seigneur, je compte sur toi,",
+				"Par ta grâce soutiens-moi.",
+				"Tu es fidèle, sous tes ailes protège-moi,",
+				"Car je suis faible et j'ai tant besoin de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta fidélité est grande, ô Éternel,",
+				"Tes compassions chaque jour se renouvellent.",
+				"Tu es mon plus grand bien, tu es ma joie",
+				"Et de toute mon âme j'espère en toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es fidèle, Seigneur, je compte sur toi,",
+				"Par ta grâce soutiens-moi.",
+				"Tu es fidèle, sous tes ailes protège-moi,",
+				"Car je suis faible et j'ai tant besoin de toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louise Zbinden",
+			"role": "music"
+		},
+		{
+			"name": "Louise Zbinden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1058",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

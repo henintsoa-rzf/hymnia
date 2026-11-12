@@ -1,0 +1,161 @@
+{
+	"id": "ici-bas-ou-le-mal-abonde",
+	"title": "Ici-bas, où le mal abonde..",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "621"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ici-bas où le mal abonde,",
+				"Chrétiens, à toute heure, en tout lieu,",
+				"Luttons pour le salut du monde",
+				"Et la gloire de notre Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au ciel notre patrie,",
+				"Au ciel notre patrie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour tarir le sang et les larmes",
+				"Qui coulent à flots, nuit et jour,",
+				"Sachons nous servir de nos armes :",
+				"La prière, la foi, l'amour !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au ciel notre patrie,",
+				"Au ciel notre patrie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Proclamons la bonne nouvelle :",
+				"Aux pécheurs le ciel est ouvert ;",
+				"Pour sauver notre âme immortelle,",
+				"Au Calvaire Christ a souffert !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au ciel notre patrie,",
+				"Au ciel notre patrie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Cette croix, cet amer calice,",
+				"Nous seuls les avions mérités,",
+				"Il s'est offert en sacrifice,",
+				"Et nous sommes ressuscités !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au ciel notre patrie,",
+				"Au ciel notre patrie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Renonçons aux vaines idoles !",
+				"Que ton Nom, ô Crucifié !",
+				"Par notre vie et nos paroles",
+				"Soit sans cesse glorifié !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au ciel notre patrie,",
+				"Au ciel notre patrie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Enrôlés pour la sainte guerre",
+				"Où le plus faible devient fort,",
+				"Nous marcherons sous ta bannière",
+				"Tous fidèles jusqu'à la mort !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au ciel notre patrie,",
+				"Au ciel notre patrie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie,",
+				"Les vainqueurs recevront",
+				"la couronne de vie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air : les Girondins",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af621",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

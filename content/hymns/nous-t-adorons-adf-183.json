@@ -1,0 +1,133 @@
+{
+	"id": "nous-t-adorons-adf-183",
+	"title": "Nous t'adorons.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "183"
+		},
+		{
+			"hymnal": "cd",
+			"number": "49"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous t'adorons,",
+				"Toi que notre cœur aime,",
+				"O Rabboni !",
+				"Nous avons soif de ta sainteté même,",
+				"Maître béni !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Verse en nos cœurs, ô Christ, ta charité !",
+				"Et mets sur nous ta sublime beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Parfait modèle, incomparable Maître,",
+				"Bénis-nous tous !",
+				"Comme tu fus, nous voulons toujours être,",
+				"Humbles et doux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Verse en nos cœurs, ô Christ, ta charité !",
+				"Et mets sur nous ta sublime beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! donne-nous ton amour inlassable",
+				"Pour les perdus !",
+				"Cet amour vrai qui cherche le coupable,",
+				"Loin de Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Verse en nos cœurs, ô Christ, ta charité !",
+				"Et mets sur nous ta sublime beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu'en nous voyant,",
+				"oublieux de nous-mêmes,",
+				"Tous pour chacun,",
+				"Le monde ému dise :",
+				"« Oh ! combien ils s'aiment !",
+				"Ils sont tous un ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Verse en nos cœurs, ô Christ, ta charité !",
+				"Et mets sur nous ta sublime beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Ouvre le ciel, réponds à la prière",
+				"Que nous t'offrons !",
+				"Imprime enfin ton divin caractère",
+				"Sur tous nos fronts !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rien ne surpasse, ô Christ, ta charité,",
+				"Rien, ici-bas, n'égale ta beauté !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Henry Purday",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af183",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/858",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

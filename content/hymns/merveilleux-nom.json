@@ -1,0 +1,98 @@
+{
+	"id": "merveilleux-nom",
+	"title": "Merveilleux nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1001"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Couronné, rayonnant de majesté,",
+				"Tout l'univers proclame ta grandeur.",
+				"Glorifié par les anges prosternés,",
+				"Tu es assis à la droite du Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, merveilleux nom,",
+				"Qui est semblable à toi, ô Dieu ?",
+				"Jésus, ton précieux nom",
+				"Est digne d'hommage."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Captivés par l'éclat de ta beauté,",
+				"Nos voix s'élèvent pour te rendre gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, merveilleux nom,",
+				"Qui est semblable à toi, ô Dieu ?",
+				"Jésus, ton précieux nom",
+				"Est digne d'hommage."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Consolateur, divin rocher,",
+				"Libérateur, Prince de la paix,",
+				"Dieu créateur, Fils bien-aimé,",
+				"Roi serviteur, Seigneur couronné,"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Commencement, ultime fin,",
+				"Soleil levant, étoile du matin,",
+				"Dieu tout-puissant, Dieu trois fois saint,",
+				"Sauveur vivant, Maître souverain."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! oh !",
+				"Oh ! oh ! oh !",
+				"Oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-Philippe Yelle et Sébastien Corn",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Philippe Yelle et Sébastien Corn",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1001",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,77 @@
+{
+	"id": "au-siecle-des-siecles",
+	"title": "Au siècle des siècles",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "844"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme les anges célèbrent au ciel",
+				"L'immensité de ses merveilles,",
+				"Je veux aussi faire résonner",
+				"L'hymne de gloire à l'Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car il est Dieu au-dessus de la terre",
+				"Et son bras s'étend dans l'univers.",
+				"Oui, il est Dieu au-dessus de la terre",
+				"Et son bras s'étend dans l'univers.",
+				"Aux siècles des siècles,",
+				"Je chanterai ses louanges.",
+				"Aux siècles des siècles,",
+				"Je chanterai ses louanges."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Comme l'arc-en-ciel après la pluie,",
+				"Comme l'étoile dans la nuit,",
+				"Il est celui qui me conduit",
+				"Aux sources des eaux de la vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car il est Dieu au-dessus de la terre",
+				"Et son bras s'étend dans l'univers.",
+				"Oui, il est Dieu au-dessus de la terre",
+				"Et son bras s'étend dans l'univers.",
+				"Aux siècles des siècles,",
+				"Je chanterai ses louanges.",
+				"Aux siècles des siècles,",
+				"Je chanterai ses louanges."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc Dumont",
+			"role": "music"
+		},
+		{
+			"name": "Luc Dumont",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem844",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "tu-n-as-pas-choisi",
+	"title": "Tu n'as pas choisi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "889"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu n'as pas choisi le chemin facile",
+				"Mais tu es venu, en serviteur docile.",
+				"Tu n'es pas venu comme les rois du monde.",
+				"Sans chercher la gloire, tu es resté dans l'ombre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous t'adorons Fils de Dieu,",
+				"Nous t'élevons en ce lieu.",
+				"Nous t'honorons, Seigneur de vie,",
+				"Nous t'exaltons, toi le Messie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as accepté, pour nous délivrer,",
+				"De réaliser le plan d'éternité.",
+				"Blessé et frappé, meurtri, crucifié",
+				"Pour l'humanité, tu as pris nos péchés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous t'adorons Fils de Dieu,",
+				"Nous t'élevons en ce lieu.",
+				"Nous t'honorons, Seigneur de vie,",
+				"Nous t'exaltons, toi le Messie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu as triomphé, face à l'ennemi,",
+				"Tu as pris les clés de la mort, de la vie.",
+				"Tu règnes maintenant sur tout l'univers,",
+				"Avec les vivants, priant devant le Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous t'adorons Fils de Dieu,",
+				"Nous t'élevons en ce lieu.",
+				"Nous t'honorons, Seigneur de vie,",
+				"Nous t'exaltons, toi le Messie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem889",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

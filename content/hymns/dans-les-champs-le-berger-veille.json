@@ -1,0 +1,118 @@
+{
+	"id": "dans-les-champs-le-berger-veille",
+	"title": "Dans les champs le berger veille.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "86"
+		},
+		{
+			"hymnal": "cd",
+			"number": "84"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans les champs le berger veille",
+				"Aux approches du matin,",
+				"Quand la brise à son oreille,",
+				"Apporte un écho lointain.",
+				"Et tandis que tout rayonne",
+				"D'une soudaine clarté,",
+				"Plus forte la voix résonne",
+				"Du fond de l'immensité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu dans les hauts cieux !",
+				"Paix aux hommes en tous lieux !",
+				"Le Rédempteur et le Maître",
+				"Qu'attendaient vos cœurs pieux,",
+				"Dans la crèche vient de naître :",
+				"Gloire à Dieu dans les hauts cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bergers, pourrez-vous comprendre",
+				"L'amour du Dieu tout-puissant,",
+				"Qui, pour vous, daigne descendre",
+				"À n'être qu'un faible enfant,",
+				"Un enfant que la souffrance",
+				"Saisira dès le berceau,",
+				"Qui marchera sans défense",
+				"Vers la croix et le tombeau ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu dans les hauts cieux !",
+				"Paix aux hommes en tous lieux !",
+				"Pour sauver l'âme coupable",
+				"Le Verbe victorieux,",
+				"Naît dans une pauvre étable :",
+				"Gloire à Dieu dans les hauts cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En chantant l'hymne nouvelle",
+				"L'ange au ciel s'est envolé,",
+				"Et sous la voûte éternelle",
+				"Le berger reste isolé ;",
+				"Mais, ravi du saint mystère,",
+				"Son cœur murmure tout bas :",
+				"« Si l'ange a quitté la terre,",
+				"le Sauveur ne s'en va pas ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu dans les hauts cieux !",
+				"Paix aux hommes, en tous lieux !",
+				"Pour cet enfant dans ses langes,",
+				"Pour ce don si précieux,",
+				"Chantons tous, comme les anges :",
+				"Gloire à Dieu dans les hauts cieux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af086",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/889",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

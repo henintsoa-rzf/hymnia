@@ -1,0 +1,109 @@
+{
+	"id": "oh-prends-mon-ame",
+	"title": "Oh ! prends mon âme",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "204"
+		},
+		{
+			"hymnal": "jem",
+			"number": "166"
+		},
+		{
+			"hymnal": "cd",
+			"number": "296"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! prends mon âme, prends-la Seigneur,",
+				"Et que ta flamme brûle en mon cœur.",
+				"Que tout mon être vibre pour toi,",
+				"Sois seul mon Maître, ô divin Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Source de vie, de paix, d'amour,",
+				"Vers toi je crie, la nuit, le jour.",
+				"Entends ma plainte, sois mon soutien,",
+				"Calme ma crainte, toi, mon seul bien !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Du mal perfide, oh ! garde-moi,",
+				"Viens, sois mon guide, Chef de ma foi.",
+				"Quand la nuit voile tout à mes yeux,",
+				"Sois mon étoile, brille des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Source de vie, de paix, d'amour,",
+				"Vers toi je crie, la nuit, le jour.",
+				"Entends ma plainte, sois mon soutien,",
+				"Calme ma crainte, toi, mon seul bien !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voici l'aurore d'un jour nouveau,",
+				"Le ciel se dore de feux plus beaux.",
+				"Jésus s'apprête, pourquoi gémir ?",
+				"Levons nos têtes : il va venir !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Source de vie, de paix, d'amour,",
+				"Vers toi je crie, la nuit, le jour.",
+				"Entends ma plainte, sois mon soutien,",
+				"Calme ma crainte, toi, mon seul bien !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie kabyle",
+			"role": "music"
+		},
+		{
+			"name": "Hector Arnéra",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg204",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem166",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1100",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

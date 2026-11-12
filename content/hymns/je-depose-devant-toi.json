@@ -1,0 +1,56 @@
+{
+	"id": "je-depose-devant-toi",
+	"title": "Je dépose devant toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "765"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je dépose devant toi",
+				"ma couronne et tous mes droits.",
+				"Je fléchis ma volonté devant tant de majesté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'ouvre mon cœur",
+				"à ton Esprit.",
+				"J'ouvre mon cœur",
+				"à ton Esprit."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Agneau de Dieu, sois élevé !",
+				"Agneau de Dieu, Agneau de Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Étienne Rochat",
+			"role": "music"
+		},
+		{
+			"name": "Étienne Rochat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem765",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

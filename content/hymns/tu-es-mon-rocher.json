@@ -1,0 +1,85 @@
+{
+	"id": "tu-es-mon-rocher",
+	"title": "Tu es mon rocher",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "511"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon rocher,",
+				"Un abri sûr et solide.",
+				"Je veux m'appuyer",
+				"Sur toi seul, Jésus, mon guide.",
+				"Tu es mon rocher,",
+				"Un abri sûr et solide.",
+				"Je veux m'appuyer",
+				"Sur toi seul, Jésus, mon guide."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu est pour moi un refuge,",
+				"Mon rocher protecteur,",
+				"Mon roc et ma retraite, mon soutien."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon rocher,",
+				"Un abri sûr et solide.",
+				"Je veux m'appuyer",
+				"Sur toi seul, Jésus, mon guide.",
+				"Tu es mon rocher,",
+				"Un abri sûr et solide.",
+				"Je veux m'appuyer",
+				"Sur toi seul, Jésus, mon guide."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lui seul est le rocher",
+				"Où je peux être sauvé,",
+				"C'est de lui que me vient le salut."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon rocher,",
+				"Un abri sûr et solide.",
+				"Je veux m'appuyer",
+				"Sur toi seul, Jésus, mon guide."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem511",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

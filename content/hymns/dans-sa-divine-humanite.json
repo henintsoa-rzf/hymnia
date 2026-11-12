@@ -1,0 +1,84 @@
+{
+	"id": "dans-sa-divine-humanite",
+	"title": "Dans sa divine humanité",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "132"
+		},
+		{
+			"hymnal": "adf",
+			"number": "555"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !",
+				"Dans sa divine humanité,",
+				"Le Seigneur est ressuscité ;",
+				"La lutte est enfin terminée :",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !",
+				"Dès l'aube du troisième jour",
+				"Il sort du ténébreux séjour,",
+				"Y laissant la mort enchaînée :",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !",
+				"Il paraît ! Nos deuils sont finis,",
+				"Nos cœurs, pardonnés et bénis,",
+				"Retrouvent enfin l'espérance :",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia !",
+				"Oh ! puisque grâce à lui, la mort",
+				"Sera pour nous l'entrée au port,",
+				"Chantons l'hymne de délivrance !",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Giovanni Pierluigi da Palestrina",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg132",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af555",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "benediction-jem-1116",
+	"title": "Bénédiction",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1116"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Peuple saint et béni du Très-Haut,",
+				"Sois sans crainte, demeure dans son repos.",
+				"Celui qui a fait jaillir les eaux de la pierre",
+				"Est toujours le même.",
+				"Ton espoir et ta force sont en l’Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que l’Éternel te bénisse et te garde,",
+				"Qu’il fasse pour toi rayonner son visage.",
+				"Que l’Éternel te bénisse et te garde,",
+				"Qu’il t’accorde toujours sa grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il t’a choisi, tu lui appartiens.",
+				"Il te conduit sur le droit chemin.",
+				"Celui qui fraya une route dans la mer",
+				"Est toujours le même.",
+				"Ton espoir et ta force sont en l’Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que l’Éternel te bénisse et te garde,",
+				"Qu’il fasse pour toi rayonner son visage.",
+				"Que l’Éternel te bénisse et te garde,",
+				"Qu’il t’accorde toujours sa grâce."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Terre bénie et féconde,",
+				"Où coulent le miel et le lait,",
+				"Terre fertile, accueille ton Roi, reçois la paix."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Terre bénie et féconde,",
+				"Où coulent le miel et le lait,",
+				"Terre fertile, accueille ton Roi, reçois la paix."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que l’Éternel te bénisse et te garde,",
+				"Qu’il fasse pour toi rayonner son visage.",
+				"Que l’Éternel te bénisse et te garde,",
+				"Qu’il t’accorde toujours sa grâce."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "music"
+		},
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1116",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

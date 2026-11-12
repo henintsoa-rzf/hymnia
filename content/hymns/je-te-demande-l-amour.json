@@ -1,0 +1,95 @@
+{
+	"id": "je-te-demande-l-amour",
+	"title": "Je te demande l'amour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "165"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te demande l'amour, Seigneur,",
+				"Je te demande l'amour,",
+				"L'amour des autres et de toi, Seigneur,",
+				"L'amour des autres toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ma prière pour ceux qui souffrent,",
+				"Pour ceux qui peinent,",
+				"Pour ceux dont le cœur est meurtri.",
+				"Ma prière pour ceux qui pleurent,",
+				"Pour ceux qui traînent,",
+				"Qui désespèrent de la vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te demande l'amour, Seigneur,",
+				"Je te demande l'amour,",
+				"L'amour des autres et de toi, Seigneur,",
+				"L'amour des autres toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma prière pour ceux qui tombent,",
+				"Pour ceux qui doutent,",
+				"Pour ceux qui ne croient plus à rien.",
+				"Ma prière pour ceux qui errent",
+				"Sur la grand'route,",
+				"Mendiant leur soleil quotidien."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te demande l'amour, Seigneur,",
+				"Je te demande l'amour,",
+				"L'amour des autres et de toi, Seigneur,",
+				"L'amour des autres toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ma prière pour ceux qui perdent",
+				"Toutes leurs heures,",
+				"Pour ceux dont le cœur est fermé.",
+				"Ma prière pour ceux qui cherchent,",
+				"Pour ceux qui meurent",
+				"Sans jamais t'avoir trouvé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Raymond Fau",
+			"role": "music"
+		},
+		{
+			"name": "Raymond Fau",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem165",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

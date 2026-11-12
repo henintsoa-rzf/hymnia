@@ -39,3 +39,6 @@
 - Dependency: the content file format is owned by
   `specs/001-hymnal-browse-search/contracts/content-schema.md`. The "pending change", "merge
   decision" and "rights decision" records may require extending that contract during planning.
+- 2026-11-11: after `/speckit-analyze` on features 001 and 003, FR-026 to FR-028, SC-008 and the
+  "Hymn redirect" entity were added to protect saved collections (research R12). The checklist
+  items above still pass.

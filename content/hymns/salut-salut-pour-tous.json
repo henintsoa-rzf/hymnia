@@ -1,0 +1,68 @@
+{
+	"id": "salut-salut-pour-tous",
+	"title": "Salut, salut pour tous.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "285"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Salut, salut pour tous ! Que ce cri glorieux",
+				"Parcoure l'univers et monte jusqu'aux cieux !",
+				"Salut pour les pécheurs,",
+				"pour les âmes coupables !",
+				"Salut pour les perdus et pour les misérables !",
+				"Salut pour les perdus et pour les misérables !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Salut pour le vieillard,",
+				"le jeune homme, l'enfant !",
+				"Oh ! retentis partout, message triomphant !",
+				"Riches, pauvres, les grands,",
+				"les petits de ce monde,",
+				"Tous ont droit au salut, et pour tous il abonde.",
+				"Tous ont droit au salut, et pour tous il abonde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Salut, salut gratuit, sans argent et sans prix !",
+				"Vous tous qui périssez,",
+				"vos cœurs ont-ils compris ?",
+				"Acceptez maintenant, car c'est l'heure suprême !",
+				"Demain n'est pas à vous,",
+				"croyez à l'instant même.",
+				"Demain n'est pas à vous,",
+				"croyez à l'instant même."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af285",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

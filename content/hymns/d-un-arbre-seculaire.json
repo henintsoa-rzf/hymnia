@@ -1,0 +1,68 @@
+{
+	"id": "d-un-arbre-seculaire",
+	"title": "D'un arbre séculaire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "93"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"D'un arbre séculaire,",
+				"Du vieux tronc d'Isaï,",
+				"Durant l'hiver austère,",
+				"Un frais rameau jaillit.",
+				"Et sur le sol durci,",
+				"Dans la nuit calme et claire,",
+				"Une rose a fleuri."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par la bouche fervente",
+				"Du pieux serviteur,",
+				"Dieu, de sa voix clémente,",
+				"Promettait un sauveur.",
+				"Il vient, suprême honneur,",
+				"Chez une humble servante",
+				"Toute à son pur bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il vient sans apparence ;",
+				"Des pauvres il est roi ;",
+				"Il connaît leur souffrance,",
+				"Les guérit par la foi.",
+				"La mort n'a plus d'effroi :",
+				"Il me rend l'espérance,",
+				"En se donnant pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michael Praetorius",
+			"role": "music"
+		},
+		{
+			"name": "L. Monastier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg093",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,134 @@
+{
+	"id": "nous-sommes-dans-la-joie",
+	"title": "Nous sommes dans la joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "802"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Quand l'Éternel ramena les captifs de Sion,",
+				"Nous étions comme ceux qui font un rêve.",
+				"Alors notre bouche était remplie de cris de joie",
+				"Et notre langue de chants d'allégresse.",
+				"Alors on disait parmi les nations:"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« L'Éternel a fait pour eux",
+				"de grandes choses.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses.",
+				"L'Éternel a fait pour eux",
+				"de grandes choses.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes dans la joie, la joie, la joie.",
+				"Nous sommes dans la joie, la joie, la joie.",
+				"Nous sommes dans la joie",
+				"grâce à sa victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tous ceux qui sèment",
+				"dans les larmes de la souffrance",
+				"Moissonnent avec des cris de joie.",
+				"Tous ceux qui vont en pleurant",
+				"avec la semence",
+				"S'en reviennent dans les cris de triomphe",
+				"Sous le poids de toutes leurs gerbes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« L'Éternel a fait pour eux",
+				"de grandes choses.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses.",
+				"L'Éternel a fait pour eux",
+				"de grandes choses.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes dans la joie, la joie, la joie.",
+				"Nous sommes dans la joie, la joie, la joie.",
+				"Nous sommes dans la joie",
+				"grâce à sa victoire."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Viens changer notre sort, ô Éternel,",
+				"Comme tu fais couler",
+				"des cours d'eau au désert."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« L'Éternel a fait pour eux",
+				"de grandes choses.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses.",
+				"L'Éternel a fait pour eux",
+				"de grandes choses.",
+				"L'Éternel a fait pour nous",
+				"de grandes choses. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes dans la joie, la joie, la joie.",
+				"Nous sommes dans la joie, la joie, la joie.",
+				"Nous sommes dans la joie",
+				"grâce à sa victoire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem802",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

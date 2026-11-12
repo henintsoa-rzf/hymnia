@@ -1,0 +1,112 @@
+{
+	"id": "sur-les-collines-eternelles",
+	"title": "Sur les collines éternelles",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "144"
+		},
+		{
+			"hymnal": "adf",
+			"number": "133"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur les collines éternelles,",
+				"J'ai vu blanchir l'aube du jour.",
+				"Seraient-ce les gages fidèles,",
+				"Seigneur, de ton prochain retour ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frères, levons les yeux en haut,",
+				"Veillons, car Jésus vient bientôt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il vient pour briser notre chaîne,",
+				"Tarir la source de nos pleurs,",
+				"Et, dans sa grâce souveraine,",
+				"Apaiser toutes nos douleurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frères, levons les yeux en haut,",
+				"Veillons, car Jésus vient bientôt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il vient ! Du ciel, notre patrie,",
+				"Il nous apporte les trésors ;",
+				"D'un mot, ce Prince de la vie",
+				"Va rendre la vie à nos morts."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frères, levons les yeux en haut,",
+				"Veillons, car Jésus vient bientôt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il vient, Il vient, courage, frères !",
+				"Hâtons ce beau jour de nos vœux",
+				"Et, délivrés de nos misères,",
+				"Prenons notre essor vers les cieux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frères, levons les yeux en haut,",
+				"Veillons, car Jésus vient bientôt !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "Charles Chatelanat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg144",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af133",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

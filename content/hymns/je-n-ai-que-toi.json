@@ -1,0 +1,69 @@
+{
+	"id": "je-n-ai-que-toi",
+	"title": "Je n'ai que toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "427"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je n'ai que toi, que toi dans le ciel,",
+				"Je ne désire rien d'autre que toi sur la terre.",
+				"Si je suis faible ou même si je tombe,",
+				"Dieu est le soutien de mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, tu es le soutien de mon cœur,",
+				"Mon héritage et mon plus grand bien.",
+				"Oh oui Dieu, tu es le soutien de mon cœur,",
+				"Près de toi je me sens bien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand mon cœur était plein d'amertume,",
+				"Je perdais la raison et je n'y voyais plus rien,",
+				"Mais Dieu s'approcha pour me saisir la main,",
+				"Dieu est le soutien de mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, tu es le soutien de mon cœur,",
+				"Mon héritage et mon plus grand bien.",
+				"Oh oui Dieu, tu es le soutien de mon cœur,",
+				"Près de toi je me sens bien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Billy Sprague ; David Durham",
+			"role": "music"
+		},
+		{
+			"name": "Billy Sprague ; David Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem427",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,121 @@
+{
+	"id": "christ-est-victorieux",
+	"title": "Christ est victorieux",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "14"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le jour a éclaté,",
+				"Les ténèbres fuient.",
+				"La pierre est écartée :",
+				"Notre Seigneur vit !",
+				"S’achève notre attente :",
+				"Voici qu’il inspire.",
+				"La mort est impuissante",
+				"Pour le retenir !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"En un instant tout a changé,",
+				"En vainqueur il s’est relevé !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Christ est victorieux,",
+				"Couronné dans les cieux !",
+				"Ô Mort, où est ton pouvoir ?",
+				"Ô Enfer, où est ta victoire ?",
+				"Il règne triomphant,",
+				"Pour la durée des temps !",
+				"Le joug du péché brisé,",
+				"Les ténèbres sont renversées."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La dette est acquittée,",
+				"La peine est servie,",
+				"L’esclave libéré :",
+				"Notre Seigneur vit !",
+				"L’élan de son Esprit,",
+				"En nous insufflé,",
+				"Nous relève avec lui,",
+				"Vient nous transformer !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Son royaume est inauguré",
+				"Et ne pourra être ébranlé !",
+				"Il emmène vers sa cité",
+				"Un cortège de rachetés !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Sebastian Demrey",
+			"role": "lyrics"
+		},
+		{
+			"name": "Sebastian Demrey",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/christestvictorieux",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

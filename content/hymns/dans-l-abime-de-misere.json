@@ -1,0 +1,91 @@
+{
+	"id": "dans-l-abime-de-misere",
+	"title": "Dans l'abîme de misère.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "197"
+		},
+		{
+			"hymnal": "adf",
+			"number": "197A"
+		},
+		{
+			"hymnal": "cd",
+			"number": "302"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans l'abîme de misères",
+				"Où j'expirais loin de toi,",
+				"Ta bonté, Dieu de mes pères,",
+				"Descendit jusques à moi.",
+				"Tu parlas : mes yeux s'ouvrirent ;",
+				"À mes regards éperdus",
+				"Tes secrets se découvrirent ;",
+				"J'étais mort, et je vécus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus haut que toute pensée,",
+				"Ta main étendit les cieux ;",
+				"Tu veux : leur voûte embrasée",
+				"Se peuple de nouveaux feux.",
+				"Mais privés d'aimer, de croire",
+				"Tous ces cieux et leur splendeur",
+				"Ne valent pas pour ta gloire",
+				"Un seul soupir d'un seul cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Esprit du Dieu que j'adore,",
+				"Ah ! forme en moi ce soupir,",
+				"Ce feu qui n'a point encore",
+				"Réchauffé mon repentir !",
+				"Qu'à l'amour mon cœur se livre,",
+				"Et, qu'il répète à jamais :",
+				"Aimer, aimer, voilà vivre ;",
+				"Fais-moi vivre, ô Dieu de paix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joseph Haydn",
+			"role": "music"
+		},
+		{
+			"name": "Alexandre Vinet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af197",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af197a",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1104",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

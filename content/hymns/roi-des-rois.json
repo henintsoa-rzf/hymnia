@@ -1,0 +1,62 @@
+{
+	"id": "roi-des-rois",
+	"title": "Roi des rois",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "278"
+		},
+		{
+			"hymnal": "cd",
+			"number": "67"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Roi des rois,",
+				"Seigneur des seigneurs,",
+				"Gloire, alléluia !",
+				"Roi des rois,",
+				"Seigneur des seigneurs,",
+				"Gloire, alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, Prince de paix,",
+				"Gloire, alléluia !",
+				"Jésus, Prince de paix,",
+				"Gloire, alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem278",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/927",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

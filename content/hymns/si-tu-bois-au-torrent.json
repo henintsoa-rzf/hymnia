@@ -1,0 +1,79 @@
+{
+	"id": "si-tu-bois-au-torrent",
+	"title": "Si tu bois au torrent",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "122"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si tu bois au torrent,",
+				"Il te rafraîchira.",
+				"Si tu bois au torrent,",
+				"Tu te relèveras."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand souvent sur la route",
+				"Tu te sens fatigué,",
+				"Dans la lutte ou le doute",
+				"Ou quand tu es tenté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si tu bois au torrent,",
+				"Il te rafraîchira.",
+				"Si tu bois au torrent,",
+				"Tu te relèveras."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus est l'onde pure",
+				"Qui peut désaltérer,",
+				"Goûtes-y je t'assure,",
+				"Il peut te fortifier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si tu bois au torrent,",
+				"Il te rafraîchira.",
+				"Si tu bois au torrent,",
+				"Tu te relèveras."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alain Stamp",
+			"role": "music"
+		},
+		{
+			"name": "Alain Stamp",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem122",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

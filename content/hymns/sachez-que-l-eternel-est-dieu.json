@@ -1,0 +1,54 @@
+{
+	"id": "sachez-que-l-eternel-est-dieu",
+	"title": "Sachez que l'Éternel est Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "261"
+		},
+		{
+			"hymnal": "cd",
+			"number": "23"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sachez que l'Éternel est Dieu,",
+				"C'est lui qui nous a créés.",
+				"Nous sommes à lui ;",
+				"Nous sommes à lui.",
+				"Nous sommes son peuple,",
+				"Le troupeau dont il est le berger,",
+				"Le berger,",
+				"Nous sommes à lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem261",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/913",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

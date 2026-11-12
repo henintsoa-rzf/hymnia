@@ -1,0 +1,125 @@
+{
+	"id": "debout-sainte-cohorte-adf-360",
+	"title": "Debout, sainte cohorte.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "360"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Debout, sainte cohorte,",
+				"Soldats du Roi des rois !",
+				"Tenez d'une main forte",
+				"L'étendard de la croix.",
+				"Au sentier de la gloire",
+				"Jésus-Christ nous conduit ;",
+				"De victoire en victoire",
+				"Il mène qui le suit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Debout, sainte cohorte,",
+				"Soldats du Roi des rois,",
+				"Tenez d'une main forte",
+				"L'étendard de la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La trompette résonne :",
+				"Debout, vaillants soldats !",
+				"L'immortelle couronne",
+				"Est le prix des combats.",
+				"Si l'ennemi fait rage,",
+				"Soyez fermes et forts ;",
+				"Redoublez de courage",
+				"S'il redouble d'efforts."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Debout, sainte cohorte,",
+				"Soldats du Roi des rois,",
+				"Tenez d'une main forte",
+				"L'étendard de la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Debout pour le bataille !",
+				"Partez, n'hésitez plus ;",
+				"Pour que nul ne défaille",
+				"Regardez à Jésus.",
+				"De l'armure invincible,",
+				"Soldats, revêtez-vous !",
+				"Le triomphe est possible",
+				"Pour qui lutte à genoux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Debout, sainte cohorte,",
+				"Soldats du Roi des rois,",
+				"Tenez d'une main forte",
+				"L'étendard de la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Debout, debout encore !",
+				"Luttez jusqu'au matin.",
+				"Déjà brille l'aurore",
+				"À l'horizon lointain.",
+				"Bientôt, jetant nos armes",
+				"Aux pieds du Roi des rois,",
+				"Les chants après les larmes,",
+				"Le trône après la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Debout, sainte cohorte,",
+				"Soldats du Roi des rois,",
+				"Tenez d'une main forte",
+				"L'étendard de la croix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adam Geibel",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af360",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { fileURLToPath } from 'node:url';
-import { buildData, loadContent, validateContent } from '../../scripts/build-data';
+import { buildCatalog, buildData, loadContent, validateContent } from '../../scripts/build-data';
 
 const fixture = (name: string) => fileURLToPath(new URL(`../fixtures/${name}`, import.meta.url));
 
@@ -15,6 +15,12 @@ describe('valid content', () => {
 		expect(result.report).toEqual({ hymnals: 2, hymns: 2, excluded: 1 });
 		const ids = result.catalog!.hymns.map((h) => h.id).sort();
 		expect(ids).toEqual(['deuxieme-chant', 'premier-chant']);
+	});
+
+	it('publishes unconfirmed hymns too for personal use, and counts them', async () => {
+		const result = await buildData(fixture('content-valid'), { personalUse: true });
+		expect(result.errors).toEqual([]);
+		expect(result.report).toEqual({ hymnals: 2, hymns: 3, excluded: 0, unconfirmedIncluded: 1 });
 	});
 
 	it('derives firstLine, sortKey and hymnCount', async () => {
@@ -47,6 +53,20 @@ describe('schema errors', () => {
 		expect(all).toMatch(/retrievedAt/);
 		expect(all).toMatch(/rights/);
 		expect(all).toMatch(/nom-different.*autre-id|autre-id.*nom-different/);
+	});
+});
+
+describe('reserved hymnal ids (feature 002, FR-028)', () => {
+	it('rejects the sample hymnal ids when asked to (building from content/)', async () => {
+		const raw = await validRaw();
+		raw.hymnals.data = [
+			...raw.hymnals.data,
+			{ id: 'ce', name: 'Exemple', abbreviations: ['CE'], sortOrder: 9 }
+		];
+		expect(validateContent(raw).errors).toEqual([]);
+		expect(validateContent(raw, { reservedHymnalIds: ['ce', 'he'] }).errors.join('\n')).toMatch(
+			/"ce" is reserved/
+		);
 	});
 });
 
@@ -97,5 +117,80 @@ describe('validation rules from data-model.md', () => {
 		const { published, excluded } = validateContent(raw);
 		expect(excluded).toBe(1);
 		expect(published.every((h) => h.rights !== 'unconfirmed')).toBe(true);
+	});
+});
+
+describe('strict content schemas (feature 002, T013)', () => {
+	it('rejects an unknown or misspelt field instead of dropping it', async () => {
+		const raw = await validRaw();
+		(raw.hymns[0].data as Record<string, unknown>).credit = [];
+		(raw.hymnals.data[0] as Record<string, unknown>).abbreviation = 'X';
+		const errors = validateContent(raw).errors.join('\n');
+		expect(errors).toMatch(/credit/);
+		expect(errors).toMatch(/abbreviation/);
+	});
+
+	it('accepts alternateSources, which is not published in the catalog', async () => {
+		const raw = await validRaw();
+		const hymn = raw.hymns.find((h) => h.data.id === 'premier-chant')!;
+		hymn.data.alternateSources = [
+			{ name: 'Autre source', url: 'https://example.org/1', retrievedAt: '2026-11-11' }
+		];
+		const { errors, published } = validateContent(raw);
+		expect(errors).toEqual([]);
+		const catalog = buildCatalog(raw.hymnals.data, published, {});
+		const built = catalog.hymns.find((h) => h.id === 'premier-chant')!;
+		expect('alternateSources' in built).toBe(false);
+	});
+});
+
+describe('hymn redirects (feature 002, FR-026, T023)', () => {
+	it('treats a missing redirects.json as {} and publishes an empty map', async () => {
+		const raw = await validRaw();
+		expect(raw.redirects.data).toEqual({});
+		const { catalog } = await buildData(fixture('content-valid'));
+		expect(catalog!.redirects).toEqual({});
+	});
+
+	it('publishes a valid map in the catalog', async () => {
+		const raw = await validRaw();
+		raw.redirects.data = { 'ancien-chant': 'premier-chant' };
+		const { errors, published, redirects } = validateContent(raw);
+		expect(errors).toEqual([]);
+		expect(buildCatalog(raw.hymnals.data, published, redirects).redirects).toEqual({
+			'ancien-chant': 'premier-chant'
+		});
+	});
+
+	it('fails when a source is the id of an existing hymn file', async () => {
+		const raw = await validRaw();
+		raw.redirects.data = { 'deuxieme-chant': 'premier-chant' };
+		expect(validateContent(raw).errors.join('\n')).toMatch(/redirects\.json.*deuxieme-chant/);
+	});
+
+	it('fails when a target is not an existing hymn id', async () => {
+		const raw = await validRaw();
+		raw.redirects.data = { 'ancien-chant': 'introuvable' };
+		expect(validateContent(raw).errors.join('\n')).toMatch(/introuvable/);
+	});
+
+	it('fails on a chain (a target that is itself redirected)', async () => {
+		const raw = await validRaw();
+		raw.redirects.data = { 'tres-ancien': 'ancien-chant', 'ancien-chant': 'premier-chant' };
+		expect(validateContent(raw).errors.join('\n')).toMatch(/chain/);
+	});
+
+	it('fails on an invalid map', async () => {
+		const raw = await validRaw();
+		raw.redirects.data = { 'Pas Un Slug': 'premier-chant' } as Record<string, string>;
+		expect(validateContent(raw).errors.join('\n')).toMatch(/redirects\.json/);
+	});
+});
+
+describe('credit roles (feature 002)', () => {
+	it('accepts "unspecified" for sources that do not say who wrote what', async () => {
+		const raw = await validRaw();
+		raw.hymns[0].data.credits = [{ name: 'Louis Bourgeois', role: 'unspecified' }];
+		expect(validateContent(raw).errors).toEqual([]);
 	});
 });

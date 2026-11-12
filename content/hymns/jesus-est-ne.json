@@ -1,0 +1,85 @@
+{
+	"id": "jesus-est-ne",
+	"title": "Jésus est né",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "115"
+		},
+		{
+			"hymnal": "adf",
+			"number": "91"
+		},
+		{
+			"hymnal": "cd",
+			"number": "69"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus est né ; venez, bergers et mages,",
+				"Prosternez-vous devant sa majesté !",
+				"Nul, comme lui, n'a droit à vos hommages,",
+				"Car c'est un Dieu voilé d'humanité.",
+				"Jésus est né ; venez, bergers et mages,",
+				"Prosternez-vous devant sa majesté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est couché sur un lit de ramée,",
+				"Près des grands bœufs et des douces brebis.",
+				"Mais cette étable est par lui transformée",
+				"En un palais d'or pur et de rubis.",
+				"Il est couché sur un lit de ramée,",
+				"Près des grands bœufs et des douces brebis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Petit enfant, reçois notre humble hommage ;",
+				"Tout notre orgueil ici s'anéantit.",
+				"Fais-nous renaître, ô Christ, à ton image,",
+				"Puisque pour vaincre, il faut être petit !",
+				"Petit enfant, reçois notre humble hommage ;",
+				"Tout notre orgueil ici s'anéantit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lapuchin",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg115",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af091",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/875",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"id": "je-veux-t-aimer",
+	"title": "Je veux t'aimer.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "310"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux t'aimer, toi, mon Dieu, toi, mon Père,",
+				"Mon Rédempteur, mon Roi !",
+				"Je veux t'aimer, car la vie est amère",
+				"Pour ton enfant sans toi,",
+				"Pour ton enfant sans toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux t'aimer, ô Dieu plein de tendresse",
+				"Qui m'aimas le premier !",
+				"Je veux t'aimer, soutien de ma faiblesse,",
+				"Mon fort, mon bouclier !",
+				"Mon fort, mon bouclier !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je veux t'aimer, source de toute grâce,",
+				"Auteur de mon salut !",
+				"Je veux t'aimer : tourne vers moi ta face,",
+				"Conduis-moi vers le but !",
+				"Conduis-moi vers le but !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je veux t'aimer, refuge de mon âme",
+				"Pendant les jours mauvais !",
+				"Je veux t'aimer : c'est toi que je réclame,",
+				"Source de toute paix !",
+				"Source de toute paix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hans Georg Naegeli",
+			"role": "music"
+		},
+		{
+			"name": "Mme Lutteroth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af310",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

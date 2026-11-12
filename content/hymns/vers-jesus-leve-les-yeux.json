@@ -1,0 +1,39 @@
+{
+	"id": "vers-jesus-leve-les-yeux",
+	"title": "Vers Jésus lève les yeux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "159"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vers Jésus lève les yeux,",
+				"Contemple son visage merveilleux,",
+				"Et les choses de la terre pâliront peu à peu,",
+				"Si tu lèves vers Jésus les yeux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem159",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,90 @@
+{
+	"id": "je-desire-entendre-ta-voix",
+	"title": "Je désire entendre ta voix",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "425"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je désire entendre ta voix.",
+				"Je désire écouter ton cœur ;",
+				"Recevoir ta parole,",
+				"Ta pensée, ta volonté.",
+				"Je désire entendre ta voix.",
+				"Je désire écouter ton cœur ;",
+				"Recevoir ton Esprit,",
+				"Tous tes dons et ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, je veux parler de tes fardeaux",
+				"Et partager ta compassion,",
+				"Pouvoir communiquer ton cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je désire entendre ta voix.",
+				"Je désire écouter ton cœur ;",
+				"Recevoir ta parole,",
+				"Ta pensée, ta volonté.",
+				"Je désire entendre ta voix.",
+				"Je désire écouter ton cœur ;",
+				"Recevoir ton Esprit,",
+				"Tous tes dons et ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, tu as les paroles de la vie,",
+				"Toi seul connais tous les secrets,",
+				"Tu viens pour nous les révéler."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je désire entendre ta voix.",
+				"Je désire écouter ton cœur ;",
+				"Recevoir ta parole,",
+				"Ta pensée, ta volonté.",
+				"Je désire entendre ta voix.",
+				"Je désire écouter ton cœur ;",
+				"Recevoir ton Esprit,",
+				"Tous tes dons et ton amour.",
+				"Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem425",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

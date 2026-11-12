@@ -1,0 +1,100 @@
+{
+	"id": "je-suis-la-lumiere",
+	"title": "Je suis la lumière",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "397"
+		},
+		{
+			"hymnal": "adf",
+			"number": "474"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"« Je suis la lumière »,",
+				"À dit le Seigneur ;",
+				"Avec moi, mon frère,",
+				"Ouvre-lui ton cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le monde est plein d'ombre :",
+				"Brillons, brillons bien,",
+				"Toi dans ton coin sombre,",
+				"Et moi dans le mien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si la pure flamme",
+				"Parfois baisse un peu,",
+				"Veillons sur notre âme,",
+				"Ravivons le feu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le monde est plein d'ombre :",
+				"Brillons, brillons bien,",
+				"Toi dans ton coin sombre,",
+				"Et moi dans le mien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand le jour se voile",
+				"Au clair firmament,",
+				"La plus humble étoile",
+				"Brille doucement."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le monde est plein d'ombre :",
+				"Brillons, brillons bien,",
+				"Toi dans ton coin sombre,",
+				"Et moi dans le mien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edwin Othello Excell",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg397",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af474",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

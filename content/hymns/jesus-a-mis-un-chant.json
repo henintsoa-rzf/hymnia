@@ -1,0 +1,70 @@
+{
+	"id": "jesus-a-mis-un-chant",
+	"title": "Jésus a mis un chant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "338"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus a mis un chant dans nos cœurs,",
+				"Jésus a mis un chant dans nos cœurs.",
+				"C'est un chant de joie",
+				"que nul ne peut nous ravir.",
+				"Jésus tu as mis un chant dans notre cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, tu as fait de nous des frères et sœurs,",
+				"Jésus, tu as fait de nous des frères et sœurs.",
+				"Et en nous aimant, nous serons dignes de toi.",
+				"Jésus, tu as fait de nous une famille."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, tu nous as donné la vie,",
+				"Jésus, tu nous as donné la vie,",
+				"Comme un fleuve qui déborde de notre cœur,",
+				"Tu veux la répandre tout autour de nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus a changé mes larmes en danse,",
+				"Jésus a changé mes larmes en danse,",
+				"Tu as rempli ma vie d'amour et d'espérance.",
+				"Jésus, c'est pour toi que je danse de joie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem338",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

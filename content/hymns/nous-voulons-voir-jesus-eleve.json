@@ -1,0 +1,92 @@
+{
+	"id": "nous-voulons-voir-jesus-eleve",
+	"title": "Nous voulons voir Jésus élevé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "585"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voulons voir Jésus élevé,",
+				"Comme un étendard sur ce pays,",
+				"Pour montrer à tous la vérité",
+				"Et le chemin vers le ciel.",
+				"Nous voulons voir Jésus élevé,",
+				"Comme un étendard sur ce pays,",
+				"Pour montrer à tous la vérité",
+				"Et le chemin vers le ciel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voulons voir,",
+				"Nous voulons voir,",
+				"Nous voulons voir Jésus élevé.",
+				"Nous voulons voir,",
+				"Nous voulons voir,",
+				"Nous voulons voir Jésus élevé."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Pas à pas allons de l'avant,",
+				"Peu à peu gagnons du terrain.",
+				"La prière est notre puissance,",
+				"Les murailles s'écroulent à terre,",
+				"À terre, à terre, à terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voulons voir Jésus élevé,",
+				"Comme un étendard sur ce pays,",
+				"Pour montrer à tous la vérité",
+				"Et le chemin vers le ciel.",
+				"Nous voulons voir Jésus élevé,",
+				"Comme un étendard sur ce pays,",
+				"Pour montrer à tous la vérité",
+				"Et le chemin vers le ciel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous voulons voir,",
+				"Nous voulons voir,",
+				"Nous voulons voir Jésus élevé.",
+				"Nous voulons voir,",
+				"Nous voulons voir,",
+				"Nous voulons voir Jésus élevé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Doug Horley",
+			"role": "music"
+		},
+		{
+			"name": "Doug Horley",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem585",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

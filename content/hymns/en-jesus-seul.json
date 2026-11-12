@@ -1,0 +1,109 @@
+{
+	"id": "en-jesus-seul",
+	"title": "En Jésus seul",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1004"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En Jésus seul est mon espoir,",
+				"Lui, ma lumière, ma force, mon chant,",
+				"Pierre angulaire, solide rempart,",
+				"Même quand l'orage devient violent."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh, quel amour ! Oh quelle paix !",
+				"Les luttes cessent, la peur se tait.",
+				"Mon réconfort, mon plus grand bien,",
+				"Dans l'amour du Christ, je me tiens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En Jésus seul, Dieu s'est fait chair",
+				"Dans un enfant. Oh ! quel mystère !",
+				"Ce don d'amour, de sainteté,",
+				"Haï par ceux qu'il vint sauver."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jusqu'à la croix, il s'est livré,",
+				"Sur lui la colère est tombée.",
+				"Tous mes péchés, il les a pris ;",
+				"Par la mort de Jésus, je vis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Là, dans la tombe, il reposait,",
+				"Lumière vaincue par les ténèbres.",
+				"Quel jour glorieux ! Il apparaît,",
+				"D'entre les morts il se relève."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et sur ma vie, par sa victoire,",
+				"Le péché perd tout son pouvoir.",
+				"Il est à moi, je suis à lui,",
+				"Racheté par le sang du Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je vis en paix, je meurs sans crainte,",
+				"Gardé par la puissance du Christ.",
+				"Du premier cri au dernier souffle,",
+				"Jésus est maître de ma vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Les plans des hommes ou du malin",
+				"Ne peuvent m'arracher de sa main",
+				"Et, qu'il revienne ou me rappelle,",
+				"Par la force du Christ je tiendrai."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stuart Townend et Keith Getty",
+			"role": "music"
+		},
+		{
+			"name": "Stuart Townend et Keith Getty",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1004",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "d-un-saint-desir-emplis-mon-ame",
+	"title": "D'un saint désir emplis mon âme.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "602"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"D'un saint désir emplis mon âme :",
+				"Te glorifier, ô Seigneur !",
+				"Que ton amour, divine flamme,",
+				"Brûle sans cesse dans mon cœur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Agneau qui mourus au Calvaire,",
+				"Et dont le sang m'a racheté,",
+				"O Fils de l'homme et Fils du Père,",
+				"Révèle-toi dans ta beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dévoile ces chose sublimes :",
+				"Le Serpent, jadis élevé,",
+				"La coupe de honte et de crimes",
+				"Dont pour moi, tu fus abreuvé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ranime en moi la foi profonde,",
+				"La foi vivante qui guérit,",
+				"Et que mon cœur au tien réponde,",
+				"Par ta grâce et par ton Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Que tout mon être t'appartienne,",
+				"Et conduis-moi vers le saint lieu,",
+				"Où, s'unissant avec la tienne,",
+				"Ma prière ira jusqu'à Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Là, j'apprendrai l'hymne nouvelle ;",
+				"Là, jusqu'à l'aube du grand jour,",
+				"Je t'offrirai, Sauveur fidèle,",
+				"L'hommage de mon pur amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "A.-Paget Wilkes ; arrangement par Dr D.-W. Andropoff",
+			"role": "music"
+		},
+		{
+			"name": "A.-Paget Wilkes ; traduit par Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af602",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

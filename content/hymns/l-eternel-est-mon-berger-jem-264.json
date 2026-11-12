@@ -1,0 +1,90 @@
+{
+	"id": "l-eternel-est-mon-berger-jem-264",
+	"title": "L'Éternel est mon Berger",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "264"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel est mon berger,",
+				"Je ne manquerai de rien.",
+				"Il me fait reposer dans de verts pâturages.",
+				"L'Éternel est mon berger,",
+				"Je ne manquerai de rien.",
+				"Il me dirige près des eaux paisibles,",
+				"Il restaure mon âme."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel est mon berger,",
+				"Je ne manquerai de rien.",
+				"Il me conduit dans les sentiers de la justice",
+				"À cause de son nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je marche dans la vallée",
+				"De l'ombre de la mort,",
+				"Je ne crains aucun mal,",
+				"Car tu es avec moi.",
+				"Quand je marche dans la vallée",
+				"De l'ombre de la mort,",
+				"Je ne crains aucun mal,",
+				"Car tu es avec moi.",
+				"Car tu es avec moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel est mon berger,",
+				"Je ne manquerai de rien.",
+				"Il me fait reposer dans de verts pâturages.",
+				"L'Éternel est mon berger,",
+				"Je ne manquerai de rien.",
+				"Il me dirige près des eaux paisibles,",
+				"Il restaure mon âme."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Éternel est mon berger,",
+				"Je ne manquerai de rien.",
+				"Il me conduit dans les sentiers de la justice",
+				"À cause de son nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel Bedo",
+			"role": "music"
+		},
+		{
+			"name": "Daniel Bedo",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem264",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,79 @@
+{
+	"id": "un-regard-sur-ta-croix-sanglante",
+	"title": "Un regard sur ta croix sanglante",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "123"
+		},
+		{
+			"hymnal": "adf",
+			"number": "106"
+		},
+		{
+			"hymnal": "cd",
+			"number": "106"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un regard sur ta croix sanglante,",
+				"Jésus, fait déborder mon cœur",
+				"D'amour et de douleur poignante,",
+				"D'amour et d'éternel bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Te donnerais-je quelques larmes,",
+				"Quelques soupirs et quelque amour ?",
+				"Devant ta croix, je rends les armes,",
+				"Prends-moi tout entier, dès ce jour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu seras seul toute ma gloire,",
+				"Car tout ce dont je me vantais",
+				"M'empêcherait encor de croire",
+				"Qu'en ta mort seule j'ai la paix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr Lowell Mason",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg123",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af106",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/954",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

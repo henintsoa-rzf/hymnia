@@ -1,0 +1,105 @@
+{
+	"id": "ouvre-les-yeux-de-mon-coeur",
+	"title": "Ouvre les yeux de mon cœur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "694"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ouvre les yeux de mon cœur,",
+				"Ouvre les yeux de mon cœur,",
+				"Je désire te voir,",
+				"Je désire te voir.",
+				"Ouvre les yeux de mon cœur,",
+				"Ouvre les yeux de mon cœur,",
+				"Je désire te voir,",
+				"Je désire te voir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Élevé au plus haut des cieux,",
+				"Rayonnant de l'éclat de ta gloire",
+				"Répands ton amour, ta force,",
+				"Alors que nous chantons: « tu es saint. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ouvre les yeux de mon cœur,",
+				"Ouvre les yeux de mon cœur,",
+				"Je désire te voir,",
+				"Je désire te voir.",
+				"Ouvre les yeux de mon cœur,",
+				"Ouvre les yeux de mon cœur,",
+				"Je désire te voir,",
+				"Je désire te voir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Élevé au plus haut des cieux,",
+				"Rayonnant de l'éclat de ta gloire",
+				"Répands ton amour, ta force,",
+				"Alors que nous chantons: « tu es saint. »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu es saint, tu es saint,",
+				"Tu es saint, tu es saint,",
+				"Tu es saint, tu es saint,",
+				"Je désire te voir.",
+				"Tu es saint, tu es saint,",
+				"Tu es saint, tu es saint,",
+				"Tu es saint, tu es saint,",
+				"Je désire te voir."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu es saint, tu es saint,",
+				"Tu es saint, tu es saint,",
+				"Tu es saint, tu es saint,",
+				"Je désire te voir.",
+				"Tu es saint, tu es saint,",
+				"Tu es saint, tu es saint,",
+				"Tu es saint, tu es saint,",
+				"Je désire te voir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Baloche",
+			"role": "music"
+		},
+		{
+			"name": "Paul Baloche",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem694",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

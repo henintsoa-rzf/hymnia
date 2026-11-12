@@ -1,0 +1,141 @@
+{
+	"id": "mon-dieu-est-bon",
+	"title": "Mon Dieu est bon",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1155"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Na na na na na na na na na na oh oh",
+				"Na na na na na na na na na na oh",
+				"Na na na na na na na na na na oh oh",
+				"Na na na na na na na na na na oh"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il a gagné ma confiance",
+				"Je dis : « Mon Dieu est le meilleur ! »",
+				"Celui qui change l’existence :",
+				"C’est le Seigneur !",
+				"Dans le combat, mon assurance !",
+				"Non, je ne veux pas être ailleurs !",
+				"Ce qui me donne de l’espérance",
+				"Dans mon cœur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sa grâce et sa compassion,",
+				"Sa bonté jamais ne seront épuisées.",
+				"Sa faveur et tous ses dons,",
+				"La grandeur de son nom inégalés.",
+				"À jamais ! À jamais !",
+				"Et peu importe la saison, mon Dieu est bon."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Na na na na na na na na na na oh oh",
+				"Na na na na na na na na na na oh"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand je sens venir l’orage",
+				"Quand la tempête veut se lever,",
+				"Le creux de sa main est mon passage obligé !",
+				"Et quand l’ennemi fait barrage,",
+				"Quand je perds de vue ma valeur,",
+				"Ce qui me donne du courage",
+				"Dans mon cœur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sa grâce et sa compassion,",
+				"Sa bonté jamais ne seront épuisées.",
+				"Sa faveur et tous ses dons,",
+				"La grandeur de son nom inégalés.",
+				"À jamais ! À jamais !",
+				"Et peu importe la saison, mon Dieu est bon."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Na na na na na na na na na na oh oh",
+				"Na na na na na na na na na na oh"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J’ai vu même la discipline",
+				"N’a pu m’empêcher de tomber",
+				"Et sans sa main, oui, j’imagine où je serais.",
+				"Quand les amis se camouflent,",
+				"Quand mon meilleur choix est le pire",
+				"Quand je me sens à bout de souffle,",
+				"Je veux dire :"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sa grâce et sa compassion,",
+				"Sa bonté jamais ne seront épuisées.",
+				"Sa faveur et tous ses dons,",
+				"La grandeur de son nom inégalés.",
+				"À jamais ! À jamais !",
+				"Et peu importe la saison, mon Dieu est bon."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Na na na na na na na na na na oh oh",
+				"Na na na na na na na na na na oh",
+				"Na na na na na na na na na na oh oh",
+				"Na na na na na na na na na na oh"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rija Rasolondraibe",
+			"role": "music"
+		},
+		{
+			"name": "Rija Rasolondraibe",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1155",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

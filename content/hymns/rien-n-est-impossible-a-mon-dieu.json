@@ -1,0 +1,79 @@
+{
+	"id": "rien-n-est-impossible-a-mon-dieu",
+	"title": "Rien n'est impossible à mon Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "822"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rien n'est impossible à mon Dieu !",
+				"Rien n'est impossible à mon Dieu !",
+				"Oui, tout est possible à celui qui croit.",
+				"Rien n'est impossible à mon Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu est puissant, il ne ment pas ;",
+				"Il est si grand, il agira.",
+				"Dieu est souverain pour nous transformer,",
+				"Il étend sa main sur notre nation !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rien n'est impossible à mon Dieu !",
+				"Rien n'est impossible à mon Dieu !",
+				"Oui, tout est possible à celui qui croit.",
+				"Rien n'est impossible à mon Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous avançons pour le servir,",
+				"Sous son onction, sans défaillir.",
+				"Par le Saint-Esprit, nous prophétisons",
+				"Un fleuve de vie parmi les nations !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rien n'est impossible à mon Dieu !",
+				"Rien n'est impossible à mon Dieu !",
+				"Oui, tout est possible à celui qui croit.",
+				"Rien n'est impossible à mon Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem822",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

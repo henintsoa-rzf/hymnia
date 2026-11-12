@@ -1,0 +1,49 @@
+{
+	"id": "toi-seigneur-mon-secours",
+	"title": "Toi, Seigneur mon secours",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "505"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi, Seigneur, mon secours,",
+				"Mon bouclier, tu es ma gloire",
+				"Et tu relèves ma tête.",
+				"Toi, Seigneur, mon secours,",
+				"Mon bouclier, tu es ma gloire",
+				"Et tu relèves ma tête."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alléluia, alléluia, alléluia,",
+				"Oui, tu relèves ma tête."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Don Thomas ; Charles William",
+			"role": "music"
+		},
+		{
+			"name": "Don Thomas ; Charles William",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem505",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

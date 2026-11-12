@@ -1,0 +1,137 @@
+{
+	"id": "emmanuel-jem-1179",
+	"title": "Emmanuel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1179"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois l'adoration.",
+				"Tu es le Roi de gloire,",
+				"Notre victoire.",
+				"Digne es-tu, Seigneur, Emmanuel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois l'adoration.",
+				"Tu es le Roi de gloire,",
+				"Notre victoire.",
+				"Digne es-tu, Seigneur, Emmanuel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu de lumière élevé dans les cieux,",
+				"Rempli de grâce et de paix,",
+				"Environné de louange et de feu,",
+				"Gardien de l'éternité,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pourquoi quitter ce palais de bonheur",
+				"Pour un sentier de misère ?",
+				"Par quel amour les chemins de ton cœur",
+				"Ont su trouver nos prières ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois l'adoration.",
+				"Tu es le Roi de gloire,",
+				"Notre victoire.",
+				"Digne es-tu, Seigneur, Emmanuel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois l'adoration.",
+				"Tu es le Roi de gloire,",
+				"Notre victoire.",
+				"Digne es-tu, Seigneur, Emmanuel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De cette foi, que ton cœur a montrée,",
+				"Je veux puiser mon secours.",
+				"Sur le chemin que ta vie a tracé,",
+				"Je marcherai chaque jour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Garde mes yeux des attraits de ce monde,",
+				"Garde-moi près de la croix,",
+				"En ce lieu saint où mon âme est féconde",
+				"D'humilité et de joie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois l'adoration.",
+				"Tu es le Roi de gloire,",
+				"Notre victoire.",
+				"Digne es-tu, Seigneur, Emmanuel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois l'adoration.",
+				"Tu es le Roi de gloire,",
+				"Notre victoire.",
+				"Digne es-tu, Seigneur, Emmanuel."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Emmanuel ! Emmanuel !",
+				"Emmanuel ! Emmanuel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Christensen et Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Chris Christensen et Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1179",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,129 @@
+{
+	"id": "quand-le-vol-de-la-tempete",
+	"title": "Quand le vol de la tempête",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "336"
+		},
+		{
+			"hymnal": "adf",
+			"number": "45"
+		},
+		{
+			"hymnal": "cd",
+			"number": "230"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand le vol de la tempête",
+				"Vient assombrir ton ciel bleu,",
+				"Au lieu de baisser la tête,",
+				"Compte les bienfaits de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Compte les bienfaits de Dieu,",
+				"Mets-les tous devant tes yeux,",
+				"Tu verras, en adorant,",
+				"Combien le nombre en est grand."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand sur la route glissante,",
+				"Tu chancelles sous ta croix,",
+				"Pense à cette main puissante",
+				"Qui t'a béni tant de fois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Compte les bienfaits de Dieu,",
+				"Mets-les tous devant tes yeux,",
+				"Tu verras, en adorant,",
+				"Combien le nombre en est grand."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si tu perds dans le voyage",
+				"Plus d'un cher et doux trésor,",
+				"Pense au divin héritage",
+				"Qui là-haut te reste encor."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Compte les bienfaits de Dieu,",
+				"Mets-les tous devant tes yeux,",
+				"Tu verras, en adorant,",
+				"Combien le nombre en est grand."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bénis donc, bénis sans cesse",
+				"Ce Père qui chaque jour",
+				"Répand sur toi la richesse",
+				"De son merveilleux amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Compte les bienfaits de Dieu,",
+				"Mets-les tous devant tes yeux,",
+				"Tu verras, en adorant,",
+				"Combien le nombre en est grand."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edwin Othello Excell",
+			"role": "music"
+		},
+		{
+			"name": "Marcelle Perenoud",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg336",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af045",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1059",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

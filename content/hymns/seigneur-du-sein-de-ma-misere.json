@@ -1,0 +1,69 @@
+{
+	"id": "seigneur-du-sein-de-ma-misere",
+	"title": "Seigneur, du sein de ma misère",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "252"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, du sein de ma misère,",
+				"Mon âme crie à toi :",
+				"O Dieu ! réponds à ma prière !",
+				"Viens exaucer ma foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je ne veux plus l'ombre qui passe,",
+				"L'image qui pâlit ;",
+				"Mais la substance de ta grâce,",
+				"Toi-même, ton Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je veux brûler, mais de ta flamme,",
+				"Luire, mais de ton jour,",
+				"De ton âme animer mon âme,",
+				"Aimer de ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Voilà le seul bien que j'envie,",
+				"Que j'implore, ô mon Roi !",
+				"Ne plus vivre que de ta vie,",
+				"Que par toi, que pour toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul-Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "Adrien Boissier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg252",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

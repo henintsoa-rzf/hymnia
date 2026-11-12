@@ -1,0 +1,93 @@
+{
+	"id": "j-ai-decide",
+	"title": "J'ai décidé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "671"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai décidé de marcher dans la vérité,",
+				"J'ai décidé de vivre dans ta sainteté.",
+				"J'ai décidé de te soumettre mes pensées,",
+				"J'ai décidé de faire ta volonté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ, je te suivrai jour après jour.",
+				"Tu seras mon bouclier et mon secours.",
+				"Si je tombe, ta main me soutiendra",
+				"Et je sais que tu seras toujours là."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'ai décidé d'être fidèle à chaque instant,",
+				"J'ai décidé de brûler d'un feu ardent.",
+				"J'ai décidé d'avancer au son de ta voix,",
+				"J'ai décidé de tout faire comme toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ, je te suivrai jour après jour.",
+				"Tu seras mon bouclier et mon secours.",
+				"Si je tombe, ta main me soutiendra",
+				"Et je sais que tu seras toujours là."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et je sais que tu seras toujours là,",
+				"Près de moi,",
+				"Et je sais que tu sauras me guider",
+				"À chaque pas.",
+				"Et je sais que tu seras toujours là,",
+				"Près de moi,",
+				"Et je sais que tu sauras me guider",
+				"À chaque pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus-Christ, je te suivrai jour après jour.",
+				"Tu seras mon bouclier et mon secours.",
+				"Si je tombe, ta main me soutiendra",
+				"Et je sais que tu seras toujours là."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Kiener",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Kiener",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem671",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

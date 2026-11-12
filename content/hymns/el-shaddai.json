@@ -1,0 +1,112 @@
+{
+	"id": "el-shaddai",
+	"title": "El Shaddaï",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "299"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"El Shaddaï, El Shaddaï,",
+				"El Elyona Adonaï,",
+				"D'âge en âge, tu es le même",
+				"Par le nom puissant que j'aime ;",
+				"El Shaddaï, El Shaddaï,",
+				"Erkamkana Adonaï,",
+				"Je te louerai où que j'aille,",
+				"El Shaddaï."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton amour et ta bonté,",
+				"Pour Abraham ont tout changé;",
+				"La puissance de ta main",
+				"Dans la mer fit un chemin.",
+				"À ceux que l'on méprisait,",
+				"Tu accordas tes bienfaits,",
+				"Par ta grandeur tu les as libérés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"El Shaddaï, El Shaddaï,",
+				"El Elyona Adonaï,",
+				"D'âge en âge, tu es le même",
+				"Par le nom puissant que j'aime ;",
+				"El Shaddaï, El Shaddaï,",
+				"Erkamkana Adonaï,",
+				"Je te louerai où que j'aille,",
+				"El Shaddaï."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les années l'ont bien montré:",
+				"Christ est venu en son temps,",
+				"Parmi ces gens aveuglés",
+				"Que tu as pourtant aimés.",
+				"Ta Parole, ton divin plan,",
+				"Pour eux n'étaient que du vent ;",
+				"Tu avais tout accompli",
+				"Par ton Fils donnant sa vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"El Shaddaï, El Shaddaï,",
+				"El Elyona Adonaï,",
+				"D'âge en âge, tu es le même",
+				"Par le nom puissant que j'aime ;",
+				"El Shaddaï, El Shaddaï,",
+				"Erkamkana Adonaï,",
+				"Tu as gagné la bataille,",
+				"El Shaddaï."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"El Shaddaï, El Shaddaï,",
+				"El Elyona Adonaï,",
+				"D'âge en âge, tu es le même",
+				"Par le nom puissant que j'aime ;",
+				"El Shaddaï, El Shaddaï,",
+				"Erkamkana Adonaï,",
+				"Je te louerai où que j'aille,",
+				"El Shaddaï."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Thompson",
+			"role": "music"
+		},
+		{
+			"name": "Michael Card",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem299",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

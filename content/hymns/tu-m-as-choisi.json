@@ -1,0 +1,53 @@
+{
+	"id": "tu-m-as-choisi",
+	"title": "Tu m'as choisi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "718"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu m'as choisi, je t'ai reçu.",
+				"Tu m'as aimé, je t'ai aimé.",
+				"Tu m'as donné, j'ai accepté ta vie.",
+				"Je suis tombé, tu m'as relevé,",
+				"Tu as effacé tout mon passé,",
+				"Tu m'as pardonné, tu as transformé ma vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Encore et encore,",
+				"Encore à chaque instant,",
+				"Tant que je respire,",
+				"Je te choisirai encore à chaque instant,",
+				"Tant que je respire,",
+				"Je t'adorerai."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem718",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,65 @@
+{
+	"id": "promesses",
+	"title": "Promesses",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "203"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si tu confesses tes péchés,",
+				"Si tu confesses tes péchés,",
+				"Si tu confesses tes péchés,",
+				"Je te pardonnerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le sang de Christ peut rendre pur,",
+				"Le sang de Christ peut rendre pur,",
+				"Le sang de Christ peut rendre pur",
+				"Le coeur le plus mauvais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je garderai ton coeur en paix,",
+				"Je garderai ton coeur en paix,",
+				"Je garderai ton coeur en paix ;",
+				"En moi confie-toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dans ta faiblesse mon enfant,",
+				"Dans ta faiblesse mon enfant,",
+				"Dans ta faiblesse, mon enfant,",
+				"Ma grâce te suffit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1038",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

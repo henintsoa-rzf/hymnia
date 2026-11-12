@@ -1,0 +1,71 @@
+{
+	"id": "je-suivrai-mon-seigneur",
+	"title": "Je suivrai mon Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1007"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suivrai mon Seigneur et mon maître",
+				"Sans jamais m'éloigner de ses pas,",
+				"Sans que rien ici-bas ne m'arrête",
+				"Et sans rien que le chant de sa voix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je vivrai de bonheur et de grâce,",
+				"De l'amour que son cœur m'a donné",
+				"Et que rien ici-bas ne l'efface ;",
+				"C'est le vœu de mon âme assoiffée."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Un seul instant auprès de toi",
+				"Vaut bien les heures et la route.",
+				"Tout, pour autant que ce soit toi",
+				"Qui m'accompagnes au parvis de ta joie."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je suivrai mon Seigneur et mon maître",
+				"Sans jamais m'éloigner de ses pas,",
+				"Sans que rien ici-bas ne m'arrête",
+				"Et sans rien que le chant de sa voix.",
+				"Et sans rien que le chant de sa voix.",
+				"Et sans rien que le chant de sa voix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Christensen et Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Chris Christensen et Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1007",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

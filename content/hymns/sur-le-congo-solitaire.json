@@ -1,0 +1,101 @@
+{
+	"id": "sur-le-congo-solitaire",
+	"title": "Sur le Congo solitaire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "617"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur le Congo solitaire",
+				"Je vais chantant ;",
+				"Voix du ciel, voix de la terre",
+				"Rendent mon cœur content.",
+				"Car tout parle de ta grâce,",
+				"Divin Rédempteur,",
+				"Qui vins t'unir à ma race,",
+				"Pour me sauver, moi pécheur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! la merveilleuse histoire !",
+				"Christ est mort pour moi !",
+				"Jésus est le Roi de gloire",
+				"Et je suis frère du Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fini, l'horrible esclavage !",
+				"Le Dieu d'amour",
+				"Transforme l'homme sauvage,",
+				"Change la nuit en jour.",
+				"Plus de fétiche, d'idole,",
+				"Plus de mauvais sort",
+				"Pour qui croit cette parole :",
+				"« Jésus a vaincu la mort ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! la merveilleuse histoire !",
+				"Christ est mort pour moi !",
+				"Jésus est le Roi de gloire",
+				"Et je suis frère du Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Là-bas, Loualaba chante :",
+				"« Il est venu ! »",
+				"Congo, que ta voix puissante,",
+				"Proclame : « Il a vaincu ! »",
+				"Toi, large Oubangui, murmure :",
+				"« Il revient bientôt ! »",
+				"Et que toute la nature",
+				"Redise comme un écho :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La miraculeuse histoire",
+				"Du Christ mort pour moi !",
+				"Jésus est le Roi de gloire",
+				"Et je suis frère du Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stephen Foster",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens ; d'après William Young Fullerton",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af617",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

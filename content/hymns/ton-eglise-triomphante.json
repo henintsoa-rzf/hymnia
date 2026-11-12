@@ -1,0 +1,105 @@
+{
+	"id": "ton-eglise-triomphante",
+	"title": "Ton Église triomphante",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "70"
+		},
+		{
+			"hymnal": "adf",
+			"number": "31"
+		},
+		{
+			"hymnal": "cd",
+			"number": "51"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton Église triomphante,",
+				"O Saint Agneau !",
+				"Dans ton ciel, d'une voix chante :",
+				"Gloire à l'Agneau !",
+				"À Lui le sceptre et le trône,",
+				"À Lui l'encens, la couronne !",
+				"Que ce chant toujours résonne :",
+				"Gloire à l'Agneau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O merveilleuse harmonie !",
+				"Devant l'Agneau",
+				"Toute l'Église est unie :",
+				"Gloire à l'Agneau !",
+				"Rassemblés de toute race,",
+				"Sauvés par la même grâce,",
+				"Jamais ce chœur ne se lasse :",
+				"Gloire à l'Agneau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rachetés, que vos louanges,",
+				"Devant l'Agneau,",
+				"S'unissent aux chœurs des anges :",
+				"Gloire à l'Agneau !",
+				"Gloire à la sainte Victime !",
+				"Son sang lava notre crime,",
+				"Et nous sauva de l'abîme :",
+				"Gloire à l'Agneau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dès maintenant, sur la terre,",
+				"Chantons l'Agneau !",
+				"Adorons le saint mystère,",
+				"Gloire à l'Agneau !",
+				"Dans l'épreuve et la souffrance,",
+				"Chantons la douce espérance",
+				"De l'entière délivrance :",
+				"Gloire à l'Agneau !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James Mountain",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg070",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af031",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/859",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

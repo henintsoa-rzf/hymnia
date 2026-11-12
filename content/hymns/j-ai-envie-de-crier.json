@@ -1,0 +1,68 @@
+{
+	"id": "j-ai-envie-de-crier",
+	"title": "J'ai envie de crier",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "908"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je ne peux que te dire merci !",
+				"Du profond de mon cœur, merci !",
+				"Avec mes simples mots, merci !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'ai envie de crier au monde entier",
+				"Les merveilles que tu as faites,",
+				"J'ai envie de crier au monde entier",
+				"Les merveilles que tu as faites."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Face à tant de bonté, merci !",
+				"Accepté par ta grâce, merci !",
+				"Toi et moi pour la vie, merci !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"J'ai envie de crier au monde entier",
+				"Les merveilles que tu as faites,",
+				"J'ai envie de crier au monde entier",
+				"Les merveilles que tu as faites",
+				"Envers moi qui ne mérite rien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matthieu Marvane",
+			"role": "music"
+		},
+		{
+			"name": "Matthieu Marvane",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem908",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

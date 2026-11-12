@@ -1,0 +1,73 @@
+{
+	"id": "parcourant-les-monts",
+	"title": "Parcourant les monts",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "695"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Parcourant les monts et les mers,",
+				"Ton amour vient comme une rivière",
+				"Et je t'ouvre tout grand mon cœur ;",
+				"Viens me guérir, ô mon Sauveur.",
+				"Ta vérité me réjouit",
+				"Et chaque jour je te bénis ;",
+				"Je chanterai sans fin",
+				"L'amour de Dieu pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je passerai ma vie à chanter,",
+				"Oui, chanter ton amour à jamais.",
+				"Je passerai ma vie à chanter,",
+				"Oui, chanter ton amour à jamais."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"J'ai envie de danser,",
+				"C'est un peu fou, je sais,",
+				"Mais ceux qui verront la lumière",
+				"Danseront de joie comme nous sur terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je passerai ma vie à chanter,",
+				"Oui, chanter ton amour à jamais.",
+				"Je passerai ma vie à chanter,",
+				"Oui, chanter ton amour à jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Martin James Smith",
+			"role": "music"
+		},
+		{
+			"name": "Martin James Smith",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem695",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

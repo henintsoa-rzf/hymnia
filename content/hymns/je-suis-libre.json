@@ -1,0 +1,77 @@
+{
+	"id": "je-suis-libre",
+	"title": "Je suis libre",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "966"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Par toi, l'aveugle voit.",
+				"Par toi, le muet chante.",
+				"Par toi, les morts revivent.",
+				"Par toi, nos cœurs adorent.",
+				"Par toi, les ténèbres s'enfuient.",
+				"Par toi, mon cœur crie :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis libre ! Je suis libre !",
+				"Libre de courir, (libre de courir,)",
+				"Libre de danser, (libre de danser,)",
+				"Libre de vivre pour toi, (libre de vivre pour toi.)",
+				"Je suis libre ! (je suis libre !)",
+				"Je suis libre ! (je suis libre !)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par toi, le royaume vient,",
+				"La bataille est gagnée.",
+				"Par toi, je n'ai plus peur,",
+				"Par toi, le prix payé.",
+				"Par toi, vient la victoire.",
+				"Par toi, mon cœur crie :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis libre ! Je suis libre !",
+				"Libre de courir, (libre de courir,)",
+				"Libre de danser, (libre de danser,)",
+				"Libre de vivre pour toi, (libre de vivre pour toi.)",
+				"Je suis libre ! (je suis libre !)",
+				"Je suis libre ! (je suis libre !)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jon Egan",
+			"role": "music"
+		},
+		{
+			"name": "Jon Egan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem966",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

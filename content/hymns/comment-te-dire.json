@@ -1,0 +1,79 @@
+{
+	"id": "comment-te-dire",
+	"title": "Comment te dire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "852"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je vois la beauté",
+				"d'un coucher de soleil,",
+				"Un art si raffiné me révèle tes merveilles.",
+				"Quand je sens l'immensité",
+				"du mystère des galaxies,",
+				"Mon cœur est bouleversé",
+				"par l'amour du Dieu infini."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comment te dire merci,",
+				"Comment ne pas t'abandonner ma vie ?",
+				"Alléluia, alléluia.",
+				"Comment t'aimer, te louer,",
+				"Faire de ce jour que tu nous as donné",
+				"Un alléluia, un alléluia, alléluia ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand j'entends l'histoire",
+				"d'un Dieu plein de gloire,",
+				"Vêtu d'humanité, souffrant à nos côtés.",
+				"Sur la croix, ils t'ont cloué,",
+				"elle ne pouvait te garder,",
+				"Tu es ressuscité,",
+				"par ta vie, tu as tout changé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comment te dire merci,",
+				"Comment ne pas t'abandonner ma vie ?",
+				"Alléluia, alléluia.",
+				"Comment t'aimer, te louer,",
+				"Faire de ce jour que tu nous as donné",
+				"Un alléluia, un alléluia, alléluia ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick ; Paul Baloche",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick ; Paul Baloche",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem852",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

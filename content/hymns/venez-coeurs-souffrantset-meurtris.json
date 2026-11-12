@@ -1,0 +1,109 @@
+{
+	"id": "venez-coeurs-souffrantset-meurtris",
+	"title": "Venez, cœurs souffrantset meurtris.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "233"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez, cœurs souffrants et meurtris,",
+				"Au médecin de l'âme.",
+				"Par Jésus vous serez guéris ;",
+				"Que votre voix l'acclame :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nom célébré par les élus,",
+				"Adoré par les anges,",
+				"Thème éternel de nos louanges,",
+				"Jésus ! Jésus ! Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En Christ nous sommes pardonnés ;",
+				"C'est la Bonne Nouvelle.",
+				"Par Lui les cieux nous sont donnés,",
+				"Et la vie éternelle."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nom célébré par les élus,",
+				"Adoré par les anges,",
+				"Thème éternel de nos louanges,",
+				"Jésus ! Jésus ! Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vous tous qui souffrez isolés,",
+				"Venez, Jésus vous aime ;",
+				"Pour le troupeau des désolés",
+				"Il s'est offert Lui-même."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nom célébré par les élus,",
+				"Adoré par les anges,",
+				"Thème éternel de nos louanges,",
+				"Jésus ! Jésus ! Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"D'un seul cœur, d'une seule voix,",
+				"Exaltons Sa victoire ;",
+				"Et, dans le ciel, du Roi des rois",
+				"Nous redirons la gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nom célébré par les élus,",
+				"Adoré par les anges,",
+				"Thème éternel de nos louanges,",
+				"Jésus ! Jésus ! Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John H. Stockton",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af233",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

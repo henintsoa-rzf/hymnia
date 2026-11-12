@@ -1,0 +1,99 @@
+{
+	"id": "voici-le-jour-jem-995",
+	"title": "Voici le jour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "995"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Cette ville gémit sans fin pour sa rédemption ;",
+				"Les gens courent après le bonheur.",
+				"Les champs sont déjà mûrs pour la moisson ;",
+				"On n'a jamais connu un temps meilleur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici le jour du Seigneur !",
+				"Voici l'appel de nos cœurs.",
+				"Chante : « Alléluia, allélu, amen ! »",
+				"Voici la terre pour le Roi !",
+				"Nous proclamons notre foi.",
+				"Chante : « Alléluia, allélu, amen ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous persévérons, armée pionnière,",
+				"Voyons refleurir le désert.",
+				"Nous prophétisons dans une vision :",
+				"Ossements desséchés, vous vivrez !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici le jour du Seigneur !",
+				"Voici l'appel de nos cœurs.",
+				"Chante : « Alléluia, allélu, amen ! »",
+				"Voici la terre pour le Roi !",
+				"Nous proclamons notre foi.",
+				"Chante : « Alléluia, allélu, amen ! »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Jésus vit en moi ; non, rien n'est impossible !",
+				"Jésus vit en toi ; tout est possible !",
+				"Jésus vit en moi ; non, rien n'est impossible !",
+				"Jésus vit en toi ; tout est possible !",
+				"Jésus vit en moi ; non, rien n'est impossible !",
+				"Jésus vit en toi ; tout est possible !",
+				"Jésus vit en moi ; non, rien n'est impossible !",
+				"Jésus vit en toi ; tout est possible !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici le jour du Seigneur !",
+				"Voici l'appel de nos cœurs.",
+				"Chante : « Alléluia, allélu, amen ! »",
+				"Voici la terre pour le Roi !",
+				"Nous proclamons notre foi.",
+				"Chante : « Alléluia, allélu, amen ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christopher Hopper",
+			"role": "music"
+		},
+		{
+			"name": "Christopher Hopper",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem995",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

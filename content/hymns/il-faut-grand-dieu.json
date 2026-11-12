@@ -1,0 +1,96 @@
+{
+	"id": "il-faut-grand-dieu",
+	"title": "Il faut, grand Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "34"
+		},
+		{
+			"hymnal": "adf",
+			"number": "4"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il faut, grand Dieu, que de mon cœur",
+				"La sainte ardeur Te glorifie ;",
+				"Qu'à toi, des mains et de la voix,",
+				"Devant les rois je psalmodie.",
+				"J'irai t'adorer, ô mon Dieu !",
+				"En ton saint lieu, D'un nouveau zèle ;",
+				"Je chanterai ta vérité,",
+				"Et ta bonté Toujours fidèle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton nom est célèbre à jamais",
+				"Par les effets De tes paroles ;",
+				"Quand je t'invoque, tu m'entends :",
+				"Quant il est temps, Tu me consoles.",
+				"Tous les rois viendront à tes pieds,",
+				"Humiliés, Prier sans cesse,",
+				"Sitôt qu'ils auront une fois",
+				"Ouï la voix De ta promesse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ils rempliront, par leurs concerts,",
+				"Tout l'univers De tes louanges ;",
+				"Les peuples qui les entendront",
+				"Admireront Tes faits étranges.",
+				"O grand Dieu qui, de tes hauts cieux,",
+				"En ces bas lieux Vois toute chose,",
+				"Quoique tu sembles être loin,",
+				"C'est sur ton soin Que tout repose."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Si mon cœur, dans l'adversité,",
+				"Est agité, Ta main m'appuie.",
+				"C'est ton bras qui sauve des mains",
+				"Des inhumains Ma triste vie.",
+				"Quand je suis le plus abattu,",
+				"C'est ta vertu Qui me relève ;",
+				"Ce qu'il t'a plu de commencer,",
+				"Sans se lasser Ta main l'achève !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg034",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af004",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": "je-confesse",
+	"title": "Je confesse",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "672"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je confesse",
+				"Devant les hommes, devant les anges:",
+				"« Jésus-Christ est mon Seigneur. »",
+				"Je proclame",
+				"Devant tous les peuples:",
+				"« Jésus est mort pour moi,",
+				"Je suis racheté. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aujourd'hui, Dieu agit avec puissance.",
+				"Il répand son Esprit sur ses enfants.",
+				"Dieu transforme nos nations",
+				"par l'intercession.",
+				"Il répond à la foi de ses enfants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je confesse",
+				"Devant les hommes, devant les anges:",
+				"« Jésus-Christ est mon Seigneur. »",
+				"Je proclame",
+				"Devant tous les peuples:",
+				"« Jésus est mort pour moi,",
+				"Je suis racheté. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem672",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

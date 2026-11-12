@@ -1,0 +1,85 @@
+{
+	"id": "o-dieu-dont-la-tendresse",
+	"title": "O Dieu dont la tendresse.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "155"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu, dont la tendresse",
+				"égale la puissance,",
+				"Toi qui daignas veiller",
+				"sur eux dès leur naissance,",
+				"Regarde ces enfants",
+				"devant toi prosternés,",
+				"Te louer pour les biens",
+				"que tu leur as donnés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour le foyer paisible",
+				"où tu les as fait naître,",
+				"Pour le Livre qui leur",
+				"apprit à te connaître,",
+				"Pour le bonheur présent,",
+				"pour le bonheur passé,",
+				"Pour ton cœur, que jamais",
+				"leurs fautes n'ont lassé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Aujourd'hui, de ton ciel,",
+				"demeure paternelle",
+				"Où tu leur as promis",
+				"une gloire éternelle,",
+				"Daigne, tandis qu'ils sont",
+				"à genoux devant toi,",
+				"Les baptiser d'amour,",
+				"d'espérance et de foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ah ! que leurs faibles mains",
+				"s'unissent dans la tienne,",
+				"Que dans tous leurs combats",
+				"ta grâce les soutienne,",
+				"Et, qu'à travers les bons,",
+				"comme les mauvais jours,",
+				"Ce soit de ton regard",
+				"qu'ils vivent toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ahasvérus Fritsch",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af155",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

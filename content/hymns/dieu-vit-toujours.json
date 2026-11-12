@@ -1,0 +1,81 @@
+{
+	"id": "dieu-vit-toujours",
+	"title": "Dieu vit toujours !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "340"
+		},
+		{
+			"hymnal": "adf",
+			"number": "512"
+		},
+		{
+			"hymnal": "cd",
+			"number": "274"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu vit toujours !",
+				"Mon cœur, attends son secours !",
+				"Il est bon, et sa tendresse",
+				"Vient en aide à ta douleur,",
+				"Par sa force et sa sagesse",
+				"Tout concourt à ton bonheur.",
+				"Dieu, de la souffrance même,",
+				"Fait sortir ton bien suprême.",
+				"Mon cœur, crois-le désormais,",
+				"Dieu, ton Dieu, ne meurt jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu vit toujours !",
+				"Mon cœur, attends son secours !",
+				"Sous ta croix, si tu chancelles,",
+				"Il la portera pour toi.",
+				"Il répond, quand tu l'appelles,",
+				"Même à ta tremblante foi.",
+				"Vers toi se tend son oreille,",
+				"Car sa grâce toujours veille.",
+				"Mon cœur, crois-le désormais,",
+				"Dieu, ton Dieu, ne meurt jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Sebastian Bach",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg340",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af512",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1305",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

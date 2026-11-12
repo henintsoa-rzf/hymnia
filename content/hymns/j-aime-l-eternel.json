@@ -1,0 +1,61 @@
+{
+	"id": "j-aime-l-eternel",
+	"title": "J'aime l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'aime l'Éternel, car Il entend ma voix ;",
+				"Il a penché son oreille vers moi ;",
+				"Je l'invoquerai toute ma vie.",
+				"J'aime l'Éternel, j'aime l'Éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il a délivré mon âme de la mort,",
+				"Mes yeux des larmes,",
+				"Mes pieds de la chute.",
+				"L'Éternel est miséricordieux et juste,",
+				"Il est plein de compassion,",
+				"Il est plein de compassion."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'aime l'Éternel, car Il entend ma voix ;",
+				"Il a penché son oreille vers moi ;",
+				"Je l'invoquerai toute ma vie.",
+				"J'aime l'Éternel, j'aime l'Éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Katrina Evers",
+			"role": "music"
+		},
+		{
+			"name": "Katrina Evers",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem001",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,137 @@
+{
+	"id": "allez-sur-les-places",
+	"title": "Allez sur les places",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "162"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ah Ah",
+				"Allez-vous en sur les places",
+				"et sur les parvis !",
+				"Allez-vous en sur les places,",
+				"Y chercher mes amis,",
+				"Tous mes enfants de lumière,",
+				"Qui vivent dans la nuit,",
+				"Tous les enfants de mon Père,",
+				"Séparés de lui.",
+				"Allez-vous en sur les places",
+				"Et soyez mes témoins chaque jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En quittant cette terre,",
+				"Je vous ai laissé",
+				"Un message de lumière.",
+				"Qu'en avez-vous donc fait ?",
+				"Quand je vois, aujourd'hui,",
+				"Mes enfants révoltés,",
+				"Aigris et douloureux",
+				"D'avoir pleuré."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allez-vous en sur les places",
+				"et sur les parvis !",
+				"Allez-vous en sur les places,",
+				"Y chercher mes amis,",
+				"Tous mes enfants de lumière,",
+				"Qui vivent dans la nuit,",
+				"Tous les enfants de mon Père,",
+				"Séparés de lui.",
+				"Allez-vous en sur les places",
+				"Et soyez mes témoins chaque jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En quittant cette terre,",
+				"Je vous ai donné",
+				"La justice de mon Père.",
+				"L'avez-vous partagée ?",
+				"Quand je vois, aujourd'hui,",
+				"Mes enfants qui ont peur,",
+				"Sans amour et sans foi",
+				"Et sans honneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allez-vous en sur les places",
+				"et sur les parvis !",
+				"Allez-vous en sur les places,",
+				"Y chercher mes amis,",
+				"Tous mes enfants de lumière,",
+				"Qui vivent dans la nuit,",
+				"Tous les enfants de mon Père,",
+				"Séparés de lui.",
+				"Allez-vous en sur les places",
+				"Et soyez mes témoins chaque jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En quittant cette terre,",
+				"Je vous avais dit:",
+				"Aimez-vous comme des frères.",
+				"M'avez-vous obéi ?",
+				"Quand je vois, aujourd'hui,",
+				"Mes enfants torturés,",
+				"Sans amis, sans espoir,",
+				"Abandonnés !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allez-vous en sur les places",
+				"et sur les parvis !",
+				"Allez-vous en sur les places,",
+				"Y chercher mes amis,",
+				"Tous mes enfants de lumière,",
+				"Qui vivent dans la nuit,",
+				"Tous les enfants de mon Père,",
+				"Séparés de lui.",
+				"Allez-vous en sur les places",
+				"Et soyez mes témoins chaque jour !",
+				"Chaque jour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Odette Vercruysse",
+			"role": "music"
+		},
+		{
+			"name": "Odette Vercruysse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem162",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

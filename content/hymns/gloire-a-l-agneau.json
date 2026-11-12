@@ -1,0 +1,39 @@
+{
+	"id": "gloire-a-l-agneau",
+	"title": "Gloire à l'Agneau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "412"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Gloire à l'Agneau, au Roi des cieux.",
+				"Notre cri de guerre, c'est de le louer.",
+				"Il est victorieux, pour toujours glorieux.",
+				"Son nom est Jésus, Il est Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Bilbrough",
+			"role": "music"
+		},
+		{
+			"name": "David Bilbrough",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem412",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,120 @@
+{
+	"id": "le-fils-de-dieu-vint-sur-la-terre",
+	"title": "Le Fils de Dieu vint sur la terre",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "125"
+		},
+		{
+			"hymnal": "adf",
+			"number": "507"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Fils de Dieu vint sur la terre",
+				"Mourir pour moi, car il m'aimait ;",
+				"Est-il de plus profond mystère,",
+				"D'amour plus grand et plus parfait ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus m'a tant aimé,",
+				"Jésus m'a tant aimé !",
+				"Il fut pour moi crucifié,",
+				"Jésus m'a tant aimé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour jamais ton sang pur efface",
+				"Mes péchés, mon iniquité ;",
+				"Et tu fais de moi, par ta grâce,",
+				"Un enfant de l'éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus m'a tant aimé,",
+				"Jésus m'a tant aimé !",
+				"Il fut pour moi ressuscité,",
+				"Jésus m'a tant aimé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu connais toute ma carrière,",
+				"Tu me conduis jour après jour,",
+				"Je marche à ta pure lumière,",
+				"Toujours gardé par ton amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus m'a tant aimé,",
+				"Jésus m'a tant aimé !",
+				"Il fut pour moi glorifié,",
+				"Jésus m'a tant aimé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus-Christ est toujours le même,",
+				"Il sauve encor parfaitement,",
+				"Qui que tu sois, ce Sauveur t'aime :",
+				"Viens, cœur brisé, viens confiant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus m'a tant aimé,",
+				"Jésus m'a tant aimé !",
+				"Il fut pour moi crucifié,",
+				"Jésus m'a tant aimé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Bentley DeForest Ackley",
+			"role": "music"
+		},
+		{
+			"name": "Mme E. Tissot-Robert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg125",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af507",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

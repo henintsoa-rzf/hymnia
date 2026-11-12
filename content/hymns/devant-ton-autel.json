@@ -1,0 +1,109 @@
+{
+	"id": "devant-ton-autel",
+	"title": "Devant ton autel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "742"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Regarde, ô Dieu, notre pays,",
+				"Son cœur est loin de toi.",
+				"Vois, ton Église implore et prie",
+				"Pour un retour à toi.",
+				"Dans ta compassion, souviens-toi de ta bonté",
+				"Et guéris ton corps blessé par le péché."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Devant ton autel, je viens t'adorer,",
+				"Toi, le seul Dieu saint,",
+				"Seul Dieu trois fois saint,",
+				"Créateur de la terre et des cieux.",
+				"Devant ton autel, je viens t'adorer,",
+				"Toi, le seul Dieu saint,",
+				"Seul Dieu trois fois saint,",
+				"Créateur de la terre et des cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Reviens régner sur la nation,",
+				"Les sources sont bouchées.",
+				"Le peuple a rejeté ton nom",
+				"En suivant ses pensées.",
+				"Dans ta compassion,",
+				"viens changer nos sentiments",
+				"Et pardonne le mépris de tes enfants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Devant ton autel, je viens t'adorer,",
+				"Toi, le seul Dieu saint,",
+				"Seul Dieu trois fois saint,",
+				"Créateur de la terre et des cieux.",
+				"Devant ton autel, je viens t'adorer,",
+				"Toi, le seul Dieu saint,",
+				"Seul Dieu trois fois saint,",
+				"Créateur de la terre et des cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Réveille-nous, Dieu éternel,",
+				"Pour suivre ta parole.",
+				"Nous voulons bâtir ton autel",
+				"Et brûler nos idoles.",
+				"Dans ta compassion,",
+				"revêts-nous de ton Esprit",
+				"Et conduis-nous sur le chemin de la vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Devant ton autel, je viens t'adorer,",
+				"Toi, le seul Dieu saint,",
+				"Seul Dieu trois fois saint,",
+				"Créateur de la terre et des cieux.",
+				"Devant ton autel, je viens t'adorer,",
+				"Toi, le seul Dieu saint,",
+				"Seul Dieu trois fois saint,",
+				"Créateur de la terre et des cieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem742",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

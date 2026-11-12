@@ -1,0 +1,136 @@
+{
+	"id": "je-m-abandonne",
+	"title": "Je m'abandonne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1093"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vois mon cœur grand ouvert.",
+				"Dans la joie, dans la peine,",
+				"Je t'apporte un sacrifice."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Entends mon chant, ma prière,",
+				"Vois mes mains élevées.",
+				"Je t'apporte un sacrifice.",
+				"Je t'apporte un sacrifice."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m'abandonne, je suis à toi,",
+				"Ma vie entière t'appartient.",
+				"Je me donne, je me donne.",
+				"Oh ! la vie sans toi n'existe pas,",
+				"Je le crois, je le proclame.",
+				"Je me donne, je me donne."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J'abandonne mon orgueil,",
+				"Je renonce à mes droits.",
+				"Prends ma vie, qu'elle brille pour toi.",
+				"Prends ma vie, qu'elle brille pour toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m'abandonne, je suis à toi,",
+				"Ma vie entière t'appartient.",
+				"Je me donne, je me donne.",
+				"Oh ! la vie sans toi n'existe pas,",
+				"Je le crois, je le proclame.",
+				"Je me donne, je me donne."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! je me donne, je me donne,",
+				"Je me donne."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Avec joie, je veux chanter :",
+				"« Tes voies, tes choix ! »",
+				"Avec joie, je veux chanter :",
+				"« Tes voies, tes choix ! »",
+				"Avec joie, je veux chanter :",
+				"« Tes voies, tes choix ! »",
+				"Toujours."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Avec joie, je veux chanter :",
+				"« Tes voies, tes choix ! »",
+				"Avec joie, je veux chanter :",
+				"« Tes voies, tes choix ! »",
+				"Avec joie, je veux chanter :",
+				"« Tes voies, tes choix ! »",
+				"Toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m'abandonne, je suis à toi,",
+				"Ma vie entière t'appartient.",
+				"Je me donne, je me donne.",
+				"Oh ! la vie sans toi n'existe pas,",
+				"Je le crois, je le proclame.",
+				"Je me donne, je me donne."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! je me donne, je me donne,",
+				"Je me donne."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Tomlin, Matt Redman, Jonas Myrin et Jason Ingram",
+			"role": "music"
+		},
+		{
+			"name": "Chris Tomlin, Matt Redman, Jonas Myrin et Jason Ingram",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1093",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

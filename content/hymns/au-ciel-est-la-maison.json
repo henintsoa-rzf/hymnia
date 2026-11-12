@@ -1,0 +1,120 @@
+{
+	"id": "au-ciel-est-la-maison",
+	"title": "Au ciel est la maison.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "435"
+		},
+		{
+			"hymnal": "cd",
+			"number": "365"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au ciel est la maison du Père,",
+				"Etincelante de beauté.",
+				"Tout en elle est gloire et lumière,",
+				"Ineffable félicité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vers le ciel, vers le ciel",
+				"Nous marchons vers le ciel,",
+				"C'est au ciel, c'est au ciel",
+				"Qu'est notre héritage éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Là le bonheur est sans mélange,",
+				"Là le péché ne règne plus ;",
+				"C'est l'amour et c'est la louange,",
+				"C'est la présence de Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vers le ciel, vers le ciel",
+				"Nous marchons vers le ciel,",
+				"C'est au ciel, c'est au ciel",
+				"Qu'est notre héritage éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans nos fatigues sur la terre,",
+				"Dans nos combats et nos douleurs,",
+				"C'est toi, douce maison du Père,",
+				"Que cherchent nos yeux et nos cœurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vers le ciel, vers le ciel",
+				"Nous marchons vers le ciel,",
+				"C'est au ciel, c'est au ciel",
+				"Qu'est notre héritage éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jours de peine ou jours d'allégresse,",
+				"Douce brise ou vents orageux,",
+				"Poussez-nous, poussez-nous sans cesse",
+				"Vers notre demeure des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vers le ciel, vers le ciel",
+				"Nous marchons vers le ciel,",
+				"C'est au ciel, c'est au ciel",
+				"Qu'est notre héritage éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Clinton Case",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af435",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1160",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

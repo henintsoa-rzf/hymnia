@@ -1,0 +1,62 @@
+{
+	"id": "le-sauveur-est-ressuscite",
+	"title": "Le Sauveur est ressuscité.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "124"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Sauveur est ressuscité !",
+				"Le Sauveur est ressuscité !",
+				"Alléluia ! l'enfer succombe ;",
+				"Plein de gloire et de majesté,",
+				"Jésus triomphe de la tombe !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ames en deuil, ne pleurez pas !",
+				"Ames en deuil, ne pleurez pas !",
+				"Jésus est votre délivrance ;",
+				"Dans la nuit sombre du trépas",
+				"Il fait rayonner l'espérance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, gloire à Toi, mon Rédempteur !",
+				"Oui, gloire à Toi, mon Rédempteur !",
+				"Qu'à ton nom tout genou fléchisse,",
+				"Et que la terre, ô mon Sauveur,",
+				"Pour t'adorer au ciel s'unisse."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Martin Luther",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Jacques Hoseman",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af124",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

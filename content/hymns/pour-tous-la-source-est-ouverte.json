@@ -1,0 +1,94 @@
+{
+	"id": "pour-tous-la-source-est-ouverte",
+	"title": "Pour tous la source est ouverte.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "278"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour tous la source est ouverte",
+				"De la paix et du salut,",
+				"À tous la grâce est offerte",
+				"Car pour tous Jésus mourut.",
+				"Quelle grâce !",
+				"Quelle grâce !",
+				"Pour nous tous Jésus mourut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O merveille de la grâce !",
+				"L'eau vive coule à pleins bords ;",
+				"Elle lave, emporte, efface",
+				"Mes péchés et mes remords.",
+				"Quelle grâce !",
+				"Quelle grâce !",
+				"L'eau vive coule à pleins bords"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jusqu'au fond le plus intime,",
+				"De mon cœur et mon esprit,",
+				"Ton sang, ô sainte Victime,",
+				"Me pénètre et me guérit.",
+				"Quelle grâce !",
+				"Quelle grâce !",
+				"Le sang du Christ me guérit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Amour, amour sans exemple !",
+				"Mon Créateur et mon Roi",
+				"A fait de mon corps son temple,",
+				"Il daigne habiter en moi.",
+				"Quelle grâce !",
+				"Quelle grâce !",
+				"Dieu lui-même habite en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Ah ! désormais, plus de doute,",
+				"Plus de honte, ni de peur.",
+				"La Grâce éclaire ma route,",
+				"J'y marche avec mon Sauveur,",
+				"Quelle grâce !",
+				"Quelle grâce !",
+				"Je marche avec mon Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Webbe",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af278",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

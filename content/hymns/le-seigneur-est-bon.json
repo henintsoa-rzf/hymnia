@@ -1,0 +1,139 @@
+{
+	"id": "le-seigneur-est-bon",
+	"title": "Le Seigneur est bon",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "453"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon.",
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sa colère dure un instant,",
+				"Sa faveur dure à jamais.",
+				"Sa colère dure un instant,",
+				"Sa faveur dure à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon.",
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Son amour de père est en nous,",
+				"Et nous partageons sa grâce.",
+				"Son amour de père est en nous,",
+				"Et nous partageons sa grâce."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon.",
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L'ennemi recule à sa voix,",
+				"Dieu se lève à nos louanges.",
+				"L'ennemi recule à sa voix,",
+				"Dieu se lève à nos louanges."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon.",
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"L'allégresse a chassé l'ombre,",
+				"La terre tremble sous nos danses.",
+				"L'allégresse a chassé l'ombre,",
+				"La terre tremble sous nos danses."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon.",
+				"Sautez de joie, chantez à Dieu,",
+				"Célébrez son nom.",
+				"Enflammez-vous, acclamez-le,",
+				"Le Seigneur est bon."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Christensen",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem453",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

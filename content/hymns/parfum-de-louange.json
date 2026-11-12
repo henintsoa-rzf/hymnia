@@ -1,0 +1,69 @@
+{
+	"id": "parfum-de-louange",
+	"title": "Parfum de louange",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "814"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Même si mon chant ne peut se comparer",
+				"Au chœur des anges qui t'entourent,",
+				"Si ma musique n'est qu'un faible reflet",
+				"De la beauté de ton amour,",
+				"Je veux que le son de ma voix,",
+				"Ma vie entière soit tout à toi,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comme un parfum de louange pour toi.",
+				"Un parfum de louange pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si les merveilles de toute la création",
+				"S'effacent devant ta splendeur,",
+				"Les paysages, le fond des océans",
+				"Sont un hommage à ta grandeur.",
+				"Ma seule réponse à ce mystère,",
+				"C'est d'élever à toi, mon Père,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un parfum de louange pour toi.",
+				"Un parfum de louange pour toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem814",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

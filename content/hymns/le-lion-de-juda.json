@@ -1,0 +1,104 @@
+{
+	"id": "le-lion-de-juda",
+	"title": "Le lion de Juda",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "781"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Nous élevons la voix d'un même cœur,",
+				"Proclamant la victoire du Seigneur.",
+				"Nous ne craignons pas d'annoncer sa parole,",
+				"Proclamant la victoire du Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est notre glorieux vainqueur,",
+				"Qui guérit, qui sauve et délivre.",
+				"Il est notre glorieux vainqueur,",
+				"Qui a conquis la mort et l'ennemi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le lion de Juda ; le lion de Juda,",
+				"le lion de Juda brise les chaînes.",
+				"Le lion de Juda ; le lion de Juda,",
+				"le lion de Juda brise les chaînes.",
+				"Nous élevons la voix d'un même cœur,",
+				"Proclamant la victoire du Seigneur.",
+				"Nous ne craignons pas d'annoncer sa parole,",
+				"Proclamant la victoire du Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est notre glorieux vainqueur,",
+				"Qui guérit, qui sauve et délivre.",
+				"Il est notre glorieux vainqueur,",
+				"Qui a conquis la mort et l'ennemi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le lion de Juda ; le lion de Juda,",
+				"le lion de Juda brise les chaînes.",
+				"Le lion de Juda ; le lion de Juda,",
+				"le lion de Juda brise les chaînes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est notre glorieux vainqueur,",
+				"Qui guérit, qui sauve et délivre.",
+				"Il est notre glorieux vainqueur,",
+				"Qui a conquis la mort et l'ennemi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le lion de Juda ; le lion de Juda,",
+				"le lion de Juda brise les chaînes.",
+				"Le lion de Juda ; le lion de Juda,",
+				"le lion de Juda brise les chaînes.",
+				"Brise les chaînes, brise les chaînes."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dave Bell",
+			"role": "music"
+		},
+		{
+			"name": "Dave Bell",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem781",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

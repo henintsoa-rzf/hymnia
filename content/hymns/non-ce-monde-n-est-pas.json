@@ -1,0 +1,85 @@
+{
+	"id": "non-ce-monde-n-est-pas",
+	"title": "Non, ce monde n'est pas.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "423"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Non, ce monde n'est pas",
+				"Notre patrie !",
+				"La joie est ici-bas,",
+				"Trop tôt flétrie !",
+				"C'est la terre des pleurs,",
+				"Des chutes, des douleurs :",
+				"Elle doit être ailleurs,",
+				"Notre patrie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Comme un torrent d'été",
+				"Coule ma vie,",
+				"Mais je suis emporté",
+				"Vers la patrie !",
+				"Conduit par le Dieu fort,",
+				"J'avance vers la mort :",
+				"Elle sera le port",
+				"De la patrie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sans crainte, désormais,",
+				"Quoique meurtrie,",
+				"Mon âme marche en paix",
+				"Vers la patrie !",
+				"Et lorsque je suis las,",
+				"Une voix dit tout bas :",
+				"« Courage ! encore un pas",
+				"Vers la patrie ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Auprès de ton Sauveur,",
+				"Ame ravie,",
+				"Tu verras le bonheur",
+				"Et la patrie !",
+				"Paix, amour, liberté,",
+				"Joie, immortalité,",
+				"Dans la sainte Cité",
+				"Dans la patrie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Arthur Sullivan",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af423",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

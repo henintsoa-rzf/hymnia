@@ -1,0 +1,101 @@
+{
+	"id": "la-parfaite-victoire",
+	"title": "La parfaite victoire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "607"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La parfaite victoire",
+				"Que désire mon cœur,",
+				"Je la demande pour ta gloire",
+				"O Jésus, mon Sauveur !",
+				"Que mon orgueil périsse",
+				"Avec ma lâcheté !",
+				"Je m'offre pour ton saint service,",
+				"En pleine liberté !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m'abandonne à Toi,",
+				"Mon Rédempteur, mon Roi !",
+				"Pour accomplir ta volonté",
+				"Je m'abandonne à Toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Triompher de moi-même,",
+				"Être sanctifié,",
+				"Voilà ma prière suprême,",
+				"Divin Crucifié !",
+				"Que faut-il que je fasse",
+				"Pour être comme Toi ?",
+				"Accepter pleinement ta grâce",
+				"Et Te suivre avec foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m'abandonne à Toi,",
+				"Mon Rédempteur, mon Roi !",
+				"Pour accomplir ta volonté",
+				"Je m'abandonne à Toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Me voici donc, bon Maître,",
+				"Conquis par ton amour !",
+				"À Toi ma vie, à Toi mon être",
+				"Tout entier, dès ce jour !",
+				"Que m'offrirait le monde",
+				"Qui vaille ta faveur ?",
+				"Ah ! Que mon cœur au tien réponde,",
+				"Jésus, parfait Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je me repose en Toi,",
+				"Mon Rédempteur, mon Roi !",
+				"Ta grâce, ô Seigneur, me suffit,",
+				"Donne-moi ton Esprit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Isaac Baker Woodbury",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af607",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

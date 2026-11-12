@@ -1,0 +1,93 @@
+{
+	"id": "a-celui-qui-nous-a-laves",
+	"title": "À celui qui nous a lavés",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "60"
+		},
+		{
+			"hymnal": "adf",
+			"number": "47"
+		},
+		{
+			"hymnal": "cd",
+			"number": "43"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À Celui qui nous a lavés,",
+				"Qui nous a tant aimés,",
+				"Par son sang nous a rachetés,",
+				"Soit gloire, gloire, gloire,",
+				"Louange à jamais !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chantons le cantique nouveau",
+				"À l'honneur de l'Agneau,",
+				"Qui sortit vainqueur du tombeau,",
+				"Oui, gloire, gloire, gloire,",
+				"Louange à jamais !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Adorons le Triomphateur,",
+				"Jésus notre Sauveur,",
+				"Sur tous ses ennemis vainqueur,",
+				"Oui, gloire, gloire, gloire,",
+				"Louange à jamais !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Du ciel bientôt Il reviendra,",
+				"Et tout œil le verra,",
+				"Le monde entier l'adorera,",
+				"Oui, gloire, gloire, gloire,",
+				"Louange à jamais !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Shrubsole",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg060",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af047",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/855",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

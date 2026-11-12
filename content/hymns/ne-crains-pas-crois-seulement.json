@@ -1,0 +1,55 @@
+{
+	"id": "ne-crains-pas-crois-seulement",
+	"title": "Ne crains pas, crois seulement",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "36"
+		},
+		{
+			"hymnal": "cd",
+			"number": "201",
+			"title": "Ne crains point, crois seulement"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ne crains point, crois seulement.",
+				"Ne crains point, crois seulement.",
+				"Toutes choses sont possibles",
+				"À celui qui croit.",
+				"Regarde à ton Sauveur,",
+				"Il est toujours vainqueur.",
+				"Toutes choses sont possibles",
+				"À celui qui croit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem036",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1164",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

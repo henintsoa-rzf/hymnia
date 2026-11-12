@@ -1,0 +1,65 @@
+{
+	"id": "a-toi-jesus-je-me-donne",
+	"title": "À toi, Jésus, je me donne",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "232"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À toi, Jésus je me donne,",
+				"Je me donne tout entier !",
+				"Ton amour est ma couronne,",
+				"Ta force est mon bouclier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À Jésus je m'abandonne,",
+				"Ce qu'il me dit, je le crois;",
+				"Et je prends ce qu'il me donne,",
+				"La couronne avec la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je te donne mes journées,",
+				"Mes succès ou mes revers;",
+				"Je te donne mes années,",
+				"Mes printemps et mes hivers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans la joie ou la souffrance",
+				"Je veux te suivre en tout lieu;",
+				"Toute ma vie à l'avance,",
+				"Je te l'apporte, Ô mon Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "E. Monod",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1061",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,57 @@
+{
+	"id": "que-le-seigneur-te-benisse",
+	"title": "Que le Seigneur te bénisse",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "702"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que le Seigneur te bénisse et te garde,",
+				"Qu'il fasse luire sa face sur toi,",
+				"Qu'il fasse briller sa lumière en toi.",
+				"Que le Seigneur te bénisse et te garde,",
+				"Qu'il t'accorde sa paix,",
+				"Qu'il t'accorde sa grâce,",
+				"Lui, le Dieu d'Israël,",
+				"Lui, le Dieu d'Israël."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que le Seigneur te bénisse et te garde,",
+				"Qu'il fasse luire sa face sur toi,",
+				"Qu'il fasse briller sa lumière en toi.",
+				"Que le Seigneur te bénisse et te garde,",
+				"Qu'il t'accorde sa paix,",
+				"Qu'il t'accorde sa grâce,",
+				"Lui, le Dieu d'Israël,",
+				"Lui, le grand Dieu d'Israël."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem702",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

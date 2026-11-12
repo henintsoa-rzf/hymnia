@@ -1,0 +1,101 @@
+{
+	"id": "generations",
+	"title": "Générations",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "985"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tout au long, tout au long des générations,",
+				"Pour un seul être humain ou pour des millions,",
+				"Dieu n'a jamais renié ses promesses.",
+				"D'aussi loin, d'aussi loin que l'on se souvienne,",
+				"Sa bonté, son amour sont restés les mêmes.",
+				"Il n'a jamais refusé sa tendresse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ce Dieu est notre Dieu,",
+				"la lumière de nos jours.",
+				"Ce Dieu est notre Dieu,",
+				"de toujours à toujours.",
+				"De génération en génération,",
+				"nous fêterons ta fidélité.",
+				"De génération en génération,",
+				"nous chanterons tes bontés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout au long, tout au long des générations,",
+				"Du plus jeune au plus vieux, des filles aux garçons,",
+				"Chacun a goûté à sa bienveillance.",
+				"Nous dirons, redirons ce que Dieu a fait,",
+				"Etonnant, surprenant mais toujours parfait.",
+				"Il n'a jamais oublié son alliance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ce Dieu est notre Dieu,",
+				"la lumière de nos jours.",
+				"Ce Dieu est notre Dieu,",
+				"de toujours à toujours.",
+				"De génération en génération,",
+				"nous fêterons ta fidélité.",
+				"De génération en génération,",
+				"nous chanterons tes bontés."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Que les anciens disent aux plus jeunes",
+				"Ce que l'Éternel a fait dans leur vie,",
+				"Pour qu'à leur tour ils se souviennent",
+				"Et qu'ils soient les témoins d'aujourd'hui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De génération en génération,",
+				"nous fêterons ta fidélité.",
+				"De génération en génération,",
+				"nous chanterons tes bontés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham ; Christine Reymond",
+			"role": "music"
+		},
+		{
+			"name": "David Durham ; Christine Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem985",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

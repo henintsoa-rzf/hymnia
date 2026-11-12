@@ -1,0 +1,71 @@
+{
+	"id": "la-vie-pour-moi",
+	"title": "La vie pour moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "293"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La vie pour moi, Seigneur Jésus,",
+				"C'est te connaître.",
+				"La vie pour moi, Seigneur Jésus,",
+				"C'est te connaître.",
+				"Toujours mieux te connaître,",
+				"Toujours mieux te connaître.",
+				"La vie pour moi, Seigneur Jésus,",
+				"C'est te connaître."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La vie pour moi, Seigneur Jésus,",
+				"C'est de t'aimer.",
+				"La vie pour moi, Seigneur Jésus,",
+				"C'est de t'aimer.",
+				"Oui, toujours mieux t'aimer,",
+				"Oui, toujours mieux t'aimer.",
+				"La vie pour moi, Seigneur Jésus,",
+				"C'est de t'aimer"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La vie pour moi, Seigneur Jésus,",
+				"C'est te servir.",
+				"La vie pour moi, Seigneur Jésus,",
+				"C'est te servir.",
+				"Toujours mieux te servir,",
+				"Toujours mieux te servir.",
+				"La vie pour moi, Seigneur Jésus,",
+				"C'est te servir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mark Pendergrass",
+			"role": "music"
+		},
+		{
+			"name": "Mark Pendergrass",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem293",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,80 @@
+{
+	"id": "jesus-vit-voici-ton-roi",
+	"title": "Jésus vit ! voici ton Roi !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "139"
+		},
+		{
+			"hymnal": "adf",
+			"number": "123"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus vit ! Voici ton Roi,",
+				"O Mort dont j'étais l'esclave !",
+				"Jésus vit, et par la foi",
+				"Je suis libre et je te brave !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus vit, et nous vivrons !",
+				"D'espoir, notre cœur palpite :",
+				"Oui, bientôt nous entrerons",
+				"Au ciel où Dieu même habite !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus vit ! C'est par amour",
+				"Qu'il mourut pour nous, mon frère.",
+				"Ah ! sachons à notre tour",
+				"Souffrir pour lui sur la terre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus vit ! Il est là-haut,",
+				"Il est aussi dans notre âme.",
+				"Il va revenir bientôt ;",
+				"Ah ! que son peuple l'acclame !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air anglais",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg139",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af123",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

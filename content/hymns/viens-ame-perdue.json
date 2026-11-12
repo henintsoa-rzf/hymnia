@@ -1,0 +1,124 @@
+{
+	"id": "viens-ame-perdue",
+	"title": "Viens, âme perdue.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "215"
+		},
+		{
+			"hymnal": "cd",
+			"number": "164"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, âme perdue,",
+				"Viens à ton Sauveur !",
+				"Vois sa main tendue,",
+				"Saisis la sans peur.",
+				"C'est Lui qui t'invite ;",
+				"Réponds à sa voix :",
+				"Si ton cœur hésite,",
+				"Regarde à la croix !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, la victoire,",
+				"Tu l'auras,",
+				"Et pour sa gloire",
+				"Tu vivras.",
+				"Jésus t'appelle :",
+				"En avant !",
+				"Il est fidèle",
+				"Et puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens ! son sang expie",
+				"Ton iniquité,",
+				"Et donne la vie",
+				"Pour l'éternité.",
+				"Il meurt à ta place,",
+				"Il souffrit pour toi,",
+				"Accepte sa grâce",
+				"Et dis avec foi :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, la victoire,",
+				"Je l'aurai,",
+				"Et pour sa gloire",
+				"Je vivrai",
+				"Jésus m'appelle :",
+				"En avant !",
+				"Il est fidèle",
+				"Et puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À Toi je veux être,",
+				"À Toi pour toujours !",
+				"Jésus sois mon Maître,",
+				"Ma paix, mon secours.",
+				"Ma seule espérance,",
+				"Mon unique bien,",
+				"Sois ma délivrance,",
+				"Mon ferme soutien !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, la victoire,",
+				"Nous l'aurons,",
+				"Et pour sa gloire",
+				"Nous vivrons.",
+				"Une couronne",
+				"Nous attend ;",
+				"Jésus la donne :",
+				"En avant !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Howard Doane",
+			"role": "music"
+		},
+		{
+			"name": "Ernest Favre",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af215",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/997",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

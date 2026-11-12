@@ -1,0 +1,145 @@
+{
+	"id": "a-jamais",
+	"title": "À jamais",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1125"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les étoiles ont pleuré, le soleil s'est voilé,",
+				"Car le Sauveur du monde était tombé.",
+				"Son corps sur une croix,",
+				"Son sang versé pour moi,",
+				"Sur ses épaules, le poids de nos péchés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À son tout dernier souffle, le ciel s'est détourné.",
+				"Le Fils de Dieu gisait dans les ténèbres,",
+				"Une guerre dans le tombeau livrée contre la mort",
+				"Pour terrasser l'enfer à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors la terre trembla, la pierre fut roulée.",
+				"L'amour parfait n'a pu être vaincu.",
+				"Mort, où est ton pouvoir ?",
+				"Le Roi ressuscité a remporté la victoire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À jamais il est ressuscité,",
+				"À jamais il est glorifié,",
+				"À jamais il est élevé,",
+				"Il est vivant, il est vivant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À jamais il est ressuscité,",
+				"À jamais il est glorifié,",
+				"À jamais il est élevé,",
+				"Il est vivant, il est vivant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors la terre trembla, la pierre fut roulée.",
+				"L'amour parfait n'a pu être vaincu.",
+				"Mort, où est ton pouvoir ?",
+				"Le Roi ressuscité a remporté la victoire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À jamais il est ressuscité,",
+				"À jamais il est glorifié,",
+				"À jamais il est élevé,",
+				"Il est vivant, il est vivant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À jamais il est ressuscité,",
+				"À jamais il est glorifié,",
+				"À jamais il est élevé,",
+				"Il est vivant, il est vivant."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Nous chantons alléluia,",
+				"Chantons alléluia, chantons alléluia,",
+				"L'Agneau a triomphé !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Nous chantons alléluia,",
+				"Chantons alléluia, chantons alléluia,",
+				"L'Agneau a triomphé !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Nous chantons alléluia,",
+				"Chantons alléluia, chantons alléluia."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ô mort, où est ton pouvoir ?",
+				"Le Roi ressuscité a triomphé !",
+				"Il est vainqueur ! Oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brian Johnson, Kari Jobe, Jenn Johnson, Gabriel Wilson, Joel Taylor et Christa Black Giffort",
+			"role": "music"
+		},
+		{
+			"name": "Brian Johnson, Kari Jobe, Jenn Johnson, Gabriel Wilson, Joel Taylor et Christa Black Giffort",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1125",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

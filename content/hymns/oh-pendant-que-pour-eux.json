@@ -1,0 +1,86 @@
+{
+	"id": "oh-pendant-que-pour-eux",
+	"title": "Oh ! pendant que pour eux.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "613A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! pendant que pour eux",
+				"l'Église est en prière,",
+				"Toi, notre divin Chef, prête-leur ton appui ;",
+				"Que sur tes serviteurs",
+				"entrant dans la carrière",
+				"Ton Esprit descende aujourd'hui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Eux que le Roi des rois à son service appelle,",
+				"Confesseurs et témoins du nom qui nous unit,",
+				"Recevez en ce jour une onction nouvelle ;",
+				"Servez fidèlement un Maître si fidèle :",
+				"L'Église vous consacre et Jésus vous bénit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que des armes de Dieu",
+				"l'Esprit-Saint vous revête,",
+				"Car la lice aujourd'hui s'ouvre devant vos pas !",
+				"Pendant que vers le ciel",
+				"montent nos chants de fête,",
+				"L'ennemi nous observe",
+				"et dans l'ombre s'apprête",
+				"À vous livrer demain de périlleux combats."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Contre vous que le monde entier se coalise,",
+				"Que la lutte soit longue et l'ennemi jaloux,",
+				"Qu'import ? Votre Chef, c'est le Chef de l'Église.",
+				"Soldats de Jésus-Christ, la victoire est promise",
+				"À qui sent sa faiblesse et combat à genoux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"En avant pour souffrir,",
+				"pour aimer et pour croire !",
+				"Si la crainte parfois venait troubler vos cœurs,",
+				"Voyez briller là-haut la couronne de gloire.",
+				"Car ce n'est pas de vous que dépend la victoire,",
+				"C'est la grâce de Dieu",
+				"qui vous rendra vainqueur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af613a",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

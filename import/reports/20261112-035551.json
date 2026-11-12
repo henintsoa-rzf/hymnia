@@ -1,0 +1,1971 @@
+{
+	"runId": "20261112-035551",
+	"startedAt": "2026-11-12T03:55:51.582Z",
+	"finishedAt": "2026-11-12T03:55:52.736Z",
+	"args": {
+		"source": "cdl",
+		"hymnals": [
+			"cd"
+		],
+		"offline": true,
+		"dryRun": false
+	},
+	"perSource": {
+		"cdl": {
+			"status": "ok",
+			"pages": 368,
+			"failures": 0,
+			"reasons": {}
+		}
+	},
+	"perHymnal": {
+		"cd": {
+			"new": [
+				{
+					"number": "3",
+					"hymnId": "pere-tendre-et-secourable",
+					"title": "Père tendre et secourable"
+				},
+				{
+					"number": "4",
+					"hymnId": "beni-soit-le-nom-du-pere",
+					"title": "Béni soit le nom du Père…"
+				},
+				{
+					"number": "5",
+					"hymnId": "benis-ton-dieu-sans-cesse",
+					"title": "Bénis ton Dieu sans cesse"
+				},
+				{
+					"number": "6",
+					"hymnId": "vous-qui-sur-la-terre-habitez-cd-6",
+					"title": "Vous qui sur la terre habitez"
+				},
+				{
+					"number": "25",
+					"hymnId": "mon-dieu-possede-toutes-choses",
+					"title": "Mon Dieu possède toutes choses"
+				},
+				{
+					"number": "27",
+					"hymnId": "vous-creatures-du-grand-dieu",
+					"title": "Vous créatures du grand Dieu"
+				},
+				{
+					"number": "31",
+					"hymnId": "eternel-mon-rocher",
+					"title": "Éternel, mon rocher!"
+				},
+				{
+					"number": "41",
+					"hymnId": "dans-mon-coeur-chante-une-melodie",
+					"title": "Dans mon coeur chante une mélodie"
+				},
+				{
+					"number": "50",
+					"hymnId": "par-tous-les-saints-glorifies",
+					"title": "Par tous les saints glorifiés"
+				},
+				{
+					"number": "52",
+					"hymnId": "o-merveilleuse-histoire",
+					"title": "Ô merveilleuse histoire"
+				},
+				{
+					"number": "55",
+					"hymnId": "gloire-a-ton-nom-cd-55",
+					"title": "Gloire à ton nom"
+				},
+				{
+					"number": "57",
+					"hymnId": "tout-dit-qu-il-est-merveilleux",
+					"title": "Tout dit qu'il est merveilleux"
+				},
+				{
+					"number": "58",
+					"hymnId": "je-veux-chanter-louer",
+					"title": "Je veux chanter, louer..."
+				},
+				{
+					"number": "59",
+					"hymnId": "tout-l-appellera-admirable",
+					"title": "Tout l'appellera \"admirable\""
+				},
+				{
+					"number": "60",
+					"hymnId": "o-nom-divin-mon-redempteur",
+					"title": "Ô nom divin, mon rédempteur"
+				},
+				{
+					"number": "64",
+					"hymnId": "son-nom-est-merveilleux",
+					"title": "Son nom est merveilleux"
+				},
+				{
+					"number": "70",
+					"hymnId": "tout-est-en-christ",
+					"title": "Tout est en Christ"
+				},
+				{
+					"number": "78",
+					"hymnId": "tu-laissas-au-ciel-trone-et-couronne",
+					"title": "Tu laissas au ciel trône et couronne"
+				},
+				{
+					"number": "79",
+					"hymnId": "bethleem-toi-la-moindre-des-cites",
+					"title": "Bethléem... toi la moindre des cités"
+				},
+				{
+					"number": "83",
+					"hymnId": "dans-une-etable-o-mystere",
+					"title": "Dans une étable, ô mystère!"
+				},
+				{
+					"number": "87",
+					"hymnId": "palais-d-ivoire",
+					"title": "Palais d'ivoire"
+				},
+				{
+					"number": "91",
+					"hymnId": "chantons-noel",
+					"title": "Chantons noël !"
+				},
+				{
+					"number": "96",
+					"hymnId": "vois-la-bas-mettre-le-seigneur-en-croix",
+					"title": "Vois, là-bas, mettre le Seigneur en croix !"
+				},
+				{
+					"number": "97",
+					"hymnId": "jesus-quitta-le-trone-de-son-pere",
+					"title": "Jésus quitta le trône de son Père!"
+				},
+				{
+					"number": "99",
+					"hymnId": "adorable-mystere",
+					"title": "Adorable mystère"
+				},
+				{
+					"number": "101",
+					"hymnId": "devant-mon-ame-confondue",
+					"title": "Devant mon âme confondue"
+				},
+				{
+					"number": "103",
+					"hymnId": "portant-sa-croix",
+					"title": "Portant sa croix"
+				},
+				{
+					"number": "105",
+					"hymnId": "attache-a-la-croix-pour-moi",
+					"title": "Attaché à la croix pour moi"
+				},
+				{
+					"number": "107",
+					"hymnId": "que-toute-la-terre-acclame",
+					"title": "Que toute la terre acclame"
+				},
+				{
+					"number": "109",
+					"hymnId": "gloire-a-l-agneau-de-dieu",
+					"title": "Gloire à l’agneau de Dieu !"
+				},
+				{
+					"number": "117",
+					"hymnId": "lorsque-le-ciel-retentit",
+					"title": "Lorsque le ciel retentit"
+				},
+				{
+					"number": "118",
+					"hymnId": "je-sais-que-mon-redempteur-vit",
+					"title": "Je sais que mon rédempteur vit"
+				},
+				{
+					"number": "122",
+					"hymnId": "viens-esprit-saint",
+					"title": "Viens, esprit saint"
+				},
+				{
+					"number": "124",
+					"hymnId": "priere-de-pentecote",
+					"title": "Prière de pentecôte"
+				},
+				{
+					"number": "130",
+					"hymnId": "chantons-du-sauveur-la-tendresse",
+					"title": "Chantons du sauveur la tendresse"
+				},
+				{
+					"number": "137",
+					"hymnId": "le-bonheur-est-en-lui",
+					"title": "Le bonheur est en lui"
+				},
+				{
+					"number": "141",
+					"hymnId": "a-golgotha",
+					"title": "À golgotha"
+				},
+				{
+					"number": "146",
+					"hymnId": "as-tu-trouve-coeur-en-detresse",
+					"title": "As-tu trouvé, coeur en détresse ?"
+				},
+				{
+					"number": "151",
+					"hymnId": "a-la-croix-ou-mourut-mon-sauveur",
+					"title": "À la croix, où mourut mon sauveur"
+				},
+				{
+					"number": "152",
+					"hymnId": "arrete-o-pecheur",
+					"title": "Arrête, ô pécheur !"
+				},
+				{
+					"number": "154",
+					"hymnId": "de-jesus-entends-tu-la-voix",
+					"title": "De Jésus, entends-tu la voix ?"
+				},
+				{
+					"number": "157",
+					"hymnId": "il-est-tout-pour-moi-cd-157",
+					"title": "Il est tout pour moi"
+				},
+				{
+					"number": "168",
+					"hymnId": "o-jour-heureux",
+					"title": "Ô jour heureux ?"
+				},
+				{
+					"number": "169",
+					"hymnId": "je-suis-sauve",
+					"title": "Je suis sauvé !"
+				},
+				{
+					"number": "171",
+					"hymnId": "o-toi-qui-cherches-le-pardon",
+					"title": "Ô toi qui cherches le pardon"
+				},
+				{
+					"number": "173",
+					"hymnId": "jesus-prit-mon-peche",
+					"title": "Jésus prit mon péché"
+				},
+				{
+					"number": "174",
+					"hymnId": "doucement-tendrement",
+					"title": "Doucement, tendrement..."
+				},
+				{
+					"number": "179",
+					"hymnId": "rejouissez-vous",
+					"title": "Réjouissez-vous"
+				},
+				{
+					"number": "181",
+					"hymnId": "qu-as-tu-donne-pour-moi",
+					"title": "Qu’as-tu donné pour moi ?"
+				},
+				{
+					"number": "188",
+					"hymnId": "viens-sur-mon-coeur-te-reposer",
+					"title": "Viens sur mon coeur te reposer..."
+				},
+				{
+					"number": "192",
+					"hymnId": "loin-du-sauveur-pourquoi-mon-frere",
+					"title": "Loin du sauveur, pourquoi, mon frère... ?"
+				},
+				{
+					"number": "195",
+					"hymnId": "eternel-tu-fus-notre-appui",
+					"title": "Éternel, tu fus notre appui"
+				},
+				{
+					"number": "199",
+					"hymnId": "le-seigneur-m-aime-cd-199",
+					"title": "Le Seigneur m’aime"
+				},
+				{
+					"number": "203",
+					"hymnId": "promesses",
+					"title": "Promesses"
+				},
+				{
+					"number": "206",
+					"hymnId": "merveilleux-changement",
+					"title": "Merveilleux changement"
+				},
+				{
+					"number": "208",
+					"hymnId": "dis-tout-a-jesus",
+					"title": "Dis tout à Jésus !"
+				},
+				{
+					"number": "212",
+					"hymnId": "au-pied-de-la-sainte-croix",
+					"title": "Au pied de la sainte croix"
+				},
+				{
+					"number": "213",
+					"hymnId": "sonde-moi-cd-213",
+					"title": "Sonde-moi"
+				},
+				{
+					"number": "215",
+					"hymnId": "seigneur-en-qui-seul-j-espere",
+					"title": "Seigneur, en qui seul j’esPère"
+				},
+				{
+					"number": "226",
+					"hymnId": "fut-il-jamais-en-ce-monde",
+					"title": "Fut-il jamais, en ce monde... !"
+				},
+				{
+					"number": "228",
+					"hymnId": "jesus-le-berger-des-enfants",
+					"title": "Jésus, le berger des enfants"
+				},
+				{
+					"number": "229",
+					"hymnId": "seigneur-sanctifie",
+					"title": "Seigneur sanctifie !"
+				},
+				{
+					"number": "232",
+					"hymnId": "a-toi-jesus-je-me-donne",
+					"title": "À toi, Jésus, je me donne"
+				},
+				{
+					"number": "245",
+					"hymnId": "mon-salut-ma-nourriture",
+					"title": "Mon salut, ma nourriture"
+				},
+				{
+					"number": "248",
+					"hymnId": "a-toi-seul-je-veux-etre",
+					"title": "À toi seul je veux être"
+				},
+				{
+					"number": "251",
+					"hymnId": "ton-amour-divin-surpasse",
+					"title": "Ton amour divin surpasse"
+				},
+				{
+					"number": "266",
+					"hymnId": "le-meilleur-ami",
+					"title": "Le meilleur ami"
+				},
+				{
+					"number": "269",
+					"hymnId": "j-ai-la-joie-dans-mon-coeur",
+					"title": "J’ai la joie dans mon coeur"
+				},
+				{
+					"number": "275",
+					"hymnId": "dans-tes-combats",
+					"title": "Dans tes combats"
+				},
+				{
+					"number": "279",
+					"hymnId": "viens-a-jesus",
+					"title": "Viens à Jésus"
+				},
+				{
+					"number": "283",
+					"hymnId": "espere-en-dieu-quand-la-nuit-sombre",
+					"title": "Espère en Dieu, quand la nuit sombre"
+				},
+				{
+					"number": "285",
+					"hymnId": "sur-les-pas-du-saiint-modele",
+					"title": "Sur les pas du saiint modèle"
+				},
+				{
+					"number": "286",
+					"hymnId": "un-chretien-je-croyais-etre",
+					"title": "Un chrétien, je croyais être"
+				},
+				{
+					"number": "290",
+					"hymnId": "pour-tous-les-saints-cd-290",
+					"title": "Pour tous les saints"
+				},
+				{
+					"number": "291",
+					"hymnId": "si-je-n-ai-pas-la-charite",
+					"title": "Si je n’ai pas la charité"
+				},
+				{
+					"number": "295",
+					"hymnId": "pellerins-du-ciel",
+					"title": "Pellerins du ciel"
+				},
+				{
+					"number": "297",
+					"hymnId": "sur-tes-promesses-dieu-d-amour",
+					"title": "Sur tes promesses, Dieu d’amour"
+				},
+				{
+					"number": "298",
+					"hymnId": "dans-le-jardin",
+					"title": "Dans le jardin"
+				},
+				{
+					"number": "305",
+					"hymnId": "beni-soit-le-nom-cd-305",
+					"title": "Béni soit le nom"
+				},
+				{
+					"number": "312",
+					"hymnId": "sous-la-sainte-houlette",
+					"title": "Sous la sainte houlette"
+				},
+				{
+					"number": "313",
+					"hymnId": "viens-me-rendre-sage",
+					"title": "Viens me rendre sage"
+				},
+				{
+					"number": "317",
+					"hymnId": "chaque-instant-de-chaque-jour-cd-317",
+					"title": "Chaque instant de chaque jour"
+				},
+				{
+					"number": "323",
+					"hymnId": "debout-pour-la-sainte-guerre",
+					"title": "Debout pour la sainte guerre !"
+				},
+				{
+					"number": "328",
+					"hymnId": "o-jeunesse-christ-t-appelle",
+					"title": "Ô jeunesse, Christ t’appelle"
+				},
+				{
+					"number": "329",
+					"hymnId": "soldat-de-christ-aux-armes",
+					"title": "Soldat de Christ, aux armes !"
+				},
+				{
+					"number": "330",
+					"hymnId": "dieu-cherche-encore-des-hommes-forts",
+					"title": "Dieu cherche encore des hommes forts"
+				},
+				{
+					"number": "331",
+					"hymnId": "croire-obeir",
+					"title": "Croire, obéir"
+				},
+				{
+					"number": "336",
+					"hymnId": "l-appel-supreme",
+					"title": "L’appel suprême !"
+				},
+				{
+					"number": "337",
+					"hymnId": "notre-chef-et-maitre",
+					"title": "Notre chef et maître"
+				},
+				{
+					"number": "343",
+					"hymnId": "ainsi-je-vous-envoie",
+					"title": "Ainsi, je vous envoie"
+				},
+				{
+					"number": "346",
+					"hymnId": "christ-est-vivant",
+					"title": "Christ est vivant !"
+				},
+				{
+					"number": "351",
+					"hymnId": "bientot-jesus-va-nous-prendre",
+					"title": "Bientôt Jésus va nous prendre"
+				},
+				{
+					"number": "352",
+					"hymnId": "voici-mon-sauveur",
+					"title": "Voici mon sauveur"
+				},
+				{
+					"number": "354",
+					"hymnId": "la-trompette-a-retenti",
+					"title": "La trompette a retenti"
+				},
+				{
+					"number": "360",
+					"hymnId": "bientot-seigneur-tu-reviendras",
+					"title": "Bientôt, Seigneur, tu reviendras !"
+				},
+				{
+					"number": "362",
+					"hymnId": "jesus-par-qui-dieu-pardonne",
+					"title": "Jésus, par qui Dieu pardonne"
+				}
+			],
+			"changed": [],
+			"unchanged": [],
+			"skipped": [],
+			"missing": [],
+			"possibleDuplicates": [
+				{
+					"a": "vous-qui-sur-la-terre-habitez",
+					"b": "vous-qui-sur-la-terre-habitez-cd-6",
+					"similarity": 0.26,
+					"reason": "same title"
+				},
+				{
+					"a": "par-tous-les-saints-glorifie",
+					"b": "par-tous-les-saints-glorifies",
+					"similarity": 0.32,
+					"reason": "similar lyrics"
+				},
+				{
+					"a": "gloire-a-ton-nom",
+					"b": "gloire-a-ton-nom-cd-55",
+					"similarity": 0.02,
+					"reason": "same title"
+				},
+				{
+					"a": "il-est-tout-pour-moi",
+					"b": "il-est-tout-pour-moi-cd-157",
+					"similarity": 0.05,
+					"reason": "same title"
+				},
+				{
+					"a": "le-seigneur-m-aime",
+					"b": "le-seigneur-m-aime-cd-199",
+					"similarity": 0.21,
+					"reason": "same title"
+				},
+				{
+					"a": "sonde-moi",
+					"b": "sonde-moi-cd-213",
+					"similarity": 0.06,
+					"reason": "same title"
+				},
+				{
+					"a": "a-toi-mon-dieu-je-me-donne",
+					"b": "a-toi-jesus-je-me-donne",
+					"similarity": 0.4,
+					"reason": "similar lyrics"
+				},
+				{
+					"a": "pour-tous-les-saints",
+					"b": "pour-tous-les-saints-cd-290",
+					"similarity": 0.01,
+					"reason": "same title"
+				},
+				{
+					"a": "beni-soit-le-nom-jem-731",
+					"b": "beni-soit-le-nom-cd-305",
+					"similarity": 0.09,
+					"reason": "same title"
+				},
+				{
+					"a": "beni-soit-le-nom",
+					"b": "beni-soit-le-nom-cd-305",
+					"similarity": 0.08,
+					"reason": "same title"
+				},
+				{
+					"a": "chaque-instant-de-chaque-jour",
+					"b": "chaque-instant-de-chaque-jour-cd-317",
+					"similarity": 0.02,
+					"reason": "same title"
+				},
+				{
+					"a": "voir-mon-sauveur",
+					"b": "voici-mon-sauveur",
+					"similarity": 0.67,
+					"reason": "similar lyrics"
+				}
+			],
+			"autoMerged": [
+				{
+					"number": "1",
+					"hymnId": "gloire-gloire-gloire",
+					"title": "Gloire, gloire, gloire !"
+				},
+				{
+					"number": "2",
+					"hymnId": "grand-dieu-nous-te-benissons",
+					"title": "Grand Dieu nous te bénissons"
+				},
+				{
+					"number": "7",
+					"hymnId": "benissons-dieu",
+					"title": "Bénissons Dieu"
+				},
+				{
+					"number": "8",
+					"hymnId": "c-est-un-rempart-que-notre-dieu",
+					"title": "C'est un rempart que notre Dieu"
+				},
+				{
+					"number": "9",
+					"hymnId": "gloire-gloire-a-l-eternel",
+					"title": "Gloire, gloire à l’Éternel"
+				},
+				{
+					"number": "10",
+					"hymnId": "je-chanterai-seigneur",
+					"title": "Je chanterai, Seigneur"
+				},
+				{
+					"number": "11",
+					"hymnId": "o-mon-ame-exalte-et-chante",
+					"title": "Ô mon âme, exalte et chante"
+				},
+				{
+					"number": "12",
+					"hymnId": "loue-soit-dieu-le-seigneur",
+					"title": "Loué soit Dieu, le Seigneur"
+				},
+				{
+					"number": "13",
+					"hymnId": "qui-donc-dans-le-ciel",
+					"title": "Qui donc dans le ciel"
+				},
+				{
+					"number": "14",
+					"hymnId": "anges-du-tres-haut",
+					"title": "Anges du très haut"
+				},
+				{
+					"number": "15",
+					"hymnId": "seigneur-que-n-ai-je-mille-voix",
+					"title": "Seigneur, que n'ai-je mille voix"
+				},
+				{
+					"number": "16",
+					"hymnId": "gloire-a-dieu-notre-createur",
+					"title": "Gloire à Dieu notre créateur"
+				},
+				{
+					"number": "17",
+					"hymnId": "alleluia-louez-l-eternel",
+					"title": "Louez l'Éternel"
+				},
+				{
+					"number": "18",
+					"hymnId": "que-la-gloire-du-seigneur",
+					"title": "Que la gloire du Seigneur"
+				},
+				{
+					"number": "19",
+					"hymnId": "louez-dieu-dans-son-sanctuaire",
+					"title": "Louez Dieu dans son sanctuaire"
+				},
+				{
+					"number": "20",
+					"hymnId": "seigneur-tu-fus-notre-refuge",
+					"title": "Seigneur, tu fus notre refuge"
+				},
+				{
+					"number": "21",
+					"hymnId": "avec-des-cris-de-joie",
+					"title": "Avec des cris de joie"
+				},
+				{
+					"number": "22",
+					"hymnId": "l-amour-du-sauveur",
+					"title": "L'amour du sauveur"
+				},
+				{
+					"number": "23",
+					"hymnId": "sachez-que-l-eternel-est-dieu",
+					"title": "Sachez que l'Éternel est Dieu"
+				},
+				{
+					"number": "24",
+					"hymnId": "les-cieux-et-la-terre",
+					"title": "Les cieux et la terre"
+				},
+				{
+					"number": "26",
+					"hymnId": "oui-ton-amour",
+					"title": "Oui, ton amour est un amour sublime"
+				},
+				{
+					"number": "28",
+					"hymnId": "toi-qui-disposes",
+					"title": "Toi qui disposes"
+				},
+				{
+					"number": "29",
+					"hymnId": "l-amour-de-dieu",
+					"title": "L'amour de Dieu"
+				},
+				{
+					"number": "30",
+					"hymnId": "tu-es-le-dieu-puissant",
+					"title": "Tu es le Dieu puissant"
+				},
+				{
+					"number": "32",
+					"hymnId": "dieu-fort-et-grand",
+					"title": "Dieu fort et grand"
+				},
+				{
+					"number": "33",
+					"hymnId": "seigneur-grand-dieu",
+					"title": "Seigneur, grand Dieu"
+				},
+				{
+					"number": "34",
+					"hymnId": "l-eternel-combattra-pour-vous",
+					"title": "L'Éternel combattra pour vous"
+				},
+				{
+					"number": "35",
+					"hymnId": "tu-m-as-aime-seigneur",
+					"title": "Tu m'as aimé, Seigneur"
+				},
+				{
+					"number": "36",
+					"hymnId": "par-toi-jesus-la-joie-abonde",
+					"title": "Par toi, Jésus, la joie abonde"
+				},
+				{
+					"number": "37",
+					"hymnId": "de-dieu-l-amour-eternel",
+					"title": "De Dieu l'amour Éternel"
+				},
+				{
+					"number": "38",
+					"hymnId": "jesus-christ-est-ma-sagesse",
+					"title": "Jésus-Christ est ma sagesse"
+				},
+				{
+					"number": "39",
+					"hymnId": "il-vit",
+					"title": "Il vit"
+				},
+				{
+					"number": "40",
+					"hymnId": "a-l-agneau-sur-son-trone",
+					"title": "À l'agneau sur son trône"
+				},
+				{
+					"number": "42",
+					"hymnId": "a-celui-qui-nous-aime",
+					"title": "À celui qui nous aime"
+				},
+				{
+					"number": "43",
+					"hymnId": "a-celui-qui-nous-a-laves",
+					"title": "À celui qui nous a lavés"
+				},
+				{
+					"number": "44",
+					"hymnId": "benissez-l-eternel",
+					"title": "Bénissez l'Éternel"
+				},
+				{
+					"number": "45",
+					"hymnId": "ton-nom-seigneur-jesus",
+					"title": "Ton nom est admirable"
+				},
+				{
+					"number": "46",
+					"hymnId": "dans-les-cieux-et-sur-la-terre",
+					"title": "Dans les cieux et sur la terre"
+				},
+				{
+					"number": "47",
+					"hymnId": "je-louerai-l-eternel",
+					"title": "Je louerai l'Éternel"
+				},
+				{
+					"number": "48",
+					"hymnId": "ma-richesse-ma-gloire",
+					"title": "Ma richesse, ma gloire"
+				},
+				{
+					"number": "49",
+					"hymnId": "nous-t-adorons-adf-183",
+					"title": "Nous t'adorons"
+				},
+				{
+					"number": "51",
+					"hymnId": "ton-eglise-triomphante",
+					"title": "Ton église triomphante"
+				},
+				{
+					"number": "53",
+					"hymnId": "jesus-jesus-jesus",
+					"title": "Jésus, Jésus, Jésus"
+				},
+				{
+					"number": "54",
+					"hymnId": "chretiens-peuple-fidele",
+					"title": "Chrétiens, peuple fidèle"
+				},
+				{
+					"number": "56",
+					"hymnId": "la-croix-reste-debout",
+					"title": "La croix reste debout"
+				},
+				{
+					"number": "61",
+					"hymnId": "o-dieu-des-graces-eternelles",
+					"title": "Ô Dieu des grâces Éternelles!"
+				},
+				{
+					"number": "62",
+					"hymnId": "le-nom-de-jesus-est-si-doux",
+					"title": "Le nom de Jésus est si doux!"
+				},
+				{
+					"number": "63",
+					"hymnId": "a-celui-qui-nous-a-sauves",
+					"title": "À celui qui nous a sauvés"
+				},
+				{
+					"number": "65",
+					"hymnId": "soleil-de-justice",
+					"title": "Soleil de justice"
+				},
+				{
+					"number": "66",
+					"hymnId": "oui-tu-es-digne",
+					"title": "Oui tu es digne"
+				},
+				{
+					"number": "67",
+					"hymnId": "roi-des-rois",
+					"title": "Roi des rois"
+				},
+				{
+					"number": "68",
+					"hymnId": "vers-toi-monte-notre-hommage",
+					"title": "Vers toi monte notre hommage"
+				},
+				{
+					"number": "69",
+					"hymnId": "jesus-est-ne",
+					"title": "Jésus est né"
+				},
+				{
+					"number": "71",
+					"hymnId": "en-expirant-le-redempteur",
+					"title": "En expirant, le redempteur"
+				},
+				{
+					"number": "72",
+					"hymnId": "redites-moi-l-histoire",
+					"title": "Redites-moi l'histoire"
+				},
+				{
+					"number": "73",
+					"hymnId": "voici-l-enfant-nous-est-ne",
+					"title": "Voici l'enfant nous est né"
+				},
+				{
+					"number": "74",
+					"hymnId": "dieu-lui-meme-o-mystere",
+					"title": "Dieu lui-même, ô mystere"
+				},
+				{
+					"number": "75",
+					"hymnId": "il-est-ne-le-roi-du-monde",
+					"title": "Ii est né, le roi du monde"
+				},
+				{
+					"number": "76",
+					"hymnId": "dans-la-nuit-voyez-ces-mages",
+					"title": "Dans la nuit, voyez ces mages"
+				},
+				{
+					"number": "77",
+					"hymnId": "noel-o-doux-mystere",
+					"title": "Noël! ô doux mystère"
+				},
+				{
+					"number": "80",
+					"hymnId": "ecoutez-le-chant-des-anges",
+					"title": "Écoutez le chant des anges !"
+				},
+				{
+					"number": "81",
+					"hymnId": "voici-noel-o-douce-nuit",
+					"title": "Voici noël, ô douce nuit"
+				},
+				{
+					"number": "82",
+					"hymnId": "ecoutez-un-saint-cantique",
+					"title": "Écoutez un saint cantique"
+				},
+				{
+					"number": "84",
+					"hymnId": "dans-les-champs-le-berger-veille",
+					"title": "Dans les champs le berger veille"
+				},
+				{
+					"number": "85",
+					"hymnId": "il-est-ne-le-divin-enfant",
+					"title": "Il est né le divin enfant"
+				},
+				{
+					"number": "86",
+					"hymnId": "terre-chante-de-joie",
+					"title": "Terre, chante de joie"
+				},
+				{
+					"number": "88",
+					"hymnId": "noel-jesus-est-ne",
+					"title": "Noël, Jésus est né"
+				},
+				{
+					"number": "89",
+					"hymnId": "salut-blanche-etoile",
+					"title": "Salut, blanche étoile"
+				},
+				{
+					"number": "90",
+					"hymnId": "sur-la-paille-fraiche-adf-491",
+					"title": "Sur la paille fraîche"
+				},
+				{
+					"number": "92",
+					"hymnId": "jesus-est-ne-venez-bergers-et-mages",
+					"title": "Jésus est né"
+				},
+				{
+					"number": "93",
+					"hymnId": "o-peuple-fidele",
+					"title": "Ô peuple fidèle"
+				},
+				{
+					"number": "94",
+					"hymnId": "ah-si-ton-sang-si-ta-mort-si-ta-vie",
+					"title": "Ah ! si ton sang, si ta mort, si ta vie"
+				},
+				{
+					"number": "95",
+					"hymnId": "quand-dans-la-nuit",
+					"title": "Quand dans la nuit"
+				},
+				{
+					"number": "98",
+					"hymnId": "jesus-demeure",
+					"title": "Jésus demeure"
+				},
+				{
+					"number": "100",
+					"hymnId": "chef-couvert-de-blessures",
+					"title": "Chef couvert de blessures"
+				},
+				{
+					"number": "102",
+					"hymnId": "quand-je-contemple-cette-croix",
+					"title": "Quand je contemple cette croix"
+				},
+				{
+					"number": "104",
+					"hymnId": "redempteur-adorable",
+					"title": "Rédempteur adorable"
+				},
+				{
+					"number": "106",
+					"hymnId": "un-regard-sur-ta-croix-sanglante",
+					"title": "Un regard sur ta croix sanglante"
+				},
+				{
+					"number": "108",
+					"hymnId": "divin-sauveur",
+					"title": "Divin sauveur"
+				},
+				{
+					"number": "110",
+					"hymnId": "a-toi-la-gloire",
+					"title": "À toi la gloire"
+				},
+				{
+					"number": "111",
+					"hymnId": "brisant-ses-liens-funebres",
+					"title": "Brisant ses liens funèbres"
+				},
+				{
+					"number": "112",
+					"hymnId": "tu-dors-dans-ce-tombeau",
+					"title": "Tu dors dans ce tombeau"
+				},
+				{
+					"number": "113",
+					"hymnId": "le-sauveur-est-ressuscite-adf-557",
+					"title": "Le sauveur est ressuscité"
+				},
+				{
+					"number": "114",
+					"hymnId": "ouvrez-vous-portes-du-tombeau",
+					"title": "Ouvrez-vous, portes du tombeau !"
+				},
+				{
+					"number": "115",
+					"hymnId": "nous-attendons-le-sauveur-glorieux",
+					"title": "Nous attendons le sauveur glorieux"
+				},
+				{
+					"number": "116",
+					"hymnId": "o-jesus-ta-croix-domine",
+					"title": "Ô Jésus ! ta croix domine"
+				},
+				{
+					"number": "119",
+					"hymnId": "oh-viens-bientot-emmanuel",
+					"title": "Oh ! viens bientôt, Emmanuel"
+				},
+				{
+					"number": "120",
+					"hymnId": "dans-sa-gloire-notre-maitre",
+					"title": "Dans sa gloire, notre maître"
+				},
+				{
+					"number": "121",
+					"hymnId": "jesus-seul-est-notre-vie",
+					"title": "Jésus seul est notre vie"
+				},
+				{
+					"number": "123",
+					"hymnId": "viens-esprit-du-dieu-vivant",
+					"title": "Viens, esprit du Dieu vivant"
+				},
+				{
+					"number": "125",
+					"hymnId": "o-jesus-tu-nous-appelles-adf-567",
+					"title": "Ô Jésus, tu nous appelles"
+				},
+				{
+					"number": "126",
+					"hymnId": "c-est-toi-jesus-pain-de-vie",
+					"title": "C'est toi, Jésus, pain de vie"
+				},
+				{
+					"number": "127",
+					"hymnId": "a-tes-pieds-o-divin-maitre",
+					"title": "À tes pieds, ô divin maître"
+				},
+				{
+					"number": "128",
+					"hymnId": "serrons-nos-rangs",
+					"title": "Serrons nos rangs"
+				},
+				{
+					"number": "129",
+					"hymnId": "je-viens-seigneur-a-ce-bapteme-adf-574a",
+					"title": "Je viens, Seigneur, à ce baptême"
+				},
+				{
+					"number": "131",
+					"hymnId": "chantons-avec-reconnaissance",
+					"title": "Chantons avec reconnaissance"
+				},
+				{
+					"number": "132",
+					"hymnId": "ouvre-mes-yeux",
+					"title": "Ouvre mes yeux"
+				},
+				{
+					"number": "133",
+					"hymnId": "pour-triompher-dans-les-combats",
+					"title": "Pour triompher dans les combats"
+				},
+				{
+					"number": "134",
+					"hymnId": "la-parole-du-seigneur",
+					"title": "La parole du Seigneur"
+				},
+				{
+					"number": "135",
+					"hymnId": "divine-parole",
+					"title": "Divine parole"
+				},
+				{
+					"number": "136",
+					"hymnId": "rends-toi-maitre-de-mon-ame",
+					"title": "Rends-toi maître de mon âme"
+				},
+				{
+					"number": "138",
+					"hymnId": "romps-nous-le-pain-de-vie",
+					"title": "Romps-nous le pain de vie"
+				},
+				{
+					"number": "139",
+					"hymnId": "seigneur-que-la-terre-entiere",
+					"title": "Seigneur, que la terre entière"
+				},
+				{
+					"number": "140",
+					"hymnId": "jesus-par-ton-sang-precieux",
+					"title": "Jésus, par ton sang précieux"
+				},
+				{
+					"number": "142",
+					"hymnId": "nul-enfant-n-est-trop-petit",
+					"title": "Nul enfant n’est trop petit"
+				},
+				{
+					"number": "143",
+					"hymnId": "agneau-de-dieu-messager-de-la-grace",
+					"title": "Agneau de Dieu, messager de la grâce"
+				},
+				{
+					"number": "144",
+					"hymnId": "misericorde-insondable",
+					"title": "Miséricorde insondable"
+				},
+				{
+					"number": "145",
+					"hymnId": "choeur-des-bienheureux",
+					"title": "Choeur des bienheureux"
+				},
+				{
+					"number": "147",
+					"hymnId": "publiez-bien-haut-la-grande-nouvelle",
+					"title": "Publiez bien haut la grande nouvelle"
+				},
+				{
+					"number": "148",
+					"hymnId": "viens-au-pere-qui-t-appelle",
+					"title": "Viens au Père qui t’appelle"
+				},
+				{
+					"number": "149",
+					"hymnId": "regarde-ame-angoissee",
+					"title": "Regarde à la croix !"
+				},
+				{
+					"number": "150",
+					"hymnId": "tel-que-je-suis-sans-rien-a-moi",
+					"title": "Tel que je suis"
+				},
+				{
+					"number": "153",
+					"hymnId": "bientot-le-seigneur-va-venir",
+					"title": "Bientôt le Seigneur va venir"
+				},
+				{
+					"number": "155",
+					"hymnId": "comme-un-phare",
+					"title": "Comme un phare"
+				},
+				{
+					"number": "156",
+					"hymnId": "entends-tu-jesus-t-appelle",
+					"title": "Entends-tu ? Jésus t’appelle"
+				},
+				{
+					"number": "158",
+					"hymnId": "oh-croyez-que-dieu-vous-donne",
+					"title": "Oh ! croyez que Dieu vous donne"
+				},
+				{
+					"number": "159",
+					"hymnId": "ou-trouver-une-retraite",
+					"title": "Où trouver une retraite ?"
+				},
+				{
+					"number": "160",
+					"hymnId": "pourquoi-donc-attendre",
+					"title": "Pourquoi donc attendre ?"
+				},
+				{
+					"number": "161",
+					"hymnId": "reviens-a-ton-pere",
+					"title": "Reviens à ton Père"
+				},
+				{
+					"number": "162",
+					"hymnId": "rien-ne-peut-sauver-mon-ame",
+					"title": "Rien ne peut sauver mon âme"
+				},
+				{
+					"number": "163",
+					"hymnId": "venez-a-celui-qui-pardonne",
+					"title": "Venez à celui qui pardonne"
+				},
+				{
+					"number": "164",
+					"hymnId": "viens-ame-perdue",
+					"title": "Viens, âme perdue"
+				},
+				{
+					"number": "165",
+					"hymnId": "viens-a-jesus-il-t-appelle",
+					"title": "Viens à Jésus, il t’appelle !"
+				},
+				{
+					"number": "166",
+					"hymnId": "si-vous-saviez-quel-sauveur-je-possede",
+					"title": "Si vous saviez quel sauveur je possède"
+				},
+				{
+					"number": "167",
+					"hymnId": "roc-seculaire",
+					"title": "Roc séculaire"
+				},
+				{
+					"number": "170",
+					"hymnId": "entends-tu-le-chant-joyeux",
+					"title": "Entends-tu le chant joyeux ?"
+				},
+				{
+					"number": "172",
+					"hymnId": "jesus-m-a-donne-la-liberte",
+					"title": "Jésus m'a donné la liberté"
+				},
+				{
+					"number": "175",
+					"hymnId": "demain-peut-etre-je-te-croirai",
+					"title": "Demain peut-être, je te croirai"
+				},
+				{
+					"number": "176",
+					"hymnId": "j-ai-trouve-la-paix-profonde",
+					"title": "J’ai trouvé la paix profonde"
+				},
+				{
+					"number": "177",
+					"hymnId": "bien-loin-de-toi-mon-pere",
+					"title": "Bien loin de toi mon Père"
+				},
+				{
+					"number": "178",
+					"hymnId": "o-jour-beni",
+					"title": "Ô jour béni !"
+				},
+				{
+					"number": "180",
+					"hymnId": "lorsqu-a-jesus",
+					"title": "Lorsqu’à Jésus..."
+				},
+				{
+					"number": "182",
+					"hymnId": "o-vous-qui-n-avez-pas-la-paix",
+					"title": "Ô vous qui n’avez pas la paix"
+				},
+				{
+					"number": "183",
+					"hymnId": "le-cri-de-mon-ame",
+					"title": "Le cri de mon âme"
+				},
+				{
+					"number": "184",
+					"hymnId": "tu-peux-naitre-de-nouveau",
+					"title": "Tu peux naître de nouveau"
+				},
+				{
+					"number": "185",
+					"hymnId": "si-mon-peuple-s-humilie",
+					"title": "Si mon peuple s'humilie"
+				},
+				{
+					"number": "186",
+					"hymnId": "venez-au-sauveur-qui-vous-aime",
+					"title": "Venez au sauveur qui vous aime"
+				},
+				{
+					"number": "187",
+					"hymnId": "tiens-dans-ta-main",
+					"title": "Tiens dans ta main"
+				},
+				{
+					"number": "189",
+					"hymnId": "cherchez-d-abord-le-royaume-de-dieu",
+					"title": "Cherchez d'abord le royaume de Dieu"
+				},
+				{
+					"number": "190",
+					"hymnId": "quelqu-un-frappe-a-votre-porte",
+					"title": "Quelqu’un frappe à votre porte"
+				},
+				{
+					"number": "191",
+					"hymnId": "paix-paix-parfaite",
+					"title": "Paix, paix parfaite"
+				},
+				{
+					"number": "193",
+					"hymnId": "o-jesus-je-t-aime",
+					"title": "Mon Jésus, je t'aime"
+				},
+				{
+					"number": "194",
+					"hymnId": "joie-au-ciel",
+					"title": "Joie au ciel !"
+				},
+				{
+					"number": "196",
+					"hymnId": "gemissant-sous-l-esclavage",
+					"title": "Gémissant sous l’esclavage"
+				},
+				{
+					"number": "197",
+					"hymnId": "mon-coeur-voudrait-t-aimer",
+					"title": "Mon coeur voudrait t’aimer"
+				},
+				{
+					"number": "198",
+					"hymnId": "o-toi-qui-souffres-solitaire",
+					"title": "Ô toi, qui souffres solitaire !"
+				},
+				{
+					"number": "200",
+					"hymnId": "jesus-t-appelle-oh-viens-et-vois",
+					"title": "Jésus t’appelle"
+				},
+				{
+					"number": "201",
+					"hymnId": "ne-crains-pas-crois-seulement",
+					"title": "Ne crains point, crois seulement"
+				},
+				{
+					"number": "202",
+					"hymnId": "ou-cherchez-vous-le-bonheur",
+					"title": "Où cherchez-vous le bonheur"
+				},
+				{
+					"number": "204",
+					"hymnId": "source-feconde-salut-du-monde",
+					"title": "Source féconde"
+				},
+				{
+					"number": "205",
+					"hymnId": "jesus-est-au-milieu-de-nous",
+					"title": "Jésus est au milieu de nous"
+				},
+				{
+					"number": "207",
+					"hymnId": "jesus-est-mon-divin-berger",
+					"title": "Jésus est mon divin berger"
+				},
+				{
+					"number": "209",
+					"hymnId": "je-leve-les-yeux",
+					"title": "Je lève les yeux"
+				},
+				{
+					"number": "210",
+					"hymnId": "je-ne-sais-pourquoi-dans-sa-grace",
+					"title": "Je ne sais pourquoi dans sa grâce"
+				},
+				{
+					"number": "211",
+					"hymnId": "venez-au-prince-de-la-vie",
+					"title": "Venez au prince de la vie"
+				},
+				{
+					"number": "214",
+					"hymnId": "je-l-ai-trouve",
+					"title": "Je l’ai trouvé"
+				},
+				{
+					"number": "216",
+					"hymnId": "torrents-d-amour-et-de-grace",
+					"title": "Torrents d'amour et de grâce"
+				},
+				{
+					"number": "217",
+					"hymnId": "comme-une-biche",
+					"title": "Comme une biche"
+				},
+				{
+					"number": "218",
+					"hymnId": "bon-sauveur-berger-fidele",
+					"title": "Bon sauveur, berger fidèle"
+				},
+				{
+					"number": "219",
+					"hymnId": "comme-une-terre-alteree",
+					"title": "Comme une terre altérée"
+				},
+				{
+					"number": "220",
+					"hymnId": "bienheureux-qui-t-aime",
+					"title": "Bienheureux qui t’aime"
+				},
+				{
+					"number": "221",
+					"hymnId": "il-faut-pour-te-suivre",
+					"title": "Il faut pour te suivre"
+				},
+				{
+					"number": "222",
+					"hymnId": "o-dieu-releve-nous",
+					"title": "Ô Dieu, relève-nous"
+				},
+				{
+					"number": "223",
+					"hymnId": "la-foi-renverse-devant-nous",
+					"title": "La foi renverse devant nous"
+				},
+				{
+					"number": "224",
+					"hymnId": "toujours-ta-divine-presence",
+					"title": "Toujours ta divine présence"
+				},
+				{
+					"number": "225",
+					"hymnId": "prends-ma-vie-elle-doit-etre",
+					"title": "Prends ma vie, elle doit être"
+				},
+				{
+					"number": "227",
+					"hymnId": "quel-repos-celeste",
+					"title": "Quel repos céleste"
+				},
+				{
+					"number": "230",
+					"hymnId": "quand-le-vol-de-la-tempete",
+					"title": "Quand le vol de la tempête"
+				},
+				{
+					"number": "231",
+					"hymnId": "tendre-sauveur-je-viens-a-toi",
+					"title": "Tendre sauveur, je viens à toi"
+				},
+				{
+					"number": "233",
+					"hymnId": "daigne-benir-fidele-et-tendre-pere",
+					"title": "Daigne bénir, fidèle et tendre Père"
+				},
+				{
+					"number": "234",
+					"hymnId": "en-mon-coeur-j-ai-choisi",
+					"title": "J'ai choisi de suivre Jésus-Christ"
+				},
+				{
+					"number": "235",
+					"hymnId": "la-voix-du-seigneur-m-appelle",
+					"title": "La voix du Seigneur m'appelle"
+				},
+				{
+					"number": "236",
+					"hymnId": "j-entends-ta-douce-voix",
+					"title": "J'entends ta douce voix"
+				},
+				{
+					"number": "237",
+					"hymnId": "jesus-sa-sainte-presence",
+					"title": "Jésus, ta sainte présence"
+				},
+				{
+					"number": "238",
+					"hymnId": "reste-avec-moi",
+					"title": "Reste avec nous"
+				},
+				{
+					"number": "239",
+					"hymnId": "t-aimer-jesus-te-connaitre",
+					"title": "T'aimer Jésus, te connaître"
+				},
+				{
+					"number": "240",
+					"hymnId": "quel-ami-fidele-et-tendre",
+					"title": "Quel ami fidèle et tendre"
+				},
+				{
+					"number": "241",
+					"hymnId": "seigneur-dirige-et-sanctifie",
+					"title": "Seigneur, dirige et sanctifie"
+				},
+				{
+					"number": "242",
+					"hymnId": "nous-sommes-au-seigneur",
+					"title": "Nous sommes au Seigneur"
+				},
+				{
+					"number": "243",
+					"hymnId": "viens-m-apprendre-a-t-aimer",
+					"title": "Viens m'apprendre à t'aimer"
+				},
+				{
+					"number": "244",
+					"hymnId": "il-est-un-roc-seculaire",
+					"title": "Il est un roc séculaire"
+				},
+				{
+					"number": "246",
+					"hymnId": "qui-me-releve-dans-mes-chutes",
+					"title": "Qui me relève dans mes chutes"
+				},
+				{
+					"number": "247",
+					"hymnId": "seigneur-ce-que-je-reclame",
+					"title": "Seigneur, ce que je réclame"
+				},
+				{
+					"number": "249",
+					"hymnId": "o-jesus-je-me-repose",
+					"title": "Ô Jésus, je me repose"
+				},
+				{
+					"number": "250",
+					"hymnId": "entre-tes-mains-j-abandonne",
+					"title": "Entre tes mains j'abandonne"
+				},
+				{
+					"number": "252",
+					"hymnId": "avec-allegresse",
+					"title": "Avec allégresse"
+				},
+				{
+					"number": "253",
+					"hymnId": "seigneur-je-n-ai-rien-a-t-offrir",
+					"title": "Seigneur, je n’ai rien à t’offrir"
+				},
+				{
+					"number": "254",
+					"hymnId": "ne-crains-rien-je-t-aime",
+					"title": "Ne crains rien, je t’aime"
+				},
+				{
+					"number": "255",
+					"hymnId": "oui-le-bonheur-et-la-grace",
+					"title": "Oui, le bonheur et la grâce"
+				},
+				{
+					"number": "256",
+					"hymnId": "le-prince-de-la-vie",
+					"title": "Le prince de la vie"
+				},
+				{
+					"number": "257",
+					"hymnId": "seigneur-a-ton-regard-de-flamme",
+					"title": "Seigneur, à ton regard de flamme"
+				},
+				{
+					"number": "258",
+					"hymnId": "on-t-a-fait-connaitre-o-homme-ce-qui-est-bien",
+					"title": "On t'a fait connaître ô homme"
+				},
+				{
+					"number": "259",
+					"hymnId": "veux-tu-briser-du-peche-le-pouvoir",
+					"title": "Veux-tu briser du péché le pouvoir ?"
+				},
+				{
+					"number": "260",
+					"hymnId": "viens-mon-ame-te-reclame",
+					"title": "Viens, mon âme te réclame"
+				},
+				{
+					"number": "261",
+					"hymnId": "mon-ame-en-silence",
+					"title": "Mon âme en silence"
+				},
+				{
+					"number": "262",
+					"hymnId": "ma-vie-enfin-je-te-donne-adf-600a",
+					"title": "Ma vie enfin je te donne"
+				},
+				{
+					"number": "263",
+					"hymnId": "te-ressembler-jesus",
+					"title": "Te ressembler, Jésus"
+				},
+				{
+					"number": "264",
+					"hymnId": "mort-avec-christ-d-une-mort-volontaire",
+					"title": "Mort avec Christ"
+				},
+				{
+					"number": "265",
+					"hymnId": "saisis-ma-main-craintive",
+					"title": "Saisis ma main craintive"
+				},
+				{
+					"number": "267",
+					"hymnId": "je-m-approche-de-toi",
+					"title": "Je m’approche de toi"
+				},
+				{
+					"number": "268",
+					"hymnId": "pour-moi-chretien",
+					"title": "Pour moi chrétien"
+				},
+				{
+					"number": "270",
+					"hymnId": "a-jesus-je-m-abandonne",
+					"title": "À Jésus je m’abandonne"
+				},
+				{
+					"number": "271",
+					"hymnId": "mon-dieu-plus-pres-de-toi",
+					"title": "Mon Dieu plus près de toi"
+				},
+				{
+					"number": "272",
+					"hymnId": "comme-un-fleuve-immense",
+					"title": "Comme un fleuve immense"
+				},
+				{
+					"number": "273",
+					"hymnId": "moment-si-doux-de-la-priere",
+					"title": "Moment si doux de la prière"
+				},
+				{
+					"number": "274",
+					"hymnId": "dieu-vit-toujours",
+					"title": "Dieu vit toujours !"
+				},
+				{
+					"number": "276",
+					"hymnId": "celui-qui-met-en-jesus",
+					"title": "Celui qui met en Jésus"
+				},
+				{
+					"number": "277",
+					"hymnId": "plus-que-vainqueurs",
+					"title": "Plus que vainqueurs"
+				},
+				{
+					"number": "278",
+					"hymnId": "sur-toi-je-me-repose",
+					"title": "Sur toi, je me repose"
+				},
+				{
+					"number": "280",
+					"hymnId": "semons-des-que-brille-l-aurore",
+					"title": "Semons dès que brille l’aurore"
+				},
+				{
+					"number": "281",
+					"hymnId": "par-le-nom-de-jesus",
+					"title": "Par le nom de Jésus"
+				},
+				{
+					"number": "282",
+					"hymnId": "jesus-me-demande-d-etre",
+					"title": "Jésus me demande d’être"
+				},
+				{
+					"number": "284",
+					"hymnId": "j-ai-soif-de-ta-presence",
+					"title": "J'ai soif de ta présence"
+				},
+				{
+					"number": "287",
+					"hymnId": "oh-que-ton-joug-est-facile",
+					"title": "Oh ! que ton joug est facile"
+				},
+				{
+					"number": "288",
+					"hymnId": "qu-il-fait-bon-a-ton-service",
+					"title": "Qu’il fait bon à ton service"
+				},
+				{
+					"number": "289",
+					"hymnId": "o-joie-immense-infinie",
+					"title": "Ô joie immense, infinie !"
+				},
+				{
+					"number": "292",
+					"hymnId": "il-me-conduit",
+					"title": "Il me conduit"
+				},
+				{
+					"number": "293",
+					"hymnId": "chretien-rejouis-toi",
+					"title": "Réjouis-toi !"
+				},
+				{
+					"number": "294",
+					"hymnId": "dans-mon-ame-un-beau-soleil-brille",
+					"title": "Dans mon âme un beau soleil brille"
+				},
+				{
+					"number": "296",
+					"hymnId": "oh-prends-mon-ame",
+					"title": "Oh! prends mon âme"
+				},
+				{
+					"number": "299",
+					"hymnId": "ah-donne-a-mon-ame",
+					"title": "Ah ! donne à mon âme"
+				},
+				{
+					"number": "300",
+					"hymnId": "c-est-vers-toi-que-je-me-tourne",
+					"title": "C'est vers toi"
+				},
+				{
+					"number": "301",
+					"hymnId": "beni-soit-le-lien",
+					"title": "Béni soit le lien"
+				},
+				{
+					"number": "302",
+					"hymnId": "dans-l-abime-de-misere",
+					"title": "Dans l’abîme de misère"
+				},
+				{
+					"number": "303",
+					"hymnId": "seigneur-attire",
+					"title": "Seigneur, attire"
+				},
+				{
+					"number": "304",
+					"hymnId": "il-m-a-sauve",
+					"title": "Il m’a sauvé"
+				},
+				{
+					"number": "306",
+					"hymnId": "oh-quel-bonheur-de-le-connaitre",
+					"title": "Ô quel bonheur de le connaître"
+				},
+				{
+					"number": "307",
+					"hymnId": "viens-a-la-croix-ame-perdue",
+					"title": "Viens à la croix"
+				},
+				{
+					"number": "308",
+					"hymnId": "je-dois-voyager-au-monde",
+					"title": "Je dois voyager au monde"
+				},
+				{
+					"number": "309",
+					"hymnId": "triomphons-chantons-d-allegresse",
+					"title": "Triomphons, chantons d’allégresse"
+				},
+				{
+					"number": "310",
+					"hymnId": "tout-joyeux-benissons-le-seigneur",
+					"title": "Tout joyeux bénissons le Seigneur"
+				},
+				{
+					"number": "311",
+					"hymnId": "oh-que-ta-main-paternelle",
+					"title": "Oh ! que ta main paternelle"
+				},
+				{
+					"number": "314",
+					"hymnId": "non-point-a-nous-seigneur",
+					"title": "Non point à nous, Seigneur"
+				},
+				{
+					"number": "315",
+					"hymnId": "quel-bonheur-d-etre-en-famille",
+					"title": "Quel bonheur d’être en famille"
+				},
+				{
+					"number": "316",
+					"hymnId": "veille-au-matin",
+					"title": "Veille au matin"
+				},
+				{
+					"number": "318",
+					"hymnId": "david-n-avait-rien-que-sa-fronde",
+					"title": "David n'avait rien que sa fronde"
+				},
+				{
+					"number": "319",
+					"hymnId": "c-est-mon-joyeux-service",
+					"title": "C'est mon joyeux service"
+				},
+				{
+					"number": "320",
+					"hymnId": "sentinelle-vigilante",
+					"title": "Sentinelle vigilante"
+				},
+				{
+					"number": "321",
+					"hymnId": "qu-ils-sont-beaux-sur-les-montagnes",
+					"title": "Qu’ils sont beaux sur les montagnes"
+				},
+				{
+					"number": "322",
+					"hymnId": "le-signal-de-la-victoire",
+					"title": "Le signal de la victoire"
+				},
+				{
+					"number": "324",
+					"hymnId": "la-voix-de-christ-nous-appelle",
+					"title": "La voix de Christ nous appelle"
+				},
+				{
+					"number": "325",
+					"hymnId": "ecoutez-l-appel-du-berger",
+					"title": "Écoutez l’appel du berger"
+				},
+				{
+					"number": "326",
+					"hymnId": "vous-qui-gardez-les-murs",
+					"title": "Vous qui gardez les murs"
+				},
+				{
+					"number": "327",
+					"hymnId": "debout-sainte-cohorte",
+					"title": "Debout, sainte cohorte"
+				},
+				{
+					"number": "332",
+					"hymnId": "jusqu-a-la-mort",
+					"title": "Jusqu’à la mort"
+				},
+				{
+					"number": "333",
+					"hymnId": "quand-ma-route-est-obscure",
+					"title": "Quand ma route est obscure"
+				},
+				{
+					"number": "334",
+					"hymnId": "jesus-te-confie",
+					"title": "Jésus te confie"
+				},
+				{
+					"number": "335",
+					"hymnId": "parle-eternel",
+					"title": "Parle, Éternel"
+				},
+				{
+					"number": "338",
+					"hymnId": "a-moi-les-coeurs-braves",
+					"title": "À moi les coeurs braves !"
+				},
+				{
+					"number": "339",
+					"hymnId": "la-lutte-supreme",
+					"title": "La lutte suprême"
+				},
+				{
+					"number": "340",
+					"hymnId": "jesus-aujourd-hui-m-appelle",
+					"title": "Jésus aujourd’hui m’appelle"
+				},
+				{
+					"number": "341",
+					"hymnId": "pour-porter-le-glaive",
+					"title": "Le saint combat"
+				},
+				{
+					"number": "342",
+					"hymnId": "qu-elle-est-douce",
+					"title": "Qu’elle est douce"
+				},
+				{
+					"number": "344",
+					"hymnId": "des-que-l-aube-depose",
+					"title": "Dès que l’aube dépose"
+				},
+				{
+					"number": "345",
+					"hymnId": "semons-des-l-aurore",
+					"title": "Semons dès l’aurore"
+				},
+				{
+					"number": "347",
+					"hymnId": "travaillons-et-luttons",
+					"title": "Travaillons et luttons"
+				},
+				{
+					"number": "348",
+					"hymnId": "quel-bonheur-de-marcher-avec-lui-jem-146",
+					"title": "Quel bonheur de marcher avec lui"
+				},
+				{
+					"number": "349",
+					"hymnId": "de-villes-en-villages",
+					"title": "De villes en villages"
+				},
+				{
+					"number": "350",
+					"hymnId": "vous-saints-ministres",
+					"title": "Vous, saints ministres du Seigneur"
+				},
+				{
+					"number": "353",
+					"hymnId": "contempler-mon-dieu",
+					"title": "Contempler mon Dieu"
+				},
+				{
+					"number": "355",
+					"hymnId": "seigneur-donne-moi-des-ailes",
+					"title": "Seigneur, donne-moi des ailes"
+				},
+				{
+					"number": "356",
+					"hymnId": "je-vis-d-esperance",
+					"title": "Je vis d’espérance"
+				},
+				{
+					"number": "357",
+					"hymnId": "oh-quel-beau-jour",
+					"title": "Nombreux comme le sable des plages"
+				},
+				{
+					"number": "358",
+					"hymnId": "la-mort-n-est-plus",
+					"title": "La mort n’est plus"
+				},
+				{
+					"number": "359",
+					"hymnId": "nous-voguons-vers-un-beau-rivage",
+					"title": "Nous voguons vers un beau rivage"
+				},
+				{
+					"number": "361",
+					"hymnId": "a-celui-qui-sera-vainqueur",
+					"title": "À celui qui sera vainqueur"
+				},
+				{
+					"number": "363",
+					"hymnId": "je-ne-sais-pas-le-jour",
+					"title": "Je ne sais pas le jour"
+				},
+				{
+					"number": "364",
+					"hymnId": "il-va-venir-le-seigneur-que-j-adore",
+					"title": "Il va venir, le Seigneur que j'adore"
+				},
+				{
+					"number": "365",
+					"hymnId": "au-ciel-est-la-maison",
+					"title": "Au ciel est la maison"
+				},
+				{
+					"number": "366",
+					"hymnId": "seigneur-jesus-celeste-frere",
+					"title": "Seigneur Jésus, céleste frère"
+				},
+				{
+					"number": "367",
+					"hymnId": "dieu-soit-avec-toi",
+					"title": "Dieu soit avec toi"
+				},
+				{
+					"number": "368",
+					"hymnId": "mon-coeur-te-cherche",
+					"title": "Mon coeur te cherche"
+				}
+			],
+			"conflicts": [],
+			"noCredits": [
+				{
+					"number": "173",
+					"hymnId": "jesus-prit-mon-peche",
+					"title": "Jésus prit mon péché"
+				},
+				{
+					"number": "208",
+					"hymnId": "dis-tout-a-jesus",
+					"title": "Dis tout à Jésus !"
+				}
+			],
+			"rightsInherited": [],
+			"unknownCredits": [],
+			"strippedMarkup": {
+				"verse-number": 40
+			}
+		}
+	},
+	"rights": {
+		"cd": {
+			"published": 0,
+			"unpublished": 368
+		}
+	}
+}

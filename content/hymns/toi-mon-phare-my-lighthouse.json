@@ -1,0 +1,96 @@
+{
+	"id": "toi-mon-phare-my-lighthouse",
+	"title": "Toi, mon phare (My Lighthouse)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "714"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans mes combats et dans mes doutes,",
+				"Dans mes défaites, vers moi tu restes.",
+				"Par ton amour je puis tout !",
+				"Tu es ma paix quand la mer s’agite !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans le silence, les questions,",
+				"Ta vérité toujours tiendra.",
+				"Ton grand amour m’accompagne.",
+				"Tu es ma Paix quand la mer s’agite !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi, mon Phare",
+				"Sois mon Phare,",
+				"Éclairant mes ténèbres,",
+				"Oui, je te suivrai !",
+				"Toi, mon Phare",
+				"Sois mon Phare,",
+				"Je crois en ta promesse,",
+				"Tu me conduiras",
+				"À bon port !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je ne crains pas le lendemain.",
+				"Chaque matin, je chanterai",
+				"Que ton amour m’accompagne.",
+				"Tu es ma Paix quand la mer s’agite !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Feu devant nous,",
+				"Par ta lumière",
+				"Tu nous libères",
+				"De la tempête."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gareth Gilkeson",
+			"role": "lyrics"
+		},
+		{
+			"name": "Gareth Gilkeson",
+			"role": "music"
+		},
+		{
+			"name": "Chris Llewellyn",
+			"role": "lyrics"
+		},
+		{
+			"name": "Chris Llewellyn",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-14",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,49 @@
+{
+	"id": "rejouis-toi",
+	"title": "Réjouis-toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1094"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Réjouis-toi en tout temps",
+				"De tout ce que le Seigneur est pour toi.",
+				"Ne t'inquiète de rien",
+				"Mais fais connaître à Dieu tous tes besoins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Prie-le, supplie-le avec reconnaissance.",
+				"Prie-le, supplie-le avec reconnaissance.",
+				"Et la paix de Dieu gardera ton cœur,",
+				"Oui, la paix de Dieu gardera tes pensées."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda Panci",
+			"role": "music"
+		},
+		{
+			"name": "Linda Panci",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1094",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

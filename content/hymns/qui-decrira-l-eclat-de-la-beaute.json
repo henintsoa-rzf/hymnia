@@ -1,0 +1,53 @@
+{
+	"id": "qui-decrira-l-eclat-de-la-beaute",
+	"title": "Qui décrira l'éclat de la beauté",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "480"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui décrira l'éclat de ta beauté,",
+				"Trop belle pour nos mots ?",
+				"La raison ne peut la comprendre,",
+				"Les yeux ne peuvent la sonder.",
+				"Qui pourrait mesurer la grandeur",
+				"De ta sagesse et de ton amour ?",
+				"Qui décrira l'éclat de ta beauté?",
+				"Majesté, tu règnes aux cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Devant toi, je me tiens ébloui,",
+				"Devant toi, je me tiens ébloui.",
+				"Dieu très saint, devant ta majesté,",
+				"Je me tiens ébloui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mark Altrogge",
+			"role": "music"
+		},
+		{
+			"name": "Mark Altrogge",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem480",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

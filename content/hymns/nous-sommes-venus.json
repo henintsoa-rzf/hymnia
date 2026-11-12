@@ -1,0 +1,169 @@
+{
+	"id": "nous-sommes-venus",
+	"title": "Nous sommes venus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "804"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Wir sind gekommen aus dem Nationen,",
+				"um anzubeten.",
+				"Wir sind gekommen um dich zu ehren",
+				"Und uns zu beugen vor deinem Thron.",
+				"Wir sind gekommen aus dem Nationen,",
+				"um anzubeten.",
+				"Wir sind gekommen um dich zu ehren",
+				"Und uns zu beugen vor deinem Thron."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Wir haben geglaubt, wir haben erkannt:",
+				"Du bist der Heilige, Gottes Sohn.",
+				"Wir haben geglaubt, wir haben erkannt:",
+				"Du bist der Heilige, Gottes Sohn."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Wir sind gekommen aus dem Nationen,",
+				"um anzubeten.",
+				"Wir sind gekommen um dich zu ehren",
+				"Und uns zu beugen vor deinem Thron.",
+				"Wir sind gekommen aus dem Nationen,",
+				"um anzubeten.",
+				"Wir sind gekommen um dich zu ehren",
+				"Und uns zu beugen vor deinem Thron."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Wir haben geglaubt, wir haben erkannt:",
+				"Du bist der Heilige, Gottes Sohn.",
+				"Wir haben geglaubt, wir haben erkannt:",
+				"Du bist der Heilige, Gottes Sohn."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Heilig, heilig heilig !",
+				"Heilig, heilig heilig bist du !",
+				"Heilig, heilig heilig !",
+				"Heilig, heilig heilig bist du !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Der Allmächtige, der da war,",
+				"Der da ist und der da kommt.",
+				"Der Allmächtige, der da war,",
+				"Der da ist und der da kommt."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes venus de toutes les nations",
+				"Pour t'adorer, Seigneur.",
+				"Nous sommes venus pour te glorifier,",
+				"Pour nous prosterner devant ton trône.",
+				"Nous sommes venus de toutes les nations",
+				"Pour t'adorer, Seigneur.",
+				"Nous sommes venus pour te glorifier,",
+				"Pour nous prosterner devant ton trône."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et nous avons cru, nous avons reconnu:",
+				"Tu es le seul Dieu saint, Fils de Dieu.",
+				"Et nous avons cru, nous avons reconnu:",
+				"Tu es le seul Dieu saint, Fils de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes venus de toutes les nations",
+				"Pour t'adorer, Seigneur.",
+				"Nous sommes venus pour te glorifier,",
+				"Pour nous prosterner devant ton trône.",
+				"Nous sommes venus de toutes les nations",
+				"Pour t'adorer, Seigneur.",
+				"Nous sommes venus pour te glorifier,",
+				"Pour nous prosterner devant ton trône."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et nous avons cru, nous avons reconnu:",
+				"Tu es le seul Dieu saint, Fils de Dieu.",
+				"Et nous avons cru, nous avons reconnu:",
+				"Tu es le seul Dieu saint, Fils de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint, saint, saint,",
+				"Saint, tu es saint !",
+				"Saint, saint, saint,",
+				"Saint, oui, tu es saint !",
+				"Saint, saint, saint,",
+				"Saint, tu es saint !",
+				"Saint, saint, saint,",
+				"Saint, oui, tu es saint !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Dieu tout-puissant qui était,",
+				"Celui qui est et qui vient.",
+				"Le Dieu tout-puissant qui était,",
+				"Celui qui est et qui vient."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lilo Keller",
+			"role": "music"
+		},
+		{
+			"name": "Lilo Keller",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem804",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

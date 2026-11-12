@@ -1,0 +1,41 @@
+{
+	"id": "magnifique-est-le-seigneur",
+	"title": "Magnifique est le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "289"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Magnifique est le Seigneur.",
+				"Tout mon cœur pour chanter Dieu.",
+				"Magnifique est le Seigneur.",
+				"Alléluia, alléluia.",
+				"Alléluia, alléluia.",
+				"Alléluia, alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sœur Thérèse Donnet",
+			"role": "music"
+		},
+		{
+			"name": "Sœur Thérèse Donnet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem289",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

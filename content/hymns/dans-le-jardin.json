@@ -1,0 +1,81 @@
+{
+	"id": "dans-le-jardin",
+	"title": "Dans le jardin",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "298"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans le jardin où j’aime entrer",
+				"À l’heure douce de l’aurore,",
+				"Je me rends seul pour rencontrer",
+				"Celui que mon âme adore."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il marche avec moi,",
+				"Mon Sauveur, mon roi,",
+				"Il me dit que je suis à lui;",
+				"Il est mon soutien,",
+				"Il est tout mon bien,",
+				"Mon salut, mon divin appui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il parle, et dans mon coeur, sa voix",
+				"Fait naître une joie infinie,",
+				"Les oiseaux, même au fond des bois,",
+				"Suspendent leur mélodie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans les parterres du jardin,",
+				"Les fleurs humides de rosée",
+				"Offrent au visiteur divin",
+				"Leur corbeille parfumée."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le don que tu cherches, Seigneur,",
+				"Meilleur que les fruits de la terre,",
+				"C’est l’offrande de tout mon coeur,",
+				"Elle seule peut te plaire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "M. Hunter",
+			"role": "unspecified"
+		},
+		{
+			"name": "C. A. Miles",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1102",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

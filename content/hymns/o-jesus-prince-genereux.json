@@ -1,0 +1,80 @@
+{
+	"id": "o-jesus-prince-genereux",
+	"title": "O Jésus, Prince généreux",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "196"
+		},
+		{
+			"hymnal": "adf",
+			"number": "572"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus, Prince généreux,",
+				"Fils éternel du Dieu des cieux,",
+				"Nous louons le don merveilleux",
+				"De ta grâce :"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu vins du ciel pour nous servir,",
+				"Pour donner ta vie et l'offrir",
+				"En rançon pour nous affranchir,",
+				"Dans ta grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ton sang fut répandu pour nous,",
+				"Et tu nous dis : « Buvez-en tous,",
+				"La vie éternelle est à vous »,",
+				"Quelle grâce !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Jésus, toi qui fus livré,",
+				"Pour nous méchamment torturé,",
+				"Qu'à jamais tu sois adoré",
+				"Pour ta grâce."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean Hus",
+			"role": "music"
+		},
+		{
+			"name": "Jean Hus",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg196",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af572",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

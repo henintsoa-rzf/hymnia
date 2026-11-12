@@ -1,0 +1,89 @@
+{
+	"id": "plus-que-vainqueurs",
+	"title": "Plus que vainqueurs !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "351"
+		},
+		{
+			"hymnal": "adf",
+			"number": "374"
+		},
+		{
+			"hymnal": "cd",
+			"number": "277"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Plus que vainqueur ! telle est notre devise ;",
+				"Plus que vainqueurs, bien que persécutés ;",
+				"Car la victoire à la foi fut acquise",
+				"Par le Sauveur qui nous a rachetés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Suivons le Christ jusque sur le Calvaire ;",
+				"Ayons toujours sa mort devant les yeux :",
+				"Si nous souffrons avec lui sur la terre,",
+				"Nous régnerons avec lui dans les cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Osons braver les injures du monde,",
+				"Pour confesser le beau nom de Jésus.",
+				"Que sur lui seul tout notre espoir se fonde,",
+				"Et notre espoir ne sera pas confus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Amis, croyons au pouvoir invisible",
+				"Que le Sauveur a caché dans sa croix ;",
+				"Saisissons-la comme une arme invincible,",
+				"Pour triompher au nom du Roi des rois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fr. Ambresin",
+			"role": "music"
+		},
+		{
+			"name": "Fr. Ambresin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg351",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af374",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1308",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

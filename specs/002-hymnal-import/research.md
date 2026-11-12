@@ -8,7 +8,8 @@ Each decision lists what was chosen, why, and what was rejected.
 
 - **Decision**: TypeScript on Node.js 22 LTS, run with `tsx`, in the same repository as feature
   001.
-- **Rationale**: Reuses feature 001's Zod content schemas and the `normalize` function, so the
+- **Rationale**: Reuses feature 001's Zod content schemas and the normalisation functions (`normalizeText`,
+  `tokenize` in `src/lib/search/normalize.ts`), so the
   importer writes exactly what the build validates and matches text the same way search does.
   One language and one test runner (Vitest) for the whole project.
 - **Alternatives**: Python + BeautifulSoup (good scraping tools, but schemas and normalisation
@@ -76,8 +77,10 @@ Each decision lists what was chosen, why, and what was rejected.
 ## R6. Idempotence and protecting manual work (FR-009 to FR-013)
 
 - **Decision**: A versioned link file `import/state/links.json` maps each
-  (source, hymnal, number) to a hymn id and to the **fingerprint** (SHA-256 of the normalised
-  extracted text) of the source text last accepted. For each source hymn on a re-run:
+  (source, hymnal, number) to a hymn id and to the **fingerprint** (SHA-256 of the extracted
+  text) of the source text last accepted. The fingerprint ignores only whitespace and the
+  Unicode form, which is all that extraction may change (FR-004); punctuation, case and accents
+  count. *(Implementation note, 2026-11-11.)* For each source hymn on a re-run:
   1. If the fingerprint is unchanged, the hymn file is not touched. Manual corrections made
      in `content/` are therefore never overwritten.
   2. If the fingerprint changed, a **pending change** is written to `import/pending/` with a
@@ -87,7 +90,8 @@ Each decision lists what was chosen, why, and what was rejected.
      is deleted.
 
   Files are written to a temporary file and then renamed, and JSON is written in a stable form
-  (sorted keys, 2-space indentation, final newline). An interrupted run leaves no half-written
+  (tab indentation and keys in the order of the Zod schema, the format already used by
+  `content/`, plus a final newline). An interrupted run leaves no half-written
   file, and the same input gives byte-identical output.
 - **Alternatives**: A three-way merge of source, previous source and corrected text (powerful
   but complex; YAGNI given that pending changes are reviewed by hand); a database for state
@@ -95,11 +99,27 @@ Each decision lists what was chosen, why, and what was rejected.
 
 ## R7. Recognising the same hymn (FR-014 to FR-017)
 
-- **Decision**: Normalise the title and lyrics with feature 001's `normalize` (no accents, lower
-  case, no punctuation), then compare the lyrics with Jaccard similarity on word 3-grams:
-  - **Automatic merge**: normalised titles are equal **and** lyrics similarity is ≥ 0.85.
-  - **Possible duplicate** (reported): titles are equal, or lyrics similarity is ≥ 0.5.
+- **Decision**: Normalise the title and lyrics with feature 001's `normalizeText` and `tokenize` (no accents, lower
+  case, no punctuation), then compare the lyrics on word 3-grams with two measures: Jaccard
+  similarity (shared ÷ all, reported to the maintainer) and **containment** (shared ÷ the
+  smaller hymn's 3-grams), with the **size ratio** of the two hymns:
+  - **Automatic merge**: same normalised title, containment ≥ 0.6 and size ratio ≥ 0.4; or any
+    title, containment ≥ 0.85 and size ratio ≥ 0.4.
+  - **Possible duplicate** (reported): same title, or Jaccard or containment ≥ 0.5.
   - Otherwise the hymns are treated as distinct.
+  - A hymn is never matched with another hymn of the same hymnal, except a lettered variant
+    ("309A") whose lyrics are the same (Jaccard ≥ 0.85) as the hymn of its base number.
+
+  **Tuning (T055, 2026-11-11)**: the first rule (same title and Jaccard ≥ 0.85) failed on the
+  first real import. Hymnals retitle hymns (JEM 232 "Ma joie de t'appartenir" is ATG 42 "C'est
+  vers toi que je me tourne", word for word), and À Toi la Gloire often prints 3 of 5 verses,
+  which caps Jaccard near 0.6. Across the 1,030 pairs of pages with the same title or first line,
+  hymns with the same title and different lyrics never shared more than 25 % of their 3-grams,
+  so 0.6 leaves a wide margin. The size ratio keeps a short chorus apart from a long hymn that
+  quotes it (ATG 86 / JEM 281). On the reference list (38 shared groups, 16 distinct pairs, read
+  and judged by hand), **35 of 38 groups merge (92 %) and no distinct pair merges**. The three
+  misses are textual revisions under the same first line (ATG 391 / JEM 96, ATG 38 / JEM 60,
+  ATG 260 / AdF 317); they are reported as possible duplicates.
 
   Candidates are found through an index of normalised titles plus an index of first-line
   3-grams, so the comparison is never all pairs. Maintainer decisions (`merge` / `distinct`) in
@@ -145,6 +165,78 @@ Each decision lists what was chosen, why, and what was rejected.
   (for example `[Am]`, or a line of chords above the text). Each removal type is counted in the
   report. The removed data is not stored (FR-007). This counts as extraction, not a correction,
   because the source's displayed lyric text is unchanged.
+
+## R12. Keeping saved collections pointed at the right hymn (FR-026 to FR-028)
+
+Added 2026-11-11, after reviewing features 001 and 003.
+
+- **Problem**: feature 003 stores a collection entry as hymnal + number only. If an import
+  corrects a number, or a hymnal id is reused, the entry silently opens another hymn. A merge
+  can also leave the same hymn twice in a collection.
+- **Decision**:
+  - Entries also store the `hymnId` they were saved for. The field is optional within storage
+    version 2 (see the amended `specs/003-repertoire-collections/contracts/storage.md`), so
+    older app versions still read the document.
+  - Resolution goes through `hymnId` first. The spec's rules are in
+    `specs/003-repertoire-collections/data-model.md` under "Resolving an entry".
+  - When hymns are merged, the importer writes `content/redirects.json` (`{ "<removed id>":
+    "<kept id>" }`). The build validates it (sources are not live hymn ids, targets exist,
+    no chains or cycles) and publishes it in the catalog, so stored ids can follow merges.
+  - Removing an entry takes out one entry only (done 2026-11-11 in `removeEntry`).
+  - Hymnal ids and hymn ids are never reused. The sample ids `ce` and `he` are reserved, and
+    the sample content moves to the test fixtures before real hymnals are published.
+- **Alternatives**:
+  - Storage version 3 with a migration. An older cached copy of the app (offline PWA) would
+    treat a v3 document as unreadable and set it aside, so v3 is riskier for no benefit.
+  - Storing only the hymn id. That would lose the reference the user chose (FR-006 of 003).
+  - Never renumbering. Not under our control, because sources correct their numbering.
+
+## R13. What the four sites turned out to be (2026-11-11, during implementation)
+
+| Site | Hymnals | Numbering | Credits | Terms of use |
+|------|---------|-----------|---------|--------------|
+| conducteurdelouange.com | `jem` (4 volumes, continuous numbers), `adf`, `cd`. No À Toi la Gloire; Exo has no numbers. | As printed (`#245`) | Names only, no role → `unspecified` | Rights belong to the rights holders; no public use without permission. |
+| jemaf.fr | `jem` (1–1200), `adf` (677), `atg` (400) | As printed without prefix (`AF309A` → `309A`) | Roles, from data embedded in the page | « Toute reproduction … ne peut se faire sans l'autorisation de l'éditeur. » |
+| psalmodie.ch | `psalmodie`: 7 concert programmes, 122 songs | **Made up**: 100 per programme, oldest first (e.g. 702) | Labelled lines | No terms; most songs carry a publisher's ©. |
+| ecrituremusique.com | `ecriture`: 32 songs on 3 albums | **Made up**: album blocks 1–12, 13–25, 26–32 | "Paroles et musique" | No terms; "© Écriture Musique" on each song. |
+
+**Maintainer's decisions** (2026-11-11):
+1. The made-up numbers for psalmodie.ch and ecrituremusique.com are kept. Entries need a
+   number, and these numbers are ours, not the source's.
+2. A lettered Ailes de la Foi variant (309A…) whose lyrics are the same as the hymn of its base
+   number (similarity ≥ MERGE_THRESHOLD) is merged into that hymn: one hymn with both entries.
+   A variant with other lyrics stays a separate hymn. The rule is in `pipeline/match.ts` and
+   holds for any hymnal.
+3. psalmodie.ch's musical "Paul" (speaker labels, spoken passages) is not imported.
+4. Every source stays at `permission: "unknown"` until a site answers. Meanwhile the app is only
+   used by its maintainer, so the local build publishes every hymn (`HYMNIA_PERSONAL_USE=1` in
+   `.env`; constitution III, personal-use exception). Rights decisions are still recorded with
+   `rights set` as permissions arrive.
+
+The fetcher also requests each page once per run, without its `#fragment`, because psalmodie.ch
+lists about 16 songs on one page.
+
+**First real import (2026-11-11)**: jemaf.fr for ATG (400), AdF (677) and JEM (1,199), then
+conducteurdelouange.com for Célébrons Dieu (368), psalmodie.ch (98 songs without "Paul") and
+ecrituremusique.com (32): 2,774 pages, no failure, **2,106 hymns** (668 entries joined an
+existing hymn), 48 possible duplicates left to decide, `check` clean. 19 AdF lettered variants
+joined their base hymn; 2 (264A, 613A) have other lyrics and stay separate. Two bugs found and
+fixed on the way: a hymn that gained an entry during a run could gain a second number of the
+same hymnal (the matcher was not told about the new entry), and a hymnal with no source priority
+fell back to the order of `sources.json`, which handed Célébrons Dieu's site the reference text
+of hymns jemaf.fr already provided.
+
+**Search on the real collection (T076)**: the reference queries of feature 001 still pass (they
+run on the sample hymnals, now in `tests/fixtures/sample-content/`), and number queries are
+instant on the real data ("JEM 232", "AF 309A"). Two problems showed up, both fixed in feature
+001 on 2026-11-12:
+1. **Lyrics ranked below titles**: a full line of lyrics ranked far down when its words appeared
+   in other titles ("Brillant de lumière, l'ange est descendu" → "À toi la gloire" 10th). Fixed:
+   within the lyrics tier, the query as a phrase of the lyrics comes first, then every word in
+   the lyrics (001 contracts/search.md). Now 1st, with "Il roule la pierre du tombeau" too.
+2. **A hymnal's own title was lost on merge**: "Ma joie de t'appartenir" (JEM 232) found nothing.
+   Fixed: `HymnalEntry.title` keeps the title each hymnal prints (61 entries after the import);
+   search finds it and opens that entry, and lists and the hymn page show it.
 
 ## Open points (do not block planning)
 

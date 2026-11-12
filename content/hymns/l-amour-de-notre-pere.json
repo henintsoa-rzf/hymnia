@@ -1,0 +1,108 @@
+{
+	"id": "l-amour-de-notre-pere",
+	"title": "L'amour de notre Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1065"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'étais orphelin, seul, abandonné,",
+				"Perdu, sans chemin, et ton amour m'a trouvé.",
+				"Serré sur ton cœur, blotti contre toi,",
+				"Ma vie enlacée dans la chaleur de tes bras."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il guérit, restaure, rend vivants les morts.",
+				"Mon plus grand trésor,",
+				"C'est l'amour de notre Père.",
+				"O feu qui dévore, baptise-moi encore,",
+				"Esprit, âme et corps,",
+				"Dans l'amour de notre Père,",
+				"Dans l'amour de notre Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'étais orphelin, tu m'as adopté,",
+				"Saisi par ta main, tu m'as donné un foyer,",
+				"De nouveaux vêtements, une bague au doigt.",
+				"Tu transformes les mendiants",
+				"En enfants du Roi des rois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il guérit, restaure, rend vivants les morts.",
+				"Mon plus grand trésor,",
+				"C'est l'amour de notre Père.",
+				"O feu qui dévore, baptise-moi encore,",
+				"Esprit, âme et corps,",
+				"Dans l'amour de notre Père."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ouragan de tendresse, océan de sagesse,",
+				"Joie jusqu'à l'ivresse, c'est l'amour de notre Père.",
+				"C'est un lion qui rugit, un torrent qui jaillit,",
+				"Douceur et furie, c'est l'amour de notre Père."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Volcan de compassion, tempête d'affection,",
+				"Confiance et passion, c'est l'amour de notre Père.",
+				"Le Fils venu sur terre, sa mort les bras ouverts,",
+				"Splendeur et mystère, c'est l'amour de notre Père,",
+				"C'est l'amour de notre Père."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Il guérit, restaure, rend vivants les morts.",
+				"Mon plus grand trésor,",
+				"C'est l'amour de notre Père.",
+				"O feu qui dévore, baptise-moi encore,",
+				"Esprit, âme et corps,",
+				"Dans l'amour de notre Père."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1065",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

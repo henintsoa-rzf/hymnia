@@ -1,0 +1,143 @@
+{
+	"id": "fort",
+	"title": "Fort",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "905"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Fort, fort, Dieu est si fort,",
+				"Plus fort, bien plus fort que tout.",
+				"Fort, fort, Dieu est si fort,",
+				"Plus fort, bien plus fort que tout.",
+				"Fort, fort, Dieu est si fort,",
+				"Plus fort, bien plus fort que tout.",
+				"Fort, fort, Dieu est si fort,",
+				"Plus fort, bien plus fort que tout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Elohim, Adonaï, El Shaddaï,",
+				"Elohim, Adonaï, Dieu tout-puissant.",
+				"Elohim, Adonaï, El Shaddaï,",
+				"Elohim, Adonaï, Dieu tout-puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei.",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Grand, grand, Dieu est si grand,",
+				"Plus grand, bien plus grand que tout.",
+				"Grand, grand, Dieu est si grand,",
+				"Plus grand, bien plus grand que tout.",
+				"Grand, grand, Dieu est si grand,",
+				"Plus grand, bien plus grand que tout.",
+				"Grand, grand, Dieu est si grand,",
+				"Plus grand, bien plus grand que tout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Elohim, Adonaï, El Shaddaï,",
+				"Elohim, Adonaï, Dieu tout-puissant.",
+				"Elohim, Adonaï, El Shaddaï,",
+				"Elohim, Adonaï, Dieu tout-puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei.",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Saint, saint, Dieu trois fois saint.",
+				"Tu es le Dieu trois fois saint.",
+				"Saint, saint, Dieu trois fois saint.",
+				"Tu es le Dieu trois fois saint.",
+				"Saint, saint, Dieu trois fois saint.",
+				"Tu es le Dieu trois fois saint.",
+				"Saint, saint, Dieu trois fois saint.",
+				"Tu es le Dieu trois fois saint."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Elohim, Adonaï, El Shaddaï,",
+				"Elohim, Adonaï, Dieu tout-puissant.",
+				"Elohim, Adonaï, El Shaddaï,",
+				"Elohim, Adonaï, Dieu tout-puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei.",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei, lei, lei,",
+				"Lei, lei, lei, lei, lei, lei, lei."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Markus Fuchs",
+			"role": "music"
+		},
+		{
+			"name": "Markus Fuchs",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem905",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

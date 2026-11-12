@@ -1,0 +1,47 @@
+{
+	"id": "je-vous-laisse-ma-paix",
+	"title": "Je vous laisse ma paix",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "314"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus dit : « Je vous laisse la paix »",
+				"Jésus dit : « Je vous donne ma paix »",
+				"Il l’a promis, il tiendra parole.",
+				"Il ne donne pas comme le monde donne.",
+				"Jésus dit : « Je vous laisse la paix »",
+				"Jésus dit : « Je vous donne ma paix »",
+				"A tous les hommes qui se donnent à lui,",
+				"Jésus fait cette promesse :",
+				"Jésus dit : « Je vous laisse la paix »",
+				"Jésus dit : « Je vous donne ma paix »",
+				"Si, dans ton cœur, tu te sens inquiet,",
+				"Jésus voudrait te donner la paix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-14",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

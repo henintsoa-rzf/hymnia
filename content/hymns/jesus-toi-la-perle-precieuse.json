@@ -1,0 +1,102 @@
+{
+	"id": "jesus-toi-la-perle-precieuse",
+	"title": "Jésus, toi la perle précieuse",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "628"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, toi, la perle précieuse,",
+				"Ta beauté est si merveilleuse, inestimable.",
+				"Nul n'est comme toi.",
+				"Jésus, la pierre angulaire,",
+				"Ton amour seul peut satisfaire,",
+				"Tes fondements sont éternels."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon seul bien",
+				"Et rien ne peut remplacer dans mon cœur",
+				"L'amour que j'ai pour toi, Seigneur.",
+				"Tu es mon héritage et tu me rassasies.",
+				"Tu es pour moi un trésor caché,",
+				"La perle précieuse, inestimable,",
+				"Merveilleuse, tu es si beau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, toi, la perle précieuse,",
+				"Ta beauté est si merveilleuse, inestimable.",
+				"Nul n'est comme toi.",
+				"Jésus, la pierre angulaire,",
+				"Ton amour seul peut satisfaire,",
+				"Tes fondements sont éternels."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon seul bien",
+				"Et rien ne peut remplacer dans mon cœur",
+				"L'amour que j'ai pour toi, Seigneur.",
+				"Tu es mon héritage et tu me rassasies.",
+				"Tu es pour moi un trésor caché,",
+				"La perle précieuse, inestimable,",
+				"Merveilleuse, tu es si beau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon seul bien",
+				"Et rien ne peut remplacer dans mon cœur",
+				"L'amour que j'ai pour toi, Seigneur.",
+				"Tu es mon héritage et tu me rassasies.",
+				"Tu es pour moi un trésor caché,",
+				"La perle précieuse, inestimable,",
+				"Merveilleuse, tu es si beau."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu es mon héritage et tu me rassasies.",
+				"Tu es pour moi un trésor caché,",
+				"La perle précieuse, inestimable,",
+				"Merveilleuse, tu es si beau."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Scott Brenner",
+			"role": "music"
+		},
+		{
+			"name": "Scott Brenner",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem628",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

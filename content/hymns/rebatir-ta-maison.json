@@ -1,0 +1,137 @@
+{
+	"id": "rebatir-ta-maison",
+	"title": "Rebâtir ta maison",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "649"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aide-nous à rebâtir ta maison,",
+				"Appelle-nous à reconstruire nos nations.",
+				"Fais renaître l'espérance,",
+				"revivre la compassion,",
+				"Viens ranimer en nous le feu de ta passion."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens souffler sur nous, Saint-Esprit,",
+				"Mets en nous ton feu et ta vie,",
+				"Rassemble ton corps brisé,",
+				"ton peuple dispersé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous serons debout,",
+				"Nous tiendrons sur Christ,",
+				"Nous avancerons pour lui,",
+				"Nous sommes son armée,",
+				"Nous serons debout,",
+				"Nous tiendrons sur Christ,",
+				"Nous avancerons pour lui,",
+				"Nous sommes son armée,",
+				"Nous serons debout !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Aide-nous à entendre le cri",
+				"De ce peuple captif qui gémit.",
+				"Que nos mains soient tes mains,",
+				"Pour apporter la délivrance,",
+				"Viens ranimer en nous la foi en ta puissance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens souffler sur nous, Saint-Esprit,",
+				"Mets en nous ton feu et ta vie,",
+				"Rassemble ton corps brisé,",
+				"ton peuple dispersé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous serons debout,",
+				"Nous tiendrons sur Christ,",
+				"Nous avancerons pour lui,",
+				"Nous sommes son armée,",
+				"Nous serons debout,",
+				"Nous tiendrons sur Christ,",
+				"Nous avancerons pour lui,",
+				"Nous sommes son armée,",
+				"Nous serons debout !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Aide-nous à connaître ta voix,",
+				"Être des fils et marcher toujours près de toi.",
+				"Adorer, prier sans cesse,",
+				"T'offrir notre obéissance,",
+				"Viens ranimer en nous l'amour de ta présence."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens souffler sur nous, Saint-Esprit,",
+				"Mets en nous ton feu et ta vie,",
+				"Rassemble ton corps brisé,",
+				"ton peuple dispersé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous serons debout,",
+				"Nous tiendrons sur Christ,",
+				"Nous avancerons pour lui,",
+				"Nous sommes son armée,",
+				"Nous serons debout,",
+				"Nous tiendrons sur Christ,",
+				"Nous avancerons pour lui,",
+				"Nous sommes son armée,",
+				"Nous serons debout !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Judith Ann Robertson",
+			"role": "music"
+		},
+		{
+			"name": "Judith Ann Robertson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem649",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

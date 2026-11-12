@@ -1,0 +1,39 @@
+{
+	"id": "viens-adorer",
+	"title": "Viens adorer",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "359"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens adorer, peuple racheté,",
+				"Toutes les nations, venez le louer.",
+				"Adorez Jésus votre rédempteur ;",
+				"Il est précieux, Roi de gloire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Andy Carter",
+			"role": "music"
+		},
+		{
+			"name": "Andy Carter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem359",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

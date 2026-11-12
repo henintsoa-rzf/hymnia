@@ -1,0 +1,43 @@
+{
+	"id": "mon-dieu-pourvoira-a-tous-vos-besoins",
+	"title": "Mon Dieu pourvoira à tous vos besoins",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "48"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Dieu pourvoira",
+				"À tous vos besoins,",
+				"Mon Dieu pourvoira",
+				"À tous vos besoins",
+				"Selon sa richesse,",
+				"Avec gloire, en Jésus-Christ.",
+				"Mon Dieu pourvoira",
+				"À tous vos besoins."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Heinz Suter",
+			"role": "music"
+		},
+		{
+			"name": "Heinz Suter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem048",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

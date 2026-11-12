@@ -1,0 +1,66 @@
+{
+	"id": "batir-sur-le-roc",
+	"title": "Bâtir sur le roc",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "309"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Juste au-dessus des nuages, des brouillards jamais levés,",
+				"De la boue des marécages, des vies de chiens sans colliers,",
+				"Quitter les chemins trop larges des grands troupeaux sans bergers",
+				"Les indifférents, les lâches, pour marcher à tes côtés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux bâtir ma vie sur toi sur le roc, bâtir ma vie sur toi sur le roc."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es ma raison de vivre, l’étoile de tous mes matins,",
+				"Vérité que je veux suivre, tu es ma vie mon chemin.",
+				"Si grand et si près de moi, pour m’aider m’encourager,",
+				"Me relever chaque fois quand encore je suis tombé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu’importe le prix à payer, je sais que j’ai tout à gagner.",
+				"Je sais tout ce que tu m’as donné déjà.",
+				"Qu’importe le prix à payer, jamais j’aurai à regretter,",
+				"Si ce n’est ce que j’aurai fait sans toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Decourroux",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Decourroux",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-9",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

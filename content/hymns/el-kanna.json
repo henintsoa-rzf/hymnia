@@ -1,0 +1,93 @@
+{
+	"id": "el-kanna",
+	"title": "El Kanna",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "749"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es jaloux de ton nom,",
+				"tu es jaloux de ta gloire.",
+				"Que le monde puisse te voir",
+				"tel que tu es, le Vrai.",
+				"Tu es l'époux dévoué, tu es fidèle à jamais,",
+				"Tu te montres bienveillant",
+				"pour ceux qui aiment ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le Dieu jaloux et devant ta justice",
+				"Un amour divisé ne pourrait subsister.",
+				"Ta passion infinie",
+				"demeure sans compromis.",
+				"Toi, Dieu au cœur de feu,",
+				"c'est mon cœur que tu veux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es jaloux de ton nom,",
+				"tu es jaloux de ta gloire.",
+				"Rien ne peut se comparer à ton immensité.",
+				"De ton trône de lumière,",
+				"tu fais trembler l'univers.",
+				"Toi, le Dieu de sainteté,",
+				"tu nous veux tout entier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le Dieu jaloux et devant ta justice",
+				"Un amour divisé ne pourrait subsister.",
+				"Ta passion infinie",
+				"demeure sans compromis.",
+				"Toi, Dieu au cœur de feu,",
+				"c'est mon cœur que tu veux."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Reçois toute notre affection ;",
+				"Tu es le seul Dieu vivant !",
+				"Reçois toute notre affection ;",
+				"Tu es le seul Dieu.",
+				"Reçois toute notre affection ;",
+				"Tu es le seul Dieu vivant !",
+				"Reçois toute notre affection ;",
+				"Tu es le seul Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda Panci McGowen ; Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Tom et Linda Panci-McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem749",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

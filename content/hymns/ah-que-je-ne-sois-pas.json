@@ -1,0 +1,86 @@
+{
+	"id": "ah-que-je-ne-sois-pas",
+	"title": "Ah ! que je ne sois pas.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "311"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ah ! que je ne sois pas",
+				"comme un rameau stérile,",
+				"Qui, séparé du tronc, doit périr desséché ;",
+				"Mais que je sois, ô Dieu !",
+				"comme un sarment fertile",
+				"Qu'aucun vent d'aquilon n'a du cep arraché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Demeure en moi, Jésus,",
+				"et qu'en toi je demeure,",
+				"Trouvant dans ton amour le plus fort des liens,",
+				"Portant beaucoup de fruits,",
+				"chaque jour, à chaque heure,",
+				"Et renonçant à tout, pour jouir des vrais biens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Celui qui croit en toi, ta bouche le déclare,",
+				"Accomplira, Seigneur, les œuvres que tu fis.",
+				"Je crois… et d'où vient donc",
+				"que mon âme s'égare",
+				"Si loin du droit sentier que toujours tu suivis ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Hélas ! c'est que souvent",
+				"je tourne vers le monde",
+				"Des yeux qui ne devraient s'arrêter que sur toi !",
+				"Ne me retranche pas…",
+				"non, Seigneur, mais émonde,",
+				"Pour que j'apprenne mieux à pratiquer ta loi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Toutefois, que jamais mon cœur ne se confie",
+				"En mes pas chancelants, pour arriver au but !",
+				"Tu donnas pour les tiens, divin Jésus, ta vie,",
+				"Et c'est mon seul espoir de paix et de salut !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-Jacques Rousseau",
+			"role": "music"
+		},
+		{
+			"name": "Henri Lutteroth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af311",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

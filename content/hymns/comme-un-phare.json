@@ -1,0 +1,109 @@
+{
+	"id": "comme-un-phare",
+	"title": "Comme un phare",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "151"
+		},
+		{
+			"hymnal": "adf",
+			"number": "459"
+		},
+		{
+			"hymnal": "cd",
+			"number": "155"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme un phare sur la plage,",
+				"Perçant l'ombre de la nuit,",
+				"L'amour de Dieu, dans l'orage,",
+				"Cherche l'homme et le conduit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Sauveur ! que ta lumière",
+				"Resplendisse sur les flots,",
+				"Et, vers le ciel, qu'elle éclaire",
+				"Et sauve les matelots."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nulle étoile ne scintille",
+				"O marin, pour nous guider.",
+				"Mais l'amour de Jésus brille",
+				"Pour nous sortir du danger."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Sauveur ! que ta lumière",
+				"Resplendisse sur les flots,",
+				"Et, vers le ciel, qu'elle éclaire",
+				"Et sauve les matelots."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans la nuit qui m'environne,",
+				"De ton amour, ô Jésus !",
+				"Que par moi l'éclat rayonne",
+				"Aux yeux des marins perdus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Sauveur ! que ta lumière",
+				"Resplendisse sur les flots,",
+				"Et, vers le ciel, qu'elle éclaire",
+				"Et sauve les matelots."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg151",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af459",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/989",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

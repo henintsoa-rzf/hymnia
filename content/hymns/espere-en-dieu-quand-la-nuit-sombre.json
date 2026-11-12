@@ -1,0 +1,71 @@
+{
+	"id": "espere-en-dieu-quand-la-nuit-sombre",
+	"title": "Espère en Dieu, quand la nuit sombre",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "283"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Espère en Dieu quand la nuit sombre",
+				"Voile le ciel et l’horizon.",
+				"Jamais là-haut ne règne l’ombre,",
+				"Là-haut t’attend ne maison.",
+				"Espère en Dieu quand la tempête",
+				"Contre la nef jette ses flots.",
+				"Un mot vainqueur déjà s’apprête",
+				"À commander paix et repos."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Espère en Dieu quand la souffrance,",
+				"Brisant ton corps, trouble ton coeur,",
+				"Chez lui jamais l’indifférence",
+				"Ne le distrait de ton malheur.",
+				"Espère en Dieu quand sonne l’heure",
+				"D’abandonner les biens d’en bas.",
+				"Crois aux trésors de sa demeure,",
+				"Car son amour t’ouvre ses bras."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Espère en Dieu quand on t’oublie",
+				"Ou qu’on te raille avec dédain.",
+				"Pour te sauver, jamais ne plie,",
+				"Va plutôt seul sur ton chemin.",
+				"Espère en Dieu quand ton pied glisse",
+				"Sous les efforts du tentateur.",
+				"Saisis la main libératrice",
+				"Qui te rendra toujours vainqueur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "E. BONNARD",
+			"role": "unspecified"
+		},
+		{
+			"name": "G.H. Gabriel",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1090",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

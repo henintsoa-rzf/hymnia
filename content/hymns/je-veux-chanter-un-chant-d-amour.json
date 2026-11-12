@@ -1,0 +1,53 @@
+{
+	"id": "je-veux-chanter-un-chant-d-amour",
+	"title": "Je veux chanter un chant d'amour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "626"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux chanter un chant d'amour",
+				"Pour mon Sauveur,",
+				"Pour toi Jésus.",
+				"Merci pour ce que tu as fait,",
+				"Tu es si précieux,",
+				"Jésus mon Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis heureux, tu m'as donné ton nom.",
+				"Je ne veux pas être ailleurs",
+				"Que dans tes bras d'amour,",
+				"Dans tes bras d'amour.",
+				"Tout près de toi, contre ton cœur,",
+				"Dans tes bras d'amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Craig Musseau",
+			"role": "music"
+		},
+		{
+			"name": "Craig Musseau",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem626",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

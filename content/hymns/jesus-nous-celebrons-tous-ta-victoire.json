@@ -1,0 +1,83 @@
+{
+	"id": "jesus-nous-celebrons-tous-ta-victoire",
+	"title": "Jésus, nous célébrons tous ta victoire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "434"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, nous célébrons tous ta victoire,",
+				"Jésus, ton amour nous remplit.",
+				"Jésus, quelle joie, tu nous libères.",
+				"Jésus, ta mort nous rend la vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ nous affranchit,",
+				"C'est pour la liberté,",
+				"Nous ne serons plus jamais",
+				"Sous le joug de l'esclavage.",
+				"Fêtons avec joie le Dieu de victoire,",
+				"Nos cœurs répondent à son amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, nous célébrons tous ta victoire,",
+				"Jésus, ton amour nous remplit.",
+				"Jésus, quelle joie, tu nous libères.",
+				"Jésus, ta mort nous rend la vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En nous son Esprit,",
+				"De la peur nous libère.",
+				"Sans crainte avançons vers lui,",
+				"Le chemin est ouvert.",
+				"Et là devant lui, recevons sa paix,",
+				"Nos cœurs répondent à son amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, nous célébrons tous ta victoire,",
+				"Jésus, ton amour nous remplit.",
+				"Jésus, quelle joie, tu nous libères.",
+				"Jésus, ta mort nous rend la vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Gibson",
+			"role": "music"
+		},
+		{
+			"name": "John Gibson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem434",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

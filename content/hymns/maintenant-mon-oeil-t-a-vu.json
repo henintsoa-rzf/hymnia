@@ -1,0 +1,112 @@
+{
+	"id": "maintenant-mon-oeil-t-a-vu",
+	"title": "Maintenant, mon œil t'a vu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1151"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui était là lorsqu’il fondait la terre ?",
+				"Qui en a posé la pierre angulaire ?",
+				"Qui a fermé la mer avec des portes",
+				"Et qui a montré sa place à l’aurore ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui a déjà vu les dépôts de grêle,",
+				"Ou tracé la route de la pluie du ciel ?",
+				"Et qui fait naître au matin la rosée",
+				"Si ce n’est le Dieu de l’éternité ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Éternel, je reconnais que tu peux tout",
+				"Et que rien ne s’oppose à tes pensées.",
+				"Mon oreille avait entendu parler de toi,",
+				"Mais maintenant mon œil t’a vu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui, d’un regard, parcourt toute la terre ?",
+				"Qui connaît le chemin de la lumière ?",
+				"Qui a un bras comme celui de Dieu,",
+				"Une voix tonnante comme la sienne ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui, de son trône, nous a envoyé",
+				"Celui par qui tout a été créé,",
+				"Jésus-Christ, son Fils, son bien-aimé ?",
+				"Notre Dieu, seul Dieu de l’éternité !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Éternel, je reconnais que tu peux tout",
+				"Et que rien ne s’oppose à tes pensées.",
+				"Mon oreille avait entendu parler de toi,",
+				"Mais maintenant mon œil t’a vu."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Viens illuminer les yeux de nos cœurs",
+				"Pour apprécier tous tes plans de bonheur",
+				"Et l’espérance que porte ton appel,",
+				"Un esprit de sagesse, de révélation.",
+				"Dans ta connaissance, nous le recevons.",
+				"Dieu tout-puissant, tu es notre Dieu !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Éternel, je reconnais que tu peux tout",
+				"Et que rien ne s’oppose à tes pensées.",
+				"Mon oreille avait entendu parler de toi,",
+				"Mais maintenant mon œil t’a vu,",
+				"Mais maintenant mon œil t’a vu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cédric Fruhinsholz",
+			"role": "music"
+		},
+		{
+			"name": "Cédric Fruhinsholz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1151",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

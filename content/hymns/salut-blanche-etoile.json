@@ -1,0 +1,113 @@
+{
+	"id": "salut-blanche-etoile",
+	"title": "Salut, blanche étoile",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "104"
+		},
+		{
+			"hymnal": "adf",
+			"number": "93"
+		},
+		{
+			"hymnal": "cd",
+			"number": "89"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Salut, blanche étoile,",
+				"Au plus haut du ciel !",
+				"Rayonne sans voile,",
+				"Splendeur de Noël !",
+				"Venez, tendre enfance,",
+				"Qu'un chant d'espérance,",
+				"Venez, tendre enfance,",
+				"Qu'un chant d'espérance",
+				"De vos cœurs s'élance",
+				"Jusqu'à l'Éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ardente jeunesse,",
+				"Louez le Seigneur !",
+				"Tremblante vieillesse,",
+				"N'ayez point de peur !",
+				"Dieu même, ô mystère !",
+				"Se fait notre frère,",
+				"Dieu même, ô mystère",
+				"Se fait notre frère,",
+				"Et vient sur la terre",
+				"Sauver le pécheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Fils adorable,",
+				"Lui, le Roi des rois,",
+				"Naît dans une étable,",
+				"Meurt sur une croix ;",
+				"Sa grâce fidèle",
+				"Pardonne au rebelle…",
+				"Sa grâce fidèle",
+				"Pardonne au rebelle…",
+				"Jésus nous appelle ;",
+				"Écoutons sa voix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Salut, blanche étoile,",
+				"Au plus haut du ciel !",
+				"Rayonne sans voile,",
+				"Splendeur de Noël !",
+				"Pour l'âme qui t'aime,",
+				"Ta clarté suprême",
+				"Pour l'âme qui t'aime,",
+				"Ta clarté suprême",
+				"Est le doux emblème",
+				"Du jour éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Francis Wade",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg104",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af093",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/893",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

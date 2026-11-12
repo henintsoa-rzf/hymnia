@@ -1,0 +1,36 @@
+{
+	"id": "je-viens-dans-ta-maison",
+	"title": "Je viens dans ta maison",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "917"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Textes supprimés à la demande de l'auteur"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "André et Lynne-Marie Favreau",
+			"role": "music"
+		},
+		{
+			"name": "André et Lynne-Marie Favreau",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem917",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

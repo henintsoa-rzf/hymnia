@@ -1,0 +1,69 @@
+{
+	"id": "je-veux-te-suivre",
+	"title": "Je veux te suivre",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "680"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux te suivre toute ma vie.",
+				"Où tu iras, j'irai, je resterai.",
+				"Je veux te suivre, oui, pour la vie.",
+				"Où tu me conduiras, j'irai près de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je sais que ni les puissances,",
+				"Ni le présent, ni l'avenir",
+				"Ne peuvent me séparer",
+				"De ton amour pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux te suivre toute ma vie.",
+				"Où tu iras, j'irai, je resterai.",
+				"Je veux te suivre, oui, pour la vie.",
+				"Où tu me conduiras, j'irai près de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu m'as donné ta vie,",
+				"Ton amour coule au fond de moi.",
+				"Tu marches devant moi,",
+				"Je te suis pas à pas."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charly Siounath",
+			"role": "music"
+		},
+		{
+			"name": "Isabelle Siounath",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem680",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

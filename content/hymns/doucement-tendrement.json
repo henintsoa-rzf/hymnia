@@ -1,0 +1,79 @@
+{
+	"id": "doucement-tendrement",
+	"title": "Doucement, tendrement...",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "174"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Doucement, tendrement, Jésus appelle,",
+				"Nous appelle, vous et moi ;",
+				"Patiemment Jésus attend le rebelle,",
+				"Il nous attend, vous et moi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Venez, venez à moi !",
+				"Travaillés, chargés, venez à moi.",
+				"Doucement, tendrement Jésus appelle,",
+				"Venez ! Oh ! venez à moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"N’hésitons plus puisque le Sauveur plaide,",
+				"Plaide pour vous et pour moi ;",
+				"Par des soupirs l’Esprit Saint intercède,",
+				"Et c’est pour vous et pour moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le monde, hélas ! n’est qu’une ombre qui passe,",
+				"Passe pour vous et pour moi ;",
+				"Gloire à Jésus ! au ciel est une place,",
+				"Prête pour vous et pour moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Au vrai bonheur, Jésus Christ nous convie,",
+				"Bonheur pour vous et pour moi ;",
+				"Il nous l’acquit quand il donna sa vie,",
+				"Sa vie pour vous et moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "W.L. Thompson",
+			"role": "unspecified"
+		},
+		{
+			"name": "E. Schürer",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1006",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

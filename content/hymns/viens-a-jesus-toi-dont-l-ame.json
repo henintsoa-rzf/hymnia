@@ -1,0 +1,59 @@
+{
+	"id": "viens-a-jesus-toi-dont-l-ame",
+	"title": "Viens à Jésus, toi dont l'âme.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "582"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens à Jésus, toi dont l'âme est coupable,",
+				"Toi qui t'en vas courbant le front ;",
+				"Lève les yeux vers le Maître adorable ;",
+				"En son regard lis ton pardon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pleure à genoux ta honte et tes faiblesses,",
+				"Mais viens pleurer auprès de Lui !",
+				"Il a pitié de toutes les détresses,",
+				"Car son amour est infini."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il posera sur toi sa main divine",
+				"Pour relever ton pauvre cœur ;",
+				"Sur le sentier que sa grâce illumine",
+				"Tu marcheras comme un vainqueur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H. Barbezat",
+			"role": "music"
+		},
+		{
+			"name": "Blanche d' Estienne",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af582",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

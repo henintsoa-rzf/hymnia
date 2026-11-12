@@ -1,0 +1,79 @@
+{
+	"id": "seigneur-du-sein-de-la-poussiere",
+	"title": "Seigneur, du sein de la poussière.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "316"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, du sein de la poussière",
+				"Mon âme crie à toi :",
+				"O Dieu ! descends, à ma prière !",
+				"Que je te sente en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je ne veux plus l'ombre qui passe,",
+				"L'image qui pâlit ;",
+				"Mais la substance de ta grâce,",
+				"Toi-même, ton Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est assez et trop se répandre",
+				"En long et vague espoir ;",
+				"Je veux te parler et t'entendre,",
+				"Te toucher et te voir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je veux brûler, mais de ta flamme,",
+				"Luire, mais de ton jour,",
+				"De ton âme animer mon âme,",
+				"Aimer de ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Voilà le seul bien que j'envie,",
+				"Que j'implore, ô mon Roi !",
+				"Ne plus vivre que de ta vie,",
+				"Que par Toi, que pour Toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "A. Boissier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af316",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

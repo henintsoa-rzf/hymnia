@@ -1,0 +1,43 @@
+{
+	"id": "vers-toi-seigneur-jem-300",
+	"title": "Vers toi, Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "300"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vers toi Seigneur,",
+				"J'élève ma voix",
+				"Pour t'adorer,",
+				"Mon Sauveur, mon Roi.",
+				"Reçois, Seigneur,",
+				"Comme un doux parfum",
+				"L'amour et le chant",
+				"De nos cœurs reconnaissants."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Laurie Klein",
+			"role": "music"
+		},
+		{
+			"name": "Laurie Klein",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem300",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,99 @@
+{
+	"id": "o-poussiere-de-la-terre",
+	"title": "O poussière de la terre.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "92"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O poussière de la terre !",
+				"O souffrante humanité !",
+				"O monde perdu, le Père",
+				"Par amour t'a visité !",
+				"Bénissons Dieu !",
+				"Bénissons Dieu !",
+				"Bénissons Dieu,",
+				"Avec son peuple en tout lieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Résonnez, chants d'allégresse,",
+				"Le Messie est descendu !",
+				"Jéhova tient sa promesse :",
+				"Il donne au monde Jésus !",
+				"Gloire au Sauveur,",
+				"Gloire au Sauveur,",
+				"Gloire au Sauveur,",
+				"Au puissant Triomphateur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"cœur blessé, pécheur coupable,",
+				"Le voici, ton Bienfaiteur !",
+				"De ton passé méprisable",
+				"Il est le Réparateur.",
+				"Gloire à son nom !",
+				"Gloire à son nom !",
+				"Gloire à son nom !",
+				"À son merveilleux pardon !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Vous, étoiles sans rivales,",
+				"Acclamez ce Roi de Paix !",
+				"Ouvrez-vous, portes royales,",
+				"Car Il sort de son palais !",
+				"Oh ! quel amour !",
+				"Oh ! quel amour !",
+				"Oh ! quel amour !",
+				"Sur la terre il vint un jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Sonnez, sonnez l'Évangile.",
+				"Trompettes, sonnez encor !",
+				"Enfant, joins ta voix débile",
+				"À la voix de l'homme fort !",
+				"Loué soit Dieu",
+				"Loué soit Dieu",
+				"Loué soit Dieu",
+				"Parmi son peuple en tout lieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tullius Clinton O'Kane",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af092",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

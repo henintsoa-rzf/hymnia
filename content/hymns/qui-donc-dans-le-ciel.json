@@ -1,0 +1,118 @@
+{
+	"id": "qui-donc-dans-le-ciel",
+	"title": "Qui donc dans le ciel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "276"
+		},
+		{
+			"hymnal": "cd",
+			"number": "13"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui donc dans le ciel",
+				"est semblable à toi ?",
+				"Qui est puissant comme toi,",
+				"Éternel mon Roi,",
+				"Qui est puissant comme toi,",
+				"Éternel mon Roi ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es Adonaï Jireh,",
+				"En tout temps tu pourvoiras.",
+				"Tu es Adonaï Raphé,",
+				"Éternel, tu guériras."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui donc dans le ciel",
+				"est semblable à toi ?",
+				"Qui est puissant comme toi,",
+				"Éternel mon Roi,",
+				"Qui est puissant comme toi,",
+				"Éternel mon Roi ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es Adonaï Shamma,",
+				"Tu entends, tu répondras.",
+				"Tu es Adonaï Shalom,",
+				"Dieu de paix pour tous les hommes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui donc dans le ciel",
+				"est semblable à toi ?",
+				"Qui est puissant comme toi,",
+				"Éternel mon Roi,",
+				"Qui est puissant comme toi,",
+				"Éternel mon Roi ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"El Shaddaï, Dieu tout-puissant,",
+				"Tu protèges et tu nourris,",
+				"El Olam, Dieu Éternel,",
+				"El Haï, tu es vivant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui donc dans le ciel",
+				"est semblable à toi ?",
+				"Qui est puissant comme toi,",
+				"Éternel mon Roi,",
+				"Qui est puissant comme toi,",
+				"Éternel mon Roi ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michèle Jung ; Thierry Deverrewaere",
+			"role": "music"
+		},
+		{
+			"name": "Michèle Jung ; Thierry Deverrewaere",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem276",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/906",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "tu-as-triomphe",
+	"title": "Tu as triomphé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1121"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du ciel abaissé, venu me sauver,",
+				"Humilié sur le bois, tu as tout donné.",
+				"Cloué, couronné, tout cela pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le tombeau désert, la pierre est roulée,",
+				"Tu es ressuscité.",
+				"Du fond des ténèbres jaillit ta lumière,",
+				"Tu as triomphé, tu as triomphé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ô Dieu élevé, Roi ressuscité,",
+				"Eternel Dieu trois fois saint,",
+				"Toute autorité, justice, vérité,",
+				"Toi, le maître souverain."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le tombeau désert, la pierre est roulée,",
+				"Tu es ressuscité.",
+				"Du fond des ténèbres jaillit ta lumière,",
+				"Tu as triomphé, tu as triomphé."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tous les anges acclament,",
+				"Tous les êtres proclament :",
+				"« Tu es saint. »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tous les anges acclament,",
+				"Tous les êtres proclament :",
+				"« Tu es saint. »"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu es saint, tu es saint, tu es saint.",
+				"Tu es saint, tu es saint, tu es saint."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jérémy Ferrari",
+			"role": "music"
+		},
+		{
+			"name": "Jérémy Ferrari",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1121",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

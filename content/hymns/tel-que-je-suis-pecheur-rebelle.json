@@ -1,0 +1,89 @@
+{
+	"id": "tel-que-je-suis-pecheur-rebelle",
+	"title": "Tel que je suis, pécheur rebelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "260"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tel que je suis, pécheur rebelle,",
+				"Au nom du sang versé pour moi,",
+				"Au nom de ta voix qui m'appelle,",
+				"Jésus, je viens à Toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tel que je suis, dans ma souillure,",
+				"Ne cherchant nul remède en moi,",
+				"Ton sang lave mon âme impure :",
+				"Jésus, je viens à Toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tel que je suis, avec mes luttes,",
+				"Mes craintes, ma timide foi,",
+				"Avec mes doutes et mes chutes,",
+				"Jésus, je viens à Toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tel que je suis, je me réclame",
+				"De ta promesse, par la foi ;",
+				"Au ciel tu recevras mon âme :",
+				"Jésus, je viens à Toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Tel que je suis, ton sacrifice",
+				"À ma place accomplit la loi ;",
+				"Justifié par ta justice,",
+				"Jésus, je viens à Toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Tel que je suis, Dieu me convie,",
+				"O mon Sauveur, pour être à Toi,",
+				"À toi dans la mort, dans la vie.",
+				"Jésus, je viens à Toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil anglais",
+			"role": "music"
+		},
+		{
+			"name": "Henri Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af260",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,121 @@
+{
+	"id": "christ-est-la-lumiere",
+	"title": "Christ est la lumière",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1057"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quittant la gloire de ton ciel,",
+				"Tu es venu sur terre.",
+				"Fils aimé du Dieu éternel,",
+				"Tes bras tu as ouverts."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta grâce a bouleversé,",
+				"Le cours de notre humanité.",
+				"Nous crions ensemble : « Victoire ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est la lumière du monde.",
+				"Que sa gloire couvre la terre,",
+				"Puissance infinie qui libère.",
+				"Son nom est saint, il est saint, il est saint."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous, les fils et les filles du Roi,",
+				"Entonnons chaque jour",
+				"Un hymne de gloire et de joie,",
+				"Célébrant son amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les nations de la terre",
+				"S'inclineront devant le Père,",
+				"Chanteront ensemble : « Victoire ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est la lumière du monde.",
+				"Que sa gloire couvre la terre,",
+				"Puissance infinie qui libère.",
+				"Son nom est saint, il est saint, il est saint."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est la lumière du monde.",
+				"Que sa gloire couvre la terre,",
+				"Puissance infinie qui libère."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Son nom est saint (son nom est saint),",
+				"Il est saint (il est saint),",
+				"Son nom est saint (son nom est saint),",
+				"Il est saint (il est saint),",
+				"Son nom est saint (son nom est saint),",
+				"Il est saint (il est saint),",
+				"Son nom est saint (son nom est saint),",
+				"Il est saint, il est saint."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Christ est la lumière du monde.",
+				"Que sa gloire couvre la terre,",
+				"Puissance infinie qui libère.",
+				"Son nom est saint, il est saint, il est saint.",
+				"Il est saint."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Marvane et Paul Baloche",
+			"role": "music"
+		},
+		{
+			"name": "Matt Marvane et Paul Baloche",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1057",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

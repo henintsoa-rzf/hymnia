@@ -1,0 +1,39 @@
+{
+	"id": "emmanuel",
+	"title": "Emmanuel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "260"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Emmanuel, Emmanuel,",
+				"Il s'appelle, Emmanuel.",
+				"Dieu se révèle parmi nous,",
+				"Il s'appelle Emmanuel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jeff Buchan",
+			"role": "music"
+		},
+		{
+			"name": "Jeff Buchan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem260",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

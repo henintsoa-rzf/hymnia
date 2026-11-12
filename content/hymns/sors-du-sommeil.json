@@ -1,0 +1,97 @@
+{
+	"id": "sors-du-sommeil",
+	"title": "Sors du sommeil.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "267"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sors du sommeil où tu te plonges !",
+				"Réveille-toi !",
+				"Réveille-toi !",
+				"L'âme ne peut vivre de songes,",
+				"Réveille-toi !",
+				"Réveille-toi !",
+				"L'âme ne peut vivre de songes,",
+				"Elle vit d'amour et de foi !",
+				"Sors du sommeil où tu te plonges,",
+				"Réveille-toi !",
+				"Réveille-toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jette au loin tes linceuls funèbres,",
+				"Réveille-toi !",
+				"Réveille-toi !",
+				"Tu n'es pas fait pour les ténèbres,",
+				"Réveille-toi !",
+				"Réveille-toi !",
+				"Tu n'es pas fait pour les ténèbres,",
+				"Le soleil s'est levé sur toi !",
+				"Jette au loin tes linceuls funèbres,",
+				"Réveille-toi !",
+				"Réveille-toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vers Christ, vers la vie éternelle,",
+				"Réveille-toi !",
+				"Réveille-toi !",
+				"Lève les yeux, ouvre ton aile,",
+				"Réveille-toi !",
+				"Réveille-toi !",
+				"Lève les yeux, ouvre ton aile,",
+				"Obéis à la grande loi !",
+				"Vers Christ, vers la vie éternelle,",
+				"Réveille-toi !",
+				"Réveille-toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Comme à la fleur vole l'abeille,",
+				"Réveille-toi !",
+				"Réveille-toi !",
+				"Lorsque le doux printemps s'éveille",
+				"Réveille-toi !",
+				"Réveille-toi !",
+				"Lorsque le doux printemps s'éveille,",
+				"Que ton âme vole à son Roi !",
+				"Comme à la fleur vole l'abeille,",
+				"Réveille-toi !",
+				"Réveille-toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "F. Wilson",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af267",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

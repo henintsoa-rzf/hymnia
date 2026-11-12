@@ -1,0 +1,96 @@
+{
+	"id": "quelqu-un-frappe-a-votre-porte",
+	"title": "Quelqu'un frappe à votre porte.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "223"
+		},
+		{
+			"hymnal": "cd",
+			"number": "190"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quelqu'un frappe à votre porte :",
+				"Ouvrez-Lui ! Ouvrez aujourd'hui !",
+				"C'est le ciel qu'il vous apporte :",
+				"Ouvrez-Lui, Ouvrez aujourd'hui !",
+				"Chez vous Il veut prendre place ;",
+				"Ouvrez avant qu'Il se lasse !",
+				"Le temps presse, le temps passe ;",
+				"Ouvrez-Lui ! Ouvrez aujourd'hui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ouvrez ! c'est lui qui pardonne :",
+				"Ouvrez-Lui ! Ouvrez aujourd'hui !",
+				"Acceptez tout ce qu'il donne :",
+				"Ouvrez-Lui ! Ouvrez aujourd'hui !",
+				"Sa main va briser vos chaînes ;",
+				"Ses promesses sont certaines ;",
+				"Bientôt finiront vos peines ;",
+				"Ouvrez-Lui ! ouvrez aujourd'hui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seul Il ôte les souillures :",
+				"Ouvrez-Lui ! Ouvrez aujourd'hui !",
+				"Seul Il guérit les blessures :",
+				"Ouvrez-Lui ! Ouvrez aujourd'hui !",
+				"Quand la mort va vous surprendre",
+				"Seul Il pourra vous défendre,",
+				"Et sous son aile vous prendre :",
+				"Ouvrez-Lui ! ouvrez aujourd'hui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Écoutez l'appel si tendre !",
+				"Ouvrez-Lui ! Ouvrez aujourd'hui !",
+				"C'est assez le faire attendre ;",
+				"Ouvrez-Lui ! Ouvrez aujourd'hui !",
+				"Le Roi des rois vous implore :",
+				"Qui peut résister encore ?",
+				"Oh ! que votre âme l'adore !",
+				"Ouvrez-Lui ! Ouvrez aujourd'hui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edwin Othello Excell",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af223",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1018",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

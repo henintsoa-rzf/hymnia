@@ -1,0 +1,111 @@
+{
+	"id": "sauve-de-grace",
+	"title": "Sauve de grâce",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1005"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"L'Éternel fera germer le salut et la louange,",
+				"En présence de toutes les nations.",
+				"L'Éternel fera germer le salut et la louange,",
+				"En présence de toutes les nations.",
+				"L'Éternel fera germer le salut et la louange,",
+				"En présence de toutes les nations."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Hosanna ! Hosanna ! Hosanna !",
+				"Sauve, Éternel !",
+				"Hosanna ! Hosanna ! Hosanna !",
+				"Sauve, de grâce !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Esprit du Seigneur, l'Éternel,",
+				"Est sur moi, il m'a envoyé",
+				"Pour porter de bonnes nouvelles",
+				"À tous ceux qui sont humiliés,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour soigner les âmes affligées",
+				"Et pour guérir les cœurs brisés,",
+				"Pour délivrer les prisonniers",
+				"Et pour dire aux captifs : « Sortez ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Hosanna ! Hosanna ! Hosanna !",
+				"Sauve, Éternel !",
+				"Hosanna ! Hosanna ! Hosanna !",
+				"Sauve, de grâce !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'Esprit du Seigneur est sur moi",
+				"Pour consoler ceux qui gémissent,",
+				"Et pour changer leur deuil en joie,",
+				"Pour que la louange jaillisse,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour proclamer l'année de grâce",
+				"Et la faveur de notre Dieu,",
+				"Pour tous les peuples et toutes races,",
+				"Que son salut germe en tout lieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Hosanna ! Hosanna ! Hosanna !",
+				"Sauve, Éternel !",
+				"Hosanna ! Hosanna ! Hosanna !",
+				"Sauve, de grâce !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1005",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

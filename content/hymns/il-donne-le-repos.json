@@ -1,0 +1,98 @@
+{
+	"id": "il-donne-le-repos",
+	"title": "Il donne le repos",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "19"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez, pauvres esprits affligés,",
+				"Courbés sous le poids de vos péchés.",
+				"Le tendre Sauveur, loin d’accabler,",
+				"S’en est déjà chargé.",
+				"La somme écrasante de vos torts,",
+				"Entière, est effacée par sa mort !",
+				"Abandonnez-lui ce lourd fardeau ;",
+				"Il donne le repos,",
+				"Jésus donne le repos."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Venez, cœurs honteux et abattus,",
+				"Qui redoutez d’être mis à nu.",
+				"D’amour et de compassion ému,",
+				"Christ vous a secourus.",
+				"Vos pires souillures sont lavées,",
+				"Il vous revêt de sa sainteté !",
+				"Approchez, sans crainte de l’Agneau ;",
+				"Il donne le repos,",
+				"Jésus donne le repos."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Venez, frêles brebis fatiguées,",
+				"Si sur le chemin vous fléchissez.",
+				"Fidèle et puissant, le bon Berger",
+				"Viendra pour vous porter.",
+				"Gardés par la force de son bras,",
+				"Sa grâce à chaque instant suffira !",
+				"Venez boire au puits des vives eaux ;",
+				"Il donne le repos,",
+				"Jésus donne le repos."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/ildonnelerepos",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,129 @@
+{
+	"id": "quand-dans-la-nuit",
+	"title": "Quand dans la nuit",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "100"
+		},
+		{
+			"hymnal": "adf",
+			"number": "490"
+		},
+		{
+			"hymnal": "cd",
+			"number": "95"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand dans la nuit le Fils de Dieu",
+				"Vint naître sur la terre,",
+				"Soudain les chants mélodieux",
+				"Dans les cieux éclatèrent."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Noël ! Noël ! Chantons Noël !",
+				"Car voici notre Maître.",
+				"Pour nous sauver le Roi du ciel",
+				"Aujourd'hui vient de naître."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais il ne fut pas bien reçu,",
+				"Même à l'hôtellerie !",
+				"Seuls quelques bergers sont venus",
+				"Voir le fils de Marie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Noël ! Noël ! Chantons Noël !",
+				"Car voici notre Maître.",
+				"Pour nous sauver le Roi du ciel",
+				"Aujourd'hui vient de naître."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et maintenant notre Sauveur",
+				"Vient nous offrir sa grâce.",
+				"N'avez-vous pas dans votre cœur",
+				"Pour Jésus une place ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Noël ! Noël ! Chantons Noël !",
+				"Car voici notre Maître.",
+				"Pour nous sauver le Roi du ciel",
+				"Aujourd'hui vient de naître."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et quand un jour il reviendra",
+				"Proclamer sa victoire,",
+				"Alors tout homme le verra",
+				"Paraître dans sa gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Noël ! Noël ! Chantons Noël !",
+				"Car voici notre Maître.",
+				"Bientôt ! Bientôt ! le roi du ciel,",
+				"Jésus-Christ, va paraître !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air anglais",
+			"role": "music"
+		},
+		{
+			"name": "Jacques-A. Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg100",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af490",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/898",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

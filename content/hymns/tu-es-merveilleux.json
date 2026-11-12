@@ -1,0 +1,78 @@
+{
+	"id": "tu-es-merveilleux",
+	"title": "Tu es merveilleux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "717"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nul n'est comme toi, Dieu puissant éternel,",
+				"Tu nous as consolés,",
+				"Tu nous as relevés.",
+				"Ton amour est si fort pour restaurer, sauver.",
+				"Tu es merveilleux dans tout ce que tu fais.",
+				"Tu es merveilleux dans tout ce que tu fais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nul n'est comme toi, un père et un ami",
+				"Si tendre et si patient.",
+				"Tu corriges et conduis,",
+				"Toujours à nos côtés, toujours pour nous aider.",
+				"Tu es merveilleux dans tout ce que tu fais.",
+				"Tu es merveilleux dans tout ce que tu fais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nul n'est comme toi,",
+				"Dieu d'amour et de paix,",
+				"Justice et vérité.",
+				"En toi tout est parfait,",
+				"Lumière et sainteté, splendeur et majesté.",
+				"Tu es merveilleux dans tout ce que tu fais.",
+				"Tu es merveilleux dans tout ce que tu fais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! tu es merveilleux",
+				"dans tout ce que tu es,",
+				"Mon père et mon sauveur,",
+				"Mon ami et mon Seigneur ;",
+				"Tu es merveilleux dans tout ce que tu es.",
+				"Tu es merveilleux dans tout ce que tu es."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thérèse Motte",
+			"role": "music"
+		},
+		{
+			"name": "Thérèse Motte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem717",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

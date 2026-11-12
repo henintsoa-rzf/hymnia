@@ -1,0 +1,72 @@
+{
+	"id": "je-compte-sur-toi",
+	"title": "Je compte sur toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "861"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ma vie est entre tes mains, je compte sur toi.",
+				"Ton amour toujours présent, je compte sur toi.",
+				"Même si les montagnes s'écroulent dans la mer,",
+				"Je compte sur toi.",
+				"Même si les étoiles tombent et le monde tremble,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous les jours tu es fidèle,",
+				"Nouvelle grâce des cieux,",
+				"Comme un arbre dans ton temple",
+				"Entouré par les murs de ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand je ne vois pas le chemin,",
+				"je compte sur toi.",
+				"Je crois en ta parole, je compte sur toi.",
+				"Même si je m'enfonce, coule sous les vagues,",
+				"Je compte sur toi.",
+				"Je sais que tu me guideras vers la terre ferme."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous les jours tu es fidèle,",
+				"Nouvelle grâce des cieux,",
+				"Comme un arbre dans ton temple",
+				"Entouré par les murs de ton amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John de Jong",
+			"role": "music"
+		},
+		{
+			"name": "John de Jong",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem861",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,105 @@
+{
+	"id": "voici-de-tes-enfants",
+	"title": "Voici de tes enfants.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "167"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voici de tes enfants,",
+				"Seigneur, une poignée.",
+				"Seuls, nous ne pouvons",
+				"rien contre tes ennemis,",
+				"Mais au contact du mal",
+				"notre âme est indignée ;",
+				"Nous voulons voir ta cause",
+				"en tous les cœurs gagnée",
+				"Et sous ton étendard",
+				"le monde entier soumis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous voulons proclamer",
+				"le glorieux message",
+				"Qui parle de salut",
+				"et guérit la douleur,",
+				"Du péché, de la haine",
+				"arrêter le ravage ;",
+				"Répandre la lumière",
+				"abolir l'esclavage",
+				"Et, messagers de paix,",
+				"consoler le malheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous avons dans nos cœurs",
+				"une vive espérance,",
+				"Oui, nous croyons aux temps",
+				"glorieux et nouveaux",
+				"Où nul ne connaîtra",
+				"ni larmes, ni souffrance,",
+				"Et nous voulons hâter",
+				"ce jour de délivrance :",
+				"O Dieu daigne bénir",
+				"nos vœux et nos travaux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens, et nous te suivrons,",
+				"ô notre Capitaine !",
+				"Viens, et de ton Esprit",
+				"par Toi-même embrasés,",
+				"Unis dans ton amour,",
+				"nous marcherons sans peine,",
+				"La victoire avec Toi",
+				"nous paraîtra certaine,",
+				"Les sentiers les plus durs",
+				"nous deviendront aisés !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Viens ! À nous l'avenir",
+				"si ton drapeau nous guide !",
+				"Nous ne redoutons plus",
+				"le monde ni la mort.",
+				"Avec ta croix pour arme",
+				"et ta croix pour égide,",
+				"Le plus lâche devient",
+				"un héros intrépide",
+				"Et, soutenu par Toi,",
+				"le faible devient fort !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af167",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

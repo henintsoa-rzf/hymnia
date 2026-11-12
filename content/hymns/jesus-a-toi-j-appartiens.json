@@ -1,0 +1,95 @@
+{
+	"id": "jesus-a-toi-j-appartiens",
+	"title": "Jésus, à Toi j'appartiens.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "322"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, à toi j'appartiens pour jamais ;",
+				"Viens en mon âme habiter désormais ;",
+				"Divine Parole,",
+				"Brise toute idole,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par ton Saint-Esprit",
+				"Rends-moi pur comme toi !",
+				"Pur comme toi !",
+				"Pur comme toi !",
+				"Par ton Saint-Esprit",
+				"Rends-moi pur comme toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, du ciel où ton trône est assis,",
+				"Montre la route à mes pas indécis.",
+				"Je te sacrifie",
+				"Mon cœur et ma vie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par ton Saint-Esprit",
+				"Rends-moi pur comme toi !",
+				"Pur comme toi !",
+				"Pur comme toi !",
+				"Par ton Saint-Esprit",
+				"Rends-moi pur comme toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu veux, Seigneur, un cœur sanctifié ;",
+				"Donne-le moi, divin Crucifié !",
+				"Seigneur quand serai-je",
+				"Plus blanc que la neige ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par ton Saint-Esprit",
+				"Rends-moi pur comme toi !",
+				"Pur comme toi !",
+				"Pur comme toi !",
+				"Par ton Saint-Esprit",
+				"Rends-moi pur comme toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Gustavus Fischer",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af322",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

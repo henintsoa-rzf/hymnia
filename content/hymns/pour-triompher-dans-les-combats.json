@@ -1,0 +1,97 @@
+{
+	"id": "pour-triompher-dans-les-combats",
+	"title": "Pour triompher dans les combats",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "182"
+		},
+		{
+			"hymnal": "adf",
+			"number": "151"
+		},
+		{
+			"hymnal": "cd",
+			"number": "133"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour triompher dans les combats,",
+				"Quelle est notre force ici-bas ?",
+				"Quelle est la divine lumière",
+				"Qui nous dirige et nous éclaire",
+				"Dans la nuit sombre de l'erreur ?",
+				"C'est la Parole du Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quel est le glaive à deux tranchants",
+				"Dont les coups sont assez puissants",
+				"Pour briser l'arme la plus dure,",
+				"Et, malgré la plus forte armure,",
+				"Pour pénétrer jusques au cœur ?",
+				"C'est la Parole du Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quel est ce chant paisible et doux",
+				"Qui, d'en-haut venant jusqu'à nous,",
+				"Parle de grâce et de clémence,",
+				"Réveille en nos cœurs l'espérance,",
+				"Et console notre douleur ?",
+				"C'est la Parole du Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sainte Parole, habite en moi ;",
+				"Éclaire et ranime ma foi !",
+				"Dans les combats, sois ma défense,",
+				"Dans les dangers, ma délivrance,",
+				"Et que par toi je sois vainqueur,",
+				"Sainte Parole du Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Bacchus Dykes",
+			"role": "music"
+		},
+		{
+			"name": "Eugène Bersier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg182",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af151",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/968",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

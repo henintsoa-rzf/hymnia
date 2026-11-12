@@ -1,0 +1,110 @@
+{
+	"id": "l-eternel-seul-est-seigneur",
+	"title": "L'Éternel seul est Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "5"
+		},
+		{
+			"hymnal": "adf",
+			"number": "10"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel seul est Seigneur ;",
+				"Seul il est dominateur,",
+				"Seul il est dominateur",
+				"Sur les peuples de la terre ;",
+				"Il est maître souverain,",
+				"Il est maître souverain",
+				"Des ouvrages que sa main",
+				"Pour sa gloire a voulu faire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais quel bienheureux mortel",
+				"Au saint mont de l'Éternel,",
+				"Au saint mont de l'Éternel",
+				"Aura le droit de paraître ?",
+				"Et quel homme, ô puissant Roi !",
+				"Et quel homme, ô puissant Roi !",
+				"Pour demeurer avec toi",
+				"Assez juste pourrait être ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est l'homme qui, dans son cœur,",
+				"Par ton Esprit, ô Seigneur !",
+				"Par ton Esprit, ô Seigneur !",
+				"Hait du péché les souillures ;",
+				"Qui, fuyant la fausseté,",
+				"Qui, fuyant la fausseté,",
+				"Te sert en sincérité,",
+				"Levant vers toi des mains pures."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ouvrez-vous, célestes lieux :",
+				"Haussez-vous portes des cieux !",
+				"Haussez-vous portes des cieux !",
+				"Car voici le Roi de gloire,",
+				"Quel est ce Roi, ce vainqueur ?",
+				"Quel est ce Roi, ce vainqueur ?",
+				"C'est Jésus, le Rédempteur",
+				"Qui revient de la victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Avec Lui, nous entrerons,",
+				"Avec Lui nous régnerons",
+				"Avec Lui nous régnerons",
+				"Dans cette gloire éternelle :",
+				"Ouvrez-vous, portes des cieux,",
+				"Ouvrez-vous, portes des cieux,",
+				"Tressaillez, célestes lieux,",
+				"D'une allégresse nouvelle !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Webbe",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg005",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af010",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

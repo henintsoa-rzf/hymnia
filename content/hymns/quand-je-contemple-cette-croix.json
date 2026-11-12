@@ -1,0 +1,98 @@
+{
+	"id": "quand-je-contemple-cette-croix",
+	"title": "Quand je contemple cette croix",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "124"
+		},
+		{
+			"hymnal": "adf",
+			"number": "108"
+		},
+		{
+			"hymnal": "jem",
+			"number": "1174"
+		},
+		{
+			"hymnal": "cd",
+			"number": "102"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je contemple cette croix",
+				"Où tu mourus, Prince de gloire,",
+				"Combien mon orgueil d'autrefois",
+				"M'apparaît vain et dérisoire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O mon Sauveur, ne permets pas",
+				"Qu'en aucun bien je me confie,",
+				"Sauf dans le sang que tu versas",
+				"Pour que ta mort devînt ma vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vit-on jamais amour si grand",
+				"S'unir à douleur plus extrême,",
+				"Et l'épine, au front d'un mourant,",
+				"Resplendir comme un diadème ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je voudrais t'apporter, Seigneur,",
+				"Tout l'univers, en humble offrande ;",
+				"Mais voici ma vie et mon cœur :",
+				"C'est ce qu'un tel amour demande !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "W.-E. Miller",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg124",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af108",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem1174",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/951",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

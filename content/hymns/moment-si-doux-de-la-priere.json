@@ -1,0 +1,89 @@
+{
+	"id": "moment-si-doux-de-la-priere",
+	"title": "Moment si doux de la prière",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "212"
+		},
+		{
+			"hymnal": "adf",
+			"number": "175"
+		},
+		{
+			"hymnal": "cd",
+			"number": "273"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Moment si doux de la prière",
+				"Où Dieu, m'élevant jusqu'à lui,",
+				"Se révèle à moi comme un Père,",
+				"Comme un Sauveur, comme un appui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! oui, je t'aime, heure bénie !",
+				"Je te désire avec ardeur,",
+				"Car déjà souvent dans la vie",
+				"Tu m'as sauvé du tentateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est toi, doux moment de prière,",
+				"Qui me transportes jusqu'aux cieux,",
+				"Où Jésus, mon Ami, mon Frère,",
+				"Lui-même présente mes vœux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Déjà souvent, dans la tristesse,",
+				"Tu fus ma force et mon espoir ;",
+				"Pour qui te recherche sans cesse",
+				"Jamais il n'est de ciel trop noir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr Lowell Mason",
+			"role": "music"
+		},
+		{
+			"name": "H. Mégroz-Cornaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg212",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af175",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1304",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

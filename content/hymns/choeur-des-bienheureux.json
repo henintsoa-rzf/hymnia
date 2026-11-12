@@ -1,0 +1,103 @@
+{
+	"id": "choeur-des-bienheureux",
+	"title": "Chœur des bienheureux.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "245"
+		},
+		{
+			"hymnal": "cd",
+			"number": "145"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"chœur des bienheureux, célestes armées,",
+				"Chantez, voici l'enfant perdu !",
+				"Les portes du ciel ne sont plus fermées,",
+				"Il revient, le fils attendu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire, gloire à Dieu, dans les hauts cieux !",
+				"Quels doux accords retentissent !",
+				"Que nos voix s'unissent",
+				"À ces chants joyeux :",
+				"Gloire, gloire à Dieu, dans les hauts cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"« J'ai trouvé mon fils ! » dit le tendre Père",
+				"En l'embrassant avec amour.",
+				"« D'un manteau royal couvrez sa misère,",
+				"Et que tous chantent son retour. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire, gloire à Dieu, dans les hauts cieux !",
+				"Quels doux accords retentissent !",
+				"Que nos voix s'unissent",
+				"À ces chants joyeux :",
+				"Gloire, gloire à Dieu, dans les hauts cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Frères, accourez au Dieu qui vous aime !",
+				"Debout encore sur le seuil,",
+				"Il vous fait entendre un appel suprême",
+				"Et vous réserve un doux accueil,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire, gloire à Dieu, dans les hauts cieux !",
+				"Quels doux accords retentissent !",
+				"Que nos voix s'unissent",
+				"À ces chants joyeux :",
+				"Gloire, gloire à Dieu, dans les hauts cieux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frederick Root",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af245",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/980",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

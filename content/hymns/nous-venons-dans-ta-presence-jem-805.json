@@ -1,0 +1,101 @@
+{
+	"id": "nous-venons-dans-ta-presence-jem-805",
+	"title": "Nous venons dans ta présence",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "805"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous venons dans ta présence,",
+				"Nous venons dans ta présence,",
+				"Oh ! Jésus, pour adorer ton nom.",
+				"Nous venons dans ta présence,",
+				"Nous venons dans ta présence,",
+				"Oh ! Jésus, pour adorer ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous venons dans ta présence,",
+				"Nous venons dans ta présence,",
+				"Oh ! Jésus, pour adorer ton nom.",
+				"Pour adorer ton nom.",
+				"Pour adorer ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sans un défaut et sans tache,",
+				"Tu es l'Agneau chargé de nos peines.",
+				"Reçois nos vies comme une adoration.",
+				"C'est sans honneur et sans gloire",
+				"Que tu as souffert pour nous sauver.",
+				"Reçois nos vies comme une adoration.",
+				"Reçois nos vies comme une adoration."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous vivons dans ta présence,",
+				"Nous vivons dans ta présence,",
+				"Oh ! Jésus, pour adorer ton nom.",
+				"Nous vivons dans ta présence,",
+				"Nous vivons dans ta présence,",
+				"Oh ! Jésus, pour adorer ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous vivons dans ta présence,",
+				"Nous vivons dans ta présence,",
+				"Oh ! Jésus, pour adorer ton nom.",
+				"Pour adorer ton nom.",
+				"Pour adorer ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sans un défaut et sans tache,",
+				"Tu es l'Agneau chargé de nos peines.",
+				"Reçois nos vies comme une adoration.",
+				"C'est sans honneur et sans gloire",
+				"Que tu as souffert pour nous sauver.",
+				"Reçois nos vies comme une adoration.",
+				"Reçois nos vies comme une adoration."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tom Lane",
+			"role": "music"
+		},
+		{
+			"name": "Tom Lane",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem805",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

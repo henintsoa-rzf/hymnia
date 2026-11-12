@@ -1,0 +1,69 @@
+{
+	"id": "que-mes-regards",
+	"title": "Que mes regards",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1118"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sauveur, ô Maître, dirige mes pas.",
+				"Que mes regards ne s’attachent qu’à toi.",
+				"Que rien ne vienne troubler mon esprit,",
+				"C’est ma prière le jour et la nuit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sainte sagesse, parole de Dieu,",
+				"Fais que mon cœur s’abandonne à tes vœux.",
+				"Qu’ils me conduisent au plus près de mon Père,",
+				"Puisqu’être fils de Dieu m’est si cher."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que rien sur terre, que nul ici-bas",
+				"N’offre à mon âme autre chose que toi.",
+				"Tu es le seul à pouvoir me combler,",
+				"Mon héritage, ma joie et ma paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Clarté divine, victoire infinie,",
+				"Que ce soit toi qui soutiennes ma vie.",
+				"Sur ta lumière, attendant ton retour,",
+				"Je veux garder mes yeux chaque jour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mary Elisabeth Byrne",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini et Christian Frappier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1118",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

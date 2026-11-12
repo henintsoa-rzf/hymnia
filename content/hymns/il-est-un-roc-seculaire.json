@@ -1,0 +1,120 @@
+{
+	"id": "il-est-un-roc-seculaire",
+	"title": "Il est un roc séculaire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "397"
+		},
+		{
+			"hymnal": "cd",
+			"number": "244"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est un roc séculaire,",
+				"Que Dieu, pour mon cœur lassé,",
+				"Comme un abri tutélaire,",
+				"Au sein des flots a placé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon rocher, ma forteresse,",
+				"Mon asile protecteur,",
+				"Mon recours dans la détresse,",
+				"C'est Jésus, le Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À mes pieds l'océan gronde ;",
+				"Le vent siffle autour de moi…",
+				"Sur Christ, mon rocher, je fonde",
+				"Mon espérance et ma foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon rocher, ma forteresse,",
+				"Mon asile protecteur,",
+				"Mon recours dans la détresse,",
+				"C'est Jésus, le Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En vain l'ouragan fait rage,",
+				"Et nulle clarté ne luit,",
+				"Paisible au sein de l'orage,",
+				"J'attends l'aube après la nuit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon rocher, ma forteresse,",
+				"Mon asile protecteur,",
+				"Mon recours dans la détresse,",
+				"C'est Jésus, le Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jouet de l'onde agitée,",
+				"Cet abri, l'as-tu trouvé ?",
+				"Viens, pauvre âme tourmentée,",
+				"Au rocher qui m'a sauvé !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon rocher, ma forteresse,",
+				"Mon asile protecteur,",
+				"Mon recours dans la détresse,",
+				"C'est Jésus, le Rédempteur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lewis Hartsough",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af397",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1070",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

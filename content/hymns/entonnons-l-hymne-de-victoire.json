@@ -1,0 +1,73 @@
+{
+	"id": "entonnons-l-hymne-de-victoire",
+	"title": "Entonnons l'hymne de victoire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "62"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entonnons l'hymne de victoire.",
+				"Faisons au ciel monter nos chants,",
+				"Faisons au ciel monter nos chants,",
+				"Avec les esprits triomphants",
+				"Proclamons du Seigneur la gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À lui l'honneur et la puissance !",
+				"Il est le Roi de l'univers,",
+				"Il est le Roi de l'univers,",
+				"Le ciel, la terre et les enfers,",
+				"Tout doit lui rendre obéissance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Du haut des cieux, sur son Église,",
+				"Il abaisse un puissant regard,",
+				"Il abaisse un puissant regard,",
+				"Pour elle, il est un sûr rempart ;",
+				"Qu'à sa voix elle soit soumise."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Entonnons l'hymne de victoire ;",
+				"Que jusqu'au ciel montent nos chants,",
+				"Que jusqu'au ciel montent nos chants,",
+				"Que tous nos cœurs reconnaissants",
+				"Disent du Rédempteur la gloire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Georg Friedrich Haendel",
+			"role": "music"
+		},
+		{
+			"name": "F.-G. Clottu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem062",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

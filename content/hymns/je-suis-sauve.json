@@ -1,0 +1,77 @@
+{
+	"id": "je-suis-sauve",
+	"title": "Je suis sauvé !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "169"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis sauvé !",
+				"Dieu m’a fait grâce,",
+				"Jésus pour moi s’est donné.",
+				"Et sur la croix, prenant ma place,",
+				"Pour toujours m’a pardonné.",
+				"Voilà pourquoi je chante !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je suis sauvé !",
+				"L’Agneau sans tache,",
+				"De tout péché m’affranchit.",
+				"À la mort son amour m’arrache,",
+				"Dans son sang, il me blanchit.",
+				"Voilà pourquoi je chante !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je suis sauvé,",
+				"Tout mon coeur chante,",
+				"Un hymne saint au Seigneur,",
+				"D’amour mon âme est palpitante,",
+				"Gloire à Jésus, mon Sauveur.",
+				"Voilà pourquoi je chante !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Es-tu sauvé ?",
+				"Jésus lui-même",
+				"Dans son sang t’a-t-il lavé ?",
+				"Sa douce voix te dit : \"Je t’aime,",
+				"Oh ! viens et crois, sois sauvé !\"",
+				"Voilà pourquoi je chante !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J.H. Entwisle",
+			"role": "unspecified"
+		},
+		{
+			"name": "G. GUILLOD",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1002",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

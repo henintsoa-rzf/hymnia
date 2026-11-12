@@ -1,0 +1,129 @@
+{
+	"id": "c-est-mon-joyeux-service",
+	"title": "C'est mon joyeux service",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "275"
+		},
+		{
+			"hymnal": "adf",
+			"number": "289"
+		},
+		{
+			"hymnal": "cd",
+			"number": "319"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est mon joyeux service",
+				"D'offrir à Jésus-Christ,",
+				"En vivant sacrifice,",
+				"Mon corps et mon esprit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Accepte mon offrande,",
+				"Bien-aimé Fils de Dieu !",
+				"Et que sur moi descende",
+				"La flamme du saint lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'abandonne ma vie,",
+				"Sans regret ni frayeur,",
+				"À ta grâce infinie,",
+				"O mon Libérateur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Accepte mon offrande,",
+				"Bien-aimé Fils de Dieu !",
+				"Et que sur moi descende",
+				"La flamme du saint lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'un feu nouveau s'allume",
+				"Par ton amour en moi,",
+				"Et dans mon cœur consume",
+				"Ce qui n'est pas à toi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Accepte mon offrande,",
+				"Bien-aimé Fils de Dieu !",
+				"Et que sur moi descende",
+				"La flamme du saint lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens, Jésus ! sois mon Maître ;",
+				"Par ton sang racheté,",
+				"À toi seul je veux être,",
+				"Et pour l'éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Accepte mon offrande,",
+				"Bien-aimé Fils de Dieu !",
+				"Et que sur moi descende",
+				"La flamme du saint lieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Aline-J.-F. Knapp",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg275",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af289",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1120",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

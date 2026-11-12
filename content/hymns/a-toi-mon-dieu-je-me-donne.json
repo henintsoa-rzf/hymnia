@@ -1,0 +1,79 @@
+{
+	"id": "a-toi-mon-dieu-je-me-donne",
+	"title": "À Toi mon Dieu, je me donne.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "291"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À toi, mon Dieu ! je me donne,",
+				"Je me donne tout entier !",
+				"Ton amour est ma couronne,",
+				"Ta force est mon bouclier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je te donne mes journées,",
+				"Mes succès ou mes revers ;",
+				"Je te donne mes années,",
+				"Mes printemps et mes hivers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mes désirs, avec leur flamme,",
+				"Que tu peux seul apaiser ;",
+				"Et les rêves de mon âme,",
+				"Que tu veux réaliser."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Toutes les fleurs de ma route,",
+				"Viens les cueillir de ta main ;",
+				"Tous mes pleurs, goutte après goutte,",
+				"Les recueillir dans ton sein."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Dans la joie ou la souffrance",
+				"Je veux te suivre en tout lieu ;",
+				"Toute ma vie à l'avance,",
+				"Je te l'apporte, ô mon Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Felix Mendelssohn",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af291",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

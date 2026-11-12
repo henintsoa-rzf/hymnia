@@ -1,0 +1,107 @@
+{
+	"id": "beni-soit-ton-nom",
+	"title": "Béni soit ton nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "732"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit ton nom",
+				"là où tu donnes l'abondance",
+				"Et déverses ta bienveillance ;",
+				"béni soit ton nom.",
+				"Et béni soit ton nom",
+				"quand ma vie traverse un désert,",
+				"Quand je marche en terre inconnue ;",
+				"béni soit ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tes bienfaits font naître en moi",
+				"des chants de louange.",
+				"Et, même au cœur de la nuit, Seigneur,",
+				"Je redirai: « Béni soit le nom du Seigneur,",
+				"béni soit ton nom.",
+				"Béni soit le nom du Seigneur,",
+				"béni soit ton nom glorieux ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Béni soit ton nom",
+				"quand sur moi brille le soleil.",
+				"Quand la vie semble me sourire ;",
+				"béni soit ton nom.",
+				"Et béni soit ton nom",
+				"sur la route semée de souffrance.",
+				"S'il m'en coûte d'offrir ma louange ;",
+				"béni soit ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tes bienfaits font naître en moi",
+				"des chants de louange.",
+				"Et, même au cœur de la nuit, Seigneur,",
+				"Je redirai: « Béni soit le nom du Seigneur,",
+				"béni soit ton nom.",
+				"Béni soit le nom du Seigneur,",
+				"béni soit ton nom glorieux ! »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu donnes et tu reprends,",
+				"tu donnes et tu reprends.",
+				"Mon cœur choisit de dire:",
+				"« O béni soit ton nom ! »",
+				"Tu donnes et tu reprends,",
+				"tu donnes et tu reprends.",
+				"Mon cœur choisit de dire:",
+				"« O béni soit ton nom ! »"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"« Béni soit le nom du Seigneur,",
+				"béni soit ton nom.",
+				"Béni soit le nom du Seigneur,",
+				"béni soit ton nom glorieux ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt et Beth Redman",
+			"role": "music"
+		},
+		{
+			"name": "Matt et Beth Redman",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem732",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

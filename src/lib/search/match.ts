@@ -46,3 +46,19 @@ export function allTokensMatch(tokens: string[], words: string[]): boolean {
 		tokens.every((t, i) => words.some((w) => tokenMatches(t, w, i === tokens.length - 1)))
 	);
 }
+
+/**
+ * True if the query tokens appear one after the other in the words (a phrase of the lyrics,
+ * across line breaks), each matching by the same rules as above.
+ */
+export function phraseMatches(tokens: string[], words: string[]): boolean {
+	const n = tokens.length;
+	if (n === 0 || n > words.length) return false;
+	const last = n - 1;
+	for (let start = 0; start + n <= words.length; start++) {
+		let i = 0;
+		while (i < n && tokenMatches(tokens[i], words[start + i], i === last)) i++;
+		if (i === n) return true;
+	}
+	return false;
+}

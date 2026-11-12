@@ -1,0 +1,57 @@
+{
+	"id": "je-magnifierai",
+	"title": "Je magnifierai",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "531"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je magnifierai ton nom",
+				"Sur la terre entière.",
+				"Je magnifierai ton nom",
+				"Sur la terre entière.",
+				"Je magnifierai ton nom",
+				"Sur la terre entière.",
+				"Je magnifierai ton nom",
+				"Sur la terre entière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai pour toi, Seigneur,",
+				"Ma joie et mon amour.",
+				"Je chanterai pour toi, Seigneur,",
+				"Ma joie et mon amour.",
+				"Je chanterai pour toi, Seigneur,",
+				"Ma joie et mon amour.",
+				"Je chanterai pour toi, Seigneur,",
+				"Ma joie et mon amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Scott Palazzo",
+			"role": "music"
+		},
+		{
+			"name": "Scott Palazzo",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem531",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

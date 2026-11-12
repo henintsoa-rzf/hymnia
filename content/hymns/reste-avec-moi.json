@@ -1,0 +1,113 @@
+{
+	"id": "reste-avec-moi",
+	"title": "Reste avec moi.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "189"
+		},
+		{
+			"hymnal": "cd",
+			"number": "238",
+			"title": "Reste avec nous"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Reste avec moi !",
+				"C'est l'heure où le jour baisse.",
+				"L'ombre grandit… Seigneur, attarde-Toi !",
+				"Tous les appuis manquent à ma faiblesse :",
+				"Force du faible, ô Christ, reste avec moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le flot des jours rapidement s'écoule ;",
+				"Leur gloire est vaine et leur bonheur déçoit ;",
+				"Tout change et meurt,",
+				"tout chancelle et s'écroule…",
+				"Toi qui ne changes point, reste avec moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J'ose implorer plus qu'un regard qui passe ;",
+				"Viens, comme à tes disciples, autrefois,",
+				"Plein de douceur, de tendresse et de grâce,",
+				"Et pour toujours, Seigneur, reste avec moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens, mais non pas armé de ta colère.",
+				"Parle à mon cœur, apaise son émoi ;",
+				"Étends sur moi ton aile tutélaire :",
+				"Ami des péagers, reste avec moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Heure après heure, il me faut ta présence :",
+				"Le tentateur ne redoute que Toi ;",
+				"Qui donc prendrait contre lui ma défense ?",
+				"Dans l'ombre ou la clarté, reste avec moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Je ne crains rien quand ton bras me protège ;",
+				"Mes pleurs n'ont plus d'amertume, et l'effroi",
+				"Que m'inspiraient la mort et son cortège",
+				"A disparu… Seigneur, reste avec moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Montre ta croix à ma vue expirante,",
+				"Et que ton ciel s'illumine à ma foi !",
+				"L'ombre s'enfuit, voici l'aube éclatante !…",
+				"Dans la vie et la mort, reste avec moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Henry Monk",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af189",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1172",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

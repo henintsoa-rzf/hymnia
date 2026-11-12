@@ -1,0 +1,50 @@
+{
+	"id": "par-ta-grace",
+	"title": "Par ta grâce",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "516"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Par ta grâce, sans rien à moi,",
+				"Par ta grâce, je viens devant toi,",
+				"Par ta grâce, tu me reçois tel que je suis, par ta grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je ne suis pas digne de m’approcher de toi,",
+				"Je ne suis pas digne de ton amour,",
+				"Pourtant tu m’as aimé",
+				"Et dans tes bras je reçois ton pardon, ta dignité,",
+				"Par ta grâce,",
+				"Par ta grâce."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Decourroux",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Decourroux",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-16",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

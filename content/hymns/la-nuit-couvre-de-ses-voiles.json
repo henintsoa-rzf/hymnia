@@ -1,0 +1,125 @@
+{
+	"id": "la-nuit-couvre-de-ses-voiles",
+	"title": "La nuit couvre de ses voiles.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "497"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La nuit couvre de ses voiles",
+				"Hameaux, campagnes, vergers ;",
+				"Sous le regard des étoiles",
+				"Veillent en paix les bergers,",
+				"Lorsque, sur la plaine immense,",
+				"Une clarté resplendit,",
+				"Et dans l'imposant silence",
+				"Une voix leur dit :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est le doux chant de Noël,",
+				"Le cantique éternel :",
+				"« Paix, amour sur la terre,",
+				"Et gloire au Dieu du ciel ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"« Joignez-vous à nos louanges,",
+				"Bergers, le Christ vous est né ! »",
+				"Aussitôt mille voix d'anges",
+				"Remplissent l'air étonné.",
+				"Jamais plus douce musique",
+				"Ne réjouit ces bas lieux,",
+				"Non, jamais plus beau cantique",
+				"N'a charmé les cieux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est le doux chant de Noël,",
+				"Le cantique éternel :",
+				"« Paix, amour sur la terre,",
+				"Et gloire au Dieu du ciel ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les bergers, sans peur ni doute,",
+				"Laissent leurs troupeaux aux champs,",
+				"Et les échos de la route",
+				"Retentissent de leurs chants :",
+				"« Le Christ, le Sauveur du monde",
+				"Dans une crèche est venu ;",
+				"Il naît, charité profonde !",
+				"Petit, faible et nu ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est le doux chant de Noël,",
+				"Le cantique éternel :",
+				"« Paix, amour sur la terre,",
+				"Et gloire au Dieu du ciel ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sur les genoux de Marie,",
+				"Voici l'Enfant, doux trésor !",
+				"Dans la pauvre hôtellerie",
+				"Les bergers chantent encor :",
+				"« C'est pour nous, divin mystère !",
+				"Pour nous, qu'il naît en ce jour ! »",
+				"Et depuis lors, de la terre",
+				"Monte un chant d'amour :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est le doux chant de Noël,",
+				"Le cantique éternel :",
+				"« Paix, amour sur la terre,",
+				"Et gloire au Dieu du ciel ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Farmer",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af497",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

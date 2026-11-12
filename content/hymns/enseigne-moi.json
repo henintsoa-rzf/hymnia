@@ -1,0 +1,71 @@
+{
+	"id": "enseigne-moi",
+	"title": "Enseigne-moi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "206"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Enseigne-moi, Seigneur,",
+				"Enseigne-moi !",
+				"Garde mon faible cœur,",
+				"Enseigne-moi !",
+				"Que dans un chemin droit",
+				"Je marche par la foi",
+				"Les yeux fixés sur toi,",
+				"Enseigne-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, dans la douleur,",
+				"Enseigne-moi !",
+				"Sur la mer en fureur,",
+				"Dirige-moi !",
+				"Et dans la sombre nuit,",
+				"Si ton regard me suit,",
+				"Si ta main me conduit,",
+				"J'irai sans peur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par ton Esprit, Seigneur,",
+				"Enseigne-moi !",
+				"À vivre à ton honneur,",
+				"Où que je sois.",
+				"Jusqu'au bout du chemin,",
+				"Que je reste en ta main,",
+				"Sois mon constant soutien,",
+				"Enseigne-moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Benjamin Mansell Ramsey",
+			"role": "music"
+		},
+		{
+			"name": "Ruth Demaurex",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg206",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "redempteur-du-monde",
+	"title": "Rédempteur du monde",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "332"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rédempteur du monde,",
+				"Jésus-Christ, Fils de Dieu,",
+				"Ta joie et ta paix m'inondent,",
+				"Toi, l'Agneau venu des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci notre Père,",
+				"D'avoir donné Jésus ton Fils",
+				"Et d'envoyer ta lumière",
+				"Par le Saint-Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rédempteur du monde,",
+				"Pour nous tu fus crucifié,",
+				"Ton amour, ta grâce abondent,",
+				"Oh, glorieux ressuscité !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci notre Père,",
+				"D'avoir donné Jésus ton Fils",
+				"Et d'envoyer ta lumière",
+				"Par le Saint-Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Un jour dans la gloire,",
+				"Je verrai sa face,",
+				"Je vivrai sous son regard,",
+				"Sauvé par sa grâce."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci notre Père,",
+				"D'avoir donné Jésus ton Fils",
+				"Et d'envoyer ta lumière",
+				"Par le Saint-Esprit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Melody Green",
+			"role": "music"
+		},
+		{
+			"name": "Melody Green",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem332",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

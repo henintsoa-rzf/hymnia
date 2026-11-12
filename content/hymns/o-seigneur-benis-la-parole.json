@@ -1,0 +1,90 @@
+{
+	"id": "o-seigneur-benis-la-parole",
+	"title": "O Seigneur, bénis la parole",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "181"
+		},
+		{
+			"hymnal": "adf",
+			"number": "568"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Seigneur, bénis la parole",
+				"Que nous venons d'ouïr :",
+				"Ne permets pas qu'elle s'envole",
+				"De notre souvenir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jaloux de ta sainte influence,",
+				"Trop souvent le Malin",
+				"Accourt, et ravit la semence",
+				"Que répandit ta main."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Trop souvent elle est sans racine",
+				"En un terrain pierreux ;",
+				"Le soleil vient : elle décline",
+				"Sous l'ardeur de ses feux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Trop souvent les soucis du monde",
+				"Ou ses biens sans valeur,",
+				"Détruisant sa vertu féconde,",
+				"L'étouffent dans le cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Ah ! plutôt que ton Évangile",
+				"S'emparant de nos cœurs,",
+				"Ces quelques grains en donnent mille,",
+				"À ta gloire, ô Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul-Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "Henri Lutteroth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg181",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af568",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

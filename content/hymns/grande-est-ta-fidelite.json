@@ -1,0 +1,117 @@
+{
+	"id": "grande-est-ta-fidelite",
+	"title": "Grande est ta fidélité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "990"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Grande est ta fidélité, ta fidélité",
+				"Tous les jours de ma vie.",
+				"Grand est ton amour, grand est ton amour",
+				"Chaque instant de mes jours.",
+				"Grande est ta fidélité, ta fidélité",
+				"Tous les jours de ma vie.",
+				"Grand est ton amour, grand est ton amour",
+				"Chaque instant de mes jours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je me couche, tu es là !",
+				"À mon réveil, je sens ta présence.",
+				"Tu mets la joie dans mon cœur.",
+				"Tu m'appelles ton enfant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Grande est ta fidélité, ta fidélité",
+				"Tous les jours de ma vie.",
+				"Grand est ton amour, grand est ton amour",
+				"Chaque instant de mes jours.",
+				"Grande est ta fidélité, ta fidélité",
+				"Tous les jours de ma vie.",
+				"Grand est ton amour, grand est ton amour",
+				"Chaque instant de mes jours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand je prie, tu m'entends.",
+				"Quand je tombe, tu me relèves.",
+				"Tu m'affermis dans ta présence.",
+				"Avec toi, je ne crains rien."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Grande est ta fidélité, ta fidélité",
+				"Tous les jours de ma vie.",
+				"Grand est ton amour, grand est ton amour",
+				"Chaque instant de mes jours.",
+				"Grande est ta fidélité, ta fidélité",
+				"Tous les jours de ma vie.",
+				"Grand est ton amour, grand est ton amour",
+				"Chaque instant de mes jours."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oui, je crie à toi, j'élève ton nom à jamais.",
+				"Je proclame ta splendeur,",
+				"Chante ta grandeur pour toujours.",
+				"Oui, je crie à toi, j'élève ton nom à jamais.",
+				"Je proclame ta splendeur,",
+				"Chante ta grandeur pour toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Grande est ta fidélité, ta fidélité",
+				"Tous les jours de ma vie.",
+				"Grand est ton amour, grand est ton amour",
+				"Chaque instant de mes jours.",
+				"Grande est ta fidélité, ta fidélité",
+				"Tous les jours de ma vie.",
+				"Grand est ton amour, grand est ton amour",
+				"Chaque instant de mes jours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gilbert Chellembron",
+			"role": "music"
+		},
+		{
+			"name": "Gilbert Chellembron",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem990",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

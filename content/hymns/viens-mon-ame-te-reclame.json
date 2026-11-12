@@ -1,0 +1,136 @@
+{
+	"id": "viens-mon-ame-te-reclame",
+	"title": "Viens, mon âme te réclame.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "205"
+		},
+		{
+			"hymnal": "cd",
+			"number": "260"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens ! mon âme",
+				"Te réclame,",
+				"Car c'est Toi qui m'as cherché.",
+				"Pour te suivre,",
+				"Je te livre",
+				"Mon cœur avec son péché."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens ! mon âme",
+				"Te réclame,",
+				"Mon bonheur est tout en Toi.",
+				"Je t'adore,",
+				"Je t'implore ;",
+				"O Jésus, demeure en moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, ta grâce",
+				"Seule efface",
+				"Toutes mes iniquités,",
+				"Tu pardonnes,",
+				"Tu me donnes",
+				"La paix de tes rachetés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens ! mon âme",
+				"Te réclame,",
+				"Mon bonheur est tout en Toi.",
+				"Je t'adore,",
+				"Je t'implore ;",
+				"O Jésus, demeure en moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand je doute,",
+				"Quand ma route",
+				"Passe auprès du tentateur,",
+				"Ta main sûre",
+				"Me rassure",
+				"Et me rend plus que vainqueur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens ! mon âme",
+				"Te réclame,",
+				"Mon bonheur est tout en Toi.",
+				"Je t'adore,",
+				"Je t'implore ;",
+				"O Jésus, demeure en moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ah ! demeure",
+				"À chaque heure,",
+				"Mon rempart, mon défenseur,",
+				"Ma victoire",
+				"Et ma gloire,",
+				"Mon Jésus, mon seul Sauveur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens ! mon âme",
+				"Te réclame,",
+				"Mon bonheur est tout en Toi.",
+				"Je t'adore,",
+				"Je t'implore ;",
+				"O Jésus, demeure en moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Russel",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af205",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1083",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

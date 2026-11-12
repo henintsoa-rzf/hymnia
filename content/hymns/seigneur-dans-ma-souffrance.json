@@ -1,0 +1,96 @@
+{
+	"id": "seigneur-dans-ma-souffrance",
+	"title": "Seigneur, dans ma souffrance.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "104"
+		},
+		{
+			"hymnal": "adf",
+			"number": "104A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, dans ma souffrance,",
+				"À toi seul j'ai recours.",
+				"J'attends de ta puissance",
+				"Un sûr et prompt secours.",
+				"C'est dans les bras d'un Père",
+				"Que je me suis jeté ;",
+				"En sa grâce j'espère,",
+				"Car il m'a racheté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ame faible et craintive,",
+				"Pourquoi donc te troubler ?",
+				"Quand tu n'es plus captive,",
+				"Comment peux-tu trembler ?",
+				"Laisse aux enfants du monde,",
+				"Les soucis et les pleurs ;",
+				"Dieu, sur qui je me fonde,",
+				"A connu mes langueurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'il est doux de se dire :",
+				"L'Éternel pense à moi ;",
+				"Il sait quand je soupire,",
+				"Quand je suis dans l'effroi.",
+				"Il recueille mes larmes,",
+				"Il veut les adoucir ;",
+				"À toutes mes alarmes",
+				"Il daigne compatir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! viens dans ma détresse,",
+				"Me protéger, Seigneur,",
+				"Et sois ma forteresse",
+				"Au jour de la terreur.",
+				"Sois mon bien, mon partage ;",
+				"Mon espoir est en toi.",
+				"J'obtiendrai l'héritage,",
+				"Que j'attends par la foi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Sebastian Wesley",
+			"role": "music"
+		},
+		{
+			"name": "Mlle de Chabeaud-Latour",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af104",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af104a",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

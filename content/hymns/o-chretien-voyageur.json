@@ -1,0 +1,76 @@
+{
+	"id": "o-chretien-voyageur",
+	"title": "O chrétien voyageur !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "622"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O chrétien voyageur !",
+				"ne crains pas la tempête ;",
+				"Ne crains pas du midi les pesantes ardeurs :",
+				"Ne vois-tu pas Jésus,",
+				"qui dès longtemps apprête",
+				"Le refuge où bientôt",
+				"vont cesser tes langueurs ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Non, dans les sombres jours",
+				"de ta marche pénible,",
+				"Jamais, ô racheté ! tu n'es seul ici-bas :",
+				"Ton berger, ton Sauveur,",
+				"se tient, quoique invisible",
+				"Sans cesse à tes côtés, et veille sur tes pas…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quoi ! peut-il ignorer",
+				"que ton âme est souffrante,",
+				"Lui qui de ton fardeau voulut porter le poids ?",
+				"Te refuserait-il sa force consolante,",
+				"Lui qui pour tes péchés mourut sur une croix ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Avance donc en paix :",
+				"poursuis vers ta patrie",
+				"Le chemin que ton Dieu t'a lui-même tracé,",
+				"Et pense que pour toi, dans le ciel, Jésus prie,",
+				"Lorsqu'ici tu te plains, de fatigue oppressé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af622",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

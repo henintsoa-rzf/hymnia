@@ -1,0 +1,79 @@
+{
+	"id": "arrete-o-pecheur",
+	"title": "Arrête, ô pécheur !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "152"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Arrête, ô pécheur, arrête !",
+				"Il est sombre le chemin",
+				"Où tu vas, baissant la tête,",
+				"N’osant penser à ta fin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reviens au Dieu qui pardonne,",
+				"Qui relève le pécheur.",
+				"Il ne repousse personne;",
+				"Viens, c’est un libérateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Trop longtemps, dans la misère,",
+				"Dans la honte et le remords,",
+				"Tu t’es débattu, mon frère;",
+				"Laisse là ces vains efforts !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu pourras, dans la lumière,",
+				"Marcher libre avec ton Dieu,",
+				"Et le bon regard du Père",
+				"Te guidera du saint lieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Puis, au terme du voyage,",
+				"Là-haut, dans l’éternité,",
+				"Tu recevras l’héritage",
+				"Que Dieu donne au racheté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Coles Stebbins",
+			"role": "unspecified"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/986",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

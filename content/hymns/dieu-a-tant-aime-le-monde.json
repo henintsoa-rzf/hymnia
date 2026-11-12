@@ -1,0 +1,57 @@
+{
+	"id": "dieu-a-tant-aime-le-monde",
+	"title": "Dieu a tant aimé le monde",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "235"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu a tant aimé le monde",
+				"Qu'il a sacrifié son Fils",
+				"Afin que quiconque croit en lui",
+				"Ne périsse pas,",
+				"Mais que la vie éternelle",
+				"Soit désormais son destin.",
+				"Voici la bonne nouvelle",
+				"À saisir à pleines mains !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu a tant aimé le monde",
+				"Qu'il a sacrifié son Fils",
+				"Afin que quiconque croit en lui",
+				"Ne périsse pas,",
+				"Mais que la vie éternelle",
+				"Soit désormais son destin.",
+				"Voici la bonne nouvelle :",
+				"La vie à pleines mains !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre Lachat",
+			"role": "music"
+		},
+		{
+			"name": "Pierre Lachat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg235",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

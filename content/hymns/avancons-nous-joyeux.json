@@ -1,0 +1,77 @@
+{
+	"id": "avancons-nous-joyeux",
+	"title": "Avançons-nous joyeux.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "335"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Avançons-nous joyeux, toujours joyeux,",
+				"Vers le pays des esprits bienheureux,",
+				"Vers la demeure où Jésus pour nous prie,",
+				"Marchons joyeux, c'est là notre patrie.",
+				"Avançons-nous joyeux, toujours joyeux,",
+				"Vers le pays des esprits bienheureux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des chants d'amour retentissent aux cieux.",
+				"Quels doux concerts ! Harpes des bienheureux,",
+				"Nous entendrons votre sainte harmonie",
+				"Quand nous aurons atteint notre patrie.",
+				"Avançons-nous joyeux, toujours joyeux,",
+				"Vers les pays des esprits bienheureux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ton aiguillon, ô mort, tu ne l'as plus !",
+				"Tombeau, déjà nous ne te craignons plus ;",
+				"Sur Toi Jésus remporta la victoire ;",
+				"Il nous ouvrit le chemin de la gloire.",
+				"Lui-même dit : « Accourez tous joyeux",
+				"Vers le pays des esprits bienheureux. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Heureux bientôt dans un monde nouveau,",
+				"Nous prendrons place au banquet de l'Agneau.",
+				"Là, plus de cris, plus de deuil, plus de larmes,",
+				"Plus de péchés, de douleurs ni d'alarmes.",
+				"Là, nous serons joyeux, toujours joyeux.",
+				"C'est le pays des esprits bienheureux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cantiques du Réveil",
+			"role": "music"
+		},
+		{
+			"name": "Mme W. Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af335",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

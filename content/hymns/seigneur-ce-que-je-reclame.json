@@ -1,0 +1,91 @@
+{
+	"id": "seigneur-ce-que-je-reclame",
+	"title": "Seigneur, ce que je réclame",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "295"
+		},
+		{
+			"hymnal": "adf",
+			"number": "318"
+		},
+		{
+			"hymnal": "cd",
+			"number": "247"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, ce que je réclame,",
+				"C'est ce riche don d'amour !",
+				"Que cette céleste flamme",
+				"En moi brûle nuit et jour !",
+				"Cet amour, si fort, si tendre,",
+				"Amour qui supporte tout,",
+				"Qui ne veut pas se défendre,",
+				"Prêt à souffrir jusqu'au bout."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour les autres il s'oublie,",
+				"Il ne peut être envieux,",
+				"Tout éloge l'humilie,",
+				"Jamais il n'est orgueilleux.",
+				"Cet amour peut vaincre et fondre",
+				"Les cœurs méchants, durs, glacés ;",
+				"Ils ne peuvent rien répondre,",
+				"L'amour les a terrassés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Devant la vaste souffrance,",
+				"Qui s'étend de jour en jour,",
+				"Il faut un remède immense,",
+				"Il faut un immense amour.",
+				"Que jusqu'à la mort, fidèle,",
+				"Priant, luttant en tout lieu,",
+				"Ma vie entière révèle",
+				"L'amour sublime de Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J. de Heer",
+			"role": "music"
+		},
+		{
+			"name": "Mme Booth-Clibborn",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg295",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af318",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1073",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

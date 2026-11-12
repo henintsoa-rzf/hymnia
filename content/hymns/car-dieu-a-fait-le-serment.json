@@ -1,0 +1,65 @@
+{
+	"id": "car-dieu-a-fait-le-serment",
+	"title": "Car Dieu a fait le serment",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "525"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car Dieu a fait le serment",
+				"De nous délivrer",
+				"Du pouvoir de tous nos ennemis.",
+				"Car Dieu a fait le serment",
+				"De nous libérer,",
+				"Afin de le servir sans crainte."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Et de marcher devant Lui,",
+				"Dans la sainteté et la justice.",
+				"Et de marcher devant Lui,",
+				"Dans la sainteté et la justice,",
+				"Tous les jours de notre vie,",
+				"Tous les jours de notre vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car Dieu a fait le serment",
+				"De nous délivrer",
+				"Du pouvoir de tous nos ennemis.",
+				"Car Dieu a fait le serment",
+				"De nous libérer,",
+				"Afin de le servir sans crainte."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem525",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

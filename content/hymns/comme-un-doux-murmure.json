@@ -1,0 +1,84 @@
+{
+	"id": "comme-un-doux-murmure",
+	"title": "Comme un doux murmure",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "736"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme un doux murmure,",
+				"Comme une pluie légère,",
+				"Tu nous arroses de ta douce présence.",
+				"Tu déposes sur nous des couronnes d'or,",
+				"Tu nous appelles: « Mon plaisir. »",
+				"Tu déposes sur nous des couronnes d'or,",
+				"Tu nous appelles: « Mon plaisir. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors nos yeux s'ouvrent à ta gloire,",
+				"Nous te contemplons sur ton trône,",
+				"Revêtu d'un manteau de gloire,",
+				"Tu es le Roi.",
+				"Sur ta tête repose une couronne",
+				"Ornée de milliers de diamants,",
+				"Et ton regard sur nous se pose",
+				"Et nous transforme."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et des milliers d'anges,",
+				"Dansent autour de toi,",
+				"Élèvent la bannière",
+				"De ta royauté.",
+				"Les trompettes sonnent avec puissance,",
+				"Appelant ton règne sur la terre.",
+				"Les trompettes sonnent avec puissance,",
+				"Appelant ton règne sur la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors nos yeux s'ouvrent à ta gloire,",
+				"Nous te contemplons sur ton trône,",
+				"Revêtu d'un manteau de gloire,",
+				"Tu es le Roi.",
+				"Sur ta tête repose une couronne",
+				"Ornée de milliers de diamants,",
+				"Et ton regard sur nous se pose",
+				"Et nous transforme."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Géraldine Mojon",
+			"role": "music"
+		},
+		{
+			"name": "Géraldine Mojon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem736",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

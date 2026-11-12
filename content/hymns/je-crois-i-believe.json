@@ -1,0 +1,127 @@
+{
+	"id": "je-crois-i-believe",
+	"title": "Je crois (I Believe)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "701"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, je crois qu’il n’y a qu’un seul salut,",
+				"Qu’une porte qui mène à la vie,",
+				"Un seul pardon, une confession.",
+				"Oui, je crois dans le nom de Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, je crois à la crucifixion :",
+				"Par son sang je suis libéré.",
+				"Et je crois à la résurrection.",
+				"Alléluia, il a vaincu la mort."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louanges à Dieu, le Père,",
+				"Louanges à Christ, le Fils,",
+				"Louanges au Saint-Esprit.",
+				"Notre Dieu a triomphé !",
+				"Le Roi qui était, qui est et sera à jamais.",
+				"Au puissant nom de Jésus, je crois !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, je crois, mon espérance est au ciel :",
+				"Car, pour moi, il prépare une place,",
+				"Bien au-delà de tout ce que je vois,",
+				"Ce que j’entends ou imagine."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oui, je crois que le jour viendra,",
+				"Il revient enlever son Épouse.",
+				"Préparez vos parfums, louez l’Agneau sans fin.",
+				"Il s’est relevé comme un lion qui rugit."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Non je n’aurai jamais honte",
+				"De l’Évangile de Jésus-Christ.",
+				"Comment pourrais-je m’éloigner",
+				"De celui qui m’a sauvé ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Davenport",
+			"role": "lyrics"
+		},
+		{
+			"name": "Chris Davenport",
+			"role": "music"
+		},
+		{
+			"name": "Jonathan Smith",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jonathan Smith",
+			"role": "music"
+		},
+		{
+			"name": "Phil Wickham",
+			"role": "lyrics"
+		},
+		{
+			"name": "Phil Wickham",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		},
+		{
+			"name": "Sébastien",
+			"role": "translation"
+		},
+		{
+			"name": "Müller",
+			"role": "translation"
+		},
+		{
+			"name": "Rosalie Müller",
+			"role": "translation"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-1",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

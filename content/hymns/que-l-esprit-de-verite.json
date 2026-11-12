@@ -1,0 +1,116 @@
+{
+	"id": "que-l-esprit-de-verite",
+	"title": "Que l'esprit de vérité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "590"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que l'Esprit de vérité",
+				"Vienne sur nous maintenant",
+				"Pour que nous puissions te ressembler",
+				"Et savoir prier.",
+				"Que l'Esprit de vérité",
+				"Vienne sur nous maintenant",
+				"Pour que nous puissions te ressembler",
+				"Et savoir prier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Notre Père qui es aux cieux,",
+				"Que ton nom soit sanctifié,",
+				"Que ton règne vienne.",
+				"Amen."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que ton règne vienne,",
+				"Que ton règne vienne,",
+				"Que ta volonté soit faite",
+				"Dans nos vies.",
+				"Que ton règne vienne,",
+				"Que ton règne vienne,",
+				"Que ta volonté soit faite",
+				"Dans nos vies."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Notre Père qui es aux cieux,",
+				"Que ton nom soit sanctifié,",
+				"Donne-nous aujourd'hui",
+				"Le pain qui nourrit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh pardonne-nous.",
+				"Oh pardonne-nous,",
+				"Et à ceux qui nous offensent,",
+				"Nous pardonnons.",
+				"Oh pardonne-nous.",
+				"Oh pardonne-nous,",
+				"Et à ceux qui nous offensent,",
+				"Nous pardonnons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Notre Père qui es aux cieux,",
+				"Que ton nom soit sanctifié,",
+				"Délivre-nous du mal,",
+				"Garde-nous d'être tentés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À toi seul le règne,",
+				"À toi seul le règne,",
+				"À toi la puissance,",
+				"La gloire, aux siècles des siècles.",
+				"À toi seul le règne,",
+				"À toi seul le règne,",
+				"À toi la puissance,",
+				"La gloire, aux siècles des siècles.",
+				"Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem590",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,114 @@
+{
+	"id": "fou-de-toi",
+	"title": "Fou de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1099"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Même si mes yeux ne t'ont pas vu,",
+				"Si mes mains ne t'ont pas touché,",
+				"Tu es le Dieu en qui j'ai cru.",
+				"Même si mes yeux ne t'ont pas vu,",
+				"Quand, sur ma route, j'étais perdu,",
+				"C'est ton amour qui m'a trouvé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis fou de toi, tu es tout pour moi,",
+				"Tu as changé mes douleurs en cris de joie.",
+				"Je suis fou de toi, je puis tout par toi,",
+				"Je suis plus que vainqueur, Seigneur, avec toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et même au cœur des nuits trop noires",
+				"De peurs, de cris, de désespoir,",
+				"Tu es pour moi tel un rocher.",
+				"Même si mes yeux ne t'ont pas vu,",
+				"C'est ton chemin que je suivrai,",
+				"Dans ta main je suis rassuré."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis fou de toi, tu es tout pour moi,",
+				"Tu as changé mes douleurs en cris de joie.",
+				"Je suis fou de toi, je puis tout par toi,",
+				"Je suis plus que vainqueur, Seigneur, avec toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Qui est comparable à toi,",
+				"Créateur de l'univers ?",
+				"Qui est comparable à toi,",
+				"Dieu des cieux et de la terre ?"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Qui est comparable à toi,",
+				"Qui peut saisir ta grandeur ?",
+				"Et qui sera contre moi,",
+				"Si tu es avec moi, Seigneur,",
+				"Avec moi, Seigneur ?"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je suis fou de toi, tu es tout pour moi,",
+				"Tu as changé mes douleurs en cris de joie.",
+				"Je suis fou de toi, je puis tout par toi,",
+				"Je suis plus que vainqueur, Seigneur, avec toi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je suis fou de toi, tu es tout pour moi,",
+				"Tu as changé mes douleurs en cris de joie.",
+				"Je suis fou de toi, je puis tout par toi,",
+				"Je suis plus que vainqueur, Seigneur, avec toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Decourroux",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Decourroux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1099",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

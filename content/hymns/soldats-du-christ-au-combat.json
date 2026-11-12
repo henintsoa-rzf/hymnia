@@ -1,0 +1,65 @@
+{
+	"id": "soldats-du-christ-au-combat",
+	"title": "Soldats du Christ, au combat !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "371"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Soldats de Christ, au combat ! au combat !",
+				"L'ennemi règne où doit régner le Père ;",
+				"Ne comptons pas trouver sur cette terre",
+				"Le saint repos de l'éternel sabbat.",
+				"Ne comptons pas trouver sur cette terre",
+				"Le saint repos de l'éternel sabbat."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vivons de foi, d'espoir, de charité,",
+				"Et nous verrons s'étendre nos conquêtes ;",
+				"Déjà, chrétiens, se lèvent sur nos têtes",
+				"Les jours de gloire et d'immortalité !",
+				"Déjà, chrétiens, se lèvent sur nos têtes",
+				"Les jours de gloire et d'immortalité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et Toi, Seigneur, notre bien-aimé Roi,",
+				"Qui nous acquis par ton sang, par ta vie,",
+				"Conduis nos pas, éclaire, fortifie",
+				"Tes rachetés qui combattent pour Toi !",
+				"Conduis nos pas, éclaire, fortifie",
+				"Tes rachetés qui combattent pour Toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fr. Ambresin",
+			"role": "music"
+		},
+		{
+			"name": "Henri Hollard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af371",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

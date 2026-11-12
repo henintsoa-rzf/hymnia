@@ -1,0 +1,71 @@
+{
+	"id": "venez-voir-la-creche",
+	"title": "Venez voir la crèche.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "641"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez voir la crèche",
+				"Où Jésus est né.",
+				"C'est de là qu'il prêche",
+				"Au monde étonné.",
+				"Les grands de la terre",
+				"Restent confondus",
+				"Devant le mystère",
+				"De l'Enfant Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu même en personne",
+				"Descend jusqu'à nous.",
+				"Il aime, il pardonne,",
+				"Il nous sauve tous.",
+				"Dans cette humble étable",
+				"Reconnais ton Roi !",
+				"Pauvre âme coupable,",
+				"Il est né pour toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Noël, c'est la joie !",
+				"Ces cadeaux charmants,",
+				"Dieu vous les envoie,",
+				"Chers petits enfants !",
+				"Mais le don suprême",
+				"Qu'il offre aujourd'hui,",
+				"C'est son Fils Lui-même.",
+				"Ah ! Croyez en lui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johannes de Heer",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af641",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

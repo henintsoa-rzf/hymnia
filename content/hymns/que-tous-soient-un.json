@@ -1,0 +1,98 @@
+{
+	"id": "que-tous-soient-un",
+	"title": "Que tous soient un",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "701"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans ta douceur, viens guérir nos cœurs",
+				"Étouffés par l'amertume.",
+				"Dans ta bonté, viens réveiller",
+				"L'amour éteint par l'habitude.",
+				"Par ton Esprit, reconstruis",
+				"Un peuple debout pour la vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que nous soyons ensemble un signe,",
+				"Pour que ton règne s'établisse.",
+				"Que tous soient un comme tu es un,",
+				"Pour que le monde voie le chemin",
+				"Qui mène au Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans nos pensées,",
+				"Viens déposer la passion de la vérité,",
+				"Et que ta grâce, dans nos regards,",
+				"Renforce les liens étiolés.",
+				"Par ton amour, rassemble-nous",
+				"Pour hâter ton retour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que nous soyons ensemble un signe,",
+				"Pour que ton règne s'établisse.",
+				"Que tous soient un comme tu es un,",
+				"Pour que le monde voie le chemin",
+				"Qui mène au Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De ton Esprit, viens nous couvrir,",
+				"En chacun te révéler.",
+				"Dans ta compassion,",
+				"Viens et réponds aux soupirs de ta bien-aimée.",
+				"Écoute-nous,",
+				"Nous voulons ta gloire au milieu des nations."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que nous soyons ensemble un signe,",
+				"Pour que ton règne s'établisse.",
+				"Que tous soient un comme tu es un,",
+				"Pour que le monde voie le chemin",
+				"Qui mène au Père."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Elvire Dieny",
+			"role": "music"
+		},
+		{
+			"name": "Elvire Dieny",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem701",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

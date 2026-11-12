@@ -1,0 +1,61 @@
+{
+	"id": "quand-vous-m-invoquerez",
+	"title": "Quand vous m’invoquerez",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "311"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand vous m’invoquerez,",
+				"Quand vous viendrez m’adresser vos prières,",
+				"Moi je vous écouterai.",
+				"Et vous m’invoquerez,",
+				"Et vous viendrez m’adresser vos prières, vos prières."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car je connais ce que j’ai formé pour vous :",
+				"Projets de paix et non de malheur,",
+				"Pour vous donner un avenir plein d’espérance,",
+				"Une espérance, un avenir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand vous m’invoquerez,",
+				"Quand vous viendrez m’adresser vos prières,",
+				"Moi je vous exaucerai.",
+				"Et vous m’invoquerez,",
+				"Et vous viendrez m’adresser vos prières, vos prières."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "La Bible, Jérémie 29 : 11-12",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Richir",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-11",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

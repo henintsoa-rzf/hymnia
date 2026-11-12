@@ -1,0 +1,50 @@
+{
+	"id": "allons-aupres-de-dieu",
+	"title": "Allons auprès de Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "520"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Allons auprès de Dieu,",
+				"Le cœur rempli d'assurance,",
+				"Approchons-nous du trône de grâce,",
+				"Et Dieu viendra vers nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans le lieu très saint,",
+				"Nous nous tenons confiants,",
+				"Nos vies, nos cœurs lavés",
+				"Par le sang de l'Agneau,",
+				"Adorons et louons Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Fellingham",
+			"role": "music"
+		},
+		{
+			"name": "David Fellingham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem520",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

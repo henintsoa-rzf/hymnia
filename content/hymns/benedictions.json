@@ -1,0 +1,91 @@
+{
+	"id": "benedictions",
+	"title": "Bénédictions",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "215"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voici, compagnons le moment redouté",
+				"Le moment de nous quitter,",
+				"Mais notre Seigneur avec nous restera,",
+				"C'est lui qui nous gardera !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, gloire à Dieu notre créateur !",
+				"Gloire à Jésus notre Sauveur !",
+				"À l'Esprit-Saint qui habite en nos cœurs !",
+				"Alléluia, gloire au Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si nous étions seuls",
+				"Pour nous mettre en chemin,",
+				"Que seraient nos lendemains,",
+				"Mais notre Seigneur avec nous partira,",
+				"C'est lui qui nous bénira."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, gloire à Dieu notre créateur !",
+				"Gloire à Jésus notre Sauveur !",
+				"À l'Esprit-Saint qui habite en nos cœurs !",
+				"Alléluia, gloire au Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que notre Seigneur nous bénisse toujours",
+				"Et nous garde en son amour,",
+				"Alors nous pourrons",
+				"Chaque jour désormais,",
+				"Vivre ensemble dans sa paix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, gloire à Dieu notre créateur !",
+				"Gloire à Jésus notre Sauveur !",
+				"À l'Esprit-Saint qui habite en nos cœurs !",
+				"Alléluia, gloire au Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie populaire",
+			"role": "music"
+		},
+		{
+			"name": "Alain Burnand",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem215",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

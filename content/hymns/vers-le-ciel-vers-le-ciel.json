@@ -1,0 +1,73 @@
+{
+	"id": "vers-le-ciel-vers-le-ciel",
+	"title": "Vers le ciel, vers le ciel.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "437"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vers le ciel, vers le ciel,",
+				"J'entends, Jésus, ton appel,",
+				"Et mon cœur vers toi s'élance,",
+				"Dans la joyeuse espérance",
+				"De te voir, Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quel bonheur ! quel bonheur",
+				"D'être auprès de toi, Seigneur !",
+				"D'entrer dans la cité sainte,",
+				"Délivré de toute crainte,",
+				"À l'abri du Tentateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ici-bas, ici-bas",
+				"Tout se flétrit sous nos pas.",
+				"De toi mon âme est avide ;",
+				"Je voudrais, d'un vol rapide,",
+				"Aller, ô Dieu, dans tes bras."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Heureux jour, heureux jour",
+				"Où s'ouvrira le séjour",
+				"De mon Sauveur que j'adore.",
+				"Quand brillera ton aurore ?",
+				"Je l'attends, ô Dieu d'amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Karl Friedrich Voigtländer",
+			"role": "music"
+		},
+		{
+			"name": "Théophile Rivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af437",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,59 @@
+{
+	"id": "il-est-grand",
+	"title": "Il est grand",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "855"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est grand, digne d'être exalté et loué.",
+				"De tout cœur nous l'aimons, l'adorons.",
+				"Il est grand, digne d'être exalté et loué.",
+				"Le Seigneur est saint."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Saint, saint, trois fois saint,",
+				"Le Seigneur est saint.",
+				"Saint, saint, trois fois saint,",
+				"Le Seigneur est saint."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est grand, digne d'être exalté et loué.",
+				"De tout cœur nous l'aimons, l'adorons.",
+				"Il est grand, digne d'être exalté et loué.",
+				"Le Seigneur est saint."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Kyle Rasmussen",
+			"role": "music"
+		},
+		{
+			"name": "Kyle Rasmussen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem855",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

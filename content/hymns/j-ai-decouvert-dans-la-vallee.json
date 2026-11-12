@@ -1,0 +1,85 @@
+{
+	"id": "j-ai-decouvert-dans-la-vallee",
+	"title": "J'ai découvert dans la vallée.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "495"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai découvert dans la vallée",
+				"Où je marchais le front penché,",
+				"Une humble fleur dissimulée",
+				"Dans le feuillage desséché.",
+				"Céleste Fleur que Dieu fit naître",
+				"Pour consoler l'humanité,",
+				"Fils de Marie, humble et doux Maître,",
+				"Revêts-nous de ta pureté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À genoux parmi les épines,",
+				"Je cueillis la suave fleur,",
+				"Car toujours les grâces divines",
+				"S'offrent à nous dans la douleur.",
+				"Céleste fleur que Dieu fit naître",
+				"Pour consoler l'humanité,",
+				"Fils de Marie, humble et doux Maître,",
+				"Enseigne-nous l'humilité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J'emporterai la plante admirable :",
+				"Mon cœur en fut tout parfumé,",
+				"Et dans mon logis misérable,",
+				"Par elle tout fut transformé.",
+				"Céleste fleur que Dieu fit naître",
+				"Pour consoler l'humanité,",
+				"Fils de Marie, humble et doux Maître",
+				"Remplis-nous de ta charité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je la garde, elle est toujours belle,",
+				"Et rien ne saura la flétrir,",
+				"J'irai dans la tombe avec elle :",
+				"Avec elle on ne peut mourir.",
+				"Céleste fleur que Dieu fit naître",
+				"Pour consoler l'humanité,",
+				"Fils de Marie, humble et doux Maître,",
+				"Tu donnes l'immortalité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Wolfgang Franck ; harmonisé par D. H. Engel",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af495",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

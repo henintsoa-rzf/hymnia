@@ -1,0 +1,57 @@
+{
+	"id": "tu-es-le-createur",
+	"title": "Tu es le Créateur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "298"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es le Créateur,",
+				"Tu crées de nouveaux cœurs,",
+				"Tu es le Créateur,",
+				"Tu es Seigneur.",
+				"Nous sommes ta création",
+				"Reçois l'adoration,",
+				"La louange qui t'es due,",
+				"Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es le Fils de Dieu,",
+				"Tu règnes dans les cieux,",
+				"Tu es l'Agneau de Dieu",
+				"Alléluia !",
+				"Tu es le Roi de gloire",
+				"Le Prince de la paix,",
+				"Tu es le Souverain",
+				"Ressuscité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gérard Bryon",
+			"role": "music"
+		},
+		{
+			"name": "Gérard Bryon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem298",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

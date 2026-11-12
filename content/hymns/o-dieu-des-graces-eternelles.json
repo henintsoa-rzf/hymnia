@@ -1,0 +1,97 @@
+{
+	"id": "o-dieu-des-graces-eternelles",
+	"title": "O Dieu des grâces éternelles !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "140"
+		},
+		{
+			"hymnal": "adf",
+			"number": "562"
+		},
+		{
+			"hymnal": "cd",
+			"number": "61"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu des grâces éternelles !",
+				"Le temps est proche où ton amour",
+				"Fera toutes choses nouvelles ;",
+				"Prépare-nous pour ce grand jour.",
+				"Au vrai bonheur tu nous appelles,",
+				"O Dieu des grâces éternelles !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Auprès des sources de la vie",
+				"Jésus fait paître ses troupeaux ;",
+				"Du berger la voix est suivie",
+				"Par les brebis et les agneaux :",
+				"Allons à lui, nous qu'il convie",
+				"Auprès des sources de la vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Celui-là vit, ô Dieu ! qui t'aime,",
+				"Car ne pas t'aimer, c'est la mort ;",
+				"Il vit, et son heure suprême",
+				"Est sa paisible entrée au port.",
+				"Puisqu'en aimant tu vis toi-même,",
+				"Celui-là vit, ô Dieu ! qui t'aime."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La foi doit se changer en vue ;",
+				"Une autre aurore suit le soir ;",
+				"Ainsi la grâce est attendue ;",
+				"Ainsi la gloire est notre espoir.",
+				"Regardons plus haut que la nue",
+				"Et que la foi se change en vue !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dimitri Bortniansky",
+			"role": "music"
+		},
+		{
+			"name": "Henri Lutteroth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg140",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af562",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/869",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

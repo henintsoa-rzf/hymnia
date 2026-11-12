@@ -1,0 +1,108 @@
+{
+	"id": "j-essayerai-encore",
+	"title": "J'essayerai encore",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1158"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme l'enfant jouant sur le sable,",
+				"Croyant qu'il peut vider la mer,",
+				"Je me tiens devant l'inexprimable,",
+				"L'amour plus grand que l'univers."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Dieu, éternel et infini,",
+				"Tu es Dieu, qu'aucun mot ne peut décrire",
+				"Mais j'essaierai encore."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui saurait dessiner ta grandeur ?",
+				"Qui pourrait dire ta beauté ?",
+				"Des millions d'anges louent ta splendeur,",
+				"Mais tu te plais à m'écouter."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Dieu, éternel et infini.",
+				"Tu es Dieu, qu'aucun mot ne peut décrire.",
+				"Oh ! Oh ! Tu es Dieu, éternel et infini.",
+				"Tu es Dieu, qu'aucun mot ne peut décrire,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais j'essaierai encore. J'essaierai encore.",
+				"Mes mots sont imparfaits, mais je continuerai.",
+				"J'essaierai encore. J'essaierai encore.",
+				"Oui, pour l'éternité, nos chants vont résonner."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'essaierai encore. J'essaierai encore.",
+				"Mes mots sont imparfaits, mais je continuerai.",
+				"J'essaierai encore. J'essaierai encore.",
+				"Oui, pour l'éternité, nos chants vont résonner."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'essaierai encore. J'essaierai encore.",
+				"Mes mots sont imparfaits, mais je continuerai.",
+				"J'essaierai encore. J'essaierai encore.",
+				"Oui, pour l'éternité, nos chants vont résonner."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu, que ma pensée ne peut cerner,",
+				"Mes mots s'épuisent à te saisir,",
+				"Mais, quand je contemple ta beauté,",
+				"Mon cœur ne peut les contenir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sébastien Corn et Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Sébastien Corn et Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1158",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

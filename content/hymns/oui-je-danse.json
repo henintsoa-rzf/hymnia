@@ -1,0 +1,64 @@
+{
+	"id": "oui-je-danse",
+	"title": "Oui, je danse",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "691"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je danse et je chante",
+				"Comme un fou pour mon Roi.",
+				"Rien ne peut empêcher",
+				"Ma passion de s'exprimer.",
+				"Oui, je danse et je chante",
+				"Comme un fou pour mon Roi.",
+				"Rien ne peut empêcher",
+				"Ma passion de s'exprimer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Et je veux bien",
+				"Avoir l'air encore un peu plus fou.",
+				"Qu'importe ce qu'on dit de moi,",
+				"Car je veux bien",
+				"Avoir l'air encore un peu plus fou."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Na, na, na, na, na, na ! Hey !",
+				"Na, na, na, na, na, na ! Hey !",
+				"Na, na, na, na, na, na ! Hey !",
+				"Na, na, na, na, na, na ! Hey !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Redman",
+			"role": "music"
+		},
+		{
+			"name": "Matt Redman",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem691",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

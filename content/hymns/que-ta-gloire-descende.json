@@ -1,0 +1,117 @@
+{
+	"id": "que-ta-gloire-descende",
+	"title": "Que ta gloire descende",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "817"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Créateur et Père,",
+				"déploie ton plan souverain,",
+				"Suscite une génération choisie",
+				"pour libérer ce pays,",
+				"Car la création soupire après ta révélation.",
+				"Répands ta puissance et ton onction,",
+				"Seigneur, fais-le maintenant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire descende en ce lieu,",
+				"Et d'ici qu'elle se répande",
+				"vers les nations !",
+				"Que sur nous repose ton parfum,",
+				"Alors que nous cherchons ta face."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, Roi des nations,",
+				"le monde a besoin de voir",
+				"La réalisation de tes promesses,",
+				"l'Église dans la victoire.",
+				"Seigneur, viens toucher notre cœur,",
+				"rends-nous forts de ta force ;",
+				"Dans nos faiblesses, viens nous aider,",
+				"Pour que nous puissions combattre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire descende en ce lieu,",
+				"Et d'ici qu'elle se répande",
+				"vers les nations !",
+				"Que sur nous repose ton parfum,",
+				"Alors que nous cherchons ta face."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ton règne vienne,",
+				"Ta volonté soit faite,",
+				"Que nous voyons sur terre",
+				"La gloire de ton Fils.",
+				"Que ton règne vienne,",
+				"Ta volonté soit faite,",
+				"Que nous voyons sur terre",
+				"La gloire de ton Fils."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ton règne vienne,",
+				"Ta volonté soit faite,",
+				"Que nous voyons sur terre",
+				"La gloire de ton Fils.",
+				"Que ton règne vienne,",
+				"Ta volonté soit faite,",
+				"Que nous voyons sur terre",
+				"La gloire de ton Fils."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire descende en ce lieu,",
+				"Et d'ici qu'elle se répande",
+				"vers les nations !",
+				"Que sur nous repose ton parfum,",
+				"Alors que nous cherchons ta face."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Ruis",
+			"role": "music"
+		},
+		{
+			"name": "David Ruis",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem817",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

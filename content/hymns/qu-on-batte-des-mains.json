@@ -1,0 +1,77 @@
+{
+	"id": "qu-on-batte-des-mains",
+	"title": "Qu'on batte des mains",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "13"
+		},
+		{
+			"hymnal": "adf",
+			"number": "1"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'on batte des mains !",
+				"Que tous les humains,",
+				"En cet heureux jour, viennent tour à tour",
+				"D'un chant solennel louer l'Éternel.",
+				"Peuples, il vous faut craindre le Très-Haut,",
+				"Le grand Roi qui peut faire, quand il veut,",
+				"Trembler à sa voix les plus puissants rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par son grand pouvoir Il nous fera voir",
+				"Les peuples soumis ; et nos ennemis,",
+				"Par lui châtiés seront sous nos pieds,",
+				"Ce Maître si doux a choisi pour nous",
+				"La meilleure part, et, sous son regard,",
+				"Israël en paix triomphe à jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Peuples, le voici qui se montre ici :",
+				"Que pour l'honorer, que pour l'adorer,",
+				"On aille au-devant du grand Dieu vivant !",
+				"Chantez donc, chantez toutes ses bontés ;",
+				"D'un cœur plein de foi chantez notre Roi,",
+				"Le vrai, le seul Dieu, qui règne en tout lieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg013",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af001",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

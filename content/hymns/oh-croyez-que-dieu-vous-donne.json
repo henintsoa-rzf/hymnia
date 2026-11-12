@@ -1,0 +1,105 @@
+{
+	"id": "oh-croyez-que-dieu-vous-donne",
+	"title": "Oh ! croyez que Dieu vous donne",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "222"
+		},
+		{
+			"hymnal": "adf",
+			"number": "255"
+		},
+		{
+			"hymnal": "cd",
+			"number": "158"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! croyez que Dieu vous donne",
+				"Tout ce qu'il promet,",
+				"Un Sauveur qui vous pardonne,",
+				"Un Sauveur parfait,",
+				"Un Sauveur plein de puissance",
+				"Sur la terre et dans les cieux,",
+				"Un Sauveur dont la présence",
+				"Seule rend heureux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce Sauveur vous fera vivre",
+				"Comme il a vécu ;",
+				"Vous pourrez partout le suivre",
+				"Sans être vaincu.",
+				"Jusqu'au bout dans la mêlée,",
+				"Son bras vous protégera,",
+				"Et dans la sombre vallée",
+				"Il vous conduira."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! Jésus, dis-leur toi-même",
+				"Que ta forte main",
+				"Fait passer celui qui t'aime",
+				"Par un sûr chemin,",
+				"Que tu veux de toute chute",
+				"Préserver ton faible enfant,",
+				"Pour qu'il sorte de la lutte",
+				"Pur et triomphant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oui, Seigneur, malgré l'orage,",
+				"Et malgré la nuit,",
+				"Nous voulons prendre courage,",
+				"Forts de ton appui,",
+				"Et joyeux, pleins d'assurance,",
+				"Nous avancer vers le ciel,",
+				"En saluant à l'avance",
+				"Le jour éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robert Lowry",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg222",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af255",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/991",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

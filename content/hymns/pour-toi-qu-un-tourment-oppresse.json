@@ -1,0 +1,89 @@
+{
+	"id": "pour-toi-qu-un-tourment-oppresse",
+	"title": "Pour toi qu'un tourment oppresse.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "536"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour toi qu'un tourment oppresse,",
+				"O cœur abattu !",
+				"Jésus est plein de tendresse,",
+				"Le sais-tu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vers Jésus, quelle lumière",
+				"Pourra me guider ?",
+				"Tes yeux doivent au Calvaire",
+				"Regarder."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ce roi, de quel diadème",
+				"Est-il couronné ?",
+				"Vois, d'épines son front blême",
+				"Est orné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quel sera d'un vrai fidèle",
+				"Le sort ici-bas ?",
+				"Les douleurs du saint modèle,",
+				"Ses combats."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Si je crois et si j'espère,",
+				"Qu'obtiendrai-je enfin ?",
+				"Paix et joie auprès du Père,",
+				"Dans son sein."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"J'entends ta voix, divin Maître ;",
+				"Elle me dit : Viens !",
+				"Me voici ! oui, je veux être",
+				"L'un des tiens."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henry-William Baker",
+			"role": "music"
+		},
+		{
+			"name": "Pettavel-Oliff",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af536",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

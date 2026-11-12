@@ -1,0 +1,73 @@
+{
+	"id": "tabernacle-au-milieu",
+	"title": "Tabernacle au milieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "596"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tabernacle au milieu de ton peuple,",
+				"Que ta shékina soit reconnue",
+				"Dans la joie et les acclamations.",
+				"Que ta gloire et ta majesté soient vues."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh alléluia, alléluia,",
+				"Gloire au grand Dieu d'Israël.",
+				"Oh alléluia, alléluia,",
+				"Honneur et gloire à son saint nom,",
+				"Honneur et gloire à son saint nom,",
+				"Gloire à son saint nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous célébrerons ta présence",
+				"Et nous danserons devant ton trône",
+				"À Sion, ton lieu de résidence,",
+				"Que toi seul reçoives nos louanges."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh alléluia, alléluia,",
+				"Gloire au grand Dieu d'Israël.",
+				"Oh alléluia, alléluia,",
+				"Honneur et gloire à son saint nom,",
+				"Honneur et gloire à son saint nom,",
+				"Gloire à son saint nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Kirk Dearman",
+			"role": "music"
+		},
+		{
+			"name": "Kirk Dearman",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem596",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,140 @@
+{
+	"id": "avec-des-cris-de-joie",
+	"title": "Avec des cris de joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "228"
+		},
+		{
+			"hymnal": "cd",
+			"number": "21"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai.",
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu, tu es mon Dieu,",
+				"Mon âme te recherche,",
+				"Et soupire après toi,",
+				"Sur la terre desséchée."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai.",
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsque je pense à toi,",
+				"Esseulé sur ma couche,",
+				"Je médite sur toi",
+				"Les veilles de la nuit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai.",
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je connais le bonheur,",
+				"À l'ombre de tes ailes,",
+				"Car tu es mon secours,",
+				"Ta droite me soutient."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai.",
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"J'aime te contempler,",
+				"Quand dans ton sanctuaire,",
+				"Ta gloire resplendit,",
+				"Ta puissance se révèle."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai.",
+				"Avec des cris de joie,",
+				"ma bouche te chantera,",
+				"J'élèverai mes mains et te célébrerai."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "L'équipe Timothée",
+			"role": "music"
+		},
+		{
+			"name": "L'équipe Timothée",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem228",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/911",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

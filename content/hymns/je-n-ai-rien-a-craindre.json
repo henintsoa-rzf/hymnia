@@ -1,0 +1,90 @@
+{
+	"id": "je-n-ai-rien-a-craindre",
+	"title": "Je n'ai rien à craindre",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "957"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu es mon berger,",
+				"Je ne manquerai de rien.",
+				"Tu me fais reposer",
+				"Dans de verts pâturages."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je n'ai rien à craindre,",
+				"Car tu es là, à mes côtés.",
+				"Quand je marche dans la vallée",
+				"De l'ombre de la mort,",
+				"Tu es là, tout près de moi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu me conduis près des eaux paisibles.",
+				"Ta houlette et ton bâton me rassurent."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je n'ai rien à craindre,",
+				"Car tu es là, à mes côtés.",
+				"Quand je marche dans la vallée",
+				"De l'ombre de la mort,",
+				"Tu es là, tout près de moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Le bonheur et la grâce m'accompagneront",
+				"Tous les jours de ma vie",
+				"Et j'habiterai dans la maison de l'Éternel",
+				"Jusqu'à la fin de mes jours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je n'ai rien à craindre,",
+				"Car tu es là, à mes côtés.",
+				"Quand je marche dans la vallée",
+				"De l'ombre de la mort,",
+				"Tu es là, tout près de moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc Dumont",
+			"role": "music"
+		},
+		{
+			"name": "Luc Dumont",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem957",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

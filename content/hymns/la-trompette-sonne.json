@@ -1,0 +1,71 @@
+{
+	"id": "la-trompette-sonne",
+	"title": "La trompette sonne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "535"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La trompette sonne sur notre pays,",
+				"Rassemblez-vous mes enfants.",
+				"La trompette sonne sur notre pays,",
+				"Rassemblez-vous pour prier ensemble,",
+				"Pour chercher ma face, implorer ma grâce,",
+				"Élever mon nom, recevoir mes dons.",
+				"Unissez-vous, unissez-vous,",
+				"Mon Esprit viendra sur vous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La trompette sonne sur notre pays,",
+				"Préparez-vous mes enfants.",
+				"La trompette sonne sur notre pays,",
+				"Le Roi des rois établit son règne,",
+				"Il prend possession de la terre entière,",
+				"Brise les nations d'un sceptre de fer.",
+				"Purifiez-vous, purifiez-vous,",
+				"Car le feu viendra sur vous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La trompette sonne sur notre pays,",
+				"Réveillez-vous mes enfants.",
+				"La trompette sonne sur notre pays,",
+				"Réveillez-vous car voici l'Époux.",
+				"Le repas des noces vous est préparé,",
+				"Des couronnes d'or vous sont réservées.",
+				"Réjouissez-vous, réjouissez-vous,",
+				"Car le Roi revient pour vous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem535",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

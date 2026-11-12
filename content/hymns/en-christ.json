@@ -1,0 +1,123 @@
+{
+	"id": "en-christ",
+	"title": "En Christ",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "32"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En Christ, je suis déclaré juste,",
+				"Rien ne me condamne plus,",
+				"Ma conscience est purifiée.",
+				"En Christ, mon âme est rachetée,",
+				"Je suis libre du passé,",
+				"Une création nouvelle."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Enfin ma vie est à l’abri",
+				"Cachée en Christ, cachée en Christ !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je ne suis plus ce que j’étais",
+				"Et pas encore ce que je deviendrai,",
+				"Mais grâce infinie :",
+				"Je suis qui je suis en Christ !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En Christ, choisi d’éternité,",
+				"Je suis enfant, héritier,",
+				"Bien-aimé de Dieu le Père.",
+				"En Christ, scellé par son appel,",
+				"Déjà citoyen du ciel,",
+				"Je paraîtrai avec lui."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Toujours ma vie est à l’abri,",
+				"Cachée en Christ, cachée en Christ !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Craintif ou confiant, je suis en Christ.",
+				"Fragile ou puissant, je suis en Christ.",
+				"Vaincu, triomphant, mon cri et mon chant :",
+				"Je suis qui je suis en Christ !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Loué, méprisé, je suis en Christ.",
+				"Échec ou succès, je suis en Christ.",
+				"Ce jour, à jamais, ma joie et ma paix :",
+				"Je suis qui je suis en Christ !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/enchrist",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

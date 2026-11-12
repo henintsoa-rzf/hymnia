@@ -1,0 +1,69 @@
+{
+	"id": "loin-du-sauveur-pourquoi-mon-frere",
+	"title": "Loin du sauveur, pourquoi, mon frère... ?",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "192"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Loin du Sauveur, pourquoi mon frère,",
+				"Resterais-tu dans le péché ?",
+				"As-tu trouvé sur cette terre",
+				"Le bonheur si longtemps cherché ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ah ! sans tarder reviens, mon frère,",
+				"Au Sauveur qui t’a racheté;",
+				"Il a pitié de ta misère,",
+				"Il t’aime pour l’éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Assez longtemps, dans l’esclavage",
+				"Sans succès tu t’es débattu.",
+				"Vaincu toujours, perdant courage,",
+				"Contre Satan que pouvais-tu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jamais le Seigneur ne repousse",
+				"L’infortuné qui vient à lui.",
+				"N’entends-tu pas sa voix si douce,",
+				"Qui te dit : Viens, viens aujourd’hui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "P.P. Bliss",
+			"role": "unspecified"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1020",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

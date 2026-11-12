@@ -1,0 +1,79 @@
+{
+	"id": "noel-jesus-est-ne",
+	"title": "Noël, Jésus est né",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "116"
+		},
+		{
+			"hymnal": "adf",
+			"number": "492"
+		},
+		{
+			"hymnal": "cd",
+			"number": "88"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Noël ! Jésus est né.",
+				"La lumière a resplendi.",
+				"Noël ! Jésus est né,",
+				"Dans les cieux l'étoile luit.",
+				"Mages d'Orient,",
+				"Adorez l'enfant",
+				"Car il vient du ciel.",
+				"Il est l'Éternel.",
+				"Chantons Noël."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est Emmanuel !",
+				"Dieu est venu parmi nous.",
+				"Chantons Noël, Noël,",
+				"Car il vient nous sauver tous.",
+				"Car Emmanuel,",
+				"Est venu du ciel",
+				"Pour nous racheter",
+				"Et nous délivrer",
+				"De nos péchés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air anglais",
+			"role": "music"
+		},
+		{
+			"name": "Jeanne Decorvet-Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg116",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af492",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/892",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

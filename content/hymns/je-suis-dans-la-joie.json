@@ -1,0 +1,78 @@
+{
+	"id": "je-suis-dans-la-joie",
+	"title": "Je suis dans la joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "110"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis dans la joie quand on me dit:",
+				"« Allons à la maison de l'Éternel »",
+				"Car mes pieds, mes pieds s'arrêtent ici",
+				"Devant tes portes ô Jérusalem.",
+				"Jérusalem tu es bâtie,",
+				"Comme une ville aux pierres unies",
+				"Et liées ensemble.",
+				"C'est là que viennent tes tribus,",
+				"C'est là que montent jusqu'aux nues,",
+				"Depuis ton saint temple,",
+				"Les louanges à l'Éternel,",
+				"Selon la loi d'Israël."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Car là sont les trônes de justice,",
+				"Les trônes de la maison de David,",
+				"Que tes fils, Seigneur, se réjouissent.",
+				"Demandez la paix de Jérusalem,",
+				"Oui que la paix soit dans tes murs",
+				"Et le repos dans tes palais.",
+				"À cause de mes frères",
+				"Je la désire, moi aussi",
+				"À cause de tous mes amis",
+				"Et prie Dieu le Père",
+				"Faisant des vœux de bonheur",
+				"Pour la maison du Seigneur."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je suis dans la joie quand on me dit:",
+				"« Allons à la maison de l'Éternel »",
+				"Car mes pieds, mes pieds s'arrêtent ici",
+				"Devant tes portes",
+				"O Jérusalem,",
+				"car l'on ne peut être heureux,",
+				"Qu'ici, dans tes portes Yérushalaïm."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gil Bernard",
+			"role": "music"
+		},
+		{
+			"name": "Gil Bernard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem110",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

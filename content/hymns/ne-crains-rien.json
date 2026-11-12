@@ -1,0 +1,71 @@
+{
+	"id": "ne-crains-rien",
+	"title": "Ne crains rien",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "614"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ne crains rien,",
+				"Tous les jours, je serai avec toi,",
+				"Tous les jours, je garderai ton chemin,",
+				"Alors ne crains rien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ne crains rien,",
+				"Même si la tempête fait rage,",
+				"Ma fidélité traverse les âges,",
+				"Alors ne crains rien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ne crains rien,",
+				"Mon amour pour toi est éternel,",
+				"Jamais je n’oublierai Jérusalem,",
+				"Alors ne crains rien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ne crains rien,",
+				"Car j’ai donné ma vie pour toi,",
+				"J’ai ton nom gravé au creux de mes mains,",
+				"Alors ne crains rien.",
+				"J’ai ton nom gravé au creux de mes mains,",
+				"Alors ne crains rien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Manu Richerd",
+			"role": "lyrics"
+		},
+		{
+			"name": "Manu Richerd",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-14",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

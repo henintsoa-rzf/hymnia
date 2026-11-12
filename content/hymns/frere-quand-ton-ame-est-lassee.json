@@ -1,0 +1,113 @@
+{
+	"id": "frere-quand-ton-ame-est-lassee",
+	"title": "Frère, quand ton âme est lassée.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "419"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Frère, quand ton âme est lassée,",
+				"Oh ! pense au royaume des cieux !",
+				"Élève, élève ta pensée",
+				"Vers ce séjour des bienheureux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vers les cieux, vers les cieux",
+				"Oh ! pense au royaume des cieux.",
+				"Vers les cieux, vers les cieux,",
+				"vers les cieux",
+				"Oh ! pense au royaume des cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce royaume, c'est ta patrie,",
+				"Jésus-Christ t'en fit citoyen ;",
+				"Elle ne peut t'être ravie,",
+				"Marche donc en paix, ô chrétien."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vers les cieux, vers les cieux",
+				"Oh ! pense au royaume des cieux.",
+				"Vers les cieux, vers les cieux,",
+				"vers les cieux",
+				"Oh ! pense au royaume des cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Là-haut s'épanouit la vie",
+				"Au sein de l'immortalité.",
+				"La justice, au bonheur unie,",
+				"Fleurit toute l'éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans les cieux, dans les cieux,",
+				"Oh ! pense au royaume des cieux.",
+				"Dans les cieux, dans les cieux,",
+				"dans les cieux",
+				"Oh ! pense au royaume des cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quelques jours d'épreuves encore,",
+				"Et puis, traversant le tombeau,",
+				"Tu verras resplendir l'aurore",
+				"D'un jour sans fin, d'un jour nouveau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans les cieux, dans les cieux,",
+				"Oh ! pense au royaume des cieux.",
+				"Dans les cieux, dans les cieux,",
+				"dans les cieux",
+				"Oh ! pense au royaume des cieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tullius Clinton O'Kane",
+			"role": "music"
+		},
+		{
+			"name": "C. Pascal",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af419",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,79 @@
+{
+	"id": "comme-aux-jours-du-prophete-elie",
+	"title": "Comme aux jours du prophète Élie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "895"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme aux jours du prophète Élie",
+				"Qui parlait au nom du Seigneur,",
+				"Et comme aux jours de ton serviteur Moïse",
+				"Qui rétablissait la justice,",
+				"Et malgré ces jours de grande épreuve,",
+				"De famine, de guerre, de ténèbres,",
+				"Nous sommes une voix dans le désert criant :",
+				"« Préparez la voie du Seigneur ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici, il vient au son de la trompette,",
+				"Chevauchant les nuées,",
+				"Brillant comme le soleil.",
+				"Élève ta voix, c'est l'année du jubilé,",
+				"Et du mont Sion vient le salut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Comme dans la vision d'Ézéchiel,",
+				"Les os desséchés reprenaient vie,",
+				"Et comme aux jours de ton serviteur David",
+				"Relevant l'autel de louange,",
+				"Voici le temps de la récolte.",
+				"Les champs sont blancs pour la moisson,",
+				"Nous sommes ouvriers de la vigne du Seigneur,",
+				"Proclamant la parole de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici, il vient au son de la trompette,",
+				"Chevauchant les nuées,",
+				"Brillant comme le soleil.",
+				"Élève ta voix, c'est l'année du jubilé,",
+				"Et du mont Sion vient le salut."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robin Mark",
+			"role": "music"
+		},
+		{
+			"name": "Robin Mark",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem895",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

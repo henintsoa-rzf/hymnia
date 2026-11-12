@@ -1,0 +1,147 @@
+{
+	"id": "oui-le-bonheur-et-la-grace",
+	"title": "Oui, le bonheur et la grâce",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "77"
+		},
+		{
+			"hymnal": "cd",
+			"number": "255"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pèlerin, j'errais loin de mon Père,",
+				"Dans le froid de la nuit du péché,",
+				"Maintenant je vis dans la lumière",
+				"Du bon Berger qui m'a retrouvé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;",
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"J'habiterai dans la maison de l'Éternel",
+				"J'habiterai dans la maison du Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;",
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il me conduit près des sources calmes,",
+				"Je me repose dans son amour ;",
+				"Chaque jour il restaure mon âme,",
+				"Et dans ses sentiers j'ai le secours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;",
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"J'habiterai dans la maison de l'Éternel",
+				"J'habiterai dans la maison du Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;",
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans la vallée de l'ombre de la mort,",
+				"Je ne crains aucun mal, tu es là;",
+				"Je suis environné de ton bras fort,",
+				"Et ma coupe déborde de joie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;",
+				"Oui, le bonheur et la grâce",
+				"m'accompagneront",
+				"Tous les jours, tous les jours de ma vie ;",
+				"Tous les jours, tous les jours de ma vie ;"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John W. Peterson",
+			"role": "music"
+		},
+		{
+			"name": "John W. Peterson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem077",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1174",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "tu-es-le-seul",
+	"title": "Tu es le seul",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1002"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je considère tes œuvres,",
+				"Je reconnais ta grandeur.",
+				"Quand je vois tous tes exploits,",
+				"Captivé, je viens à toi.",
+				"Alors j'élève ma voix",
+				"Et je proclame avec foi :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tu es le seul vrai Dieu,",
+				"Sauveur majestueux,",
+				"Rien n'égale ta splendeur !",
+				"Tu es le seul vrai Dieu,",
+				"Sauveur majestueux,",
+				"Rien n'égale ta splendeur ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand j'entends les témoignages",
+				"Te glorifiant d'âge en âge,",
+				"Je suis touché par ta grâce,",
+				"Ton amour qui nous dépasse.",
+				"Alors j'élève ma voix",
+				"Et je proclame avec foi :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tu es le seul vrai Dieu,",
+				"Sauveur majestueux,",
+				"Rien n'égale ta splendeur !",
+				"Tu es le seul vrai Dieu,",
+				"Sauveur majestueux,",
+				"Rien n'égale ta splendeur ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Siméon Freymond et Céline Meylan",
+			"role": "music"
+		},
+		{
+			"name": "Siméon Freymond et Céline Meylan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1002",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

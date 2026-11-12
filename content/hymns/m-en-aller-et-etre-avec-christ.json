@@ -1,0 +1,67 @@
+{
+	"id": "m-en-aller-et-etre-avec-christ",
+	"title": "M’en aller et être avec Christ",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "316"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que je sois triste, dans la souffrance,",
+				"Ou dans la joie, béni par Dieu :",
+				"M’en aller et être avec Christ,",
+				"C’est de beaucoup,",
+				"C’est de beaucoup le meilleur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ nous a préparé un’ place,",
+				"Dans la maison du Père !",
+				"Au son de la trompette,",
+				"Il descendra du ciel.",
+				"Nous serons enlevés dans les airs,",
+				"Dans les airs, à sa rencontre.",
+				"Nous serons toujours avec lui,",
+				"Dans la joie et dans la gloire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus de larmes,",
+				"Plus de pleurs,",
+				"Plus de souffrances !",
+				"Dieu essuiera toute larme,",
+				"Toute larme de nos yeux, oui,",
+				"Nous serons toujours avec lui,",
+				"Dans la joie et dans la gloire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-16",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

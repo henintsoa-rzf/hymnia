@@ -1,0 +1,88 @@
+{
+	"id": "o-christ-eternel-rocher",
+	"title": "O Christ, éternel rocher",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "241"
+		},
+		{
+			"hymnal": "adf",
+			"number": "239"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Christ, éternel Rocher,",
+				"Je viens en toi me cacher !",
+				"De ton cœur percé coulèrent",
+				"L'eau, le sang qui régénèrent :",
+				"Que par ce flot rédempteur",
+				"Du péché je sois vainqueur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tous les travaux de mes mains",
+				"Pour te plaire seraient vains,",
+				"Lors même qu'en ma détresse,",
+				"Mes pleurs couleraient sans cesse,",
+				"Ils ne sauraient me laver :",
+				"Toi seul peux et veux sauver !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, je n'apporte rien,",
+				"Ta croix seule est mon soutien.",
+				"Je viens à toi sans ressource ;",
+				"Souillé, je viens à la source",
+				"Ouverte pour les pécheurs :",
+				"Ah ! Rends-moi pur, ou je meurs !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tant que je respire encor ;",
+				"Quand pour moi viendra la mort ;",
+				"Lorsque je devrai paraître",
+				"Devant mon Juge et mon Maître,",
+				"O Christ, éternel Rocher,",
+				"Je veux en toi me cacher !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Richard Redhead",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg241",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af239",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

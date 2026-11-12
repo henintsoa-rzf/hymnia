@@ -1,0 +1,65 @@
+{
+	"id": "amoureux-de-mon-ame",
+	"title": "Amoureux de mon âme",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "657"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Amoureux de mon âme,",
+				"Laï, laï, laï, laï,",
+				"Amoureux de mon âme,",
+				"laï, la, la, laï,",
+				"Attire-moi dans tes voies,",
+				"Laï, la, la, laï, laï, laï,",
+				"Prompt à faire ta volonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux courir vers ton trône,",
+				"Laï, la, la, laï, laï, laï,",
+				"Comme une biche assoiffée."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Enseigne ton serviteur",
+				"Dans ce qui réjouit ton cœur.",
+				"Amoureux de mon âme,",
+				"Laï, la, la, laï, laï, laï,",
+				"Attire-moi dans tes voies.",
+				"Je veux courir vers ton trône,",
+				"Laï, la, la, laï, laï, laï,",
+				"Me prosterner, t'adorer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sara et Ehud Tzuaig",
+			"role": "music"
+		},
+		{
+			"name": "Sara et Ehud Tzuaig",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem657",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,85 @@
+{
+	"id": "a-toi-le-roi",
+	"title": "À toi le Roi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "381"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi, le Roi éternel,",
+				"À toi, le Roi immortel,",
+				"À toi le Roi invisible,",
+				"À toi, Dieu seul sage,",
+				"À toi, Dieu seul sage.",
+				"À toi, le Roi éternel,",
+				"À toi, le Roi immortel,",
+				"À toi le Roi invisible,",
+				"À toi, Dieu seul sage,",
+				"À toi, Dieu seul sage."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O, à toi, le Roi,",
+				"Soient louange et honneur,",
+				"Louange et honneur et gloire.",
+				"À toi, le Roi,",
+				"Soient louange et honneur et gloire.",
+				"À jamais. Amen, amen."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi, le Roi éternel,",
+				"À toi, le Roi immortel,",
+				"À toi le Roi invisible,",
+				"À toi, Dieu seul sage,",
+				"À toi, Dieu seul sage.",
+				"À toi, le Roi éternel,",
+				"À toi, le Roi immortel,",
+				"À toi le Roi invisible,",
+				"À toi, Dieu seul sage,",
+				"À toi, Dieu seul sage."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O, à toi, le Roi,",
+				"Soient louange et honneur,",
+				"Louange et honneur et gloire.",
+				"À toi, le Roi,",
+				"Soient louange et honneur et gloire.",
+				"À jamais. Amen, amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joey Holder",
+			"role": "music"
+		},
+		{
+			"name": "Joey Holder",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem381",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

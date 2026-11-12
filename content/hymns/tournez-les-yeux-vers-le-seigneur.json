@@ -1,0 +1,103 @@
+{
+	"id": "tournez-les-yeux-vers-le-seigneur",
+	"title": "Tournez les yeux vers le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "316"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tournez les yeux vers le Seigneur",
+				"Et rayonnez de joie.",
+				"Chantez son nom de tout votre cœur,",
+				"Il est votre Sauveur,",
+				"C'est lui votre Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai cherché le Seigneur",
+				"Et il m'a écouté.",
+				"Il m'a guéri de mes peurs",
+				"Et sans fin je le louerai."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tournez les yeux vers le Seigneur",
+				"Et rayonnez de joie.",
+				"Chantez son nom de tout votre cœur,",
+				"Il est votre Sauveur,",
+				"C'est lui votre Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu regarde ceux qu'il aime,",
+				"Il écoute leur voix ;",
+				"Il les console de leurs peines",
+				"Et il guide leurs pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tournez les yeux vers le Seigneur",
+				"Et rayonnez de joie.",
+				"Chantez son nom de tout votre cœur,",
+				"Il est votre Sauveur,",
+				"C'est lui votre Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ceux qui cherchent le Seigneur,",
+				"Ne seront privés de rien ;",
+				"S'ils lui ouvrent leur cœur",
+				"Ils seront comblés de biens."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tournez les yeux vers le Seigneur",
+				"Et rayonnez de joie.",
+				"Chantez son nom de tout votre cœur,",
+				"Il est votre Sauveur,",
+				"C'est lui votre Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Équipe Algeria",
+			"role": "music"
+		},
+		{
+			"name": "Équipe Algeria",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem316",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

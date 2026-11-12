@@ -1,0 +1,58 @@
+{
+	"id": "merci",
+	"title": "Merci",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "454"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci d'un cœur reconnaissant,",
+				"Merci au Seigneur trois fois saint,",
+				"Merci car il a donné Jésus-Christ",
+				"Son Fils.",
+				"Merci d'un cœur reconnaissant,",
+				"Merci au Seigneur trois fois saint,",
+				"Merci car il a donné Jésus-Christ",
+				"Son Fils."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Maintenant le faible dit: « je suis fort, »",
+				"Le pauvre dit: « je suis riche. »",
+				"Dieu a fait de grandes choses",
+				"Pour nous.",
+				"Maintenant le faible dit: « je suis fort, »",
+				"Le pauvre dit: « je suis riche. »",
+				"Dieu a fait de grandes choses",
+				"Pour nous.",
+				"Merci."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henri Smith",
+			"role": "music"
+		},
+		{
+			"name": "Henri Smith",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem454",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

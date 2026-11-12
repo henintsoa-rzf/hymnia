@@ -1,0 +1,70 @@
+{
+	"id": "j-aime-mon-dieu",
+	"title": "J'aime mon Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "26"
+		},
+		{
+			"hymnal": "adf",
+			"number": "21"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'aime mon Dieu, car son puissant secours",
+				"Montre qu'il a ma clameur entendue,",
+				"À mes soupirs son oreille est tendue :",
+				"Je veux aussi l'invoquer tous les jours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta main puissante a détourné ma mort,",
+				"Séché mes pleurs, soutenu ma faiblesse ;",
+				"Sous tes yeux donc je veux marcher sans cesse,",
+				"Toute ma vie, ô mon Dieu, mon support !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je veux toujours obéir à tes lois,",
+				"Chanter ta gloire, invoquer ta puissance,",
+				"Et devant tous, plein de reconnaissance,",
+				"En hymnes saints faire éclater ma voix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "P. Dagues",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg026",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af021",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

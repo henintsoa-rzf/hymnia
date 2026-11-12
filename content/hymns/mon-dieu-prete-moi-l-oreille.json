@@ -1,0 +1,71 @@
+{
+	"id": "mon-dieu-prete-moi-l-oreille",
+	"title": "Mon Dieu prête-moi l'oreille.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "20"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Dieu, prête-moi l'oreille",
+				"Dans ma douleur sans pareille !",
+				"Vois la misère où je suis,",
+				"Et soulage mes ennuis.",
+				"Seigneur, garantis ma vie,",
+				"Car te plaire est mon envie ;",
+				"Sauve, ô Dieu, ton serviteur,",
+				"Qui s'assure en ta faveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fais-moi connaître ta voie !",
+				"J'y veux marcher avec joie :",
+				"Toi-même incline mon cœur",
+				"À craindre ton nom, Seigneur :",
+				"Alors je dirai sans cesse",
+				"Ta grandeur et ta sagesse ;",
+				"Et je te célébrerai",
+				"Tout le temps que je vivrai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En toi seul mon âme espère,",
+				"O Dieu, lent à la colère",
+				"Et riche en gratuité,",
+				"Qui m'a toujours assisté !",
+				"Tourne vers moi ta face,",
+				"Daigne encor me faire grâce ;",
+				"Je veux observer ta loi :",
+				"Oh ! console et soutiens-moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af020",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

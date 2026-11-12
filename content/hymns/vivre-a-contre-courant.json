@@ -1,0 +1,74 @@
+{
+	"id": "vivre-a-contre-courant",
+	"title": "Vivre à contre-courant",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "313"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aide-moi, Seigneur à faire ce que tu veux,",
+				"Même si je dois être différent.",
+				"Différent des autres et différent du monde,",
+				"Des courants d’idées autour de moi.",
+				"Par ta puissance, aide-moi à vivre",
+				"Sans me conformer au siècle présent.",
+				"Oh Dieu, remplis-moi, donne-moi tes forces :",
+				"Que je n’aie pas honte de toi.",
+				"Si je dois subir les jugements, les rires,",
+				"Oh, que je regarde à toi, Jésus.",
+				"Si on me fait mal, tu me dis :",
+				"«Sois heureux,",
+				"Heureux sont tous ceux qui souffrent pour moi.»"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Aide-moi, Seigneur à faire ce que tu veux,",
+				"Même si je dois être différent.",
+				"Différent des autres et différent du monde,",
+				"Des courants d’idées autour de moi.",
+				"Par ta puissance, aide-moi à vivre",
+				"Sans me conformer au siècle présent.",
+				"Oh Dieu, remplis-moi, donne-moi tes forces :",
+				"Que je n’aie pas honte de toi.",
+				"Fais que je supporte mépris, rejet, critiques, sans faiblir,",
+				"Sans faire de compromis.",
+				"Je sais que tu m’aimes, fais que je n’oublie pas :",
+				"Tout ce que tu veux est bon pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-13",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

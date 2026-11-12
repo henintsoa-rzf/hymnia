@@ -1,0 +1,70 @@
+{
+	"id": "si-mon-peuple-s-humilie",
+	"title": "Si mon peuple s'humilie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "270"
+		},
+		{
+			"hymnal": "jem",
+			"number": "23"
+		},
+		{
+			"hymnal": "cd",
+			"number": "185"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si mon peuple s'humilie,",
+				"S'il prie en cherchant ma face,",
+				"Se détourne de sa voie impure,",
+				"Je l'exaucerai des cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si mon peuple s'humilie,",
+				"S'il prie en cherchant ma face,",
+				"Se détourne de sa voie impure,",
+				"Son péché j'effacerai,",
+				"Son pays je guérirai."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cyril Squire",
+			"role": "music"
+		},
+		{
+			"name": "Cyril Squire",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg270",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem023",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/261",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

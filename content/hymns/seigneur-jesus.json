@@ -1,0 +1,65 @@
+{
+	"id": "seigneur-jesus",
+	"title": "Seigneur Jésus.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "354"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur Jésus ! une vaste carrière",
+				"S'ouvre aux travaux des messagers de paix ;",
+				"De l'Évangile ils portent les bienfaits",
+				"Aux malheureux privés de sa lumière.",
+				"À leurs efforts donne un succès heureux !",
+				"Nous te prions pour eux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsque partout ces messagers fidèles,",
+				"O Rédempteur ! proclameront ta croix,",
+				"Dans les palais, en présence des rois,",
+				"Dans les déserts, dans les îles nouvelles,",
+				"À leurs efforts donne un succès heureux !",
+				"Nous te prions pour eux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous t'en prions, Seigneur ! bénis leur âme :",
+				"Que leur appui soit dans la vérité.",
+				"Nous te prions pour que ta charité",
+				"Brûle en leur cœur d'une immortelle flamme.",
+				"À leur amour réponds du haut des cieux !",
+				"Nous te prions pour eux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "C. Juillerat-Chasseur",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af354",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

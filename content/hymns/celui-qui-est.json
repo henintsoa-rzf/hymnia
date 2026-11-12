@@ -1,0 +1,103 @@
+{
+	"id": "celui-qui-est",
+	"title": "Celui qui est",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1119"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux être là, auprès de toi,",
+				"En ta présence où la mort n'est plus.",
+				"Et je veux entendre la voix des anges",
+				"Chanter ensemble : « Alléluia,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu trois fois saint, Dieu tout-puissant,",
+				"Celui qui est. Tu es digne,",
+				"Digne de gloire, Dieu tout-puissant,",
+				"Celui qui est. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux être près, près de ton cœur,",
+				"Aimer ce monde, haïr le mal,",
+				"Voir les hommes sans vie naître à nouveau,",
+				"Chanter ensemble : « Alléluia,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu trois fois saint, Dieu tout-puissant,",
+				"Celui qui est. Tu es digne,",
+				"Digne de gloire, Dieu tout-puissant,",
+				"Celui qui est. »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Les montagnes tremblent devant lui",
+				"Et les démons s'enfuient",
+				"À l'écho de ce grand nom :",
+				"Roi de majesté.",
+				"L'enfer n'a pas de pouvoir",
+				"Et ne peut résister",
+				"Face à la puissance et la présence"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De celui qui est, celui qui est,",
+				"Celui qui est.",
+				"Celui qui est, celui qui est,",
+				"Celui qui est."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Alléluia,",
+				"Dieu trois fois saint, Dieu tout-puissant,",
+				"Celui qui est. Tu es digne,",
+				"Digne de gloire, Dieu tout-puissant,",
+				"Celui qui est."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jared Anderson",
+			"role": "music"
+		},
+		{
+			"name": "Jared Anderson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1119",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

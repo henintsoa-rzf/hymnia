@@ -1,0 +1,94 @@
+{
+	"id": "l-heureux-troupeau",
+	"title": "L'heureux troupeau.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "498"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'heureux troupeau reposait sûrement",
+				"Dans un gras pâturage ;",
+				"Une brebis, seule, errait follement",
+				"Dans la nuit, dans l'orage.",
+				"Par monts, par vaux, exposée au danger,",
+				"Elle fuyait l'amour du bon Berger,",
+				"Elle fuyait l'amour du bon Berger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quatre-vingt-dix-neuf brebis sont ici ;",
+				"Qu'importe la centième ?",
+				"Mais le Berger dit : « Je la veux aussi,",
+				"C'est la brebis que j'aime.",
+				"Dans le désert je veux la retrouver,",
+				"Et, s'il le faut, mourir pour la sauver,",
+				"Et, s'il le faut, mourir pour la sauver. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ah ! parmi ceux qu'Il laissait dans le ciel,",
+				"Dans le séjour de gloire,",
+				"Nul ne connut l'amertume du fiel",
+				"Que le Sauveur dut boire.",
+				"Nul ne connut tout ce qu'Il a souffert",
+				"Pour sa brebis égarée au désert,",
+				"Pour sa brebis égarée au désert."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"« Pourquoi ce sang, dont je vois des chemins",
+				"Les pierres arrosées ?",
+				"O mon Sauveur ! pourquoi vois-je tes mains",
+				"Par les ronces percées ? »",
+				"« Pour ma brebis qui s'éloigne de moi,",
+				"Mais dont j'ai vu la misère et l'effroi,",
+				"Mais dont j'ai vu la misère et l'effroi. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Soudain, un cri sur les monts éclata :",
+				"« Ma brebis est trouvée ! »",
+				"Le chœur joyeux des anges répéta :",
+				"« Victoire ! Elle est sauvée ! »",
+				"Et, dans ses bras, le céleste Berger",
+				"La ramenait à l'abri du danger,",
+				"La ramenait à l'abri du danger."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af498",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

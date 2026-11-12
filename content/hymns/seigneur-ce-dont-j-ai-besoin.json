@@ -1,0 +1,53 @@
+{
+	"id": "seigneur-ce-dont-j-ai-besoin",
+	"title": "Seigneur, ce dont j'ai besoin",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "709"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, ce dont j'ai besoin,",
+				"C'est d'un cœur brisé.",
+				"Seigneur, ce dont j'ai besoin,",
+				"C'est d'un cœur brisé et contrit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Donne-moi un cœur tout simple",
+				"Qui ne soit pas divisé,",
+				"Qui ne s'enfle pas de connaissance,",
+				"Mais s'attache à ta présence.",
+				"Donne-moi un cœur tout simple",
+				"Qui ne soit pas divisé,",
+				"Qui ne s'enfle pas d'orgueil,",
+				"Mais qui vit simplement près de toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem709",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

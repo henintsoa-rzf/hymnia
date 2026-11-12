@@ -1,0 +1,97 @@
+{
+	"id": "le-vieux-noel-est-revenu",
+	"title": "Le vieux Noël est revenu.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "489"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le vieux Noël est revenu,",
+				"Vêtu de son manteau de neige ;",
+				"Petits et grands l'ont reconnu,",
+				"Et lui font un joyeux cortège.",
+				"Voici Noël, le gai Noël !",
+				"Dans la nuit, le froid, la souffrance,",
+				"À tous il parle d'espérance,",
+				"À tous il apporte le ciel !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici Noël, le gai Noël !",
+				"Dans la nuit, le froid, la souffrance,",
+				"À tous il parle d'espérance,",
+				"À tous il apporte le ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"« Noël d'où viens-tu de ce pas ? »",
+				"« Je viens de la cité bénie,",
+				"De Bethléem, où dans mes bras",
+				"J'ai tenu le fils de Marie. »",
+				"« Noël, que viens-tu faire ici ? »",
+				"« Je suis le messager de joie ;",
+				"Prenez les présents que voici,",
+				"L'enfant Jésus vous les envoie. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici Noël, le gai Noël !",
+				"Dans la nuit, le froid, la souffrance,",
+				"À tous il parle d'espérance,",
+				"À tous il apporte le ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"« Noël, as-tu d'autres enfants ? »",
+				"« J'ai visité toute la terre ;",
+				"Partout des hymnes triomphants",
+				"Ont célébré mon doux mystère ! »",
+				"« Noël, ne t'en va pas encor ! »",
+				"« Enfants, le plaisir n'a qu'une heure ;",
+				"Je pars, mais le divin trésor,",
+				"Jésus, auprès de vous, demeure ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici Noël, le gai Noël !",
+				"Dans la nuit, le froid, la souffrance,",
+				"À tous il parle d'espérance,",
+				"À tous il apporte le ciel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af489",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,106 @@
+{
+	"id": "comme-un-agneau",
+	"title": "Comme un agneau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "343"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "111"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme un agneau en silence,",
+				"Meurtri et battu,",
+				"Là sur ton dos tu portas",
+				"Les maux d'un monde déchu,",
+				"Souffrant, mourant, souffrant, mourant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es ressuscité, tu es vivant.",
+				"Alléluia ! Alléluia !",
+				"À toi gloire et puissance à jamais.",
+				"Alléluia ! Alléluia !",
+				"Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tôt le matin, tout en larmes,",
+				"Marie arriva.",
+				"Le cœur brisé, elle entendit",
+				"Que tu l'appelais:",
+				"Marie ! Maître ! Marie ! Maître !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es ressuscité, tu es vivant.",
+				"Alléluia ! Alléluia !",
+				"À toi gloire et puissance à jamais.",
+				"Alléluia ! Alléluia !",
+				"Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et, à la droite du Père,",
+				"Là-haut dans le ciel,",
+				"Tu commenças ton règne éternel",
+				"De paix et de joie.",
+				"Gloire, gloire, gloire, gloire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es ressuscité, tu es vivant.",
+				"Alléluia ! Alléluia !",
+				"À toi gloire et puissance à jamais.",
+				"Alléluia ! Alléluia !",
+				"Seigneur Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem343",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-11",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

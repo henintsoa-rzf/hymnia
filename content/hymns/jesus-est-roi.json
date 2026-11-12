@@ -1,0 +1,83 @@
+{
+	"id": "jesus-est-roi",
+	"title": "Jésus est Roi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "430"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est Roi, Il est Roi,",
+				"Il siège et règne en majesté.",
+				"Fais monter sa bannière,",
+				"Jésus est Roi,",
+				"Crie hosanna, Il est Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car le Seigneur est grand,",
+				"Il est digne de louange.",
+				"Sa gloire remplit les cieux.",
+				"Célébrons tous notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est Roi, Il est Roi,",
+				"Il siège et règne en majesté.",
+				"Fais monter sa bannière,",
+				"Jésus est Roi,",
+				"Crie hosanna, Il est Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Satan est désarmé",
+				"Et l'enfer est dépouillé.",
+				"Les démons sont enchaînés.",
+				"Jésus-Christ a triomphé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est Roi, Il est Roi,",
+				"Il siège et règne en majesté.",
+				"Fais monter sa bannière,",
+				"Jésus est Roi,",
+				"Crie hosanna, Il est Roi.",
+				"Crie hosanna, Il est Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rick Ridings",
+			"role": "music"
+		},
+		{
+			"name": "Rick Ridings",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem430",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

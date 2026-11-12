@@ -1,0 +1,100 @@
+{
+	"id": "seigneur-tu-donnes-ta-grace",
+	"title": "Seigneur, tu donnes ta grâce",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "268"
+		},
+		{
+			"hymnal": "adf",
+			"number": "194"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu donnes ta grâce",
+				"Au cœur qui regarde à toi ;",
+				"Quand je contemple ta face,",
+				"Dans ton amour, viens en moi !",
+				"Viens en moi ! Viens en moi !",
+				"Dans ton amour, viens en moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Père tendre et secourable,",
+				"Je fus rebelle à ta loi ;",
+				"Quoique impur et misérable,",
+				"Oh ! pardonne et bénis-moi !",
+				"Bénis-moi ! Bénis-moi !",
+				"Oh ! pardonne et bénis-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rédempteur toujours propice,",
+				"Je veux m'attacher à toi ;",
+				"J'ai faim, j'ai soif de justice :",
+				"Je t'appelle, réponds-moi !",
+				"Réponds-moi ! Réponds-moi !",
+				"Je t'appelle, réponds-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Saint-Esprit, souffle de vie,",
+				"Viens en mon cœur par la foi !",
+				"Dans le sang qui purifie,",
+				"De tout péché, lave-moi !",
+				"Lave-moi ! Lave-moi !",
+				"De tout péché, lave-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Par ton amour, ô bon Père,",
+				"Par le sang versé pour moi,",
+				"Par l'Esprit qui seul opère,",
+				"Dieu trois fois saint ! sauve-moi !",
+				"Sauve-moi ! Sauve-moi !",
+				"Dieu trois fois saint, sauve-moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Willliam Batchelder Bradbury",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg268",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af194",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

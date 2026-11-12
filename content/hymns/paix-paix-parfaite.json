@@ -1,0 +1,85 @@
+{
+	"id": "paix-paix-parfaite",
+	"title": "Paix, paix parfaite",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "325"
+		},
+		{
+			"hymnal": "adf",
+			"number": "395"
+		},
+		{
+			"hymnal": "cd",
+			"number": "191"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Paix, paix parfaite",
+				"En Jésus le Sauveur,",
+				"Parfaite paix, même pour moi, pécheur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Paix, paix parfaite !",
+				"Où sont tous mes péchés ?",
+				"Le sang de Christ les a tous effacés !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Paix, paix parfaite !",
+				"Au fort de ma douleur,",
+				"L'amour de Christ met la joie en mon cœur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Paix, paix parfaite",
+				"En notre Emmanuel,",
+				"Paix sur la terre et gloire dans le ciel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George-Thomas Caldbeck",
+			"role": "music"
+		},
+		{
+			"name": "Helen Gibson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg325",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af395",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1019",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

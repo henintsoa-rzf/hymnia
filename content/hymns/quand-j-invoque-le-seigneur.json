@@ -1,0 +1,48 @@
+{
+	"id": "quand-j-invoque-le-seigneur",
+	"title": "Quand j'invoque le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "353"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand j'invoque le Seigneur,",
+				"Quand je glorifie son nom,",
+				"Il me rend vainqueur de mes ennemis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est vivant ! Béni soit mon rocher,",
+				"Que le Dieu de mon salut soit exalté.",
+				"Il est vivant ! Béni soit mon rocher,",
+				"Que le Dieu de mon salut soit exalté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Richard Cook",
+			"role": "music"
+		},
+		{
+			"name": "Richard Cook",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem353",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

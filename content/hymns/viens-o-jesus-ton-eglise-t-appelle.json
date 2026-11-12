@@ -1,0 +1,85 @@
+{
+	"id": "viens-o-jesus-ton-eglise-t-appelle",
+	"title": "Viens, ô Jésus, ton Église t'appelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "137"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, ô Jésus, ton Église t'appelle ;",
+				"Viens établir ton règne glorieux !",
+				"Nous t'attendons :",
+				"descends du haut des cieux !",
+				"Tu l'as promis, et tu seras fidèle,",
+				"Tu l'as promis, et tu seras fidèle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ne laisse pas plus longtemps notre terre",
+				"Livrée au mal, à la haine, à l'erreur :",
+				"N'entends-tu point le cri de sa douleur ?",
+				"Ah ! dans sa nuit fais briller ta lumière !",
+				"Ah ! dans sa nuit fais briller ta lumière !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nos faibles mains se lassent de combattre,",
+				"Nos tristes cœurs se lassent d'espérer ;",
+				"Viens sans retard, oh ! viens nous délivrer :",
+				"Notre courage est si prompt à s'abattre !",
+				"Notre courage est si prompt à s'abattre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oui, des méchants tu confondras l'audace,",
+				"Car dès longtemps tu nous l'as annoncé :",
+				"Tout œil verra Celui qu'ils ont percé,",
+				"Et tout genou ploiera devant ta face !",
+				"Et tout genou ploiera devant ta face !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Hâte, ô Jésus, l'heure de la victoire !",
+				"Parais bientôt, étoile du matin !",
+				"Aube du jour où le mal prendra fin,",
+				"Anéanti par l'éclat de ta gloire !",
+				"Anéanti par l'éclat de ta gloire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mme H. Lutteroth",
+			"role": "music"
+		},
+		{
+			"name": "Chants Chrétiens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af137",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

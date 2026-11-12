@@ -1,0 +1,95 @@
+{
+	"id": "voudrais-tu-gouterle-parfait-bonheur",
+	"title": "Voudrais-tu goûterle parfait bonheur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "229"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voudrais-tu goûter le parfait bonheur ?",
+				"O toi que le monde enlace,",
+				"Réponds à la voix de ton Rédempteur,",
+				"Reçois humblement sa grâce !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À la grâce,",
+				"À la Croix,",
+				"Viens, mon frère,",
+				"Viens et crois !",
+				"Le sang de Jésus efface",
+				"Tous tes péchés à la fois !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Laisse la folie et la vanité !",
+				"C'est une ivresse qui passe ;",
+				"Mais bois à longs traits la félicité",
+				"À la source de la grâce !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À la grâce,",
+				"À la Croix,",
+				"Viens, mon frère,",
+				"Viens et crois !",
+				"Le sang de Jésus efface",
+				"Tous tes péchés à la fois !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Puis, vole au secours de ces malheureux,",
+				"Qu'une horrible mort menace ;",
+				"Dis-leur que Jésus a souffert pour eux",
+				"Et qu'Il offre à tous Sa grâce !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À la grâce,",
+				"À la Croix,",
+				"Viens, mon frère,",
+				"Viens et crois !",
+				"Le sang de Jésus efface",
+				"Tous tes péchés à la fois !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James Juillerat",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af229",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

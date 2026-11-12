@@ -1,0 +1,62 @@
+{
+	"id": "quand-le-ciel-devient-menacant",
+	"title": "Quand le ciel devient menaçant.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "388"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand le ciel devient menaçant,",
+				"Parle, ô Christ, ô mon Roi !",
+				"La crainte cesse en t'écoutant.",
+				"« Rassurez-vous, c'est Moi !",
+				"C'est Moi ! c'est Moi ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand les flots grondent en fureur,",
+				"Mon âme est sans effroi ;",
+				"Ta voix encore dit à mon cœur :",
+				"« Rassurez-vous, c'est Moi !",
+				"C'est Moi ! c'est Moi ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand mon esquif paraît sombrer,",
+				"Soutiens, Jésus, ma foi,",
+				"Et dis au plus fort du danger :",
+				"« Rassurez-vous, c'est Moi !",
+				"C'est Moi ! c'est Moi ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Hastings",
+			"role": "music"
+		},
+		{
+			"name": "Cantiques du Réveil",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af388",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

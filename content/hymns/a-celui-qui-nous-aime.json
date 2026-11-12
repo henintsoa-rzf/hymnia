@@ -1,0 +1,64 @@
+{
+	"id": "a-celui-qui-nous-aime",
+	"title": "À celui qui nous aime",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "85"
+		},
+		{
+			"hymnal": "jem",
+			"number": "57"
+		},
+		{
+			"hymnal": "cd",
+			"number": "42"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À celui qui nous aime,",
+				"Qui nous a délivrés",
+				"De nos péchés par son sang",
+				"Et qui a fait de nous un royaume,",
+				"Des sacrificateurs pour Dieu son Père,",
+				"À lui soit la gloire et la puissance,",
+				"À lui soit la gloire et la puissance,",
+				"Aux siècles des siècles,",
+				"Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John van den Hogen",
+			"role": "music"
+		},
+		{
+			"name": "John van den Hogen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg085",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem057",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/921",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

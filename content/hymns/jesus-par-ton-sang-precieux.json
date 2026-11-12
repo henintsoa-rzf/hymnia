@@ -1,0 +1,121 @@
+{
+	"id": "jesus-par-ton-sang-precieux",
+	"title": "Jésus, par ton sang précieux",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "237"
+		},
+		{
+			"hymnal": "adf",
+			"number": "276"
+		},
+		{
+			"hymnal": "cd",
+			"number": "140"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, par ton sang précieux,",
+				"Enlève mon iniquité !",
+				"Regarde-moi du haut des cieux,",
+				"Dis-moi que tu m'as pardonné.",
+				"J'ai longtemps erré, cœur rebelle,",
+				"Mais j'entends ta voix qui m'appelle,",
+				"Au pied de ta croix, maintenant,",
+				"Tout confus, brisé, je me rends."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Blanc, plus blanc que neige,",
+				"Blanc, plus blanc que neige,",
+				"Lavé dans le sang de l'Agneau,",
+				"Je serai plus blanc que la neige !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! le fardeau de mon péché,",
+				"Dieu très saint, est trop grand pour moi !",
+				"Je veux en être délivré,",
+				"À cette heure, oh ! révèle-toi !",
+				"Jésus, viens, sois ma délivrance,",
+				"Seul tu peux calmer ma souffrance !",
+				"Au pied de ta croix, maintenant,",
+				"Tout confus, brisé, je me rends."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Blanc, plus blanc que neige,",
+				"Blanc, plus blanc que neige,",
+				"Lavé dans le sang de l'Agneau,",
+				"Je serai plus blanc que la neige !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! Jésus, ton sang précieux",
+				"A lavé mon iniquité,",
+				"Oui, tu m'as répondu des cieux,",
+				"Ton amour m'a tout pardonné.",
+				"Je te contemple et je puis croire",
+				"Qu'en toi j'ai complète victoire…",
+				"Au pied de ta croix, maintenant,",
+				"Je me relève, triomphant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Blanc, plus blanc que neige,",
+				"Blanc, plus blanc que neige,",
+				"Lavé dans le sang de l'Agneau,",
+				"Mon cœur est plus blanc que la neige !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henry Southwick Perkins",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg237",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af276",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/975",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

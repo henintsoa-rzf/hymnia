@@ -1,0 +1,70 @@
+{
+	"id": "o-mon-sauveur-o-source-intarissable",
+	"title": "O mon Sauveur, ô source intarissable",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "255"
+		},
+		{
+			"hymnal": "adf",
+			"number": "153"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O, mon Sauveur, ô source intarissable",
+				"De tout vrai bien, de douceur, de bonté !",
+				"Tu réunis dans ton Être adorable",
+				"Tous les trésors de la Divinité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur Jésus, sois à jamais ma gloire ;",
+				"Sois mon amour, ma joie et ma douceur ;",
+				"Sois mon rempart, ma force, ma victoire,",
+				"Ma paix, mon bien, ma vie et mon bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sois à jamais toute mon espérance ;",
+				"Sois mon secours, mon Guide, mon Sauveur ;",
+				"Sois mon trésor, ma fin, ma récompense ;",
+				"Mon seul partage et le tout de mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Felix Mendelssohn",
+			"role": "music"
+		},
+		{
+			"name": "Cantiques chrétiens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg255",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af153",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

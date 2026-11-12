@@ -1,0 +1,116 @@
+{
+	"id": "seul-refuge-de-mon-ame",
+	"title": "Seul refuge de mon âme",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "305"
+		},
+		{
+			"hymnal": "adf",
+			"number": "319"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seul refuge de mon âme,",
+				"Je veux m'appuyer sur toi ;",
+				"La paix que mon cœur réclame",
+				"Est à tes pieds, ô mon Roi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Sauveur, que je t'aime,",
+				"O toi qui mourus pour moi,",
+				"Et qui veux dans le ciel même,",
+				"Qu'un jour je règne avec toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur ta croix, victime sainte,",
+				"Mon péché fut expié ;",
+				"Plus d'angoisse, plus de crainte :",
+				"Ton sang m'a purifié."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Sauveur, que je t'aime,",
+				"O toi qui mourus pour moi,",
+				"Et qui veux dans le ciel même,",
+				"Qu'un jour je règne avec toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il n'est aucune autre chose",
+				"Qui puisse apaiser mon cœur ;",
+				"En toi seul je me repose,",
+				"En toi, mon puissant Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Sauveur, que je t'aime,",
+				"O toi qui mourus pour moi,",
+				"Et qui veux dans le ciel même,",
+				"Qu'un jour je règne avec toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À toi Jésus, j'abandonne",
+				"Mon cœur, mon âme et mes jours,",
+				"Qu'en moi ton amour rayonne !",
+				"Je veux te servir toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Sauveur, que je t'aime,",
+				"O toi qui mourus pour moi,",
+				"Et qui veux dans le ciel même,",
+				"Qu'un jour je règne avec toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Elsie Ahlwen",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg305",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af319",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

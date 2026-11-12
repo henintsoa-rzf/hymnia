@@ -1,0 +1,99 @@
+{
+	"id": "il-est-un-ami-fidele",
+	"title": "Il est un Ami fidèle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "469"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est un Ami fidèle",
+				"Qui chérit les enfants,",
+				"Sans se lasser, appelle",
+				"Les petits et les grands,",
+				"Qui sur eux à toute heure",
+				"Se penche, plein d'amour,",
+				"Un Ami qui demeure",
+				"Le même chaque jour…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je connais un sûr Pilote",
+				"Qui dirige et conduit",
+				"Notre âme que ballotte",
+				"L'océan dans la nuit ;",
+				"Qui, surveillant sans cesse",
+				"Les vagues en courroux,",
+				"Nous voyant en détresse",
+				"Leur dit : « Apaisez-vous ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est un riant rivage",
+				"Où nous attend Jésus,",
+				"Où le bruit de l'orage",
+				"Ne nous troublera plus.",
+				"Là cessent nos alarmes,",
+				"Tout sera joie et paix ;",
+				"Plus de péché, les larmes",
+				"N'y couleront jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il existe une couronne",
+				"Pour les enfants pieux,",
+				"Qui pour toujours rayonne",
+				"Et resplendit sur eux,",
+				"Céleste diadème",
+				"Aux éclatants fleurons,",
+				"Que le Seigneur Lui-même",
+				"Posera sur leurs fronts !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Il est un divin cantique",
+				"Aux sons mélodieux,",
+				"Que le chœur angélique",
+				"Entonne dans les cieux ;",
+				"Ce chant suave et tendre",
+				"En l'honneur de l'Agneau,",
+				"Qu'il fera bon l'entendre !",
+				"C'est de tous le plus beau !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Stainer",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Fisch",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af469",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

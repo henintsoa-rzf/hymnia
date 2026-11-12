@@ -1,0 +1,93 @@
+{
+	"id": "dans-le-drapeau",
+	"title": "Dans le drapeau.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "460"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans le drapeau qui frissonne",
+				"À tous les souffles des cieux,",
+				"C'est la patrie en personne,",
+				"Qui parle à ses fils pieux :",
+				"« Enfants, je suis la chaumière,",
+				"Je suis le foyer sacré,",
+				"La tombe où dort votre père,",
+				"Le champ qu'il a labouré,",
+				"La tombe où dort votre père,",
+				"Le champ qu'il a labouré ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, c'est elle, c'est la France,",
+				"C'est sa gloire et ses douleurs,",
+				"Son passé, son espérance,",
+				"Qu'on voit dans les trois couleurs !",
+				"Si l'étoffe en est flétrie,",
+				"Dans cet auguste lambeau",
+				"Toujours belle est la patrie,",
+				"Et c'est toujours le drapeau !",
+				"Toujours belle est la patrie,",
+				"Et c'est toujours le drapeau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour que le vent de la haine",
+				"Ne le déchire jamais,",
+				"Devant la croix souveraine",
+				"Qu'il s'incline désormais !",
+				"Ah ! que bientôt le jour brille",
+				"Où les peuples et les rois",
+				"Ne seront qu'une famille,",
+				"Unie autour de la croix !",
+				"Ne seront qu'une famille",
+				"Unie autour de la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jeunes chrétiens, noble armée,",
+				"Servons, dans un même esprit,",
+				"Notre France bien-aimée",
+				"Et notre Roi Jésus-Christ !",
+				"Que le drapeau tricolore",
+				"Par la croix soit abrité,",
+				"Et sous ses plis voie éclore",
+				"La paix et la liberté !",
+				"Et sous ses plis voie éclore",
+				"La paix et la liberté !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Aug. Schaffner",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af460",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

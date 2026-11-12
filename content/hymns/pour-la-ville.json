@@ -1,0 +1,92 @@
+{
+	"id": "pour-la-ville",
+	"title": "Pour la ville",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "470"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour la ville, nous te prions,",
+				"Pour les cœurs vides et brisés,",
+				"Déverse ton pardon,",
+				"O Seigneur, viens, guéris-les.",
+				"Pour la ville, nous te prions,",
+				"Pour les cœurs vides et brisés,",
+				"Déverse ton pardon,",
+				"O Seigneur, viens, guéris-les."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'un saint désir",
+				"Embrase notre cœur,",
+				"Que nous puissions ressentir",
+				"Ce que tu ressens, Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour la ville, nous te prions,",
+				"Pour les cœurs vides et brisés,",
+				"Déverse ton pardon,",
+				"O Seigneur, viens, guéris-les.",
+				"Pour la ville, nous te prions,",
+				"Pour les cœurs vides et brisés,",
+				"Déverse ton pardon,",
+				"O Seigneur, viens, guéris-les."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les vrais besoins,",
+				"Nous ne les discernions pas,",
+				"Ouvre nos yeux, ô Seigneur",
+				"Pour qu'ils voient ce que tu vois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour la ville, nous te prions,",
+				"Pour les cœurs vides et brisés,",
+				"Déverse ton pardon,",
+				"O Seigneur, viens, guéris-les.",
+				"Pour la ville, nous te prions,",
+				"Pour les cœurs vides et brisés,",
+				"Déverse ton pardon,",
+				"O Seigneur, viens, guéris-les.",
+				"Seigneur, viens guéris-les."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rick Ridings",
+			"role": "music"
+		},
+		{
+			"name": "Rick Ridings",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem470",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

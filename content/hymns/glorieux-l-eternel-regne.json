@@ -1,0 +1,113 @@
+{
+	"id": "glorieux-l-eternel-regne",
+	"title": "Glorieux, l’Éternel règne",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "26"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Des profondeurs au firmament,",
+				"Une voix forte retentit.",
+				"Les cieux proclament aux quatre vents,",
+				"Déclarent à tout être qui vit :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorieux, l’Éternel règne,",
+				"Sa bonté est infinie !",
+				"Acclamez de siècle en siècle",
+				"Père, Fils et Saint-Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que les esprits, les créatures,",
+				"De l’ange au moindre serviteur,",
+				"S’accordent au chant des Écritures,",
+				"Et qu’ils célèbrent d’un seul chœur :"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ce chant résonne et d’âge en âge",
+				"Entraîne les saints rachetés.",
+				"Ils le reprennent avec courage,",
+				"Annoncent le jour espéré",
+				"Où ils rediront à jamais :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"D’une voix devant le trône,",
+				"Louez l’Agneau immolé,",
+				"Notre Dieu, qui seul est digne ;",
+				"Que son nom soit exalté,",
+				"À jamais soit exalté !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/glorieuxleternelregne",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,49 @@
+{
+	"id": "recois-ce-parfum",
+	"title": "Reçois ce parfum",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1178"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Reçois ce parfum de reconnaissance",
+				"Qui s'élève vers ton trône.",
+				"Reçois la louange de ta création",
+				"Qui célèbrent ton saint nom.",
+				"Nous chantons : « Alléluia,",
+				"Alléluia, alléluia vers toi. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi la gloire, à toi la gloire, ô Jésus.",
+				"À toi la gloire, à toi la gloire, ô Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dan Luiten",
+			"role": "music"
+		},
+		{
+			"name": "Dan Luiten",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1178",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

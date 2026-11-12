@@ -1,0 +1,62 @@
+{
+	"id": "son-nom-est-merveilleux",
+	"title": "Son nom est merveilleux",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "64"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Son nom est merveilleux.",
+				"Son nom est merveilleux,",
+				"Son nom est merveilleux",
+				"Jésus mon roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est le Tout-Puisssant,",
+				"Il est maître en tout temps.",
+				"Son nom est merveilleux,",
+				"Jésus mon roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est le Berger,",
+				"Il est le seul Rocher,",
+				"Il est le Dieu puissant.",
+				"Courbons-nous devant lui.",
+				"Aimons-le aujourd'hui,",
+				"Son nom est merveilleux,",
+				"Jésus mon roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "M. Petit-Clair",
+			"role": "unspecified"
+		},
+		{
+			"name": "Audrey Mieir",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/872",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,71 @@
+{
+	"id": "trop-souvent-je-murmure",
+	"title": "Trop souvent je murmure.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "386"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Trop souvent je murmure,",
+				"Quand la route est obscure :",
+				"« Oh ! ma foi faiblira,",
+				"Oh ! ma foi faiblira ! »",
+				"Et pourtant la promesse",
+				"Est là pour ma faiblesse :",
+				"« L'Éternel pourvoira !",
+				"L'Éternel pourvoira ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si mon impatience",
+				"Demande avec instance",
+				"D'où le secours viendra,",
+				"D'où le secours viendra,",
+				"Par ta parole sainte",
+				"Tu réponds à ma plainte :",
+				"« L'Éternel pourvoira !",
+				"L'Éternel pourvoira ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je ne veux plus me plaindre ;",
+				"Je ne veux plus rien craindre ;",
+				"Contre moi qui sera,",
+				"Contre moi qui sera ?",
+				"En avant et courage !",
+				"Jusqu'au bout du voyage",
+				"« L'Éternel pourvoira !",
+				"L'Éternel pourvoira ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mlle E. Lasserre",
+			"role": "music"
+		},
+		{
+			"name": "Mlle N. Coulin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af386",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

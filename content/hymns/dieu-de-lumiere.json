@@ -1,0 +1,81 @@
+{
+	"id": "dieu-de-lumiere",
+	"title": "Dieu de lumière",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "529"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de lumière, nous voulons te louer,",
+				"Et de tout notre cœur te chanter.",
+				"Tu as créé les cieux et la terre.",
+				"Dieu de lumière, nous voulons t'élever,",
+				"Et dans nos vies entières t'honorer.",
+				"Tu es celui dont l'amour dure à toujours !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lève-toi mon âme pour le rencontrer,",
+				"Et avec les anges viens le célébrer. Oh !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de lumière, nous voulons te louer,",
+				"Et de tout notre cœur te chanter.",
+				"Tu as créé les cieux et la terre.",
+				"Dieu de lumière, nous voulons t'élever,",
+				"Et dans nos vies entières t'honorer.",
+				"Tu es celui dont l'amour dure à toujours !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Amour insondable, patience infinie,",
+				"Grâce incomparable qui nous rend la vie. Oh !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de lumière, nous voulons te louer,",
+				"Et de tout notre cœur te chanter.",
+				"Tu as créé les cieux et la terre.",
+				"Dieu de lumière, nous voulons t'élever,",
+				"Et dans nos vies entières t'honorer.",
+				"Tu es celui dont l'amour dure à toujours !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham",
+			"role": "music"
+		},
+		{
+			"name": "David Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem529",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

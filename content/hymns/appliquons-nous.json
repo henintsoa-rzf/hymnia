@@ -1,0 +1,42 @@
+{
+	"id": "appliquons-nous",
+	"title": "Appliquons-nous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "250"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Appliquons-nous à connaître l'Éternel,",
+				"Efforçons-nous de connaître notre Dieu.",
+				"Sa venue est certaine comme celle du matin.",
+				"Il viendra à nous",
+				"Comme la pluie du printemps,",
+				"Il viendra à nous",
+				"Comme l'ondée qui arrose la terre."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem250",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

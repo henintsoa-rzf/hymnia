@@ -1,0 +1,73 @@
+{
+	"id": "craindre-ton-nom",
+	"title": "Craindre ton nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "849"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Craindre ton nom, ô Éternel,",
+				"C'est le début de la sagesse.",
+				"L'homme qui célèbre ton nom",
+				"Verra la bénédiction",
+				"Couler sur la vie de ses enfants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Craindre ton nom, ô Éternel,",
+				"C'est le début de la sagesse.",
+				"L'homme qui célèbre ton nom",
+				"Verra la bénédiction",
+				"Couler sur la vie de ses enfants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est béni l'homme qui craint l'Éternel.",
+				"Il jouit du travail de ses mains,",
+				"Sa femme est une vigne féconde.",
+				"Autour de sa table",
+				"Ses fils sont des plants d'olivier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il est béni l'homme qui craint l'Éternel.",
+				"Il jouit du travail de ses mains,",
+				"Sa femme est une vigne féconde.",
+				"Autour de sa table",
+				"Ses fils sont des plants d'olivier."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem849",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

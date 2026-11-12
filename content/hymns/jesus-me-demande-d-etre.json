@@ -1,0 +1,109 @@
+{
+	"id": "jesus-me-demande-d-etre",
+	"title": "Jésus me demande d'être",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "345"
+		},
+		{
+			"hymnal": "adf",
+			"number": "472"
+		},
+		{
+			"hymnal": "cd",
+			"number": "282"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus me demande d'être",
+				"Un rayon de soleil,",
+				"Qui gaîment fasse connaître",
+				"Son amour sans pareil."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un rayon de joie,",
+				"Un doux rayon de soleil",
+				"Que Jésus envoie !",
+				"Oh ! quel bonheur sans pareil !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! que m'oubliant moi-même,",
+				"Je ne m'efforce plus",
+				"Que d'être, pour ceux que j'aime,",
+				"Un reflet de Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un rayon de joie,",
+				"Un doux rayon de soleil",
+				"Que Jésus envoie !",
+				"Oh ! quel bonheur sans pareil !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que partout mon gai sourire",
+				"Et ma joyeuse humeur",
+				"Soit un baume à qui soupire",
+				"Et réjouisse un cœur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que Jésus m'emploie",
+				"Et qu'il me rende pareil",
+				"Aux rayons de joie,",
+				"Aux doux rayons du soleil !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edwin Othello Excell",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg345",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af472",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1089",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,110 @@
+{
+	"id": "dans-ta-main",
+	"title": "Dans ta main",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "737"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rien ni personne",
+				"ne pourra m'arracher de ta main,",
+				"Rien ni personne",
+				"ne pourra m'arracher de ta main,",
+				"Rien ni personne",
+				"ne pourra m'arracher de ta main,",
+				"Ma vie, mon destin sont dans ta main."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu as créé ciel et terre,",
+				"Tu es la source de vie,",
+				"Le Père en qui j'espère,",
+				"Le Roi dont je suis fier ;",
+				"Rien de secret, de négligé,",
+				"Nos cheveux mêmes sont comptés.",
+				"C'est vrai, je suis à toi,",
+				"Tu sais tout de moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rien ni personne",
+				"ne pourra m'arracher de ta main,",
+				"Rien ni personne",
+				"ne pourra m'arracher de ta main,",
+				"Rien ni personne",
+				"ne pourra m'arracher de ta main,",
+				"Ma vie, mon destin sont dans ta main."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand la tempête fait rage,",
+				"Quand trop sombre est mon chemin,",
+				"Tu déploies comme un toit",
+				"Ton amour sur moi.",
+				"Ceux qui en voulaient à ma vie,",
+				"Tu les as tous anéantis ;",
+				"Personne n'est comme toi,",
+				"Mon papa, mon Roi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rien ni personne",
+				"ne pourra m'arracher de ta main,",
+				"Rien ni personne",
+				"ne pourra m'arracher de ta main,",
+				"Rien ni personne",
+				"ne pourra m'arracher de ta main,",
+				"Ma vie, mon destin sont dans ta main."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Quand les pensées s'agitent en foule",
+				"Au plus profond de moi,",
+				"Tu viens à mon secours",
+				"Calmer mon désarroi ;",
+				"Tu consoles mon âme",
+				"Et tu réjouis mon cœur",
+				"Par tant de compassion,",
+				"De grâce et de douceur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thérèse Motte",
+			"role": "music"
+		},
+		{
+			"name": "Thérèse Motte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem737",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

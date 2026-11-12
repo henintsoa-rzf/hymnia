@@ -1,0 +1,120 @@
+{
+	"id": "il-m-a-sauve",
+	"title": "Il m'a sauvé.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "275"
+		},
+		{
+			"hymnal": "cd",
+			"number": "304"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Et dans son sang Il m'a lavé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Fils de Dieu vit ma misère,",
+				"Il quitta, pour me secourir,",
+				"Son trône au ciel, et vint mourir",
+				"Sur la croix du Calvaire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Et dans son sang Il m'a lavé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, le bien-aimé du Père,",
+				"Pour moi le pécheur révolté,",
+				"S'immole, ô divine bonté,",
+				"Sur la croix du Calvaire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Et dans son sang Il m'a lavé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, le monde a vu ce mystère :",
+				"Le Juste, par Dieu condamné,",
+				"Et le coupable pardonné",
+				"Sur la croix du Calvaire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Il m'a sauvé, Il m'a sauvé,",
+				"Et dans son sang Il m'a lavé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À toi, Jésus, ma vie entière,",
+				"À toi tout l'amour de mon cœur !",
+				"En mourant tu fus mon vainqueur",
+				"Sur la croix du Calvaire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Plantation Songs",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af275",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1106",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

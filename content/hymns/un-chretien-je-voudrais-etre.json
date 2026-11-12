@@ -1,0 +1,92 @@
+{
+	"id": "un-chretien-je-voudrais-etre",
+	"title": "Un chrétien je voudrais être",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "302"
+		},
+		{
+			"hymnal": "jem",
+			"number": "140"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un chrétien je voudrais être",
+				"Dedans mon cœur, dedans mon cœur,",
+				"Un chrétien je voudrais être",
+				"Dedans mon cœur.",
+				"Dedans mon cœur, dedans mon cœur,",
+				"Un chrétien je voudrais être",
+				"Dedans mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus aimant je voudrais être",
+				"Dedans mon cœur, dedans mon cœur,",
+				"Plus aimant je voudrais être",
+				"Dedans mon cœur.",
+				"Dedans mon cœur, dedans mon cœur,",
+				"Donne-moi Seigneur de l'être",
+				"Dedans mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pur et saint je voudrais être",
+				"Dedans mon cœur, dedans mon cœur,",
+				"Pur et saint je voudrais être",
+				"Dedans mon cœur.",
+				"Dedans mon cœur, dedans mon cœur,",
+				"Donne-moi Seigneur de l'être",
+				"Dedans mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tel Jésus je voudrais être",
+				"Dedans mon cœur, dedans mon cœur,",
+				"Tel Jésus je voudrais être",
+				"Dedans mon cœur.",
+				"Dedans mon cœur, dedans mon cœur,",
+				"Donne-moi Seigneur de l'être",
+				"Dedans mon cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Negro-spiritual",
+			"role": "music"
+		},
+		{
+			"name": "Ch. Westphal",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg302",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem140",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

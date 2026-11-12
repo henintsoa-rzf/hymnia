@@ -1,0 +1,100 @@
+{
+	"id": "le-plus-grand-jour-de-l-histoire",
+	"title": "Le plus grand jour de l'histoire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "948"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le plus grand jour de l'histoire,",
+				"La mort est vaincue par ta victoire.",
+				"Chantons-le : « Jésus est vivant ! »",
+				"Une croix vide, un tombeau vide,",
+				"Tu m'as secouru, tu es la vie.",
+				"Crions-le : « Jésus est vivant,",
+				"Oui, il vit ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et oh, jour de joie, jour de joie,",
+				"Tu as pris mon péché.",
+				"Oh, jour de joie, jour de joie,",
+				"Oui, tu as tout changé",
+				"Et je suis transformé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand, admis en ce lieu,",
+				"Libre enfin, mes yeux croisent tes yeux.",
+				"Je suis à toi, Jésus, tu es à moi.",
+				"Joie sans fin, paix parfaite,",
+				"La douleur fait place à la fête.",
+				"Célébrons : « Jésus est vivant,",
+				"Oui, il vit ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et oh, jour de joie, jour de joie,",
+				"Tu as pris mon péché.",
+				"Oh, jour de joie, jour de joie,",
+				"Oui, tu as tout changé",
+				"Et je suis transformé."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh, c'est un jour merveilleux,",
+				"C'est vraiment merveilleux !",
+				"Car tu m'as sauvé !",
+				"Et oh, c'est un jour merveilleux,",
+				"C'est un nom merveilleux !",
+				"Hé !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et oh, jour de joie, jour de joie,",
+				"Tu as pris mon péché.",
+				"Oh, jour de joie, jour de joie,",
+				"Oui, tu as tout changé",
+				"Et je suis transformé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tim Hugues ; Ben Cantelon",
+			"role": "music"
+		},
+		{
+			"name": "Tim Hugues ; Ben Cantelon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem948",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

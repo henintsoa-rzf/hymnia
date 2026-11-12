@@ -1,0 +1,81 @@
+{
+	"id": "le-chant-du-pere",
+	"title": "Le chant du Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "779"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"I have heard so many songs,",
+				"Listened to a thousand tongues,",
+				"But there is one that sounds above them all:",
+				"The Father's song, the father's love.",
+				"You sung it over , and for eternity",
+				"It's written on my heart."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Heaven's perfect melody",
+				"The Creator's symphony ;",
+				"You are singing over me",
+				"The Father's song.",
+				"Heaven's perfect mystery:",
+				"The King of love has sent for me.",
+				"And now You're singing over me",
+				"The Father's song."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'ai chanté tant de chansons,",
+				"Entendu des milliers d'airs,",
+				"Mais il existe un chant plus beau que tout:",
+				"Le chant du Père, l'amour du Père.",
+				"Tu l'as chanté pour moi, et pour l'éternité",
+				"Il résonne dans mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le ciel chante une mélodie,",
+				"Il entonne une symphonie.",
+				"Tu viens chanter sur ma vie",
+				"Le chant du Père.",
+				"Le ciel chante ce mystère:",
+				"« Le Roi d'amour vient sur la terre. »",
+				"Oui, tu viens chanter sur ma vie",
+				"Le chant du Père."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Redman",
+			"role": "music"
+		},
+		{
+			"name": "Matt Redman",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem779",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

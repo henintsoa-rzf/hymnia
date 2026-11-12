@@ -1,0 +1,123 @@
+{
+	"id": "seigneur-tu-vois-mon-coeur",
+	"title": "Seigneur, tu vois mon cœur",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "4"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu vois mon cœur",
+				"Dans toute sa noirceur.",
+				"Mes pensées, mes paroles",
+				"Souvent t’ont fait horreur.",
+				"Humilié devant toi,",
+				"Convaincu par ta loi,",
+				"Dieu de grâce,",
+				"Je me repens et prie"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Père éternel, pardonne-moi !",
+				"De mes péchés, purifie-moi !",
+				"À genoux, mon seul recours",
+				"Est ta grâce infinie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, tu vois mon cœur",
+				"Dans toute sa noirceur.",
+				"Mes actes pleins d’orgueil",
+				"Méprisent ton honneur.",
+				"Prompt à me détourner",
+				"De toi, de ta bonté,",
+				"Dieu de grâce,",
+				"Je me repens et prie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par toi justifié,",
+				"Je m’appuie avec foi",
+				"Sur tes promesses sûres,",
+				"La puissance de la croix,",
+				"Ta grâce imméritée",
+				"Toujours renouvelée.",
+				"Dieu fidèle,",
+				"En toi je me confie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Père éternel, sanctifie-moi !",
+				"Par ton Esprit, transforme-moi !",
+				"À genoux, mon seul secours",
+				"Est ta grâce infinie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/seigneurtuvois",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,65 @@
+{
+	"id": "alpha-et-omega-jem-1146",
+	"title": "Alpha et Oméga",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1146"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es l'Alpha et l'Oméga,",
+				"Nous t'adorons, Seigneur.",
+				"Tu es digne de louange."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es l'Alpha et l'Oméga,",
+				"Nous t'adorons, Seigneur.",
+				"Tu es digne de louange."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous te rendons la gloire.",
+				"Nous t'adorons, Seigneur.",
+				"Tu es digne de louange."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous te rendons la gloire.",
+				"Nous t'adorons, Seigneur.",
+				"Tu es digne de louange."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Erasmus Mutanbira",
+			"role": "music"
+		},
+		{
+			"name": "Erasmus Mutanbira",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1146",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

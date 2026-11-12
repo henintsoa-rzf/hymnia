@@ -1,0 +1,69 @@
+{
+	"id": "o-liberateur",
+	"title": "O libérateur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "690"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tes armées sont prêtes à se battre,",
+				"Mais la victoire t'appartient, Seigneur.",
+				"Toi seul as le pouvoir de nous sauver.",
+				"Quand nous faisons appel à ton nom,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O libérateur, viens nous sauver,",
+				"O libérateur, nous délivrer,",
+				"O libérateur, viens nous sauver,",
+				"O libérateur, toi qui entends nos prières."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu se lèvera pour se battre.",
+				"Son Esprit nous prépare au combat.",
+				"Il vient nous sauver par sa puissance.",
+				"Quand nous faisons appel à son nom,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O libérateur, viens nous sauver,",
+				"O libérateur, nous délivrer,",
+				"O libérateur, viens nous sauver,",
+				"O libérateur, toi qui entends nos prières."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dale Garratt",
+			"role": "music"
+		},
+		{
+			"name": "Dale Garratt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem690",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

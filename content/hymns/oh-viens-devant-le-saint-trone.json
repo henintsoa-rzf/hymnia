@@ -1,0 +1,57 @@
+{
+	"id": "oh-viens-devant-le-saint-trone",
+	"title": "Oh ! viens devant le saint trône",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "587"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh viens devant le saint trône",
+				"Pour adorer le Roi,",
+				"Oh viens devant le saint trône",
+				"Et sa gloire apparaîtra.",
+				"Oh viens en sa sainte présence",
+				"Pour magnifier son nom.",
+				"Oh viens devant le saint trône,",
+				"Tu ne seras plus jamais le même."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je viens devant le saint trône",
+				"Pour adorer le Roi,",
+				"Je viens devant le saint trône",
+				"Et sa gloire apparaîtra.",
+				"Je viens en sa sainte présence",
+				"Pour magnifier son nom.",
+				"Je viens devant le saint trône,",
+				"Je ne serai plus jamais le même."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem587",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

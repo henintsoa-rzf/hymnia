@@ -1,0 +1,79 @@
+{
+	"id": "nous-entrons-dans-ta-presence",
+	"title": "Nous entrons dans ta présence",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "537"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous entrons dans ta présence,",
+				"Nous nous courbons devant toi.",
+				"Nous voulons voir ta puissance,",
+				"Et t'adorer, toi le Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, Seigneur,",
+				"Sanctifie ton peuple",
+				"Seigneur, Seigneur,",
+				"Purifie nos cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous entrons dans ta présence,",
+				"Nous nous courbons devant toi.",
+				"Nous voulons voir ta puissance,",
+				"Et t'adorer, toi le Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, Seigneur,",
+				"Sanctifie ton peuple",
+				"Seigneur, Seigneur,",
+				"Purifie nos cœurs."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Seigneur, Seigneur,",
+				"Sanctifie ton peuple.",
+				"Seigneur, Seigneur,",
+				"Purifie nos cœurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Emmanuel Paterne",
+			"role": "music"
+		},
+		{
+			"name": "Emmanuel Paterne",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem537",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

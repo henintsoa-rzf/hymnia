@@ -1,0 +1,73 @@
+{
+	"id": "non-ce-n-est-pas-mourir",
+	"title": "Non, ce n'est pas mourir.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "445"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Non, ce n'est pas mourir",
+				"que d'aller vers son Dieu",
+				"Et que de dire adieu",
+				"À cette sombre terre,",
+				"Pour entrer au séjour de la pure lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Non, ce n'est pas mourir",
+				"que de monter au ciel,",
+				"Au repos éternel,",
+				"À la gloire ineffable,",
+				"Après tous les combats d'un monde périssable !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Non, ce n'est pas mourir",
+				"que d'adorer Jésus",
+				"Au milieu des élus",
+				"Célébrant sa victoire,",
+				"Et d'être couronné d'allégresse et de gloire !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Non, ce n'est pas mourir !",
+				"Trésors de vérité,",
+				"D'amour, de sainteté,",
+				"O sources de la vie !",
+				"Vous jaillirez sans fin pour mon âme ravie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af445",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

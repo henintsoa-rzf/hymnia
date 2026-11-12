@@ -1,0 +1,71 @@
+{
+	"id": "voyageur",
+	"title": "Voyageur",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "413"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le monde m’a proposé sa gloire",
+				"pour que je croie à son espoir.",
+				"Il m’a présenté tant de projets illusoires",
+				"tant de leurres, alors je lui déclare :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis un voyageur,",
+				"je n’suis pas de cette terre,",
+				"ma richesse est ailleurs, ailleurs.",
+				"Dieu est mon vrai bonheur,",
+				"mon seul point de repère,",
+				"ma prétention la meilleure, la meilleure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le monde m’a promis tout l’honneur",
+				"si je lui soumettais mon cœur,",
+				"si je devenais son plus loyal enchanteur,",
+				"alors j’lui ai fredonné sans peur :"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le monde voulait m’offrir son or",
+				"pour qu’en échange je l’adore,",
+				"que je sois fidèle serviteur jusqu’à ma mort,",
+				"mais aujourd’hui je lui chante encore :"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Manu Richerd",
+			"role": "lyrics"
+		},
+		{
+			"name": "Manu Richerd",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-moments-deternite/#chant-13",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

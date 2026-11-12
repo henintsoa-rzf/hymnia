@@ -1,0 +1,60 @@
+{
+	"id": "vie-nouvelle",
+	"title": "Vie nouvelle",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "104"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans la vie, il y a des moments où tout paraît s’arrêter :",
+				"Un parfum, un paysage font naître en toi une vie oubliée,",
+				"Un univers de joie et de paix, dont tu n’as pas la clef.",
+				"Et pourtant, tout au fond de toi, tu sais qu’il doit exister…"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Une vie nouvelle. Jésus t’offre une vie nouvelle, éternelle.",
+				"Oubliant le passé, prêt à tout recommencer,",
+				"Tu peux naître de nouveau, pour la vie éternelle;",
+				"Jésus t’offre une vie nouvelle, éternelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La vie passe, et t’entraîne dans ses eaux",
+				"mornes de joies et de peines,",
+				"Déversant, inlassablement, ses flots sales de peur et de haine.",
+				"Ton coeur crie et soupire, cherchant la paix Dont tu n’oses rêver.",
+				"Et pourtant, tout au fond de toi, tu sais qu’elle doit exister."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Abram Edewards",
+			"role": "lyrics"
+		},
+		{
+			"name": "Ruth Muller",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-4",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "dans-la-maison-du-pere",
+	"title": "Dans la maison du père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "565"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans la maison du Père,",
+				"Nous voici tous rassemblés.",
+				"Avec la terre entière,",
+				"Nous proclamons ta bonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous levons nos mains vers toi Seigneur,",
+				"Vers l'auteur de notre joie.",
+				"Nous te bénissons, libérateur.",
+				"Nous t'adorons, notre Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans la maison du Père,",
+				"Nous voici tous rassemblés.",
+				"Avec la terre entière,",
+				"Nous proclamons ta bonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À genoux devant ta majesté,",
+				"Nous bénissons ton saint nom.",
+				"Prosternés devant ta sainteté,",
+				"Tous émus, nous t'adorons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans la maison du Père,",
+				"Nous voici tous rassemblés.",
+				"Avec la terre entière,",
+				"Nous proclamons ta bonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Alléluia, nous reconnaissons",
+				"Ta grandeur, ta vérité.",
+				"Tous unis, nous nous réjouissons,",
+				"Nous célébrons ta bonté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-François Bussy",
+			"role": "music"
+		},
+		{
+			"name": "Jean-François Bussy",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem565",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

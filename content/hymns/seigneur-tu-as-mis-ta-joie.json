@@ -1,0 +1,55 @@
+{
+	"id": "seigneur-tu-as-mis-ta-joie",
+	"title": "Seigneur, tu as mis ta joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "256"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu as mis ta joie",
+				"Et ta paix dans mon cœur,",
+				"Et à chaque instant tu m'aides",
+				"À vivre en ton honneur.",
+				"Car ta joie, ô Seigneur,",
+				"Grandit dans mon cœur,",
+				"Et mes mains se tendent vers mon prochain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je lève les mains vers toi",
+				"Seigneur pour te chanter,",
+				"Et je veux partager",
+				"L'amour que tu m'as donné,",
+				"Car ta joie, ô Seigneur,",
+				"Grandit dans mon cœur,",
+				"Et mes mains se tendent vers mon prochain."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jack Hayford",
+			"role": "music"
+		},
+		{
+			"name": "Jack Hayford",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem256",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

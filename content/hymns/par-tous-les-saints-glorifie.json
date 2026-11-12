@@ -1,0 +1,99 @@
+{
+	"id": "par-tous-les-saints-glorifie",
+	"title": "Par tous les saints glorifié",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "80"
+		},
+		{
+			"hymnal": "adf",
+			"number": "46",
+			"title": "Par tous les saints glorifiés."
+		},
+		{
+			"hymnal": "jem",
+			"number": "207",
+			"title": "Par tous les saints glorifiés"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Par tous les saints glorifié,",
+				"Jésus inspire leurs louanges,",
+				"Plus belles que le chant des anges,",
+				"Gloire à l'Agneau,",
+				"Gloire à l'Agneau,",
+				"Gloire à l'Agneau sacrifié !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est par Lui qu'est justifié",
+				"Tout pécheur qui demande grâce.",
+				"Prêtres et rois devant sa face,",
+				"Chantons l'Agneau,",
+				"Chantons l'Agneau,",
+				"Chantons l'Agneau sacrifié !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par son Esprit vivifié,",
+				"Je veux, jusqu'à ma dernière heure,",
+				"Chanter l'amour qui seul demeure :",
+				"Gloire à l'Agneau,",
+				"Gloire à l'Agneau,",
+				"Gloire à l'Agneau sacrifié !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour nous il fut crucifié :",
+				"Son sang a racheté notre âme.",
+				"C'est pourquoi notre amour l'acclame :",
+				"Gloire à l'Agneau,",
+				"Gloire à l'Agneau,",
+				"Gloire à l'Agneau sacrifié !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Owen",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg080",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af046",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem207",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

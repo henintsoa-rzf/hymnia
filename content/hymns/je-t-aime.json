@@ -1,0 +1,83 @@
+{
+	"id": "je-t-aime",
+	"title": "Je t'aime",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "865"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je dépose devant toi,",
+				"mes pensées et mes droits.",
+				"Je m'incline humblement,",
+				"tu es le Tout-Puissant.",
+				"Tu connais tout de moi,",
+				"où serais-je sans toi ?",
+				"Tu m'as fait de tes mains,",
+				"dans lesquelles tu me tiens."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je viens te louer, oui je viens te louer.",
+				"Oui, je t'aime, je t'adore.",
+				"Je veux te servir, je veux t'obéir.",
+				"Oui, je t'aime, je t'adore. À jamais.",
+				"Oui, je t'aime, je t'adore.",
+				"Je veux te servir, je veux t'obéir.",
+				"Oui, je t'aime, je t'adore. À jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Père, écoute mon cœur,",
+				"enfin, je n'ai plus peur.",
+				"J'entre dans tes parvis,",
+				"pour te donner ma vie.",
+				"Je dépose devant toi,",
+				"mes pensées et mes droits.",
+				"Je me tiens librement,",
+				"devant le Tout-Puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je viens te louer, oui je viens te louer.",
+				"Oui, je t'aime, je t'adore.",
+				"Je veux te servir, je veux t'obéir.",
+				"Oui, je t'aime, je t'adore. À jamais.",
+				"Oui, je t'aime, je t'adore.",
+				"Je veux te servir, je veux t'obéir.",
+				"Oui, je t'aime, je t'adore. À jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Crystel Hirschi",
+			"role": "music"
+		},
+		{
+			"name": "Crystel Hirschi",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem865",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

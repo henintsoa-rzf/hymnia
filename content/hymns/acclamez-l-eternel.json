@@ -1,0 +1,105 @@
+{
+	"id": "acclamez-l-eternel",
+	"title": "Acclamez l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "723"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez l'Éternel, bénissez son nom !",
+				"Le grand Dieu d'Israël,",
+				"puissant en action !",
+				"Que tout ce qui respire loue le Seigneur !",
+				"Levons-nous pour offrir",
+				"l'élan de nos cœurs !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons un cantique nouveau !",
+				"Portes élevez vos linteaux !",
+				"Qu'apparaisse le Roi de gloire,",
+				"Le Seigneur Dieu de victoire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez l'Éternel, bénissez son nom !",
+				"Le grand Dieu d'Israël,",
+				"puissant en action !",
+				"Que tout ce qui respire loue le Seigneur !",
+				"Levons-nous pour offrir",
+				"l'élan de nos cœurs !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui s'élèvera vers lui ?",
+				"Celui qui trouve un abri,",
+				"Dans la force de l'Éternel,",
+				"L'amour du Dieu d'Israël."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamez l'Éternel, bénissez son nom !",
+				"Le grand Dieu d'Israël,",
+				"puissant en action !",
+				"Que tout ce qui respire loue le Seigneur !",
+				"Levons-nous pour offrir",
+				"l'élan de nos cœurs !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Reconnaissons qu'il est Dieu",
+				"Roi de la terre et des cieux !",
+				"Bénissons le souverain,",
+				"Nous l'ouvrage de ses mains"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que tout ce qui respire",
+				"loue le Seigneur !",
+				"Levons-nous pour offrir",
+				"l'élan de nos cœurs !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-François Bussy",
+			"role": "music"
+		},
+		{
+			"name": "Jean-François Bussy",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem723",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

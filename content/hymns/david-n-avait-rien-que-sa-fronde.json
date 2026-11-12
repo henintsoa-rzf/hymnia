@@ -1,0 +1,97 @@
+{
+	"id": "david-n-avait-rien-que-sa-fronde",
+	"title": "David n'avait rien que sa fronde",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "398"
+		},
+		{
+			"hymnal": "adf",
+			"number": "467"
+		},
+		{
+			"hymnal": "cd",
+			"number": "318"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"David n'avait rien que sa fronde",
+				"Pour lutter contre le géant ;",
+				"Mais au fond de son cœur d'enfant",
+				"Habitait une foi profonde.",
+				"Il savait bien que l'Éternel",
+				"Combattrait avec lui pour sauver Israël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il avançait ferme et tranquille",
+				"Contre le Philistin puissant,",
+				"Qui, l'œil hautain et méprisant,",
+				"Riait de son air juvénile,",
+				"Et se moquait de l'Éternel,",
+				"Qui choisissait David pour sauver Israël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais sans trembler, d'une main sûre,",
+				"L'enfant, que son Dieu dirigeait,",
+				"Fit au colosse, d'un seul jet,",
+				"Une inguérissable blessure.",
+				"Et c'est ainsi que l'Éternel,",
+				"Selon son bon plaisir, délivrait Israël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Comme David, tu nous appelles",
+				"À de grands combats, ô Seigneur !",
+				"Pour en sortir à ton honneur,",
+				"Comme David, rends-nous fidèles,",
+				"Et l'on verra que l'Éternel",
+				"Se tient auprès de nous, comme auprès d'Israël."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mlle E. Lasserre",
+			"role": "music"
+		},
+		{
+			"name": "Alice de Chambrier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg398",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af467",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/824",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

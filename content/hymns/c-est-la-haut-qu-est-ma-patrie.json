@@ -1,0 +1,89 @@
+{
+	"id": "c-est-la-haut-qu-est-ma-patrie",
+	"title": "C'est là-haut qu'est ma Patrie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "629"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est là-haut qu'est ma patrie,",
+				"D'où seront bannis les maux ;",
+				"Les orages de la vie,",
+				"La douleur, les lourds fardeaux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par delà l'azur immense,",
+				"Resplendit la ville d'or,",
+				"Je verrai, douce espérance,",
+				"Mon Sauveur, mon seul trésor."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La bataille terminée,",
+				"Le repos me sera doux ;",
+				"Mon âme à son Dieu donnée",
+				"Attend le grand rendez-vous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par delà l'azur immense,",
+				"Resplendit la ville d'or,",
+				"Je verrai, douce espérance,",
+				"Mon Sauveur, mon seul trésor."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Là-haut, loin de toute plainte,",
+				"Je vois mes chers bien-aimés",
+				"Parcourant la cité sainte,",
+				"Radieux et transformés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par delà l'azur immense,",
+				"Resplendit la ville d'or,",
+				"Je verrai, douce espérance,",
+				"Mon Sauveur, mon seul trésor."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James Hunter",
+			"role": "music"
+		},
+		{
+			"name": "James Hunter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af629",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

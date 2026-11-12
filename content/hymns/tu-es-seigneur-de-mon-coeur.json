@@ -1,0 +1,96 @@
+{
+	"id": "tu-es-seigneur-de-mon-coeur",
+	"title": "Tu es Seigneur de mon cœur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "952"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es Seigneur de mon cœur,",
+				"Rien n'égale ta splendeur.",
+				"Ma vie sans toi perdrait sa valeur.",
+				"C'est avec ces faibles mots",
+				"Que je t'honore, Dieu très-haut.",
+				"Ta présence me restaure à nouveau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est ta voix qui me conduit ;",
+				"En toi, je me réfugie.",
+				"Dans tes bras je suis rassuré.",
+				"Mon souverain bien-aimé,",
+				"Toi seul es digne d'être adoré."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es Seigneur de mon cœur,",
+				"Rien n'égale ta splendeur.",
+				"Ma vie sans toi perdrait sa valeur.",
+				"C'est avec ces faibles mots",
+				"Que je t'honore, Dieu très-haut.",
+				"Ta présence me restaure à nouveau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est ta voix qui me conduit ;",
+				"En toi, je me réfugie.",
+				"Dans tes bras je suis rassuré.",
+				"Mon souverain bien-aimé,",
+				"Toi seul es digne d'être adoré."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Et je t'offre mon cœur aujourd'hui.",
+				"Sois l'unique Seigneur de ma vie !",
+				"Et je t'offre mon cœur aujourd'hui.",
+				"Sois l'unique Seigneur de ma vie !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"C'est ta voix qui me conduit ;",
+				"En toi, je me réfugie.",
+				"Dans tes bras je suis rassuré.",
+				"Mon souverain bien-aimé,",
+				"Toi seul es digne d'être adoré."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "École de louange JEM ; Luc Dumont",
+			"role": "music"
+		},
+		{
+			"name": "École de louange JEM ; Luc Dumont",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem952",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

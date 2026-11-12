@@ -1,0 +1,105 @@
+{
+	"id": "mon-dieu-plus-pres-de-toi",
+	"title": "Mon Dieu, plus près de toi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "258"
+		},
+		{
+			"hymnal": "adf",
+			"number": "182"
+		},
+		{
+			"hymnal": "cd",
+			"number": "271"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Dieu, plus près de toi,",
+				"Plus près de toi !",
+				"C'est le mot de ma foi :",
+				"Plus près de toi !",
+				"Dans le jour où l'épreuve",
+				"Déborde comme un fleuve,",
+				"Garde-moi près de toi,",
+				"Plus près de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus près de toi, Seigneur,",
+				"Plus près de toi !",
+				"Tiens-moi dans ma douleur",
+				"Tout près de toi !",
+				"Alors que la souffrance",
+				"Fait son œuvre en silence,",
+				"Toujours plus près de toi,",
+				"Seigneur, tiens-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Plus près de toi, toujours",
+				"Plus près de toi !",
+				"Donne-moi ton secours,",
+				"Soutiens ma foi !",
+				"Que Satan se déchaîne,",
+				"Ton amour me ramène",
+				"Toujours plus près de toi,",
+				"Plus près de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon Dieu, plus près de toi !",
+				"Dans le désert",
+				"J'ai vu, plus près de toi,",
+				"Ton ciel ouvert.",
+				"Pèlerin, bon courage !",
+				"Ton chant brave l'orage.",
+				"Mon Dieu, plus près de toi,",
+				"Plus près de toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr Lowell Mason",
+			"role": "music"
+		},
+		{
+			"name": "Charles Chatelanat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg258",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af182",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1302",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

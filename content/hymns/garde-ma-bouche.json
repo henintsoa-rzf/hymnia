@@ -1,0 +1,67 @@
+{
+	"id": "garde-ma-bouche",
+	"title": "Garde ma bouche",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "603"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Une petite calomnie,",
+				"juste un tout petit mensonge !",
+				"« Mon péché mignon – Pas grave ! – c’est de cancaner un peu… »",
+				"Parler des autres, c’est sympa, surtout quand on n’a rien à dire.",
+				"Oui, « les paroles du rapporteur sont comme des friandises… »",
+				"Mais « celui qui parle légèrement, peut blesser comme une épée ».",
+				"Pourtant on passe du temps à rapporter, râler, critiquer…",
+				"« Mais c’est juste pour prier ! »",
+				"La bonne excuse à rétorquer…",
+				"Quand vais-je enfin me regarder avec honnêteté ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Eternel, garde ma bouche !",
+				"Eternel, veille sur la porte de mes lèvres !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Une petite rumeur, car il faut bien informer !",
+				"Et tant pis si on salit faussement quelques réputations…",
+				"Une petite flatterie … On ne sait jamais ? ça peut servir. ..",
+				"C’est toujours mieux de travailler à être bien vu.",
+				"Mais « celui qui flatte son prochain tend un piège sous ses pas. »",
+				"Est-ce que je cherche à encourager ou à manipuler ?",
+				"À la place de flatter, de calomnier ou de critiquer,",
+				"Mieux vaut avertir avec douceur et humilité…"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-3",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

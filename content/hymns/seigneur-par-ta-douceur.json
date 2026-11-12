@@ -1,0 +1,49 @@
+{
+	"id": "seigneur-par-ta-douceur",
+	"title": "Seigneur, par ta douceur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "494"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur par ta douceur,",
+				"Tu dissipes ma rancœur.",
+				"Seigneur, je reçois ton amour.",
+				"Seigneur, par ta beauté,",
+				"Tu me rends ma dignité.",
+				"Seigneur, je reçois ton amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, je reçois ton amour.",
+				"Seigneur, je reçois ton amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem494",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,106 @@
+{
+	"id": "par-la-croix",
+	"title": "Par la croix",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "705"
+		},
+		{
+			"hymnal": "ecriture",
+			"number": "5"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment osons-nous, souillés, impurs",
+				"Nous approcher du Dieu trois fois saint ?",
+				"Sa loi exige la perfection,",
+				"Comment purifier nos cœurs, nos mains ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Comment pouvons-nous, peuple infidèle,",
+				"Vivre avec Dieu en intimité ?",
+				"Chaque jour nous le déshonorons,",
+				"Comment nos fautes sont-elles pardonnées ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C’est par la croix, où il s’est donné,",
+				"Et par son sang qui lave nos péchés,",
+				"Par sa justice comptée pour nous,",
+				"En Jésus nous tenons debout !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comment persévérer dans la foi",
+				"Face à nos échecs et nos erreurs ?",
+				"Ils éveillent en nous la peur, le doute,",
+				"Comment répondre à l’accusateur ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand viendra le jour du jugement,",
+				"Où nous verrons notre Créateur,",
+				"Nous pourrons plaider avec confiance",
+				"L’œuvre accomplie de notre Sauveur :"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-5",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Écritures — ecrituremusique.com",
+			"url": "https://www.ecrituremusique.com/parlacroix",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

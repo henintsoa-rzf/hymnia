@@ -1,0 +1,85 @@
+{
+	"id": "souffle",
+	"title": "Souffle",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "501"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Souffle, souffle de Dieu,",
+				"Nous t'accueillons,",
+				"Viens purifier nos cœurs.",
+				"Oh souffle, souffle de Dieu,",
+				"Nous t'accueillons,",
+				"Viens purifier nos cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rends-nous souples devant toi,",
+				"À l'écoute de ta voix,",
+				"Rends-nous sensibles à ton cœur,",
+				"Sois le Roi, sois le Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Souffle, souffle de Dieu,",
+				"Nous t'accueillons,",
+				"Viens purifier nos cœurs.",
+				"Oh souffle, souffle de Dieu,",
+				"Nous t'accueillons,",
+				"Viens purifier nos cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand ton peuple s'humilie,",
+				"Renouvelle en lui ta vie,",
+				"Chasse l'orgueil et la crainte",
+				"Et rends ton Église sainte."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Souffle, souffle de Dieu,",
+				"Nous t'accueillons,",
+				"Viens purifier nos cœurs.",
+				"Oh souffle, souffle de Dieu,",
+				"Nous t'accueillons,",
+				"Viens purifier nos cœurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Patti Ridings",
+			"role": "music"
+		},
+		{
+			"name": "Patti Ridings",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem501",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

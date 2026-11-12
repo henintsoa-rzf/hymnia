@@ -1,0 +1,105 @@
+{
+	"id": "peuple-de-la-terre",
+	"title": "Peuple de la terre",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "469"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le monde est plongé dans la nuit,",
+				"Couleur du désespoir,",
+				"Mais chacun veut trouver sa propre issue.",
+				"Les discours de fraternité",
+				"Se noient dans le brouillard.",
+				"Pour nous libérer, Jésus est venu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu prépare un peuple",
+				"Qui se consacre à lui.",
+				"Son invitation atteint les nations.",
+				"Des hommes de tous les horizons,",
+				"Sur le chemin du Christ,",
+				"Proclament son amour, sa compassion."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuples de la terre, langues et nations",
+				"Ont répondu à son appel.",
+				"Et devant le Père, les voix se mêlent",
+				"Dans un concert d'adoration."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le jour viendra",
+				"Où les souffrances auront disparu.",
+				"Dieu essuiera les larmes de leurs yeux.",
+				"Ils n'auront plus jamais faim,",
+				"La soif ne sera plus,",
+				"Ils vivront dans la présence de leur Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuples de la terre, langues et nations",
+				"Ont répondu à son appel.",
+				"Et devant le Père, les voix se mêlent",
+				"Dans un concert d'adoration."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Les différences pâlissent en adorant leur Roi.",
+				"Le venin de la haine a disparu.",
+				"Les murs de division tombent maintenant.",
+				"L'amour parfait a banni toutes les peurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuples de la terre, langues et nations",
+				"Ont répondu à son appel.",
+				"Et devant le Père, les voix se mêlent",
+				"Dans un concert d'adoration."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David et Rebecca Durham",
+			"role": "music"
+		},
+		{
+			"name": "David et Rebecca Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem469",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,82 @@
+{
+	"id": "mon-sauveur-je-voudrais-etre",
+	"title": "Mon Sauveur, je voudrais être",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "254"
+		},
+		{
+			"hymnal": "adf",
+			"number": "320"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Sauveur, je voudrais être,",
+				"Comme un écho de ta voix",
+				"Pour proclamer, ô doux Maître,",
+				"Le mystère de ta croix ;",
+				"Pour parler de délivrance",
+				"À ceux qu'assaille la mort,",
+				"Pour consoler la souffrance",
+				"Et montrer à tous le port."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon Sauveur, je voudrais être",
+				"Une fleur de tes parvis,",
+				"Briller pour Toi seul, ô Maître,",
+				"Puisque par toi seul, je vis ;",
+				"Dans le silence répandre",
+				"Le parfum de ton amour ;",
+				"Dans la nuit obscure attendre",
+				"L'aurore de ton retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon Sauveur, je voudrais être,",
+				"Sur le sentier ténébreux,",
+				"Un faible reflet, ô Maître,",
+				"De ton éclat radieux ;",
+				"Luire sur la sombre route",
+				"Du cœur perdu loin de toi ;",
+				"Dissiper la nuit du doute",
+				"Par la clarté de la foi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr Joseph Parry",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg254",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af320",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

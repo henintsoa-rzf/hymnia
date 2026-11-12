@@ -1,0 +1,85 @@
+{
+	"id": "c-est-dans-la-paix-que-tu-dois-vivre",
+	"title": "C'est dans la paix que tu dois vivre.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "315"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est dans la paix que tu dois vivre,",
+				"Enfant de Dieu, disciple du Sauveur ;",
+				"Par son Esprit, ton âme doit le suivre",
+				"Sur le sentier de la douceur.",
+				"Si contre toi s'élève quelque offense,",
+				"Si l'on te hait, si l'on veut t'opprimer,",
+				"Ferme ton cœur à la vengeance :",
+				"Comme ton Dieu, tu dois aimer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bien loin de toi que toute haine,",
+				"Que tout dépit soit toujours repoussé ;",
+				"Souffre en repos et l'insulte et la peine,",
+				"Et, sans orgueil, sois abaissé.",
+				"Oui, pour Jésus, pour ce roi débonnaire,",
+				"Reçois le coup le plus humiliant ;",
+				"Bois jusqu'au fond la coupe amère :",
+				"Comme ton Dieu, sois patient."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ne sais-tu pas quelle est sa grâce,",
+				"Que de péchés son amour t'a remis ?",
+				"Qu'ainsi jamais ton support ne se lasse",
+				"Envers tes plus grands ennemis.",
+				"S'ils sont cruels, si leurs haines s'attisent,",
+				"De ta bonté rouvre-leur le trésor ;",
+				"S'ils sont hautains, s'ils te méprisent,",
+				"Comme ton Dieu pardonne encor."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ce n'est pas toi que hait le monde,",
+				"C'est ton Sauveur qu'ils ne connaissent pas,",
+				"Ah ! plains-les donc, leur misère est profonde !",
+				"Contre Dieu se lèvent leurs bras.",
+				"Tends-leur la main au bord du précipice,",
+				"S'ils sont tombés, cours et sois leur soutien,",
+				"Et, pour punir leur injustice,",
+				"Comme ton Dieu, fais-leur du bien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af315",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

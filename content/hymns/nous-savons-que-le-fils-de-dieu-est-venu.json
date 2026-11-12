@@ -1,0 +1,77 @@
+{
+	"id": "nous-savons-que-le-fils-de-dieu-est-venu",
+	"title": "Nous savons que le Fils de Dieu est venu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "56"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous savons que le Fils de Dieu est venu,",
+				"Nous savons que le Fils de Dieu est venu,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Et qu'Il nous a donné l'intelligence",
+				"Pour Le connaître, Lui, la vérité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous savons que le Fils de Dieu est venu,",
+				"Nous savons que le Fils de Dieu est venu,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et nous sommes en Lui, la vérité,",
+				"En son Fils Jésus-Christ."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous savons que le Fils de Dieu est venu,",
+				"Nous savons que le Fils de Dieu est venu,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est lui qui est le Dieu véritable,",
+				"Et la vie éternelle."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem056",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

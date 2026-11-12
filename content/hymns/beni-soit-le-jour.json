@@ -1,0 +1,97 @@
+{
+	"id": "beni-soit-le-jour",
+	"title": "Béni soit le jour…",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "281"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit le jour où j'ai fait",
+				"Choix de Jésus pour maître ;",
+				"Je veux célébrer le bienfait",
+				"Qui vient de m'apparaître.",
+				"Heureux jour,",
+				"Heureux jour",
+				"Où j'ai connu tout son amour !",
+				"Sauvé par son divin secours,",
+				"Je me donne à lui pour toujours.",
+				"Heureux jour,",
+				"Heureux jour",
+				"Où j'ai connu tout son amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O divine compassion !",
+				"Le Bien-Aimé du Père",
+				"Lui-même a payé ma rançon",
+				"Sur la croix du Calvaire.",
+				"De la mort",
+				"De la mort",
+				"Jésus-Christ a vaincu l'effort,",
+				"Mon âme accepte avec transport",
+				"Le salut qu'offre le Dieu fort.",
+				"De la mort",
+				"De la mort",
+				"Jésus-Christ a vaincu l'effort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans son amour, il m'a cherché",
+				"Quand je fuyais sa face ;",
+				"Il s'est chargé de mon péché,",
+				"Par lui j'ai trouvé grâce.",
+				"Tout joyeux,",
+				"Tout joyeux,",
+				"Je veux le redire en tous lieux ;",
+				"Mes chants monteront jusqu'aux cieux",
+				"S'unir aux chants des bienheureux.",
+				"Tout joyeux,",
+				"Tout joyeux",
+				"Je veux le redire en tous lieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Maintenant, à ton Rédempteur",
+				"Consacré sans partage,",
+				"Repose près de lui, mon cœur,",
+				"À l'abri de l'orage,",
+				"Sans regrets,",
+				"Sans regrets",
+				"Loin du monde et de ses attraits,",
+				"Goûtant la véritable paix",
+				"Qui vient combler tous mes souhaits ;",
+				"Sans regrets,",
+				"Sans regrets",
+				"Loin de ce qu'autrefois j'aimais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alfred André",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af281",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

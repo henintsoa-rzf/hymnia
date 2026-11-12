@@ -1,0 +1,43 @@
+{
+	"id": "ce-n-est-pas-un-esprit-de-timidite",
+	"title": "Ce n'est pas un esprit de timidité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "51"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ce n'est pas un esprit de timidité",
+				"Que Dieu nous a donné,",
+				"Mais un esprit de force,",
+				"D'amour et de sagesse.",
+				"Ce n'est pas un esprit de timidité",
+				"Que Dieu nous a donné,",
+				"Mais un esprit de force,",
+				"D'amour et de sagesse."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John van den Hogen",
+			"role": "music"
+		},
+		{
+			"name": "John van den Hogen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem051",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

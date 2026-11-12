@@ -1,0 +1,95 @@
+{
+	"id": "benis-ton-dieu-sans-cesse",
+	"title": "Bénis ton Dieu sans cesse",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "5"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les astres dans leur course,",
+				"L’orage et les éclairs.",
+				"Le gai babil des sources,",
+				"Le vol de l’aigle fier,",
+				"L’amour viril d’un Père,",
+				"Un beau regard d’enfant,",
+				"Le sang dans nos artères :",
+				"Tout vient du Dieu vivant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bénis ton Dieu sans cesse,",
+				"Ô peuple des chrétiens,",
+				"Fais tiennes ses promesses,",
+				"Jouis de tous ses biens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La perle de rosée,",
+				"Les grappes de raisin,",
+				"Le chant de l’épousée,",
+				"L’arôme du bon pain",
+				"Et le joyeux cortège",
+				"Des mois et des saisons,",
+				"Les fins cristaux de neige :",
+				"À Dieu nous les devons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L’étoile lumineuse",
+				"De la nuit de Noël,",
+				"L’histoire merveilleuse",
+				"Du Fils de l’Eternel,",
+				"Sa mort pour nos offenses,",
+				"Son sang qui nous absout,",
+				"Sa vie et sa puissance :",
+				"Oui, c’est aussi pour nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bénis, bénis, mon âme,",
+				"Le Dieu de Jésus-Christ,",
+				"Et ses bienfaits proclament,",
+				"Bienfaits d’un si grand prix.",
+				"Il sème en abondance,",
+				"Le long de tes sentiers,",
+				"Les dons qu’en sa clémence",
+				"Il veut multiplier"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "unspecified"
+		},
+		{
+			"name": "J.A.P Schulz",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/835",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

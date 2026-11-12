@@ -1,0 +1,62 @@
+{
+	"id": "adorons-le-seigneur",
+	"title": "Adorons le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "328"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Adorons le Seigneur,",
+				"Son éclat et sa beauté,",
+				"Tout en lui est lumière et bonté.",
+				"Adorons le Seigneur,",
+				"Son éclat et sa beauté,",
+				"Tout en lui est lumière et bonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans la joie, au milieu de ton peuple,",
+				"Ma bouche proclame ta louange,",
+				"Tu es Dieu et je t'appartiens."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Adorons le Seigneur,",
+				"Son éclat et sa beauté,",
+				"Tout en lui est lumière et bonté.",
+				"Adorons le Seigneur,",
+				"Son éclat et sa beauté,",
+				"Tout en lui est lumière et bonté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem328",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

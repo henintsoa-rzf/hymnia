@@ -1,0 +1,59 @@
+{
+	"id": "sonde-moi-cd-213",
+	"title": "Sonde-moi",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "213"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sonde-moi, ô Dieu, et connais tout mon coeur.",
+				"Éprouve-moi et connais mes pensées.",
+				"Change aujourd’hui tous mes désirs trompeurs.",
+				"Purifie-moi de toute iniquité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Remplis mon coeur, ô Dieu, de ton amour.",
+				"Rends-moi fidèle et plus compatissant.",
+				"Enseigne-moi, Seigneur, de jour en jour.",
+				"Montre-moi comment être obéissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Prends ma vie, ô Dieu, car elle t’appartient.",
+				"Sois-en le maître en tout temps, en tout lieu.",
+				"Façonne-moi, car je suis l’un des tiens.",
+				"Fais de ma vie ce que tu veux, ô Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie Maori",
+			"role": "unspecified"
+		},
+		{
+			"name": "Marianne Petit-Clerc",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1046",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

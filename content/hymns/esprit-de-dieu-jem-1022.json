@@ -1,0 +1,69 @@
+{
+	"id": "esprit-de-dieu-jem-1022",
+	"title": "Esprit de Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1022"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Père, les cieux rugissent ton nom.",
+				"Chantons plus fort, qu'éclate ici ta louange.",
+				"Entendez-vous le son du ciel touchant la terre,",
+				"Le son du ciel touchant la terre ?",
+				"Notre Père, les cieux rugissent ton nom.",
+				"Chantons plus fort, qu'éclate ici ta louange.",
+				"Entendez-vous le son du ciel touchant la terre,",
+				"Le son du ciel touchant la terre ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Esprit de Dieu, déchire les cieux.",
+				"Esprit de Dieu, déferle en ce lieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Roi Jésus, c'est ton nom que nous crions.",
+				"Et ta gloire fait trembler la terre, les cieux.",
+				"Réveille-nous, nous voulons vivre ton royaume,",
+				"Nous voulons vivre ton royaume."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Esprit de Dieu, déchire les cieux.",
+				"Esprit de Dieu, déferle en ce lieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luke Hellebronth, Myles Dhillon, Tim Hughes et Ben Bryant",
+			"role": "music"
+		},
+		{
+			"name": "Luke Hellebronth, Myles Dhillon, Tim Hughes et Ben Bryant",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1022",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

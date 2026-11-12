@@ -1,0 +1,99 @@
+{
+	"id": "mon-seigneur-et-mon-dieu",
+	"title": "Mon Seigneur et mon Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "457"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Seigneur et mon Dieu,",
+				"Tu es infiniment grand,",
+				"Revêtu de splendeur,",
+				"Recouvert de majesté;"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu t'es vêtu d'un manteau de lumière,",
+				"Tu es descendu parcourir la terre",
+				"Tu cherches un peuple",
+				"qui veut vraiment t'honorer,",
+				"Tu t'es vêtu d'un manteau de lumière,",
+				"Tu es descendu parcourir la terre",
+				"Tu cherches un peuple",
+				"qui veut faire ta volonté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Seigneur et mon Dieu,",
+				"Tu es infiniment grand,",
+				"Revêtu de splendeur,",
+				"Recouvert de majesté;"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des quatre vents tu envoies tes paroles,",
+				"Tu souffles sur notre pays,",
+				"Tu envoies sur nos vies un feu qui purifie.",
+				"Des quatre vents tu envoies tes paroles,",
+				"Tu souffles sur notre pays,",
+				"Tu envoies sur nos vies un feu qui purifie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Seigneur et mon Dieu,",
+				"Tu es infiniment grand,",
+				"Revêtu de splendeur,",
+				"Recouvert de majesté;"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je réponds me voici mon Dieu, mon Père",
+				"Pour accomplir ta volonté,",
+				"Que par ma bouche",
+				"tes paroles soient données.",
+				"Je réponds me voici mon Dieu, mon Père",
+				"Pour accomplir ta volonté,",
+				"Que par ma bouche",
+				"tes paroles soient données."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem457",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

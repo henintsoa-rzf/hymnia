@@ -1,0 +1,109 @@
+{
+	"id": "o-dieu-releve-nous",
+	"title": "O Dieu, relève-nous !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "301"
+		},
+		{
+			"hymnal": "jem",
+			"number": "93"
+		},
+		{
+			"hymnal": "cd",
+			"number": "222"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu relève-nous ! rends-nous la vie,",
+				"Prête l'oreille, Berger d'Israël.",
+				"Oui, sauve-nous dans ta grâce infinie.",
+				"Tourne vers nous ta face, Emmanuel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Dieu, relève-nous, ô Dieu, relève-nous !",
+				"Et que ton Fils à nos yeux se révèle.",
+				"Qu'en nous jaillisse une vie nouvelle,",
+				"Ô Dieu, relève-nous, relève-nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O Dieu réveille-nous ! que ta lumière",
+				"Vienne chasser la nuit qui nous endort.",
+				"Brise et transforme enfin nos cœurs de pierre,",
+				"Relève-nous, Seigneur, d'entre les morts."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Dieu, réveille-nous, ô Dieu, réveille-nous !",
+				"Et que ton Fils à nos yeux se révèle.",
+				"Qu'en nous jaillisse une vie nouvelle,",
+				"Ô Dieu, réveille-nous, réveille-nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Dieu visite-nous ! viens et pardonne",
+				"La tolérance de nos compromis.",
+				"Que ton Esprit nous remplisse et nous donne",
+				"D'être en ta grâce toujours affermis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Dieu, visite-nous, ô Dieu visite-nous !",
+				"Et que ton Fils à nos yeux se révèle.",
+				"Qu'en nous jaillisse une vie nouvelle,",
+				"Ô Dieu visite-nous, visite-nous !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Marion Runyan",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg301",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem093",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1169",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

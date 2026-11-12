@@ -1,0 +1,67 @@
+{
+	"id": "merci-seigneur-jem-791",
+	"title": "Merci Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "791"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour ton amour, pour ta clémence,",
+				"Pour ta présence, merci Seigneur.",
+				"Pour ta lumière brillante dans nos vies,",
+				"Éclair qui chasse la nuit, merci Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci au Père, merci au Fils,",
+				"Merci au Saint-Esprit, ô Trois Fois Saint,",
+				"Merci Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour ton pardon dévoilé sur la croix,",
+				"Ton sang versé pour moi, merci Seigneur.",
+				"Pour ton salut, pour ta fidélité,",
+				"Pour avoir tout donné, merci Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci au Père, merci au Fils,",
+				"Merci au Saint-Esprit, ô Trois Fois Saint,",
+				"Merci Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem791",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

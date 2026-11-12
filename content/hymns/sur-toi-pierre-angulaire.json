@@ -1,0 +1,82 @@
+{
+	"id": "sur-toi-pierre-angulaire",
+	"title": "Sur toi, Pierre angulaire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "185"
+		},
+		{
+			"hymnal": "adf",
+			"number": "430"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur Toi, pierre angulaire,",
+				"O Jésus, Fils de Dieu,",
+				"L'Église, pierre à pierre,",
+				"S'édifie en tout lieu.",
+				"Tes élus n'ont qu'une âme,",
+				"Un espoir, une foi,",
+				"Et, de la même flamme,",
+				"Leurs cœurs brûlent pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pourtant, longue est l'attente !",
+				"Ah ! quand donc serons-nous",
+				"L'Église triomphante,",
+				"Unie à son Époux ?",
+				"Patiente et fidèle,",
+				"L'Église sous la croix,",
+				"O Rédempteur, t'appelle,",
+				"Du cœur et de la voix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voici l'aube promise :",
+				"Tu viens, tu viens, Seigneur,",
+				"Donner à ton Église",
+				"L'ineffable bonheur.",
+				"Lève-toi, race élue,",
+				"Nouvelle humanité,",
+				"Car voici sur la nue",
+				"Ton Roi ressuscité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Württemberg",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg185",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af430",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

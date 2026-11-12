@@ -1,0 +1,77 @@
+{
+	"id": "tu-laissas-au-ciel-trone-et-couronne",
+	"title": "Tu laissas au ciel trône et couronne",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "78"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu laissas au ciel trône et couronne,",
+				"Quand tu vins ici-bas pour moi.",
+				"Bethléem te repousse et personne",
+				"N'a de place, ô Jésus pour toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te reçois, ô mon sauveur,",
+				"Prends toute la place en mon coeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le ciel s'ouvre au cantique des anges,",
+				"Proclamant ta divinité,",
+				"Mais la crèche et les plus pauvres langes,",
+				"Seuls entourent ta royauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand tu vins, ô parole divine,",
+				"Israël méprisa ta voix.",
+				"Il te mit la couronne d'épines,",
+				"Et te fit mourir sur la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais du ciel, ô Jésus, sur la nue,",
+				"Tu viendras pour ravir les tiens.",
+				"Et ma voix saluant ta venue,",
+				"Te dira: « viens à moi, oui viens »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "I. Arnéra",
+			"role": "unspecified"
+		},
+		{
+			"name": "T.R. Matthews",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/884",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

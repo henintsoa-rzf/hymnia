@@ -1,0 +1,80 @@
+{
+	"id": "demeure-par-ta-grace",
+	"title": "Demeure par ta grâce",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "214"
+		},
+		{
+			"hymnal": "adf",
+			"number": "130"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Demeure par ta grâce",
+				"Avec nous, Dieu Sauveur !",
+				"Quoi que l'ennemi fasse,",
+				"Veille sur notre cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que ta sainte Parole,",
+				"Chaque jour, ici-bas,",
+				"Soit la seule boussole",
+				"Qui dirige nos pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Éternelle lumière,",
+				"Que ta vive splendeur",
+				"Nous guide, nous éclaire",
+				"Et nous garde d'erreur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Étends sur nous ton aile",
+				"Et demeure à jamais",
+				"Avec nous, Dieu fidèle !",
+				"Répands sur nous la paix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Melchior Vulpius",
+			"role": "music"
+		},
+		{
+			"name": "J.-F. Monnier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg214",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af130",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

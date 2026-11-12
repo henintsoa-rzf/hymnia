@@ -1,0 +1,113 @@
+{
+	"id": "parle-parle-seigneur",
+	"title": "Parle, parle Seigneur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "188"
+		},
+		{
+			"hymnal": "adf",
+			"number": "188A"
+		},
+		{
+			"hymnal": "adf",
+			"number": "188B"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Parle, parle, Seigneur,",
+				"ton serviteur écoute :",
+				"Je dis ton serviteur,",
+				"car enfin je le suis ;",
+				"Je le suis, je veux l'être,",
+				"et marcher dans ta route,",
+				"Et les jours et les nuits.",
+				"Je le suis, je veux l'être,",
+				"et marcher dans ta route,",
+				"Et les jours et les nuits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Remplis-moi d'un esprit",
+				"qui me fasse comprendre",
+				"Ce qu'ordonnent de moi",
+				"tes saintes volontés,",
+				"Et réduis mes désirs",
+				"au seul désir d'entendre",
+				"Tes hautes vérités.",
+				"Et réduis mes désirs",
+				"au seul désir d'entendre",
+				"Tes hautes vérités."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Parle, parle, ô mon Dieu !",
+				"ton serviteur fidèle",
+				"Pour écouter ta voix",
+				"réunit tous ses sens,",
+				"Et trouve les douceurs",
+				"de la vie éternelle",
+				"En tes divins accents.",
+				"Et trouve les douceurs",
+				"de la vie éternelle",
+				"En tes divins accents."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Parle, pour consoler",
+				"mon âme inquiétée ;",
+				"Parle, pour la conduire",
+				"à quelque amendement ;",
+				"Parle, afin que ta gloire,",
+				"ainsi plus exaltée,",
+				"Croisse éternellement !",
+				"Parle, afin que ta gloire,",
+				"ainsi plus exaltée,",
+				"Croisse éternellement !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "Pierre Corneille",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af188",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af188a",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af188b",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

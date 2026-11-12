@@ -1,0 +1,98 @@
+{
+	"id": "qui-est-ce-roi",
+	"title": "Qui est ce roi ?",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1010"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui est ce Roi qui veut laver mes pieds ?",
+				"Qui est ce Sauveur devenu comme l'un de nous ?",
+				"Qui est ce berger dont la voix",
+				"est si remplie d'amour ?",
+				"Qui est cet ami proche qui essuie mes larmes ?",
+				"Qui est ce Roi qui veut laver mes pieds ?",
+				"Qui est ce Sauveur devenu comme l'un de nous ?",
+				"Qui est ce berger dont la voix",
+				"est si remplie d'amour ?",
+				"Qui est cet ami proche qui essuie mes larmes ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es digne de toute la gloire.",
+				"Tu mérites toutes les louanges.",
+				"Tu es digne de tout l'honneur,",
+				"Jésus, Fils de Dieu.",
+				"Tu es digne de toute la gloire.",
+				"Tu mérites toutes les louanges.",
+				"Tu es digne de tout l'honneur,",
+				"Jésus, Fils de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui est ce Roi maintenant glorifié ?",
+				"Qui est ce Sauveur qui a ôté ma honte ?",
+				"Qui est ce berger qui toujours me conduit ?",
+				"Qui est cet ami proche",
+				"qui ne m'abandonne jamais ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es digne de toute la gloire.",
+				"Tu mérites toutes les louanges.",
+				"Tu es digne de tout l'honneur,",
+				"Jésus, Fils de Dieu.",
+				"Tu es digne de toute la gloire.",
+				"Tu mérites toutes les louanges.",
+				"Tu es digne de tout l'honneur,",
+				"Jésus, Fils de Dieu."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu es mort sur cette croix.",
+				"Seigneur, tu as donné ta vie pour nous.",
+				"Tu nous as montré ton immense amour.",
+				"Un seul sacrifice pour tous.",
+				"Tu es mort sur cette croix.",
+				"Seigneur, tu as donné ta vie pour nous.",
+				"Tu nous as montré ton immense amour.",
+				"Un seul sacrifice pour tous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fabien Gutknecht",
+			"role": "music"
+		},
+		{
+			"name": "Fabien Gutknecht",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1010",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

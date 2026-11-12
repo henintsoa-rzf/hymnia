@@ -1,0 +1,123 @@
+{
+	"id": "dans-ta-maison-jem-1128",
+	"title": "Dans ta maison",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1128"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô Seigneur, mon berger,",
+				"Je viens pour t’exprimer",
+				"Ma reconnaissance.",
+				"À l’ombre de ta main,",
+				"Je poursuis mon chemin",
+				"Avec ferme assurance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu me fais reposer",
+				"Dans de vertes vallées",
+				"Et près des eaux paisibles.",
+				"Tu restaures mon âme",
+				"Par ta divine flamme,",
+				"Ton amour infaillible."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J’habiterai dans ta maison",
+				"Tous les jours de ma vie.",
+				"J’habiterai dans ta maison",
+				"Tous les jours de ma vie."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oui, le bonheur et la grâce m’accompagneront.",
+				"Oui, le bonheur et la grâce m’accompagneront."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ô Seigneur, mon berger,",
+				"Je viens pour t’exprimer",
+				"Ma reconnaissance.",
+				"À l’ombre de ta main,",
+				"Je poursuis mon chemin",
+				"Avec ferme assurance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu me fais reposer",
+				"Dans de vertes vallées",
+				"Et près des eaux paisibles.",
+				"Tu restaures mon âme",
+				"Par ta divine flamme,",
+				"Ton amour infaillible."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J’habiterai dans ta maison",
+				"Tous les jours de ma vie.",
+				"J’habiterai dans ta maison",
+				"Tous les jours de ma vie."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oui, le bonheur et la grâce m’accompagneront.",
+				"Oui, le bonheur et la grâce m’accompagneront."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"J’habiterai dans ta maison",
+				"Tous les jours de ma vie.",
+				"J’habiterai dans ta maison",
+				"Tous les jours de ma vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Blanc",
+			"role": "music"
+		},
+		{
+			"name": "Thomas Blanc",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1128",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

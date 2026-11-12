@@ -1,0 +1,85 @@
+{
+	"id": "des-pays-de-l-aurore",
+	"title": "Des pays de l'aurore.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "510"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Des pays de l'aurore",
+				"Aux plaines du couchant,",
+				"Partout où l'homme adore",
+				"S'élève un cri touchant ;",
+				"C'est la clameur immense",
+				"Des peuples à genoux :",
+				"« N'est-il pas de clémence,",
+				"Point de grâce pour nous ? »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En vain dans sa détresse,",
+				"L'homme, sous tous les cieux,",
+				"Fait et détruit sans cesse",
+				"Des temples pour ses dieux ;",
+				"Toute prière est vaine ;",
+				"Tous ces dieux sont mortels,",
+				"Et tu meurs, foule humaine,",
+				"Au pied de tes autels !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O vous à qui le Père",
+				"Par Christ s'est révélé,",
+				"Pour qui, sur le Calvaire",
+				"L'Agneau fut immolé ;",
+				"C'est vous, c'est vous qu'appelle",
+				"Le cri des malheureux,",
+				"Car la bonne Nouvelle,",
+				"Elle est aussi pour eux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À toute âme flétrie,",
+				"À tout cœur désolé,",
+				"Parlez de la patrie",
+				"Dont il est exilé !",
+				"Dites-leur : « Crois, espère ! »",
+				"Et, leur prenant la main,",
+				"Conduisez-les au Père",
+				"Par Christ, le seul chemin !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "M. de Schoulepnikow",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af510",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

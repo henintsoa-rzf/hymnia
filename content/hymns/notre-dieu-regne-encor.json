@@ -1,0 +1,63 @@
+{
+	"id": "notre-dieu-regne-encor",
+	"title": "Notre Dieu règne encor !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "41"
+		},
+		{
+			"hymnal": "jem",
+			"number": "131",
+			"title": "Notre Dieu règne encore"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Dieu règne encor !",
+				"Jamais son amour ne s'endort.",
+				"Le vent se déchaîne,",
+				"Nos cœurs sont en peine,",
+				"Mais Dieu nous conduit jusqu'au port."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre Dieu règne encor !",
+				"Jamais son amour ne s'endort.",
+				"Ce qu'il nous promet",
+				"Reste vrai pour jamais :",
+				"Notre Dieu règne encor !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Frederick Willington Suffield",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg041",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem131",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

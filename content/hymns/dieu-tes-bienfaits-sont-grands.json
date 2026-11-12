@@ -1,0 +1,97 @@
+{
+	"id": "dieu-tes-bienfaits-sont-grands",
+	"title": "Dieu, tes bienfaits sont grands",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1080"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, tu es grand et admirable,",
+				"Ton œuvre est remarquable,",
+				"Fiable sur terre comme au ciel.",
+				"L'univers raconte l'histoire",
+				"Du Créateur de gloire,",
+				"Les astres célèbrent l'Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, tes bienfaits sont grands et merveilleux.",
+				"Dans ta sagesse, tu pourvois.",
+				"Parmi tous tes dons, le plus précieux,",
+				"C'est ton amour pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu, tu es grand et, dans ta présence,",
+				"Nous t'offrons la révérence,",
+				"L'allégeance, de nos cœurs entiers.",
+				"Dieu, ta parole est immuable,",
+				"Tes promesses véritables ;",
+				"Ton Esprit nous fait chanter."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dieu, tes bienfaits sont grands et merveilleux.",
+				"Dans ta sagesse, tu pourvois.",
+				"Parmi tous tes dons, le plus précieux,",
+				"C'est ton amour pour moi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dieu, tes bienfaits sont grands.",
+				"Dieu, tes bienfaits sont grands.",
+				"Ô Dieu, tous tes bienfaits sont grands.",
+				"Reçois l'adoration de tes enfants.",
+				"Dieu, tes bienfaits sont grands.",
+				"Dieu, tes bienfaits sont grands.",
+				"Ô Dieu, tous tes bienfaits sont grands."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Dieu, tes bienfaits sont grands et merveilleux.",
+				"Dans ta sagesse, tu pourvois.",
+				"Mais parmi tous tes dons, le plus précieux,",
+				"C'est ton amour pour moi.",
+				"Ô Dieu, tous tes bienfaits sont grands."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1080",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

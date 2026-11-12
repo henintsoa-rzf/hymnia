@@ -1,0 +1,58 @@
+{
+	"id": "change-mon-coeur-seigneur",
+	"title": "Change mon cœur, Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "369"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Change mon cœur, Seigneur,",
+				"Et purifie-moi,",
+				"Change mon cœur, Seigneur,",
+				"Que je sois comme toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, tu es le potier, je suis l'argile.",
+				"Brise-moi, façonne-moi,",
+				"Oui, c'est mon désir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Change mon cœur, Seigneur,",
+				"Et purifie-moi,",
+				"Change mon cœur, Seigneur,",
+				"Que je sois comme toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Eddie Espinosa",
+			"role": "music"
+		},
+		{
+			"name": "Eddie Espinosa",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem369",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

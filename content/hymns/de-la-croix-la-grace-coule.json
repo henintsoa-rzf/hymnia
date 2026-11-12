@@ -1,0 +1,72 @@
+{
+	"id": "de-la-croix-la-grace-coule",
+	"title": "De la croix, la grâce coule",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "226"
+		},
+		{
+			"hymnal": "adf",
+			"number": "581"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"De la croix, la grâce coule,",
+				"Comme un fleuve, constamment.",
+				"Oh ! venez, venez en foule ;",
+				"Un plein pardon vous attend,",
+				"Oh ! venez, venez en foule ;",
+				"Un plein pardon vous attend."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, pour tous la grâce abonde,",
+				"À tous le ciel est ouvert.",
+				"Pour tous les pécheurs du monde",
+				"Le Rédempteur a souffert",
+				"Pour tous les pécheurs du monde,",
+				"Le Rédempteur a souffert."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Crois à sa miséricorde",
+				"Qui dure éternellement.",
+				"Pour toi, la grâce déborde,",
+				"À cette heure, en ce moment,",
+				"Pour toi, la grâce déborde,",
+				"À cette heure, en ce moment."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air populaire russe",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg226",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af581",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

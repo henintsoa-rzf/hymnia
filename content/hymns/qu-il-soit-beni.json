@@ -1,0 +1,90 @@
+{
+	"id": "qu-il-soit-beni",
+	"title": "Qu'il soit béni",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "703"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'il soit béni, celui qui vient",
+				"Au nom du Seigneur.",
+				"Qu'il soit béni, celui qui vient",
+				"Au nom du Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qu'il soit béni, celui qui vient",
+				"Au nom du Seigneur.",
+				"Qu'il soit béni, celui qui vient",
+				"Au nom du Seigneur.",
+				"Alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Baruch haba, beshem Adonaï.",
+				"Haleluyah.",
+				"Baruch haba, beshem Adonaï.",
+				"Haleluyah."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Baruch haba, beshem Adonaï.",
+				"Baruch haba, beshem Adonaï.",
+				"Haleluyah."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est béni, celui qui vient",
+				"Au nom du Seigneur.",
+				"Il est béni, celui qui vient",
+				"Au nom du Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est béni, celui qui vient",
+				"Au nom du Seigneur.",
+				"Il est béni, celui qui vient",
+				"Au nom du Seigneur.",
+				"Alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Barry Kornreich",
+			"role": "music"
+		},
+		{
+			"name": "Barry Kornreich",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem703",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

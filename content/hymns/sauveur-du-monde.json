@@ -1,0 +1,99 @@
+{
+	"id": "sauveur-du-monde",
+	"title": "Sauveur du monde",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "979"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Par amour, Dieu nous a donné",
+				"Jésus-Christ, son fils, mort à notre place.",
+				"Il a porté le péché, la honte.",
+				"Sur la croix, il dit : « Tout est accompli ! »",
+				"Le Seigneur a vaincu l'obscurité.",
+				"Il revit, sur la mort il a triomphé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il a ouvert pour nous le chemin du salut,",
+				"Il est le Sauveur du monde.",
+				"En l'honneur de son nom,",
+				"Nous crions, l'acclamons :",
+				"« Gloire à Dieu ! Gloire à Dieu !",
+				"Jésus-Christ, sauveur du monde ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Annonçons partout qu'il revient bientôt",
+				"Réclamer le monde pour sa gloire.",
+				"Que l'Église acclame le Roi qui revient,",
+				"Ceint de majesté, notre rédempteur.",
+				"Il est Roi, oui, il règne dans les cieux.",
+				"Et son nom est Jésus, il est le Messie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il a ouvert pour nous le chemin du salut,",
+				"Il est le Sauveur du monde.",
+				"En l'honneur de son nom,",
+				"Nous crions, l'acclamons :",
+				"« Gloire à Dieu ! Gloire à Dieu !",
+				"Jésus-Christ, sauveur du monde ! » Oh !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Le Seigneur a vaincu l'obscurité.",
+				"Il revit, sur la mort il a triomphé.",
+				"Il est Roi, oui, il règne dans les cieux.",
+				"Et son nom est Jésus, il est le Messie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il a ouvert pour nous le chemin du salut,",
+				"Il est le Sauveur du monde.",
+				"En l'honneur de son nom,",
+				"Nous crions, l'acclamons :",
+				"« Gloire à Dieu ! Gloire à Dieu !",
+				"Jésus-Christ, sauveur du monde ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ben Cantelon",
+			"role": "music"
+		},
+		{
+			"name": "Ben Cantelon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem979",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

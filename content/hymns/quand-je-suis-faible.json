@@ -1,0 +1,71 @@
+{
+	"id": "quand-je-suis-faible",
+	"title": "Quand je suis faible",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "315"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je peux servir mon Dieu, même si je suis faible",
+				"Et même si je crois que j’en suis incapable.",
+				"Oui, je peux servir Dieu, tout en comptant sur lui",
+				"Et non pas sur mes forces : Gloire à Lui !",
+				"C’est lui qui agit en moi, peu importe ma faiblesse,",
+				"Cela ne l’arrête pas, je peux le croire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car quand je suis faible, alors je suis fort,",
+				"Car le Dieu puissant se manifestera !",
+				"Oui quand je suis faible, alors je suis fort,",
+				"Car Dieu agira, oh oui tu le verras !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, Dieu m’a tant aimé qu’il a donné Jésus.",
+				"Lui seul peut me sauver et je lui appartiens.",
+				"Servir, c’est mon poème, pour dire à Dieu : Je t’aime.",
+				"Oui, Dieu m’a tant aimé : gloire à Lui !",
+				"C’est lui qui m’a transformé, lui qui m’a rendu capable.",
+				"Je ne vais pas me vanter, j’ai tout reçu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-15",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

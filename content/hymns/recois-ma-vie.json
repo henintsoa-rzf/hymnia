@@ -1,0 +1,67 @@
+{
+	"id": "recois-ma-vie",
+	"title": "Reçois ma vie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "705"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois ma vie comme une adoration,",
+				"Reçois mon cœur",
+				"comme un cadeau d'amour ;",
+				"Je n'ai rien d'autre à t'offrir",
+				"Que ce sacrifice vivant.",
+				"Je te donne ma vie pour toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'abandonne sur ton autel,",
+				"En réponse à ton appel,",
+				"Mes visions, mes ambitions,",
+				"Car tu es ma vie, ma passion.",
+				"À tes pieds, émerveillé,",
+				"Je contemple ta majesté;",
+				"Je te donne sans compromis",
+				"Ce parfum de très grand prix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois ma vie comme une adoration,",
+				"Reçois mon cœur",
+				"comme un cadeau d'amour ;",
+				"Je n'ai rien d'autre à t'offrir",
+				"Que ce sacrifice vivant.",
+				"Je te donne ma vie pour toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem705",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

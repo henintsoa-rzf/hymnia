@@ -1,0 +1,69 @@
+{
+	"id": "aux-jours-d-angoisse-et-de-souffrance",
+	"title": "Aux jours d'angoisse et de souffrance.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "231"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aux jours d'angoisse et de souffrance,",
+				"Quand le cœur est rempli d'effroi,",
+				"Jésus dit : « Ayez confiance !",
+				"Venez à moi ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsque soudain survient l'orage,",
+				"Que nul abri ne s'offre à toi,",
+				"De Jésus entends le message ;",
+				"« Venez à moi ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand le péché te sollicite,",
+				"Quand tu sens vaciller ta foi,",
+				"Écoute sa voix qui t'invite :",
+				"« Venez à moi ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il nous pardonne, il nous console,",
+				"Il prend sur lui tous nos fardeaux,",
+				"Et nous trouvons à son école",
+				"Le vrai repos."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Bacchus Dykes",
+			"role": "music"
+		},
+		{
+			"name": "J. Sauvin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af231",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

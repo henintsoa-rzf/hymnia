@@ -1,0 +1,59 @@
+{
+	"id": "tout-dit-qu-il-est-merveilleux",
+	"title": "Tout dit qu'il est merveilleux",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "57"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tout dit qu'il est merveilleux.",
+				"Tout dit qu'il est merveilleux.",
+				"La terre et la mer, la splendeur des cieux,",
+				"Oui, tout dit qu'il est merveilleux!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je sais qu'il est merveilleux.",
+				"Je sais qu'il est merveilleux.",
+				"Il sauve, il me garde et me rend heureux,",
+				"Oui, je sais qu'il est merveilleux!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, Jésus est merveilleux.",
+				"Oui, Jésus est merveilleux.",
+				"Un jour je dirai, là-haut, dans les cieux,",
+				"Oui mon Sauveur est merveilleux!"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H. ARNERA",
+			"role": "unspecified"
+		},
+		{
+			"name": "M. Mme Seth Sykes",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/865",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

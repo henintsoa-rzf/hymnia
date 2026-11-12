@@ -1,0 +1,715 @@
+{
+	"about": "SC-005 reference list (specs/002-hymnal-import, task T050), from the first real import (2026-11-11). 'shared' groups pages read and judged to be the same hymn (several hymnals or sources, often under another title); 'distinct' pairs pages with the same or a similar title that are different hymns. Each reference is {source, hymnal, number} of a page in import/cache.",
+	"shared": [
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "42"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "232"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "300"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "44"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "206"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "65"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "28"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "138"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "78"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "188"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "363"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "273"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "141"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "234"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "283"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "85"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "341"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "91"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "293"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "175"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "164"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "81"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "208"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "318"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "75"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "362"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "81"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "259"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "360"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "87"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "341"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "51"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "17"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "57"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "26"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "434"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "357"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "257"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "196"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "391"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "457"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "41"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "131"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "199"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "154"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "245"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "145"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "11"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "9"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "114"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "88"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "75"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "1074"
+			},
+			{
+				"source": "psalmodie",
+				"hymnal": "psalmodie",
+				"number": "606"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "563"
+			},
+			{
+				"source": "psalmodie",
+				"hymnal": "psalmodie",
+				"number": "308"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "871"
+			},
+			{
+				"source": "psalmodie",
+				"hymnal": "psalmodie",
+				"number": "512"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "941"
+			},
+			{
+				"source": "psalmodie",
+				"hymnal": "psalmodie",
+				"number": "706"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "342"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "289"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "72"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "537"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "64"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "70"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "148"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "120"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "202"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "190"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "95"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "285"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "225"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "243"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "258"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "84"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "150"
+			},
+			{
+				"source": "psalmodie",
+				"hymnal": "psalmodie",
+				"number": "113"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "1"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "118"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "79"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "110"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "391"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "96"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "38"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "60"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "260"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "317"
+			}
+		]
+	],
+	"distinct": [
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "82"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "871"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "190"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "238"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "459"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "391"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "275"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "1101"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "47"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "114"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "828"
+			},
+			{
+				"source": "ecriture",
+				"hymnal": "ecriture",
+				"number": "1"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "129"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "82"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "597"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "150"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "18"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "911"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "45"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "183"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "727"
+			},
+			{
+				"source": "psalmodie",
+				"hymnal": "psalmodie",
+				"number": "404"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "1105"
+			},
+			{
+				"source": "psalmodie",
+				"hymnal": "psalmodie",
+				"number": "507"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "125"
+			},
+			{
+				"source": "cdl",
+				"hymnal": "cd",
+				"number": "157"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "atg",
+				"number": "27"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "995"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "815"
+			},
+			{
+				"source": "ecriture",
+				"hymnal": "ecriture",
+				"number": "24"
+			}
+		],
+		[
+			{
+				"source": "jemaf",
+				"hymnal": "adf",
+				"number": "16"
+			},
+			{
+				"source": "jemaf",
+				"hymnal": "jem",
+				"number": "3"
+			}
+		]
+	]
+}

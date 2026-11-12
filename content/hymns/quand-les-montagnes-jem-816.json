@@ -1,0 +1,79 @@
+{
+	"id": "quand-les-montagnes-jem-816",
+	"title": "Quand les montagnes",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "816"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand les montagnes chancelleraient,",
+				"Quand les collines s'écrouleraient,",
+				"Mon amour pour toi ne changera pas",
+				"Et mon alliance de paix te gardera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est moi qui t'ai créée, c'est moi ton mari ;",
+				"Mon nom est le Seigneur, le Saint d'Israël.",
+				"Je suis le rédempteur, le Dieu éternel ;",
+				"Je règne sur la terre, je serai ton abri."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand les montagnes chancelleraient,",
+				"Quand les collines s'écrouleraient,",
+				"Mon amour pour toi ne changera pas",
+				"Et mon alliance de paix te gardera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu oublieras ta honte et le déshonneur.",
+				"Dans ma compassion, je te recueillerai.",
+				"Compagne de jeunesse, plus jamais rejetée,",
+				"Je viens guérir ton cœur et bannir ta peur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand les montagnes chancelleraient,",
+				"Quand les collines s'écrouleraient,",
+				"Mon amour pour toi ne changera pas",
+				"Et mon alliance de paix te gardera."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem816",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

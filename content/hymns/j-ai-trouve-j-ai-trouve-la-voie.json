@@ -1,0 +1,93 @@
+{
+	"id": "j-ai-trouve-j-ai-trouve-la-voie",
+	"title": "J'ai trouvé, j'ai trouvé la voie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "332"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai trouvé, j'ai trouvé la voie",
+				"Qui conduit au repos du cœur ;",
+				"J'ai trouvé la paix et la joie",
+				"En Jésus, le Libérateur.",
+				"O mes compagnons de misère,",
+				"Ensemble invoquons son secours :",
+				"Il n'attend que notre prière,",
+				"Le Sauveur qui sauve toujours ;",
+				"Il n'attend que notre prière,",
+				"Le Sauveur qui sauve toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par son sang, sa miséricorde",
+				"Efface nos iniquités ;",
+				"Par son Esprit, qu'Il nous accorde,",
+				"Il guérit nos infirmités ;",
+				"Et plus le mal est incurable,",
+				"Et plus les fardeaux semblent lourds,",
+				"Plus Il se montre secourable,",
+				"Le Sauveur qui sauve toujours.",
+				"Plus Il se montre secourable,",
+				"Le Sauveur qui sauve toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Hélas ! ma trop longue ignorance",
+				"Ne connaissait auparavant,",
+				"Dans la lutte ou dans la souffrance,",
+				"Qu'un Sauveur qui sauve souvent ;",
+				"Mais de ma pauvre et triste vie",
+				"J'ai vu se transformer le cours,",
+				"Depuis que mon cœur se confie",
+				"Au Sauveur qui sauve toujours.",
+				"Depuis que mon cœur se confie",
+				"Au Sauveur qui sauve toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il est ma force et ma victoire,",
+				"L'Ami qui me guide en tout lieu ;",
+				"Il est ma lumière et ma gloire ;",
+				"Il est mon frère, Il est mon Dieu.",
+				"Soit que je vive ou que je meure,",
+				"Il est mon unique recours…",
+				"Tu me sauveras d'heure en heure,",
+				"O Sauveur qui sauves toujours !",
+				"Tu me sauveras d'heure en heure,",
+				"O Sauveur qui sauves toujours !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mme H. Lutteroth",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af332",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

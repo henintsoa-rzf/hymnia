@@ -1,0 +1,89 @@
+{
+	"id": "priere-de-pentecote",
+	"title": "Prière de pentecôte",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "124"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Esprit de vie et de puissance,",
+				"Réveille-moi, remplis mon coeur !",
+				"Pénètre-moi de ta présence",
+				"Et que par toi je sois vainqueur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Esprit de feu, ô sainte flamme,",
+				"Détruis tout mal en moi pécheur !",
+				"Toi seul peux faire de mon âme",
+				"Un temple digne du Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Esprit de gloire et de sagesse,",
+				"Viens faire ta demeure en moi !",
+				"Subviens à toutes mes faiblesses,",
+				"Augmente et fais grandir ma foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Esprit de grâce et de lumière,",
+				"O source qui coule à pleins bords,",
+				"Révèle-moi le coeur du Père",
+				"Et me dévoile ses trésors !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Esprit de joie et d’espérance,",
+				"De tes rayons, inonde-moi !",
+				"Console-moi dans la souffrance,",
+				"Et sois ma force aux jours d’effroi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Esprit du Dieu plein de tendresse,",
+				"Jaillis en moi de jour en jour !",
+				"Ravive dans mon coeur sans cesse",
+				"La flamme du premier amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rev. C.C . Scholefield",
+			"role": "unspecified"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/961",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

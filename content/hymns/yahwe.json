@@ -1,0 +1,132 @@
+{
+	"id": "yahwe",
+	"title": "Yahwé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "970"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "513"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel est mon berger,",
+				"De rien, je ne manquerai.",
+				"O mon âme, chante, mon âme.",
+				"Pas à pas, il me conduit,",
+				"Au bord des eaux calmes, je le suis.",
+				"O mon âme, chante mon âme."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, toujours le bonheur et la grâce",
+				"M'accompagneront devant sa face.",
+				"Dans sa présence, tellement de joie, tellement de joie !",
+				"Et, tant qu'il se trouve auprès de moi,",
+				"Aucun mal, mon âme, tu ne craindras,",
+				"Et dans son temple je reviendrai, je reviendrai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et, si je traverse encore",
+				"La vallée de l'ombre de la mort,",
+				"O mon âme, chante, mon âme.",
+				"Puisqu'il m'aime le premier,",
+				"Non, rien ne pourra me séparer",
+				"De son amour, de son amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, toujours le bonheur et la grâce",
+				"M'accompagneront devant sa face.",
+				"Dans sa présence, tellement de joie, tellement de joie !",
+				"Et, tant qu'il se trouve auprès de moi,",
+				"Aucun mal, mon âme, tu ne craindras,",
+				"Et dans son temple je reviendrai, je reviendrai."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Yahwé, Yahwé, tu fais briller sur moi ton soleil.",
+				"Yahwé, Yahwé, ta lumière chasse au loin les ténèbres.",
+				"Yahwé, Yahwé, ta Parole éclaire mon sentier.",
+				"Yahwé, Yahwé, Yahwé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bientôt, il viendra me chercher",
+				"Et, dans sa maison, j'habiterai.",
+				"O mon âme, chante, mon âme.",
+				"Sans cesse, jusqu'à son retour,",
+				"Mon âme chante son amour",
+				"Tous les jours, tous les jours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, toujours le bonheur et la grâce",
+				"M'accompagneront devant sa face.",
+				"Dans sa présence, tellement de joie, tellement de joie !",
+				"Et, tant qu'il se trouve auprès de moi,",
+				"Aucun mal, mon âme, tu ne craindras,",
+				"Et dans son temple je reviendrai, je reviendrai."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Yahwé, Yahwé, tu fais briller sur moi ton soleil.",
+				"Yahwé, Yahwé, ta lumière chasse au loin les ténèbres.",
+				"Yahwé, Yahwé, ta Parole éclaire mon sentier.",
+				"Yahwé, Yahwé, Yahwé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem970",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-13",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

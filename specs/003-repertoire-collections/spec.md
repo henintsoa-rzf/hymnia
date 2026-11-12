@@ -148,6 +148,9 @@ collection.
 - **A hymn no longer in the published hymnals** (rights withdrawn, data update): it stays in
   the collection, shown as "Chant indisponible", and can be removed; it is not deleted
   silently.
+- **A hymn renumbered or merged by a data update** *(added 2026-11-11, with feature 002)*: the
+  entry follows the hymn it was saved for and opens it under its current reference; it never
+  opens a different hymn that now has the old number.
 - **Deleting a collection by mistake**: deletion is confirmed first, and can be undone for a
   few seconds afterwards.
 - **Many collections or long collections**: the Répertoire stays usable with 50 collections
@@ -186,6 +189,10 @@ collection.
   and show the collection's name and the hymn's position.
 - **FR-013**: *(Removed 2026-11-11: the single list from feature 001 is not migrated.)*
 - **FR-014**: Collections MUST be kept on the device between visits and work fully offline.
+- **FR-016** *(added 2026-11-11, with feature 002)*: Each entry MUST remember the hymn it was
+  saved for. When a data update renumbers or merges that hymn, the entry MUST open the same
+  hymn under its current reference; when the hymn is no longer published, the entry is
+  unavailable. An entry MUST never open a different hymn.
   They are user data and MUST stay separate from hymn data (constitution, Principle IV): a
   hymn data update never deletes a collection or its entries.
 - **FR-015**: Every screen and dialog in this feature MUST work with one hand on a phone, in

@@ -1,0 +1,71 @@
+{
+	"id": "le-temps-s-enfuit",
+	"title": "Le temps s'enfuit.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "455"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le temps s'enfuit, l'heure passe,",
+				"Le jour fait place à la nuit ;",
+				"Tout disparaît et s'efface,",
+				"Tout meurt et s'évanouit ;",
+				"Oh ! ne perdons pas courage,",
+				"Disons-nous que, chaque jour,",
+				"Nous approchons du rivage.",
+				"Divin séjour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Puisque le Seigneur de gloire",
+				"Est venu nous secourir,",
+				"Puisqu'il nous suffit de croire",
+				"Pour qu'Il veuille nous guérir,",
+				"Confions-nous en sa grâce ;",
+				"À tous Il dit : « Viens et crois !",
+				"Je suis mort à votre place,",
+				"Mort sur la croix ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Encore un peu de souffrance,",
+				"De combats et de travaux,",
+				"Puis viendra la délivrance",
+				"Et l'heureux jour du repos.",
+				"Je veux, ô mon tendre Père,",
+				"Vivre pour toi désormais",
+				"Jusqu'au bout de ma carrière…",
+				"Oui, pour jamais !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Felix Mendelssohn",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Fisch",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af455",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,125 @@
+{
+	"id": "abba-pere-jem-1054",
+	"title": "Abba Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1054"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bien avant le chant qui créa l'univers,",
+				"Bien avant l'Esprit qui planait sur la terre,",
+				"Bien avant que tu me formes de la poussière,",
+				"Tu rêvais du jour où tu pourrais m'aimer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bien avant les premiers battements",
+				"de mon cœur,",
+				"Bien avant que je m'éveille à ta douceur,",
+				"Bien avant mes doutes, mes joies",
+				"et mes douleurs,",
+				"Tu rêvais du jour où je pourrais t'aimer.",
+				"Tu rêvais du jour où je pourrais t'aimer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Abba Père, je suis à toi.",
+				"Abba Père, je suis à toi.",
+				"Abba Père, je suis à toi.",
+				"Abba Père, je suis à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bien avant que Jésus marche sur la terre,",
+				"Bien avant le Fils qui nous montre le Père,",
+				"Bien avant que les cieux sur moi soient ouverts,",
+				"Tu rêvais du jour où tu pourrais m'aimer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bien avant que mon péché brise ton cœur,",
+				"Bien avant que coulent le sang et la sueur,",
+				"Bien avant les clous, le froid, et la douleur,",
+				"Tu rêvais du jour où je pourrais t'aimer.",
+				"Tu rêvais du jour où je pourrais t'aimer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Abba Père, je suis à toi.",
+				"Abba Père, je suis à toi.",
+				"Abba Père, je suis à toi.",
+				"Abba Père, je suis à toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Abba Père, je suis émerveillé,",
+				"Saisi par l'immensité de ton amour pour moi.",
+				"Abba Père, si grande est ta tendresse,",
+				"Ton cœur est grand ouvert,",
+				"Et je viens plonger dans tes bras."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Abba Père, je suis émerveillé,",
+				"Saisi par l'immensité de ton amour pour moi.",
+				"Abba Père, si grande est ta tendresse,",
+				"Ton cœur est grand ouvert,",
+				"Et je viens plonger dans tes bras."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Abba Père, je suis à toi.",
+				"Abba Père, je suis à toi.",
+				"Abba Père, je suis à toi.",
+				"Abba Père, je suis à toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1054",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

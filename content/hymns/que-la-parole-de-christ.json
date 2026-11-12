@@ -1,0 +1,45 @@
+{
+	"id": "que-la-parole-de-christ",
+	"title": "Que la parole de Christ",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "50"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que la parole de Christ",
+				"Habite parmi vous abondamment !",
+				"Instruisez-vous et exhortez-vous",
+				"Les uns les autres en toute sagesse,",
+				"Par des psaumes, par des hymnes,",
+				"Par des cantiques spirituels,",
+				"Chantant à Dieu dans vos cœurs",
+				"Sous l'inspiration de la grâce.",
+				"Chantant à Dieu dans vos cœurs",
+				"Sous l'inspiration de la grâce."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem050",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

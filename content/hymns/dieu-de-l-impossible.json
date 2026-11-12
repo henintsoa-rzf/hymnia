@@ -1,0 +1,138 @@
+{
+	"id": "dieu-de-l-impossible",
+	"title": "Dieu de l'impossible",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1106"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu peut faire infiniment et au-delà,",
+				"Plus que tout ce que nous demandons, imaginons.",
+				"Ses promesses, oui et amen, se réalisent.",
+				"Sa parole, toujours sûre et certaine, s'accomplira.",
+				"Car il est puissant, Dieu est puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de l'impossible,",
+				"Je sais qu'il peut tout accomplir, tout accomplir.",
+				"Il est sans limite,",
+				"En lui je peux tout accomplir, tout accomplir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu est grand, majestueux, il règne en Roi.",
+				"Il ordonne, calme les tempêtes, il a tout pouvoir.",
+				"Par sa force incomparable, il nous soutient.",
+				"A sa voix, tout ce qui était mort vient à la vie.",
+				"Car il est puissant, Dieu est puissant.",
+				"Car il est puissant, Dieu est puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de l'impossible,",
+				"Je sais qu'il peut tout accomplir, tout accomplir.",
+				"Il est sans limite,",
+				"En lui je peux tout accomplir, tout accomplir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de l'impossible,",
+				"Je sais qu'il peut tout accomplir, tout accomplir.",
+				"Il est sans limite,",
+				"En lui je peux tout accomplir, tout accomplir."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"À lui soient tout l'honneur,",
+				"Puissance et force,",
+				"Louange et gloire à jamais."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"À lui soient tout l'honneur,",
+				"Puissance et force,",
+				"Louange et gloire à jamais."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"À lui soient tout l'honneur,",
+				"Puissance et force,",
+				"Louange et gloire à jamais."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"À lui soient tout l'honneur,",
+				"Puissance et force,",
+				"Louange et gloire à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de l'impossible,",
+				"Je sais qu'il peut tout accomplir, tout accomplir.",
+				"Il est sans limite,",
+				"En lui je peux tout accomplir, tout accomplir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de l'impossible,",
+				"Je sais qu'il peut tout accomplir, tout accomplir.",
+				"Il est sans limite,",
+				"En lui je peux tout accomplir, tout accomplir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marie-Laure Ndoumi",
+			"role": "music"
+		},
+		{
+			"name": "Marie-Laure Ndoumi",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1106",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

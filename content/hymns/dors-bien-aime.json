@@ -1,0 +1,69 @@
+{
+	"id": "dors-bien-aime",
+	"title": "Dors, bien-aimé.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "447"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dors, bien-aimé(e), ton œuvre est terminée,",
+				"Voici pour toi le soir de la journée.",
+				"Du grand repos l'heure est enfin sonnée,",
+				"À Dieu, mon frère (ma sœur), à Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si nous t'aimons, Christ t'aime davantage,",
+				"Il t'a conduit dans ton pèlerinage,",
+				"Il te soutient dans le sombre passage,",
+				"À Dieu, mon frère (ma sœur), à Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ame fidèle, entre dans la patrie",
+				"D'où la souffrance est à jamais bannie,",
+				"Bois à longs traits au fleuve de la Vie,",
+				"À Dieu, mon frère (ma sœur), à Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sublime espoir ! Jésus-Christ va paraître,",
+				"Pour saluer le retour de ton Maître,",
+				"Ton corps, bientôt, glorieux va renaître,",
+				"À Dieu, mon frère (ma sœur), à Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sarah Doudney",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens ; imité de Ira David Sankey",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af447",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

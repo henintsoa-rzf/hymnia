@@ -1,0 +1,67 @@
+{
+	"id": "car-dieu-l-a-exalte",
+	"title": "Car Dieu l'a exalté",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "386"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car Dieu l'a exalté",
+				"Au plus haut des cieux.",
+				"Il lui a donné",
+				"Le nom le plus élevé,",
+				"Et tout genou fléchira,",
+				"Toute langue confessera,",
+				"Que Jésus-Christ est Roi,",
+				"À la gloire du Père. Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Car Dieu l'a exalté",
+				"Au plus haut des cieux.",
+				"Il lui a donné",
+				"Le nom le plus élevé,",
+				"Et tout genou fléchira,",
+				"Toute langue confessera,",
+				"Que Jésus-Christ est Roi,",
+				"À la gloire du Père. Alléluia !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Car Dieu l'a exalté",
+				"Au plus haut des cieux.",
+				"Il lui a donné",
+				"Le nom le plus élevé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Austin Martin",
+			"role": "music"
+		},
+		{
+			"name": "Austin Martin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem386",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

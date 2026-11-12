@@ -1,0 +1,79 @@
+{
+	"id": "sainte-sion-o-patrie-eternelle",
+	"title": "Sainte Sion, ô patrie éternelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "440"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sainte Sion, ô patrie éternelle !",
+				"Palais sacré qu'habite le grand Roi !",
+				"Où doit sans fin régner l'âme fidèle.",
+				"Quoi de plus doux que de penser à toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans tes parvis, tout est joie, allégresse,",
+				"Chants de triomphe, ineffables plaisirs ;",
+				"Là, plus de deuil, plus de maux, de tristesse ;",
+				"Là, plus d'ennuis, de langueurs, de soupirs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tes habitants ne craignent plus l'orage ;",
+				"Ils sont au port, ils y sont pour jamais.",
+				"Leur ciel est pur, il n'a plus de nuage ;",
+				"Dieu dans leur cœur fait demeurer la paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour les élus il n'est plus d'inconstance ;",
+				"Tout est soumis aux lois d'un saint amour ;",
+				"Sur eux le mal a perdu sa puissance :",
+				"C'est Dieu qui règne en cet heureux séjour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"O mon Sauveur, qui par ton sacrifice,",
+				"À ton enfant ouvris ces nouveaux cieux.",
+				"Tu m'as couvert de ta sainte justice :",
+				"Vers ta Sion j'élève en paix mes vœux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Arnold",
+			"role": "music"
+		},
+		{
+			"name": "Recueil de la Confession d'Augsbourg",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af440",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,79 @@
+{
+	"id": "quand-les-justes-crient",
+	"title": "Quand les justes crient",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1073"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand les justes crient, l'Éternel entend",
+				"Et il les arrache à toutes leurs détresses.",
+				"Dieu est près de ceux qui sont opprimés,",
+				"Il est toujours proche des découragés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel délivre tous ses serviteurs",
+				"Et tous ceux qui se réfugient en lui.",
+				"Aucun de leurs os ne sera brisé.",
+				"L'ange de l'Éternel veille sur ses enfants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Craignez l'Éternel, vous, tous ses enfants,",
+				"Recherchez la paix et poursuivez-la !",
+				"Goûtez et voyez combien Dieu est bon.",
+				"Bienheureux est l'homme qui marche avec lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tournez-vous vers le Seigneur",
+				"Et rayonnez de sa joie !",
+				"Levez les yeux vers l'Éternel",
+				"Et proclamez sa grandeur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand les justes crient, l'Éternel entend",
+				"Et il les arrache à toutes leurs détresses.",
+				"Dieu est près de ceux qui sont opprimés,",
+				"Il est toujours proche des découragés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1073",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

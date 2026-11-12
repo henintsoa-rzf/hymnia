@@ -1,0 +1,92 @@
+{
+	"id": "c-est-notre-appel",
+	"title": "C'est notre appel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "988"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sauveur, seul Roi d'éternité,",
+				"Ta gloire s'élève en majesté. Chantons !",
+				"Jésus, la création s'incline à ton nom,",
+				"Tout l'univers s'écrie, s'écrie : « Jésus »."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est notre appel de t'adorer",
+				"Et de t'aimer d'un cœur entier.",
+				"Nous t'élevons sur toute la terre,",
+				"Nous t'élevons sur toute la terre ;",
+				"Loué sois-tu, loué sois-tu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, tu parles, le vent s'apaise.",
+				"À ta voix, nos cœurs brisés sont guéris, sont guéris.",
+				"Seigneur, prophète et roi, tu pries.",
+				"Tu règnes par la justice, la joie, la paix, Prince de paix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est notre appel de t'adorer",
+				"Et de t'aimer d'un cœur entier.",
+				"Nous t'élevons sur toute la terre,",
+				"Nous t'élevons sur toute la terre ;",
+				"Loué sois-tu, loué sois-tu."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Louange et gloire et honneur et puissance",
+				"Pour toujours, pour toujours à toi :",
+				"Louange et gloire et honneur et puissance",
+				"Pour toujours, pour toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est notre appel de t'adorer",
+				"Et de t'aimer d'un cœur entier.",
+				"Nous t'élevons sur toute la terre,",
+				"Nous t'élevons sur toute la terre ;",
+				"Loué sois-tu, loué sois-tu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Bob Fitts",
+			"role": "music"
+		},
+		{
+			"name": "Bob Fitts",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem988",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

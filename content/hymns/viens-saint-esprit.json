@@ -1,0 +1,86 @@
+{
+	"id": "viens-saint-esprit",
+	"title": "Viens, Saint-Esprit",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "556"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, Saint-Esprit, viens par ton vent",
+				"Remplir le temple que je suis.",
+				"Oh, viens, Saint-Esprit, souffle puissant,",
+				"Brise d'amour, courant de vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Souffle sur moi, souffle sur moi, souffle,",
+				"Souffle sur moi, souffle sur moi, souffle,",
+				"Souffle sur moi, souffle vent de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens, Saint-Esprit, viens par ta pluie",
+				"Mouiller la terre que je suis.",
+				"Oh, viens, Saint-Esprit, flot impétueux,",
+				"Source d'amour, fleuve de vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Coule sur moi, coule sur moi, coule,",
+				"Coule sur moi, coule sur moi, coule,",
+				"Coule sur moi, coule pluie de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens, Saint-Esprit, viens par ton feu",
+				"Brûler l'offrande que je suis.",
+				"Oh, viens, Saint-Esprit, feu dévorant,",
+				"Brasier d'amour, flamme de vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Embrase-moi, embrase-moi, brûle,",
+				"Embrase-moi, embrase-moi, brûle,",
+				"Embrase-moi, brûle feu de Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem556",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

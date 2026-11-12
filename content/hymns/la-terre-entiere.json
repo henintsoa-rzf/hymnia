@@ -1,0 +1,78 @@
+{
+	"id": "la-terre-entiere",
+	"title": "La terre entière",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "920"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu dis : « Je vis,",
+				"En trois jours j'ai vaincu la mort. »",
+				"C'est fait ! Tu vis à jamais,",
+				"Tu règnes, ô Roi !",
+				"Et tu dis que tu reviendras,",
+				"Je sais que c'est vrai.",
+				"La terre entière chantera ton nom,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu dis : « Je vis,",
+				"En trois jours j'ai vaincu la mort. »",
+				"C'est fait ! Tu vis à jamais,",
+				"Tu règnes, ô Roi !",
+				"Et tu dis que tu reviendras,",
+				"Je sais que c'est vrai.",
+				"La terre entière chantera ton nom."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Sur toi, tu pris nos péchés, ô Roi.",
+				"Et tu donnas ta vie, ton sang pour moi.",
+				"Tu vins à la croix pour nous sauver,",
+				"À jamais ton amour nous a changés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu dis : « Je vis,",
+				"En trois jours j'ai vaincu la mort. »",
+				"C'est fait ! Tu vis à jamais,",
+				"Tu règnes, ô Roi !",
+				"Et tu dis que tu reviendras,",
+				"Je sais que c'est vrai.",
+				"La terre entière chantera ton nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Baloche",
+			"role": "music"
+		},
+		{
+			"name": "Paul Baloche",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem920",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

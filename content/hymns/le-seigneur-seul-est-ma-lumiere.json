@@ -1,0 +1,125 @@
+{
+	"id": "le-seigneur-seul-est-ma-lumiere",
+	"title": "Le Seigneur seul est ma lumière",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "183"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui.",
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui.",
+				"Qu'aurais-je à craindre sur la terre",
+				"Puisque ma force est toute en lui ?",
+				"Qu'aurais-je à craindre sur la terre",
+				"Puisque ma force est toute en lui ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui.",
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour m'assaillir, quand une armée",
+				"Tout autour de moi camperait,",
+				"Pour m'assaillir, quand une armée",
+				"Tout autour de moi camperait,",
+				"Mon âme sans être alarmée",
+				"En l'Éternel s'assurerait.",
+				"Mon âme sans être alarmée",
+				"En l'Éternel s'assurerait."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui.",
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Son bras puissant, à ma requête,",
+				"Un prompt secours me prêtera ;",
+				"Son bras puissant, à ma requête,",
+				"Un prompt secours me prêtera ;",
+				"Et dans le fort de la tempête,",
+				"Sur un rocher m'élèvera.",
+				"Et dans le fort de la tempête,",
+				"Sur un rocher m'élèvera."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui.",
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mes yeux verront la délivrance",
+				"Que mon Sauveur m'accordera,",
+				"Mes yeux verront la délivrance",
+				"Que mon Sauveur m'accordera,",
+				"Aussi mon cœur plein d'assurance,",
+				"En l'attendant s'affermira.",
+				"Aussi mon cœur plein d'assurance,",
+				"En l'attendant s'affermira."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui.",
+				"Le Seigneur seul est ma lumière,",
+				"Ma délivrance et mon appui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Roger Trunk",
+			"role": "music"
+		},
+		{
+			"name": "P. Wagner",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem183",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "ecoutez-jesus-lui-meme",
+	"title": "Écoutez ! Jésus lui-même.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "243"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Écoutez ! Jésus lui-même",
+				"Parle au disciple abattu,",
+				"Et lui dit : « Frère, je t'aime,",
+				"Et toi, pécheur, m'aimes-tu ? »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'ai brisé ta chaîne infâme,",
+				"J'ai guéri par mon amour",
+				"Les blessures de ton âme,",
+				"J'ai changé ta nuit en jour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Une mère oublierait-elle",
+				"L'enfant qui dort dans ses bras ?",
+				"Mon cœur est toujours fidèle,",
+				"Mon amour ne change pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon amour couvre tes crimes,",
+				"C'est un océan sans bord,",
+				"Plus profond que les abîmes,",
+				"Et plus puissant que la mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Si tu sais lutter et croire,",
+				"Quand mon jour sera venu",
+				"Tu régneras dans ma gloire ;",
+				"Dis, pauvre âme, m'aimes-tu ?\""
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"« Maître, je ne puis encore",
+				"Rien te donner en retour,",
+				"Mais je t'aime, je t'adore ;",
+				"Ah ! donne-moi plus d'amour ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Richard Redhead",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af243",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

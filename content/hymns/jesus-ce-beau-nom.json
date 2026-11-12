@@ -1,0 +1,43 @@
+{
+	"id": "jesus-ce-beau-nom",
+	"title": "Jésus, ce beau nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "186"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, Jésus, Jésus,",
+				"Ce beau nom qui soutient et soulage.",
+				"Maître, Sauveur, Jésus !",
+				"C'est le soleil après l'orage.",
+				"Jésus, Jésus, Jésus,",
+				"Toi qui vis à travers les âges.",
+				"Rois et royaumes disparaîtront,",
+				"Rien ne peut effacer ce nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Bill Gaither",
+			"role": "music"
+		},
+		{
+			"name": "Bill Gaither",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem186",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,97 @@
+{
+	"id": "voici-noel-o-douce-nuit",
+	"title": "Voici Noël, ô douce nuit",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "110"
+		},
+		{
+			"hymnal": "adf",
+			"number": "81"
+		},
+		{
+			"hymnal": "cd",
+			"number": "81"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voici Noël, ô douce nuit !",
+				"L'étoile est là qui nous conduit.",
+				"Allons donc tous avec les mages",
+				"Porter à Jésus nos hommages",
+				"Car l'Enfant nous est né,",
+				"Le Fils nous est donné !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voici Noël ! oh ! quel beau jour !",
+				"Jésus est né ! quel grand amour !",
+				"C'est pour nous qu'il vient sur la terre,",
+				"Qu'il prend sur lui notre misère.",
+				"Un Sauveur nous est né,",
+				"Le Fils nous est donné !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voici Noël ! ah ! d'un seul cœur",
+				"Joignons nos voix au divin chœur",
+				"Qui proclame au ciel les louanges",
+				"De Celui qu'annoncent les anges !",
+				"Oui, l'Enfant nous est né,",
+				"Le Fils nous est donné !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Voici Noël, ne craignons pas,",
+				"Car Dieu nous dit : « Paix ici-bas,",
+				"Bienveillance envers tous les hommes ! »",
+				"Pour nous aussi, tels que nous sommes,",
+				"Un Sauveur nous est né,",
+				"Le Fils nous est donné !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Franz Xaver Grüber",
+			"role": "music"
+		},
+		{
+			"name": "H. Mégroz-Cornaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg110",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af081",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/886",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

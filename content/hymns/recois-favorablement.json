@@ -1,0 +1,72 @@
+{
+	"id": "recois-favorablement",
+	"title": "Reçois favorablement",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "4"
+		},
+		{
+			"hymnal": "jem",
+			"number": "201"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois favorablement",
+				"Les paroles de ma bouche",
+				"Et les sentiments de mon cœur,",
+				"O Seigneur.",
+				"Reçois favorablement",
+				"Les paroles de ma bouche",
+				"Et les sentiments de mon cœur,",
+				"O Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Seigneur, mon rocher,",
+				"O Seigneur, ma vie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois favorablement",
+				"Les paroles de ma bouche",
+				"Et les sentiments de mon cœur,",
+				"O Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Jeunesse en Mission",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg004",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem201",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

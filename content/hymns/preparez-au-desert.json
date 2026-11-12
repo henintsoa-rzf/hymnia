@@ -1,0 +1,67 @@
+{
+	"id": "preparez-au-desert",
+	"title": "Préparez au désert",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "813"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Préparez au désert le chemin de l'Éternel !",
+				"Aplanissez la voie de celui qui vient du ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Frayez une route dans les endroits désolés.",
+				"Consolez mon peuple, criez-lui à plein gosier:"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Que toute vallée soit exhaussée",
+				"Et toute montagne abaissée !",
+				"Que les coteaux se changent en plaines",
+				"Et en vallons les défilés ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Que toute vallée soit exhaussée",
+				"Et toute montagne abaissée !",
+				"Que les coteaux se changent en plaines",
+				"Et en vallons les défilés,",
+				"Pour que la gloire de Dieu soit révélée,",
+				"Pour que la gloire de Dieu soit révélée ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem813",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

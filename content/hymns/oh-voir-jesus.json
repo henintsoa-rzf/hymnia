@@ -1,0 +1,59 @@
+{
+	"id": "oh-voir-jesus",
+	"title": "Oh ! Voir Jésus… !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "308"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! voir Jésus ! C'est notre vœu suprême !",
+				"Le contempler dans toute sa beauté.",
+				"Voir sur son front le brillant diadème",
+				"De son amour et de sa sainteté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! voir Jésus, entendre sa Parole ;",
+				"Goûter en paix son message divin ;",
+				"Laisser agir l'Esprit qui seul console",
+				"Et réjouit le cœur du pèlerin !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Allons donc tous à ce Maître adorable ;",
+				"Courbons nos fronts devant sa majesté ;",
+				"Bientôt, au ciel, dans sa gloire ineffable,",
+				"Nous le verrons durant l'éternité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Felix Mendelssohn",
+			"role": "music"
+		},
+		{
+			"name": "Hector Arnéra",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg308",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

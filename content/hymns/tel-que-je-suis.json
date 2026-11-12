@@ -3,12 +3,8 @@
 	"title": "Tel que je suis",
 	"entries": [
 		{
-			"hymnal": "ce",
-			"number": "8"
-		},
-		{
-			"hymnal": "he",
-			"number": "3"
+			"hymnal": "jem",
+			"number": "597"
 		}
 	],
 	"sections": [
@@ -16,28 +12,77 @@
 			"type": "verse",
 			"number": 1,
 			"lines": [
-				"Tel que je suis, sans rien à moi,",
-				"Sinon ton sang versé pour moi",
-				"Et ta voix qui m’appelle à toi,",
-				"Agneau de Dieu, je viens, je viens !"
+				"Tel que je suis,",
+				"Seigneur, je viens près de toi,",
+				"T'apporter ma vie.",
+				"Tel que je suis, Seigneur, j'ai besoin de toi",
+				"Pour changer ma vie.",
+				"Tel que je suis, je suis perdu,",
+				"Ma vie n'a plus de saveur.",
+				"Tel que je suis, je n'en peux plus,",
+				"Viens transformer ma tristesse en joie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon père,",
+				"mon Seigneur et mon Dieu.",
+				"En toi j'espère le salut, le repos.",
+				"Tu es celui qui a tout donné,",
+				"sacrifié pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tel que je suis,",
+				"Seigneur, je viens près de toi,",
+				"Tu m'offres ta vie.",
+				"Tel que je suis, Seigneur au pied de ta croix,",
+				"Je reçois ta vie.",
+				"Tel que je suis, tu m'as aimé",
+				"En acceptant la douleur.",
+				"Tel que je suis, tu m'as sauvé,",
+				"Je viens t'offrir le chant de mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon père,",
+				"mon Seigneur et mon Dieu.",
+				"En toi j'espère le salut, le repos.",
+				"Tu es celui qui a tout donné,",
+				"sacrifié pour moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tel que tu es, Seigneur, je voudrais te voir."
 			]
 		}
 	],
 	"credits": [
 		{
-			"name": "Charlotte Elliott",
-			"role": "lyrics"
+			"name": "François Reymond",
+			"role": "music"
 		},
 		{
-			"name": "William B. Bradbury",
-			"role": "music"
+			"name": "François Reymond",
+			"role": "lyrics"
 		}
 	],
 	"source": {
-		"name": "Échantillon de test — domaine public, texte non vérifié",
-		"url": null,
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem597",
 		"retrievedAt": "2026-11-11"
 	},
-	"rights": "public-domain",
+	"rights": "unconfirmed",
 	"corrections": []
 }

@@ -1,0 +1,98 @@
+{
+	"id": "pleine-paix",
+	"title": "Pleine paix.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "405"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pleine paix, Jésus, en ta présence ;",
+				"Pleine paix, soutenu par ta main ;",
+				"Pleine paix, gardé par ta puissance,",
+				"Pleine paix, tout le long du chemin !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Parfaite paix, douce paix,",
+				"Parfaite paix, douce paix,",
+				"Même en marchant",
+				"dans la plus sombre nuit.",
+				"Jésus mon Sauveur,",
+				"Me dit: Sois sans peur !",
+				"Je suis la lumière de qui me suit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pleine paix, dans mon pèlerinage,",
+				"Pleine paix, malgré le dur exil,",
+				"Pleine paix, si l'ennemi fait rage,",
+				"Pleine paix, quel que soit le péril."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Parfaite paix, douce paix,",
+				"Parfaite paix, douce paix,",
+				"Même en marchant",
+				"dans la plus sombre nuit.",
+				"Jésus mon Sauveur,",
+				"Me dit: Sois sans peur !",
+				"Je suis la lumière de qui me suit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pleine paix, au fort de la bataille,",
+				"Pleine paix, dans les difficultés,",
+				"Pleine paix, lorsque Satan m'assaille.",
+				"Pleine paix, sur les flots agités."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Parfaite paix, douce paix,",
+				"Parfaite paix, douce paix,",
+				"Même en marchant",
+				"dans la plus sombre nuit.",
+				"Jésus mon Sauveur,",
+				"Me dit: Sois sans peur !",
+				"Je suis la lumière de qui me suit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George-Thomas Caldbeck",
+			"role": "music"
+		},
+		{
+			"name": "R. C.",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af405",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

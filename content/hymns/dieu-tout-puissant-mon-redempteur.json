@@ -1,0 +1,76 @@
+{
+	"id": "dieu-tout-puissant-mon-redempteur",
+	"title": "Dieu tout-Puissant, mon Rédempteur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "854"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu tout-puissant, mon rédempteur,",
+				"Mon sûr abri, mon seul refuge ;",
+				"Aucun pouvoir ne peut résister",
+				"Devant le nom de Jésus.",
+				"Les pieds fixés sur ce rocher,",
+				"Je ne serai pas ébranlé,",
+				"Mon espérance est en toi seul,",
+				"En toi, Seigneur, mon salut."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta parole est vivante en mon cœur,",
+				"Ta louange toujours sur mes lèvres,",
+				"Je te louerai par un chant nouveau,",
+				"Mon cœur te bénira.",
+				"Tu me remplis de joie immense,",
+				"Je me réjouis dans ta présence.",
+				"Je te louerai par un chant nouveau,",
+				"Mon cœur te bénira."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dans ma faiblesse, tu me rends fort.",
+				"Je suis pauvre, tu m'enrichis",
+				"Par la puissance de ton nom.",
+				"Oui tout devient possible,"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"En toi, tout est possible,",
+				"En toi, tout est possible,",
+				"En toi, tout est possible."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Darlene Zchech",
+			"role": "music"
+		},
+		{
+			"name": "Darlene Zchech",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem854",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,113 @@
+{
+	"id": "plus-de-pleurs",
+	"title": "Plus de pleurs.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "431"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Plus de pleurs, plus de faux sourire",
+				"Sur l'autre bord ;",
+				"Sur l'autre bord !",
+				"Plus de terreurs, plus de délire,",
+				"Plus de luttes, plus de martyre,",
+				"Après la mort !",
+				"Après la mort !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Repos, amour au doux séjour !",
+				"De ta venue, ô Christ, hâte le jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus de foudre, plus de nuage",
+				"Sur l'autre bord ;",
+				"Sur l'autre bord ;",
+				"Plus de fleurs que brise l'orage,",
+				"Plus de bonheurs qui font naufrage,",
+				"Après la mort !",
+				"Après la mort !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Repos, amour au doux séjour !",
+				"De ta venue, ô Christ, hâte le jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Plus d'hiver, plus de froide bise",
+				"Sur l'autre bord ;",
+				"Sur l'autre bord ;",
+				"Plus d'adieux où le cœur se brise,",
+				"Plus d'amis que le temps divise,",
+				"Après la mort !",
+				"Après la mort !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Repos, amour au doux séjour !",
+				"De ta venue, ô Christ, hâte le jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bientôt, Seigneur, ce soir peut-être",
+				"Sur l'autre bord ,",
+				"Sur l'autre bord ,",
+				"De loin nous te verrons paraître,",
+				"Pour nous recueillir, tendre Maître,",
+				"Avant la mort !",
+				"Avant la mort !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Repos, amour au doux séjour !",
+				"De ta venue, ô Christ, hâte le jour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Coles Stebbins",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af431",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

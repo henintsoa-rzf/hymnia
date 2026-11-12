@@ -1,0 +1,69 @@
+{
+	"id": "nous-sommes-une-maison",
+	"title": "Nous sommes une maison",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "879"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous sommes une maison pour toi,",
+				"Un autel pour prier ton nom,",
+				"Un lieu réservé pour ta présence,",
+				"Où tu aimes rester t'arrêter,",
+				"Demeurer et briller par ta lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce temple est pour ton Saint-Esprit,",
+				"Une habitation pour ta gloire,",
+				"Un endroit où tu viens habiter,",
+				"Maison d'adoration, de louange,",
+				"De prière, consacrée, à ton amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es l'oasis au milieu du désert,",
+				"L'eau vive qui coule dans les sources amères,",
+				"Le soleil qui brille au milieu de la nuit,",
+				"L'aurore qui se lève sur nos vies."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Nous sommes une maison pour toi,",
+				"Un autel pour prier ton nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem879",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

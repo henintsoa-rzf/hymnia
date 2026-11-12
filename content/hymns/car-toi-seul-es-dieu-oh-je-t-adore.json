@@ -1,0 +1,92 @@
+{
+	"id": "car-toi-seul-es-dieu-oh-je-t-adore",
+	"title": "Car toi seul es Dieu (Oh je t’adore)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "601"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu n’es pas un Dieu crée par la main de l’homme",
+				"Tu n’es pas un Dieu qui dépend de l’homme mortel",
+				"Tu n’as pas besoin de nos dons, ni de nos offrandes",
+				"C’est Ton plan, et c’est Ta volonté"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car Toi seul es Dieu",
+				"Bien avant tous les temps",
+				"Assis sur le trône",
+				"Oui Toi seul es Dieu",
+				"Dans les bons ou dans les mauvais temps,",
+				"Assis sur le trône",
+				"Oui Toi seul es Dieu"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es le seul Dieu, Ton pouvoir ne peut se contenir",
+				"Tu es le seul Dieu, Ta louange ne va jamais finir",
+				"Tu es le seul Dieu, Toi seul est digne de nos offrandes",
+				"Tu es Dieu et c’est Ta volonté"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Incomparable – Inébranlable – A l’infini",
+				"Oui c’est bien toi",
+				"Dieu de l’univers – Extraordinaire – Dieu de lumière",
+				"Oui c’est bien toi",
+				"Tu es mon Sauveur – Mon libérateur – Tu règnes Seigneur",
+				"Oui c’est bien toi",
+				"Dieu de l’univers – Extraordinaire – Dieu de lumière",
+				"Oui c’est bien toi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jocelyne Goma",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jocelyne Goma",
+			"role": "music"
+		},
+		{
+			"name": "Billy Foote",
+			"role": "lyrics"
+		},
+		{
+			"name": "Billy Foote",
+			"role": "music"
+		},
+		{
+			"name": "Cynthia G. Mason",
+			"role": "lyrics"
+		},
+		{
+			"name": "Cynthia G. Mason",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-1",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

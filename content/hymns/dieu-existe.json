@@ -1,0 +1,97 @@
+{
+	"id": "dieu-existe",
+	"title": "Dieu existe",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "401"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment peut-on dire qu’il n’existe pas de Dieu",
+				"en voyant notre monde, la nature, les animaux,",
+				"un coucher de soleil, une haute montagne,",
+				"nos corps et nos personnes faits de manière si complexe."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cela ne peut pas être le fruit du hasard,",
+				"tout cela ne peut pas s’être composé tout seul,",
+				"non, rien ici n’existe sans que quelqu’un l’ait créé ;",
+				"il y a un Créateur et son nom est l’Éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu existe, oui c’est certain !",
+				"Dieu existe, oui c’est certain !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ce Dieu si puissant s’est révélé aux humains",
+				"à travers un livre dont le nom est «La Bible».",
+				"Oui, ce livre est unique et aucun autre l’égale :",
+				"c’est plus qu’un livre humain, c’est la Parole de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Dieu nous parle, dans Sa Parole,",
+				"dans la Bible, Parole de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Dieu le Créateur, le Dieu parfaitement saint,",
+				"a prouvé son amour en venant souffrir pour nous :",
+				"sous la forme de Jésus, Dieu est venu sur la terre",
+				"et il a été tué pour pardonner nos péchés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"C’est Jésus, le Fils de Dieu,",
+				"qui a pris tous nos péchés.",
+				"C’est Jésus qui a payé,",
+				"je peux être pardonné.",
+				"C’est Jésus qui a payé,",
+				"tu peux être pardonné."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-moments-deternite/#chant-1",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

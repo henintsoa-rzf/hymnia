@@ -1,0 +1,103 @@
+{
+	"id": "confiance-en-toi-trust-in-you",
+	"title": "Confiance en toi (Trust In You)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "712"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je dépose à tes pieds tous mes rêves,",
+				"Un par un, je te les abandonne.",
+				"Quand souvent je m’égare, tu pardonnes,",
+				"Rien ne change ton regard sur moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Trop longtemps, j’ai lutté, je le confesse,",
+				"Je suis épuisé, viens apaiser ma détresse !",
+				"Roi du combat, puissant Guerrier,",
+				"Dans toute adversité, tu es à mon côté !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand tu n’enlèves pas les montagnes, que je voudrais déplacer,",
+				"Quand tu n’ouvres pas le chemin par lequel j’aimerais passer,",
+				"Quand tu ne donnes pas de réponse, quand je m’épuise à crier,",
+				"J’ai confiance, j’ai confiance, j’ai confiance en toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu connais bien ce qu’apporte demain.",
+				"Aucun de mes jours n’échappe à tes yeux.",
+				"Sois ma vie, tout au long du chemin",
+				"Je veux, Seigneur, tout ce que tu veux."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Toujours, tu me réconfortes.",
+				"Tu es ma sûre main,",
+				"Ma Fondation, ma Force,",
+				"Le Roc sur qui je me tiens.",
+				"Tes voies toujours supérieures,",
+				"Tes plans sont les meilleurs.",
+				"Là où je pose le pied,",
+				"Tu as déjà marché."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lauren Daigle",
+			"role": "lyrics"
+		},
+		{
+			"name": "Lauren Daigle",
+			"role": "music"
+		},
+		{
+			"name": "Michael Farren",
+			"role": "lyrics"
+		},
+		{
+			"name": "Michael Farren",
+			"role": "music"
+		},
+		{
+			"name": "Paul Mabury",
+			"role": "lyrics"
+		},
+		{
+			"name": "Paul Mabury",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-12",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

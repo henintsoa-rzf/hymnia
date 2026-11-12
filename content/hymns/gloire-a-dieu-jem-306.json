@@ -1,0 +1,82 @@
+{
+	"id": "gloire-a-dieu-jem-306",
+	"title": "Gloire à Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "306"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Gloire à Dieu, car il est bon.",
+				"Gloire à Dieu, car il est grand,",
+				"Il est digne de louanges."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, alléluia.",
+				"Alléluia, alléluia, alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Servez le Seigneur d'un cœur joyeux,",
+				"Peuple du Seigneur.",
+				"Célébrez, bénissez Dieu,",
+				"Il est digne de louanges."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, alléluia.",
+				"Alléluia, alléluia, alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Faites un bruit joyeux pour le Seigneur !",
+				"Faites un bruit joyeux à notre Dieu,",
+				"Il est digne de louanges,",
+				"Il est digne de louanges."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, alléluia.",
+				"Alléluia, alléluia, alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel Markoya",
+			"role": "music"
+		},
+		{
+			"name": "Daniel Markoya",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem306",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

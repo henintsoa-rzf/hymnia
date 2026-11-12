@@ -1,0 +1,86 @@
+{
+	"id": "soyons-une-lumiere",
+	"title": "Soyons une lumière",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "502"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Soyons une lumière",
+				"qui luit pour les nations,",
+				"Lumière qui luit pour les peuples de la terre ;",
+				"Et que tout le monde voie la gloire de ton nom,",
+				"Que ta clarté brille en nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Apportons l'espoir de vie pour les nations,",
+				"L'espoir de vie pour les peuples de la terre ;",
+				"Et que tous connaissent le salut dans ton nom,",
+				"Qu'ils reçoivent ton pardon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Apportons la guérison pour les nations,",
+				"La guérison pour les peuples de la terre.",
+				"Que le monde connaisse",
+				"la puissance de ton nom,",
+				"Qu'ils voient ta grande compassion."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Entonnons un chant de joie",
+				"pour les nations,",
+				"Un chant de joie pour les peuples de la terre.",
+				"Que le monde résonne",
+				"des louanges de ton nom,",
+				"Que ta joie remplisse leurs cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Que ton règne vienne sur les nations,",
+				"Ta volonté sur les peuples de la terre ;",
+				"Et que tous le sachent:",
+				"Jésus-Christ est Seigneur,",
+				"Que ton règne vienne en nous,",
+				"Que ton règne vienne en nous,",
+				"Que ton règne vienne sur terre."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Christensen",
+			"role": "music"
+		},
+		{
+			"name": "Chris Christensen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem502",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

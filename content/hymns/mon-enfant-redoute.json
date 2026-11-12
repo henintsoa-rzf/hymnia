@@ -1,0 +1,71 @@
+{
+	"id": "mon-enfant-redoute",
+	"title": "Mon enfant, redoute.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "647"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon enfant, redoute",
+				"La déloyauté ;",
+				"Même s'il t'en coûte,",
+				"Dis la vérité !",
+				"De ton œil limpide",
+				"Garde la clarté,",
+				"Et d'un cœur candide",
+				"Dis la vérité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Honte à qui fait rire",
+				"Avec lâcheté !",
+				"Au lieu de médire",
+				"Dis la vérité !",
+				"Sans flatter personne",
+				"Pour être flatté,",
+				"Garde ta couronne",
+				"De véracité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Douce et radieuse,",
+				"La sincérité",
+				"Rend notre âme heureuse :",
+				"Dis la vérité !",
+				"Puissions-nous connaître",
+				"La félicité",
+				"De te suivre, ô Maître,",
+				"Dans la vérité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr. William Croft",
+			"role": "music"
+		},
+		{
+			"name": "P. Fargues",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af647",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

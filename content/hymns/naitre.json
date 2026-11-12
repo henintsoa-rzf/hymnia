@@ -1,0 +1,69 @@
+{
+	"id": "naitre",
+	"title": "Naître",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "797"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Être ou ne pas être, ô Père",
+				"Celui qui t'appartient.",
+				"Faire ou ne pas faire, ô Maître",
+				"Un pas vers ce chemin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Envie de te suivre,",
+				"De vivre avec toi,",
+				"D'envies et de rires",
+				"Et au son de ta voix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Naître ou ne pas être là",
+				"Sans ombre est la question.",
+				"Faire ou ne pas faire un choix",
+				"Un oui plutôt qu'un non."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Envie de te suivre,",
+				"De vivre avec toi,",
+				"D'envies et de rires",
+				"Et au son de ta voix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem797",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

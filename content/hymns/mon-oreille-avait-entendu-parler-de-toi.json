@@ -1,0 +1,52 @@
+{
+	"id": "mon-oreille-avait-entendu-parler-de-toi",
+	"title": "Mon oreille avait entendu parler de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "202"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon oreille avait entendu parler de toi,",
+				"Mais maintenant mon œil te voit,",
+				"Maintenant mon œil te voit,",
+				"Maintenant mon œil te voit,",
+				"Jésus, mon Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Désormais, je veux célébrer",
+				"Ton nom Seigneur,",
+				"Car maintenant mon œil te voit,",
+				"Maintenant mon œil te voit,",
+				"Maintenant mon œil te voit,",
+				"Jésus, mon Roi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tapu Moala",
+			"role": "music"
+		},
+		{
+			"name": "Tapu Moala",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem202",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

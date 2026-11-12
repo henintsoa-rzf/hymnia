@@ -1,0 +1,71 @@
+{
+	"id": "quand-les-montagnes",
+	"title": "Quand les montagnes",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "65"
+		},
+		{
+			"hymnal": "jem",
+			"number": "28",
+			"title": "Quand les montagnes s'éloigneraient"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand les montagnes s'éloigneraient,",
+				"Quand les collines chancelleraient,",
+				"Quand les montagnes s'éloigneraient,",
+				"Dieu fera tout comme il promet."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon amour, oui, mon amour",
+				"Ne s'éloignera point de toi ;",
+				"Mon amour, oui, mon amour",
+				"Ne s'éloignera point de toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand les montagnes s'éloigneraient,",
+				"Quand les collines chancelleraient,",
+				"Quand les montagnes s'éloigneraient,",
+				"Dieu fera tout comme il promet."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John van den Hogen",
+			"role": "music"
+		},
+		{
+			"name": "John van den Hogen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg065",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem028",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

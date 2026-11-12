@@ -1,0 +1,42 @@
+{
+	"id": "c-est-ton-sang",
+	"title": "C'est ton sang",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "344"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est ton sang qui purifie.",
+				"C'est ton sang qui donne la vie.",
+				"C'est ton sang qui a coulé",
+				"Oui ton sang précieux m'a racheté.",
+				"Je suis plus blanc,",
+				"Plus blanc que la neige, que la neige,",
+				"O Jésus, toi l'agneau immolé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michael Christ",
+			"role": "music"
+		},
+		{
+			"name": "Michael Christ",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem344",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

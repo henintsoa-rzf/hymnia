@@ -1,0 +1,71 @@
+{
+	"id": "a-toi-seul-je-veux-etre",
+	"title": "À toi seul je veux être",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "248"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À toi seul je veux être,",
+				"Jésus, jusqu’à la fin !",
+				"Mon seul ami, mon maître,",
+				"Ta grâce est mon soutien.",
+				"Toi seul es ma retraite,",
+				"Mon rocher, mon lieu fort,",
+				"Tu peux dans la tempête",
+				"Me guider vers le port."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ô Seigneur, tu m’éclaires",
+				"Dans la plus sombre nuit.",
+				"Gardé par ta lumière,",
+				"Mon coeur en paix te suit.",
+				"Que même une muraille",
+				"S’élève devant moi,",
+				"Que l’ennemi m’assaille,",
+				"Tout tombe devant toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu rends ma voie parfaite,",
+				"Ta force me soutient,",
+				"Mon âme satisfaite",
+				"Jouit de tous tes biens.",
+				"Quand mon coeur est docile,",
+				"Tu me mènes plus haut,",
+				"Rendant mes pieds agiles,",
+				"Et, léger mon fardeau."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Arthur Henry Mann",
+			"role": "unspecified"
+		},
+		{
+			"name": "R. Demaurex et R. Peterson",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1074",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

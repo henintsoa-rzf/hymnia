@@ -1,0 +1,102 @@
+{
+	"id": "ouvrez-vous-portes-du-tombeau",
+	"title": "Ouvrez-vous, portes du tombeau !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "559"
+		},
+		{
+			"hymnal": "cd",
+			"number": "114"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ouvrez-vous, portes du tombeau !",
+				"Jésus paraît. Oh ! qu'il est beau !",
+				"Il revit, ô merveille !",
+				"Le péché, l'enfer et la mort",
+				"En vain ont uni leur effort :",
+				"Mon Rédempteur s'éveille !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il vit ! Il vit !",
+				"Je sais que mon Rédempteur vit.",
+				"Il vit ! Il vit !",
+				"Je sais que mon Rédempteur vit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voyez ses mains, ses pieds percés",
+				"Et les stigmates qu'ont laissés",
+				"Le fouet, le fer, l'épine !",
+				"C'est pour moi qu'il a tant souffert !",
+				"Il m'a délivré de l'enfer,",
+				"O charité divine !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il vit ! Il vit !",
+				"Je sais que mon Rédempteur vit.",
+				"Il vit ! Il vit !",
+				"Je sais que mon Rédempteur vit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je n'ai plus rien à redouter…",
+				"De mon Sauveur puis-je douter ?",
+				"Sa promesse est formelle.",
+				"Au tombeau mon corps descendra.",
+				"Mais Christ le ressuscitera",
+				"Pour la vie éternelle !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il vit ! Il vit !",
+				"Je sais que mon Rédempteur vit.",
+				"Il vit ! Il vit !",
+				"Je sais que mon Rédempteur vit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "gustave Isely",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af559",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/932",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

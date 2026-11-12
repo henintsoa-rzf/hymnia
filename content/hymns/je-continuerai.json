@@ -1,0 +1,81 @@
+{
+	"id": "je-continuerai",
+	"title": "Je continuerai",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "530"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans ce désert de lassitude,",
+				"Où mes pas m'ont amené,",
+				"Quelque part, où? Je ne sais.",
+				"J'ai du lâcher ta main.",
+				"Dans ce silence, je veux me taire",
+				"Et retrouver ta voix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je continuerai à t'adorer,",
+				"Car tu m'as aimé le premier.",
+				"Malgré mes doutes et mes questions,",
+				"Tu restes le même.",
+				"Je continuerai à te louer,",
+				"À compter sur ta fidélité.",
+				"Dans le désert ou l'abondance",
+				"Tu m'accompagnes."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ma détresse, ma solitude,",
+				"Je sais que tu es resté;",
+				"Ce n'est pas toi qui m'as laissé,",
+				"Je voudrais revenir.",
+				"Dans ce silence, je veux me taire",
+				"Et retrouver ta voix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je continuerai à t'adorer,",
+				"Car tu m'as aimé le premier.",
+				"Malgré mes doutes et mes questions,",
+				"Tu restes le même.",
+				"Je continuerai à te louer,",
+				"À compter sur ta fidélité.",
+				"Dans le désert ou l'abondance",
+				"Tu m'accompagnes."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham",
+			"role": "music"
+		},
+		{
+			"name": "David Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem530",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

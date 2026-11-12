@@ -1,0 +1,69 @@
+{
+	"id": "viens-esprit-saint",
+	"title": "Viens, esprit saint",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "122"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, Esprit Saint, ô viens remplir mon coeur ;",
+				"Daigne inspirer et bénir ton enfant,",
+				"Viens jusqu’à moi dans toute ta splendeur,",
+				"Veuille m’aider à t’aimer ardemment."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je ne veux point de grandes visions",
+				"Ni de saints anges pour me visiter,",
+				"De ta clarté, Esprit Saint, fais-moi don,",
+				"Viens m’éclairer en mon obscurité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À mon côté tu es toujours présent,",
+				"Tu veux m’aider à lutter vaillamment",
+				"Fais que je sache attendre patiemment",
+				"De mes prières ton exaucement."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Toi, qui jadis au monde fus donné,",
+				"Fais que je t’aime d’un céleste amour.",
+				"Fais que mon coeur soit un autel sacré",
+				"Et que ta flamme brûle tous les jours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "F.C. Atkinson",
+			"role": "unspecified"
+		},
+		{
+			"name": "F. du Pasquier",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/960",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

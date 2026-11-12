@@ -1,0 +1,53 @@
+{
+	"id": "on-t-a-fait-connaitre-o-homme-ce-qui-est-bien",
+	"title": "On t'a fait connaître, ô homme, ce qui est bien",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "32"
+		},
+		{
+			"hymnal": "cd",
+			"number": "258",
+			"title": "On t'a fait connaître ô homme"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"On t'a fait connaître ô homme ce qui est bien ;",
+				"Et ce que l'Éternel demande de toi,",
+				"C'est que tu pratiques la justice,",
+				"Que tu aimes la miséricorde,",
+				"Que tu marches humblement avec ton Dieu,",
+				"Que tu marches humblement avec ton Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paulette Devenoges",
+			"role": "music"
+		},
+		{
+			"name": "Paulette Devenoges",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem032",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1175",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

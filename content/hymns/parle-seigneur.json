@@ -1,0 +1,84 @@
+{
+	"id": "parle-seigneur",
+	"title": "Parle, Seigneur",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "410"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Parle-nous, nous venons à toi",
+				"recevoir le pain, ta Parole sainte.",
+				"Viens, Seigneur, par ta Vérité,",
+				"modeler nos vies à ta ressemblance.",
+				"Et que ta lumière aujourd’hui rayonne",
+				"dans l’amour, la foi que nous manifestons.",
+				"Parle-nous, accomplis, Seigneur,",
+				"tes projets en nous, pour ta gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Apprends-nous, dans un saint respect,",
+				"dans l’humilité, à mieux t’obéir,",
+				"A régler nos pensées, nos actes,",
+				"face à la clarté de ta pureté.",
+				"Fais grandir la foi,",
+				"que nos yeux discernent",
+				"ton amour sublime, ton autorité;",
+				"Mots puissants qui jamais ne passent,",
+				"toujours vrais, vainqueurs dans le doute."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Parle-nous, renouvelle nos cœurs,",
+				"nous voulons saisir tes plans élevés",
+				"Qui toujours, dès la nuit des temps,",
+				"disent ta sagesse dans tout l’univers.",
+				"Par ta grâce en nous et par tes promesses,",
+				"par la foi donnée nous pourrons te suivre.",
+				"Parle-nous, bâtis ton Eglise",
+				"sur la terre entière pour ta gloire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-moments-deternite/#chant-10",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

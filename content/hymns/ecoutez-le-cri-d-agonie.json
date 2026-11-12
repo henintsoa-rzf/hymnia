@@ -1,0 +1,71 @@
+{
+	"id": "ecoutez-le-cri-d-agonie",
+	"title": "Écoutez le cri d'agonie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "117"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Écoutez le cri d'agonie",
+				"Du Christ à la croix attaché ;",
+				"Sous le poids de l'ignominie",
+				"Son front tout sanglant est penché.",
+				"Il a vidé l'amer calice",
+				"Que nos crimes avaient rempli ;",
+				"L'amour embrasse la justice ;",
+				"Désormais,tout est accompli."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cette parole, c'est Dieu même",
+				"Qui la dit à l'humanité !",
+				"Entendez-vous ce cri suprême",
+				"De souffrance et de liberté ?",
+				"Oui, sa colère est désarmée,",
+				"Satan vaincu, l'homme ennobli ;",
+				"La loi divine est consommée,",
+				"Désormais,tout est accompli."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pourquoi gémir, âme oppressée ?",
+				"Regarde à Jésus expirant,",
+				"Qu'à lui s'élève ta pensée :",
+				"C'est à toi qu'il pense en mourant.",
+				"Pourquoi trembler sous le tonnerre",
+				"Et les éclairs du Sinaï ?",
+				"Regarde au Sauveur débonnaire,",
+				"Et crois que tout est accompli !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Georg Neumark",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af117",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

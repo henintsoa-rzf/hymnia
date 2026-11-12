@@ -1,0 +1,119 @@
+{
+	"id": "jamais-trop-tard",
+	"title": "Jamais trop tard",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1117"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je n’ai pourtant pas brisé le lien,",
+				"Mais Dieu semble parti loin.",
+				"Trop d’échecs, trop de peurs,",
+				"Trop d’ennuis, de rancœurs,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je n’ai pourtant pas coupé les ponts,",
+				"Mais rien ne semble tourner rond.",
+				"Comment retrouver mon chemin ?",
+				"Dieu voudra-t-il tendre la main ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n’est jamais trop tard pour revenir à Dieu,",
+				"La distance n’a pas d’importance.",
+				"Il n’est jamais trop tard pour faire demi-tour,",
+				"Revenir à ton premier amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je n’ai pourtant pas choisi de dériver,",
+				"Mais mes pas ont quitté le sentier ;",
+				"Plus de cap, plus de nord,",
+				"Plus de journal de bord."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je n’ai pas toujours su résister,",
+				"Souvent le flot m’a emporté.",
+				"Comment reprendre la direction",
+				"Et retrouver ma position ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n’est jamais trop tard pour revenir à Dieu,",
+				"La distance n’a pas d’importance.",
+				"Il n’est jamais trop tard pour faire demi-tour,",
+				"Revenir à ton premier amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais je vois soudain tout s’éclairer,",
+				"La lumière du jour se lever,",
+				"Et la joie, et la vie,",
+				"Une paix, un abri,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je vois Jésus dans mon horizon,",
+				"Il veut m’offrir tout son pardon.",
+				"Je ferai de nouveau ce choix,",
+				"Vivre avec lui quoi qu’il en soit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n’est jamais trop tard pour revenir à Dieu,",
+				"La distance n’a pas d’importance.",
+				"Il n’est jamais trop tard pour faire demi-tour,",
+				"Revenir à ton premier amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Porter",
+			"role": "music"
+		},
+		{
+			"name": "David Porter et Hélène Dekker",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1117",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

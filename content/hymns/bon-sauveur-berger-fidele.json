@@ -1,0 +1,140 @@
+{
+	"id": "bon-sauveur-berger-fidele",
+	"title": "Bon Sauveur, berger fidèle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "468"
+		},
+		{
+			"hymnal": "cd",
+			"number": "218"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bon Sauveur, berger fidèle,",
+				"Conduis-nous par ton amour ;",
+				"Et, de ta main paternelle,",
+				"Nourris-nous au jour le jour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni sois-tu, tendre Maître,",
+				"Jésus, nous sommes à toi,",
+				"À toi seul nous voulons être,",
+				"Béni sois-tu, notre Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans tes riches pâturages,",
+				"Apprends-nous à te chercher ;",
+				"Que sous tes divins ombrages",
+				"Nous sachions toujours marcher."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni sois-tu, tendre Maître,",
+				"Jésus, nous sommes à toi,",
+				"À toi seul nous voulons être,",
+				"Béni sois-tu, notre Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toi qui nous reçus par grâce,",
+				"Bien que faibles et pécheurs,",
+				"Par ta puissance efficace",
+				"Purifie encor nos cœurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni sois-tu, tendre Maître,",
+				"Jésus, nous sommes à toi,",
+				"À toi seul nous voulons être,",
+				"Béni sois-tu, notre Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Enfants, nous voulons te plaire,",
+				"T'obéir, garder ta loi.",
+				"Oh ! pour cela daigne faire",
+				"Que nous vivions par la foi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni sois-tu, tendre Maître,",
+				"Jésus, nous sommes à toi,",
+				"À toi seul nous voulons être,",
+				"Béni sois-tu, notre Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Bon Sauveur, berger fidèle,",
+				"Pour que nous suivions tes pas,",
+				"Remplis-nous d'un nouveau zèle",
+				"Et porte-nous dans tes bras."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni sois-tu, tendre Maître,",
+				"Jésus, nous sommes à toi,",
+				"À toi seul nous voulons être,",
+				"Béni sois-tu, notre Roi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Willliam Batchelder Bradbury",
+			"role": "music"
+		},
+		{
+			"name": "Mme Mégroz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af468",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1049",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

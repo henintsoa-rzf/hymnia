@@ -1,0 +1,119 @@
+{
+	"id": "proclamez-par-tout-le-monde",
+	"title": "Proclamez par tout le monde.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "515"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Proclamez par tout le monde",
+				"Que Jésus est Roi,",
+				"Il est Roi, Il est Roi !",
+				"Et que partout on réponde,",
+				"Le cœur plein d'émoi",
+				"Il est Roi, Il est Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En tout lieu faites connaître",
+				"Qu'Il règne à jamais,",
+				"Et que ce grand Dieu, ce Maître,",
+				"Est le roi de paix !",
+				"Proclamez son nom sublime !",
+				"Criez à tous vents",
+				"Qu'Il règne sur les abîmes",
+				"Et les flots mouvants !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Proclamez par tout le monde",
+				"Que Jésus est Roi,",
+				"Il est Roi, Il est Roi !",
+				"Et que partout on réponde,",
+				"Le cœur plein d'émoi",
+				"Il est Roi, Il est Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À ceux que la vie accable",
+				"Dites qu'aujourd'hui",
+				"Il reçoit le misérable",
+				"Qui regarde à Lui.",
+				"À toute âme qui succombe",
+				"Dites qu'Il est fort !",
+				"À ceux qui vont vers la tombe,",
+				"Qu'Il vainquit la mort !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Proclamez par tout le monde",
+				"Que Jésus est Roi,",
+				"Il est Roi, Il est Roi !",
+				"Et que partout on réponde,",
+				"Le cœur plein d'émoi",
+				"Il est Roi, Il est Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Parcourez monts et campagnes,",
+				"Villes et déserts !",
+				"Que l'Esprit vous accompagne",
+				"Dans tout l'univers.",
+				"Bravez les fureurs, la haine,",
+				"Bravez les mépris",
+				"Pour que toute langue humaine",
+				"Répète ce cri :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Proclamez par tout le monde",
+				"Que Jésus est Roi,",
+				"Il est Roi, Il est Roi !",
+				"Et que partout on réponde,",
+				"Le cœur plein d'émoi",
+				"Il est Roi, Il est Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Frances Ridley Havergal",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af515",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

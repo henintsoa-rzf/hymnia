@@ -1,0 +1,145 @@
+{
+	"id": "comme-un-fleuve-immense",
+	"title": "Comme un fleuve immense",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "324"
+		},
+		{
+			"hymnal": "adf",
+			"number": "394"
+		},
+		{
+			"hymnal": "cd",
+			"number": "272"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme un fleuve immense",
+				"Est la paix de Dieu,",
+				"Parfaite elle avance",
+				"Vainqueur en tout lieu ;",
+				"Parfaite elle augmente",
+				"Constamment son cours ;",
+				"Parfaite sa pente",
+				"S'abaisse toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fondés sur Dieu même,",
+				"Nos cœurs à jamais",
+				"Ont pour bien suprême",
+				"Sa parfaite paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sous ta main meurtrie",
+				"Se brise, ô mon Roi !",
+				"Toute arme ennemie",
+				"Faite contre moi !",
+				"Rien ne peut me nuire",
+				"Ni troubler mon cœur,",
+				"Tu veux me conduire,",
+				"Tu seras vainqueur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fondés sur Dieu même,",
+				"Nos cœurs à jamais",
+				"Ont pour bien suprême",
+				"Sa parfaite paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu traces ma voie.",
+				"J'y marche avec foi ;",
+				"L'épreuve et la joie",
+				"Me viennent de toi !",
+				"Cadran de nos vies,",
+				"Marque chaque jour",
+				"Les heures bénies",
+				"Du soleil d'amour !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fondés sur Dieu même,",
+				"Nos cœurs à jamais",
+				"Ont pour bien suprême",
+				"Sa parfaite paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Océan de gloire,",
+				"Paix de mon Sauveur !",
+				"Gage de victoire !",
+				"Trésor de bonheur !",
+				"Ta grâce infinie,",
+				"Coulant nuit et jour,",
+				"Inonde ma vie",
+				"De vagues d'amour !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Selon ta promesse,",
+				"O Jésus, mon Roi !",
+				"Je trouve sans cesse",
+				"Paix parfaite en toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James Mountain",
+			"role": "music"
+		},
+		{
+			"name": "Mlle E. Schürer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg324",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af394",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1303",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

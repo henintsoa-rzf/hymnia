@@ -1,0 +1,71 @@
+{
+	"id": "non-par-puissance-non-par-force",
+	"title": "Non par puissance, non par force",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "34"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Lo vehaïlvelo vehoah",
+				"ki im berouhi.",
+				"Lo vehaïlvelo vehoah",
+				"ki im berouhi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Amar Adonaï tsevaot.",
+				"Amar Adonaï tsevaot.",
+				"Amar Adonaï tsevaot.",
+				"Amar Adonaï tsevaot."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Non par puissance,",
+				"Non par force,",
+				"Mais par mon Esprit.",
+				"Non par puissance,",
+				"Non par force,",
+				"Mais par mon Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dit Dieu, l'Éternel des armées.",
+				"Dit Dieu, l'Éternel des armées.",
+				"Dit Dieu, l'Éternel des armées.",
+				"Dit Dieu, l'Éternel des armées."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem034",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

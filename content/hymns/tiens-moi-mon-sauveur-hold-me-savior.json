@@ -1,0 +1,100 @@
+{
+	"id": "tiens-moi-mon-sauveur-hold-me-savior",
+	"title": "Tiens-moi, mon Sauveur (Hold Me Savior)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "713"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, mon Sauveur, tiens-moi, que je ne tombe pas.",
+				"Quand mon cœur est trop chargé,",
+				"Viens soulager ce poids,",
+				"Et que mon fardeau m’amène à ton côté.",
+				"Mon cœur assoiffé s’incline devant ta Majesté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Sauveur,",
+				"Tiens-moi toujours !",
+				"Je me confie en ta bonté.",
+				"Guide mon cœur,",
+				"Sois mon secours,",
+				"Dans ta présence, je suis en paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Près de toi, Sauveur, je me réjouis à chaque instant.",
+				"Tout émerveillé par ta grâce et ton bras puissant.",
+				"Conduis-moi par la main près de tes ruisseaux.",
+				"Avec joie vers ta maison j’arriverai bientôt."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon Sauveur, je veux rester fidèle jusqu’à la fin.",
+				"Et chanter ton amitié et ton amour divin.",
+				"Conduis tous mes pas jusqu’à ce jour glorieux",
+				"Où je te verrai enfin, oui, de mes propres yeux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ben Shive",
+			"role": "lyrics"
+		},
+		{
+			"name": "Ben Shive",
+			"role": "music"
+		},
+		{
+			"name": "Bryan Fowler",
+			"role": "lyrics"
+		},
+		{
+			"name": "Bryan Fowler",
+			"role": "music"
+		},
+		{
+			"name": "Sandra McCracken",
+			"role": "lyrics"
+		},
+		{
+			"name": "Sandra McCracken",
+			"role": "music"
+		},
+		{
+			"name": "Skye Peterson",
+			"role": "lyrics"
+		},
+		{
+			"name": "Skye Peterson",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-13",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

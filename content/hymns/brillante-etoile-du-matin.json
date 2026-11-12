@@ -1,0 +1,132 @@
+{
+	"id": "brillante-etoile-du-matin",
+	"title": "Brillante étoile du matin",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "162"
+		},
+		{
+			"hymnal": "adf",
+			"number": "82"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Brillante étoile du matin,",
+				"Que fait lever l'amour divin,",
+				"Pure et sainte lumière !",
+				"Répands dans nos cœurs ta clarté,",
+				"Viens dissiper l'obscurité",
+				"Qui règne sur la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur ! Sauveur !",
+				"Fils du Père,",
+				"Ta lumière",
+				"Salutaire",
+				"Nous conduit et nous éclaire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est toi, Jésus, qui m'as cherché",
+				"Dans les ténèbres du péché,",
+				"Quand j'étais dans l'abîme ;",
+				"Tu vis mes chaînes, mon malheur :",
+				"Tu devins mon libérateur,",
+				"Par un amour sublime."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur ! Sauveur !",
+				"Fils du Père,",
+				"Ta lumière",
+				"Salutaire",
+				"Nous conduit et nous éclaire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quittant la suprême grandeur,",
+				"Tu parus comme un serviteur,",
+				"Pauvre et dans la souffrance ;",
+				"Tu fus blessé pour nos forfaits,",
+				"Et ta mort m'a rendu la paix,",
+				"La joie et l'espérance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur ! Sauveur !",
+				"Fils du Père,",
+				"Ta lumière",
+				"Salutaire",
+				"Nous conduit et nous éclaire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je veux, Seigneur, m'unir à toi",
+				"Par mon amour et par ma foi :",
+				"Mais je sens ma faiblesse.",
+				"Je ne veux que ta volonté :",
+				"Répands sur moi, dans ta bonté",
+				"Ton Esprit de sagesse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur ! Sauveur !",
+				"Fils du Père,",
+				"Ta lumière",
+				"Salutaire",
+				"Nous conduit et nous éclaire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Nicolaï",
+			"role": "music"
+		},
+		{
+			"name": "Louis Roehrich",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg162",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af082",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

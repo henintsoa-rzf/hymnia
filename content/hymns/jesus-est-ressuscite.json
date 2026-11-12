@@ -1,0 +1,97 @@
+{
+	"id": "jesus-est-ressuscite",
+	"title": "Jésus est ressuscité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "770"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pourquoi, parmi les morts,",
+				"chercher les vivants ?",
+				"Jésus est ressuscité !",
+				"Comme la lumière du soleil levant,",
+				"Jésus est ressuscité, alléluia,",
+				"Jésus est ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que la terre entière sache la vérité",
+				"Jésus est ressuscité !",
+				"Comme la vie nouvelle qu'il nous a donnée,",
+				"Jésus est ressuscité, alléluia,",
+				"Jésus est ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L'ennemi est vaincu, il est terrassé,",
+				"Jésus est ressuscité !",
+				"À lui la victoire, nous sommes libérés,",
+				"Jésus est ressuscité, alléluia,",
+				"Jésus est ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous voyons sa gloire dans tout l'univers.",
+				"Jésus est ressuscité !",
+				"L'image parfaite du Dieu notre Père,",
+				"Jésus est ressuscité, alléluia,",
+				"Jésus est ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Acclamons Jésus, il a vaincu la mort !",
+				"Jésus est ressuscité !",
+				"Dansons et chantons, car il est le plus fort,",
+				"Jésus est ressuscité, alléluia,",
+				"Jésus est ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Pourquoi, parmi les morts,",
+				"chercher les vivants ?",
+				"Jésus est ressuscité !",
+				"Comme la lumière du soleil levant,",
+				"Jésus est ressuscité, alléluia,",
+				"Jésus est ressuscité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem770",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

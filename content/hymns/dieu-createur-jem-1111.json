@@ -1,0 +1,89 @@
+{
+	"id": "dieu-createur-jem-1111",
+	"title": "Dieu créateur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1111"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu créateur, Dieu de miracles,",
+				"Redonnes vie, redonnes espoir.",
+				"Face à mes peurs, je n’ai qu’une arme :",
+				"Élever ton nom, Dieu de gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai tes louanges,",
+				"Sans fin je bénirai ton nom.",
+				"Dans la beauté de ta grâce,",
+				"Mes larmes s’effaceront."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai tes louanges,",
+				"Sans fin je bénirai ton nom.",
+				"Dieu, tu es digne de gloire,",
+				"Mes lèvres déclameront : « tu es bon ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ta présence, je viens découvrir",
+				"Que cet espoir est vérité,",
+				"Que l’abondance, qui m’est promise,",
+				"Jaillit de ton cœur à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai tes louanges,",
+				"Sans fin je bénirai ton nom.",
+				"Dans la beauté de ta grâce,",
+				"Mes larmes s’effaceront."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai tes louanges,",
+				"Sans fin je bénirai ton nom.",
+				"Dieu, tu es digne de gloire,",
+				"Mes lèvres déclameront : « tu es bon ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Julien Adam",
+			"role": "music"
+		},
+		{
+			"name": "Julien Adam",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1111",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

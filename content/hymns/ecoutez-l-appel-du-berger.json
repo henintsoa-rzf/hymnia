@@ -1,0 +1,115 @@
+{
+	"id": "ecoutez-l-appel-du-berger",
+	"title": "Écoutez l'appel du Berger",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "376"
+		},
+		{
+			"hymnal": "adf",
+			"number": "346"
+		},
+		{
+			"hymnal": "cd",
+			"number": "325"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Écoutez l'appel du Berger !",
+				"Il sait ses brebis en danger ;",
+				"Il les appelle avec amour,",
+				"Espérant toujours leur retour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cherchons-les !",
+				"Cherchons-les !",
+				"Savons-nous le prix d'une âme ?",
+				"Cherchons-les !",
+				"Cherchons-les !",
+				"Le Bon Berger les réclame."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mourant de froid, de soif, de faim,",
+				"Les brebis appellent en vain.",
+				"Jésus nous veut pour les sauver :",
+				"Qui va l'aider à les trouver ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cherchons-les !",
+				"Cherchons-les !",
+				"Savons-nous le prix d'une âme ?",
+				"Cherchons-les !",
+				"Cherchons-les !",
+				"Le Bon Berger les réclame."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ne peut-il pas compter sur nous ?",
+				"Ne voulons-nous pas aller tous",
+				"Dire à tous ceux qui sont perdus",
+				"Que nous les voulons pour Jésus ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cherchons-les !",
+				"Cherchons-les !",
+				"Savons-nous le prix d'une âme ?",
+				"Cherchons-les !",
+				"Cherchons-les !",
+				"Le Bon Berger les réclame."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Augustine Ogden",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg376",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af346",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1126",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

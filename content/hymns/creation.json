@@ -1,0 +1,101 @@
+{
+	"id": "creation",
+	"title": "Création",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "896"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu as tiré du néant",
+				"la grandeur de l'univers,",
+				"Artiste au si grand talent,",
+				"virtuose de la lumière,",
+				"Des milliards de galaxies,",
+				"toutes les constellations,",
+				"Des soleils à l'infini",
+				"et tous les astres par millions."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu créateur, reçois l'adoration",
+				"D'un cœur en admiration.",
+				"Dieu créateur, reçois l'adoration",
+				"D'un cœur en admiration."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu créas les vents solaires",
+				"par ton souffle tout-puissant,",
+				"Des lunes et des luminaires",
+				"se mirent à tourner en dansant.",
+				"Au milieu du firmament,",
+				"tu fis chanter les planètes,",
+				"En l'honneur du Dieu vivant,",
+				"les étoiles furent en fête."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu créateur, reçois l'adoration",
+				"D'un cœur en admiration.",
+				"Dieu créateur, reçois l'adoration",
+				"D'un cœur en admiration."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu confonds par ta sagesse",
+				"le plus instruit des humains.",
+				"Devant toi, soudain s'abaissent",
+				"les orgueilleux et les hautains,",
+				"Car tu es l'unique Dieu,",
+				"source même de la vie,",
+				"Chef d'orchestre merveilleux,",
+				"origine de l'harmonie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu créateur, reçois l'adoration",
+				"D'un cœur en admiration.",
+				"Dieu créateur, reçois l'adoration",
+				"D'un cœur en admiration."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem896",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,49 @@
+{
+	"id": "il-est-sorti-du-tombeau",
+	"title": "Il est sorti du tombeau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "415"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est sorti du tombeau,",
+				"la mort a perdu sa puissance.",
+				"Il est sorti du tombeau,",
+				"la mort a perdu sa puissance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia !",
+				"Alléluia ! Alléluia !",
+				"Alléluia ! Alléluia !",
+				"Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rick Ridings",
+			"role": "music"
+		},
+		{
+			"name": "Rick Ridings",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem415",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

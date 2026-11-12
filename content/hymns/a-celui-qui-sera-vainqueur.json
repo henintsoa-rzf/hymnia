@@ -1,0 +1,121 @@
+{
+	"id": "a-celui-qui-sera-vainqueur",
+	"title": "À celui qui sera vainqueur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "353"
+		},
+		{
+			"hymnal": "adf",
+			"number": "377"
+		},
+		{
+			"hymnal": "cd",
+			"number": "361"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À celui qui sera vainqueur,",
+				"Et qui me glorifie,",
+				"Je donnerai, dit le Seigneur,",
+				"Au ciel l'arbre de vie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Victoire, force, honneur et louanges,",
+				"Gloire, Gloire, puissance à toi, Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un caillou blanc, un nom nouveau,",
+				"Et la manne cachée,",
+				"Lui seront donnés par l'Agneau,",
+				"Sa promesse est scellée !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Victoire, force, honneur et louanges,",
+				"Gloire, Gloire, puissance à toi, Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Revêtu d'un vêtement blanc,",
+				"Resplendissant de gloire,",
+				"Sera celui qui par le sang",
+				"Remporta la victoire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Victoire, force, honneur et louanges,",
+				"Gloire, Gloire, puissance à toi, Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Avec Christ, celui qui vaincra,",
+				"S'assiéra sur son trône,",
+				"Et de ses mains il recevra",
+				"L'immortelle couronne."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Victoire, force, honneur et louanges,",
+				"Gloire, Gloire, puissance à toi, Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Coles Stebbins",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg353",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af377",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1157",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

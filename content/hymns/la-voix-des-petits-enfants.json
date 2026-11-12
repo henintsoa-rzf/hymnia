@@ -1,0 +1,63 @@
+{
+	"id": "la-voix-des-petits-enfants",
+	"title": "La voix des petits enfants",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "367"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, notre maître,",
+				"Que ton nom, que ton nom est magnifique,",
+				"Magnifique sur toute la terre.",
+				"Seigneur, notre maître,",
+				"Que ton nom, que ton nom est magnifique,",
+				"Magnifique sur toute la terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta majesté surpasse la majesté du ciel,",
+				"Mais c'est la voix des enfants que tu opposes",
+				"À tes adversaires."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, notre maître,",
+				"Que ton nom, que ton nom est magnifique,",
+				"Magnifique, oh si magnifique,",
+				"Ton nom est magnifique, en lui est le salut,",
+				"La joie, la guérison, la vie et le pardon.",
+				"Ton nom est Jésus,",
+				"Ton nom est si magnifique. Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louise Neuenschwander",
+			"role": "music"
+		},
+		{
+			"name": "Louise Neuenschwander",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem367",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

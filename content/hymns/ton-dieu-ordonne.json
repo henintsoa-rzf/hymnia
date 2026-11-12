@@ -1,0 +1,97 @@
+{
+	"id": "ton-dieu-ordonne",
+	"title": "Ton Dieu ordonne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "712"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton Dieu ordonne",
+				"que tu sois puissant et fort.",
+				"Ton Dieu te donne autorité,",
+				"Autorité sur les puissances de la mort.",
+				"Ton Dieu te donne sa victoire.",
+				"Ton Dieu ordonne",
+				"que tu sois puissant et fort.",
+				"Ton Dieu te donne son onction,",
+				"Ton Dieu te donne sa force."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur est présent,",
+				"Il s'avance au combat ;",
+				"Son armée, fortifiée,",
+				"Lance des cris de victoire.",
+				"L'ennemi, terrassé,",
+				"Restitue ce qu'il a volé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton Dieu ordonne",
+				"que tu sois puissant et fort.",
+				"Ton Dieu te donne autorité,",
+				"Autorité sur les puissances de la mort.",
+				"Ton Dieu te donne sa victoire.",
+				"Ton Dieu ordonne",
+				"que tu sois puissant et fort.",
+				"Ton Dieu te donne son onction,",
+				"Ton Dieu te donne sa force."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toute la gloire et l'honneur",
+				"Sont pour notre Seigneur,",
+				"Le Seigneur glorieux, le Dieu majestueux !",
+				"Cris et chants victorieux",
+				"Montent jusqu'au plus haut des cieux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton Dieu ordonne",
+				"que tu sois puissant et fort.",
+				"Ton Dieu te donne autorité,",
+				"Autorité sur les puissances de la mort.",
+				"Ton Dieu te donne sa victoire.",
+				"Ton Dieu ordonne",
+				"que tu sois puissant et fort.",
+				"Ton Dieu te donne son onction,",
+				"Ton Dieu te donne sa force."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre Béchir",
+			"role": "music"
+		},
+		{
+			"name": "Pierre Béchir",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem712",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

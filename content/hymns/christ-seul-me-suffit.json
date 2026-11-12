@@ -1,0 +1,127 @@
+{
+	"id": "christ-seul-me-suffit",
+	"title": "Christ seul me suffit",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1095"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ est tout pour moi.",
+				"Il est ma récompense,",
+				"Car il n'y a rien dans ce monde",
+				"Qui puisse me satisfaire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Même dans l'épreuve,",
+				"Mon âme chante.",
+				"Oui, pour toujours,",
+				"Il m'a sauvé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ seul me suffit,",
+				"Christ seul me suffit.",
+				"Tout ce dont j'ai besoin est en toi,",
+				"Tout ce dont j'ai besoin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Christ est mon Seigneur,",
+				"La joie de mon salut,",
+				"Et cet espoir est sans fin.",
+				"Le ciel est ma demeure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Même dans l'orage,",
+				"Mon âme chante",
+				"Jésus est là,",
+				"À Dieu soit la gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ seul me suffit,",
+				"Christ seul me suffit.",
+				"Tout ce dont j'ai besoin est en toi,",
+				"Tout ce dont j'ai besoin."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"En mon cœur, j'ai choisi",
+				"De suivre Jésus.",
+				"Oui, pour toujours,",
+				"Oui, pour toujours.",
+				"En mon cœur, j'ai choisi",
+				"De suivre Jésus.",
+				"Oui, pour toujours,",
+				"Oui, pour toujours."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"La croix devant moi,",
+				"Le monde derrière moi.",
+				"Oui, pour toujours,",
+				"Oui, pour toujours.",
+				"La croix devant moi,",
+				"Le monde derrière moi.",
+				"Oui, pour toujours,",
+				"Oui, pour toujours."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oui, pour toujours,",
+				"Oui, pour toujours.",
+				"Oui, pour toujours,",
+				"Oui, pour toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Reuben Morgan et Jonas Myrin",
+			"role": "music"
+		},
+		{
+			"name": "Reuben Morgan et Jonas Myrin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1095",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

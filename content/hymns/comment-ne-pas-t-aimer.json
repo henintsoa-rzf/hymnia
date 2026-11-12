@@ -1,0 +1,105 @@
+{
+	"id": "comment-ne-pas-t-aimer",
+	"title": "Comment ne pas t'aimer ?",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1040"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comment ne pas t'aimer ?",
+				"Comment ne pas te louer ?",
+				"Jésus, mon bien-aimé,",
+				"Comment ne pas t'adorer ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es là dans la bataille.",
+				"Je te louerai où que j'aille.",
+				"Tu es là dans mes combats,",
+				"Seigneur Jésus,",
+				"Comment ne pas t'aimer ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comment ne pas t'aimer ?",
+				"Comment ne pas te louer ?",
+				"Jésus, mon bien-aimé,",
+				"Comment ne pas t'adorer ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton amour m'envahit,",
+				"Ta grâce me remplit.",
+				"Tu as tout accompli",
+				"À la croix pour moi.",
+				"Comment ne pas t'aimer ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comment ne pas te choisir ?",
+				"Comment ne pas t'obéir ?",
+				"Tu as comblé mon âme,",
+				"Seigneur, mon cœur te réclame."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ton infinie douceur",
+				"Me rassure quand j'ai peur.",
+				"Dans la solitude,",
+				"Tu es là Seigneur.",
+				"Comment ne pas t'aimer ?"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Comment ne pas t'aimer ?",
+				"Toi, qui m'as fortifié,",
+				"Tu es venu me combler,",
+				"Ô Seigneur Jésus.",
+				"Comment ne pas t'aimer ?",
+				"Comment ne pas t'aimer ?",
+				"Comment ne pas t'aimer ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Yves Baron",
+			"role": "music"
+		},
+		{
+			"name": "Yves Baron",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1040",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

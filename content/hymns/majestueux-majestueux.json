@@ -1,0 +1,107 @@
+{
+	"id": "majestueux-majestueux",
+	"title": "Majestueux, majestueux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1051"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Majestueux, majestueux,",
+				"Ô Dieu, tu es majestueux.",
+				"La sainteté convient à ta maison.",
+				"Si glorieux, si glorieux,",
+				"Ô Dieu, tu es si glorieux,",
+				"Mon être entier s'incline devant toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te loue encore et encore.",
+				"Je te loue encore et encore",
+				"Du lever jusqu'à la fin du jour.",
+				"Digne es-tu, Jésus ! Digne es-tu, Jésus !",
+				"Je te loue encore et encore.",
+				"Je te loue encore et encore",
+				"Du lever jusqu'à la fin du jour.",
+				"Digne es-tu, Jésus ! Digne es-tu, Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Majestueux, majestueux,",
+				"Ô Dieu, tu es majestueux.",
+				"La sainteté convient à ta maison.",
+				"Si glorieux, si glorieux,",
+				"Ô Dieu, tu es si glorieux,",
+				"Mon être entier s'incline devant toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te loue encore et encore.",
+				"Je te loue encore et encore",
+				"Du lever jusqu'à la fin du jour.",
+				"Digne es-tu, Jésus ! Digne es-tu, Jésus !",
+				"Je te loue encore et encore.",
+				"Je te loue encore et encore",
+				"Du lever jusqu'à la fin du jour.",
+				"Digne es-tu, Jésus ! Digne es-tu, Jésus !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je bénirai ton nom tous les jours.",
+				"Je bénirai ton nom tous les jours.",
+				"Je bénirai ton nom tous les jours de ma vie !",
+				"Je bénirai ton nom tous les jours.",
+				"Je bénirai ton nom tous les jours.",
+				"Je bénirai ton nom tous les jours de ma vie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te loue encore et encore.",
+				"Je te loue encore et encore",
+				"Du lever jusqu'à la fin du jour.",
+				"Digne es-tu, Jésus ! Digne es-tu, Jésus !",
+				"Je te loue encore et encore.",
+				"Je te loue encore et encore",
+				"Du lever jusqu'à la fin du jour.",
+				"Digne es-tu, Jésus ! Digne es-tu, Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alexandra Miranda-Chang",
+			"role": "music"
+		},
+		{
+			"name": "Alexandra Miranda-Chang",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1051",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

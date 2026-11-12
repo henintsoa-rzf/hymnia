@@ -1,0 +1,80 @@
+{
+	"id": "rends-toi-maitre-de-mon-ame",
+	"title": "Rends-toi maître de mon âme",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "216"
+		},
+		{
+			"hymnal": "cd",
+			"number": "136"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rends-toi maître de mon âme,",
+				"Esprit Saint, Esprit d'amour.",
+				"Et de ta divine flamme",
+				"M'embrase en ce jour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens, Esprit de la promesse,",
+				"Qui nous scellas de ton sceau,",
+				"Dévoile-nous la richesse",
+				"De l'héritage d'en-haut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Forme-nous pour le service",
+				"De notre divin Sauveur ;",
+				"À ses pieds, en sacrifice,",
+				"J'apporte mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Esprit de vie et de gloire,",
+				"Conduis-moi de jour en jour,",
+				"Et de victoire en victoire,",
+				"Vers le céleste séjour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Arthur Cyril Barham-Gould",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg216",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/971",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

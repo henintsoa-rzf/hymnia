@@ -1,0 +1,40 @@
+{
+	"id": "que-ta-beaute",
+	"title": "Que ta beauté",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "163"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que ta beauté, Jésus, se reflète en moi,",
+				"Ton amour merveilleux et ta pureté,",
+				"Que tout mon cœur humain",
+				"Soit docile à ta main,",
+				"Afin que ta beauté se reflète en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ivan Caryll",
+			"role": "music"
+		},
+		{
+			"name": "Ivan Caryll",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem163",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

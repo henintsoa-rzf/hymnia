@@ -1,0 +1,101 @@
+{
+	"id": "jeunesse-ardente-et-genereuse",
+	"title": "Jeunesse ardente et généreuse.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "637"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jeunesse ardente et généreuse",
+				"Que rien n'effraie et rien n'abat,",
+				"Comme une élite valeureuse",
+				"Lève-toi pour le bon combat !",
+				"Espoir vivant de la Patrie,",
+				"En tes vertus son cœur a foi ;",
+				"Par trop de coups, hélas ! meurtrie,",
+				"Jeunesse, elle a besoin de toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jeunesse ardente et généreuse",
+				"Que rien n'effraie et rien n'abat,",
+				"Comme une élite valeureuse",
+				"Lève-toi pour le bon combat !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour être forte, reste pure,",
+				"Et, pour croire au bien, crois en Dieu.",
+				"Sur ton front, vierge de souillure,",
+				"Reçois le baptême de feu.",
+				"Des honteux plaisirs de l'ivresse",
+				"Fuis l'esclavage avec effroi :",
+				"Pour sauver la France en détresse,",
+				"Jeunesse, on a besoin de toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jeunesse ardente et généreuse",
+				"Que rien n'effraie et rien n'abat,",
+				"Comme une élite valeureuse",
+				"Lève-toi pour le bon combat !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La tâche est grande et glorieuse,",
+				"Le labeur presque surhumain ;",
+				"La lutte est sainte et périlleuse,",
+				"Mais la victoire est dans ta main.",
+				"Combats sans peur, combats sans trêve",
+				"Sous le drapeau du divin Roi :",
+				"Nous croyons à notre beau rêve,",
+				"Jeunesse, en regardant à toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jeunesse ardente et généreuse",
+				"Que rien n'effraie et rien n'abat,",
+				"Comme une élite valeureuse",
+				"Lève-toi pour le bon combat !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "A. Gaydou",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af637",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

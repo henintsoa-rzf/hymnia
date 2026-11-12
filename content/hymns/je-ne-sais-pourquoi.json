@@ -1,0 +1,86 @@
+{
+	"id": "je-ne-sais-pourquoi",
+	"title": "Je ne sais pourquoi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "128"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je n'sais pourquoi Jésus m'aime,",
+				"Ni pourquoi il prend soin de moi.",
+				"Je n'sais pourquoi il fut cloué au bois,",
+				"Oh c'est pour moi, vraiment pour moi.",
+				"Où donc serais-je si Jésus ne m'aimait ?",
+				"Et s'il ne prenait soin de moi ?",
+				"Où donc serais-je s'il n'avait donné sa vie ?",
+				"Oh mais je sais qu'Il accepta la croix pour moi,",
+				"oh oui pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il quitta la gloire de son Père,",
+				"Nous apporta la liberté;",
+				"Mort et ressuscité pour moi, je le crois,",
+				"Oh c'est pour moi, vraiment pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je n'sais pourquoi Jésus m'aime,",
+				"Ni pourquoi il prend soin de moi.",
+				"Je n'sais pourquoi Il fut cloué au bois,",
+				"Oh mais je sais qu'Il accepta la croix pour moi,",
+				"oh oui pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il quitta la gloire de son Père,",
+				"Nous apporta la liberté;",
+				"Mort et ressuscité pour moi, je le crois,",
+				"Oh c'est pour moi, vraiment pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je n'sais pourquoi Jésus m'aime,",
+				"Ni pourquoi il prend soin de moi.",
+				"Je n'sais pourquoi Il fut cloué au bois,",
+				"Oh mais je sais qu'Il accepta la croix pour moi,",
+				"oh oui pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Andrae Crouch",
+			"role": "music"
+		},
+		{
+			"name": "Andrae Crouch",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem128",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

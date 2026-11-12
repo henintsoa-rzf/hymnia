@@ -1,0 +1,58 @@
+{
+	"id": "notre-pere",
+	"title": "Notre Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "171"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Père qui es aux cieux,",
+				"Que ton nom soit sanctifié,",
+				"Que ton règne vienne.",
+				"Notre Père qui es aux cieux,",
+				"Que ta volonté soit faite sur la terre,",
+				"Comme au ciel.",
+				"Donne-nous aujourd'hui notre pain de ce jour,",
+				"Pardonne-nous nos offenses",
+				"Comme nous pardonnons aussi",
+				"À tous ceux qui nous ont offensés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre Père qui es aux cieux,",
+				"Ne nous laisse pas succomber",
+				"À la tentation du monde,",
+				"Mais délivre-nous du mal,",
+				"Car c'est à toi qu'appartiennent",
+				"Aux siècles des siècles le règne,",
+				"La puissance et la gloire, Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gil Bernard",
+			"role": "music"
+		},
+		{
+			"name": "Gil Bernard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem171",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,140 @@
+{
+	"id": "lorsqu-a-jesus",
+	"title": "Lorsqu'à Jésus…",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "280"
+		},
+		{
+			"hymnal": "cd",
+			"number": "180"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lorsqu'à Jésus, un soir, vint Nicodème,",
+				"Pour lui poser la question suprême,",
+				"Jésus lui dit : « Pour me suivre là-haut",
+				"Il faut naître de nouveau ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il faut naître de nouveau !",
+				"Il faut naître de nouveau,",
+				"Je vous le dis en vérité,",
+				"Il faut naître de nouveau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quelle que soit sa patrie ou sa race,",
+				"Nul homme n'est sauvé que par la grâce.",
+				"Pour être admis au céleste troupeau.",
+				"Il faut naître de nouveau !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il faut naître de nouveau !",
+				"Il faut naître de nouveau,",
+				"Je vous le dis en vérité,",
+				"Il faut naître de nouveau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pauvre pécheur, à la vie éternelle",
+				"Ton Rédempteur en ce moment t'appelle,",
+				"Lazare, entends sa voix ! Sors du tombeau !",
+				"Il faut naître de nouveau !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il faut naître de nouveau !",
+				"Il faut naître de nouveau,",
+				"Je vous le dis en vérité,",
+				"Il faut naître de nouveau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"C'est ici-bas que Dieu donne la vie.",
+				"C'est ici-bas, pécheur, qu'Il te convie",
+				"Au grand banquet des noces de l'Agneau.",
+				"Il faut naître de nouveau !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il faut naître de nouveau !",
+				"Il faut naître de nouveau,",
+				"Je vous le dis en vérité,",
+				"Il faut naître de nouveau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Crois ! Et bientôt au pays de Lumière",
+				"Tu rejoindras tous ceux qui, sur la terre,",
+				"Prirent la croix pour arme et pour flambeau",
+				"Étant tous nés de nouveau !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il faut naître de nouveau !",
+				"Il faut naître de nouveau,",
+				"Je vous le dis en vérité,",
+				"Il faut naître de nouveau !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Coles Stebbins",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af280",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1011",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

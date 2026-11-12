@@ -1,0 +1,71 @@
+{
+	"id": "la-bande-joyeuse",
+	"title": "La bande joyeuse.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "486"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La bande joyeuse",
+				"Des petits enfants,",
+				"Souriante, heureuse,",
+				"Entonne ses chants.",
+				"Une ardeur nouvelle",
+				"Brille dans leurs yeux ;",
+				"Pleins d'un nouveau zèle,",
+				"Chantons avec eux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Remplis d'espérance,",
+				"Joignons nos efforts ;",
+				"C'est l'obéissance",
+				"Qui nous rendra forts.",
+				"Cherchons la sagesse",
+				"Loin des faux plaisirs ;",
+				"Combattons sans cesse",
+				"Les mauvais désirs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O notre bon Père,",
+				"Qui nous vois des cieux,",
+				"Reçois la prière",
+				"De nos cœurs joyeux ;",
+				"Que ta seule crainte",
+				"Règne en nous, Seigneur,",
+				"Et que ta loi sainte",
+				"Soit notre bonheur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Écoles du dimanche",
+			"role": "music"
+		},
+		{
+			"name": "Blanche Levieux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af486",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

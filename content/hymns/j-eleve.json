@@ -1,0 +1,100 @@
+{
+	"id": "j-eleve",
+	"title": "J'élève",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1032"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Me voici, je m'abandonne,",
+				"Premier des pécheurs et dernier des hommes,",
+				"Né de la poussière, aimé d'un Roi,",
+				"Le Roi de l'univers, aimé de toi.",
+				"À genou, mon cœur se noie",
+				"Quand je contemple la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et j'élève les mains pour lesquelles",
+				"Tes mains furent transpercées.",
+				"Et j'élève mon cœur, pour lequel",
+				"Ton cœur dut s'arrêter.",
+				"Et j'élève ma voix, le fruit de mes lèvres,",
+				"Comme un chant d'amour pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Me voici, et ma vie commence,",
+				"Moi qui méritais la mort pour sentence.",
+				"Mes chaînes sont brisées, mes murs s'effondrent,",
+				"Tu as tout changé en une seconde.",
+				"Et toujours mon cœur se noie",
+				"Quand je contemple la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et j'élève les mains pour lesquelles",
+				"Tes mains furent transpercées.",
+				"Et j'élève mon cœur, pour lequel",
+				"Ton cœur dut s'arrêter.",
+				"Et j'élève ma voix, le fruit de mes lèvres,",
+				"Comme un chant d'amour pour toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ce n'est plus moi qui vis,",
+				"Ce n'est plus moi qui vis,",
+				"Ce n'est plus moi qui vis,",
+				"C'est Christ qui vit en moi.",
+				"Ce n'est plus moi qui vis,",
+				"Ce n'est plus moi qui vis,",
+				"Ce n'est plus moi qui vis,",
+				"C'est Christ qui vit en moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Christ qui vit en moi.",
+				"Christ qui vit en moi.",
+				"Christ qui vit en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1032",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

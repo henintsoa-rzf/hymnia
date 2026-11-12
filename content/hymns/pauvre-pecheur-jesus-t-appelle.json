@@ -1,0 +1,65 @@
+{
+	"id": "pauvre-pecheur-jesus-t-appelle",
+	"title": "Pauvre pécheur, Jésus t'appelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "583"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pauvre pécheur, Jésus t'appelle ;",
+				"Accours, Il veut te recevoir ;",
+				"Entends cette voix fraternelle !",
+				"Sois sauvé… pourquoi pas ce soir ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce soir, maintenant, ici même,",
+				"Tu peux Le toucher et Le voir ;",
+				"Il te pardonne car Il t'aime :",
+				"Sois sauvé… pourquoi pas ce soir ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur la croix Il a pris ta place,",
+				"Il a souffert sous le ciel noir,",
+				"Pour que sa mort obtînt ta grâce…",
+				"Sois sauvé… pourquoi pas ce soir ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le monde meurt dans la souffrance,",
+				"Sans but, sans joie et sans espoir.",
+				"Viens à Christ ! Ton retard l'offense,",
+				"Sois sauvé… pourquoi pas ce soir ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af583",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

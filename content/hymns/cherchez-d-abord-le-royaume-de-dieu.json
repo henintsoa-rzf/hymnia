@@ -1,0 +1,70 @@
+{
+	"id": "cherchez-d-abord-le-royaume-de-dieu",
+	"title": "Cherchez d'abord le royaume de Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "272"
+		},
+		{
+			"hymnal": "jem",
+			"number": "35"
+		},
+		{
+			"hymnal": "cd",
+			"number": "189"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Cherchez d'abord le royaume de Dieu,",
+				"Et sa justice",
+				"Et toutes ces choses",
+				"vous seront données en plus :",
+				"Allélu, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'homme ne vivra pas de pain seulement,",
+				"Mais de toute parole",
+				"Qui sortira de la bouche de Dieu :",
+				"Allélu, Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Karen Lafferty",
+			"role": "music"
+		},
+		{
+			"name": "Jeunesse en Mission",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg272",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem035",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/58",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"id": "notre-pere-dans-les-cieux",
+	"title": "Notre Père dans les cieux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1013"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Père dans les cieux, ton nom soit sanctifié.",
+				"Que bientôt vienne ton règne,",
+				"Ta volonté soit faite sur terre",
+				"comme dans les cieux,",
+				"Que le ciel vienne sur terre comme dans les cieux.",
+				"Que le ciel vienne."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre Père dans les cieux, ton nom soit sanctifié.",
+				"Que bientôt vienne ton règne,",
+				"Ta volonté soit faite sur terre",
+				"comme dans les cieux,",
+				"Que le ciel vienne sur terre comme dans les cieux.",
+				"Que le ciel vienne, que le ciel vienne.",
+				"Que le ciel vienne."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi soit le règne, à toi la puissance,",
+				"À toi soit la gloire pour toujours, amen.",
+				"À toi soit le règne, à toi la puissance,",
+				"À toi soit la gloire pour toujours, amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marcus Meier",
+			"role": "music"
+		},
+		{
+			"name": "Marcus Meier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1013",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

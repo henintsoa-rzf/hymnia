@@ -1,0 +1,77 @@
+{
+	"id": "seigneur-jesus-celeste-frere",
+	"title": "Seigneur Jésus, céleste frère",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "390"
+		},
+		{
+			"hymnal": "adf",
+			"number": "458"
+		},
+		{
+			"hymnal": "cd",
+			"number": "366"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur Jésus, céleste Frère,",
+				"Bénis-nous en ce jour.",
+				"Toi qui descendis sur la terre",
+				"Pour montrer ton amour,",
+				"Sur ces époux, fais pour toujours",
+				"Rayonner ta lumière,",
+				"Et qu'elle éclaire le chemin",
+				"Devant les pèlerins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ils ont en toi leur espérance,",
+				"Jésus, parfait Sauveur !",
+				"Sois leur gardien, leur délivrance,",
+				"Leur puissant protecteur !",
+				"Répands sur eux le vrai bonheur",
+				"Par ta sainte présence,",
+				"Seigneur, exauce maintenant",
+				"Les vœux de tes enfants."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Vieil air anglais",
+			"role": "music"
+		},
+		{
+			"name": "Jacques-A. Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg390",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af458",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1161",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

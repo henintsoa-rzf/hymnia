@@ -1,0 +1,79 @@
+{
+	"id": "notre-chef-et-maitre",
+	"title": "Notre chef et maître",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "337"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre chef et maître, c’est le roi des rois;",
+				"Portant ferme sa bannière;",
+				"Sans craintes ni doutes, soldats de la croix,",
+				"Avançons dans la lumière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"En avant ! En avant !",
+				"Pour Jésus-Christ, le roi des rois !",
+				"Nous le couronnons et marchons",
+				"Sous la bannière de la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que l’ennemi vienne, comme l’ouragan,",
+				"Déployons notre bannière !",
+				"Sous sa garde sainte, jamais de Satan",
+				"Notre âme n’est prisonnière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par mer et par terre, qu’à tout être humain",
+				"Soit annoncé l’évangile !",
+				"La sainte bannière de l’Agneau divin",
+				"Plantons dans l’arène hostile !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et le jour de gloire bientôt paraîtra :",
+				"L’aube nous la voyons luire,",
+				"Où, sous la bannière de la croix, vaincra",
+				"De Christ l’éternel empire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "E. Schürer",
+			"role": "unspecified"
+		},
+		{
+			"name": "James Mac Granahan",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1136",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

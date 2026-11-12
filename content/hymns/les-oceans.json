@@ -1,0 +1,125 @@
+{
+	"id": "les-oceans",
+	"title": "Les océans",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1052"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'ombre et la peur peuvent m'entourer,",
+				"Les éléments se déchaîner,",
+				"Le Dieu de victoire se bat pour moi,",
+				"Pour me délivrer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Dieu de victoire est à mes côtés,",
+				"Sa main me soutient au cœur du danger.",
+				"Je vivrai pour lui, marchant par la foi ;",
+				"Le Dieu de victoire habite en moi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et rien ne saura lui résister,",
+				"Rien ne pourra le faire plier,",
+				"Le Dieu de victoire a pris la croix",
+				"Et l'a terrassée."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Dieu de victoire est à mes côtés,",
+				"Sa main me soutient au cœur du danger.",
+				"Je vivrai pour lui, marchant par la foi ;",
+				"Le Dieu de victoire habite en moi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les océans peuvent s'agiter,",
+				"Leurs vagues sur ma vie se briser,",
+				"Le Dieu de victoire élève sa voix",
+				"Pour tout apaiser."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Dieu de victoire est à mes côtés,",
+				"Sa main me soutient au cœur du danger.",
+				"Je vivrai pour lui, marchant par la foi ;",
+				"Le Dieu de victoire habite en moi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Julien Adam",
+			"role": "music"
+		},
+		{
+			"name": "Julien Adam",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1052",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

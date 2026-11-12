@@ -1,0 +1,85 @@
+{
+	"id": "aujourd-hui-tu-m-appelles",
+	"title": "Aujourd'hui tu m'appelles.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "256"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aujourd'hui Tu m'appelles,",
+				"Tu veux laver mon cœur ;",
+				"Et mes pensées rebelles,",
+				"Tu veux changer Seigneur.",
+				"Loin de Ta bergerie",
+				"J'errais dans le péché :",
+				"Pour me sauver la vie,",
+				"Jésus, tu m'as cherché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Aujourd'hui, Ta grâce ouvre",
+				"La porte du salut :",
+				"Tous ceux que Ton sang couvre",
+				"Sont parmi Tes élus.",
+				"Et le Père, avec joie,",
+				"Pardonne au pauvre enfant,",
+				"Qui, délaissant sa voie,",
+				"Vient à Lui, repentant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, le Père m'appelle,",
+				"Le Saint-Esprit descend,",
+				"Le ciel aujourd'hui scelle",
+				"Le bonheur qui m'attend.",
+				"Au portail de la grâce,",
+				"Nul ne s'informera",
+				"Si j'ai droit à ma place :",
+				"Jésus me recevra !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La maison de mon Père,",
+				"Je ne puis m'en passer ;",
+				"Il l'ouvre à ma prière,",
+				"Sans jamais se lasser.",
+				"Jésus, c'est Lui, la porte,",
+				"Me connaît par mon nom :",
+				"Si tout passe, qu'importe !",
+				"J'ai place en sa maison !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air Gallois",
+			"role": "music"
+		},
+		{
+			"name": "Mlle E. Schürer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af256",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

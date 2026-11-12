@@ -1,0 +1,97 @@
+{
+	"id": "jamais-seul",
+	"title": "Jamais seul",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "29"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je ne marche jamais seul,",
+				"Dans la vallée ou sur les hauteurs,",
+				"Car de mon cœur purifié,",
+				"Ton Esprit-Saint a fait sa demeure.",
+				"Par le Sauveur envoyé",
+				"Pour être en moi le souffle de vie,",
+				"Il est la pérenne flamme",
+				"Qui fait briller la lueur du Christ."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il habite en moi",
+				"Et jamais ne me délaisse,",
+				"Mon saint Consolateur,",
+				"Ton Esprit en moi ;",
+				"Que par lui mon cœur connaisse",
+				"L’amour de mon Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans mes luttes, jamais seul ;",
+				"Ton Esprit-Saint est mon Défenseur.",
+				"Son épée est la Parole,",
+				"Ta vérité pour chasser mes peurs.",
+				"Il l’éclaire dans mon âme",
+				"Et par ta voix me guide et conduit.",
+				"Dans l’épreuve il me façonne",
+				"Pour refléter l’image du Christ."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Non, jamais tout seul,",
+				"Tu restes près de moi.",
+				"Non, jamais tout seul,",
+				"Par ton Esprit en moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Non, jamais tout seul,",
+				"Ta force agit en moi.",
+				"Non, jamais tout seul,",
+				"Par ton Esprit en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/jamaisseul",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

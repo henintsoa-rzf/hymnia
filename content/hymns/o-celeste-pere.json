@@ -1,0 +1,103 @@
+{
+	"id": "o-celeste-pere",
+	"title": "Ô céleste Père",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "9"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô céleste Père,",
+				"Que ton nom soit honoré.",
+				"Qu'au ciel et sur terre",
+				"Soit faite ta volonté."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Apprends-nous comment prier",
+				"Selon ta volonté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ton règne vienne !",
+				"Que ton règne vienne !",
+				"Que ton règne vienne !",
+				"Que ton règne vienne !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Père, plein de grâce,",
+				"Donne le pain de ce jour.",
+				"Nos offenses efface ;",
+				"Pardonnons en retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ô tout-puissant Père,",
+				"Garde-nous d’être tentés",
+				"Et du mal protège,",
+				"Libère tes rachetés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ô céleste Père,",
+				"Que ton nom soit honoré.",
+				"Qu'au ciel et sur terre",
+				"Soit faite ta volonté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jean-Marc Boggetto",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/celestepere",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

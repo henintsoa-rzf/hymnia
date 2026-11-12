@@ -1,0 +1,105 @@
+{
+	"id": "unique-sublime",
+	"title": "Unique, sublime",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1034"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta louange dépasse les barrières,",
+				"Ta louange traverse les frontières.",
+				"Ta louange relève les nations,",
+				"Les générations proclament ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Unique, sublime, majestueux, grandiose.",
+				"Tu es, Seigneur, majestueux, grandiose."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton épouse entonne un chant d'amour,",
+				"C'est un air de fête pour son époux.",
+				"Un refrain si plein d'admiration",
+				"Qui s'élève pour lui avec passion."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Unique, sublime, majestueux, grandiose.",
+				"Tu es, Seigneur, majestueux, grandiose."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tous les anges du ciel, unis, t'adorent",
+				"En se prosternant devant ta face.",
+				"Cette adoration descend sur terre",
+				"En écho les peuples chantent ta gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Unique, sublime, majestueux, grandiose.",
+				"Tu es, Seigneur, majestueux, grandiose."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Roi des cieux, Dieu puissant,",
+				"Roi de gloire, Dieu vivant,",
+				"Toi, l'alpha, l'omega,",
+				"L'infini, l'Éternel.",
+				"Roi des cieux, Dieu puissant,",
+				"Roi de gloire, Dieu vivant,",
+				"Toi, l'alpha, l'omega,",
+				"L'infini, l'Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Unique, sublime, majestueux, grandiose.",
+				"Tu es, Seigneur, majestueux, grandiose."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Siméon et Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Siméon et Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1034",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

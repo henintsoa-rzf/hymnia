@@ -1,0 +1,97 @@
+{
+	"id": "christ-nous-precedant",
+	"title": "Christ nous précédant",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "330"
+		},
+		{
+			"hymnal": "adf",
+			"number": "337"
+		},
+		{
+			"hymnal": "jem",
+			"number": "150"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ nous précédant,",
+				"Marchons en avant,",
+				"Sur le chemin de la vie,",
+				"Sa voix sainte nous convie",
+				"À le suivre enfin",
+				"Au séjour divin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Luttes et labeurs,",
+				"Périls ou douleurs,",
+				"Pourront traverser ma route ;",
+				"Mais je veux, quoiqu'il en coûte,",
+				"Porter ferme et haut,",
+				"Ton divin drapeau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le bonheur s'enfuit,",
+				"Le deuil me poursuit,",
+				"Il me faut souffrir moi-même,",
+				"Ou pleurer pour ceux que j'aime ;",
+				"Mais j'ai dans mon cœur",
+				"Un consolateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Fort de ton secours,",
+				"J'avance toujours.",
+				"Soutiens mon faible courage,",
+				"Achève en moi ton ouvrage,",
+				"Et, que par la foi,",
+				"Je sois tout à toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Alfred Kuen",
+			"role": "music"
+		},
+		{
+			"name": "Léon Paul",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg330",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af337",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem150",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

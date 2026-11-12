@@ -1,0 +1,61 @@
+{
+	"id": "viens-ne-tarde-plus",
+	"title": "Viens, ne tarde plus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "720"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens, ne tarde plus, adore.",
+				"Viens, ne tarde plus, donne ton cœur.",
+				"Viens tel que tu es, adore.",
+				"Viens tel que tu es devant ton Dieu.",
+				"Viens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un jour, toute langue dira: « tu es Dieu. »",
+				"Un jour, tout genou fléchira.",
+				"Mais le vrai trésor est pour ceux",
+				"Qui t'ont choisi dès aujourd'hui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens, ne tarde plus, adore.",
+				"Viens, ne tarde plus, donne ton cœur.",
+				"Viens tel que tu es, adore.",
+				"Viens tel que tu es devant ton Dieu.",
+				"Viens."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brian Doerksen",
+			"role": "music"
+		},
+		{
+			"name": "Brian Doerksen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem720",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

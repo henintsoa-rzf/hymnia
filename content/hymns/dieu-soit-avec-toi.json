@@ -1,0 +1,120 @@
+{
+	"id": "dieu-soit-avec-toi",
+	"title": "Dieu soit avec toi.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "456"
+		},
+		{
+			"hymnal": "cd",
+			"number": "367"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu soit avec toi jusqu'au revoir !",
+				"Ame fidèle et soumise,",
+				"Qu'Il te garde et te conduise",
+				"Jusqu'au grand repos du soir !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au revoir, au revoir !",
+				"Dieu t'accompagne jusqu'au soir !",
+				"Au revoir, au revoir !",
+				"Dieu soit avec toi jusqu'au revoir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu soit avec toi jusqu'au revoir !",
+				"Abrite-toi sous son aile ;",
+				"Qu'en ton cœur Il renouvelle",
+				"La foi, l'amour et l'espoir !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au revoir, au revoir !",
+				"Dieu t'accompagne jusqu'au soir !",
+				"Au revoir, au revoir !",
+				"Dieu soit avec toi jusqu'au revoir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu soit avec toi jusqu'au revoir !",
+				"Si des périls te menacent,",
+				"Ses bras éternels t'enlacent.",
+				"Contre eux, qui peut prévaloir ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au revoir, au revoir !",
+				"Dieu t'accompagne jusqu'au soir !",
+				"Au revoir, au revoir !",
+				"Dieu soit avec toi jusqu'au revoir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu soit avec toi jusqu'au revoir !",
+				"Bientôt Jésus va paraître :",
+				"Dans sa gloire, notre Maître",
+				"Bientôt va nous recevoir !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Au revoir, au revoir !",
+				"Dieu t'accompagne jusqu'au soir !",
+				"Au revoir, au revoir !",
+				"Dieu soit avec toi jusqu'au revoir !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Gould Tomer",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af456",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1162",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

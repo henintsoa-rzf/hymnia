@@ -1,0 +1,48 @@
+{
+	"id": "dieu-aie-pitie-de-nous",
+	"title": "Dieu aie pitié de nous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "397"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, aie pitié de nous,",
+				"Viens guérir le pays.",
+				"Purifies-nous, restaure-nous.",
+				"Nous nous courbons,",
+				"Nous invoquons ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Seigneur, aie pitié de nous,",
+				"Seigneur, aie pitié de nous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem397",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

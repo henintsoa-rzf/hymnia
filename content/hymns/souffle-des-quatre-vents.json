@@ -1,0 +1,102 @@
+{
+	"id": "souffle-des-quatre-vents",
+	"title": "Souffle des quatre vents",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "550"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme Ezéchiel dans la vallée",
+				"Des ossements desséchés,",
+				"Je répandrai mon Esprit saint",
+				"Sur ce pays que je veux bénir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens, Esprit de Dieu,",
+				"souffle des quatre vents,",
+				"Viens, Esprit de Dieu, éveille nos âmes.",
+				"Je mets mon esprit en vous aujourd'hui.",
+				"Je vous établis dans ce pays.",
+				"Nous sommes vainqueurs",
+				"sur le destructeur",
+				"Par le nom puissant de Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que tous les dons, la guérison,",
+				"Soient le sujet de ma gloire,",
+				"Que la paix, l'amour, l'humilité,",
+				"Soient un reflet de ma royauté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens, Esprit de Dieu,",
+				"souffle des quatre vents,",
+				"Viens, Esprit de Dieu, éveille nos âmes.",
+				"Je mets mon esprit en vous aujourd'hui.",
+				"Je vous établis dans ce pays.",
+				"Nous sommes vainqueurs",
+				"sur le destructeur",
+				"Par le nom puissant de Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je vous envoie dans la moisson,",
+				"Levez les yeux, regardez les champs ;",
+				"Et à l'église, j'ajouterai chaque jour",
+				"Des âmes sauvées par la foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens, Esprit de Dieu,",
+				"souffle des quatre vents,",
+				"Viens, Esprit de Dieu, éveille nos âmes.",
+				"Je mets mon esprit en vous aujourd'hui.",
+				"Je vous établis dans ce pays.",
+				"Nous sommes vainqueurs",
+				"sur le destructeur",
+				"Par le nom puissant de Jésus-Christ,",
+				"Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Étienne Rochat",
+			"role": "music"
+		},
+		{
+			"name": "Étienne Rochat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem550",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

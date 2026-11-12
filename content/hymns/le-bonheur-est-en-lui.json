@@ -1,0 +1,63 @@
+{
+	"id": "le-bonheur-est-en-lui",
+	"title": "Le bonheur est en lui",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "137"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le bonheur est de croire en Jésus,",
+				"Et de se savoir un des élus,",
+				"De posséder dans la vie un but.",
+				"Le bonheur est en lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le bonheur est de le connaître",
+				"Et de bien vouloir se soumettre",
+				"À Jésus notre divin maître.",
+				"Le bonheur est en lui.",
+				"Sa paix, sa joie sont à moi dès aujourd’hui,",
+				"Car en lui je crois et le prends pour mon appui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le bonheur est d’être pardonné",
+				"Et du péché toujours m’éloigner",
+				"De pouvoir lui offrir ma journée.",
+				"Le bonheur est en lui.",
+				"Le bonheur est en lui.",
+				"Le bonheur est en lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "I. Stanphill",
+			"role": "unspecified"
+		},
+		{
+			"name": "Marianne Petit-Clerc",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/972",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

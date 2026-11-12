@@ -1,0 +1,71 @@
+{
+	"id": "nous-venons-devant-le-seigneur-glorieux",
+	"title": "Nous venons devant le Seigneur glorieux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "321"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous venons devant le Seigneur glorieux",
+				"Célébrer la joie d'un ton victorieux,",
+				"Car il vient nous délivrer de l'ennemi",
+				"Et nous marchons avec lui ;",
+				"Il est le libérateur !",
+				"Nous venons devant le Seigneur glorieux",
+				"Célébrer la joie d'un ton victorieux,",
+				"Car il vient nous délivrer de l'ennemi",
+				"Et nous marchons avec lui ;",
+				"Il est le libérateur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous tenons fermement",
+				"L'épée à deux tranchants",
+				"Et combattons dans l'armée",
+				"Du Dieu tout-puissant,",
+				"Nous prenons possession",
+				"De notre Canaan,",
+				"Et voulons voir le Seigneur",
+				"Etablir ses plans."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous venons devant le Seigneur glorieux",
+				"Célébrer la joie d'un ton victorieux,",
+				"Car il vient nous délivrer de l'ennemi",
+				"Et nous marchons avec lui ;",
+				"Il est le libérateur !",
+				"Il est le libérateur ! Libérateur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dale Garratt",
+			"role": "music"
+		},
+		{
+			"name": "Dale Garratt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem321",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "dieu-createur",
+	"title": "Dieu créateur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "743"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, Créateur de la terre et des cieux,",
+				"Nous contemplons ton ouvrage.",
+				"Tu as voulu que les hommes en tous lieux",
+				"Découvrent ton vrai visage."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi la gloire et la louange,",
+				"À toi le règne et l'autorité.",
+				"La révérence et la puissance,",
+				"L'adoration t'appartiennent à jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu éternel, toi, le tout-suffisant",
+				"Et l'être le plus sensible,",
+				"Tu es parfait et vraiment étonnant ;",
+				"Pour toi, rien n'est impossible."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi la gloire et la louange,",
+				"À toi le règne et l'autorité.",
+				"La révérence et la puissance,",
+				"L'adoration t'appartiennent à jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu souverain, tu n'es jamais lointain,",
+				"Tu connais tous nos besoins,",
+				"Tu as prévu pour chacun un chemin,",
+				"Nos vies sont entre tes mains."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi la gloire et la louange,",
+				"À toi le règne et l'autorité.",
+				"La révérence et la puissance,",
+				"L'adoration t'appartiennent à jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michel Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Michel Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem743",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

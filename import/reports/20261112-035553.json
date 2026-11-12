@@ -1,0 +1,552 @@
+{
+	"runId": "20261112-035553",
+	"startedAt": "2026-11-12T03:55:53.203Z",
+	"finishedAt": "2026-11-12T03:55:53.947Z",
+	"args": {
+		"source": "psalmodie",
+		"hymnals": [
+			"psalmodie"
+		],
+		"offline": true,
+		"dryRun": false
+	},
+	"perSource": {
+		"psalmodie": {
+			"status": "ok",
+			"pages": 98,
+			"failures": 0,
+			"reasons": {}
+		}
+	},
+	"perHymnal": {
+		"psalmodie": {
+			"new": [
+				{
+					"number": "101",
+					"hymnId": "dieu-est-le-printemps-version-courte",
+					"title": "Dieu est le printemps (version courte)"
+				},
+				{
+					"number": "102",
+					"hymnId": "amour-offert",
+					"title": "Amour offert"
+				},
+				{
+					"number": "103",
+					"hymnId": "les-mouettes",
+					"title": "Les mouettes"
+				},
+				{
+					"number": "104",
+					"hymnId": "vie-nouvelle",
+					"title": "Vie nouvelle"
+				},
+				{
+					"number": "105",
+					"hymnId": "parole-de-vie",
+					"title": "Parole de vie"
+				},
+				{
+					"number": "106",
+					"hymnId": "etonnement",
+					"title": "Étonnement"
+				},
+				{
+					"number": "108",
+					"hymnId": "je-suis-le-chemin",
+					"title": "Je suis le chemin"
+				},
+				{
+					"number": "110",
+					"hymnId": "certainement",
+					"title": "Certainement"
+				},
+				{
+					"number": "112",
+					"hymnId": "jesus-le-seul-nom",
+					"title": "Jésus le seul nom"
+				},
+				{
+					"number": "114",
+					"hymnId": "jesus-m-aime-comme-je-suis",
+					"title": "Jésus m’aime comme je suis"
+				},
+				{
+					"number": "115",
+					"hymnId": "un-pas-de-plus",
+					"title": "Un pas de plus"
+				},
+				{
+					"number": "116",
+					"hymnId": "dieu-est-le-printemps",
+					"title": "Dieu est le printemps"
+				},
+				{
+					"number": "119",
+					"hymnId": "s-en-remettre",
+					"title": "S’en remettre"
+				},
+				{
+					"number": "301",
+					"hymnId": "ta-parole-your-word",
+					"title": "Ta Parole (Your Word)"
+				},
+				{
+					"number": "302",
+					"hymnId": "certitudes",
+					"title": "Certitudes"
+				},
+				{
+					"number": "304",
+					"hymnId": "repentance-father-we-have-sinned",
+					"title": "Repentance (Father, We Have Sinned)"
+				},
+				{
+					"number": "305",
+					"hymnId": "c-est-jesus-seul-in-christ-alone",
+					"title": "C’est Jésus seul (In Christ Alone)"
+				},
+				{
+					"number": "306",
+					"hymnId": "vois-ce-matin-see-what-a-morning",
+					"title": "Vois ce matin (See, What A Morning)"
+				},
+				{
+					"number": "307",
+					"hymnId": "nul-ne-vient-au-pere-que-par-lui",
+					"title": "Nul ne vient au Père que par Lui"
+				},
+				{
+					"number": "309",
+					"hymnId": "batir-sur-le-roc",
+					"title": "Bâtir sur le roc"
+				},
+				{
+					"number": "310",
+					"hymnId": "je-t-ouvre-mon-coeur-open-up-my-heart",
+					"title": "Je t’ouvre mon cœur (Open Up My Heart)"
+				},
+				{
+					"number": "311",
+					"hymnId": "quand-vous-m-invoquerez",
+					"title": "Quand vous m’invoquerez"
+				},
+				{
+					"number": "312",
+					"hymnId": "viens-au-secours-de-mon-incredulite",
+					"title": "Viens au secours de mon incrédulité"
+				},
+				{
+					"number": "313",
+					"hymnId": "vivre-a-contre-courant",
+					"title": "Vivre à contre-courant"
+				},
+				{
+					"number": "314",
+					"hymnId": "je-vous-laisse-ma-paix",
+					"title": "Je vous laisse ma paix"
+				},
+				{
+					"number": "315",
+					"hymnId": "quand-je-suis-faible",
+					"title": "Quand je suis faible"
+				},
+				{
+					"number": "316",
+					"hymnId": "m-en-aller-et-etre-avec-christ",
+					"title": "M’en aller et être avec Christ"
+				},
+				{
+					"number": "401",
+					"hymnId": "dieu-existe",
+					"title": "Dieu existe"
+				},
+				{
+					"number": "402",
+					"hymnId": "symbole-des-apotres",
+					"title": "Symbole des apôtres"
+				},
+				{
+					"number": "405",
+					"hymnId": "ton-bien-etre-serait-comme-un-fleuve",
+					"title": "Ton bien-être serait comme un fleuve"
+				},
+				{
+					"number": "406",
+					"hymnId": "croire-en-christ",
+					"title": "Croire en Christ"
+				},
+				{
+					"number": "407",
+					"hymnId": "la-puissance-de-la-croix",
+					"title": "La puissance de la croix"
+				},
+				{
+					"number": "408",
+					"hymnId": "sur-la-croix",
+					"title": "Sur la croix"
+				},
+				{
+					"number": "409",
+					"hymnId": "mon-dieu-m-a-pardonne",
+					"title": "Mon Dieu m’a pardonné"
+				},
+				{
+					"number": "410",
+					"hymnId": "parle-seigneur",
+					"title": "Parle, Seigneur"
+				},
+				{
+					"number": "412",
+					"hymnId": "tes-promesses",
+					"title": "Tes promesses"
+				},
+				{
+					"number": "413",
+					"hymnId": "voyageur",
+					"title": "Voyageur"
+				},
+				{
+					"number": "414",
+					"hymnId": "plus-de-larmes",
+					"title": "Plus de larmes"
+				},
+				{
+					"number": "415",
+					"hymnId": "non-pas-a-nous",
+					"title": "Non, pas à nous"
+				},
+				{
+					"number": "501",
+					"hymnId": "par-la-foi-by-faith",
+					"title": "Par la foi (By Faith)"
+				},
+				{
+					"number": "502",
+					"hymnId": "ouvre-mes-yeux-open-my-eyes",
+					"title": "Ouvre mes yeux (Open My Eyes)"
+				},
+				{
+					"number": "503",
+					"hymnId": "briller",
+					"title": "Briller"
+				},
+				{
+					"number": "504",
+					"hymnId": "un-homme-nouveau",
+					"title": "Un homme nouveau"
+				},
+				{
+					"number": "505",
+					"hymnId": "car-dieu-a-tant-aime-le-monde-for-god-so-loved-the-world",
+					"title": "Car Dieu a tant aimé le monde (For God So Loved The World)"
+				},
+				{
+					"number": "506",
+					"hymnId": "esaie-53",
+					"title": "Esaïe 53"
+				},
+				{
+					"number": "509",
+					"hymnId": "ma-valeur-my-worth-is-not-in-what-i-own",
+					"title": "Ma valeur (My Worth Is Not In What I Own)"
+				},
+				{
+					"number": "510",
+					"hymnId": "rendu-libre-the-day-you-set-me-free",
+					"title": "Rendu libre (The Day You Set Me Free)"
+				},
+				{
+					"number": "511",
+					"hymnId": "ton-amour-your-love",
+					"title": "Ton amour (Your love)"
+				},
+				{
+					"number": "515",
+					"hymnId": "mon-esperance-there-is-a-hope",
+					"title": "Mon espérance (There Is A Hope)"
+				},
+				{
+					"number": "516",
+					"hymnId": "par-ta-grace",
+					"title": "Par ta grâce"
+				},
+				{
+					"number": "601",
+					"hymnId": "car-toi-seul-es-dieu-oh-je-t-adore",
+					"title": "Car toi seul es Dieu (Oh je t’adore)"
+				},
+				{
+					"number": "602",
+					"hymnId": "bien-compter-nos-jours",
+					"title": "Bien compter nos jours"
+				},
+				{
+					"number": "603",
+					"hymnId": "garde-ma-bouche",
+					"title": "Garde ma bouche"
+				},
+				{
+					"number": "605",
+					"hymnId": "christ-est-tout-pour-moi-all-i-have-is-christ",
+					"title": "Christ est tout pour moi (All I Have Is Christ)"
+				},
+				{
+					"number": "607",
+					"hymnId": "jour-du-jugement-day-of-judgement",
+					"title": "Jour du jugement (Day of Judgement)"
+				},
+				{
+					"number": "608",
+					"hymnId": "joie-promise-des-l-origine-joy-has-dawned",
+					"title": "Joie promise dès l’origine (Joy Has Dawned)"
+				},
+				{
+					"number": "609",
+					"hymnId": "plus-grand-que-tout-autre-nom-greater-than-all-other-names",
+					"title": "Plus grand que tout autre nom (Greater Than All Other Names)"
+				},
+				{
+					"number": "610",
+					"hymnId": "jamais-loin-de-moi-never-let-me-go",
+					"title": "Jamais loin de moi (Never Let Me Go)"
+				},
+				{
+					"number": "611",
+					"hymnId": "un-pere-pour-l-orphelin-father-to-the-fatherless",
+					"title": "Un Père pour l’orphelin (Father to the Fatherless)"
+				},
+				{
+					"number": "612",
+					"hymnId": "ta-bonte-there-is-an-everlasting-kindness-the-compassion-hymn",
+					"title": "Ta bonté (There is an Everlasting Kindness – The Compassion Hymn)"
+				},
+				{
+					"number": "613",
+					"hymnId": "benis-dieu-bless-the-lord-1000-reasons",
+					"title": "Bénis Dieu (Bless the Lord – 1000 Reasons)"
+				},
+				{
+					"number": "614",
+					"hymnId": "ne-crains-rien",
+					"title": "Ne crains rien"
+				},
+				{
+					"number": "615",
+					"hymnId": "abondance-de-joie",
+					"title": "Abondance de joie"
+				},
+				{
+					"number": "616",
+					"hymnId": "alleluia-de-noel",
+					"title": "Alléluia de Noël"
+				},
+				{
+					"number": "701",
+					"hymnId": "je-crois-i-believe",
+					"title": "Je crois (I Believe)"
+				},
+				{
+					"number": "703",
+					"hymnId": "sa-grace-est-plus-grande-his-mercy-is-more",
+					"title": "Sa grâce est plus grande (His Mercy Is More)"
+				},
+				{
+					"number": "704",
+					"hymnId": "un-sauveur-nous-est-ne",
+					"title": "Un Sauveur nous est né"
+				},
+				{
+					"number": "705",
+					"hymnId": "par-la-croix",
+					"title": "Par la croix"
+				},
+				{
+					"number": "707",
+					"hymnId": "non-par-moi-mais-par-christ-en-moi-yet-not-i-but-through-christ-in-me",
+					"title": "Non par moi, mais par Christ en moi (Yet Not I But Through Christ In Me)"
+				},
+				{
+					"number": "708",
+					"hymnId": "parce-qu-il-vit-because-he-lives",
+					"title": "Parce qu’il vit (Because He Lives)"
+				},
+				{
+					"number": "709",
+					"hymnId": "un-parfum-de-bonne-odeur",
+					"title": "Un parfum de bonne odeur"
+				},
+				{
+					"number": "710",
+					"hymnId": "je-ne-m-appartiens-plus-i-am-not-my-own",
+					"title": "Je ne m’appartiens plus (I Am Not My Own)"
+				},
+				{
+					"number": "711",
+					"hymnId": "il-me-gardera-he-will-hold-me-fast",
+					"title": "Il me gardera (He Will Hold Me Fast)"
+				},
+				{
+					"number": "712",
+					"hymnId": "confiance-en-toi-trust-in-you",
+					"title": "Confiance en toi (Trust In You)"
+				},
+				{
+					"number": "713",
+					"hymnId": "tiens-moi-mon-sauveur-hold-me-savior",
+					"title": "Tiens-moi, mon Sauveur (Hold Me Savior)"
+				},
+				{
+					"number": "714",
+					"hymnId": "toi-mon-phare-my-lighthouse",
+					"title": "Toi, mon phare (My Lighthouse)"
+				},
+				{
+					"number": "715",
+					"hymnId": "hymne-des-cieux-hymn-of-heaven",
+					"title": "Hymne des cieux (Hymn Of Heaven)"
+				},
+				{
+					"number": "716",
+					"hymnId": "oh-j-aime-tant-le-nom-de-jesus-oh-how-i-love-the-name-of-jesus",
+					"title": "Oh, j’aime tant le nom de Jésus (Oh, How I Love The Name Of Jesus)"
+				}
+			],
+			"changed": [],
+			"unchanged": [],
+			"skipped": [],
+			"missing": [],
+			"possibleDuplicates": [],
+			"autoMerged": [
+				{
+					"number": "107",
+					"hymnId": "car-dieu-a-tant-aime-le-monde",
+					"title": "Car Dieu a tant aimé le monde"
+				},
+				{
+					"number": "109",
+					"hymnId": "au-calvaire",
+					"title": "Au Calvaire"
+				},
+				{
+					"number": "111",
+					"hymnId": "comme-un-agneau",
+					"title": "Comme un Agneau"
+				},
+				{
+					"number": "113",
+					"hymnId": "tel-que-je-suis-sans-rien-a-moi",
+					"title": "Tel que je suis"
+				},
+				{
+					"number": "117",
+					"hymnId": "digne-o-digne",
+					"title": "Digne"
+				},
+				{
+					"number": "118",
+					"hymnId": "dieu-tu-es-grand",
+					"title": "Dieu tu es grand"
+				},
+				{
+					"number": "303",
+					"hymnId": "nous-croyons",
+					"title": "Nous croyons (We Believe)"
+				},
+				{
+					"number": "308",
+					"hymnId": "c-est-par-la-grace",
+					"title": "C’est par la grâce que nous venons (Only By Grace)"
+				},
+				{
+					"number": "403",
+					"hymnId": "quand-je-regarde",
+					"title": "Quand je regarde"
+				},
+				{
+					"number": "404",
+					"hymnId": "au-dessus-de-tout-jem-728",
+					"title": "Au-dessus de tout"
+				},
+				{
+					"number": "411",
+					"hymnId": "mon-ancre-et-ma-voile",
+					"title": "Mon ancre et ma voile"
+				},
+				{
+					"number": "507",
+					"hymnId": "homme-de-douleur",
+					"title": "Homme de douleur"
+				},
+				{
+					"number": "508",
+					"hymnId": "jesus-est-le-chemin",
+					"title": "Jésus est le chemin"
+				},
+				{
+					"number": "512",
+					"hymnId": "majeste-jem-871",
+					"title": "Majesté (Majesty)"
+				},
+				{
+					"number": "513",
+					"hymnId": "yahwe",
+					"title": "Yahwé"
+				},
+				{
+					"number": "514",
+					"hymnId": "une-seule-eglise",
+					"title": "Une seule Église"
+				},
+				{
+					"number": "604",
+					"hymnId": "oui-je-crois",
+					"title": "Oui je crois (This I Believe)"
+				},
+				{
+					"number": "606",
+					"hymnId": "vase-d-argile",
+					"title": "Vase d’argile (Broken Vessels)"
+				},
+				{
+					"number": "702",
+					"hymnId": "tout-puissant",
+					"title": "Tout-Puissant"
+				},
+				{
+					"number": "706",
+					"hymnId": "ton-sang-parle-beaucoup-mieux",
+					"title": "Ton sang parle beaucoup mieux (Nothing But The Blood)"
+				}
+			],
+			"conflicts": [],
+			"noCredits": [],
+			"rightsInherited": [],
+			"unknownCredits": [
+				{
+					"number": "304",
+					"labels": [
+						"Adaptation française et strophes supplémentaires : Marc Varidel"
+					]
+				},
+				{
+					"number": "603",
+					"labels": [
+						"(d’après Psaumes 141:3 et plusieurs passages du livre des Proverbes)"
+					]
+				}
+			],
+			"strippedMarkup": {
+				"section-label": 74,
+				"verse-number": 152,
+				"repeat-marker": 36
+			}
+		}
+	},
+	"rights": {
+		"psalmodie": {
+			"published": 0,
+			"unpublished": 98
+		}
+	}
+}

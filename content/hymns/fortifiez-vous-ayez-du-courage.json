@@ -1,0 +1,41 @@
+{
+	"id": "fortifiez-vous-ayez-du-courage",
+	"title": "Fortifiez-vous, ayez du courage",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "20"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Fortifiez-vous, ayez du courage !",
+				"Ne craignez point, ne soyez point effrayés ;",
+				"Car l'Éternel, ton Dieu,",
+				"Marchera lui-même avec toi,",
+				"Il ne te délaissera point,",
+				"Il ne t'abandonnera point."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem020",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

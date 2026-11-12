@@ -1,0 +1,73 @@
+{
+	"id": "o-seigneur-eternel",
+	"title": "O Seigneur Éternel",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "392"
+		},
+		{
+			"hymnal": "adf",
+			"number": "391"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Seigneur Éternel ! une nouvelle année",
+				"Par ta grande bonté nous est encor donnée :",
+				"Ah ! donne-nous aussi d'y vivre par la foi,",
+				"Et de la consacrer uniquement à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que ce soit pour nous tous",
+				"l'an de la bienveillance,",
+				"Que ce soit l'an de grâce et de la délivrance !",
+				"Que notre âme, docile à ta puissante voix,",
+				"Jésus, trouve la paix à l'ombre de ta croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nos jours sont en tes mains,",
+				"notre course est bornée,",
+				"Et plusieurs sont entrés",
+				"dans leur dernière année :",
+				"Veillons donc et s'il faut bientôt quitter ces lieux,",
+				"Nous savons que là-haut nous attend notre Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean Crüger",
+			"role": "music"
+		},
+		{
+			"name": "Charles-François Recordon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg392",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af391",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"id": "magnifie-son-nom",
+	"title": "Magnifie son nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "684"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! magnifie son nom, mon âme,",
+				"Oh ! magnifie son nom,",
+				"Oh ! magnifie son nom, mon âme,",
+				"Oh ! magnifie son nom,",
+				"Il est ta paix, ta joie, ta flamme.",
+				"Oh ! magnifie son nom, mon âme,",
+				"Oh ! magnifie son nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lève-toi de ta torpeur,",
+				"Ouvre les yeux du cœur.",
+				"Il est là, ton Sauveur, ton Roi,",
+				"Il a fait le premier pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! magnifie son nom, mon âme,",
+				"Oh ! magnifie son nom,",
+				"Oh ! magnifie son nom, mon âme,",
+				"Oh ! magnifie son nom,",
+				"Il est ta paix, ta joie, ta flamme.",
+				"Oh ! magnifie son nom, mon âme,",
+				"Oh ! magnifie son nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans le ciel, des milliers d'anges",
+				"Glorifient Dieu en chantant.",
+				"Oh ! ne retiens pas ta louange,",
+				"Laisse venir les sentiments.",
+				"Oh ! woh-oh !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! magnifie son nom, mon âme,",
+				"Oh ! magnifie son nom,",
+				"Oh ! magnifie son nom, mon âme,",
+				"Oh ! magnifie son nom,",
+				"Il est ta paix, ta joie, ta flamme.",
+				"Oh ! magnifie son nom, mon âme,",
+				"Oh ! magnifie son nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc Mayor",
+			"role": "music"
+		},
+		{
+			"name": "Luc Mayor",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem684",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

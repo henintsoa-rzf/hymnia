@@ -1,0 +1,79 @@
+{
+	"id": "nous-chanterons-pour-toi-seigneur",
+	"title": "Nous chanterons pour toi, Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "180"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous chanterons pour toi Seigneur,",
+				"Tu nous a fait revivre,",
+				"Que ta parole dans nos cœurs",
+				"À jamais nous délivre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu viens, Seigneur, pour rassembler",
+				"Les hommes que tu aimes ;",
+				"Sur les chemins de l'unité",
+				"Ton amour les ramène."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ton cœur nous ouvre le festin",
+				"Des noces éternelles,",
+				"Et nous allons par les chemins",
+				"Annoncer la nouvelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le monde attend de nous, Seigneur,",
+				"Un signe de ta gloire,",
+				"Que l'Esprit vienne dans nos cœurs",
+				"Achever ta victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Gloire éternelle au Dieu vainqueur,",
+				"Au maître de l'histoire,",
+				"Que l'Esprit chante dans nos cœurs",
+				"Sa louange de gloire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie du XVIe siècle",
+			"role": "music"
+		},
+		{
+			"name": "Daniel Hameline",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem180",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

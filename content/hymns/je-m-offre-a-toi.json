@@ -1,0 +1,59 @@
+{
+	"id": "je-m-offre-a-toi",
+	"title": "Je m'offre à toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "676"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est parce que je t'aime",
+				"Que je m'offre à toi,",
+				"Que ton amour m'entraîne",
+				"À vivre au plus près de toi.",
+				"Que ta voix me surprenne",
+				"Et qu'elle conduise mes pas.",
+				"Qu'à chaque instant,",
+				"J'apprenne à être semblable à toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux marcher comme toi,",
+				"Je veux parler comme toi,",
+				"Je veux penser comme toi,",
+				"Je veux aimer comme toi,",
+				"Toujours vivre comme toi.",
+				"Je veux marcher comme toi,",
+				"Je veux parler comme toi,",
+				"Je veux penser comme toi,",
+				"Je veux aimer comme toi,",
+				"Toujours vivre comme toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Kiener",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Kiener",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem676",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

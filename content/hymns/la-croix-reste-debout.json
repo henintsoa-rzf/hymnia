@@ -1,0 +1,121 @@
+{
+	"id": "la-croix-reste-debout",
+	"title": "La croix reste debout",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "368"
+		},
+		{
+			"hymnal": "adf",
+			"number": "71"
+		},
+		{
+			"hymnal": "cd",
+			"number": "56"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La croix reste debout,",
+				"Alléluia ! Alléluia !",
+				"Elle domine tout,",
+				"Alléluia ! Alléluia !",
+				"C'est en vain que la haine",
+				"Contre elle se déchaîne :",
+				"Lumineuse et sereine,",
+				"La croix reste debout !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia !",
+				"Au plus fort des combats,",
+				"Alléluia ! Alléluia !",
+				"La croix ne recule pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur elle en Golgotha,",
+				"Alléluia ! Alléluia !",
+				"Le Fils de Dieu monta.",
+				"Alléluia ! Alléluia !",
+				"Amour incomparable !",
+				"Ce Sauveur adorable,",
+				"Pour l'homme misérable,",
+				"Mourut en Golgotha."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia !",
+				"Au plus fort des combats,",
+				"Alléluia ! Alléluia !",
+				"La croix ne recule pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Soldats du Roi des rois,",
+				"Alléluia ! Alléluia !",
+				"Portons partout sa croix !",
+				"Alléluia ! Alléluia !",
+				"Car tous ceux qu'il délivre",
+				"Sous la croix doivent vivre,",
+				"Sur la croix doivent suivre",
+				"Jésus, le Roi des rois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia !",
+				"Au plus fort des combats,",
+				"Alléluia ! Alléluia !",
+				"La croix ne recule pas !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James McGranahan",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg368",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af071",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/864",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

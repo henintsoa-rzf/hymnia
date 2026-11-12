@@ -1,0 +1,54 @@
+{
+	"id": "chant-d-amour-a-jesus",
+	"title": "Chant d'amour à Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "191"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, Jésus,",
+				"Nous t'aimons de tout notre cœur,",
+				"T'aimons, Seigneur, de tout notre cœur.",
+				"Père, notre Dieu,",
+				"Nous t'aimons de tout notre cœur.",
+				"Esprit Saint, Esprit de vérité,",
+				"Tu nous consoles,",
+				"Nous t'aimons de tout notre cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, Jésus, nous t'aimons, Seigneur,",
+				"Reçois notre amour ;",
+				"Tu t'es donné pour nous et nous t'aimons,",
+				"Nous t'aimons, nous t'aimons toi, Seigneur !",
+				"Nous t'aimons, nous t'aimons, Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marion Warrington",
+			"role": "music"
+		},
+		{
+			"name": "Marion Warrington",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem191",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

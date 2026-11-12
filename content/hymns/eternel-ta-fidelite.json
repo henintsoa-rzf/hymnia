@@ -1,0 +1,83 @@
+{
+	"id": "eternel-ta-fidelite",
+	"title": "Éternel, ta fidélité.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "26"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Éternel, ta fidélité",
+				"Va jusqu'aux cieux, et ta bonté",
+				"Dépasse toute cime,",
+				"Ta justice est pareille aux monts,",
+				"Et tes jugements sont profonds",
+				"Comme le grand abîme.",
+				"À tous les êtres tu fais voir",
+				"Et ta clémence et ton pouvoir",
+				"La moindre créature",
+				"Aussi bien que le genre humain,",
+				"Vit sous tes yeux et de ta main",
+				"Reçoit sa nourriture."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O Seigneur, qu'il sont précieux",
+				"Les biens que tu répands des cieux",
+				"Sur les âmes fidèles !",
+				"Les fils de l'homme, en leur effroi,",
+				"Ont un refuge auprès de toi,",
+				"À l'ombre de tes ailes.",
+				"Ils trouvent en toute saison,",
+				"Leur nourriture en ta maison ;",
+				"Ta grâce les abreuve ;",
+				"Et dans leur cœur, de jour en jour,",
+				"Les délices de ton amour",
+				"S'épanchent comme un fleuve."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! Répands sur nous ta faveur !",
+				"En toi seul se trouve, Seigneur,",
+				"La source de la vie.",
+				"Tu dissipes l'obscurité :",
+				"Sans ta lumière, la clarté",
+				"À notre âme est ravie.",
+				"Donne ta force aux hommes droits",
+				"Qui, connaissant tes saintes lois,",
+				"Marchent devant ta face ;",
+				"Et que, malgré tes ennemis,",
+				"Par ton peuple heureux et soumis",
+				"Ta volonté se fasse !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matthias Greiter",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af026",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

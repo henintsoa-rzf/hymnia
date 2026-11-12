@@ -1,0 +1,69 @@
+{
+	"id": "l-esprit-du-seigneur",
+	"title": "L'Esprit du Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "449"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Esprit du Seigneur est sur nous.",
+				"Notre combat est le combat de Dieu.",
+				"Il est au milieu de nous, en nous, pour nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors, que le plus petit dise:",
+				"Aujourd'hui je suis fort en lui,",
+				"Et que le plus faible aussi dise:",
+				"Je puis tout car il me fortifie,",
+				"Je puis tout car il me fortifie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur nos fronts, un nom glorieux,",
+				"À nos côtés, une puissante armée",
+				"Nous donnent de triompher en lui, pour lui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors, que le plus petit dise:",
+				"Aujourd'hui je suis fort en lui,",
+				"Et que le plus faible aussi dise:",
+				"Je puis tout car il me fortifie,",
+				"Je puis tout car il me fortifie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mady Ramos",
+			"role": "music"
+		},
+		{
+			"name": "Mady Ramos",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem449",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

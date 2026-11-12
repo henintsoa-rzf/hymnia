@@ -1,0 +1,56 @@
+{
+	"id": "o-j-ai-besoin-de-toi",
+	"title": "O j'ai besoin de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "349"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O j'ai besoin de toi,",
+				"J'ai besoin de ta voix",
+				"Qui vient me dire tout bas:",
+				"Oui je suis là.",
+				"Viens te poser sur moi,",
+				"Viens me parler du Roi,",
+				"Colombe de l'Esprit remplis ma vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh, parle-moi du ciel,",
+				"Toi qui es éternel,",
+				"Révèle-moi ton trône",
+				"Dans le royaume.",
+				"Apprends-moi à t'aimer",
+				"Te louer, t'adorer.",
+				"Viens vivre près de moi",
+				"Jésus mon Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Andrae Crouch",
+			"role": "music"
+		},
+		{
+			"name": "Andrae Crouch",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem349",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

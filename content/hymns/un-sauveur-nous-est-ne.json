@@ -1,0 +1,114 @@
+{
+	"id": "un-sauveur-nous-est-ne",
+	"title": "Un Sauveur nous est né",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "704"
+		},
+		{
+			"hymnal": "ecriture",
+			"number": "16"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô peuple dans les ténèbres,",
+				"Qui erre, aveugle et confus,",
+				"Sur toi le soleil se lève :",
+				"Ton Dieu est descendu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L’Éternel voit ta détresse,",
+				"Le joug pesant du péché.",
+				"Fidèle, il tient sa promesse :",
+				"Ton fardeau est brisé."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Car l’aube de l’espérance",
+				"A percé l’obscurité !",
+				"Chantons notre délivrance :",
+				"Un Sauveur nous est né."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu dans les lieux très hauts,",
+				"Paix envers ses bien-aimés !",
+				"Que, joyeux, résonne l’écho :",
+				"Un Sauveur nous est né !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il dissipe la tristesse ;",
+				"Contemple l’enfant divin !",
+				"Avec justice et sagesse,",
+				"Il régnera sans fin."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-4",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Écritures — ecrituremusique.com",
+			"url": "https://www.ecrituremusique.com/unsauveurnousestne",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

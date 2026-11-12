@@ -1,0 +1,82 @@
+{
+	"id": "jesus-sort-de-la-tombe",
+	"title": "Jésus sort de la tombe",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "135"
+		},
+		{
+			"hymnal": "adf",
+			"number": "125"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus sort de la tombe,",
+				"Il vit, Il est vainqueur !",
+				"Déjà la mort succombe",
+				"Devant le Rédempteur.",
+				"Chrétiens, chantons sa gloire,",
+				"Célébrons sa grandeur :",
+				"Où donc est ta victoire,",
+				"Sépulcre destructeur ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pourrais-je craindre encore",
+				"Le sommeil du tombeau ?",
+				"Le trépas est l'aurore",
+				"D'un jour pur et nouveau.",
+				"En Jésus j'ai le gage",
+				"De ma félicité,",
+				"Et j'aurai pour partage",
+				"Son immortalité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que la ferme espérance",
+				"D'un éternel bonheur",
+				"Apaise ma souffrance",
+				"Et console mon cœur.",
+				"Que dans ma dernière heure",
+				"Jésus sois mon appui !",
+				"Qu'en son amour je meure,",
+				"Pour régner avec lui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Melchior Teschner",
+			"role": "music"
+		},
+		{
+			"name": "Théodolph d'Orléans",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg135",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af125",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

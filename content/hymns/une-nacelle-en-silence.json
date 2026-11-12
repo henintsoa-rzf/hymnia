@@ -1,0 +1,93 @@
+{
+	"id": "une-nacelle-en-silence",
+	"title": "Une nacelle en silence.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "385"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Une nacelle en silence",
+				"Vogue sur un lac d'azur ;",
+				"Tout doucement elle avance,",
+				"Sous un ciel tranquille et pur ;",
+				"Mais soudain le vent s'élève,",
+				"Chassant un nuage noir,",
+				"Et les vagues qu'il soulève",
+				"Font trembler, car c'est le soir.",
+				"Et les vagues qu'il soulève",
+				"Font trembler, car c'est le soir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Grande est alors la détresse",
+				"Des voyageurs éperdus ;",
+				"Grande est aussi leur faiblesse,",
+				"Leur foi ne les soutient plus.",
+				"Mais il en est Un qui veille",
+				"Sur eux tous, bien qu'endormi ;",
+				"Ah ! faudra-t-il qu'on l'éveille ?",
+				"N'est-il plus leur tendre Ami ?",
+				"Ah ! faudra-t-il qu'on l'éveille ?",
+				"N'est-il plus leur tendre Ami ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"« Maître, es-tu donc insensible ?",
+				"Tu le vois, nous périssons !",
+				"Tout miracle t'est possible,",
+				"Sauve-nous, nous t'en prions ! »",
+				"D'eux aussitôt il s'approche,",
+				"Puis, il dit au vent : « Tais-toi ! »",
+				"Et tendrement leur reproche",
+				"D'avoir eu si peu de foi.",
+				"Et tendrement leur reproche",
+				"D'avoir eu si peu de foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ainsi souvent, dans la vie,",
+				"L'orage assombrit nos cœurs,",
+				"Bien que pour nous Jésus prie,",
+				"Prêt à calmer nos terreurs.",
+				"Comptons mieux sur sa tendresse,",
+				"Son cœur ne saurait changer :",
+				"De sa brebis en détresse",
+				"Il est toujours le Berger.",
+				"De sa brebis en détresse",
+				"Il est toujours le Berger."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Willliam Batchelder Bradbury",
+			"role": "music"
+		},
+		{
+			"name": "Mme Mégroz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af385",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

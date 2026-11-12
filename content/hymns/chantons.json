@@ -1,0 +1,97 @@
+{
+	"id": "chantons",
+	"title": "Chantons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "608"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantons, car Dieu est là,",
+				"Poussons des cris de joie,",
+				"Dressons-lui un trône de reconnaissance,",
+				"Un palais de louange.",
+				"Chantons le Roi des rois,",
+				"Son amour durera.",
+				"Et quand on le loue,",
+				"Sa gloire descend sur nous,",
+				"Dans son temple, ici-bas.",
+				"Chantons car Dieu est là."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus demeure au milieu de son peuple",
+				"Quand il vient le louer.",
+				"Jésus demeure au milieu de son peuple",
+				"Quand il vient l'adorer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantons, car Dieu est là,",
+				"Poussons des cris de joie,",
+				"Dressons-lui un trône de reconnaissance,",
+				"Un palais de louange.",
+				"Chantons le Roi des rois,",
+				"Son amour durera.",
+				"Et quand on le loue,",
+				"Sa gloire descend sur nous,",
+				"Dans son temple, ici-bas.",
+				"Chantons car Dieu est là."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous sommes tous assemblés",
+				"Pour l'adorer avec nos instruments.",
+				"Joyeux de ce que Dieu nous a sauvés,",
+				"Faisons monter nos chants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantons, car Dieu est là,",
+				"Poussons des cris de joie,",
+				"Dressons-lui un trône de reconnaissance,",
+				"Un palais de louange.",
+				"Chantons le Roi des rois,",
+				"Son amour durera.",
+				"Et quand on le loue,",
+				"Sa gloire descend sur nous,",
+				"Dans son temple, ici-bas.",
+				"Chantons car Dieu est là."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ed Kerr ; Paul Baloche",
+			"role": "music"
+		},
+		{
+			"name": "Ed ; Baloche, Paul Kerr",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem608",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

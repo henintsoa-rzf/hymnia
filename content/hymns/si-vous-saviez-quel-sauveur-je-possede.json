@@ -1,0 +1,129 @@
+{
+	"id": "si-vous-saviez-quel-sauveur-je-possede",
+	"title": "Si vous saviez quel Sauveur je possède",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "225"
+		},
+		{
+			"hymnal": "adf",
+			"number": "247"
+		},
+		{
+			"hymnal": "cd",
+			"number": "166"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si vous saviez quel Sauveur je possède !",
+				"Il est l'ami le plus tendre de tous ;",
+				"Pour moi devant le Père Il intercède :",
+				"Oh ! je voudrais qu'il fût aussi pour vous !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Sauveur vous aime ;",
+				"Ah ! cherchez en lui",
+				"Votre Ami suprême,",
+				"Votre seul appui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si vous saviez la paix douce et profonde",
+				"Que le Sauveur en mon âme apporta !",
+				"Pour cette paix, que peut donner le monde ?",
+				"Elle jaillit pour vous de Golgotha."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Sauveur vous aime ;",
+				"Ah ! cherchez en lui",
+				"Votre Ami suprême,",
+				"Votre seul appui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si vous saviez quelle douce espérance",
+				"Le Dieu de paix fait rayonner des cieux !",
+				"Combien sa voix sait calmer la souffrance",
+				"Et son regard rendre le cœur joyeux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Sauveur vous aime ;",
+				"Ah ! cherchez en lui",
+				"Votre Ami suprême,",
+				"Votre seul appui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand vous saurez combien Jésus vous aime,",
+				"Quand vous saurez combien son joug est doux,",
+				"Ne gardez pas ce trésor pour vous-même,",
+				"Mais avec moi dites autour de vous :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Sauveur vous aime ;",
+				"Ah ! cherchez en lui",
+				"Votre Ami suprême,",
+				"Votre seul appui !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg225",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af247",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/999",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

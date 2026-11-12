@@ -1,0 +1,88 @@
+{
+	"id": "saint-saint-saint-est-l-eternel",
+	"title": "Saint, saint, saint est l'Éternel",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "43"
+		},
+		{
+			"hymnal": "adf",
+			"number": "50"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Saint, saint, saint est l'Éternel,",
+				"Le Seigneur, Dieu des armées !",
+				"Son pouvoir est immortel ;",
+				"Ses œuvres, partout semées,",
+				"Font éclater sa grandeur,",
+				"Sa majesté, sa splendeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les saints et les bienheureux,",
+				"Les trônes et les puissances,",
+				"Tous les anges dans les cieux",
+				"Disent ses magnificences,",
+				"Proclamant dans leurs concerts",
+				"Le grand Dieu de l'univers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L'illustre et glorieux chœur",
+				"Des apôtres, des prophètes,",
+				"Célèbre le Dieu Sauveur",
+				"Dont ils sont les interprètes ;",
+				"Tous les martyrs couronnés",
+				"Chantent ses fidélités."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sauve ton peuple, Seigneur,",
+				"Et bénis ton héritage !",
+				"Que ta gloire et ta splendeur",
+				"Soient à jamais son partage.",
+				"Conduis-le par ton amour",
+				"Jusqu'au céleste séjour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Presbyterian Hymnal",
+			"role": "music"
+		},
+		{
+			"name": "Henri-Louis Empeytaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg043",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af050",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,145 @@
+{
+	"id": "la-lutte-supreme",
+	"title": "La lutte suprême",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "356"
+		},
+		{
+			"hymnal": "adf",
+			"number": "463"
+		},
+		{
+			"hymnal": "cd",
+			"number": "339"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La lutte suprême",
+				"Nous appelle tous,",
+				"Et Jésus lui-même",
+				"Marche devant nous.",
+				"Que sa vue enflamme",
+				"Tous ses combattants,",
+				"Et soutienne l'âme",
+				"Des plus hésitants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du Christ la bannière",
+				"Se déploie au vent,",
+				"Pour la sainte guerre,",
+				"Soldats, en avant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'ennemi redoute",
+				"Le nom seul du Roi ;",
+				"Il fuit en déroute",
+				"Au cri de la foi.",
+				"Acclamons ensemble",
+				"Jésus, d'un seul cœur,",
+				"Et que l'enfer tremble",
+				"À ce nom vainqueur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du Christ la bannière",
+				"Se déploie au vent,",
+				"Pour la sainte guerre,",
+				"Soldats, en avant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En avant, jeunesse !",
+				"Que ta noble ardeur",
+				"Jamais ne connaisse",
+				"Ni honte, ni peur !",
+				"Ton Chef invincible",
+				"Marche devant toi",
+				"Et tout est possible",
+				"Aux hommes de foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du Christ la bannière",
+				"Se déploie au vent,",
+				"Pour la sainte guerre,",
+				"Soldats, en avant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Reçois, Chef suprême,",
+				"Monarque éternel,",
+				"D'un peuple qui t'aime",
+				"Le vœu solennel.",
+				"Gloire, amour, hommage",
+				"Au Ressuscité,",
+				"Qu'il soit d'âge en âge",
+				"Partout exalté !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du Christ la bannière",
+				"Se déploie au vent,",
+				"Pour la sainte guerre,",
+				"Soldats, en avant !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Arthur Sullivan",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg356",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af463",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1138",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,66 @@
+[
+	{
+		"id": "cdl",
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"baseUrl": "https://www.conducteurdelouange.com",
+		"hymnals": [
+			"jem",
+			"adf",
+			"cd"
+		],
+		"minDelayMs": 1000,
+		"terms": {
+			"url": "https://www.conducteurdelouange.com/termes-et-conditions",
+			"summary": "Les droits des recueils appartiennent aux ayants droit ; aucune utilisation publique sans autorisation. Licence personnelle, non commerciale, pour les achats. Permission à demander avant toute publication.",
+			"checkedAt": "2026-11-11"
+		},
+		"permission": "unknown"
+	},
+	{
+		"id": "jemaf",
+		"name": "JEM — jemaf.fr",
+		"baseUrl": "https://jemaf.fr",
+		"hymnals": [
+			"jem",
+			"adf",
+			"atg"
+		],
+		"minDelayMs": 1000,
+		"terms": {
+			"url": "https://jemaf.fr/mentions-legales",
+			"summary": "« Toute reproduction de tout ou partie du site ne peut se faire sans l'autorisation de l'éditeur. » Les paroles appartiennent à leurs auteurs ou éditeurs ; le site les publie avec leur autorisation tacite. Permission à demander (contact@jemaf.fr) avant toute publication.",
+			"checkedAt": "2026-11-11"
+		},
+		"permission": "unknown"
+	},
+	{
+		"id": "psalmodie",
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"baseUrl": "https://psalmodie.ch",
+		"hymnals": [
+			"psalmodie"
+		],
+		"minDelayMs": 10000,
+		"terms": {
+			"url": "https://psalmodie.ch/obtenir-des-partitions/",
+			"summary": "Aucune mention légale ni condition d'utilisation ; la plupart des chants portent un © d'éditeur. La seule phrase sur la réutilisation concerne les partitions (« Nous désirons que les chants que nous diffusons soient utiles à d'autres croyants, églises, chorales. »), ce n'est pas une permission de republier les paroles.",
+			"checkedAt": "2026-11-11"
+		},
+		"permission": "unknown"
+	},
+	{
+		"id": "ecriture",
+		"name": "Écritures — ecrituremusique.com",
+		"baseUrl": "https://www.ecrituremusique.com",
+		"hymnals": [
+			"ecriture"
+		],
+		"minDelayMs": 1000,
+		"terms": {
+			"url": null,
+			"summary": "Aucune mention légale ni condition d'utilisation sur le site ; chaque chant porte « © Écriture Musique ». Aucun droit de réutilisation accordé : permission à demander au groupe (page /contact).",
+			"checkedAt": "2026-11-11"
+		},
+		"permission": "unknown"
+	}
+]

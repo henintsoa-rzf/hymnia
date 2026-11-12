@@ -1,0 +1,54 @@
+{
+	"id": "dieu-ne-nous-a-pas-donne",
+	"title": "Dieu ne nous a pas donné",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "613"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu ne nous a pas donné",
+				"Un esprit de crainte,",
+				"Mais de force, d'amour",
+				"Et de sagesse.",
+				"Dieu ne nous a pas donné",
+				"Un esprit de crainte,",
+				"Mais de force, d'amour",
+				"Et de sagesse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'amour pour nous aimer",
+				"Et la force pour gagner,",
+				"Pour chasser notre ennemi,",
+				"Et la sagesse pour nous maîtriser.",
+				"Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "2 Timothée 1 v 7",
+			"role": "music"
+		},
+		{
+			"name": "Youth Alive",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem613",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

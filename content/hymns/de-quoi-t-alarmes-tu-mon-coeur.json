@@ -1,0 +1,97 @@
+{
+	"id": "de-quoi-t-alarmes-tu-mon-coeur",
+	"title": "De quoi t'alarmes-tu, mon cœur ?",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "335"
+		},
+		{
+			"hymnal": "adf",
+			"number": "403",
+			"title": "De quoi t'alarmes-tu ?"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"De quoi t'alarmes-tu, mon cœur ?",
+				"Ranime ton courage ;",
+				"Souviens-toi de ton Créateur,",
+				"Ta tristesse l'outrage ;",
+				"Oui le Dieu fort",
+				"Règle mon sort ;",
+				"Lui la charité même,",
+				"Il me connaît, il m'aime."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bannis donc, mon cœur, les soucis,",
+				"Car ta douleur t'abuse ;",
+				"Après t'avoir donné son Fils,",
+				"Est-ce que Dieu refuse",
+				"À son enfant",
+				"Le vêtement,",
+				"Le toit, le pain, la vie ?",
+				"Crains-tu qu'il ne t'oublie ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Veux-tu me donner le bonheur ?",
+				"J'en bénis ta tendresse ;",
+				"Faut-il passer par la douleur ?",
+				"J'adore ta sagesse.",
+				"Je sais, je vois",
+				"En qui je crois,",
+				"Ta volonté de Père,",
+				"Me sera toujours chère."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je me jetterai dans tes bras",
+				"Si tu veux que je meure.",
+				"Mon Dieu ! ne m'abandonne pas ;",
+				"Viens à ma dernière heure,",
+				"Viens m'assister,",
+				"Viens transporter",
+				"Mon âme en son asile",
+				"Et je mourrai tranquille."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Séverus Gastorius",
+			"role": "music"
+		},
+		{
+			"name": "Matthias Engel",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg335",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af403",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

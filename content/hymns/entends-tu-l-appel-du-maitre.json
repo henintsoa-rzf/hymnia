@@ -1,0 +1,101 @@
+{
+	"id": "entends-tu-l-appel-du-maitre",
+	"title": "Entends-tu l'appel du Maître ?",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "616"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entends-tu l'appel du Maître ?",
+				"Il te veut pour moissonneur ;",
+				"Réponds-lui : « Oui, je veux être,",
+				"O Jésus, ton serviteur ! »",
+				"La moisson est déjà mûre,",
+				"Les épis dorés sont pleins ;",
+				"C'est l'instant où la nature",
+				"Aime à nous livrer ses biens."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Entends-tu l'appel du Maître ?",
+				"Il te veut pour moissonneur ;",
+				"Réponds-Lui : « Oui, je veux être,",
+				"O Jésus, ton serviteur ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sous le soleil de l'Afrique",
+				"Le païen meurt dans la nuit ;",
+				"Jésus ton Roi pacifique",
+				"À pourtant souffert pour lui.",
+				"Quitte, ô chrétien, ta patrie",
+				"Pour servir au loin ton Roi ;",
+				"Va dire, au prix de ta vie,",
+				"Ce que Jésus fit pour toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Entends-tu l'appel du Maître ?",
+				"Il te veut pour moissonneur ;",
+				"Réponds-Lui : « Oui, je veux être,",
+				"O Jésus, ton serviteur ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais dans la mission lointaine",
+				"Tous ne peuvent s'engager ;",
+				"Ceux qui vont semer la graine,",
+				"Tu dois les encourager.",
+				"Ils ont besoin d'argent : donne,",
+				"De soutien : prie avec eux,",
+				"Pour que l'ouvrier moissonne",
+				"D'un cœur vaillant et joyeux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Entends-tu l'appel du Maître ?",
+				"Il te veut pour moissonneur ;",
+				"Réponds-Lui : « Oui, je veux être,",
+				"O Jésus, ton serviteur ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chants de la Croix-Bleue",
+			"role": "music"
+		},
+		{
+			"name": "Émile Bonnard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af616",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

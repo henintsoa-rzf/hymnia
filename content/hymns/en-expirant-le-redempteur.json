@@ -1,0 +1,89 @@
+{
+	"id": "en-expirant-le-redempteur",
+	"title": "En expirant, le Rédempteur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "170"
+		},
+		{
+			"hymnal": "adf",
+			"number": "142"
+		},
+		{
+			"hymnal": "cd",
+			"number": "71"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En expirant, le Rédempteur",
+				"Laissa, don suprême,",
+				"À son peuple un Consolateur :",
+				"Dieu lui-même."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans tous les cœurs l'Hôte divin",
+				"Veut prendre une place,",
+				"Et personne n'implore en vain",
+				"Cette grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toutes nos vertus sont le fruit",
+				"Dont il est la sève ;",
+				"Il commence l'œuvre, et c'est lui",
+				"Qui l'achève."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Esprit de lumière et de paix,",
+				"Ah ! que dès cette heure,",
+				"Nos cœurs deviennent à jamais",
+				"Ta demeure !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Bacchus Dykes",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg170",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af142",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/877",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

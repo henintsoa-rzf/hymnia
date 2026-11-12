@@ -5,7 +5,13 @@ success, `1` on a validation or run failure, and `2` on a usage error. Human-rea
 goes to stdout and errors to stderr. `--json` prints a machine-readable summary instead.
 
 Environment: `HYMNIA_CONTACT` (required for any command that uses the network) is the contact
-address sent in the User-Agent.
+address sent in the User-Agent. The CLI loads it from `.env` at the repository root
+(git-ignored; see `.env.example`).
+
+An unknown subcommand or option, a wrong number of arguments, a missing required option
+(`--source`, or `--scope`/`--target`/`--basis`/`--note` for `rights set`), an invalid value for
+them, or an unknown `--source` exit with `2`. A missing hymn, pending change or rights target,
+invalid content, and a run that is not `ok` exit with `1`.
 
 ## Subcommands
 

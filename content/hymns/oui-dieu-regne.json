@@ -1,0 +1,121 @@
+{
+	"id": "oui-dieu-regne",
+	"title": "Oui, Dieu règne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "586"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Que la terre entière",
+				"Lance un cri de joie,",
+				"Lance un cri de joie !",
+				"Peuple réjouis-toi,",
+				"Car ton Dieu règne !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Que la terre entière",
+				"Lance un cri de joie,",
+				"Lance un cri de joie !",
+				"Peuple réjouis-toi,",
+				"Car ton Dieu règne !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Devant lui marche un feu puissant,",
+				"Consumant tous ses ennemis ;",
+				"La terre le voit et tremble",
+				"En présence du Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Que la terre entière",
+				"Lance un cri de joie,",
+				"Lance un cri de joie !",
+				"Peuple réjouis-toi,",
+				"Car ton Dieu règne !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Que la terre entière",
+				"Lance un cri de joie,",
+				"Lance un cri de joie !",
+				"Peuple réjouis-toi,",
+				"Car ton Dieu règne !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les cieux proclament sa justice",
+				"Et tous les peuples voient sa gloire.",
+				"Car tu es le Très-Haut sur la terre et dans le ciel,",
+				"Sur la terre et dans le ciel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !",
+				"Que la terre entière",
+				"Lance un cri de joie,",
+				"Lance un cri de joie !",
+				"Peuple réjouis-toi,",
+				"Car ton Dieu règne !",
+				"Oui, Dieu règne !",
+				"Oui, Dieu règne !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dan Stradwick",
+			"role": "music"
+		},
+		{
+			"name": "Dan Stradwick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem586",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

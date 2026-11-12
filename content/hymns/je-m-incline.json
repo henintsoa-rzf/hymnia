@@ -1,0 +1,84 @@
+{
+	"id": "je-m-incline",
+	"title": "Je m'incline",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "863"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À genoux à tes pieds, je suis émerveillé",
+				"De voir combien grande est ta majesté.",
+				"Devant tant de beauté, lorsque ta sainteté,",
+				"De son poids fait plier ma volonté,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m'incline, je fléchis le genou,",
+				"Je m'incline devant ta royauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ton intimité, je me sens accepté,",
+				"Par ta grâce mes péchés sont effacés.",
+				"Et quand ta majesté me fait réaliser",
+				"Que tu es le grand Dieu d'éternité,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m'incline, je fléchis le genou,",
+				"Je m'incline devant ta royauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Devant toi je décrois, j'obéis à ta voix",
+				"Qui répond peu à peu à mes pourquoi ?",
+				"Dans la crainte je reçois, ton pardon à la croix.",
+				"Et quand ton amour se saisit de moi,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je m'incline, je fléchis le genou,",
+				"Je m'incline devant ta royauté.",
+				"Alors ta volonté devient mienne."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel Pitarella",
+			"role": "music"
+		},
+		{
+			"name": "Daniel Pitarella",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem863",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

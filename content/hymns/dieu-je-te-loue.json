@@ -1,0 +1,81 @@
+{
+	"id": "dieu-je-te-loue",
+	"title": "Dieu, je te loue",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "29"
+		},
+		{
+			"hymnal": "jem",
+			"number": "193"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, je te loue, car tu m'as répondu,",
+				"Et tu m'as envoyé ton salut.",
+				"Dieu, je te loue, car tu m'as répondu,",
+				"Et tu m'as envoyé ton salut."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pierre rejetée par la main des ouvriers,",
+				"Elle est devenue la pierre d'angle.",
+				"Divin envoyé, par les hommes, méprisé,",
+				"Il est devenu le premier."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Voici le jour que Dieu a fait,",
+				"Soyons dans la joie et l'allégresse,",
+				"Voici le jour que Dieu a fait,",
+				"Chantons notre joie sans cesse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pierre rejetée par la main des ouvriers,",
+				"Elle est devenue la pierre d'angle.",
+				"Divin envoyé, par les hommes méprisé,",
+				"Il est devenu le premier.",
+				"Il est devenu le premier."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air israëlien",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg029",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem193",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,129 @@
+{
+	"id": "possedes-tu-pauvre-pecheur",
+	"title": "Possèdes-tu, pauvre pécheur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "238"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Possèdes-tu, pauvre pécheur,",
+				"La vive et joyeuse espérance ?",
+				"As-tu trouvé, plein d'assurance,",
+				"Un appui ferme pour ton cœur ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour moi, j'ai mon Sauveur,",
+				"mon Sauveur, mon Sauveur !",
+				"Pour moi, j'ai mon Sauveur,",
+				"En Lui j'ai mis ma confiance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand ton esprit est abattu,",
+				"Quand ta vaine gaieté s'envole,",
+				"Quelle voix alors te console ?",
+				"Et pour ami, qui donc as-tu ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour moi, j'ai mon Sauveur,",
+				"mon Sauveur, mon Sauveur !",
+				"Pour moi, j'ai mon Sauveur,",
+				"Oh ! qu'elle est douce sa parole."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De ton présent, de ton passé,",
+				"Quand tu sens la triste folie,",
+				"Quand tu prends en dégoût la vie,",
+				"Qui soutient ton cœur oppressé ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour moi, j'ai mon Sauveur,",
+				"mon Sauveur, mon Sauveur !",
+				"Pour moi, j'ai mon Sauveur,",
+				"Sa grâce au repos me convie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et quand la nuit de l'avenir",
+				"Sur toi déjà jette son voile,",
+				"Quand l'horizon pour toi se voile,",
+				"D'où le jour te peut-il venir ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour moi, j'ai mon Sauveur,",
+				"mon Sauveur, mon Sauveur !",
+				"Pour moi, j'ai mon Sauveur,",
+				"Du matin, la brillante étoile !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Oh ! si tu voulais dans les bras",
+				"De Jésus aussi prendre place !",
+				"Si tu voulais saisir sa grâce !…",
+				"Viens à Lui, frère, et tu vivras !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! gloire à mon Sauveur,",
+				"mon Sauveur, mon Sauveur !",
+				"Oh ! gloire à mon Sauveur",
+				"Heureux qui contemple sa face !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Abel Deschamps",
+			"role": "music"
+		},
+		{
+			"name": "Abel Deschamps",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af238",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

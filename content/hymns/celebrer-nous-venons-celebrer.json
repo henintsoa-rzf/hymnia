@@ -1,0 +1,103 @@
+{
+	"id": "celebrer-nous-venons-celebrer",
+	"title": "Célébrer, nous venons célébrer",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "733"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Célébrer, nous venons célébrer,",
+				"Nous venons pour louer,",
+				"adorer Dieu, notre Père.",
+				"Célébrer, nous venons célébrer,",
+				"Nous venons pour louer, adorer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Célébrons-le avec nos instruments,",
+				"Chantons le cœur plein de remerciements.",
+				"Célébrons-le car il est juste et bon,",
+				"Il nous a comblés de bénédictions."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Célébrer, nous venons célébrer,",
+				"Nous venons pour louer,",
+				"adorer Dieu, notre Père.",
+				"Célébrer, nous venons célébrer,",
+				"Nous venons pour louer, adorer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Célébrons-le, il nous donne la vie",
+				"Et dans son livre nos noms sont écrits.",
+				"Célébrons-le, il nous a introduits",
+				"Dans sa famille qui nous a accueillis !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Célébrer, nous venons célébrer,",
+				"Nous venons pour louer,",
+				"adorer Dieu, notre Père.",
+				"Célébrer, nous venons célébrer,",
+				"Nous venons pour louer, adorer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Célébrons-le en exerçant nos dons,",
+				"Sans négliger la sanctification.",
+				"Célébrons-le par un comportement",
+				"Qui soit conforme à son enseignement."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Célébrer, nous venons célébrer,",
+				"Nous venons pour louer,",
+				"adorer Dieu, notre Père.",
+				"Célébrer, nous venons célébrer,",
+				"Nous venons pour louer, adorer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michel Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Michel Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem733",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

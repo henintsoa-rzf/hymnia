@@ -1,0 +1,77 @@
+{
+	"id": "jesus-quitta-le-trone-de-son-pere",
+	"title": "Jésus quitta le trône de son Père!",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "97"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus quitta le trône de son Père",
+				"Et descendit ici bas sur la terre ;",
+				"Il accepta la crèche pour berceau,",
+				"Lui, Rois des rois, le Fils du Dieu très-haut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En tous les lieux portant la délivrance,",
+				"Faisant le bien, guérissant la souffrance,",
+				"Il pardonnait au pécheur repentant,",
+				"Il bénissait jusqu’au petit enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il fut cloué sur la croix méprisable,",
+				"Lui, juste et saint, mourut pour moi coupable.",
+				"Pour me sauver, son sang fut répandu ;",
+				"C’est pourquoi j’aime le Seigneur Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Plus que vainqueur Il sortit de la tombe,",
+				"Gloire à l’Agneau, divin Sauveur du Monde !",
+				"Il règne au ciel, intercède pour moi,",
+				"Et vient bientôt me chercher : je le crois !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! oui, c’est vrai !",
+				"Je sais que c’est vrai !",
+				"\"Il est écrit\" : Cela Suffit !",
+				"Que Jésus m’aime !",
+				"Oh ! bonheur suprême !",
+				"La Bible me le dit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "E.Schürer",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/900",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

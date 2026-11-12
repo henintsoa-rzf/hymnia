@@ -1,0 +1,71 @@
+{
+	"id": "digne-es-tu-jem-1023",
+	"title": "Digne es-tu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1023"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tant que respire l'œuvre de tes mains,",
+				"Mon cœur se livre.",
+				"Dieu, je t'appartiens."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Digne es-tu au-dessus de toutes choses.",
+				"Digne es-tu Jésus, ta vie me sauve."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vaste est le monde, vaste est l'horizon.",
+				"J'aime et je tombe,",
+				"Mais je cherche ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Digne es-tu au-dessus de toutes choses.",
+				"Digne es-tu Jésus, ta vie me sauve."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je ne faiblirai pas,",
+				"Dieu de grâce, aide-moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1023",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

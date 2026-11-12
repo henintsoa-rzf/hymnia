@@ -1,0 +1,120 @@
+{
+	"id": "au-tribunal-jesus-se-tient",
+	"title": "Au tribunal Jésus se tient",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "230"
+		},
+		{
+			"hymnal": "adf",
+			"number": "493"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au tribunal, Jésus se tient,",
+				"Méprisé, seul, et sans soutien,",
+				"Pilate au peuple dit soudain :",
+				"« Que dois-je faire à Jésus ? »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que feras-tu de Jésus ?",
+				"Il se tient devant toi…",
+				"Un jour, tu diras, plein d'effroi :",
+				"« Que fera-t-il de moi ? »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Comme Judas, trahirez-vous",
+				"Celui qui vint mourir pour nous,",
+				"Ou le suivrez-vous jusqu'au bout,",
+				"Que ferez-vous de Jésus ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que feras-tu de Jésus ?",
+				"Il se tient devant toi…",
+				"Un jour, tu diras, plein d'effroi :",
+				"« Que fera-t-il de moi ? »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme Pilate, indifférent,",
+				"Condamnerez-vous l'Innocent ?",
+				"C'est vous qui jugez maintenant,",
+				"Que ferez-vous de Jésus ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que feras-tu de Jésus ?",
+				"Il se tient devant toi…",
+				"Un jour, tu diras, plein d'effroi :",
+				"« Que fera-t-il de moi ? »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus, je te donne mon cœur,",
+				"Toi seul es mon parfait Sauveur,",
+				"T'obéir sera mon bonheur,",
+				"Je t'appartiens, O Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que feras-tu de Jésus ?",
+				"Il se tient devant toi…",
+				"Un jour, tu diras, plein d'effroi :",
+				"« Que fera-t-il de moi ? »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mary L. Stocks",
+			"role": "music"
+		},
+		{
+			"name": "Jacques-A. Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg230",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af493",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

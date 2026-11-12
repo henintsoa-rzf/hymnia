@@ -1,0 +1,96 @@
+{
+	"id": "heureux-celui-de-qui-dieu",
+	"title": "Heureux celui de qui Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "11"
+		},
+		{
+			"hymnal": "adf",
+			"number": "27"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Heureux celui de qui Dieu, par sa grâce,",
+				"Et les erreurs et les fautes efface ;",
+				"Heureux celui de qui tous les péchés,",
+				"Devant son Dieu sont couverts et cachés ;",
+				"Heureux enfin, cent fois heureux j'estime",
+				"L'homme à qui Dieu n'impute point son crime,",
+				"Et qui, malgré les faiblesses qu'il sent,",
+				"De toute fraude au moins est innocent."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Aussi longtemps que, gardant le silence,",
+				"J'ai refusé d'avouer mon offense,",
+				"Mon cœur mauvais gémissait loin de toi",
+				"Et nuit et jour se consumait en moi ;",
+				"Car je sentais, Seigneur, ta main puissante",
+				"Pour m'accabler, devenir plus pesante,",
+				"Et ma vigueur, en cette extrémité,",
+				"Se desséchait comme un champ dans l'été."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais aussitôt que, sans hypocrisie,",
+				"J'ai déploré les fautes de ma vie,",
+				"Dès que j'ai dit : « Confessons mon forfait, »",
+				"De ton pardon j'ai ressenti l'effet.",
+				"Ainsi, celui que ton amour éprouve",
+				"Te cherchera dans le temps qu'on te trouve ;",
+				"Des grandes eaux le flot peut déborder :",
+				"De tout péril ta main sait le garder."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"En toi, Seigneur, je trouve un sûr asile,",
+				"Rien ne m'alarme et mon cœur est tranquille ;",
+				"Et chaque jour j'ai de nouveaux sujets",
+				"De te louer du bien que tu me fais.",
+				"Justes, venez, célébrez-le sans cesse,",
+				"Exaltez-le par des chants d'allégresse ;",
+				"Et qu'à jamais ceux qui sont droits de cœur,",
+				"Trouvent leur joie à bénir le Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg011",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af027",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

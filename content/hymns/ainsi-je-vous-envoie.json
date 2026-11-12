@@ -1,0 +1,84 @@
+{
+	"id": "ainsi-je-vous-envoie",
+	"title": "Ainsi, je vous envoie",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "343"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je vous envoie peiner sans récompense,",
+				"Servir sans gain, inconnus, oubliés,",
+				"Souffrir aussi la dérision, l’offense;",
+				"Je vous envoie pour moi seul travailler.",
+				"Comme le Père m’a envoyé, ainsi je vous envoie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je vous envoie vers les brebis errantes,",
+				"Panser leurs plaies, peiner, veiller, gémir,",
+				"Porter le poids de ces âmes souffrantes.",
+				"Je vous envoie pour mon saint nom souffrir.",
+				"Comme le Père m’a envoyé, ainsi je vous envoie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je vous envoie, renonçant à vous-même,",
+				"Le coeur serré, vous donnant sans retour,",
+				"Quittant amis, parents et foyers même;",
+				"Je vous envoie démontrer mon amour.",
+				"Comme le Père m’a envoyé, ainsi je vous envoie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je vous envoie, renonçant à vous-mêmes,",
+				"Vos chers désirs pour moi, abandonnant,",
+				"Pour travailler, aimer qui vous hait même",
+				"Et me servir tout en vous oubliant.",
+				"Comme le Père m’a envoyé, ainsi je vous envoie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Je vous envoie aux coeurs remplis de haine,",
+				"Qui ne voient pas leur état endurci,",
+				"Donner pour eux vie, espoir, joie et peine,",
+				"Goûter pour moi la souffrance et l’ennui.",
+				"Comme le Père m’a envoyé, ainsi je vous envoie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "M.A. De Keyser",
+			"role": "unspecified"
+		},
+		{
+			"name": "J.W. PETERSON",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1141",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

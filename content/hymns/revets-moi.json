@@ -1,0 +1,59 @@
+{
+	"id": "revets-moi",
+	"title": "Revêts-moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "546"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Revêts-moi, Seigneur, de ta louange,",
+				"Donne-moi ton plus bel habit ;",
+				"Ainsi je me tiendrai devant toi",
+				"Avec ce manteau de joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je me réjouirai en ta présence,",
+				"Je chanterai l'honneur de ton nom.",
+				"Je danserai de joie pour toi mon Dieu,",
+				"Car tu me remplis de bonheur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Revêts-moi, Seigneur, de ta louange,",
+				"Donne-moi ton plus bel habit ;",
+				"Ainsi je me tiendrai devant toi",
+				"Avec ce manteau de joie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem546",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

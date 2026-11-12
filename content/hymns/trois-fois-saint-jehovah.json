@@ -1,0 +1,101 @@
+{
+	"id": "trois-fois-saint-jehovah",
+	"title": "Trois fois saint Jéhovah !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "527"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Trois fois Saint Jéhovah !",
+				"Trois fois Saint Jéhovah !",
+				"Notre âme en ta présence,",
+				"Dans une humble assurance,",
+				"S'écrie : Alléluia !",
+				"S'écrie : Alléluia !",
+				"Ta gloire est immortelle,",
+				"Ta grâce est éternelle,",
+				"O Père ! ô Fils Sauveur !",
+				"O Père ! ô Fils Sauveur !",
+				"O Père ! ô Fils Sauveur !",
+				"O grand Consolateur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les esprits bienheureux,",
+				"Les esprits bienheureux,",
+				"Tes élus et tes anges,",
+				"Célèbrent tes louanges,",
+				"Aux demeures des cieux,",
+				"Aux demeures des cieux.",
+				"Nous aussi, sur la terre,",
+				"Vers le vrai sanctuaire,",
+				"Jusqu'à toi, Roi des rois,",
+				"Jusqu'à toi, Roi des rois,",
+				"Jusqu'à toi, Roi des rois,",
+				"Nous élevons nos voix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, nous cherchons, Seigneur,",
+				"Oui, nous cherchons, Seigneur,",
+				"Le regard de ta face :",
+				"Que du trône de grâce",
+				"Il vienne en notre cœur ;",
+				"Il vienne en notre cœur ;",
+				"Qu'il allume en notre âme",
+				"La pure et vive flamme",
+				"De l'amour que pour toi",
+				"De l'amour que pour toi",
+				"De l'amour que pour toi",
+				"Doit nourrir notre foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Amen ! ô notre Dieu !",
+				"Amen ! ô notre Dieu !",
+				"Que ta bonté fidèle",
+				"À ce cœur qui t'appelle",
+				"Réponde du saint lieu !",
+				"Réponde du saint lieu !",
+				"Et qu'en ta paix parfaite",
+				"Ton Église répète :",
+				"Trois fois saint Jéhovah !",
+				"Trois fois saint Jéhovah !",
+				"Trois fois saint Jéhovah !",
+				"Amen ! Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Conrad Kocher",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af527",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

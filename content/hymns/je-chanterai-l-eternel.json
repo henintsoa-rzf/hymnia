@@ -1,0 +1,77 @@
+{
+	"id": "je-chanterai-l-eternel",
+	"title": "Je chanterai l'Éternel",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "25"
+		},
+		{
+			"hymnal": "jem",
+			"number": "257"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai l'Éternel tant que je vivrai,",
+				"Je chanterai l'Éternel.",
+				"Je célébrerai mon Dieu tant que j'existerai,",
+				"Je célébrerai mon Dieu.",
+				"Je chanterai l'Éternel tant que je vivrai,",
+				"Je chanterai l'Éternel.",
+				"Je célébrerai mon Dieu tant que j'existerai,",
+				"Je célébrerai mon Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que mes paroles lui soient agréables,",
+				"Lui soient agréables.",
+				"Je veux me réjouir en l'Éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je chanterai l'Éternel tant que je vivrai,",
+				"Je chanterai l'Éternel.",
+				"Je célébrerai mon Dieu tant que j'existerai,",
+				"Je célébrerai mon Dieu.",
+				"Je chanterai l'Éternel tant que je vivrai,",
+				"Je chanterai l'Éternel.",
+				"Je célébrerai mon Dieu tant que j'existerai,",
+				"Je célébrerai mon Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John van den Hogen",
+			"role": "music"
+		},
+		{
+			"name": "John van den Hogen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg025",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem257",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

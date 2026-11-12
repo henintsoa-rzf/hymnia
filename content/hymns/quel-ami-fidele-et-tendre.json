@@ -3,12 +3,20 @@
 	"title": "Quel ami fidèle et tendre",
 	"entries": [
 		{
-			"hymnal": "ce",
-			"number": "7"
+			"hymnal": "atg",
+			"number": "150"
 		},
 		{
-			"hymnal": "he",
-			"number": "1"
+			"hymnal": "adf",
+			"number": "78"
+		},
+		{
+			"hymnal": "jem",
+			"number": "92"
+		},
+		{
+			"hymnal": "cd",
+			"number": "240"
 		}
 	],
 	"sections": [
@@ -25,23 +33,82 @@
 				"Sévère en ses exigences,",
 				"Il est riche en son amour."
 			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quel ami fidèle et tendre",
+				"Nous avons en Jésus-Christ,",
+				"Toujours prêt à nous comprendre",
+				"Quand nous sommes en souci !",
+				"Disons-lui toutes nos craintes,",
+				"Ouvrons-lui tout notre cœur.",
+				"Bientôt, ses paroles saintes",
+				"Nous rendront le vrai bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quel ami fidèle et tendre",
+				"Nous avons en Jésus-Christ,",
+				"Toujours prêt à nous apprendre",
+				"À vaincre en comptant sur lui !",
+				"S'il nous voit vrais et sincères",
+				"À chercher la sainteté,",
+				"Il écoute nos prières",
+				"Et nous met en liberté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quel Ami fidèle et tendre",
+				"Nous avons en Jésus-Christ !",
+				"Bientôt il viendra nous prendre",
+				"Pour être au ciel avec lui.",
+				"Suivons donc l'étroite voie",
+				"En comptant sur son secours.",
+				"Bientôt nous aurons la joie",
+				"De vivre avec lui toujours !"
+			]
 		}
 	],
 	"credits": [
 		{
-			"name": "Joseph Scriven",
-			"role": "lyrics"
+			"name": "Charles Crozat Converse",
+			"role": "music"
 		},
 		{
-			"name": "Charles C. Converse",
-			"role": "music"
+			"name": "Émile Bonnard",
+			"role": "lyrics"
 		}
 	],
 	"source": {
-		"name": "Échantillon de test — domaine public, texte non vérifié",
-		"url": null,
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg150",
 		"retrievedAt": "2026-11-11"
 	},
-	"rights": "public-domain",
-	"corrections": []
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af078",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem092",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1173",
+			"retrievedAt": "2026-11-11"
+		}
+	]
 }

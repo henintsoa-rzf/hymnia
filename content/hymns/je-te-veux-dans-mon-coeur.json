@@ -1,0 +1,78 @@
+{
+	"id": "je-te-veux-dans-mon-coeur",
+	"title": "Je te veux dans mon cœur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "532"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te veux dans mon cœur,",
+				"Je te veux dans ma vie,",
+				"Je te veux dans mon corps",
+				"Et mes pensées aussi.",
+				"Remplis-moi de ta paix,",
+				"Remplis-moi de ta joie,",
+				"Remplis-moi de ta vie,",
+				"Remplis-moi de l'Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je t'ai déjà résisté si souvent,",
+				"J'avais tell'ment peur ; mais maintenant",
+				"Je veux m'approcher le cœur confiant,",
+				"Tu es mon Père, je suis ton enfant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te veux dans mon cœur,",
+				"Je te veux dans ma vie,",
+				"Je te veux dans mon corps",
+				"Et mes pensées aussi.",
+				"Remplis-moi de ta paix,",
+				"Remplis-moi de ta joie,",
+				"Remplis-moi de ta vie,",
+				"Remplis-moi de l'Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens m'emporter dans ce torrent d'amour,",
+				"Je veux sentir tes bras qui m'entourent.",
+				"Je veux plonger mon cœur dans le tien,",
+				"Tu es mon Dieu et je t'appartiens.",
+				"Et je t'appartiens."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem532",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,134 @@
+{
+	"id": "viens-et-vois-jem-82",
+	"title": "Viens et vois",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "82"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout est mirage sur terre,",
+				"En vain je cherche en tous lieux",
+				"La vérité qui libère:",
+				"Où donc est-il votre Dieu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À Bethléem, une étoile",
+				"Perce la nuit de tes voiles.",
+				"Un frêle enfant te dévoile",
+				"Le Dieu qui s'approche de toi.",
+				"Oh ! sans plus tarder, viens et vois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout est mirage sur terre,",
+				"En vain je cherche en tous lieux",
+				"La vérité qui libère:",
+				"Où donc est-il votre Dieu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À Nazareth il demeure,",
+				"Un Dieu qui peine et qui pleure,",
+				"Qui vit ta vie à chaque heure,",
+				"Tout proche, si proche de toi.",
+				"Oh ! sans plus tarder, viens et vois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout est mirage sur terre,",
+				"En vain je cherche en tous lieux",
+				"La vérité qui libère:",
+				"Où donc est-il votre Dieu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À Golgotha il expire,",
+				"Là, dans sa grâce il t'attire",
+				"Et dans ses yeux tu peux lire",
+				"L'amour qui pardonne à la croix.",
+				"Oh ! sans plus tarder, viens et vois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout est mirage sur terre,",
+				"En vain je cherche en tous lieux",
+				"La vérité qui libère:",
+				"Où donc est-il votre Dieu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Hors de la tombe il s'élance",
+				"Et monte au ciel: joie immense !",
+				"Par son Esprit, sa présence",
+				"Remplit l'âme qui la reçoit.",
+				"Oh ! sans plus tarder, viens et vois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis venu dans les larmes,",
+				"Et j'ai trouvé mon Sauveur.",
+				"Il a calmé mes alarmes,",
+				"Sa grâce inonde mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Quand Il viendra dans sa gloire,",
+				"Dire le mot de victoire,",
+				"Le mot final de l'histoire,",
+				"Tout œil le verra, Christ mon Roi,",
+				"Mon Dieu, mon Seigneur, Oui, je crois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie russe",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem082",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

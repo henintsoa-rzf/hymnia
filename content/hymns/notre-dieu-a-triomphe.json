@@ -1,0 +1,89 @@
+{
+	"id": "notre-dieu-a-triomphe",
+	"title": "Notre Dieu a triomphé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "798"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Dieu a triomphé",
+				"par de merveilleux exploits ;",
+				"Il a déployé son bras et le monde a basculé.",
+				"Il a délivré la terre des ténèbres et de l'enfer.",
+				"Nous voulons le célébrer,",
+				"nous voulons le célébrer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est Seigneur, il est le vainqueur,",
+				"Le tout-puissant Roi, le lion de Juda.",
+				"Jésus est Seigneur, il est le vainqueur,",
+				"Le tout-puissant Roi, le lion de Juda."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre Dieu est tout-puissant,",
+				"il est grand et majestueux,",
+				"Et c'est par son précieux sang",
+				"que pour nous s'ouvrent les cieux.",
+				"Nous voyons le Roi de gloire",
+				"sur son trône de victoire",
+				"Et nous voulons l'acclamer,",
+				"nous voulons l'acclamer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamons notre vainqueur,",
+				"notre vainqueur,",
+				"Adorons son nom glorieux,",
+				"son nom glorieux.",
+				"Il a purifié les cieux",
+				"et il règne dans nos cœurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Acclamons notre vainqueur,",
+				"notre vainqueur,",
+				"Adorons son nom glorieux,",
+				"son nom glorieux.",
+				"Il a purifié les cieux",
+				"et il règne dans nos cœurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem798",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

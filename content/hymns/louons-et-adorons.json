@@ -1,0 +1,55 @@
+{
+	"id": "louons-et-adorons",
+	"title": "Louons et adorons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "635"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louons et adorons",
+				"Notre Dieu tout puissant.",
+				"Chantons et proclamons",
+				"Qu'il est vivant.",
+				"Louons et adorons",
+				"Notre Dieu tout puissant.",
+				"Chantons et proclamons",
+				"Qu'il est vivant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est vivant ! Ni la hauteur,",
+				"Ni la profondeur,",
+				"Ni aucune autre créature",
+				"Ne pourra nous séparer",
+				"De l'amour de Dieu manifesté",
+				"En Jésus, notre Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Yannick Delessert",
+			"role": "music"
+		},
+		{
+			"name": "Fish For Lunch",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem635",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

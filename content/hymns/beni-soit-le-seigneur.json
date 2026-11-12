@@ -1,0 +1,73 @@
+{
+	"id": "beni-soit-le-seigneur",
+	"title": "Béni soit le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "302"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit le Seigneur,",
+				"Car son amour est grand.",
+				"Béni soit le Seigneur,",
+				"Car il est puissant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te louons Seigneur,",
+				"de tout notre cœur.",
+				"Nous nous tournons vers toi,",
+				"tu es notre joie.",
+				"Nous te louons Seigneur,",
+				"de tout notre cœur.",
+				"Nous nous tournons vers toi,",
+				"tu es notre joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Béni soit le Seigneur,",
+				"Pour sa fidélité.",
+				"Béni soit le Seigneur,",
+				"Pour sa sainteté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te louons Seigneur,",
+				"de tout notre cœur.",
+				"Nous nous tournons vers toi,",
+				"tu es notre joie.",
+				"Nous te louons Seigneur,",
+				"de tout notre cœur.",
+				"Nous nous tournons vers toi,",
+				"tu es notre joie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie espagnole",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem302",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

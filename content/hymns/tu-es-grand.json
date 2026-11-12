@@ -1,0 +1,144 @@
+{
+	"id": "tu-es-grand",
+	"title": "Tu es grand",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1192"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est toi qui réveilles le matin,",
+				"Toi qui as créé la vie.",
+				"Le soleil est entre tes mains,",
+				"Devant toi le mal s'enfuit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est toi qui as choisi d'aimer,",
+				"De guérir, de relever,",
+				"De mourir et de racheter,",
+				"Réparer les cœurs brisés.",
+				"Il n'y a personne comme toi,",
+				"Comme toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es grand, puissant,",
+				"Plus grand que tous mes plans.",
+				"Ton amour m'entoure",
+				"Comme un grand océan"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et tes mots sont vrais.",
+				"Pour l'éternité,",
+				"Je vais rester dans tes bras,",
+				"La vie vient de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est toi qui réveilles le matin,",
+				"Toi qui as créé la vie.",
+				"Le soleil est entre tes mains,",
+				"Devant toi le mal s'enfuit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"C'est toi qui as choisi d'aimer,",
+				"De guérir, de relever,",
+				"De mourir et de racheter,",
+				"Réparer les cœurs brisés.",
+				"Il n'y a personne comme toi,",
+				"Comme toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es grand, puissant,",
+				"Plus grand que tous mes plans.",
+				"Ton amour m'entoure",
+				"Comme un grand océan"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et tes mots sont vrais.",
+				"Pour l'éternité,",
+				"Je vais rester dans tes bras,",
+				"La vie vient de toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Jésus, tu es puissant et parfait.",
+				"Je te suivrai pour l'éternité.",
+				"Je ne pourrai jamais saisir qui tu es.",
+				"Mes yeux ne voient pas,",
+				"Mais mon cœur te connait."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, tu es grand, puissant,",
+				"Plus grand que tous mes plans.",
+				"Ton amour m'entoure",
+				"Comme un grand océan"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et tes mots sont vrais.",
+				"Pour l'éternité,",
+				"Je vais rester dans tes bras,",
+				"La vie vient de toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dominik Laim",
+			"role": "music"
+		},
+		{
+			"name": "Dominik Laim",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1192",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

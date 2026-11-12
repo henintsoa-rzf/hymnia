@@ -1,0 +1,93 @@
+{
+	"id": "peuples-elevez-la-banniere",
+	"title": "Peuples, élevez la bannière",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "812"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuples, élevez les bannières, alléluia.",
+				"Trompettes, sonnez le combat,",
+				"Christ nous a donné la victoire, alléluia.",
+				"Jéricho doit tomber.",
+				"Peuples, élevez les bannières, alléluia.",
+				"Trompettes, sonnez le combat,",
+				"Christ nous a donné la victoire, alléluia.",
+				"Jéricho doit tomber."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le corps de Christ est une armée,",
+				"En guerre dans le monde invisible,",
+				"Rendant aux captifs la liberté,",
+				"Au nom du Roi Jésus-Christ."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuples, élevez les bannières, alléluia.",
+				"Trompettes, sonnez le combat,",
+				"Christ nous a donné la victoire, alléluia.",
+				"Jéricho doit tomber.",
+				"Peuples, élevez les bannières, alléluia.",
+				"Trompettes, sonnez le combat,",
+				"Christ nous a donné la victoire, alléluia.",
+				"Jéricho doit tomber."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Annoncez Jésus crucifié,",
+				"Mort et ressuscité,",
+				"Contre les puissances des ténèbres,",
+				"Son nom nous fait triompher."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuples, élevez les bannières, alléluia.",
+				"Trompettes, sonnez le combat,",
+				"Christ nous a donné la victoire, alléluia.",
+				"Jéricho doit tomber.",
+				"Peuples, élevez les bannières, alléluia.",
+				"Trompettes, sonnez le combat,",
+				"Christ nous a donné la victoire, alléluia.",
+				"Jéricho doit tomber.",
+				"Jéricho doit tomber,",
+				"Jéricho doit tomber."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Richard Gillard",
+			"role": "music"
+		},
+		{
+			"name": "Richard Gillard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem812",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

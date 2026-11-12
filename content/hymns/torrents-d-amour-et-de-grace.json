@@ -1,10 +1,22 @@
 {
 	"id": "torrents-d-amour-et-de-grace",
-	"title": "Torrents d’amour et de grâce",
+	"title": "Torrents d'amour et de grâce",
 	"entries": [
 		{
-			"hymnal": "ce",
-			"number": "3"
+			"hymnal": "atg",
+			"number": "247"
+		},
+		{
+			"hymnal": "adf",
+			"number": "352"
+		},
+		{
+			"hymnal": "jem",
+			"number": "72"
+		},
+		{
+			"hymnal": "cd",
+			"number": "216"
 		}
 	],
 	"sections": [
@@ -12,10 +24,10 @@
 			"type": "verse",
 			"number": 1,
 			"lines": [
-				"Torrents d’amour et de grâce,",
+				"Torrents d'amour et de grâce,",
 				"Amour du Sauveur en croix !",
-				"À ce grand fleuve qui passe",
-				"Je m’abandonne et je crois."
+				"À ce grand fleuve qui passe,",
+				"Je m'abandonne et je crois."
 			]
 		},
 		{
@@ -23,23 +35,84 @@
 			"number": null,
 			"lines": [
 				"Je crois à ton sacrifice,",
-				"Ô Jésus, Agneau de Dieu,",
-				"Et, couvert par ta justice,",
-				"J’entrerai dans le saint lieu."
+				"O Jésus, Agneau de Dieu,",
+				"Et couvert par ta justice,",
+				"J'entrerai dans le saint lieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ah ! que partout se répande",
+				"Ce fleuve à la grande voix ;",
+				"Que tout l'univers entende",
+				"L'appel qui vient de la croix !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je crois à ton sacrifice,",
+				"O Jésus, Agneau de Dieu,",
+				"Et couvert par ta justice,",
+				"J'entrerai dans le saint lieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que toute âme condamnée",
+				"Pour qui tu versas ton sang,",
+				"Soit au Père ramenée",
+				"Par ton amour tout-puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je crois à ton sacrifice,",
+				"O Jésus, Agneau de Dieu,",
+				"Et couvert par ta justice,",
+				"J'entrerai dans le saint lieu."
 			]
 		}
 	],
 	"credits": [
+		{
+			"name": "Thomas John Williams",
+			"role": "music"
+		},
 		{
 			"name": "Ruben Saillens",
 			"role": "lyrics"
 		}
 	],
 	"source": {
-		"name": "Échantillon de test — domaine public, texte non vérifié",
-		"url": null,
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg247",
 		"retrievedAt": "2026-11-11"
 	},
-	"rights": "public-domain",
-	"corrections": []
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af352",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem072",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/272",
+			"retrievedAt": "2026-11-11"
+		}
+	]
 }

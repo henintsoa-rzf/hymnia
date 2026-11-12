@@ -1,0 +1,85 @@
+{
+	"id": "ton-amour-your-love",
+	"title": "Ton amour (Your love)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "511"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur tu me connais au plus profond",
+				"Aucune pensée ne t’est cachée.",
+				"Tu sais où je suis, tout ce que je fais,",
+				"Jamais tu ne dors !",
+				"Avant que je ne parle, tu sais tout.",
+				"Tu vois où je vais, ce que je cherche.",
+				"Tu sais si je pleure ou si je ris,",
+				"Jamais tu ne dors !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si je fuis, tu me suis de ton amour,",
+				"Je ne peux vivre sans ton amour.",
+				"Seigneur, je ne crains rien, je sais que tu me tiens,",
+				"Tu veilles sur ma vie.",
+				"Dans l’espace et la nuit, si je fuis,",
+				"Sous la mer, sous la terre, si je me perds,",
+				"Nul endroit ne me cache, tu retrouves ma trace,",
+				"Partout tu me vois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur quand je m’assieds, quand je me lève,",
+				"Ta main m’accompagne et me conduit.",
+				"Derrière et devant, j’ai ton Esprit,",
+				"Jamais tu ne dors !",
+				"Avant mon premier jour, tu me voyais,",
+				"Chacun de mes jours, tu les connais,",
+				"Et quoi qu’il arrive, je sais, tu es là,",
+				"Jamais tu ne dors !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Eternel Dieu, tu m’environnes, !",
+				"Autour de moi, toujours présent.",
+				"À mes côtés, Eternel Dieu !",
+				"Jamais ton amour ne dort !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jan Groth",
+			"role": "lyrics"
+		},
+		{
+			"name": "Tore W. Aas",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-11",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

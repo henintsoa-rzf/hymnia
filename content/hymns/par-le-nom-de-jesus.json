@@ -1,0 +1,71 @@
+{
+	"id": "par-le-nom-de-jesus",
+	"title": "Par le nom de Jésus",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "367"
+		},
+		{
+			"hymnal": "jem",
+			"number": "158"
+		},
+		{
+			"hymnal": "cd",
+			"number": "281"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Par le nom de Jésus,",
+				"Par le nom de Jésus,",
+				"Dieu donne la victoire.",
+				"Par le nom de Jésus,",
+				"Par le nom de Jésus,",
+				"Dieu donne la victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand Satan nous tend un piège,",
+				"C'est ce nom qui nous protège,",
+				"Ce beau nom de la victoire",
+				"Que chantent les élus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie anglaise",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg367",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem158",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/300",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

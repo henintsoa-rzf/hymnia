@@ -1,0 +1,125 @@
+{
+	"id": "oh-quel-beau-jour",
+	"title": "Oh ! quel beau jour.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "434"
+		},
+		{
+			"hymnal": "cd",
+			"number": "357",
+			"title": "Nombreux comme le sable des plages"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! quel beau jour, où, devant ta face,",
+				"Tous tes rachetés apparaîtront,",
+				"En célébrant ta gloire et ta grâce !",
+				"De leurs chants les cieux retentiront."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nombreux comme le sable des plages !",
+				"Nombreux comme le sable des plages !",
+				"Oh ! que ce sera beau,",
+				"Lorsque nous irons là-haut,",
+				"Aussi nombreux que le sable des plages !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je la vois, cette armée innombrable,",
+				"Ses rangs reflétant l'éclat des cieux,",
+				"Tressaillant d'un bonheur ineffable,",
+				"Sur le seuil du séjour radieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nombreux comme le sable des plages !",
+				"Nombreux comme le sable des plages !",
+				"Oh ! que ce sera beau,",
+				"Lorsque nous irons là-haut,",
+				"Aussi nombreux que le sable des plages !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De Son trône éclatant de lumière,",
+				"J'entends la douce voix du Seigneur :",
+				"« Venez, vous bien-aimés de mon Père,",
+				"La couronne est à chaque vainqueur »."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nombreux comme le sable des plages !",
+				"Nombreux comme le sable des plages !",
+				"Oh ! que ce sera beau,",
+				"Lorsque nous irons là-haut,",
+				"Aussi nombreux que le sable des plages !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Puis au sein du vaste océan d'anges,",
+				"Nos cohortes déversent leurs flots ;",
+				"L'univers tremble au son des louanges ;",
+				"Plus de combats, de pleurs, de sanglots !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nombreux comme le sable des plages !",
+				"Nombreux comme le sable des plages !",
+				"Oh ! que ce sera beau,",
+				"Lorsque nous irons là-haut,",
+				"Aussi nombreux que le sable des plages !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Francis Augustus Blackmer",
+			"role": "music"
+		},
+		{
+			"name": "Arthur Sydney Booth-Clibborn",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af434",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1153",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,197 @@
+{
+	"id": "louez-le",
+	"title": "Louez-le",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1046"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"D'ici aux confins de la terre,",
+				"Va résonner notre prière.",
+				"Nous chanterons,",
+				"Car tout est accompli",
+				"Et nous vivons de l'Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'éclate en toutes les nations",
+				"Le réveil d'une génération.",
+				"Nous danserons",
+				"Car tout est accompli",
+				"Et nous crions : « Jésus-Christ ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez-le, louez-le",
+				"Qui que vous soyez,",
+				"Louez-le, louez-le",
+				"Où que vous soyez,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez-le, louez-le",
+				"En toute circonstance,",
+				"Louez-le, louez-le,",
+				"Voici que Dieu avance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et de l'Europe et de l'Afrique,",
+				"De l'Asie jusqu'en Amérique,",
+				"N'ayons plus peur,",
+				"Car tout est accompli",
+				"Et nous vivons de l'Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jeunes et vieux dans la louange,",
+				"Que chantent l'Église et les anges !",
+				"À Lui l'honneur",
+				"Car tout est accompli",
+				"Et nous crions : « Jésus-Christ ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez-le, louez-le",
+				"Qui que vous soyez,",
+				"Louez-le, louez-le",
+				"Où que vous soyez,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez-le, louez-le",
+				"En toute circonstance,",
+				"Louez-le, louez-le,",
+				"Voici que Dieu avance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Du nord au sud, de l'est à l'ouest,",
+				"Au chant de notre Père céleste",
+				"Dansons ensemble,",
+				"Car tout est accompli",
+				"Et nous vivons de l'Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'elles s'appellent, qu'elles jubilent",
+				"Au cœur des mers, toutes les îles.",
+				"Courons ensemble",
+				"Car tout est accompli",
+				"Et nous crions : « Jésus-Christ ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez-le, louez-le",
+				"Qui que vous soyez,",
+				"Louez-le, louez-le",
+				"Où que vous soyez,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez-le, louez-le",
+				"En toute circonstance,",
+				"Louez-le, louez-le,",
+				"Voici que Dieu avance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Chrétiens d'Orient et d'Occident,",
+				"Unis autour du Dieu vivant",
+				"En Jésus-Christ,",
+				"Car tout est accompli",
+				"Et nous vivons de l'Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et qu'aux quatre coins de la France,",
+				"S'élève un chant, naisse une danse",
+				"Pour le Messie,",
+				"Car tout est accompli",
+				"Et nous crions : « Jésus-Christ ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez-le, louez-le",
+				"Qui que vous soyez,",
+				"Louez-le, louez-le",
+				"Où que vous soyez,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez-le, louez-le",
+				"En toute circonstance,",
+				"Louez-le, louez-le,",
+				"Voici que Dieu avance."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Église Lyon Centre Glorious",
+			"role": "music"
+		},
+		{
+			"name": "Église Lyon Centre Glorious",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1046",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

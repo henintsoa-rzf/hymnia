@@ -1,0 +1,94 @@
+{
+	"id": "seigneur-grand-dieu",
+	"title": "Seigneur, grand Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "37"
+		},
+		{
+			"hymnal": "adf",
+			"number": "42"
+		},
+		{
+			"hymnal": "cd",
+			"number": "33"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, grand Dieu !",
+				"Ton pouvoir est immense.",
+				"Tu dis : du néant surgit l'univers.",
+				"Rien ne subsiste que par ta puissance,",
+				"Soleils de flamme ou limites des mers.",
+				"Le firmament et ses millions d'étoiles,",
+				"Tout t'obéit au plus profond des cieux.",
+				"Mon cœur s'émeut lorsque tu lui dévoiles",
+				"Ta majesté, ton pouvoir glorieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, grand Dieu !",
+				"Profonde est ta sagesse.",
+				"Qui se révèle dans ta création.",
+				"Tu fis de nous, malgré notre faiblesse,",
+				"Par ton Esprit tes enfants d'adoption.",
+				"Le mont superbe et le roseau qui plie,",
+				"Font éclater ta gloire, ô Dieu des cieux !",
+				"Plein de respect, mon cœur ému te prie,",
+				"Et je bénis ton savoir merveilleux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, grand Dieu !",
+				"Ton amour est sublime !",
+				"Ton Fils vint ici-bas le révéler.",
+				"Tu n'éteins pas le lumignon infime",
+				"Qui fume encor et ne peut plus brûler.",
+				"J'étais lié par une chaîne infâme,",
+				"Tu la brisas, sur la croix, bon Sauveur !",
+				"Pleurant d'amour, j'adore et je proclame",
+				"Ton sacrifice immense, ô Rédempteur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr Louis Kovats",
+			"role": "music"
+		},
+		{
+			"name": "Mme M. Wargenau-Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg037",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af042",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/849",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

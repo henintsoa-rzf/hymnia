@@ -1,0 +1,87 @@
+{
+	"id": "rien-n-est-comparable",
+	"title": "Rien n'est comparable",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "72"
+		},
+		{
+			"hymnal": "adf",
+			"number": "537"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rien n'est comparable",
+				"À Toi, mon Sauveur !",
+				"Rien n'est souhaitable",
+				"Comme ta faveur !",
+				"Sauveur adorable,",
+				"Je t'ouvre mon cœur !",
+				"Rien n'est comparable",
+				"À Toi, mon Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Céleste merveille,",
+				"Divine splendeur,",
+				"Tendrement tu veilles",
+				"À notre bonheur,",
+				"Grâce sans pareille,",
+				"Tu remplis mon cœur !",
+				"Rien n'est comparable",
+				"À Toi, mon Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et quand je contemple,",
+				"Toute ta splendeur,",
+				"Amour sans exemple,",
+				"Je t'ouvre mon cœur",
+				"Pour qu'il soit ton temple",
+				"À jamais, Seigneur !",
+				"Rien n'est comparable",
+				"À Toi, mon Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O source féconde",
+				"De toute douceur,",
+				"Tu ne vins au monde",
+				"Que pour le pécheur !",
+				"Bonté sans seconde,",
+				"Je t'ouvre mon cœur !",
+				"Rien n'est comparable",
+				"À Toi, mon Sauveur !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg072",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af537",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

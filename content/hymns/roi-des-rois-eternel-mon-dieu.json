@@ -1,0 +1,82 @@
+{
+	"id": "roi-des-rois-eternel-mon-dieu",
+	"title": "Roi des Rois, Éternel mon Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "18"
+		},
+		{
+			"hymnal": "adf",
+			"number": "13"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Roi des rois, Éternel mon Dieu !",
+				"Que ton tabernacle est un lieu",
+				"Sur tous les autres lieux aimable !",
+				"Mon cœur languit, mes sens ravis",
+				"Ne respirent que tes parvis",
+				"Et que ta présence adorable ;",
+				"Mon âme, vers toi s'élevant,",
+				"Cherche ta face, ô Dieu vivant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Hélas ! Seigneur le moindre oiseau,",
+				"L'hirondelle ou le passereau,",
+				"Trouve son nid et sa retraite ;",
+				"Et moi, dans mes ennuis mortels,",
+				"Je languis loin de tes autels ;",
+				"C'est en vain que je m'y souhaite.",
+				"Heureux qui peut, dans ta maison,",
+				"Te louer en toute saison !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qui veut en toi se confier",
+				"T'a pour soleil, pour bouclier ;",
+				"Tu donnes la grâce et la gloire ;",
+				"Tu couronnes l'intégrité",
+				"D'honneur et de félicité,",
+				"Au-delà de ce qu'on peut croire.",
+				"Oh ! mille et mille fois heureux",
+				"Celui qui t'adresse ses vœux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "P. Dagues",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg018",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af013",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

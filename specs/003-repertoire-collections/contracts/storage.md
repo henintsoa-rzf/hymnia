@@ -23,7 +23,7 @@ must migrate from it.
       "createdAt": "2026-11-11T09:00:00.000Z",
       "updatedAt": "2026-11-11T09:05:00.000Z",
       "entries": [
-        { "hymnal": "ce", "number": "1", "addedAt": "2026-11-11T09:01:00.000Z" },
+        { "hymnal": "ce", "number": "1", "addedAt": "2026-11-11T09:01:00.000Z", "hymnId": "a-toi-la-gloire" },
         { "hymnal": "he", "number": "3 bis", "addedAt": "2026-11-11T09:02:00.000Z" }
       ]
     }
@@ -34,7 +34,8 @@ must migrate from it.
 ## Loading (in order)
 
 1. `v2` present and valid → use it.
-2. `v2` present but invalid → copy it to `corrupt-<date>`, start empty, show a notice once.
+2. `v2` present but invalid → copy it to `corrupt-<date>`, remove `v2` (so the next launch
+   does not copy it again), start empty, show a notice once.
 3. `v2` absent → empty Répertoire (the 001 key is not read).
 
 ## Writing
@@ -47,5 +48,10 @@ must migrate from it.
 
 ## Compatibility
 
-Any future field is added with a new `version` and a tested migration from 2. Hymn data
-updates never write to these keys.
+An **optional** field that older versions of the app can ignore without losing data may be added
+within version 2, with a test that a document without it still loads. Older app versions strip
+the unknown field when they write; the new version fills it in again on load. This is how the
+entry's `hymnId` was added (2026-11-11, FR-016).
+
+Any other change (a new required field, a changed meaning, a removed field) needs a new
+`version` and a tested migration from 2. Hymn data updates never write to these keys.

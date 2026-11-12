@@ -1,0 +1,96 @@
+{
+	"id": "a-toi-mon-dieu-mon-coeur-monte",
+	"title": "À toi, mon Dieu, mon cœur monte",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "7"
+		},
+		{
+			"hymnal": "adf",
+			"number": "17"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À toi, mon Dieu, mon cœur monte,",
+				"En toi mon espoir est mis :",
+				"Serais-je couvert de honte",
+				"Au gré de mes ennemis ?",
+				"Jamais on n'est confondu",
+				"Quand sur toi l'on se repose ;",
+				"Mais le méchant est perdu",
+				"Qui nuit au juste sans cause."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O Dieu ! montre-moi la voie",
+				"Qui seule conduit à toi ;",
+				"Fais que je marche avec joie",
+				"Dans les sentiers de ta loi ;",
+				"Fais que je suive toujours",
+				"De ta vérité la route,",
+				"Toi qui de ton prompt secours",
+				"Veux que jamais je ne doute."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Souviens-toi de ta clémence,",
+				"Car elle fut de tout temps ;",
+				"Prends pitié de ma souffrance,",
+				"C'est ta grâce que j'attends.",
+				"Mets loin de ton souvenir",
+				"Les péchés de ma jeunesse,",
+				"Et daigne encore me bénir,",
+				"Seigneur, selon ta promesse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu fut toujours véritable,",
+				"Bon et juste il le sera,",
+				"Et du pécheur misérable",
+				"La voie il redressera.",
+				"Il fera tenir aux bons",
+				"Une conduite innocente ;",
+				"Et, les comblant de ses dons,",
+				"Il remplira leur attente."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg007",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af017",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

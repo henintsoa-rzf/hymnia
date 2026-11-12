@@ -1,0 +1,42 @@
+{
+	"id": "que-la-grace-de-dieu",
+	"title": "Que la grâce de Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "200"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que la grâce de Dieu soit sur toi",
+				"Pour t'aider à marcher dans ses voies.",
+				"Reçois tout son pardon",
+				"Et sa bénédiction…",
+				"Va en paix,",
+				"Dans la joie,",
+				"Dans l'amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cliff Barrows",
+			"role": "music"
+		},
+		{
+			"name": "Pierre Lachat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg200",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

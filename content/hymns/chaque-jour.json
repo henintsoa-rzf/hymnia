@@ -1,0 +1,116 @@
+{
+	"id": "chaque-jour",
+	"title": "Chaque jour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "526"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Non, je ne pourrais pas",
+				"Me tenir devant toi",
+				"Si tu me révélais",
+				"Toute ta sainteté.",
+				"Mais Jésus m'a aimé",
+				"De toute éternité",
+				"Et c'est à travers Lui",
+				"Que je peux m'approcher."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour,",
+				"Je veux marcher dans tes voies",
+				"chaque instant à chaque pas",
+				"Et vivre de ton amour.",
+				"Chaque jour,",
+				"Je veux entendre ta voix",
+				"Et que ma vie soit pour toi",
+				"Tout comme un parfum d'amour",
+				"Que je répands devant toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais tu connais mon cœur,",
+				"Tu connais mes pensées,",
+				"Tous mes désirs secrets",
+				"Je ne peux les cacher.",
+				"Tu te tiens devant moi",
+				"Et tout autour de moi,",
+				"Où donc pourrais-je aller",
+				"Sans toi à mes côtés ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour,",
+				"Je veux marcher dans tes voies",
+				"chaque instant à chaque pas",
+				"Et vivre de ton amour.",
+				"Chaque jour,",
+				"Je veux entendre ta voix",
+				"Et que ma vie soit pour toi",
+				"Tout comme un parfum d'amour",
+				"Que je répands devant toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais j'ai besoin de toi",
+				"Pour assurer mon pas,",
+				"Pour que ma vie entière",
+				"Soit noyée de lumière.",
+				"Je veux pouvoir briller",
+				"Là où tu m'as placé,",
+				"Je veux tenir ta main",
+				"Quelque soit le chemin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chaque jour,",
+				"Je veux marcher dans tes voies",
+				"chaque instant à chaque pas",
+				"Et vivre de ton amour.",
+				"Chaque jour,",
+				"Je veux entendre ta voix",
+				"Et que ma vie soit pour toi",
+				"Tout comme un parfum d'amour",
+				"Que je répands devant toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem526",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

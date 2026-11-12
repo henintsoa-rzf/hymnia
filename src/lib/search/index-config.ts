@@ -4,6 +4,7 @@
  */
 import type { Options } from 'minisearch';
 import type { PublishedHymn } from '../domain/schema';
+import { allTitles } from '../domain/titles';
 import { tokenize } from './normalize';
 
 export type IndexDocument = {
@@ -26,7 +27,8 @@ export const INDEX_OPTIONS: Options<IndexDocument> = {
 export function toIndexDocument(hymn: PublishedHymn): IndexDocument {
 	return {
 		id: hymn.id,
-		title: hymn.title,
+		// Every title the hymnals print (HymnalEntry.title), one per line.
+		title: allTitles(hymn).join('\n'),
 		firstLine: hymn.firstLine,
 		lyrics: hymn.sections.flatMap((s) => s.lines).join('\n')
 	};

@@ -1,0 +1,107 @@
+{
+	"id": "les-cloches-sonnent",
+	"title": "Les cloches sonnent",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "682"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les cloches sonnent sur le pays,",
+				"Les cloches sonnent un réveil de l'Esprit.",
+				"Levez la tête dans les prés et dans les villes !",
+				"Sonnez la fête, invitez vos familles !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il y aura des danses, il y aura des cris,",
+				"Il y aura des chants et des mélodies.",
+				"Tous nos instruments, tous en harmonie,",
+				"Élevant le chant, le chant de l'Esprit.",
+				"Toutes ses promesses,",
+				"toutes ses richesses,",
+				"Son amour déversé sur le pays.",
+				"Appel aux prophètes,",
+				"sonnez des trompettes !",
+				"Venez à la fête du Saint-Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tendez l'oreille, habitants du pays,",
+				"Voyez la main du Seigneur dans vos vies.",
+				"Si sur l'autel nous mettons notre histoire,",
+				"Son saint appel la remplira de gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il y aura des danses, il y aura des cris,",
+				"Il y aura des chants et des mélodies.",
+				"Tous nos instruments, tous en harmonie,",
+				"Élevant le chant, le chant de l'Esprit.",
+				"Toutes ses promesses,",
+				"toutes ses richesses,",
+				"Son amour déversé sur le pays.",
+				"Appel aux prophètes,",
+				"sonnez des trompettes !",
+				"Venez à la fête du Saint-Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sachons connaître les signes des temps ;",
+				"Suivons le feu qui conduit vers l'avant.",
+				"Lâchons la peur, adoptons la confiance ;",
+				"Et dans nos cœurs embrassons l'espérance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il y aura des danses, il y aura des cris,",
+				"Il y aura des chants et des mélodies.",
+				"Tous nos instruments, tous en harmonie,",
+				"Élevant le chant, le chant de l'Esprit.",
+				"Toutes ses promesses,",
+				"toutes ses richesses,",
+				"Son amour déversé sur le pays.",
+				"Appel aux prophètes,",
+				"sonnez des trompettes !",
+				"Venez à la fête du Saint-Esprit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Judith Ann Robertson",
+			"role": "music"
+		},
+		{
+			"name": "Judith Ann Robertson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem682",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

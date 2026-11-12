@@ -1,0 +1,69 @@
+{
+	"id": "pour-tous-les-saints-cd-290",
+	"title": "Pour tous les saints",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "290"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour tous les saints près de toi recueillis.",
+				"Pour les martyrs que ta Sion compta,",
+				"Christ, nos coeurs chantent à ton nom béni :",
+				"Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est toi qui fus leur rempart ici bas,",
+				"Et ton Esprit toujours les éclaira",
+				"Dans leurs souffrances et leurs durs combats.",
+				"Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ô temps béni, sainte fraternité !",
+				"Eux dans la gloire et nous suivant leurs pas,",
+				"Âmes unies pour l’éternité !",
+				"Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et, si l’orage assombrit notre coeur,",
+				"D’en haut toujours une voix descendra,",
+				"Voix qui rassure, qui nous rend vainqueurs.",
+				"Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ruben Saillens",
+			"role": "unspecified"
+		},
+		{
+			"name": "Josiah Booth",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1095",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

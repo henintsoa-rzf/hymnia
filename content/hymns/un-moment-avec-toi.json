@@ -1,0 +1,81 @@
+{
+	"id": "un-moment-avec-toi",
+	"title": "Un moment avec toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1149"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un moment avec toi pour te louer,",
+				"Un moment avec toi pour t’écouter,",
+				"Un moment avec toi pour t’adorer,",
+				"Un moment pour te dire : « Merci »."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Contempler encore ce que tu as fait,",
+				"Regarder au loin dans l’immensité,",
+				"Redire à mon âme : « Ô viens l’adorer ».",
+				"Lève-toi et déclare qu’il vit à jamais !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Un moment avec toi pour te louer,",
+				"Un moment avec toi pour t’écouter,",
+				"Un moment avec toi pour t’adorer,",
+				"Un moment pour te dire : « Merci »."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Au lever du jour, quand je me réveille",
+				"Ou tard dans la nuit, que mon âme s’éveille !",
+				"Perdu au milieu de monts et merveilles,",
+				"Ou dans le secret, caché sous ses ailes !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Un moment avec toi pour te louer,",
+				"Un moment avec toi pour t’écouter,",
+				"Un moment avec toi pour t’adorer,",
+				"Un moment pour te dire : « Merci ».",
+				"Un moment pour te dire : « Merci ».",
+				"Un moment pour te dire : « Je t’aime ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matthieu Kugler",
+			"role": "music"
+		},
+		{
+			"name": "Matthieu Kugler",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1149",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

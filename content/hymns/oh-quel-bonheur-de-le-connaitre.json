@@ -1,0 +1,131 @@
+{
+	"id": "oh-quel-bonheur-de-le-connaitre",
+	"title": "Oh ! quel bonheur de le connaître",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "346"
+		},
+		{
+			"hymnal": "adf",
+			"number": "61",
+			"title": "O quel bonheur de le connaître."
+		},
+		{
+			"hymnal": "cd",
+			"number": "306",
+			"title": "Ô quel bonheur de le connaître"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! quel bonheur de le connaître,",
+				"L'Ami qui ne saurait changer.",
+				"De l'avoir ici-bas pour Maître,",
+				"Pour défenseur et pour berger !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantons, chantons d'un cœur joyeux,",
+				"Le grand amour du Rédempteur,",
+				"Qui vint à nous du haut des cieux",
+				"Et nous sauva du destructeur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans la misère et l'ignorance",
+				"Nous nous débattions sans espoir,",
+				"La mort au cœur, l'âme en souffrance,",
+				"Quand à nos yeux il se fit voir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantons, chantons d'un cœur joyeux,",
+				"Le grand amour du Rédempteur,",
+				"Qui vint à nous du haut des cieux",
+				"Et nous sauva du destructeur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il nous apporta la lumière,",
+				"La victoire et la liberté ;",
+				"L'ennemi mordit la poussière,",
+				"Pour toujours Satan fut dompté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantons, chantons d'un cœur joyeux,",
+				"Le grand amour du Rédempteur,",
+				"Qui vint à nous du haut des cieux",
+				"Et nous sauva du destructeur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Vers l'avenir, marchons sans crainte",
+				"Et sans souci du lendemain,",
+				"Pas à pas, nos pieds dans l'empreinte",
+				"De ses pieds sur notre chemin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantons, chantons d'un cœur joyeux,",
+				"Le grand amour du Rédempteur,",
+				"Qui vint à nous du haut des cieux",
+				"Et nous sauva du destructeur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James McGranahan",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg346",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af061",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1108",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

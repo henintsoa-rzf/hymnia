@@ -1,0 +1,52 @@
+{
+	"id": "dans-ta-presence-jem-566",
+	"title": "Dans ta présence",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "566"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans ta présence, Seigneur,",
+				"Je m'attends à toi,",
+				"J'ai soif de ta présence, oh Jésus.",
+				"Tu marches devant moi,",
+				"Me montrant le chemin ;",
+				"Prends-moi par la main",
+				"Et conduis-moi vers toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Esprit Saint, descends sur nous",
+				"Comme une pluie bienfaisante.",
+				"J'ouvre mon cœur à ton amour",
+				"Et sans crainte je te reçois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Étienne et Lydia Rochat",
+			"role": "music"
+		},
+		{
+			"name": "Étienne et Lydia Rochat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem566",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

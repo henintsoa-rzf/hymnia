@@ -1,0 +1,127 @@
+{
+	"id": "la-presence-de-mon-dieu",
+	"title": "La présence de mon Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "776"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je connais un endroit parfait",
+				"Où je suis en sécurité,",
+				"Oui, c'est la présence de Dieu.",
+				"Il y fait bon, on y est heureux",
+				"Mais qui donc pourrait trouver mieux,",
+				"Mieux que la présence de Dieu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est un lieu sûr dans la tempête,",
+				"Un jour de deuil qui devient fête,",
+				"Dans la présence de mon Dieu.",
+				"C'est plus précieux que l'amitié,",
+				"Que tout ce que la vie peut donner,",
+				"Dans la présence de mon Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que puis-je désirer encore ?",
+				"Que puis-je vouloir de plus fort ?",
+				"Existe-t-il plus grand trésor",
+				"Que la présence de mon Dieu ?",
+				"Que puis-je désirer encore ?",
+				"Que puis-je vouloir de plus fort ?",
+				"Existe-t-il plus grand trésor",
+				"Que la présence de mon Dieu ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je danse devant lui sur des mélodies",
+				"Qui respirent l'amour.",
+				"Et je chanterai pour lui",
+				"Émerveillée comme au premier jour,",
+				"Par la présence de mon Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je connais un lieu de tendresse",
+				"Plus doux que toutes les caresses,",
+				"Oui, c'est la présence de Dieu.",
+				"Je m'y sens bien, j'y suis aimée,",
+				"Pour rien au monde, je ne voudrais",
+				"Quitter la présence de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est comme un lever de soleil",
+				"Ou la beauté d'un arc-en-ciel",
+				"Dans la présence de mon Dieu.",
+				"C'est comme le parfum d'une fleur,",
+				"Le printemps avec ses senteurs,",
+				"Dans la présence de mon Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que puis-je désirer encore ?",
+				"Que puis-je vouloir de plus fort ?",
+				"Existe-t-il plus grand trésor",
+				"Que la présence de mon Dieu ?",
+				"Que puis-je désirer encore ?",
+				"Que puis-je vouloir de plus fort ?",
+				"Existe-t-il plus grand trésor",
+				"Que la présence de mon Dieu ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je danse devant lui sur des mélodies",
+				"Qui respirent l'amour.",
+				"Et je chanterai pour lui",
+				"Émerveillée comme au premier jour,",
+				"Par la présence de mon Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem776",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

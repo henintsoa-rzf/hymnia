@@ -1,0 +1,79 @@
+{
+	"id": "et-pour-toujours-il-regnera",
+	"title": "Et pour toujours il règnera",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "945"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quelle vision, devant mes yeux",
+				"Apparut comme un fils d'homme !",
+				"Il venait sur les nuées",
+				"Et s'approchait d'un grand trône."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout pouvoir lui fut remis,",
+				"La gloire et l'autorité.",
+				"Alors, peuples et nations,",
+				"À genoux l'ont adoré."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et pour toujours il régnera,",
+				"À lui le trône pour l'éternité !",
+				"Oui, pour toujours il régnera,",
+				"Nous régnerons aussi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vois, l'agneau qui s'est donné,",
+				"Il est assis sur le trône.",
+				"Vois, les marques de la croix,",
+				"Éternel signe d'amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et pour toujours il régnera,",
+				"À lui le trône pour l'éternité !",
+				"Oui, pour toujours il régnera,",
+				"Nous régnerons aussi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem945",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

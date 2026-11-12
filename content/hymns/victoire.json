@@ -1,0 +1,79 @@
+{
+	"id": "victoire",
+	"title": "Victoire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "341"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Victoire au Seigneur de la vie,",
+				"Victoire au Dieu de l'infini,",
+				"Victoire au nom de Jésus-Christ,",
+				"Victoire pour le Saint-Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le règne est pour le Tout-puissant,",
+				"Le règne pour lui dans tous les temps,",
+				"Car l'agneau a donné son sang",
+				"Qui crie victoire dès maintenant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Victoire au Seigneur de la vie,",
+				"Victoire au Dieu de l'infini,",
+				"Victoire au nom de Jésus-Christ,",
+				"Victoire pour le Saint-Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Son nom est Parole de Dieu,",
+				"Il juge et règne dans les cieux,",
+				"Il est le Lion de Juda",
+				"Qui a triomphé du combat."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Victoire au Seigneur de la vie,",
+				"Victoire au Dieu de l'infini,",
+				"Victoire au nom de Jésus-Christ,",
+				"Victoire pour le Saint-Esprit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fabienne Pons",
+			"role": "music"
+		},
+		{
+			"name": "Fabienne Pons",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem341",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

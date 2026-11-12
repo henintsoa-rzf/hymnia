@@ -1,0 +1,81 @@
+{
+	"id": "gloire-a-l-agneau-de-dieu",
+	"title": "Gloire à l’agneau de Dieu !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "109"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon sauveur souffrit sur la croix,",
+				"Gloire à l’Agneau de Dieu !",
+				"Oh ! viens le louer avec moi ;"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux dire à chaque pécheur,",
+				"Gloire à l’Agneau de Dieu !",
+				"Qu’enfin j’ai trouvé mon Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, je veux chanter plein de foi",
+				"Gloire à l’Agneau de Dieu !",
+				"Que mon Sauveur est mort pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Du monde je fais l’abandon ;",
+				"Gloire à l’Agneau de Dieu !",
+				"De mes péchés j’ai le pardon !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Parmi les sauvés j’ai mon rang,",
+				"Gloire à l’Agneau de Dieu !",
+				"Mon coeur est lavé dans son sang."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à l’Agneau de Dieu !",
+				"L’Agneau ! l’Agneau ! l’Agneau de Dieu !",
+				"J’aime l’écho de son saint nom ;",
+				"Ce nom brillera sur mon front",
+				"Gloire à l’Agneau de Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chants de l'Armée du Salut",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/957",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Qu'on batte des mains - Conducteur de louange</title>
+    <meta name="description" content="Ressources&#x20;pour&#x20;les&#x20;conducteurs&#x20;de&#x20;louanges">
+<meta name="keywords" content="Psaume&#x20;47">
+<meta name="viewport" content="width&#x3D;device-width,&#x20;initial-scale&#x3D;1,&#x20;shrink-to-fit&#x3D;no">
+<meta http-equiv="X-UA-Compatible" content="IE&#x3D;edge">
+<meta name="copyright" content="www.conducteurdelouange.com">
+<meta name="robots" content="index,follow">
+        <link href="&#x2F;css&#x2F;bootstrap.min.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;style.css&#x3F;11" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;messages.css&#x3F;11" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;print.css&#x3F;11" media="print" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;chordpro.css" media="print,screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;modal.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;pretty-checkbox.min.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;soundmanager&#x2F;css&#x2F;bar-ui.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+    <!--[if lt IE 9]><script  src="&#x2F;js&#x2F;html5shiv.min.js"></script><![endif]-->
+<!--[if lt IE 9]><script  src="&#x2F;js&#x2F;respond.min.js"></script><![endif]-->
+<script  src="&#x2F;js&#x2F;jquery-3.0.0.min.js"></script>
+<script  src="&#x2F;js&#x2F;bootstrap.min.js"></script>
+<script  src="&#x2F;js&#x2F;newsletter.js&#x3F;11"></script>
+<script  src="&#x2F;js&#x2F;cart.js&#x3F;11"></script>
+<script  src="&#x2F;js&#x2F;search.js&#x3F;11"></script>
+<script  src="&#x2F;soundmanager&#x2F;script&#x2F;soundmanager2-nodebug-jsmin.js"></script>
+<script  src="&#x2F;soundmanager&#x2F;script&#x2F;bar-ui.js"></script>
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9110793-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-9110793-1');
+    </script>
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png?v=6948y6OMkA">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png?v=6948y6OMkA">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png?v=6948y6OMkA">
+    <link rel="manifest" href="/favicon/manifest.json?v=6948y6OMkA">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg?v=6948y6OMkA" color="#5bbad5">
+    <link rel="shortcut icon" href="/favicon/favicon.ico?v=6948y6OMkA">
+    <meta name="apple-mobile-web-app-title" content="Conducteur de Louange">
+    <meta name="application-name" content="Conducteur de Louange">
+    <meta name="theme-color" content="#ffffff">
+
+  </head>
+  <body data-base-path="/">
+    <div class="white-background">
+      <div id="container" class="container">
+
+        <div class="row p-l-40 p-r-40">
+          <div id="logo" class="col-lg-6 p-t-20 p-b-20">
+            <a href="/"><img src="/img/logo.png" class="responsive" /></a>
+          </div>
+          <div class="col-lg-6">
+            <div>
+              <section id="session" class="no-print">
+                <span class="session-item">
+                  <span class="glyphicon glyphicon-shopping-cart"></span>
+                  <a href="/panier">Panier</a>
+                  <span class="badge item-count" style="display:none">
+                    <span class="item-count-number">0</span>
+                  </span>
+                </span>
+                                <span class="session-item">
+                  <span class="glyphicon glyphicon-log-in"></span>
+                  <a href="/compte/connexion">Connexion</a>
+                                </span>
+              </section>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="container-fluid">
+
+
+        <div class="navbar navbar-conducteur no-print not-connected" id="nav">
+          <div class="container">
+            <div id="mobile-menu" class="visible-xs-block" onclick="$('.navbar-conducteur .navbar-nav').slideToggle()">
+              <span class="mobile-menu-label">Menu</span>
+              <a href="javascript:void(0);"><span class="  glyphicon glyphicon-menu-hamburger"></span></a>
+            </div>
+            
+            <ul class="nav&#x20;navbar-nav">
+    <li>
+        <a href="&#x2F;">Accueil</a>
+    </li>
+    <li>
+        <a href="&#x2F;chants">Chants</a>
+    </li>
+    <li>
+        <a href="&#x2F;articles">Articles</a>
+    </li>
+    <li>
+        <a href="&#x2F;produits">Produits</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected&#x20;not-connected&#x20;cart" href="&#x2F;panier">Panier</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected" href="&#x2F;compte">Mon compte</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected" href="&#x2F;programme">Mon programme</a>
+    </li>
+    <li>
+        <a class="phone&#x20;not-connected" href="&#x2F;compte&#x2F;connexion">Connexion</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected" href="&#x2F;compte&#x2F;deconnexion">Déconnexion</a>
+    </li>
+</ul>    
+              <form class="navbar-form p-0 m-0" method="GET" action="/chants/rechercher">
+              <div class="form-group" style="display:inline;">
+                <div id="search" class="input-group" style="display:table;">
+                  <div id="quick-results"><div id="quick-results-content" class="search-results quick visible-lg"></div></div>
+                  <input type="text" name="parametre" class="form-control" placeholder="Recherche" autocomplete="off" />
+  <span class="input-group-addon" style="width:1%;"><span class="glyphicon glyphicon-search"></span></span>
+                </div>
+              </div>
+            </form>
+
+
+          </div>
+        </div>
+
+      </div>
+      <div class="container">
+
+        <section id="flash-messages">
+          <div class="row p-l-40 p-r-40">
+            <div class="col-xs-12">
+                                                                        </div>
+          </div>
+        </section>
+
+        
+
+<div id="web-address" class="print-only">conducteurdelouange.com/1411</div>
+<div class="row p-l-40 p-r-40 m-b-40">
+  <div class="col-xs-12">
+    <h2>
+      Qu'on batte des mains          </h2>    
+  </div>
+  <div class="col-sm-9 col-md-10 version "> 
+
+    <a type="button" id="song-info-toggle" class="btn btn-success btn-sm song-info-toggle hidden-sm hidden-md hidden-lg no-print" aria-expanded="false" aria-controls="song-info-panel" title="Afficher les informations additionnelles">
+      <span class="glyphicon glyphicon-option-horizontal" aria-hidden="true"></span>
+      <span class="sr-only">Informations additionnelles</span>
+    </a>
+
+  <div id="song-info-panel" class="song-info-panel" aria-hidden="true">
+
+    
+    <section class="categories no-print">
+          </section>
+
+    <section class="credits">
+            
+
+<span class="credit">
+        <span class="author">
+  <a href="/chants/auteur/889">Louis Bourgeois</a>
+</span>
+</span>
+            
+
+<span class="credit">
+        <span class="author">
+  <a href="/chants/auteur/890">Théodore de Bèze</a>
+</span>
+</span>
+            
+
+<span class="credit">
+            <span class="source">
+  <a href="/chants/recueil/19">Sur les ailes de la foi</a>
+        #1    </span>
+</span>
+        </section>
+
+        <section class="references no-print">
+                                                Psaume 47    </section>
+    
+    
+<section class="actions no-print pull-right">
+  <p>
+  <span class="no-print">
+	<div class="sharethis-inline-share-buttons"></div>
+</span>
+  </p>
+
+  <div class="pull-right btn-toolbar m-b-10">
+    <div class="btn-group">
+      <a type="button" class="btn btn-success btn-sm" onclick="increaseFont()">
+        <i class="glyphicon glyphicon-font"></i>+
+      </a>
+      <a type="button" class="btn btn-success btn-sm" onclick="decreaseFont()">
+        <i class="glyphicon glyphicon-font"></i>-
+      </a>
+    </div>
+    <a type="button" id="chordpro-download-btn" href="/1411/chordpro" class="btn btn-success btn-sm">
+      ChordPro
+    </a>
+    <a type="button" class="btn btn-success btn-sm hidden-xs hidden-sm" onclick="window.print()">
+      <i class="glyphicon glyphicon-print"></i>
+    </a>
+  </div>
+
+  
+  
+</section>
+  </div>
+
+  <section class="body">
+  <div class="chordpro-key"></div><div class="chordpro-comment"> Couplet</div><div class="chordpro-start_of_verse"></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Qu'on&nbsp;batte&nbsp;des&nbsp;mains&nbsp;!&nbsp;Que&nbsp;tous&nbsp;les&nbsp;humains,</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">En&nbsp;cet&nbsp;heureux&nbsp;jour,&nbsp;viennent&nbsp;tour&nbsp;à&nbsp;tour</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">D'un&nbsp;chant&nbsp;solennel&nbsp;louer&nbsp;l'Eternel.</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Peuples,&nbsp;il&nbsp;vous&nbsp;faut&nbsp;craindre&nbsp;le&nbsp;Très-Haut,</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Le&nbsp;grand&nbsp;Roi&nbsp;qui&nbsp;peut&nbsp;faire&nbsp;quand&nbsp;Il&nbsp;veut</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Trembler&nbsp;à&nbsp;Sa&nbsp;voix&nbsp;les&nbsp;plus&nbsp;puissants&nbsp;rois.</span>
+            </span></div><div class="chordpro-end_of_verse"></div><br /><div class="chordpro-comment"> Couplet</div><div class="chordpro-start_of_verse"></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Par&nbsp;son&nbsp;grand&nbsp;pouvoir&nbsp;Il&nbsp;nous&nbsp;fera&nbsp;voir</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Les&nbsp;peuples&nbsp;soumis&nbsp;;&nbsp;et&nbsp;nos&nbsp;ennemis,</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Par&nbsp;lui&nbsp;châtiés&nbsp;seront&nbsp;sous&nbsp;nos&nbsp;pieds,</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Ce&nbsp;Maître&nbsp;si&nbsp;doux&nbsp;a&nbsp;choisi&nbsp;pour&nbsp;nous</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">La&nbsp;meilleure&nbsp;part,&nbsp;et,&nbsp;sous&nbsp;son&nbsp;regard,</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Israël&nbsp;en&nbsp;paix&nbsp;triomphe&nbsp;à&nbsp;jamais.</span>
+            </span></div><div class="chordpro-end_of_verse"></div><br /><div class="chordpro-comment"> Couplet</div><div class="chordpro-start_of_verse"></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Peuples,&nbsp;le&nbsp;voici&nbsp;qui&nbsp;se&nbsp;montre&nbsp;ici.</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Que&nbsp;pour&nbsp;l'honorer,&nbsp;que&nbsp;pour&nbsp;l'adorer,</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">On&nbsp;aille&nbsp;au-devant&nbsp;du&nbsp;grand&nbsp;Dieu&nbsp;vivant&nbsp;!</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Chantez&nbsp;donc,&nbsp;chantez&nbsp;Ses&nbsp;grandes&nbsp;bontés&nbsp;;</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">D'un&nbsp;cœur&nbsp;plein&nbsp;de&nbsp;foi&nbsp;chantez&nbsp;notre&nbsp;Roi,</span>
+            </span></div><div class="chordpro-verse"><span class="chordpro-elem">
+              <span class="chordpro-chord"><sup></sup></span>
+              <span class="chordpro-text">Le&nbsp;vrai,&nbsp;le&nbsp;seul&nbsp;Dieu,&nbsp;qui&nbsp;règne&nbsp;en&nbsp;tout&nbsp;lieu.</span>
+            </span></div><div class="chordpro-end_of_verse"></div><br />  </section>
+
+  
+  
+  
+  </div>
+
+  <div class="col-sm-3 col-md-2 no-print">
+            
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Chants -->
+    <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-3666487257099705"
+      data-ad-slot="9648947555"
+      data-ad-format="auto"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+
+
+</div>
+
+
+
+
+<script>
+  {/* soundManager.setup({ */}
+  {/*   url: '/soundmanager/swf/', */}
+  {/*   flashVersion: 9, // optional: shiny features (default = 8) */}
+  {/*   // optional: ignore Flash where possible, use 100% HTML5 mode */}
+  {/*   // preferFlash: false, */}
+  {/*   onready: function() { */}
+  {/*     console.log("soundmanager onready()"); */}
+  {/*     // Ready to use; soundManager.createSound() etc. can now be called. */}
+  {/*     $('section.previews .preview').each(function () { */}
+  {/*       soundManager.createSound({ */}
+  {/*         id: 'preview-' + $(this).attr('data-id'), */}
+  {/*         url: $(this).attr('data-url') */}
+  {/*       }) */}
+  {/*     }) */}
+  {/*   } */}
+  {/* }); */}
+</script>
+
+<script>
+  $(function() {
+    var $songInfoPanel = $('#song-info-panel');
+    var $songInfoToggle = $('#song-info-toggle');
+    if ($songInfoPanel.length && $songInfoToggle.length) {
+      var resizeTimer;
+      var raf = window.requestAnimationFrame || function (callback) {
+        return window.setTimeout(callback, 16);
+      };
+
+      var disableTransitionTemporarily = function () {
+        $songInfoPanel.addClass('no-transition');
+        raf(function () {
+          if ($songInfoPanel.length) {
+            $songInfoPanel[0].offsetHeight; // force reflow
+          }
+          $songInfoPanel.removeClass('no-transition');
+        });
+      };
+
+      var openPanel = function (skipAnimation) {
+        if ($songInfoPanel.hasClass('is-open')) {
+          $songInfoPanel.attr('aria-hidden', 'false');
+          $songInfoToggle.attr('aria-expanded', 'true');
+          return;
+        }
+
+        if (skipAnimation) {
+          disableTransitionTemporarily();
+        }
+
+        $songInfoPanel.addClass('is-open').attr('aria-hidden', 'false');
+        $songInfoToggle.attr('aria-expanded', 'true');
+      };
+
+      var closePanel = function (skipAnimation) {
+        if (!$songInfoPanel.hasClass('is-open')) {
+          $songInfoPanel.attr('aria-hidden', 'true');
+          $songInfoToggle.attr('aria-expanded', 'false');
+          return;
+        }
+
+        if (skipAnimation) {
+          disableTransitionTemporarily();
+        }
+
+        $songInfoPanel.removeClass('is-open').attr('aria-hidden', 'true');
+        $songInfoToggle.attr('aria-expanded', 'false');
+      };
+
+      var syncSongInfoToggle = function () {
+        if ($songInfoToggle.is(':visible')) {
+          if ($songInfoPanel.hasClass('is-open')) {
+            $songInfoPanel.attr('aria-hidden', 'false');
+            $songInfoToggle.attr('aria-expanded', 'true');
+          } else {
+            $songInfoPanel.attr('aria-hidden', 'true');
+            $songInfoToggle.attr('aria-expanded', 'false');
+          }
+        } else {
+          openPanel(true);
+        }
+      };
+
+      $songInfoToggle.on('click', function (event) {
+        event.preventDefault();
+        if ($songInfoPanel.hasClass('is-open')) {
+          closePanel(false);
+        } else {
+          openPanel(false);
+        }
+      });
+
+      syncSongInfoToggle();
+      $(window).on('resize', function () {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(syncSongInfoToggle, 150);
+      });
+    }
+
+    $('#song-prefs input, #song-prefs select').change(function () {
+      if ($('#song-prefs').attr('data-chord-access') == "0") {
+        $('#show-chords').prop('checked', false);
+      } else {
+        $('#song-prefs').submit();
+      }
+    })
+
+    $('#my-program').change(function() {
+      var checked = $(this).prop('checked');
+      var count = $('.program-count-number');
+      var key = $('select[name="transpose"]').length ? $('select[name="transpose"]').val() : null;
+      var data = {}
+      if (key) {
+        data = {key: key}
+      }
+      if (checked) {
+        count.html(parseInt(count.html()) + 1);
+      } else {
+        count.html(parseInt(count.html()) -1);
+      }
+      $.get(checked ? $(this).attr('data-add-url') : $(this).attr('data-remove-url'), data); 
+    })
+  })
+
+function increaseFont() {
+  var fontSize = parseInt($(".body").css("font-size"));
+  fontSize = fontSize + 3 + "px";
+  $(".body").css({'font-size':fontSize});
+}
+
+function decreaseFont() {
+  var fontSize = parseInt($(".body").css("font-size"));
+  fontSize = fontSize - 3 + "px";
+  $(".body").css({'font-size':fontSize});
+}
+</script>
+
+
+      </div>
+    </div>
+    <div class="container-fluid dark no-print">
+      <div class="container">
+        <section id="footer">
+          <div class="row p-l-40 p-r-40">
+            <div class="col-md-3 col-sm-4">
+              <h3>Informations</h3>
+              <p><a href="/chants">Chants</a></p>
+              <p><a href="/articles">Articles</a></p>
+              <p><a href="/bible">Bible</a></p>
+              <p><a href="/produits">Produits</a></p>
+            </div>
+            <div class="col-md-3 col-sm-4">
+              <h3>Mon compte</h3>
+              <p><a href="/compte">Mes informations</a></p>
+              <p><a href="/compte/telechargements">Téléchargements</a></p>
+              <p><a href="/panier">Mon panier</a></p>
+              <p><a href="/programme">Mon programme</a></p>
+            </div>
+            <div class="col-md-3 col-sm-4">
+              <h3>Nous joindre</h3>
+              <p class="m-b-0"><a class="social" href="/contacter"><span class="symbol">roundedemail</span> <span class="text">Courriel</span></a></p>
+              <p class="m-b-0"><a class="social" href="http://www.facebook.com/pages/Conducteur-de-louange/233059966712239" target="_blank"><span class="symbol">roundedfacebook</span> <span class="text">Facebook</span></a></p>
+              <p class="m-b-0"><a class="social" href="https://twitter.com/Conduct_Louange" target="_blank"><span class="symbol">roundedtwitter</span> <span class="text">Twitter</span></a></p>
+            </div>
+            <div class="col-md-3 m-b-20 col-sm-12">
+              <h3>Abonnez-vous à notre lettre de nouvelles</h3>
+              <form id="newsletter" method="POST" action="/lettre-de-nouvelles/abonner">
+                <input class="form-control" type="email" name="courriel" placeholder="Courriel"></input>
+              </form>
+            </div>
+          </div>
+        </section>
+
+        <section id="copyright">
+          <div class="row p-l-40 p-r-40 m-t-10 m-b-20">
+            <div class="col-xs-12">
+              <center>&copy; 2026 Conducteurdelouange.com - <a href="/termes-et-conditions">Termes et conditions</a></center>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a18540163750b0012e6b953&product=inline-share-buttons"></script>
+    <script> /* Fix for hastagh sticking after Facebook login. */  if (window.location.href.split('#')[1] == '_=_') { window.location.href = window.location.href.split('#')[0] } </script>
+  </body>
+</html>

@@ -1,0 +1,79 @@
+{
+	"id": "nous-tiendrons",
+	"title": "Nous tiendrons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "540"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous tiendrons, établis sur le roc.",
+				"Face à nos ennemis, nous élevons ton nom.",
+				"Avançons, même au cœur de la nuit,",
+				"Les yeux fixés sur toi ; le jour se lèvera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu m'as choisi",
+				"pour porter du fruit,",
+				"Et que je sois un jour semblable à toi.",
+				"Je veux persévérer, je te verrai face à face."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous tiendrons, établis sur le roc.",
+				"Face à nos ennemis, nous élevons ton nom.",
+				"Avançons, même au cœur de la nuit,",
+				"Les yeux fixés sur toi ; le jour se lèvera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, tu nous envoies",
+				"comme tes témoins,",
+				"Et de ton Saint-Esprit tu nous as oints.",
+				"Je veux persévérer, je te verrai face à face."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous tiendrons, établis sur le roc.",
+				"Face à nos ennemis, nous élevons ton nom.",
+				"Avançons, même au cœur de la nuit,",
+				"Les yeux fixés sur toi ; le jour se lèvera."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem540",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

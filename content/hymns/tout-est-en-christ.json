@@ -1,0 +1,77 @@
+{
+	"id": "tout-est-en-christ",
+	"title": "Tout est en Christ",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "70"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tout est en Christ:",
+				"Il est le suprême bien.",
+				"En Jésus tout est lumière,",
+				"Tout est vie, amour parfait.",
+				"Nous voyons en lui le Père,",
+				"Dont il est le vrai reflet.",
+				"De Dieu toute la richesse,",
+				"Les trésors de la sagesse",
+				"Sont cachés pour nous en lui:",
+				"Que son saint nom soit béni!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout est en Christ:",
+				"Il est le suprême bien.",
+				"Par sa croix, Il nous dispense",
+				"Tous les dons du Dieu d'amour;",
+				"Nous avons par ses souffrances",
+				"Paix profondes pour toujours.",
+				"De la croix jaillit la vie,",
+				"Le pardon, grâce infinie.",
+				"En donnant son Fils aimé,",
+				"Dieu pour nous a tout donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tout est en Christ:",
+				"Il est le suprême bien.",
+				"En moi, tout n'est que faiblesse,",
+				"Je n'ai rien, je ne puis rien;",
+				"Sans lumière, sans sagesse,",
+				"Je suis pauvre de tous biens.",
+				"Mais en Christ est l'abondance,",
+				"La victoire, la puissance.",
+				"Ô Jésus, viens vivre en moi,",
+				"Viens me rendre riche en toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "unspecified"
+		},
+		{
+			"name": "J. S Back",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/876",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

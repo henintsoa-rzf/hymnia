@@ -1,0 +1,49 @@
+{
+	"id": "du-lever-du-soleil",
+	"title": "Du lever du soleil",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "236"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du lever du soleil jusqu'à son coucher,",
+				"Bénissez l'Éternel Dieu, le Tout-Puissant !",
+				"Du lever du soleil jusqu'à son coucher,",
+				"Bénissez l'Éternel Dieu, le Tout-Puissant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bénissez Dieu, vous ses enfants,",
+				"célébrez l'Éternel !",
+				"Béni soit le nom du Seigneur,",
+				"dès maintenant et pour l'éternité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Deming",
+			"role": "music"
+		},
+		{
+			"name": "Paul Deming",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem236",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

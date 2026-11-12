@@ -1,0 +1,82 @@
+{
+	"id": "j-irai-parler",
+	"title": "J'irai parler",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "441"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'irai parler",
+				"Pour ceux qui n'ont pas de voix.",
+				"J'irai plaider",
+				"Pour les droits des hommes exploités,",
+				"Proclamer droit et justice,",
+				"Protéger le pauvre et l'opprimé",
+				"Et relever le faible au nom du Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'irai parler",
+				"Pour ceux qui n'ont pas le choix.",
+				"J'irai crier",
+				"Pour ceux qui sont mal aimés,",
+				"Apporter paix et amour",
+				"Aux meurtris et aux esprits brisés",
+				"Et relever le faible au nom du Christ. Oh"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J'irai parler",
+				"Pour ceux qui n'ont pas de voix.",
+				"J'irai plaider",
+				"Pour les droits des hommes exploités,",
+				"Proclamer droit et justice,",
+				"Protéger le pauvre et l'opprimé",
+				"Et relever le faible au nom du Christ."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'irai parler",
+				"Pour ceux qui n'ont pas de voix.",
+				"J'irai plaider",
+				"Pour les droits des hommes exploités,",
+				"Proclamer droit et justice,",
+				"Protéger le pauvre et l'opprimé",
+				"Et relever le faible au nom du Christ.",
+				"Au nom du Christ."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Bankhead",
+			"role": "music"
+		},
+		{
+			"name": "Bankhead",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem441",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

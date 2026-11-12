@@ -1,0 +1,79 @@
+{
+	"id": "plus-le-mal-est-pressant",
+	"title": "Plus le mal est pressant.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "381"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Plus le mal est pressant,",
+				"plus ma misère est grande,",
+				"Plus l'abîme est profond",
+				"et béant sous mes pas,",
+				"Plus le péril extrême",
+				"un prompt secours demande,",
+				"Plus je me réfugie, ô Jésus, dans tes bras !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Parmi tous les dangers,",
+				"c'est Toi qui me rassures,",
+				"Contre tous les assauts,",
+				"c'est Toi mon bouclier !",
+				"C'est Toi, si je faiblis,",
+				"qui guéris mes blessures ;",
+				"Pour pouvoir tout, sur Toi",
+				"je n'ai qu'à m'appuyer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu m'as associé, Jésus, à ta victoire ;",
+				"Mets ta force en mon bras,",
+				"mets ta flamme en mon cœur !",
+				"Oui, viens par mon triomphe,",
+				"ajouter à ta gloire,",
+				"Combattre par mes mains",
+				"et me rendre vainqueur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu me donnes toujours selon ma confiance,",
+				"Quand j'ai tout demandé, n'ai-je pas tout reçu ?",
+				"Avec Toi tout triomphe est assuré d'avance :",
+				"Quand on est sûr de vaincre, on a déjà vaincu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ludwig van Beethoven",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af381",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

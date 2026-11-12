@@ -1,0 +1,82 @@
+{
+	"id": "venez-a-celui-qui-pardonne",
+	"title": "Venez à Celui qui pardonne.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "253"
+		},
+		{
+			"hymnal": "cd",
+			"number": "163"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez à Celui qui pardonne",
+				"Aux pécheurs qui n'espéraient plus !",
+				"C'est aux plus pauvres qu'Il se donne",
+				"Il peut sauver les plus perdus",
+				"Son sang, répandu pour le monde,",
+				"Peut seul effacer et blanchir",
+				"Ce que l'océan, sous son onde,",
+				"Ne ferait pas même pâlir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Venez à Celui qui relève",
+				"Ceux qu'on vit descendre si bas",
+				"Que leur salut paraît un rêve",
+				"Dont on rit et qu'on ne croit pas.",
+				"Sur la pécheresse qui pleure",
+				"Il imprima son sceau divin",
+				"Le brigand, à la dernière heure,",
+				"N'implora pas sa grâce en vain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Venez à Celui qui console",
+				"Les inconsolables douleurs :",
+				"Venez apprendre à son école",
+				"L'art divin de sécher les pleurs.",
+				"Comme Il a répandu des larmes,",
+				"Il peut aussi les essuyer ;",
+				"Et la douleur lui rend les armes,",
+				"Car Il a souffert le premier."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Howard Doane",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af253",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/996",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

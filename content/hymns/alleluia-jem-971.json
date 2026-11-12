@@ -1,0 +1,73 @@
+{
+	"id": "alleluia-jem-971",
+	"title": "Alléluia",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "971"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia,",
+				"Tu es digne de louange.",
+				"Alléluia, alléluia,",
+				"Tu es digne de louange."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sois loué, exalté,",
+				"Sois loué, exalté,",
+				"Sois loué, exalté, Jésus,",
+				"Toi que nous glorifions,",
+				"Toi que nous exaltons,",
+				"Ton nom soit glorifié !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sois loué, exalté,",
+				"Sois loué, exalté,",
+				"Sois loué, exalté, Jésus,",
+				"Toi que nous glorifions,",
+				"Toi que nous exaltons,",
+				"Ton nom soit glorifié !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia,",
+				"Tu es digne de louange.",
+				"Alléluia, alléluia,",
+				"Tu es digne de louange."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ben Cantelon",
+			"role": "music"
+		},
+		{
+			"name": "Ben Cantelon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem971",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

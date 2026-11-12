@@ -1,0 +1,43 @@
+{
+	"id": "mon-coeur-s-incline",
+	"title": "Mon cœur s'incline",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "580"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon cœur s'incline devant toi",
+				"Pour te louer, t'adorer,",
+				"Tout-puissant Prince de paix.",
+				"Tu es mon Roi.",
+				"Assis au ciel avec toi,",
+				"Je te contemple, Éternel,",
+				"Parfait dans toutes tes voies,",
+				"Tu es mon Roi, tu es mon Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Baloche",
+			"role": "music"
+		},
+		{
+			"name": "Paul Baloche",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem580",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

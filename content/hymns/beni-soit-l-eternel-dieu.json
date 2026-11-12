@@ -1,0 +1,61 @@
+{
+	"id": "beni-soit-l-eternel-dieu",
+	"title": "Béni soit l'Éternel Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "12"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni soit l'Éternel Dieu,",
+				"le grand Dieu d'Israël,",
+				"Béni soit l'Éternel Dieu,",
+				"le grand Dieu d'Israël,",
+				"Qui seul fait des prodiges !",
+				"Qui seul fait des prodiges !",
+				"Béni soit à jamais son nom glorieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que toute la terre soit remplie de sa gloire !",
+				"Amen ! Amen ! Amen !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Béni soit l'Éternel Dieu,",
+				"le grand Dieu d'Israël,",
+				"Béni soit l'Éternel Dieu,",
+				"le grand Dieu d'Israël.",
+				"Amen ! Amen ! Amen !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Shirley Powell",
+			"role": "music"
+		},
+		{
+			"name": "Shirley Powell",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem012",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

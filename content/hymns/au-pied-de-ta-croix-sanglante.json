@@ -1,0 +1,155 @@
+{
+	"id": "au-pied-de-ta-croix-sanglante",
+	"title": "Au pied de ta croix sanglante.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "293"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au pied de la croix sanglante,",
+				"Où tu t'es donné pour moi,",
+				"Mon âme émue et tremblante,",
+				"O Jésus se livre à Toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le parfait bonheur,",
+				"Le parfait bonheur,",
+				"C'est de mettre",
+				"Tout mon être",
+				"À tes pieds, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Me voici pour ton service,",
+				"Je ne garde rien pour moi,",
+				"Sur l'autel du sacrifice",
+				"Je me place par la foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le parfait bonheur,",
+				"Le parfait bonheur,",
+				"C'est de mettre",
+				"Tout mon être",
+				"À tes pieds, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Prends, Seigneur, ma vie entière,",
+				"Mets sur moi ton divin sceau ;",
+				"Fais d'un fils de la poussière,",
+				"Un enfant du Dieu très-haut."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le parfait bonheur,",
+				"Le parfait bonheur,",
+				"C'est de mettre",
+				"Tout mon être",
+				"À tes pieds, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À la gloire, aux biens du monde,",
+				"Je renonce pour jamais ;",
+				"Que le Saint-Esprit m'inonde",
+				"De ta joie et de ta paix !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le parfait bonheur,",
+				"Le parfait bonheur,",
+				"C'est de mettre",
+				"Tout mon être",
+				"À tes pieds, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Si ma faiblesse est bien grande,",
+				"Ta force est plus grande encor,",
+				"O Jésus, qu'elle me rende",
+				"Fidèle jusqu'à la mort !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le parfait bonheur,",
+				"Le parfait bonheur,",
+				"C'est de mettre",
+				"Tout mon être",
+				"À tes pieds, Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"O félicité suprême !",
+				"Ta grâce est mon bouclier.",
+				"Et je t'appartiens, je t'aime,",
+				"Toi qui m'aimas le premier."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le parfait bonheur,",
+				"Le parfait bonheur,",
+				"C'est de mettre",
+				"Tout mon être",
+				"À tes pieds, Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Winfield Scott Weeden",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af293",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

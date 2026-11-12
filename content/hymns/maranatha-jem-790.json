@@ -1,0 +1,106 @@
+{
+	"id": "maranatha-jem-790",
+	"title": "Maranatha",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "790"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il revient victorieux, il revient majestueux.",
+				"Maranatha, Jésus revient !",
+				"Il revient victorieux, il revient majestueux.",
+				"Maranatha, Jésus revient !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un cri de triomphe, l'éclair, le tonnerre",
+				"Et les voix des anges",
+				"sortent au-devant du trône de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il revient victorieux, il revient majestueux.",
+				"Maranatha, Jésus revient !",
+				"Il revient victorieux, il revient majestueux.",
+				"Maranatha, Jésus revient !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand il reviendra, tout œil le verra,",
+				"Chacun fléchira,",
+				"rien ni personne ne tiendra devant lui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il revient victorieux, il revient majestueux.",
+				"Maranatha, Jésus revient !",
+				"Jésus, Jésus revient !",
+				"Jésus, Jésus revient !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Quand ce jour apparaîtra,",
+				"Tous confesseront son nom,",
+				"Tous proclameront ensemble",
+				"Le nom qui sauve, le nom qui délivre.",
+				"Quand ce jour apparaîtra,",
+				"Nous le couronnerons roi.",
+				"Il est digne de recevoir",
+				"Honneur et gloire, puissance et majesté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu reviens victorieux,",
+				"tu reviens majestueux.",
+				"Maranatha, Jésus reviens !",
+				"Tu reviens victorieux,",
+				"tu reviens majestueux.",
+				"Maranatha, Jésus reviens !",
+				"Jésus, Jésus reviens !",
+				"Jésus, Jésus reviens !",
+				"Jésus, Jésus reviens !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Judith Schnegg",
+			"role": "music"
+		},
+		{
+			"name": "Judith Schnegg",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem790",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

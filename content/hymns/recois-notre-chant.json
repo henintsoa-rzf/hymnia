@@ -1,0 +1,79 @@
+{
+	"id": "recois-notre-chant",
+	"title": "Reçois notre chant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1200"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Créateur de l’univers,",
+				"Origine de toutes choses,",
+				"Tu as couronné de l’aube",
+				"L’horizon de notre terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois en retour notre chant d’amour.",
+				"Nous louons ton nom.",
+				"Tu es le vrai Père, tu guides et protèges.",
+				"Nous louons ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Créateur et souverain,",
+				"Tu as façonné le monde.",
+				"Chaque instant, chaque seconde,",
+				"Tout subsiste entre tes mains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De l’Eden enfin conçu,",
+				"Comme un souffle après l’orage,",
+				"Tu fis l’homme à ton image",
+				"Et ton œuvre à son insu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois en retour notre chant d’amour.",
+				"Nous louons ton nom.",
+				"Tu es le vrai Père, tu guides et protèges.",
+				"Nous louons ton nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stéphane Unger, Siméon Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Stéphane Unger, Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1200",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

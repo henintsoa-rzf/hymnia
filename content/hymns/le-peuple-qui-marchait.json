@@ -1,0 +1,88 @@
+{
+	"id": "le-peuple-qui-marchait",
+	"title": "Le peuple qui marchait",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "94"
+		},
+		{
+			"hymnal": "adf",
+			"number": "545"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le peuple qui marchait",
+				"dans d'épaisses ténèbres",
+				"Voit resplendir enfin la lumière des cieux.",
+				"Ceux que la mort couvrait",
+				"de ses voiles funèbres",
+				"Aux doux rayons d'en-haut",
+				"ouvrent enfin les yeux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que par de saints transports",
+				"éclate notre joie !",
+				"Les temps sont accomplis",
+				"et l'Enfant nous est né ;",
+				"Dans sa fidélité, le Seigneur nous l'envoie ;",
+				"Comme il l'avait promis,",
+				"le Fils nous est donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Né dans la pauvreté,",
+				"couché dans une étable,",
+				"Son nom est l'Éternel ; c'est lui qui nous a faits.",
+				"Il est le Conseiller, le Dieu fort, l'Admirable ;",
+				"O pécheur, viens à lui : c'est le Prince de paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus tient en sa main le sceptre de justice",
+				"Et, pour l'éternité, son règne est affermi.",
+				"Il faut, au nom de Christ,",
+				"que tout genou fléchisse",
+				"Et qu'enfin, sous ses pieds, tombe tout ennemi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Montbéliard",
+			"role": "music"
+		},
+		{
+			"name": "Charles Decoppet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg094",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af545",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

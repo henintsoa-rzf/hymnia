@@ -1,0 +1,59 @@
+{
+	"id": "l-eternel-combattra-pour-vous",
+	"title": "L'Éternel combattra pour vous",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "363"
+		},
+		{
+			"hymnal": "jem",
+			"number": "19"
+		},
+		{
+			"hymnal": "cd",
+			"number": "34"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel combattra pour vous,",
+				"L'Éternel combattra pour vous,",
+				"L'Éternel combattra pour vous,",
+				"Et vous, gardez le silence."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg363",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem019",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/918",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

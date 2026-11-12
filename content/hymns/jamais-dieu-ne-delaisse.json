@@ -1,0 +1,87 @@
+{
+	"id": "jamais-dieu-ne-delaisse",
+	"title": "Jamais Dieu ne délaisse",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "313"
+		},
+		{
+			"hymnal": "adf",
+			"number": "398"
+		},
+		{
+			"hymnal": "adf",
+			"number": "398A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jamais Dieu ne délaisse",
+				"Qui se confie en lui ;",
+				"Si le monde m'oppresse",
+				"Jésus est mon appui.",
+				"Ce Dieu tendre et fidèle,",
+				"Garde en sa paix les siens",
+				"Pour la vie éternelle,",
+				"Et les comble de biens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux, sachant qu'il m'aime,",
+				"Me remettre à ses soins ;",
+				"Beaucoup mieux que moi-même",
+				"Il connaît mes besoins.",
+				"Ce Dieu plein de tendresse,",
+				"Confondrait-il ma foi ?",
+				"Non ! plus le mal me presse",
+				"Plus il est près de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, par l'efficace",
+				"Du sang versé pour moi,",
+				"Accorde-moi la grâce",
+				"De vivre tout pour toi !",
+				"C'est la vie éternelle",
+				"Déjà dès ici-bas,",
+				"Jusqu'au jour qui m'appelle",
+				"À passer dans tes bras."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Frederick Charles Maker",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg313",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af398",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af398a",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

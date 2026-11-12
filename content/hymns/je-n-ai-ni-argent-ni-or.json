@@ -1,0 +1,43 @@
+{
+	"id": "je-n-ai-ni-argent-ni-or",
+	"title": "Je n'ai ni argent ni or",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "42"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je n'ai ni argent ni or ;",
+				"Mais ce que j'ai, je te le donne:",
+				"Au nom puissant de Jésus-Christ de Nazareth,",
+				"Lève-toi et marche.",
+				"Marchant et sautant et louant Dieu.",
+				"Marchant et sautant et louant Dieu.",
+				"Au nom puissant de Jésus-Christ de Nazareth,",
+				"Lève-toi et marche."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem042",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

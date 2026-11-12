@@ -1,0 +1,105 @@
+{
+	"id": "je-l-ai-trouve",
+	"title": "Je l'ai trouvé",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "248"
+		},
+		{
+			"hymnal": "adf",
+			"number": "269"
+		},
+		{
+			"hymnal": "cd",
+			"number": "214"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je l'ai trouvé, je l'ai trouvé,",
+				"Le bonheur ineffable !",
+				"Je suis sauvé, je suis sauvé,",
+				"O joie inexprimable !",
+				"Tous mes péchés sont effacés ;",
+				"Le sang de Christ me lave",
+				"Les jours des larmes sont passés :",
+				"Je ne suis plus esclave !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! quel bonheur ! oh ! quel bonheur",
+				"D'avoir Jésus pour Maître !",
+				"O mon Sauveur, mon seul Sauveur !",
+				"À toi seul je veux être !",
+				"Tu vins briser, puissant Vainqueur,",
+				"Du mal la tyrannie.",
+				"Affranchissant mon pauvre cœur",
+				"Et me donnant la vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans ton amour, tu m'as cherché,",
+				"Errant bien loin du Père !",
+				"Tu m'as sauvé de mon péché,",
+				"Tu fis de moi ton frère :",
+				"Et maintenant, et pour jamais,",
+				"Sous ton joug je me plie ;",
+				"Je ne puis vivre désormais,",
+				"Jésus, que de ta vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ah ! laissez-moi chanter mon Roi ;",
+				"Oui, qu'à genoux, je chante !",
+				"Jésus n'est-il pas tout pour moi ?",
+				"Gloire à sa croix sanglante !",
+				"Sans se lasser, jour après jour,",
+				"Il m'aime, il m'aime encore.",
+				"Comment répondre à tant d'amour ?",
+				"Je crois, j'aime et j'adore !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Coles Stebbins",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg248",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af269",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1047",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

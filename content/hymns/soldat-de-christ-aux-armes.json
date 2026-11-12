@@ -1,0 +1,85 @@
+{
+	"id": "soldat-de-christ-aux-armes",
+	"title": "Soldat de Christ, aux armes !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "329"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Soldat de Christ, aux armes !",
+				"C’est le jour du combat !",
+				"Partout un cri d’alarme",
+				"Retentit ici-bas;",
+				"De haine et d’anarchie",
+				"La terre est envahie...",
+				"Fidèle et fort jusqu’à la mort,",
+				"En Jésus sois vainqueur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sors du fourreau l’épée,",
+				"La Parole de Dieu,",
+				"Pour vaincre les menées",
+				"De Satan en tout lieu;",
+				"Quand il sème les troubles",
+				"Ou quand ses coups redoublent,",
+				"Fidèle et fort jusqu’à la mort,",
+				"En Jésus sois vainqueur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voici le jour de grâce",
+				"Où la croix de Jésus",
+				"Doit-être, à toute race,",
+				"Proclamée à salut !",
+				"Malgré la déchéance,",
+				"L’homme a soif d’espérance,",
+				"Fidèle et fort jusqu’à la mort,",
+				"En Jésus sois vainqueur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Agis donc sur la terre",
+				"Pour ton Sauveur divin,",
+				"Le Seigneur du Calvaire",
+				"Qui te fraye un chemin;",
+				"Partout, oh ! suis ce Maître,",
+				"Sa gloire doit paraître,",
+				"Fidèle et fort jusqu’à la mort,",
+				"En Jésus sois vainqueur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H. Smart",
+			"role": "unspecified"
+		},
+		{
+			"name": "R. de Montmollin",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1129",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

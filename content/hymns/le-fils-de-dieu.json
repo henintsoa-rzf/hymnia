@@ -1,0 +1,73 @@
+{
+	"id": "le-fils-de-dieu",
+	"title": "Le Fils de Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "446"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Fils de Dieu voudrait t'entourer",
+				"De ses puissants bras d'amour ;",
+				"Lui seul peut combler ton âme pour toujours.",
+				"O donne-lui ta vie entière ;",
+				"Son Esprit plein de lumière",
+				"Descendra sur toi et te guérira."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, ô Jésus,",
+				"Remplis-nous de toi.",
+				"Jésus, ô Jésus,",
+				"Remplis-nous de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O viens chanter l'amour de Jésus",
+				"Et proclamer son salut ;",
+				"Soumets donc ton cœur à ce glorieux Sauveur.",
+				"O donne-lui tes larmes, tes pleurs,",
+				"Donne-lui tous tes soucis ;",
+				"Tu vivras pleinement en Jésus-Christ."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, ô Jésus,",
+				"Remplis-nous de toi.",
+				"Jésus, ô Jésus,",
+				"Remplis-nous de toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Wimber",
+			"role": "music"
+		},
+		{
+			"name": "John Wimber",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem446",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

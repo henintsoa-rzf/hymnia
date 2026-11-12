@@ -1,0 +1,109 @@
+{
+	"id": "chantons-du-seigneur-la-bonte",
+	"title": "Chantons du Seigneur la bonté.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "466"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons du Seigneur la bonté",
+				"Pour tout son peuple racheté !",
+				"Sauveur divin, Sauveur parfait,",
+				"Jésus fait bien tout ce qu'il fait."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'à la mort je chanterai,",
+				"Je chanterai, je chanterai,",
+				"Jusqu'à la mort, je chanterai :",
+				"Jésus fait bien tout ce qu'il fait."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout l'univers dit son pouvoir,",
+				"Mais son amour, qui sait le voir ?",
+				"C'est à la croix qu'il apparaît…",
+				"Jésus fait bien tout ce qu'il fait."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'à la mort je chanterai,",
+				"Je chanterai, je chanterai,",
+				"Jusqu'à la mort, je chanterai :",
+				"Jésus fait bien tout ce qu'il fait."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour me sauver, pécheur perdu,",
+				"Dans l'abîme il est descendu",
+				"Quand déjà Satan m'entraînait…",
+				"Jésus fait bien tout ce qu'il fait."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'à la mort je chanterai,",
+				"Je chanterai, je chanterai,",
+				"Jusqu'à la mort, je chanterai :",
+				"Jésus fait bien tout ce qu'il fait."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"C'est en vain que le tentateur,",
+				"Veut me ravir à mon Sauveur :",
+				"De ses bras qui m'arracherait ?",
+				"Jésus fait bien tout ce qu'il fait."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'à la mort je chanterai,",
+				"Je chanterai, je chanterai,",
+				"Jusqu'à la mort, je chanterai :",
+				"Jésus fait bien tout ce qu'il fait."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Anonyme",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af466",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

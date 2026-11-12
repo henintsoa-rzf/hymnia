@@ -1,0 +1,74 @@
+{
+	"id": "venez-car-jesus-est-la-vie",
+	"title": "Venez, car Jésus est la vie !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "580"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez, car Jésus est la vie !",
+				"C'est pour vous qu'il voulut mourir ;",
+				"Son Esprit descendra dans votre âme ravie",
+				"Venez à Lui ! Pourquoi périr ?",
+				"Venez à Lui ! Pourquoi périr ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Venez, car une paix profonde",
+				"De sa croix découle vers nous ;",
+				"Son sang fut répandu pour le péché du monde…",
+				"Cette paix, la possédez-vous ?",
+				"Cette paix, la possédez-vous ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Venez, car il donne la joie",
+				"Acquise au prix de ses douleurs,",
+				"Pur rayon de soleil que d'en haut il envoie,",
+				"Resplendissant parmi nos pleurs,",
+				"Resplendissant parmi nos pleurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Venez, car il est l'amour même,",
+				"Un fleuve, un océan d'amour ;",
+				"Oh ! ne le fuyez point !",
+				"Comme il m'aime, il vous aime…",
+				"Approchez-vous à votre tour !",
+				"Approchez-vous à votre tour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fr. Ambresin",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af580",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

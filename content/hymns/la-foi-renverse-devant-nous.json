@@ -1,0 +1,90 @@
+{
+	"id": "la-foi-renverse-devant-nous",
+	"title": "La foi renverse devant nous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "90"
+		},
+		{
+			"hymnal": "cd",
+			"number": "223"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La foi renverse devant nous",
+				"Les plus fortes murailles ;",
+				"La foi triomphe des verrous",
+				"Et gagne les batailles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La foi nous ouvre des trésors",
+				"De grâce et de puissance,",
+				"Et le plus faible devient fort",
+				"Sous sa sainte influence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Aux pieds du Christ la foi conduit",
+				"Nos âmes en détresse.",
+				"C'est notre étoile dans la nuit,",
+				"C'est notre forteresse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O foi tu vins de nos martyrs",
+				"Éclairer la victoire,",
+				"Tu couronnais leur avenir",
+				"D'une immortelle gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"La foi nous trace vers le ciel",
+				"Un chemin d'espérance ;",
+				"Elle est un cantique éternel,",
+				"Un cri de délivrance."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Psautier suisse allemand",
+			"role": "music"
+		},
+		{
+			"name": "Nikolaus Ludwig von Zinzendorf",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem090",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1170",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

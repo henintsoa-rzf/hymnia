@@ -1,0 +1,111 @@
+{
+	"id": "seigneur-par-tes-bontes",
+	"title": "Seigneur, par tes bontés",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "268"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, par tes bontés,",
+				"Je jouis de la vie ;",
+				"Tu sauves ma vie du néant,",
+				"Tu effaces tout mon passé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, par tes bontés,",
+				"Je jouis de la vie ;",
+				"Sur mon cœur nouveau devenu blanc",
+				"Tu inscris ta vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, par tes bontés,",
+				"Je jouis de la vie ;",
+				"Sur mon cœur nouveau devenu blanc",
+				"Tu inscris ta liberté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur, par tes bontés,",
+				"Je jouis de la vie ;",
+				"Ce n'est pas la mort,",
+				"Mais le vivant",
+				"Qui loue ta fidélité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Seigneur, par tes bontés,",
+				"Je jouis de la vie ;",
+				"Ce n'est pas la mort,",
+				"Mais le vivant",
+				"Qui loue ton éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Seigneur, par tes bontés,",
+				"Je jouis de la vie ;",
+				"Que résonnent tous les instruments",
+				"Pour célébrer ta beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Seigneur, par tes bontés,",
+				"Je jouis de la vie ;",
+				"Que résonnent tous les instruments",
+				"Jésus est ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 8,
+			"lines": [
+				"Seigneur, par tes bontés,",
+				"Je jouis de la vie ;",
+				"Dans la maison infinie du temps",
+				"Je suis né pour te louer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claude Fraysse",
+			"role": "music"
+		},
+		{
+			"name": "Colette Bergèse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem268",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

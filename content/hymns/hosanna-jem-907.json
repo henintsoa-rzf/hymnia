@@ -1,0 +1,95 @@
+{
+	"id": "hosanna-jem-907",
+	"title": "Hosanna",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "907"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je vois le roi de gloire,",
+				"Qui revient sur les nuées.",
+				"Les nations tremblent, les nations tremblent.",
+				"Je vois son amour, sa grâce",
+				"Qui efface nos péchés.",
+				"Ton peuple chante, ton peuple chante."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Hosanna, hosanna,",
+				"Hosanna à toi, Seigneur.",
+				"Hosanna, hosanna,",
+				"Hosanna à toi, Seigneur. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je vois une génération,",
+				"Qui prend sa place avec foi.",
+				"Le cœur fervent, le cœur fervent.",
+				"Je vois venir un réveil,",
+				"Qui s'attise quand nous prions.",
+				"Nous te cherchons, nous te cherchons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Hosanna, hosanna,",
+				"Hosanna à toi, Seigneur.",
+				"Hosanna, hosanna,",
+				"Hosanna à toi, Seigneur. »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Prends mon cœur et rends-le pur,",
+				"Ouvre grand mes yeux à ta vérité.",
+				"Montre-moi comment aimer, comme tu m'aimes.",
+				"Rends-moi sensible à ta peine.",
+				"Tout en moi vit pour voir venir ton règne",
+				"Dès maintenant et pour l'éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Hosanna, hosanna,",
+				"Hosanna à toi, Seigneur.",
+				"Hosanna, hosanna,",
+				"Hosanna à toi, Seigneur. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brooke Fraser",
+			"role": "music"
+		},
+		{
+			"name": "Brooke Fraser",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem907",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

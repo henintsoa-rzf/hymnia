@@ -1,0 +1,114 @@
+{
+	"id": "les-cieux-et-la-terre",
+	"title": "Les cieux et la terre",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "48"
+		},
+		{
+			"hymnal": "adf",
+			"number": "37"
+		},
+		{
+			"hymnal": "jem",
+			"number": "65"
+		},
+		{
+			"hymnal": "cd",
+			"number": "24"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les cieux et la terre",
+				"Célèbrent en chœur",
+				"La gloire du Père,",
+				"Du Dieu Créateur.",
+				"Qu'il est redoutable",
+				"Dans sa majesté !",
+				"Qu'il est admirable",
+				"Dans sa charité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est lui qui nous donne",
+				"Le printemps joyeux,",
+				"Les fruits de l'automne,",
+				"L'été radieux.",
+				"Largesse infinie",
+				"Que rien ne tarit,",
+				"Sa main rassasie",
+				"Tout être qui vit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La vive lumière",
+				"Des cieux enflammés,",
+				"L'ombre et le mystère",
+				"Des bois embaumés,",
+				"Le flot qui murmure,",
+				"La fleur et le fruit,",
+				"Tout dans la nature",
+				"Nous parle de lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais, ô Dieu suprême,",
+				"Plus que tous tes dons,",
+				"C'est ton amour même",
+				"Que nous adorons.",
+				"O source éternelle",
+				"De grâce et de paix,",
+				"Ton peuple fidèle",
+				"Te loue à jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Wolfgang Amadeus Mozart",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg048",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af037",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem065",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/196",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"id": "il-vient-il-vient",
+	"title": "Il vient, il vient !",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "173"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il vient, Il vient, c'est notre Rédempteur :",
+				"Hausse la voix pour chanter ton Sauveur !",
+				"Jérusalem, ville de l'Alliance,",
+				"Dis à Juda quelle est ton espérance,",
+				"Alléluia ! dans le saint lieu,",
+				"Alléluia ! dans le saint lieu,",
+				"Car voici Jésus notre Dieu !",
+				"Notre Dieu ! Notre Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Devant Jésus tout coteau croulera ;",
+				"Sur les puissants son bras dominera.",
+				"Tremblez pécheurs, redoutez sa colère :",
+				"Il a pour vous un terrible salaire ;",
+				"Car si Jésus est le Sauveur,",
+				"Car si Jésus est le Sauveur,",
+				"Il est le Juge et le Vengeur.",
+				"Le Vengeur. Le Vengeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme un Berger il paîtra Son troupeau ;",
+				"Pour la brebis et pour le faible agneau",
+				"Il est toujours dans ses bras un asile.",
+				"C'est aux petits qu'il offre l'Évangile.",
+				"Chante, Sion, dis désormais,",
+				"Chante, Sion, dis désormais:",
+				"Jésus est prince de la paix.",
+				"De la paix. De la paix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ferdinand Samuel Laur",
+			"role": "music"
+		},
+		{
+			"name": "Henri Lutteroth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af173",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

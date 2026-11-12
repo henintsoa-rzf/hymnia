@@ -1,0 +1,59 @@
+{
+	"id": "regne-en-moi",
+	"title": "Règne en moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "481"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Règne en moi,",
+				"Roi puissant, règne en moi.",
+				"Règne en moi,",
+				"Roi puissant, règne en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Maîtrise mon cœur,",
+				"Viens régner, Seigneur,",
+				"Et que ta volonté",
+				"Soit faite à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Règne en moi,",
+				"Roi puissant, règne en moi.",
+				"Règne en moi,",
+				"Roi puissant, règne en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Bowater",
+			"role": "music"
+		},
+		{
+			"name": "Chris Bowater",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem481",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

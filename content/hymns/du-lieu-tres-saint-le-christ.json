@@ -1,0 +1,64 @@
+{
+	"id": "du-lieu-tres-saint-le-christ",
+	"title": "Du lieu très saint le Christ.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "560"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du lieu très Saint",
+				"le Christ ayant franchi le voile.",
+				"Vrai Sacrificateur et grand-prêtre immortel,",
+				"Plus haut que le nuage et plus haut que l'étoile",
+				"Se présente pour nous",
+				"devant Dieu dans le ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vers le Juge éternel",
+				"ses deux mains sont tendues :",
+				"Elles portent encore les empreintes des clous…",
+				"Toi qui ne veut plaider que les causes perdues",
+				"Divin intercesseur,",
+				"plaide aujourd'hui pour nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qui nous condamnera",
+				"quand Dieu nous justifie.",
+				"Quand il a pardonné, qui pourrait nous punir ?",
+				"Son saint Fils, en qui seul notre âme se confie",
+				"Reste toujours vivant pour sauver et bénir."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Johann Balthasar König",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af560",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

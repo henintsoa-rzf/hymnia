@@ -1,0 +1,50 @@
+{
+	"id": "el-olam",
+	"title": "El Olam",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "617"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"D'âge en âge, tu es Dieu,",
+				"Ma seule sécurité.",
+				"Avant que les montagnes soient nées,",
+				"Avant que le monde fut créé,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"El Olam, Dieu Éternel,",
+				"Tu existes depuis toujours,",
+				"Dieu vivant !",
+				"El Olam, Dieu Éternel,",
+				"toi qui étais, qui es, qui seras."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem617",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

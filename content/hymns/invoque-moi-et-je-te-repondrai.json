@@ -1,0 +1,41 @@
+{
+	"id": "invoque-moi-et-je-te-repondrai",
+	"title": "Invoque-moi et je te répondrai",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "29"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Invoque-moi et je te répondrai ;",
+				"Je t'annoncerai de grandes choses,",
+				"Des choses cachées.",
+				"Invoque-moi et je te répondrai ;",
+				"Je t'annoncerai de grandes choses,",
+				"Que tu ne connais pas."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem029",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

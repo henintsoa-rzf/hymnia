@@ -1,0 +1,85 @@
+{
+	"id": "si-le-seigneur-combat-pour-nous",
+	"title": "Si le Seigneur combat pour nous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "710"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si le Seigneur combat pour nous,",
+				"Qui se lèvera contre nous ?",
+				"Nos vies entières sont dans sa main.",
+				"Ne soyons pas découragés,",
+				"Il est là pour nous protéger,",
+				"Pour nous conduire sur le chemin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Parce que les temps sont mauvais,",
+				"Nous devons vivre désormais",
+				"En nous plaçant sous le sang de Jésus.",
+				"C'est Yéshua notre salut."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si le Seigneur combat pour nous,",
+				"Qui se lèvera contre nous ?",
+				"Nos vies entières sont dans sa main.",
+				"Ne soyons pas découragés,",
+				"Il est là pour nous protéger,",
+				"Pour nous conduire sur le chemin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Seigneur nous rassemblera,",
+				"À ses bien-aimés il dira:",
+				"« Recevez le royaume en héritage,",
+				"Préparé pour les vierges sages. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si le Seigneur combat pour nous,",
+				"Qui se lèvera contre nous ?",
+				"Nos vies entières sont dans sa main.",
+				"Ne soyons pas découragés,",
+				"Il est là pour nous protéger,",
+				"Pour nous conduire sur le chemin."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem710",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

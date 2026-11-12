@@ -1,0 +1,138 @@
+{
+	"id": "a-jamais-tu-es-saint",
+	"title": "A jamais tu es saint",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1190"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toutes les générations devant lui prosternées",
+				"Entonnent ensemble un cantique à l'Agneau.",
+				"Ceux qui nous ont précédés et ceux qui nous suivront",
+				"Entonneront ce cantique à l'Agneau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ton nom est le plus grand, ton nom est tout-puissant,",
+				"Ton nom est au-dessus de tout.",
+				"Puissances, autorités, royaumes et dignités,",
+				"Ton nom est au-dessus de tout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et les anges acclament: «Tu es saint.»",
+				"L'univers proclame: «Tu es saint.»",
+				"Tu es glorifié, Dieu très saint,",
+				"À jamais tu es saint."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vous, qu'il a pardonnés, vous, qu'il a rachetés,",
+				"Venez chanter ce cantique à l'Agneau.",
+				"Vous qu'il a libérés, vous qui portez son nom,",
+				"Venez chanter ce cantique à l'Agneau.",
+				"Nos voix résonnent pour l'éternité !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et les anges acclament: «Tu es saint.»",
+				"L'univers proclame: «Tu es saint.»",
+				"Tu es glorifié, Dieu très saint,",
+				"À jamais tu es saint."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout ton peuple crie: «Tu es saint.»",
+				"Toi, le Roi des rois, tu es saint.",
+				"Dieu d'éternité, tu es saint,",
+				"À jamais tu es saint."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ton nom est le plus grand, ton nom est tout-puissant,",
+				"Ton nom est au-dessus de tout.",
+				"Puissances, autorités, royaumes et dignités,",
+				"Ton nom est au-dessus de tout."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Jésus, ton nom est le plus grand, ton nom est tout-puissant,",
+				"Ton nom est au-dessus de tout.",
+				"Puissances, autorités, royaumes et dignités,",
+				"Ton nom est au-dessus de tout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et les anges acclament: «Tu es saint.»",
+				"L'univers proclame: «Tu es saint.»",
+				"Tu es glorifié, Dieu très saint,",
+				"À jamais tu es saint."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout ton peuple crie: «Tu es saint.»",
+				"Toi, le Roi des rois, tu es saint.",
+				"Dieu d'éternité, tu es saint,",
+				"À jamais tu es saint."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Dieu d'éternité, tu es saint,",
+				"À jamais tu es saint."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Tomlin, Phil Wickham, Brian Johnson, Jenn Johnson et Jason Ingram",
+			"role": "music"
+		},
+		{
+			"name": "Chris Tomlin, Phil Wickham, Brian Johnson, Jenn Johnson et Jason Ingram",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1190",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

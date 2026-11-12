@@ -1,0 +1,77 @@
+{
+	"id": "sur-la-croix",
+	"title": "Sur la croix",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "408"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur la croix de Golgotha",
+				"Jésus meurt, il meurt pour moi,",
+				"Par son sang, je suis libre,",
+				"Par la croix de Golgotha."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, Jésus meurt pour moi,",
+				"Alléluia, je suis libre,",
+				"Alléluia, Jésus meurt pour moi,",
+				"Sur la croix de Golgotha."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mes péchés sont effacés,",
+				"Mes péchés sont pardonnés,",
+				"Mes péchés tous enlevés.",
+				"Jésus vit, vit aujourd’hui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je suis libre, racheté,",
+				"Je suis libre, délivré,",
+				"Je suis libre, libéré",
+				"Par la croix de Golgotha."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tore W. Aas",
+			"role": "lyrics"
+		},
+		{
+			"name": "Tore W. Aas",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-moments-deternite/#chant-8",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

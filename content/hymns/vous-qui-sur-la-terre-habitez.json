@@ -1,0 +1,80 @@
+{
+	"id": "vous-qui-sur-la-terre-habitez",
+	"title": "Vous qui sur la terre habitez",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "20"
+		},
+		{
+			"hymnal": "adf",
+			"number": "525"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous qui sur la terre habitez,",
+				"Chantez à haute voix, chantez !",
+				"Réjouissez-vous au Seigneur,",
+				"Egayez-vous à son honneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Car il est le Dieu souverain ;",
+				"C'est lui qui nous fit de sa main,",
+				"Nous tous, le peuple qu'il chérit,",
+				"Et l'heureux troupeau qu'il nourrit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Entrez dans son temple aujourd'hui",
+				"Et présentez-vous devant lui ;",
+				"Célébrez son nom glorieux",
+				"Qui remplit la terre et les cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Du Seigneur, la fidélité",
+				"Subsiste à perpétuité ;",
+				"Il nous comble de ses bienfaits,",
+				"Et sa grâce dure à jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg020",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af525",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

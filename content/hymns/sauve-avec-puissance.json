@@ -1,0 +1,101 @@
+{
+	"id": "sauve-avec-puissance",
+	"title": "Sauve avec puissance",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "936"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tous ont besoin d'être aimés",
+				"D'un amour sans limite.",
+				"Que ta grâce coule en moi.",
+				"Tous ont besoin de pardon,",
+				"De la bonté d'un Sauveur,",
+				"L'espoir des nations."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sauveur, il déplace les montagnes,",
+				"Mon Dieu sauve avec puissance,",
+				"Il sauve avec puissance.",
+				"Pour toujours créateur du salut,",
+				"Jésus a vaincu la mort.",
+				"Il a vaincu la mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Prends-moi tel que je suis,",
+				"Mes peurs et mes échecs,",
+				"Viens remplir ma vie.",
+				"Je donne ma vie pour te suivre.",
+				"Prends tout ce que je crois",
+				"Et je me soumets."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sauveur, il déplace les montagnes,",
+				"Mon Dieu sauve avec puissance,",
+				"Il sauve avec puissance.",
+				"Pour toujours créateur du salut,",
+				"Jésus a vaincu la mort.",
+				"Il a vaincu la mort."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Resplendis pour que le monde voie.",
+				"Nous chantons pour la gloire",
+				"Du Roi ressuscité, Jésus.",
+				"Resplendis pour que le monde voie.",
+				"Nous chantons pour la gloire",
+				"Du Roi ressuscité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sauveur, il déplace les montagnes,",
+				"Mon Dieu sauve avec puissance,",
+				"Il sauve avec puissance.",
+				"Pour toujours créateur du salut,",
+				"Jésus a vaincu la mort.",
+				"Il a vaincu la mort."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Reuben Morgan ; Ben Fielding",
+			"role": "music"
+		},
+		{
+			"name": "Reuben Morgan ; Ben Fielding",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem936",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

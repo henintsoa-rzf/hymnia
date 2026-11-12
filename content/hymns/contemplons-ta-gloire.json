@@ -1,0 +1,113 @@
+{
+	"id": "contemplons-ta-gloire",
+	"title": "Contemplons ta gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1181"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Transformés devant ta face",
+				"Par ton amour et ta grâce,",
+				"Le visage découvert,",
+				"Contemplons ta gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nos cœurs lavés par ton sang,",
+				"Par l'Esprit du Dieu vivant,",
+				"Le visage découvert,",
+				"Contemplons ta gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous élevons le Roi des rois,",
+				"Le Seigneur, le Roi de gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus a levé le voile",
+				"Qui venait couvrir nos cœurs.",
+				"Et son Esprit est en nous",
+				"Et à jamais il demeure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous avons cette espérance,",
+				"La faveur de ton alliance.",
+				"Le visage découvert,",
+				"Contemplons ta gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un parfum qui donne vie,",
+				"C'est l'onction de ton Esprit.",
+				"Le visage découvert,",
+				"Contemplons ta gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous élevons le Roi des rois,",
+				"Le Seigneur, le Roi de gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus a levé le voile",
+				"Qui venait couvrir nos cœurs.",
+				"Et son Esprit est en nous",
+				"Et à jamais il demeure."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous élevons le Roi des rois,",
+				"Le Seigneur, le Roi de gloire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Arthur Tarpignian",
+			"role": "music"
+		},
+		{
+			"name": "Arthur Tarpignian",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1181",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

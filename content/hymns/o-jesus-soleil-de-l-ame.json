@@ -1,0 +1,74 @@
+{
+	"id": "o-jesus-soleil-de-l-ame",
+	"title": "O Jésus ! soleil de l'âme.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "532"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus ! Soleil de l'âme,",
+				"Qui répands toute clarté,",
+				"Qui donnes vie et santé,",
+				"C'est toi que mon cœur réclame,",
+				"C'est la clarté de ta flamme,",
+				"C'est la clarté de ta flamme ;",
+				"Oh ! je veux m'unir à toi,",
+				"Seigneur Jésus, par la foi,",
+				"Par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, source de clémence,",
+				"De douceur et de bonté,",
+				"De grâce et de charité !",
+				"Par ta mortelle souffrance",
+				"Tu scellas ma délivrance,",
+				"Tu scellas ma délivrance ;",
+				"Tout mon cœur veut, en retour,",
+				"S'unir à Toi par l'amour,",
+				"Par l'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur la route où Dieu m'appelle",
+				"Tu vins, Jésus, comme moi ;",
+				"J'y veux marcher avec toi.",
+				"Au cep le sarment fidèle",
+				"Puise une sève nouvelle,",
+				"Puise une sève nouvelle ;",
+				"Et mon âme à Jésus-Christ",
+				"Veut s'unir pour le bon fruit,",
+				"Le bon fruit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Psalmodie Morave",
+			"role": "music"
+		},
+		{
+			"name": "Cantique morave",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af532",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

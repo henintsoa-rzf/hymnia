@@ -1,0 +1,116 @@
+{
+	"id": "il-me-gardera",
+	"title": "Il me gardera",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1175"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand vacille ma faible foi,",
+				"Christ me gardera.",
+				"Quand le tentateur est là,",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur ce chemin, sans son aide",
+				"Je ne tiendrais pas.",
+				"Mon amour est souvent tiède,",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me gardera, il me gardera,",
+				"Car mon Sauveur m’aime tant.",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il chérit chacun des siens,",
+				"Christ me gardera.",
+				"Précieux sous son regard saint,",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon âme sera préservée,",
+				"Sa promesse tiendra.",
+				"Quel grand prix il a payé !",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me gardera, il me gardera,",
+				"Car mon Sauveur m’aime tant.",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il a souffert pour ma vie,",
+				"Christ me gardera.",
+				"La justice est accomplie,",
+				"Il me gardera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avec lui ressuscité,",
+				"Il me gardera.",
+				"Oui, enfin je le verrai",
+				"Quand il reviendra."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me gardera, il me gardera,",
+				"Car mon Sauveur m’aime tant.",
+				"Il me gardera."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Merker",
+			"role": "music"
+		},
+		{
+			"name": "Ada Haberson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1175",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

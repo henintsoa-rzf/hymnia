@@ -1,0 +1,641 @@
+<!doctype html>
+<html lang="fr">
+<head>
+	<title>Jemaf - Index alphabétique des chants</title>
+	<meta name="description" content="Chants de louange chrétiens évangéliques. Paroles, musique, lien YouTube et accords avec transposition. Ecoutez la mélodie, lisez les paroles, retrouvez un chant, des recueils J'aime l'Eternel, JEM Kids, Ailes de la Foi et A Toi la Gloire." />
+	<meta name="robots" content="index, nofollow">
+	<link href="/web/select2.min.css" rel="stylesheet" />
+	<link rel="canonical" href="https://jemaf.fr/chant/" />
+	
+
+	<!--Progressive App -->
+	<link rel="manifest" href="/jemaf.webmanifest">
+	<meta name="theme-color" content="#ffb200">
+	<script>
+		if ('serviceWorker' in navigator) {
+			window.addEventListener('load', () => {
+				navigator.serviceWorker.register('/sw.js', { scope: '/chant/' })
+				.then(reg => console.log('Service Worker enregistré !'))
+				.catch(err => console.log('Erreur de registration', err));
+			});
+		}
+
+		window.addEventListener('appinstalled', (evt) => {
+		// Envoi de l'événement à Google Analytics (GA4)
+			if (typeof gtag === 'function') {
+				gtag('event', 'pwa_install', {
+				'event_category': 'PWA',
+				'event_label': 'Install Success'
+				});
+			}
+		});
+	</script>
+
+<link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+<link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
+<link rel="stylesheet" type="text/css" href="/web/style.css" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
+<meta charset="utf-8" />
+<link rel="icon" type="image/png" href="/images/favicon.png" >
+<link rel="icon"  type="image/x-icon" href="/images/favicon.ico" />
+<meta name="author" content="Christian Hoffmann" >
+
+<!-- Code de suivi Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z4GDCG4BNH"></script>
+<script>
+  //Google Analytics 4
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-Z4GDCG4BNH');
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  function ga_evt(lien, value = '1' ) {
+	gtag('event', lien, {
+  lien,
+  value,
+  'non_interaction': true
+});
+  }
+
+</script>
+<base href="/">
+
+</head>
+<body><section id="nav" class="noprint"><nav><div id="logo"><a href= "/"><img src="/images/violon.png" alt="www.jemaf.fr" /></a></div>
+<div id="menu">
+	<a href="chant/">Chanter</a>
+	<div id="menu-large">
+		<a href="listes/">Liste</a>
+		<a href="v-jemaf">v-jemaf</a>
+		<a class="mobile" href="m-jemaf/m-accueil" target="_blank" onclick="ga_evt('m-jemaf');">m-jemaf</a>
+		<a href=".#ressources">Ressources</a>
+	</div>
+	<div id="btn-menu-etroit"><img src="images/menu-mobile.svg" /></div>
+</div>
+</nav></section>
+<section id="nav_after" class="noprint"></section>
+<section id="corps" class="noprint">
+	<div><h1>Chantez un chant nouveau</h1>
+		<!-- Nom de l'utilisateur premium -->
+				
+</div></section>
+
+
+<section id="chant" class="extend"><div>
+	
+	
+	<div id="div-install-app" class="center noprint">
+    <button class="install-app arrondi grisCl">
+        <div>
+            <div>
+                <img src="/images/apk_install.svg">
+            </div>
+            <div class="center">
+                <p class="text-install">Installer l'application</p>
+                <p class="text-app">Jemaf</p>
+            </div>
+        </div>
+    </button>
+    <fieldset class="detail-aide detail-install"><legend>Installer l'application manuellement</legend>
+        <span class="strong">Sur Android</span> : Dans la barre de l'url, cliquez sur le bouton "Installer l'appli" ou "Installer Jemaf".<br/>
+        Ou, dans le menu de votre navigateur, cliquez sur "Ajouter à l'écran d'accueil", et sélectionner l'application Jemaf.<br/>
+        <span class="strong">Sur iPhone</span> : Dans le menu du navigateur, cliquer sur le l’option "partager" puis "Ajouter à l’écran d’accueil".
+    </fieldset>
+</div>	
+	<button id="btn-afficher" class="btn-mobile btn-chant arrondi grisCl seul">Choisir un chant</button>
+	
+	<div id="menu-musique" class="noprint " >
+		<ul id="chant-action" class="grisCl arrondi">
+			<li class="EffetHover " title="Rechercher un chant"><img src="images/search_grey.svg"><span>Rechercher</span></li>
+			<li class="EffetHover " title="Choisir un chant"><img src="images/done.svg"><span>Numéro</span></li>
+			<li class="EffetHover  active" title="Index des chants"><img src="images/index.svg"><span>1<sup>e</sup> lettre</span></li>
+			<li class="EffetHover theme " title="Thèmes des chants"><img src="images/label.svg"><span>Thème</span></li>
+		</ul>
+			<!-- Rechercher un chant -->			
+			<form id="form-rech" method="GET" action="recherche/" class="menu-chanter arrondi form_hide">
+				<div class="aide arrondi grisCl EffetHover" title="Astuce pour la recherche">
+					<span>?</span>
+				</div>
+				
+				<h3>Rechercher un chant</h3>
+				<div>
+					<label>Contenant :</label>
+										<input type="text" name="cles" placeholder="mots clés" title="Séparer les expressions par +" autocomplete="off" value="" required />
+					
+					<div class="afficher EffetHover">
+						<input type="submit"/>
+						<img src="images/done.svg" title="Afficher"/>
+					</div>
+				</div>				
+				
+				<fieldset class="detail-aide"><legend>Informations pour la recherche</legend>
+					Recherche dans les paroles, sans les majuscules, les accents et la ponctuation. Séparer les mots ou expressions par un + (plus).
+				</fieldset>
+				
+			</form>
+
+			<!-- Choisir un chant -->
+			<form id="form-num" method="POST" class="menu-chanter arrondi form_hide" >
+				<h3>Choisir un chant par son numéro</h3>
+				<div>
+					<label>Recueil :</label>
+					<select>
+						<option value="jem" >J'aime l'Eternel</option><option value="jemk" >JEM Kids</option><option value="af" >Ailes de la Foi</option><option value="atg" >À Toi la Gloire</option>					</select>
+				</div>
+				<div>
+					<label>Numéro :</label>
+					<input id="num" type="number" autocomplete="off" min="1" max="1100" required value="">
+					<div class="afficher EffetHover">
+						<input type="submit"/>
+						<img src="images/done.svg" title="Afficher"/>
+					</div>
+				</div>
+				<div class="error-max">La limite maximale du recueil « <span id="max-recueil">J'aime l'Eternel</span> » est de <span id="max-number">1200</span></div>
+				
+			</form>
+		
+		
+			<!-- Index des chants -->
+			<form id="form-index" method="GET" action="liste" class="menu-chanter arrondi ">
+				<div class="aide arrondi grisCl EffetHover" title="Pour aller plus loin…">
+					<span>?</span>
+				</div>
+				
+				<h3>Index des chants</h3>
+				<div>
+					<label>Recueil :</label>
+					<select>
+					<option value="jem1-4" >J'aime l'Eternel vol. 1-4</option><option value="jem1" >J'aime l'Eternel vol. 1</option><option value="jem2" >J'aime l'Eternel vol. 2</option><option value="jem3" >J'aime l'Eternel vol. 3</option><option value="jem4" >J'aime l'Eternel vol. 4</option><option value="jemk" >JEM Kids</option><option value="af" >Ailes de la Foi</option><option value="atg" selected>À Toi la Gloire</option>					</select>
+					<div class="afficher EffetHover">
+						<input type="submit"/>
+						<img src="images/done.svg" title="Afficher"/>
+					</div>
+				</div>
+				
+				<!-- Lettres inscrites par JS -->
+				<div id="lettres"></div>
+				
+				<fieldset class="detail-aide"><legend>Pour aller plus loin…</legend>
+					Pour des listes plus détaillées, téléchargez la version <a href="ressources/index-jem-af-atg.xls" onclick="ga_evt('index-jem-af-atg.xls');" target="_blank">Excel</a>.
+				</fieldset>
+			</form>
+			
+			<!-- Thèmes des chants -->
+			<form id="form-theme" method="GET" action="theme" class="menu-chanter arrondi form_hide">
+				<div class="aide arrondi grisCl EffetHover" title="Pour aller plus loin…">
+					<span>?</span>
+				</div>
+				
+				<div id="theme-flex">
+					<h3>Chants par thème</h3>
+					
+										<select id="recueils" name="recueils" required multiple>
+					<option value="jem" selected>J'aime l'Eternel</option><option value="jemk" selected>JEM Kids</option><option value="af" selected>Ailes de la Foi</option><option value="atg" selected>À Toi la Gloire</option>					</select>
+					
+					<div id="div-themes">
+						<div class="div-select">
+							<select id="themes" name="themes" multiple="multiple"></select>
+							<div class="afficher EffetHover">
+								<input type="submit"/>
+								<img src="images/done.svg" title="Afficher"/>
+							</div>
+						</div>
+					</div>
+				</div>	
+				
+				<fieldset class="detail-aide"><legend>Recherche par thème</legend>
+					Sélectionnez un/des recueils, puis choisissez un/des thèmes, par <span class="sm-none">ajout ou </span>sélection multiple dans la liste.<span class="no-mobile"><br/>
+					Vous pouvez étirer la liste par son coin inférieur droit.</span>
+				</fieldset>				
+			</form>
+	</div>
+
+	<!-- Sous-page de l'index -->
+<section class="recherche"><div id="liste-chants">
+
+	<h3>À Toi la Gloire - <strong>0-9</strong></h3><a href="chant/atg001" class="resRech" ><span>ATG001</span>À toi la gloire !</a>
+<a href="chant/atg002" class="resRech" ><span>ATG002</span>O mon Dieu, mon Sauveur</a>
+<a href="chant/atg003" class="resRech" ><span>ATG003</span>Je louerai l'Eternel</a>
+<a href="chant/atg004" class="resRech" ><span>ATG004</span>Reçois favorablement</a>
+<a href="chant/atg005" class="resRech" ><span>ATG005</span>L'Eternel seul est Seigneur</a>
+<a href="chant/atg006" class="resRech" ><span>ATG006</span>Jésus est mon divin Berger</a>
+<a href="chant/atg007" class="resRech" ><span>ATG007</span>À toi, mon Dieu, mon coeur monte</a>
+<a href="chant/atg008" class="resRech" ><span>ATG008</span>Éternel, fais-moi connaître tes voies</a>
+<a href="chant/atg009" class="resRech" ><span>ATG009</span>Réveille-toi, peuple fidèle</a>
+<a href="chant/atg010" class="resRech" ><span>ATG010</span>L'Eternel seul est ma lumière</a>
+<a href="chant/atg011" class="resRech" ><span>ATG011</span>Heureux celui de qui Dieu</a>
+<a href="chant/atg012" class="resRech" ><span>ATG012</span>Comme un cerf altéré brame</a>
+<a href="chant/atg013" class="resRech" ><span>ATG013</span>Qu'on batte des mains</a>
+<a href="chant/atg014" class="resRech" ><span>ATG014</span>Peuples, venez</a>
+<a href="chant/atg015" class="resRech" ><span>ATG015</span>Que Dieu se montre seulement</a>
+<a href="chant/atg016" class="resRech" ><span>ATG016</span>Triomphons, chantons d'allégresse</a>
+<a href="chant/atg017" class="resRech" ><span>ATG017</span>Seigneur, tu fus notre refuge</a>
+<a href="chant/atg018" class="resRech" ><span>ATG018</span>Roi des Rois, Eternel mon Dieu</a>
+<a href="chant/atg019" class="resRech" ><span>ATG019</span>Dieu règne en juste Roi</a>
+<a href="chant/atg020" class="resRech" ><span>ATG020</span>Vous qui sur la terre habitez</a>
+<a href="chant/atg021" class="resRech" ><span>ATG021</span>Entonnons un nouveau cantique</a>
+<a href="chant/atg022" class="resRech" ><span>ATG022</span>Bénissons Dieu, mon âme</a>
+<a href="chant/atg023" class="resRech" ><span>ATG023</span>Bénissez l'Eternel</a>
+<a href="chant/atg024" class="resRech" ><span>ATG024</span>O mon âme, exalte et chante !</a>
+<a href="chant/atg025" class="resRech" ><span>ATG025</span>Je chanterai l'Eternel</a>
+<a href="chant/atg026" class="resRech" ><span>ATG026</span>J'aime mon Dieu</a>
+<a href="chant/atg027" class="resRech" ><span>ATG027</span>Voici le Jour</a>
+<a href="chant/atg028" class="resRech" ><span>ATG028</span>Rendez à Dieu l'honneur suprême</a>
+<a href="chant/atg029" class="resRech" ><span>ATG029</span>Dieu, je te loue</a>
+<a href="chant/atg030" class="resRech" ><span>ATG030</span>J'entrerai dans ses portes</a>
+<a href="chant/atg031" class="resRech" ><span>ATG031</span>Ah ! qu'il est doux pour des frères !</a>
+<a href="chant/atg032" class="resRech" ><span>ATG032</span>Je lève les yeux</a>
+<a href="chant/atg033" class="resRech" ><span>ATG033</span>Au fort de ma détresse</a>
+<a href="chant/atg034" class="resRech" ><span>ATG034</span>Il faut, grand Dieu</a>
+<a href="chant/atg035" class="resRech" ><span>ATG035</span>Dieu fort et grand</a>
+<a href="chant/atg036" class="resRech" ><span>ATG036</span>Loué soit Dieu, le Seigneur</a>
+<a href="chant/atg037" class="resRech" ><span>ATG037</span>Seigneur, grand Dieu</a>
+<a href="chant/atg038" class="resRech" ><span>ATG038</span>Grand Dieu, nous te bénissons</a>
+<a href="chant/atg039" class="resRech" ><span>ATG039</span>Grand Dieu, nous te louons</a>
+<a href="chant/atg040" class="resRech" ><span>ATG040</span>Anges du Très-Haut</a>
+<a href="chant/atg041" class="resRech" ><span>ATG041</span>Notre Dieu règne encor !</a>
+<a href="chant/atg042" class="resRech" ><span>ATG042</span>C'est vers toi que je me tourne</a>
+<a href="chant/atg043" class="resRech" ><span>ATG043</span>Saint, saint, saint est l'Eternel</a>
+<a href="chant/atg044" class="resRech" ><span>ATG044</span>Saint, saint, saint est le Seigneur</a>
+<a href="chant/atg045" class="resRech" ><span>ATG045</span>Nous t'adorons</a>
+<a href="chant/atg046" class="resRech" ><span>ATG046</span>Prosternez-vous</a>
+<a href="chant/atg047" class="resRech" ><span>ATG047</span>Merci, Seigneur</a>
+<a href="chant/atg048" class="resRech" ><span>ATG048</span>Les cieux et la terre</a>
+<a href="chant/atg049" class="resRech" ><span>ATG049</span>Non point à nous, Seigneur</a>
+<a href="chant/atg050" class="resRech" ><span>ATG050</span>Tu m'as aimé, Seigneur</a>
+<a href="chant/atg051" class="resRech" ><span>ATG051</span>Alléluia ! louez l'Eternel !</a>
+<a href="chant/atg052" class="resRech" ><span>ATG052</span>Gloire, gloire, gloire !</a>
+<a href="chant/atg053" class="resRech" ><span>ATG053</span>Béni soit à jamais</a>
+<a href="chant/atg054" class="resRech" ><span>ATG054</span>Chantons, chantons sans cesse</a>
+<a href="chant/atg055" class="resRech" ><span>ATG055</span>Dieu lui-même, ô mystère</a>
+<a href="chant/atg056" class="resRech" ><span>ATG056</span>Du Rocher de Jacob</a>
+<a href="chant/atg057" class="resRech" ><span>ATG057</span>O toi dont les bienfaits</a>
+<a href="chant/atg058" class="resRech" ><span>ATG058</span>Dieu tout-puissant</a>
+<a href="chant/atg059" class="resRech" ><span>ATG059</span>Oui, je veux te bénir</a>
+<a href="chant/atg060" class="resRech" ><span>ATG060</span>À celui qui nous a lavés</a>
+<a href="chant/atg061" class="resRech" ><span>ATG061</span>Tout joyeux bénissons le Seigneur</a>
+<a href="chant/atg062" class="resRech" ><span>ATG062</span>L'amour du Sauveur</a>
+<a href="chant/atg063" class="resRech" ><span>ATG063</span>L'amour de Dieu</a>
+<a href="chant/atg064" class="resRech" ><span>ATG064</span>À Dieu soit la gloire</a>
+<a href="chant/atg065" class="resRech" ><span>ATG065</span>Quand les montagnes</a>
+<a href="chant/atg066" class="resRech" ><span>ATG066</span>Gloire à ton nom, Jésus !</a>
+<a href="chant/atg067" class="resRech" ><span>ATG067</span>À l'Agneau sur son trône</a>
+<a href="chant/atg068" class="resRech" ><span>ATG068</span>Hosanna, béni soit</a>
+<a href="chant/atg069" class="resRech" ><span>ATG069</span>Ma richesse, ma gloire</a>
+<a href="chant/atg070" class="resRech" ><span>ATG070</span>Ton Eglise triomphante</a>
+<a href="chant/atg071" class="resRech" ><span>ATG071</span>Entonnons un saint cantique</a>
+<a href="chant/atg072" class="resRech" ><span>ATG072</span>Rien n'est comparable</a>
+<a href="chant/atg073" class="resRech" ><span>ATG073</span>Jésus, à toi la gloire !</a>
+<a href="chant/atg074" class="resRech" ><span>ATG074</span>Vers toi monte notre hommage</a>
+<a href="chant/atg075" class="resRech" ><span>ATG075</span>Oh ! que toute la terre entonne</a>
+<a href="chant/atg076" class="resRech" ><span>ATG076</span>Seigneur, que n'ai-je mille voix</a>
+<a href="chant/atg077" class="resRech" ><span>ATG077</span>Jésus-Christ seul demeure</a>
+<a href="chant/atg078" class="resRech" ><span>ATG078</span>Dans les cieux et sur la terre</a>
+<a href="chant/atg079" class="resRech" ><span>ATG079</span>O nom divin, nom rédempteur</a>
+<a href="chant/atg080" class="resRech" ><span>ATG080</span>Par tous les saints glorifié</a>
+<a href="chant/atg081" class="resRech" ><span>ATG081</span>Ton nom, Seigneur Jésus</a>
+<a href="chant/atg082" class="resRech" ><span>ATG082</span>Majesté</a>
+<a href="chant/atg083" class="resRech" ><span>ATG083</span>Oui, tu es digne</a>
+<a href="chant/atg084" class="resRech" ><span>ATG084</span>Jésus, nous t'adorons !</a>
+<a href="chant/atg085" class="resRech" ><span>ATG085</span>À celui qui nous aime</a>
+<a href="chant/atg086" class="resRech" ><span>ATG086</span>Jésus-Christ est Seigneur</a>
+<a href="chant/atg087" class="resRech" ><span>ATG087</span>Jésus, c'est le plus beau nom</a>
+<a href="chant/atg088" class="resRech" ><span>ATG088</span>Je crois au Dieu vivant</a>
+<a href="chant/atg089" class="resRech" ><span>ATG089</span>Gloire à Dieu, notre Créateur</a>
+<a href="chant/atg090" class="resRech" ><span>ATG090</span>Gloire à Dieu</a>
+<a href="chant/atg091" class="resRech" ><span>ATG091</span>Donnez louange et gloire</a>
+<a href="chant/atg092" class="resRech" ><span>ATG092</span>Laisse-moi désormais</a>
+<a href="chant/atg093" class="resRech" ><span>ATG093</span>D'un arbre séculaire</a>
+<a href="chant/atg094" class="resRech" ><span>ATG094</span>Le peuple qui marchait</a>
+<a href="chant/atg095" class="resRech" ><span>ATG095</span>Noël ! ô doux mystère</a>
+<a href="chant/atg096" class="resRech" ><span>ATG096</span>Écoutez le chant des anges !</a>
+<a href="chant/atg097" class="resRech" ><span>ATG097</span>Terre, chante de joie</a>
+<a href="chant/atg098" class="resRech" ><span>ATG098</span>Prince de lumière</a>
+<a href="chant/atg099" class="resRech" ><span>ATG099</span>O nuit bienveillante</a>
+<h4 id="100">100</h4><a href="chant/atg100" class="resRech" ><span>ATG100</span>Quand dans la nuit</a>
+<a href="chant/atg101" class="resRech" ><span>ATG101</span>Devant ta crèche, tu me vois</a>
+<a href="chant/atg102" class="resRech" ><span>ATG102</span>O peuple fidèle</a>
+<a href="chant/atg103" class="resRech" ><span>ATG103</span>Dieu, le tout-puissant Créateur</a>
+<a href="chant/atg104" class="resRech" ><span>ATG104</span>Salut, blanche étoile</a>
+<a href="chant/atg105" class="resRech" ><span>ATG105</span>Jésus est né, venez bergers et mages</a>
+<a href="chant/atg106" class="resRech" ><span>ATG106</span>Dans le silence de la nuit</a>
+<a href="chant/atg107" class="resRech" ><span>ATG107</span>Chantons d'un cœur joyeux</a>
+<a href="chant/atg108" class="resRech" ><span>ATG108</span>Les anges dans nos campagnes</a>
+<a href="chant/atg109" class="resRech" ><span>ATG109</span>Il est né, le divin enfant</a>
+<a href="chant/atg110" class="resRech" ><span>ATG110</span>Voici Noël, ô douce nuit</a>
+<a href="chant/atg111" class="resRech" ><span>ATG111</span>Écoutez un saint cantique</a>
+<a href="chant/atg112" class="resRech" ><span>ATG112</span>Sur la paille fraîche</a>
+<a href="chant/atg113" class="resRech" ><span>ATG113</span>Venez, chers enfants</a>
+<a href="chant/atg114" class="resRech" ><span>ATG114</span>Il est né, le Roi du monde</a>
+<a href="chant/atg115" class="resRech" ><span>ATG115</span>Jésus est né</a>
+<a href="chant/atg116" class="resRech" ><span>ATG116</span>Noël, Jésus est né</a>
+<a href="chant/atg117" class="resRech" ><span>ATG117</span>Chef couvert de blessures</a>
+<a href="chant/atg118" class="resRech" ><span>ATG118</span>Sur la croix où tu meurs pour moi</a>
+<a href="chant/atg119" class="resRech" ><span>ATG119</span>Rédempteur adorable</a>
+<a href="chant/atg120" class="resRech" ><span>ATG120</span>Viens, mon âme, et contemple</a>
+<a href="chant/atg121" class="resRech" ><span>ATG121</span>Divin Sauveur</a>
+<a href="chant/atg122" class="resRech" ><span>ATG122</span>Quelle douleur</a>
+<a href="chant/atg123" class="resRech" ><span>ATG123</span>Un regard sur ta croix sanglante</a>
+<a href="chant/atg124" class="resRech" ><span>ATG124</span>Quand je contemple cette croix</a>
+<a href="chant/atg125" class="resRech" ><span>ATG125</span>Le Fils de Dieu vint sur la terre</a>
+<a href="chant/atg126" class="resRech" ><span>ATG126</span>Pour quel péché, Jésus</a>
+<a href="chant/atg127" class="resRech" ><span>ATG127</span>Dans ton amour, divin Sauveur</a>
+<a href="chant/atg128" class="resRech" ><span>ATG128</span>Lève tes yeux et contemple…</a>
+<a href="chant/atg129" class="resRech" ><span>ATG129</span>Viens et vois</a>
+<a href="chant/atg130" class="resRech" ><span>ATG130</span>Sur le mont du Calvaire</a>
+<a href="chant/atg131" class="resRech" ><span>ATG131</span>Mon Rédempteur est vivant</a>
+<a href="chant/atg132" class="resRech" ><span>ATG132</span>Dans sa divine humanité</a>
+<a href="chant/atg133" class="resRech" ><span>ATG133</span>Jésus seul est notre vie</a>
+<a href="chant/atg134" class="resRech" ><span>ATG134</span>Dépouille enfin tes chaînes</a>
+<a href="chant/atg135" class="resRech" ><span>ATG135</span>Jésus sort de la tombe</a>
+<a href="chant/atg136" class="resRech" ><span>ATG136</span>Brisant ses liens funèbres</a>
+<a href="chant/atg137" class="resRech" ><span>ATG137</span>Christ est ressuscité</a>
+<a href="chant/atg138" class="resRech" ><span>ATG138</span>Le Seigneur est réellement ressuscité</a>
+<a href="chant/atg139" class="resRech" ><span>ATG139</span>Jésus vit ! Voici ton Roi !</a>
+<a href="chant/atg140" class="resRech" ><span>ATG140</span>O Dieu des grâces éternelles !</a>
+<a href="chant/atg141" class="resRech" ><span>ATG141</span>Monde angoissé, réjouis-toi !</a>
+<a href="chant/atg142" class="resRech" ><span>ATG142</span>Oh ! viens bientôt, Emmanuel</a>
+<a href="chant/atg143" class="resRech" ><span>ATG143</span>Jésus, ton règne sans pareil</a>
+<a href="chant/atg144" class="resRech" ><span>ATG144</span>Sur les collines éternelles</a>
+<a href="chant/atg145" class="resRech" ><span>ATG145</span>Pleins d'espoir levons la tête</a>
+<a href="chant/atg146" class="resRech" ><span>ATG146</span>De concert avec les anges</a>
+<a href="chant/atg147" class="resRech" ><span>ATG147</span>Levons-nous, frères</a>
+<a href="chant/atg148" class="resRech" ><span>ATG148</span>Dans sa gloire, notre Maître</a>
+<a href="chant/atg149" class="resRech" ><span>ATG149</span>Je sais qu'un jour</a>
+<a href="chant/atg150" class="resRech" ><span>ATG150</span>Quel ami fidèle et tendre</a>
+<a href="chant/atg151" class="resRech" ><span>ATG151</span>Comme un phare</a>
+<a href="chant/atg152" class="resRech" ><span>ATG152</span>Il me conduit</a>
+<a href="chant/atg153" class="resRech" ><span>ATG153</span>Le Tout-Puissant est mon Berger</a>
+<a href="chant/atg154" class="resRech" ><span>ATG154</span>Dieu nous donne sa grâce</a>
+<a href="chant/atg155" class="resRech" ><span>ATG155</span>Jésus est le chemin</a>
+<a href="chant/atg156" class="resRech" ><span>ATG156</span>O Jésus, mon doux partage</a>
+<a href="chant/atg157" class="resRech" ><span>ATG157</span>Jésus est au milieu de nous</a>
+<a href="chant/atg158" class="resRech" ><span>ATG158</span>Par toi, Jésus, la joie abonde</a>
+<a href="chant/atg159" class="resRech" ><span>ATG159</span>Ne crains rien, je t'aime</a>
+<a href="chant/atg160" class="resRech" ><span>ATG160</span>Jésus-Christ est ma sagesse</a>
+<a href="chant/atg161" class="resRech" ><span>ATG161</span>Il vit !</a>
+<a href="chant/atg162" class="resRech" ><span>ATG162</span>Brillante étoile du matin</a>
+<a href="chant/atg163" class="resRech" ><span>ATG163</span>Le Seigneur m'aime</a>
+<a href="chant/atg164" class="resRech" ><span>ATG164</span>Jésus, ô nom qui surpasse</a>
+<a href="chant/atg165" class="resRech" ><span>ATG165</span>Jésus est notre ami suprême</a>
+<a href="chant/atg166" class="resRech" ><span>ATG166</span>Mon Sauveur m'aime</a>
+<a href="chant/atg167" class="resRech" ><span>ATG167</span>Tant qu'il vit, tant qu'il règne</a>
+<a href="chant/atg168" class="resRech" ><span>ATG168</span>Redites-moi l'histoire</a>
+<a href="chant/atg169" class="resRech" ><span>ATG169</span>Dieu est esprit</a>
+<a href="chant/atg170" class="resRech" ><span>ATG170</span>En expirant, le Rédempteur</a>
+<a href="chant/atg171" class="resRech" ><span>ATG171</span>O Saint-Esprit, descends</a>
+<a href="chant/atg172" class="resRech" ><span>ATG172</span>Souffle, Esprit de lumière !</a>
+<a href="chant/atg173" class="resRech" ><span>ATG173</span>O Saint-Esprit, Esprit du Seigneur</a>
+<a href="chant/atg174" class="resRech" ><span>ATG174</span>Esprit de Dieu, crée en nous la foi</a>
+<a href="chant/atg175" class="resRech" ><span>ATG175</span>Esprit de Dieu, tout au fond de mon cœur</a>
+<a href="chant/atg176" class="resRech" ><span>ATG176</span>Viens, Esprit du Dieu vivant !</a>
+<a href="chant/atg177" class="resRech" ><span>ATG177</span>Notre Bible tout entière</a>
+<a href="chant/atg178" class="resRech" ><span>ATG178</span>Oh ! que ton joug est facile</a>
+<a href="chant/atg179" class="resRech" ><span>ATG179</span>Ta Parole, Seigneur</a>
+<a href="chant/atg180" class="resRech" ><span>ATG180</span>Divine Parole</a>
+<a href="chant/atg181" class="resRech" ><span>ATG181</span>O Seigneur, bénis la parole</a>
+<a href="chant/atg182" class="resRech" ><span>ATG182</span>Pour triompher dans les combats</a>
+<a href="chant/atg183" class="resRech" ><span>ATG183</span>Ta Parole est la richesse</a>
+<a href="chant/atg184" class="resRech" ><span>ATG184</span>O Jésus, tu nous appelles</a>
+<a href="chant/atg185" class="resRech" ><span>ATG185</span>Sur toi, Pierre angulaire</a>
+<a href="chant/atg186" class="resRech" ><span>ATG186</span>Tu nous aimes, Seigneur</a>
+<a href="chant/atg187" class="resRech" ><span>ATG187</span>Béni soit le lien</a>
+<a href="chant/atg188" class="resRech" ><span>ATG188</span>Ensemble nous pouvons chanter</a>
+<a href="chant/atg189" class="resRech" ><span>ATG189</span>Tous ensemble, amis, chantons</a>
+<a href="chant/atg190" class="resRech" ><span>ATG190</span>Je viens, Seigneur, à ce baptême</a>
+<a href="chant/atg191" class="resRech" ><span>ATG191</span>Mort avec Christ, voilà ma délivrance</a>
+<a href="chant/atg192" class="resRech" ><span>ATG192</span>Ah ! qu'il est beau de voir des frères</a>
+<a href="chant/atg193" class="resRech" ><span>ATG193</span>J'ai faim, j'ai soif, Jésus</a>
+<a href="chant/atg194" class="resRech" ><span>ATG194</span>C'est toi, Jésus, pain de vie</a>
+<a href="chant/atg195" class="resRech" ><span>ATG195</span>Romps-nous le pain de vie</a>
+<a href="chant/atg196" class="resRech" ><span>ATG196</span>O Jésus, Prince généreux</a>
+<a href="chant/atg197" class="resRech" ><span>ATG197</span>Qu'aujourd'hui toute la terre</a>
+<a href="chant/atg198" class="resRech" ><span>ATG198</span>Jour du Seigneur</a>
+<a href="chant/atg199" class="resRech" ><span>ATG199</span>Dans les jours qui viennent</a>
+<h4 id="200">200</h4><a href="chant/atg200" class="resRech" ><span>ATG200</span>Que la grâce de Dieu</a>
+<a href="chant/atg201" class="resRech" ><span>ATG201</span>Que la grâce de notre Seigneur</a>
+<a href="chant/atg202" class="resRech" ><span>ATG202</span>Reste avec nous</a>
+<a href="chant/atg203" class="resRech" ><span>ATG203</span>Notre Père qui es aux cieux</a>
+<a href="chant/atg204" class="resRech" ><span>ATG204</span>Oh ! prends mon âme</a>
+<a href="chant/atg205" class="resRech" ><span>ATG205</span>Le Seigneur s'incline</a>
+<a href="chant/atg206" class="resRech" ><span>ATG206</span>Enseigne-moi</a>
+<a href="chant/atg207" class="resRech" ><span>ATG207</span>Seigneur, dirige tous mes pas</a>
+<a href="chant/atg208" class="resRech" ><span>ATG208</span>Soleil de justice</a>
+<a href="chant/atg209" class="resRech" ><span>ATG209</span>Mon Dieu, mon Père</a>
+<a href="chant/atg210" class="resRech" ><span>ATG210</span>Je m'approche de toi</a>
+<a href="chant/atg211" class="resRech" ><span>ATG211</span>Seigneur, en silence</a>
+<a href="chant/atg212" class="resRech" ><span>ATG212</span>Moment si doux de la prière</a>
+<a href="chant/atg213" class="resRech" ><span>ATG213</span>Chaque jour de ma vie</a>
+<a href="chant/atg214" class="resRech" ><span>ATG214</span>Demeure par ta grâce</a>
+<a href="chant/atg215" class="resRech" ><span>ATG215</span>Toi qui disposes</a>
+<a href="chant/atg216" class="resRech" ><span>ATG216</span>Rends-toi maître de mon âme</a>
+<a href="chant/atg217" class="resRech" ><span>ATG217</span>Seigneur, dirige et sanctifie</a>
+<a href="chant/atg218" class="resRech" ><span>ATG218</span>Oh ! que ta main paternelle</a>
+<a href="chant/atg219" class="resRech" ><span>ATG219</span>Exauce, ô Père</a>
+<a href="chant/atg220" class="resRech" ><span>ATG220</span>Donne, Seigneur</a>
+<a href="chant/atg221" class="resRech" ><span>ATG221</span>Tiens dans ta main</a>
+<a href="chant/atg222" class="resRech" ><span>ATG222</span>Oh ! croyez que Dieu vous donne</a>
+<a href="chant/atg223" class="resRech" ><span>ATG223</span>Venez au Sauveur qui vous aime</a>
+<a href="chant/atg224" class="resRech" ><span>ATG224</span>Le Maître est là</a>
+<a href="chant/atg225" class="resRech" ><span>ATG225</span>Si vous saviez quel Sauveur je possède</a>
+<a href="chant/atg226" class="resRech" ><span>ATG226</span>De la croix, la grâce coule</a>
+<a href="chant/atg227" class="resRech" ><span>ATG227</span>J'ai trouvé la paix profonde</a>
+<a href="chant/atg228" class="resRech" ><span>ATG228</span>Viens à Jésus, il t'appelle</a>
+<a href="chant/atg229" class="resRech" ><span>ATG229</span>Entends-tu ? Jésus t'appelle</a>
+<a href="chant/atg230" class="resRech" ><span>ATG230</span>Au tribunal Jésus se tient</a>
+<a href="chant/atg231" class="resRech" ><span>ATG231</span>Une bonne nouvelle</a>
+<a href="chant/atg232" class="resRech" ><span>ATG232</span>Entends-tu le chant joyeux ?</a>
+<a href="chant/atg233" class="resRech" ><span>ATG233</span>Venez au Prince de la vie</a>
+<a href="chant/atg234" class="resRech" ><span>ATG234</span>Dans ma misère et mon péché</a>
+<a href="chant/atg235" class="resRech" ><span>ATG235</span>Dieu a tant aimé le monde</a>
+<a href="chant/atg236" class="resRech" ><span>ATG236</span>Agneau de Dieu, Messager de la grâce</a>
+<a href="chant/atg237" class="resRech" ><span>ATG237</span>Jésus, par ton sang précieux</a>
+<a href="chant/atg238" class="resRech" ><span>ATG238</span>Seigneur, je n'ai rien à t'offrir</a>
+<a href="chant/atg239" class="resRech" ><span>ATG239</span>Miséricorde insondable</a>
+<a href="chant/atg240" class="resRech" ><span>ATG240</span>Viens dans mon cœur !</a>
+<a href="chant/atg241" class="resRech" ><span>ATG241</span>O Christ, éternel rocher</a>
+<a href="chant/atg242" class="resRech" ><span>ATG242</span>Seigneur Jésus, oh ! purifie</a>
+<a href="chant/atg243" class="resRech" ><span>ATG243</span>Tel que je suis, sans rien à moi</a>
+<a href="chant/atg244" class="resRech" ><span>ATG244</span>Je suis à toi</a>
+<a href="chant/atg245" class="resRech" ><span>ATG245</span>Grand Dieu, ta souveraine grâce</a>
+<a href="chant/atg246" class="resRech" ><span>ATG246</span>De Dieu l'amour éternel</a>
+<a href="chant/atg247" class="resRech" ><span>ATG247</span>Torrents d'amour et de grâce</a>
+<a href="chant/atg248" class="resRech" ><span>ATG248</span>Je l'ai trouvé</a>
+<a href="chant/atg249" class="resRech" ><span>ATG249</span>J'ai l'assurance de mon salut</a>
+<a href="chant/atg250" class="resRech" ><span>ATG250</span>Quel Sauveur merveilleux</a>
+<a href="chant/atg251" class="resRech" ><span>ATG251</span>O Fils de Dieu, quand ta lumière</a>
+<a href="chant/atg252" class="resRech" ><span>ATG252</span>Seigneur, du sein de ma misère</a>
+<a href="chant/atg253" class="resRech" ><span>ATG253</span>Jésus, Jésus, viens à moi</a>
+<a href="chant/atg254" class="resRech" ><span>ATG254</span>Mon Sauveur, je voudrais être</a>
+<a href="chant/atg255" class="resRech" ><span>ATG255</span>O mon Sauveur, ô source intarissable</a>
+<a href="chant/atg256" class="resRech" ><span>ATG256</span>Le cri de mon âme</a>
+<a href="chant/atg257" class="resRech" ><span>ATG257</span>C'est toi, Jésus, que recherche mon âme</a>
+<a href="chant/atg258" class="resRech" ><span>ATG258</span>Mon Dieu, plus près de toi</a>
+<a href="chant/atg259" class="resRech" ><span>ATG259</span>Comme une terre altérée</a>
+<a href="chant/atg260" class="resRech" ><span>ATG260</span>Jésus, ta sainte présence</a>
+<a href="chant/atg261" class="resRech" ><span>ATG261</span>J'ai soif de ta présence</a>
+<a href="chant/atg262" class="resRech" ><span>ATG262</span>Mon coeur voudrait t'aimer</a>
+<a href="chant/atg263" class="resRech" ><span>ATG263</span>Te ressembler, Jésus</a>
+<a href="chant/atg264" class="resRech" ><span>ATG264</span>O toi qui donnes la vie</a>
+<a href="chant/atg265" class="resRech" ><span>ATG265</span>Seigneur, attire</a>
+<a href="chant/atg266" class="resRech" ><span>ATG266</span>Que ta lumière</a>
+<a href="chant/atg267" class="resRech" ><span>ATG267</span>Je veux répondre, ô Dieu !</a>
+<a href="chant/atg268" class="resRech" ><span>ATG268</span>Seigneur, tu donnes ta grâce</a>
+<a href="chant/atg269" class="resRech" ><span>ATG269</span>Nous nous courbons, ô notre Père</a>
+<a href="chant/atg270" class="resRech" ><span>ATG270</span>Si mon peuple s'humilie</a>
+<a href="chant/atg271" class="resRech" ><span>ATG271</span>Brûle, brûle</a>
+<a href="chant/atg272" class="resRech" ><span>ATG272</span>Cherchez d'abord le royaume de Dieu</a>
+<a href="chant/atg273" class="resRech" ><span>ATG273</span>En mon cœur, j'ai choisi</a>
+<a href="chant/atg274" class="resRech" ><span>ATG274</span>Qu'il fait bon à ton service</a>
+<a href="chant/atg275" class="resRech" ><span>ATG275</span>C'est mon joyeux service</a>
+<a href="chant/atg276" class="resRech" ><span>ATG276</span>Nous sommes au Seigneur</a>
+<a href="chant/atg277" class="resRech" ><span>ATG277</span>Dans les jours où tout est joie</a>
+<a href="chant/atg278" class="resRech" ><span>ATG278</span>Doux Agneau sans tache</a>
+<a href="chant/atg279" class="resRech" ><span>ATG279</span>J'ai tout quitté pour te suivre</a>
+<a href="chant/atg280" class="resRech" ><span>ATG280</span>O Fils de Dieu, mon Sauveur bien-aimé</a>
+<a href="chant/atg281" class="resRech" ><span>ATG281</span>Rends-moi captif, Seigneur</a>
+<a href="chant/atg282" class="resRech" ><span>ATG282</span>Tendre Sauveur, je viens à toi</a>
+<a href="chant/atg283" class="resRech" ><span>ATG283</span>À toi, Seigneur, je m'abandonne</a>
+<a href="chant/atg284" class="resRech" ><span>ATG284</span>À toi, mon Dieu, je m'abandonne</a>
+<a href="chant/atg285" class="resRech" ><span>ATG285</span>Prends ma vie, elle doit être</a>
+<a href="chant/atg286" class="resRech" ><span>ATG286</span>Deux mains pour servir</a>
+<a href="chant/atg287" class="resRech" ><span>ATG287</span>Ma vie enfin je te donne</a>
+<a href="chant/atg288" class="resRech" ><span>ATG288</span>La voix du Seigneur m'appelle</a>
+<a href="chant/atg289" class="resRech" ><span>ATG289</span>Entre tes mains j'abandonne</a>
+<a href="chant/atg290" class="resRech" ><span>ATG290</span>Seigneur, ta grâce m'appelle</a>
+<a href="chant/atg291" class="resRech" ><span>ATG291</span>À mon Dieu j'abandonne</a>
+<a href="chant/atg292" class="resRech" ><span>ATG292</span>Que tout genou fléchisse</a>
+<a href="chant/atg293" class="resRech" ><span>ATG293</span>À tes pieds, ô divin Maître</a>
+<a href="chant/atg294" class="resRech" ><span>ATG294</span>La croix que Dieu me donne</a>
+<a href="chant/atg295" class="resRech" ><span>ATG295</span>Seigneur, ce que je réclame</a>
+<a href="chant/atg296" class="resRech" ><span>ATG296</span>Dieu de grâce</a>
+<a href="chant/atg297" class="resRech" ><span>ATG297</span>Veille au matin</a>
+<a href="chant/atg298" class="resRech" ><span>ATG298</span>Seigneur, à ton regard de flamme</a>
+<a href="chant/atg299" class="resRech" ><span>ATG299</span>Ah ! donne à mon âme</a>
+<h4 id="300">300</h4><a href="chant/atg300" class="resRech" ><span>ATG300</span>J'entends ta douce voix</a>
+<a href="chant/atg301" class="resRech" ><span>ATG301</span>O Dieu, relève-nous !</a>
+<a href="chant/atg302" class="resRech" ><span>ATG302</span>Un chrétien je voudrais être</a>
+<a href="chant/atg303" class="resRech" ><span>ATG303</span>Au pays d'Egypte, Israël…</a>
+<a href="chant/atg304" class="resRech" ><span>ATG304</span>Veille et prie</a>
+<a href="chant/atg305" class="resRech" ><span>ATG305</span>Seul refuge de mon âme</a>
+<a href="chant/atg306" class="resRech" ><span>ATG306</span>Viens m'apprendre à t'aimer</a>
+<a href="chant/atg307" class="resRech" ><span>ATG307</span>O Jésus, je t'aime</a>
+<a href="chant/atg308" class="resRech" ><span>ATG308</span>Oh ! voir Jésus… !</a>
+<a href="chant/atg309" class="resRech" ><span>ATG309</span>T'aimer Jésus, te connaître</a>
+<a href="chant/atg310" class="resRech" ><span>ATG310</span>Bienheureux qui t'aime</a>
+<a href="chant/atg311" class="resRech" ><span>ATG311</span>Pour toi seul en qui j'espère</a>
+<a href="chant/atg312" class="resRech" ><span>ATG312</span>Que ton fidèle amour</a>
+<a href="chant/atg313" class="resRech" ><span>ATG313</span>Jamais Dieu ne délaisse</a>
+<a href="chant/atg314" class="resRech" ><span>ATG314</span>Saisis ma main craintive</a>
+<a href="chant/atg315" class="resRech" ><span>ATG315</span>Quel repos céleste</a>
+<a href="chant/atg316" class="resRech" ><span>ATG316</span>Celui qui met en Jésus</a>
+<a href="chant/atg317" class="resRech" ><span>ATG317</span>Il est un port secourable</a>
+<a href="chant/atg318" class="resRech" ><span>ATG318</span>Je ne sais pourquoi dans sa grâce</a>
+<a href="chant/atg319" class="resRech" ><span>ATG319</span>Ah ! si ton sang, si ta mort, si ta vie</a>
+<a href="chant/atg320" class="resRech" ><span>ATG320</span>O Jésus, je me repose</a>
+<a href="chant/atg321" class="resRech" ><span>ATG321</span>Dieu nous aime comme un Père</a>
+<a href="chant/atg322" class="resRech" ><span>ATG322</span>Sur toi je me repose</a>
+<a href="chant/atg323" class="resRech" ><span>ATG323</span>Quand ma route est obscure</a>
+<a href="chant/atg324" class="resRech" ><span>ATG324</span>Comme un fleuve immense</a>
+<a href="chant/atg325" class="resRech" ><span>ATG325</span>Paix, paix parfaite</a>
+<a href="chant/atg326" class="resRech" ><span>ATG326</span>Mort avec Christ d'une mort volontaire</a>
+<a href="chant/atg327" class="resRech" ><span>ATG327</span>Mon coeur joyeux</a>
+<a href="chant/atg328" class="resRech" ><span>ATG328</span>La foi fait tomber sous nos yeux</a>
+<a href="chant/atg329" class="resRech" ><span>ATG329</span>À Jésus je m abandonne</a>
+<a href="chant/atg330" class="resRech" ><span>ATG330</span>Christ nous précédant</a>
+<a href="chant/atg331" class="resRech" ><span>ATG331</span>Repose en paix</a>
+<a href="chant/atg332" class="resRech" ><span>ATG332</span>Notre barque est en danger</a>
+<a href="chant/atg333" class="resRech" ><span>ATG333</span>Lève les yeux vers Christ</a>
+<a href="chant/atg334" class="resRech" ><span>ATG334</span>Ne te désole point, Sion</a>
+<a href="chant/atg335" class="resRech" ><span>ATG335</span>De quoi t'alarmes-tu, mon cœur ?</a>
+<a href="chant/atg336" class="resRech" ><span>ATG336</span>Quand le vol de la tempête</a>
+<a href="chant/atg337" class="resRech" ><span>ATG337</span>Marchons avec joie</a>
+<a href="chant/atg338" class="resRech" ><span>ATG338</span>Déchargez-vous sur Dieu</a>
+<a href="chant/atg339" class="resRech" ><span>ATG339</span>Mon Dieu est si bon</a>
+<a href="chant/atg340" class="resRech" ><span>ATG340</span>Dieu vit toujours !</a>
+<a href="chant/atg341" class="resRech" ><span>ATG341</span>Chrétien, réjouis-toi !</a>
+<a href="chant/atg342" class="resRech" ><span>ATG342</span>O joie immense, infinie !</a>
+<a href="chant/atg343" class="resRech" ><span>ATG343</span>L'Eternel est ma part</a>
+<a href="chant/atg344" class="resRech" ><span>ATG344</span>Que ne puis-je, ô mon Dieu</a>
+<a href="chant/atg345" class="resRech" ><span>ATG345</span>Jésus me demande d'être</a>
+<a href="chant/atg346" class="resRech" ><span>ATG346</span>Oh ! quel bonheur de le connaître</a>
+<a href="chant/atg347" class="resRech" ><span>ATG347</span>Dans mon âme un beau soleil brille</a>
+<a href="chant/atg348" class="resRech" ><span>ATG348</span>Oh ! quel parfait bonheur !</a>
+<a href="chant/atg349" class="resRech" ><span>ATG349</span>C'est un rempart que notre Dieu</a>
+<a href="chant/atg350" class="resRech" ><span>ATG350</span>Lève-toi, vaillante armée !</a>
+<a href="chant/atg351" class="resRech" ><span>ATG351</span>Plus que vainqueurs !</a>
+<a href="chant/atg352" class="resRech" ><span>ATG352</span>Debout, sainte cohorte</a>
+<a href="chant/atg353" class="resRech" ><span>ATG353</span>À celui qui sera vainqueur</a>
+<a href="chant/atg354" class="resRech" ><span>ATG354</span>Le signal de la victoire</a>
+<a href="chant/atg355" class="resRech" ><span>ATG355</span>Jusqu'à la mort</a>
+<a href="chant/atg356" class="resRech" ><span>ATG356</span>La lutte suprême</a>
+<a href="chant/atg357" class="resRech" ><span>ATG357</span>Il est une sainte guerre</a>
+<a href="chant/atg358" class="resRech" ><span>ATG358</span>Debout, nous sommes frères !</a>
+<a href="chant/atg359" class="resRech" ><span>ATG359</span>Qui veut pour le Maître ?</a>
+<a href="chant/atg360" class="resRech" ><span>ATG360</span>Pour porter le glaive</a>
+<a href="chant/atg361" class="resRech" ><span>ATG361</span>Quel bonheur de marcher avec lui !</a>
+<a href="chant/atg362" class="resRech" ><span>ATG362</span>Veux-tu briser du péché le pouvoir ?</a>
+<a href="chant/atg363" class="resRech" ><span>ATG363</span>L'Eternel combattra pour vous</a>
+<a href="chant/atg364" class="resRech" ><span>ATG364</span>Publiez bien haut la grande nouvelle</a>
+<a href="chant/atg365" class="resRech" ><span>ATG365</span>Jésus te confie</a>
+<a href="chant/atg366" class="resRech" ><span>ATG366</span>Travaillons et luttons</a>
+<a href="chant/atg367" class="resRech" ><span>ATG367</span>Par le nom de Jésus</a>
+<a href="chant/atg368" class="resRech" ><span>ATG368</span>La croix reste debout</a>
+<a href="chant/atg369" class="resRech" ><span>ATG369</span>Béni sois-tu, tendre Maître !</a>
+<a href="chant/atg370" class="resRech" ><span>ATG370</span>Peuple de Dieu, proclame</a>
+<a href="chant/atg371" class="resRech" ><span>ATG371</span>La voix de Christ nous appelle</a>
+<a href="chant/atg372" class="resRech" ><span>ATG372</span>Qu'ils sont beaux sur les montagnes</a>
+<a href="chant/atg373" class="resRech" ><span>ATG373</span>Dès que l'aube dépose</a>
+<a href="chant/atg374" class="resRech" ><span>ATG374</span>Vous qui gardez les murs</a>
+<a href="chant/atg375" class="resRech" ><span>ATG375</span>Sentinelle vigilante</a>
+<a href="chant/atg376" class="resRech" ><span>ATG376</span>Écoutez l'appel du Berger</a>
+<a href="chant/atg377" class="resRech" ><span>ATG377</span>Amis, voulez-vous savoir ?</a>
+<a href="chant/atg378" class="resRech" ><span>ATG378</span>Le Seigneur Jésus</a>
+<a href="chant/atg379" class="resRech" ><span>ATG379</span>Le ciel était voilé</a>
+<a href="chant/atg380" class="resRech" ><span>ATG380</span>Salut, montagnes bien-aimées</a>
+<a href="chant/atg381" class="resRech" ><span>ATG381</span>Seigneur, que la terre entière</a>
+<a href="chant/atg382" class="resRech" ><span>ATG382</span>Sur le chemin de la gloire</a>
+<a href="chant/atg383" class="resRech" ><span>ATG383</span>Divin soleil de justice</a>
+<a href="chant/atg384" class="resRech" ><span>ATG384</span>L'horizon se colore</a>
+<a href="chant/atg385" class="resRech" ><span>ATG385</span>O toi qui fus fondée</a>
+<a href="chant/atg386" class="resRech" ><span>ATG386</span>Voir mon Sauveur</a>
+<a href="chant/atg387" class="resRech" ><span>ATG387</span>O Dieu ! nous le plaçons</a>
+<a href="chant/atg388" class="resRech" ><span>ATG388</span>Daigne bénir, fidèle et tendre Père</a>
+<a href="chant/atg389" class="resRech" ><span>ATG389</span>Sur ces époux, Père éternel</a>
+<a href="chant/atg390" class="resRech" ><span>ATG390</span>Seigneur Jésus, céleste frère</a>
+<a href="chant/atg391" class="resRech" ><span>ATG391</span>Jésus sois avec vous</a>
+<a href="chant/atg392" class="resRech" ><span>ATG392</span>O Seigneur Eternel</a>
+<a href="chant/atg393" class="resRech" ><span>ATG393</span>Nos fugitives années</a>
+<a href="chant/atg394" class="resRech" ><span>ATG394</span>Je suis petit, mais…</a>
+<a href="chant/atg395" class="resRech" ><span>ATG395</span>O Dieu, que cette année</a>
+<a href="chant/atg396" class="resRech" ><span>ATG396</span>Nul enfant n'est trop petit</a>
+<a href="chant/atg397" class="resRech" ><span>ATG397</span>Je suis la lumière</a>
+<a href="chant/atg398" class="resRech" ><span>ATG398</span>David n'avait rien que sa fronde</a>
+<a href="chant/atg399" class="resRech" ><span>ATG399</span>Dans le calme</a>
+<h4 id="400">400</h4><a href="chant/atg400" class="resRech" ><span>ATG400</span>Par ta Parole</a>
+<p class="nbTrouves">400 chants</p></div></section>		
+	
+</div></section>
+<script>var globals = {"recueils":{"jem1-4":"J'aime l'Eternel vol. 1-4","jem1":"J'aime l'Eternel vol. 1","jem2":"J'aime l'Eternel vol. 2","jem3":"J'aime l'Eternel vol. 3","jem4":"J'aime l'Eternel vol. 4","jemk":"JEM Kids","af":"Ailes de la Foi","atg":"\u00c0 Toi la Gloire"},"recueilsCourt":{"jem":"J'aime l'Eternel","jemk":"JEM Kids","af":"Ailes de la Foi","atg":"\u00c0 Toi la Gloire"},"maxJem":{"jem1":371,"jem2":721,"jem3":999,"jem4":1200},"maxRecueils":{"jem":1200,"jemk":196,"af":655,"atg":400,"perso":100},"indexLetters":{"jem1-4":"A\u00c0BCDE\u00c9FGHIJLMNOPQRSTUVY","jem1":"A\u00c0BCDE\u00c9FGHIJLMNOPQRSTUV","jem2":"A\u00c0BCDE\u00c9FGHIJKLMNOPQRSTUV","jem3":"A\u00c0BCDE\u00c9FGHIJLMNOPQRSTUVY","jem4":"A\u00c0BCDE\u00c9FGHIJLMNOPQRSTUV","jemk":"A\u00c0BCDE\u00c9FGHIJLMNOPQRSTUVY","af":"A\u00c0BCDE\u00c9FGHIJLMNOPQRSTUV","atg":"A\u00c0BCDE\u00c9GHIJLMNOPQRSTUV","perso":"A\u00c0BCDE\u00c9FGHIJKLMNOPQRSTUVWXYZ"},"parties":{"Str.":"Strophe","Refr.":"Refrain","Intro.":"Introduction","Pont ":"Pont","Fin ":"Fin","Paroles":"Paroles"},"texte":{"paroles":"Paroles","accords":"Accords","phrases":"Phrases","m-jemaf":"m-jemaf"},"texteListe":{"paroles":"Paroles","m-jemaf":"m-jemaf"},"affichages":{"col-0":"Mode normal","col-1":"1 colonne","col-2":"2 colonnes","col-3":"3 colonnes","col-4":"4 colonnes"},"options":{"ajoutAccords":"Avec accords","supprAccords":"Sans accords","ajoutPhrases":"Mode Phrases","supprPhrases":"Mode Phrases d\u00e9sactiv\u00e9","ajoutCol":"Mode multi-colonnes","supprCol":"Mode colonne simple"},"licences":{"premium":{"nom":"Premium","prix":10},"editeur":{"nom":"\u00c9diteur de Liste","prix":15}}};
+var indexRecueil = "atg";
+var letter = "0-9";
+</script><section id="footer" class="noprint"><footer><div class="app">
+    <a href="https://jemaf.fr">Jemaf</a> - 
+</div>
+<a href="http://www.facebook.com/pages/jemaf/88020062447">Facebook</a> - 
+<a id="sendMail" href="mailto:replace@jemaf.fr">Contact</a> - 
+<a href="mentions-legales">Mentions légales</a> - 
+<a href="http://jemaf.free.fr">Ancien&nbsp;site</a>
+</footer></section>
+<script type="text/javascript" src="web/jquery.min.js"></script>
+<script src="web/select2.min.js"></script>
+<script src="pages/chant-part.js"></script>
+<script src="pages/chant.js"></script>
+<script src="pages/appli.js"></script>
+<script src="web/jquery.js"></script>
+</body>

@@ -1,0 +1,81 @@
+{
+	"id": "o-jeunesse-christ-t-appelle",
+	"title": "Ô jeunesse, Christ t’appelle",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "328"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ô jeunesse, Christ t’appelle,",
+				"Oui, t’appelle au bon combat;",
+				"Il te veut toujours fidèle",
+				"Pour le suivre pas à pas.",
+				"Sois loyale, sois vaillante,",
+				"Pure et forte chaque jour;",
+				"Sois active, sois fervente,",
+				"Dieu t’accorde son secours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vois, partout le mal augmente,",
+				"Il redouble son effort;",
+				"Il déchaîne la tourmente,",
+				"C’est la ruine et c’est la mort.",
+				"Mais c’est Dieu le roi, le maître;",
+				"Il dissipera la nuit.",
+				"Tu verras l’espoir renaître,",
+				"Si ta foi s’attache à lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ô jeunesse, Christ t’appelle,",
+				"Tout entière, livre-toi.",
+				"Dans tes rangs aucun rebelle,",
+				"Suis Jésus jusqu’à la croix.",
+				"Vois déjà du ciel la gloire,",
+				"Là, Dieu séchera tes pleurs.",
+				"Crois toujours à la victoire,",
+				"Crois et tu seras vainqueur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Chante, et sois dans l’allégresse,",
+				"Car bientôt Jésus viendra.",
+				"Plus d’angoisse, de détresse,",
+				"Son royaume alors naîtra.",
+				"À lui force, honneur, puissance,",
+				"Jusqu’à dans l’éternité.",
+				"Cours au but sans défaillance,",
+				"Suis le Christ ressuscité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1128",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

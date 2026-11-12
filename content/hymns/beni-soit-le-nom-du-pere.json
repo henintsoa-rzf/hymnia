@@ -1,0 +1,85 @@
+{
+	"id": "beni-soit-le-nom-du-pere",
+	"title": "Béni soit le nom du Père…",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "4"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit le nom du Père,",
+				"Et du Fils, et de l’Esprit;",
+				"Que vers lui, notre prière,",
+				"S’élève par Jésus-Christ.",
+				"Voulant racheter notre âme,",
+				"Jésus, pour nous, s’est donné;",
+				"Que tout l’univers l’acclame,",
+				"Pour l’éternité!"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Exaltez le roi de gloire,",
+				"Que partout, dans l’univers,",
+				"Tout proclame sa victoire,",
+				"Dans le plus beau des concerts.",
+				"Rien ne peut égaler sa bonté,",
+				"Ni jamais surpasser sa beauté;",
+				"Nul sur terre ou dans les cieux",
+				"N’est aussi merveilleux!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Prosternés devant la face",
+				"De Jésus, le grand vainqueur;",
+				"Tous nos coeurs chantent la grâce,",
+				"De notre libérateur.",
+				"Sur les rives éternelles,",
+				"Revêtus de son fin lin,",
+				"Nos hymnes, toujours nouvelles,",
+				"Le loueront sans fin!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, loué soit notre maître,",
+				"Pour sa grâce st son salut;",
+				"De la gloire il va paraître,",
+				"Pour ravir tous ses élus.",
+				"Puissance, honneur et victoire,",
+				"À l’Agneau qui s’est donné;",
+				"Par les élus, dans la gloire,",
+				"Qu’il soit couronné!"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Arthur W. McKee",
+			"role": "unspecified"
+		},
+		{
+			"name": "H.Arnéra",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/834",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

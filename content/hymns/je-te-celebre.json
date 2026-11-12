@@ -1,0 +1,73 @@
+{
+	"id": "je-te-celebre",
+	"title": "Je te célèbre",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "915"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te célèbre de tout mon cœur",
+				"Et je chante tes louanges.",
+				"Je te célèbre de tout mon cœur",
+				"Et je chante",
+				"À cause de ta bonté, de ta fidélité,",
+				"À cause de ta bonté, de ta fidélité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es vie, tu es amour,",
+				"Tu es celui que j'adore.",
+				"À toi l'honneur, à toi la gloire,",
+				"À toi, Jésus, la victoire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te célèbre de tout mon cœur",
+				"Et je chante tes louanges.",
+				"Je te célèbre de tout mon cœur",
+				"Et je chante",
+				"À cause de ta bonté, de ta fidélité,",
+				"À cause de ta bonté, de ta fidélité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lumière du monde, mon espérance,",
+				"Toujours le même, tu es fidèle.",
+				"À toi l'honneur, à toi la gloire,",
+				"À toi, Jésus, la victoire !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stéphanie Küffer",
+			"role": "music"
+		},
+		{
+			"name": "Stéphanie Küffer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem915",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

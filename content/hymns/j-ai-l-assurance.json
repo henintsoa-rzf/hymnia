@@ -1,0 +1,69 @@
+{
+	"id": "j-ai-l-assurance",
+	"title": "J'ai l'assurance",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "74"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai l'assurance de mon salut",
+				"Par la présence du Seigneur Jésus.",
+				"Son sang m'a lavé, m'a racheté,",
+				"Et l'Esprit Saint m'a régénéré."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est mon histoire, c'est là mon chant,",
+				"Louer mon Sauveur le jour durant.",
+				"C'est mon histoire, c'est là mon chant,",
+				"Louer mon Sauveur le jour durant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Parfait repos et parfait bonheur,",
+				"En toi, mon Sauveur, j'ai la paix du cœur.",
+				"Je veille en attendant ton retour.",
+				"Je suis comblé, sûr de ton amour !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est mon histoire, c'est là mon chant,",
+				"Louer mon Sauveur le jour durant.",
+				"C'est mon histoire, c'est là mon chant,",
+				"Louer mon Sauveur le jour durant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Aline-J.-F. Knapp",
+			"role": "music"
+		},
+		{
+			"name": "Fanny J. Crosby",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem074",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

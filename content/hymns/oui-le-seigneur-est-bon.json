@@ -1,0 +1,99 @@
+{
+	"id": "oui-le-seigneur-est-bon",
+	"title": "Oui, le Seigneur est bon",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "693"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Gens du monde entier,",
+				"acclamez le Seigneur,",
+				"Offrez-lui un culte joyeux,",
+				"Présentez-vous à lui avec des cris de joie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, le Seigneur est bon",
+				"Et son amour n'a pas de fin,",
+				"De siècle en siècle",
+				"Et à jamais.",
+				"Oui, le Seigneur est bon",
+				"Et son amour n'a pas de fin,",
+				"De siècle en siècle",
+				"Et à jamais il reste fidèle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sachez-le, c'est le Seigneur qui est Dieu,",
+				"Il est le berger de son peuple ;",
+				"C'est lui qui nous a faits et nous sommes à lui !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, le Seigneur est bon",
+				"Et son amour n'a pas de fin,",
+				"De siècle en siècle",
+				"Et à jamais.",
+				"Oui, le Seigneur est bon",
+				"Et son amour n'a pas de fin,",
+				"De siècle en siècle",
+				"Et à jamais il reste fidèle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Acclamez-le en entrant dans son temple",
+				"Et apportez-lui vos louanges,",
+				"Louez le Seigneur, c'est lui qui est votre Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, le Seigneur est bon",
+				"Et son amour n'a pas de fin,",
+				"De siècle en siècle",
+				"Et à jamais.",
+				"Oui, le Seigneur est bon",
+				"Et son amour n'a pas de fin,",
+				"De siècle en siècle",
+				"Et à jamais il reste fidèle."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem693",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

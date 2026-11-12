@@ -15,9 +15,12 @@ export type EntryRef = { hymn: PublishedHymn; entry: PublishedEntry };
 
 export type CatalogApi = {
 	version: string;
+	/** Hymnals to list: those with at least one published hymn, in sortOrder. */
 	getHymnals(): PublishedHymnal[];
 	getHymnal(id: string): PublishedHymnal | undefined;
 	getHymn(id: string): PublishedHymn | undefined;
+	/** Follows `redirects` (hymns merged by an import): the current id of a stored hymn id. */
+	resolveHymnId(id: string): string;
 	/** Number as typed or printed: "12 bis" and "12bis" find the same entry. */
 	getEntry(hymnalId: string, number: string): EntryRef | undefined;
 	/** All entries of a hymnal, in number order. */
@@ -45,12 +48,17 @@ export function createCatalog(catalog: Catalog): CatalogApi {
 	}
 
 	const listEntries = (hymnalId: string) => byHymnal.get(hymnalId) ?? [];
+	// A hymnal with no published hymn yet (e.g. just added for an import) is known (labels,
+	// number queries) but not listed.
+	const listed = catalog.hymnals.filter((h) => h.hymnCount > 0);
 
 	return {
 		version: catalog.version,
-		getHymnals: () => catalog.hymnals,
+		getHymnals: () => listed,
 		getHymnal: (id) => hymnals.get(id),
 		getHymn: (id) => hymns.get(id),
+		// A catalog cached before redirects existed has none.
+		resolveHymnId: (id) => catalog.redirects?.[id] ?? id,
 		getEntry: (hymnalId, number) => byNumber.get(`${hymnalId} ${normalizeNumber(number)}`),
 		listEntries,
 		neighbours(hymnalId, number) {

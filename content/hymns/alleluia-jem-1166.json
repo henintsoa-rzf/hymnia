@@ -1,0 +1,95 @@
+{
+	"id": "alleluia-jem-1166",
+	"title": "Alléluia",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1166"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand mes ennemis me font face",
+				"Et que la peur me saisit,",
+				"Je chercherai toujours ta face",
+				"Car je sais que tu peux agir.",
+				"Je chante alléluia, alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand mes yeux sont noyés de larmes",
+				"Et que sous leur poids je fléchis,",
+				"À genoux, je saisis mes armes,",
+				"Je te loue, Dieu, tu vas agir.",
+				"Je chante alléluia, alléluia."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Dieu, tout-puissant.",
+				"Rien ne t’est impossible,",
+				"Oui, je le crois.",
+				"Tu es Dieu, toujours présent.",
+				"Tu feras l’impossible,",
+				"Oui, je le crois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Dieu, tout-puissant.",
+				"Rien ne t’est impossible,",
+				"Oui, je le crois.",
+				"Tu es Dieu, toujours présent.",
+				"Tu feras l’impossible,",
+				"Oui, je le crois.µ",
+				"Alléluia, alléluia."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Et même si je ne le vois pas",
+				"Et que ma prière s’épuise,",
+				"Ma foi est en toi,",
+				"Mon chant est pour toi.",
+				"Je t’adorerai sans faiblir."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia.",
+				"Alléluia, alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sandra Kouamé",
+			"role": "music"
+		},
+		{
+			"name": "Sandra Kouamé",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1166",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

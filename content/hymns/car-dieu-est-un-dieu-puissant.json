@@ -1,0 +1,54 @@
+{
+	"id": "car-dieu-est-un-dieu-puissant",
+	"title": "Car Dieu est un Dieu puissant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "385"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car Dieu est un Dieu puissant,",
+				"Il règne de son saint lieu,",
+				"Avec sagesse, amour ;",
+				"Oui, Dieu est un Dieu puissant.",
+				"Car Dieu est un Dieu puissant,",
+				"Il règne de son saint lieu,",
+				"Avec sagesse, amour ;",
+				"Oui, Dieu est un Dieu puissant."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Car Dieu est un Dieu puissant,",
+				"Il règne de son saint lieu,",
+				"Avec sagesse, amour ;",
+				"Oui, Dieu est un Dieu puissant.",
+				"Oui, Dieu est un Dieu puissant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rich Mullins",
+			"role": "music"
+		},
+		{
+			"name": "Rich Mullins",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem385",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

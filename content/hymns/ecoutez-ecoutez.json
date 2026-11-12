@@ -1,0 +1,72 @@
+{
+	"id": "ecoutez-ecoutez",
+	"title": "Écoutez, écoutez.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "618"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Écoutez, écoutez comme un soupir immense",
+				"Qui traverse l'espace et qui franchit les mers…",
+				"Tu l'entends mieux que nous,",
+				"Sauveur plein de clémence,",
+				"Le long gémissement qui monte des déserts."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi qui vins effacer l'iniquité du monde,",
+				"De l'aurore au couchant, du midi jusqu'au nord,",
+				"O Christ ! prends en pitié la détresse profonde",
+				"Des peuples gémissant dans l'ombre de la mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ce cri des païens,",
+				"dont Satan fait sa proie,",
+				"En assiégeant ton trône",
+				"atteigne aussi nos cœurs !",
+				"Nous voulons avec eux partager notre joie",
+				"Et l'éternel salut conquis par tes douleurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que ton nom retentisse",
+				"au fond des solitudes !",
+				"Fais-toi trouver par ceux",
+				"qui ne te cherchaient pas :",
+				"Rassemble en ton bercail",
+				"ces sombres multitudes,",
+				"Ouvre aux enfants perdus",
+				"et ton cœur et tes bras !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af618",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

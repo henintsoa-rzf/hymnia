@@ -1,0 +1,59 @@
+{
+	"id": "vous-tous-dont-l-ame",
+	"title": "Vous tous dont l'âme.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "579"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous tous dont l'âme est envahie",
+				"Par le dégoût de la vie,",
+				"Toujours trompés, toujours déçus,",
+				"Venez, venez, venez à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voyageurs lassés de la route",
+				"Et tourmentés par le doute,",
+				"Vous qui déjà ne luttez plus,",
+				"Venez, venez, venez à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vous qui pleurez sans espérance,",
+				"Vous qui souffrez en silence,",
+				"Levez les yeux, ne pleurez plus,",
+				"Venez, venez, venez à Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H. Barbezat",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af579",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

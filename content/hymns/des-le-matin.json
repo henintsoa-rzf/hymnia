@@ -1,0 +1,50 @@
+{
+	"id": "des-le-matin",
+	"title": "Dès le matin",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "396"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dès le matin, je me tourne vers toi,",
+				"Je tends les mains, je me donne à toi.",
+				"Montre-moi le chemin qui mène jusqu'à toi.",
+				"Je t'appartiens, guide mes pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les montagnes dansent,",
+				"Et les arbres chantent que tu es là,",
+				"Près de moi.",
+				"Le ciel et la terre, le chant des rivières",
+				"Me disent que tu es Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gérard Bryon",
+			"role": "music"
+		},
+		{
+			"name": "Gérard Bryon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem396",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

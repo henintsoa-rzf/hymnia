@@ -1,0 +1,55 @@
+{
+	"id": "chaine-d-amour",
+	"title": "Chaîne d'amour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "734"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous sommes unis dans la famille",
+				"Car Dieu nous lie à toujours",
+				"Par une chaîne d'amour.",
+				"Concitoyens, nous sommes les siens",
+				"Car Dieu nous lie à toujours",
+				"Par une chaîne d'amour"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et chacun des maillons",
+				"Dans l'épreuve tiendra bon,",
+				"Lié à toujours",
+				"Par une chaîne d'amour.",
+				"Oui, chacun des maillons",
+				"Dans l'épreuve tiendra bon,",
+				"Lié à toujours",
+				"Par une chaîne d'amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem734",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

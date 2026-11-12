@@ -1,0 +1,113 @@
+{
+	"id": "homme-crucifie",
+	"title": "Homme crucifié",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "983"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"J'ai mis tout mon espoir dans un homme crucifié,",
+				"Dans ses mains transpercées et son corps lacéré.",
+				"J'ai lâché mon orgueil pour partager son sort",
+				"Et la gloire à venir qui jaillit de sa mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai laissé ma confiance dans les sages et les fiers",
+				"Pour la faiblesse de Dieu, un si fragile mystère.",
+				"Et je crois sans rougir au scandale de la croix,",
+				"Qui pardonne et rend pur celui qui le reçoit par la foi.",
+				"Pour lui seul, je vivrai.",
+				"J'ai mis mon espoir dans un homme crucifié."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je sais qu'il a changé les épines et le fouet",
+				"En autel de pardon où sa grâce a coulé.",
+				"Quand le péché abonde, sa bonté le désarme,",
+				"Comme la haine innommable devant son amour ineffable.",
+				"Le voici comme un agneau blessé.",
+				"J'ai mis mon espoir dans un homme crucifié."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Homme de douleurs, roi souffrant,",
+				"Il nous sauve par sa passion."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand la malédiction a frappé l'innocent,",
+				"L'aiguillon de la mort a perdu son poison.",
+				"Tout genou fléchira et tout œil le verra.",
+				"La sagesse du Dieu au cœur brisé est folie ici-bas,",
+				"Et j'y trouve ma joie et ma paix.",
+				"J'ai mis mon espoir dans un homme crucifié."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Homme de douleurs, roi souffrant,",
+				"Il nous sauve par sa passion."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"J'ai enterré ma vie pour renaître au printemps,",
+				"Comme une graine en hiver qui attend la saison.",
+				"Du jardin des tombeaux, Eden brille à jamais ;",
+				"De son corps fleurit le paradis pour l'éternité.",
+				"Il reviendra pour régner.",
+				"La nature espère en un homme crucifié."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Quand viendra le jugement, je n'ai pas d'autre plan :",
+				"J'ai mis mon espoir dans un homme crucifié.",
+				"Comme le brigand repentant, je n'ai pas d'autre plan :",
+				"J'ai mis mon espoir dans un homme crucifié."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem983",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

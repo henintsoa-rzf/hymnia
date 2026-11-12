@@ -1,0 +1,39 @@
+{
+	"id": "tu-es-mon-dieu",
+	"title": "Tu es mon Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "189"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es mon Dieu et je te chanterai.",
+				"Tu es mon Dieu et je t'exalterai.",
+				"Loué soit l'Éternel, car il est bon,",
+				"Car sa miséricorde dure à toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tony Hopkins",
+			"role": "music"
+		},
+		{
+			"name": "Tony Hopkins",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem189",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

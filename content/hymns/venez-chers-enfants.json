@@ -1,0 +1,60 @@
+{
+	"id": "venez-chers-enfants",
+	"title": "Venez, chers enfants",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "113"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez, chers enfants, accourez, c'est Noël !",
+				"Chantez d'un seul cœur, chantez Emmanuel !",
+				"Avec les bergers et les mages, venez !",
+				"Devant le Seigneur il faut vous prosterner."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est tout petit, mais c'est lui le Seigneur.",
+				"C'est lui dont les anges redisent en chœur",
+				"Ce qu'ont annoncé les prophètes jadis :",
+				"Le Père céleste nous donne son Fils."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"S'il vient dans le monde,",
+				"c'est pour nous chercher,",
+				"Dans notre misère et dans notre péché.",
+				"Venez chers enfants, acceptez le salut !",
+				"Chantez désormais le beau nom de Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Abraham Peter Schulz",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg113",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

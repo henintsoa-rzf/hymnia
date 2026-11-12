@@ -1,0 +1,63 @@
+{
+	"id": "sois-heureux",
+	"title": "Sois heureux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "549"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sois heureux et loue le Seigneur",
+				"Avec des cris de joie.",
+				"Sois heureux et loue le Seigneur",
+				"Avec des cris de joie.",
+				"Sois heureux et loue le Seigneur",
+				"Avec des cris de joie.",
+				"Sois heureux et loue le Seigneur",
+				"Avec des cris de joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Laissez éclater votre joie",
+				"Au-dessus de la terre.",
+				"Faites connaître en tous lieux",
+				"Qu'Il est le Fils de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sois heureux et loue le Seigneur",
+				"Avec des cris de joie.",
+				"Sois heureux et loue le Seigneur",
+				"Avec des cris de joie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charly Siounath",
+			"role": "music"
+		},
+		{
+			"name": "Charly Siounath",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem549",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

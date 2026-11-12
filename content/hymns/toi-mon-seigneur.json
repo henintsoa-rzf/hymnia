@@ -1,0 +1,91 @@
+{
+	"id": "toi-mon-seigneur",
+	"title": "Toi, mon Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "714"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi, mon Seigneur,",
+				"Tu es mon guide chaque jour.",
+				"Toi, mon Jésus,",
+				"Tu es la raison de ma vie.",
+				"Toi, mon Seigneur,",
+				"Mon ami le plus précieux,",
+				"Toi, mon Jésus,",
+				"Tu es la raison de ma vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand mon chemin s'éloigne du tien,",
+				"Je suis perdu, désemparé.",
+				"À chaque fois, toi, tu es là,",
+				"Tu tends les bras pour me relever."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi, mon Seigneur,",
+				"Tu es mon guide chaque jour.",
+				"Toi, mon Jésus,",
+				"Tu es la raison de ma vie.",
+				"Toi, mon Seigneur,",
+				"Mon ami le plus précieux,",
+				"Toi, mon Jésus,",
+				"Tu es la raison de ma vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon cœur troublé se met à douter,",
+				"Je cherche en toi ma sécurité.",
+				"Mes yeux sur toi vont se fixer,",
+				"Tu tends les bras pour me libérer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi, mon Seigneur,",
+				"Tu es mon guide chaque jour.",
+				"Toi, mon Jésus,",
+				"Tu es la raison de ma vie.",
+				"Toi, mon Seigneur,",
+				"Mon ami le plus précieux,",
+				"Toi, mon Jésus,",
+				"Tu es la raison de ma vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem714",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

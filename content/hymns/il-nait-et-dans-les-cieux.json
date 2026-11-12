@@ -1,0 +1,70 @@
+{
+	"id": "il-nait-et-dans-les-cieux",
+	"title": "Il naît ; et dans les cieux.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "650"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il nait : et dans les cieux",
+				"Pleins de lumière",
+				"Éclate un chant joyeux :",
+				"« Paix sur la terre ! »",
+				"Le ciel s'émeut et contemple étonné,",
+				"Et contemple étonné",
+				"L'humble Vierge Marie et son Fils nouveau-né."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Renais, monde perdu,",
+				"À l'espérance :",
+				"Voici l'homme attendu,",
+				"La délivrance ;",
+				"Car désormais tu n'as plus d'ennemis,",
+				"Tu n'as plus d'ennemis.",
+				"Par cet enfant divin l'enfer même est soumis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand tous méconnaîtraient",
+				"Ta grâce immense,",
+				"Nos voix s'élèveraient",
+				"Dans le silence",
+				"Pour dire, ô Dieu, ton amour éternel,",
+				"Ton amour éternel",
+				"Qui nous donne un Sauveur et nous ouvre le ciel !",
+				"Alléluia ! Amen,",
+				"Alléluia ! Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Caroll Anglais",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af650",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,79 @@
+{
+	"id": "a-genoux-devant-toi",
+	"title": "À genoux devant toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "841"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À genoux, devant toi,",
+				"Je ne peux rien t'apporter d'autre que moi.",
+				"À genoux, devant toi,",
+				"Les yeux clos mais le cœur ouvert à ta voix.",
+				"Quand tout ce qu'il me reste",
+				"C'est la certitude que tu es mort pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors mon cœur soudain s'élève",
+				"Quand ton amour vient me toucher",
+				"Et je regarde à la croix",
+				"Et je te vois à la croix.",
+				"Ma vie retrouve un sens",
+				"Quand je me tiens",
+				"À genoux devant toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À genoux, devant toi,",
+				"Je ne veux rien espérer d'autre que toi.",
+				"À genoux, devant toi,",
+				"Quand mon âme ne fait que gémir après toi.",
+				"Quand tout ce qu'il me reste",
+				"C'est la certitude de ton amour pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors mon cœur soudain s'élève",
+				"Quand ton amour vient me toucher",
+				"Et je regarde à la croix",
+				"Et je te vois à la croix.",
+				"Ma vie retrouve un sens",
+				"Quand je me tiens",
+				"À genoux devant toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem841",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

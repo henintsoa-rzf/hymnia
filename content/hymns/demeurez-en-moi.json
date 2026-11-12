@@ -1,0 +1,113 @@
+{
+	"id": "demeurez-en-moi",
+	"title": "Demeurez en moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "41"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Demeurez en moi,",
+				"Et je demeurerai en vous.",
+				"Celui qui demeure en moi",
+				"Porte beaucoup de fruits.",
+				"Demeurez en moi,",
+				"Et je demeurerai en vous.",
+				"Celui qui demeure en moi",
+				"Porte beaucoup de fruits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis le vrai cep,",
+				"Mon Père est le vigneron.",
+				"Je suis le cep,",
+				"Vous êtes les sarments."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Demeurez en moi,",
+				"Et je demeurerai en vous.",
+				"Celui qui demeure en moi",
+				"Porte beaucoup de fruits.",
+				"Demeurez en moi,",
+				"Et je demeurerai en vous.",
+				"Celui qui demeure en moi",
+				"Porte beaucoup de fruits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si vous demeurez en moi,",
+				"Et que mes paroles demeurent en vous,",
+				"Demandez ce que vous voudrez,",
+				"Et cela vous sera accordé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Demeurez en moi,",
+				"Et je demeurerai en vous.",
+				"Celui qui demeure en moi",
+				"Porte beaucoup de fruits.",
+				"Demeurez en moi,",
+				"Et je demeurerai en vous.",
+				"Celui qui demeure en moi",
+				"Porte beaucoup de fruits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si vous portez beaucoup de fruits,",
+				"C'est ainsi que mon Père sera glorifié."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Demeurez en moi,",
+				"Et je demeurerai en vous.",
+				"Celui qui demeure en moi",
+				"Porte beaucoup de fruits.",
+				"Demeurez en moi,",
+				"Et je demeurerai en vous.",
+				"Celui qui demeure en moi",
+				"Porte beaucoup de fruits."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem041",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

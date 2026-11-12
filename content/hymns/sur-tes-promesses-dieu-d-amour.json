@@ -1,0 +1,59 @@
+{
+	"id": "sur-tes-promesses-dieu-d-amour",
+	"title": "Sur tes promesses, Dieu d’amour",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "297"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur tes promesses, Dieu d’amour,",
+				"En paix se reposent les tiens.",
+				"En ta puissance est leur secours,",
+				"Ta grâce est leur constant soutien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu nous as tout donné, Seigneur,",
+				"La délivrance et le pardon,",
+				"La joie, la paix, le vrai bonheur,",
+				"Notre âme exalte ton grand nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ô Seigneur, fais-nous mesurer",
+				"De ton amour l’immensité,",
+				"Et qu’à jamais, sans nous lasser,",
+				"Nos coeurs célèbrent ta bonté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "R. Demaurex",
+			"role": "unspecified"
+		},
+		{
+			"name": "H.P. Smith",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1101",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

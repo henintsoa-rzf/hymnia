@@ -1,0 +1,100 @@
+{
+	"id": "solo-christo",
+	"title": "Solo Christo",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1112"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Fils de Dieu, splendeur des cieux,",
+				"Couronné de l'univers,",
+				"Fils de l'homme, Sauveur précieux,",
+				"Dépouillé pour révéler l'amour du Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur la croix meurtri, brisé,",
+				"Couronné de nos péchés,",
+				"Par nos mains, son sang versé,",
+				"Crucifié pour révéler l'amour du Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus seul, merveilleux Sauveur,",
+				"Jésus seul, divin rédempteur.",
+				"De tous nos cœurs, nous proclamerons :",
+				"« Le salut est en Jésus seul. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De la mort, il se relève",
+				"Couronné d'éternité.",
+				"Par sa vie, il nous libère.",
+				"Ressuscité à jamais, il est vivant !",
+				"Ô mort, où est ta victoire ? Christ est vivant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus seul, merveilleux Sauveur,",
+				"Jésus seul, divin rédempteur.",
+				"De tous nos cœurs, nous proclamerons :",
+				"« Le salut est en Jésus seul. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Élevé parmi les anges,",
+				"Couronné de nos louanges,",
+				"Nous l'église entonnerons",
+				"L'hymne saint des rachetés pour l'éternité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus seul, merveilleux Sauveur,",
+				"Jésus seul, divin rédempteur.",
+				"De tous nos cœurs, nous proclamerons :",
+				"« Le salut est en Jésus seul. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sébastien Corn et Emmanuel Robin",
+			"role": "music"
+		},
+		{
+			"name": "Sébastien Corn et Emmanuel Robin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1112",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

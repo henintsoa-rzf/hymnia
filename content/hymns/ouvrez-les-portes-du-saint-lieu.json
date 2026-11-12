@@ -1,0 +1,71 @@
+{
+	"id": "ouvrez-les-portes-du-saint-lieu",
+	"title": "Ouvrez les portes du saint lieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "317"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ouvrez les portes du saint lieu !",
+				"Voici venir le Fils de Dieu.",
+				"Son front, de grâce est couronné,",
+				"Son sceptre, c'est la sainteté.",
+				"Il vient porter la guérison,",
+				"Comme un soleil dans ses rayons:",
+				"Voici, divin Sauveur,",
+				"Jésus, le Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est le Fils, le bien-aimé,",
+				"Que Dieu choisit pour nous sauver.",
+				"Heureux le peuple et le pays",
+				"Par qui ce prince est accueilli !",
+				"À tous, il veut donner la paix.",
+				"Son règne vienne pour jamais !",
+				"Voici, divin Sauveur,",
+				"Jésus, le Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ouvrez les portes du saint lieu !",
+				"Voici venir le Fils de Dieu !",
+				"Pour temple saint, il veut nos cœurs:",
+				"Il doit en être seul Seigneur !",
+				"Sa grâce nous délivrera,",
+				"Et son Esprit nous conduira,",
+				"L'Esprit du Créateur,",
+				"L'Esprit du Dieu sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Weissel Georg",
+			"role": "music"
+		},
+		{
+			"name": "Pierre Pidoux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem317",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

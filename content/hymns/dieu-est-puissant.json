@@ -1,0 +1,92 @@
+{
+	"id": "dieu-est-puissant",
+	"title": "Dieu est puissant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1041"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu est puissant, il est juste et grand,",
+				"Il peut tout accomplir.",
+				"Plus grand que nos pensées,",
+				"Plus grand que nos désirs,",
+				"Il a fait de grandes choses."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élevé, il a vaincu la mort,",
+				"Oui, il vit, mon Dieu est puissant.",
+				"En son nom j'ai la victoire,",
+				"Le Seigneur mon Dieu est puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu vit en nous, il est parmi nous,",
+				"Il ouvre la voie.",
+				"Plus grand que nos attentes,",
+				"Plus grand que nos espoirs,",
+				"Il a fait de grandes choses."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élevé, il a vaincu la mort,",
+				"Oui, il vit, mon Dieu est puissant.",
+				"En son nom j'ai la victoire,",
+				"Le Seigneur mon Dieu est puissant."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dieu est ici, sa grâce nous conduit,",
+				"Il ne s'éloigne jamais, il ne s'éloigne jamais.",
+				"Dieu est pour nous, ses bras sont ouverts.",
+				"Il nous tient dans sa main,",
+				"Il nous tient dans sa main."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élevé, il a vaincu la mort,",
+				"Oui, il vit, mon Dieu est puissant.",
+				"En son nom j'ai la victoire,",
+				"Le Seigneur mon Dieu est puissant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ben Fielding et Reuben Morgan",
+			"role": "music"
+		},
+		{
+			"name": "Ben Fielding et Reuben Morgan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1041",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

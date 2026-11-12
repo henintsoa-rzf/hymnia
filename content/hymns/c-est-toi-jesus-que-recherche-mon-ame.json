@@ -1,0 +1,84 @@
+{
+	"id": "c-est-toi-jesus-que-recherche-mon-ame",
+	"title": "C'est toi, Jésus, que recherche mon âme",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "257"
+		},
+		{
+			"hymnal": "adf",
+			"number": "196",
+			"title": "C'est toi, Jésus."
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est toi, Jésus !",
+				"que recherche mon âme ;",
+				"À te trouver se bornent mes souhaits ;",
+				"C'est ton regard que sur moi je réclame ;",
+				"Rends-moi, Seigneur,",
+				"rends-moi ta douce paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Longtemps j'errai",
+				"dans les sentiers du monde,",
+				"Ne connaissant ni ton nom, ni ta loi :",
+				"Tu me cherchas en cette nuit profonde,",
+				"Et, pour toujours, m'en tiras par la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De ton amour la voix se fit entendre :",
+				"J'appris alors que tu m'as racheté,",
+				"Et ton Esprit à mon cœur fit comprendre",
+				"Ce qu'est pour nous, ô Dieu ! ta charité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Prends donc pitié de ma grande misère ;",
+				"Soumets mon cœur, brise sa dureté ;",
+				"À Golgotha mon âme te fut chère :",
+				"Je compte, ô Dieu, sur ta fidélité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg257",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af196",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

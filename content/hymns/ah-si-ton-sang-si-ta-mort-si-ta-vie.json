@@ -1,0 +1,79 @@
+{
+	"id": "ah-si-ton-sang-si-ta-mort-si-ta-vie",
+	"title": "Ah ! si ton sang, si ta mort, si ta vie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "319"
+		},
+		{
+			"hymnal": "adf",
+			"number": "72"
+		},
+		{
+			"hymnal": "cd",
+			"number": "94"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ah ! si ton sang, si ta mort, si ta vie,",
+				"Ne me disaient ta clémence infinie,",
+				"Où trouverais-je, au sein de ma misère,",
+				"Force et lumière ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Où trouverais-je une telle tendresse ?",
+				"À quel ami confier ma tristesse ?",
+				"C'est en toi seul que j'ai mon espérance,",
+				"Dans ma souffrance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je te bénis de ta grâce éternelle,",
+				"Toi qui m'élus, toi, mon Sauveur fidèle,",
+				"Qui veux conduire à la paix glorieuse",
+				"Mon âme heureuse !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Friedrich Ferdinand Flemming",
+			"role": "music"
+		},
+		{
+			"name": "Charles Gregor",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg319",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af072",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/897",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

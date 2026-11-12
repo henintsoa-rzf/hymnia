@@ -1,0 +1,69 @@
+{
+	"id": "si-le-bruit-trouble-la-rue",
+	"title": "Si le bruit trouble la rue.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "645"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si le bruit trouble la rue,",
+				"Que la paix règne au logis ;",
+				"Il doit offrir à la vue",
+				"Frères, sœurs, toujours amis,",
+				"Frères, sœurs, toujours amis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De leur paisible demeure,",
+				"Les petits oiseaux des nids",
+				"Semblent nous dire à toute heure :",
+				"Frère, sœurs, soyez unis,",
+				"Frère, sœurs, soyez unis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jamais d'amère parole,",
+				"De nom blessant ou moqueur !",
+				"Le son fugitif s'envole,",
+				"Mais l'aiguillon reste au cœur,",
+				"Mais l'aiguillon reste au cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Seigneur ! Dans nos familles",
+				"Répands la paix chaque jour ;",
+				"Père, mère, fils et filles,",
+				"Que nos cœurs soient tout amour,",
+				"Que nos cœurs soient tout amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Écoles du dimanche",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af645",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

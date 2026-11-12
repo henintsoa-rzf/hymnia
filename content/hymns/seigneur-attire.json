@@ -1,0 +1,122 @@
+{
+	"id": "seigneur-attire",
+	"title": "Seigneur, attire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "265"
+		},
+		{
+			"hymnal": "adf",
+			"number": "204"
+		},
+		{
+			"hymnal": "jem",
+			"number": "1036"
+		},
+		{
+			"hymnal": "cd",
+			"number": "303"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, attire",
+				"Mon cœur à toi,",
+				"Je te désire",
+				"Tout près de moi :",
+				"Ma délivrance,",
+				"Dans le danger,",
+				"C'est ta présence,",
+				"Divin Berger ;",
+				"C'est ta présence,",
+				"Divin Berger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par ta puissance,",
+				"Brise, soumets",
+				"Ma résistance,",
+				"À tout jamais ;",
+				"Courbe mon être,",
+				"Ma volonté,",
+				"Sois-en le Maître",
+				"Indiscuté ;",
+				"Sois-en le Maître",
+				"Indiscuté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand je contemple,",
+				"Près de ta Croix,",
+				"Ton grand exemple,",
+				"Jésus, mon Roi,",
+				"Mon cœur aspire",
+				"À s'immoler,",
+				"Tant je désire",
+				"Te ressembler !",
+				"Tant je désire",
+				"Te ressembler !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Prompt, je m'élance",
+				"Pour t'obéir,",
+				"Prompt, je m'avance",
+				"Pour te servir.",
+				"Que sous ton aile,",
+				"Loin du péché,",
+				"Sauveur fidèle,",
+				"Je sois caché ;",
+				"Sauveur fidèle,",
+				"Je sois caché."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Leila Naylor Morriss",
+			"role": "music"
+		},
+		{
+			"name": "M. Hunter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg265",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af204",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem1036",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1105",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

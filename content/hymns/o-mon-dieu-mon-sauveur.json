@@ -1,0 +1,94 @@
+{
+	"id": "o-mon-dieu-mon-sauveur",
+	"title": "O mon Dieu, mon Sauveur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "2"
+		},
+		{
+			"hymnal": "adf",
+			"number": "15"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O mon Dieu, mon Sauveur !",
+				"Ta céleste faveur",
+				"Fut toujours mon partage ;",
+				"Plus le mal est pressant,",
+				"Plus ton secours puissant",
+				"Relève mon courage.",
+				"Toujours quand j'ai prié,",
+				"Toujours quand j'ai crié,",
+				"Dieu, touché de ma plainte,",
+				"Loin de me repousser,",
+				"A daigné m'exaucer",
+				"De sa montagne sainte."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je me couche sans peur,",
+				"Je m'endors sans frayeur,",
+				"Sans crainte je m'éveille ;",
+				"Dieu, qui soutient ma foi,",
+				"Est toujours près de moi",
+				"Et jamais ne sommeille.",
+				"Non, je ne craindrais pas,",
+				"Quand j'aurais sur les bras",
+				"Une nombreuse armée ;",
+				"Dieu me délivrerait,",
+				"Quand même on la verrait",
+				"Autour de moi campée."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens donc, mon Dieu, mon Roi.",
+				"Te déclarer pour moi,",
+				"Dans le mal qui me presse :",
+				"Romps leur injuste effort,",
+				"Quand d'un commun accord",
+				"Ils m'insultent sans cesse.",
+				"O Seigneur Éternel !",
+				"Ton amour paternel",
+				"Est seul notre défense ;",
+				"Tu nous donnes des cieux",
+				"Les trésors précieux",
+				"De ta munificence."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg002",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af015",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

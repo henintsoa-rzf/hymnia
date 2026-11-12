@@ -1,0 +1,57 @@
+{
+	"id": "ta-main-bienfaisante",
+	"title": "Ta main bienfaisante",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1148"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta main bienfaisante est sur moi chaque jour.",
+				"Tu es mon abri, mon soutien, mon secours",
+				"Et je ne craindrai rien, ni aujourd’hui ni demain",
+				"Car ta main bienfaisante est sur moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta main bienfaisante est sur moi chaque jour.",
+				"Tu es mon abri, mon soutien, mon secours",
+				"Et je ne craindrai rien, ni aujourd’hui ni demain",
+				"Car ta main bienfaisante est sur moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Et je ne craindrai rien, ni aujourd’hui ni demain",
+				"Car ta main bienfaisante est sur moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1148",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

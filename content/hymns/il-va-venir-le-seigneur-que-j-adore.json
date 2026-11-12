@@ -1,0 +1,120 @@
+{
+	"id": "il-va-venir-le-seigneur-que-j-adore",
+	"title": "Il va venir, le Seigneur que j'adore",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "80"
+		},
+		{
+			"hymnal": "cd",
+			"number": "364"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il va venir, le Seigneur que j'adore ;",
+				"Bientôt sa voix retentira du ciel.",
+				"À mes regards, l'horizon se colore",
+				"Des purs rayons du soleil éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à toi seul, Seigneur Jésus,",
+				"Gloire à jamais, gloire à ton nom !",
+				"De ton beau ciel je ne sortirai plus,",
+				"Et pour toujours j'exalterai ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qu'autour de moi s'élève la tempête,",
+				"Je suis en paix car tu veilles sur moi ;",
+				"Je puis, ô mon Sauveur, lever la tête,",
+				"Tu vas venir me prendre auprès de toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à toi seul, Seigneur Jésus,",
+				"Gloire à jamais, gloire à ton nom !",
+				"De ton beau ciel je ne sortirai plus,",
+				"Et pour toujours j'exalterai ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Maison du Père, où ton amour m'appelle,",
+				"Sainte cité, demeure des élus,",
+				"Les lieux qu'éclaire une gloire éternelle,",
+				"Me sont ouverts par toi même, ô Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à toi seul, Seigneur Jésus,",
+				"Gloire à jamais, gloire à ton nom !",
+				"De ton beau ciel je ne sortirai plus,",
+				"Et pour toujours j'exalterai ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bonheur ineffable ! Quand dans ta gloire,",
+				"Aux yeux des rachetés tu paraîtras,",
+				"Jésus, avec le cri de la victoire,",
+				"Près de toi, pour toujours tu me prendras."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à toi seul, Seigneur Jésus,",
+				"Gloire à jamais, gloire à ton nom !",
+				"De ton beau ciel je ne sortirai plus,",
+				"Et pour toujours j'exalterai ton nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Hutchinson Gabriel",
+			"role": "music"
+		},
+		{
+			"name": "Bonne Nouvelle",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem080",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1188",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

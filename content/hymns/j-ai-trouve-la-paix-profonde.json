@@ -1,0 +1,121 @@
+{
+	"id": "j-ai-trouve-la-paix-profonde",
+	"title": "J'ai trouvé la paix profonde",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "227"
+		},
+		{
+			"hymnal": "adf",
+			"number": "212"
+		},
+		{
+			"hymnal": "cd",
+			"number": "176"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai trouvé la paix profonde,",
+				"J'ai trouvé le vrai bonheur,",
+				"Et la grâce, comme une onde,",
+				"A purifié mon cœur.",
+				"À la source des eaux pures,",
+				"J'ai puisé le plein pardon,",
+				"Et de toutes mes blessures",
+				"J'ai reçu la guérison."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'aimerais te voir, mon frère,",
+				"Venir à ces vives eaux,",
+				"Jouir déjà sur la terre",
+				"D'un ciel si parfait, si beau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour trouver la paix profonde,",
+				"Il te faut un cœur brisé,",
+				"Pour la grâce comme une onde,",
+				"Il faut l'esprit affligé.",
+				"Pour puiser aux sources pures,",
+				"Pour avoir entier pardon,",
+				"Prends la seule route sûre :",
+				"Au Calvaire est ta rançon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'aimerais te voir, mon frère,",
+				"Venir à ces vives eaux,",
+				"Jouir déjà sur la terre",
+				"D'un ciel si parfait, si beau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sais-tu que la vie est belle",
+				"Sous le regard du Seigneur,",
+				"Et la jeunesse éternelle,",
+				"Avec Christ pour ton bonheur ?",
+				"Avec Jésus, plus de crainte,",
+				"Mourir, oh ! c'est triompher !",
+				"Souffrir pour Jésus sans plainte,",
+				"C'est bien vers le ciel marcher."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'aimerais te voir, mon frère,",
+				"Venir à ces vives eaux,",
+				"Jouir déjà sur la terre",
+				"D'un ciel si parfait, si beau."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Colonelle Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg227",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af212",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1008",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

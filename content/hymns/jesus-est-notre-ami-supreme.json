@@ -1,0 +1,82 @@
+{
+	"id": "jesus-est-notre-ami-supreme",
+	"title": "Jésus est notre ami suprême",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "165"
+		},
+		{
+			"hymnal": "adf",
+			"number": "69"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus est notre Ami suprême :",
+				"Oh ! quel amour !",
+				"Mieux qu'un tendre frère, il nous aime ;",
+				"Oh ! quel amour !",
+				"Ici, parents, amis, tout passe ;",
+				"Le bonheur paraît et s'efface ;",
+				"Son cœur seul jamais ne se lasse ;",
+				"Oh ! quel amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est notre vie éternelle ;",
+				"Oh ! quel amour !",
+				"Célébrons son œuvre immortelle ;",
+				"Oh ! quel amour !",
+				"Par son sang notre âme est lavée ;",
+				"Au désert il l'avait trouvée ;",
+				"Dans ses bras il l'a ramenée ;",
+				"Oh ! quel amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur Jésus ! fais-nous comprendre,",
+				"Tout ton amour !",
+				"Dans nos cœurs, oh ! daigne répandre",
+				"Tout ton amour !",
+				"Que cet amour soit notre vie !",
+				"Qu'à jamais notre âme ravie",
+				"Savoure une joie infinie",
+				"En ton amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Richard-William Beaty",
+			"role": "music"
+		},
+		{
+			"name": "Mlle de Charrière",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg165",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af069",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

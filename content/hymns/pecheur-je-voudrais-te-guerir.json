@@ -1,0 +1,85 @@
+{
+	"id": "pecheur-je-voudrais-te-guerir",
+	"title": "Pécheur, je voudrais te guérir.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "246"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pécheur, je voudrais te guérir ;",
+				"J'ai vu tes larmes, ta souffrance,",
+				"Mais pour avoir la délivrance,",
+				"Il faut apprendre à m'obéir.",
+				"Voici, je me tiens à la porte,",
+				"Je suis ton Maître et ton Sauveur ;",
+				"C'est le bonheur que je t'apporte :",
+				"Ne veux-tu pas m'ouvrir ton cœur ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sais-tu que je suis né pour toi,",
+				"Que pour toi j'ai donné ma vie ?",
+				"Ton cœur est-il l'hôtellerie",
+				"Sans place, même pour ton Roi ?",
+				"Souvent, année après année,",
+				"Chez toi, j'ai frappé, mais en vain.",
+				"Voici le soir de la journée,",
+				"Ne veux-tu pas m'ouvrir enfin ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"N'auras-tu pas besoin de moi.",
+				"Bientôt, dans la nuit éternelle ?",
+				"Dès aujourd'hui, viens sous mon aile,",
+				"Je serai tout, oui, tout pour toi.",
+				"Le temps rapidement t'emporte ;",
+				"Pourquoi renvoyer à demain ?",
+				"Trop tard, un jour, devant ma porte,",
+				"Tu frapperas peut-être, en vain…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Si tu n'as pas besoin de Moi,",
+				"Écoute, obéis sans comprendre,",
+				"Jusques à quand devrai-je attendre ?",
+				"Ton Seigneur a besoin de toi.",
+				"Voici, je me tiens à ta porte.",
+				"Je suis ton Maître et ton Sauveur ;",
+				"C'est le bonheur que je t'apporte ;",
+				"Ne veux-tu pas m'ouvrir ton cœur ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Aline-J.-F. Knapp",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af246",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

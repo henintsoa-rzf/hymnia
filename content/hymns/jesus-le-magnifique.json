@@ -1,0 +1,71 @@
+{
+	"id": "jesus-le-magnifique",
+	"title": "Jésus, le magnifique",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "918"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu as reçu l'onction royale",
+				"De la part de ton Père.",
+				"Ta majesté n'a pas d'égal",
+				"Dans le ciel, sur la terre.",
+				"Tant de noblesse et de grandeur,",
+				"De gloire et de splendeur.",
+				"Tant de richesse et de beauté,",
+				"Je t'aime pour qui tu es,",
+				"Je t'aime pour qui tu es."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus valeureux qu'aucun humain.",
+				"Tu as souffert jusqu'au bout,",
+				"Donnant ta vie, tendant les mains",
+				"Sans rien attendre de nous.",
+				"Tant de courage et tant d'amour",
+				"Sans espoir de retour.",
+				"Tant de patience et de bonté,",
+				"Je t'aime pour qui tu es,",
+				"Je t'aime pour qui tu es."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, le magnifique,",
+				"Tu es vraiment unique,",
+				"J'ai tant d'admiration pour toi.",
+				"Tu es incomparable, sublime et adorable.",
+				"En somme, tu es tout pour moi,",
+				"Oui, tu es tout pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem918",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

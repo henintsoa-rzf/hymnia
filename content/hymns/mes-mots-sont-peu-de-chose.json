@@ -1,0 +1,78 @@
+{
+	"id": "mes-mots-sont-peu-de-chose",
+	"title": "Mes mots sont peu de chose",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "792"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mes mots sont peu de chose",
+				"pour te dire ma passion,",
+				"Pourtant mon cœur explose",
+				"pour chanter mon admiration.",
+				"Comme un vrai diamant,",
+				"tu resplendis de mille feux ;",
+				"Tu es si grand et si puissant, Roi des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon espérance, ma joie ;",
+				"Comme une fleur dans le désert,",
+				"Tu es la vie.",
+				"Rien n'est plus beau que ton nom",
+				"Quand j'entends tes louanges ;",
+				"Tu es bon, Éternel, toi, mon Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Louer, c'est bien peu pour te dire en retour,",
+				"Avec tout ce que je peux,",
+				"merci pour ton grand amour.",
+				"Toi, le seul vrai Dieu,",
+				"par ta lumière tu m'éclaires ;",
+				"Tu es un ami si précieux, toi, mon Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es mon espérance, ma joie ;",
+				"Comme une fleur dans le désert,",
+				"Tu es la vie.",
+				"Rien n'est plus beau que ton nom",
+				"Quand j'entends tes louanges ;",
+				"Tu es bon, Éternel, toi, mon Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem792",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

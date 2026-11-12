@@ -1,0 +1,117 @@
+{
+	"id": "chantez-au-seigneur-jem-358",
+	"title": "Chantez au Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "358"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, alléluia, alléluia,",
+				"Alléluia, alléluia, alléluia.",
+				"Alléluia, alléluia, alléluia, alléluia,",
+				"Alléluia, alléluia, alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantez, chantez au Seigneur",
+				"De tout votre cœur",
+				"Vous tous habitants de la terre.",
+				"Chantez, chantez au Seigneur",
+				"De tout votre cœur",
+				"Vous tous habitants de la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, alléluia, alléluia,",
+				"Alléluia, alléluia, alléluia.",
+				"Alléluia, alléluia, alléluia, alléluia,",
+				"Alléluia, alléluia, alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Frappez, frappez dans vos mains",
+				"Éclatez de joie",
+				"Au rythme des chants de vos frères.",
+				"Frappez, frappez dans vos mains",
+				"Éclatez de joie",
+				"Au rythme des chants de vos frères."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, alléluia, alléluia,",
+				"Alléluia, alléluia, alléluia.",
+				"Alléluia, alléluia, alléluia, alléluia,",
+				"Alléluia, alléluia, alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Donnez, donnez vos talents",
+				"Pour votre Seigneur",
+				"À lui tous vos chants, vos prières.",
+				"Donnez, donnez vos talents",
+				"Pour votre Seigneur",
+				"À lui tous vos chants, vos prières."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, alléluia, alléluia, alléluia,",
+				"Alléluia, alléluia, alléluia.",
+				"Alléluia, alléluia, alléluia, alléluia,",
+				"Alléluia, alléluia, alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Marchez, marchez dans ses pas,",
+				"Suivez le Seigneur,",
+				"Vous tous les enfants de lumière.",
+				"Marchez, marchez dans ses pas,",
+				"Suivez le Seigneur,",
+				"Vous tous les enfants de lumière."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claude Fraysse",
+			"role": "music"
+		},
+		{
+			"name": "Olivier Arnera",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem358",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

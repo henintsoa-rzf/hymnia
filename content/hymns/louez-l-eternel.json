@@ -1,0 +1,120 @@
+{
+	"id": "louez-l-eternel",
+	"title": "Louez l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "683"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez l'Éternel, les jeunes et vieux.",
+				"Louez l'Éternel, les jeunes et vieux.",
+				"Louez l'Éternel du haut des cieux.",
+				"Louez l'Éternel du haut des cieux.",
+				"Louez l'Éternel, vous, serviteurs.",
+				"Louez l'Éternel, vous, serviteurs.",
+				"Louez l'Éternel de tous vos cœurs.",
+				"Louez l'Éternel de tous vos cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louez-le dans les lieux élevés !",
+				"Louez-le, vous, tous ses anges !",
+				"Louez-le, vous, toutes ses armées !",
+				"Louez-le, soleil et lune !",
+				"Que tout ce qui respire loue l'Éternel,",
+				"Que tout ce qui respire loue l'Éternel,",
+				"Louez l'Éternel !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez l'Éternel, les jeunes et vieux.",
+				"Louez l'Éternel, les jeunes et vieux.",
+				"Louez l'Éternel du haut des cieux.",
+				"Louez l'Éternel du haut des cieux.",
+				"Louez l'Éternel, vous, serviteurs.",
+				"Louez l'Éternel, vous, serviteurs.",
+				"Louez l'Éternel de tous vos cœurs.",
+				"Louez l'Éternel de tous vos cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Louez-le au son de la trompette !",
+				"Louez-le avec des danses !",
+				"Louez-le dans l'étendue céleste !",
+				"Louez-le ! chantez sa louange !",
+				"Que tout ce qui respire loue l'Éternel,",
+				"Que tout ce qui respire loue l'Éternel,",
+				"Louez l'Éternel !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez l'Éternel, les jeunes et vieux.",
+				"Louez l'Éternel, les jeunes et vieux.",
+				"Louez l'Éternel du haut des cieux.",
+				"Louez l'Éternel du haut des cieux.",
+				"Louez l'Éternel, vous, serviteurs.",
+				"Louez l'Éternel, vous, serviteurs.",
+				"Louez l'Éternel de tous vos cœurs.",
+				"Louez l'Éternel de tous vos cœurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Louez-le, vous, toutes les étoiles !",
+				"Louez-le du bas de la terre !",
+				"Louez-le ! éclatez de joie !",
+				"Louez-le dans tout l'univers.",
+				"Que tout ce qui respire loue l'Éternel,",
+				"Que tout ce qui respire loue l'Éternel,"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que tout ce qui respire loue l'Éternel,",
+				"Que tout ce qui respire loue l'Éternel,",
+				"Louez l'Éternel !",
+				"Louez l'Éternel !",
+				"Louez-le !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem683",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

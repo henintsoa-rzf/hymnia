@@ -1,0 +1,91 @@
+{
+	"id": "plus-grand-que-tout-autre-nom-greater-than-all-other-names",
+	"title": "Plus grand que tout autre nom (Greater Than All Other Names)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "609"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est un nom plus grand que tout autre nom.",
+				"Il est puissant pour guérir, puissant pour sauver.",
+				"Comme aucun nom il chasse la honte et le péché.",
+				"Je chante de joie sauvé par ce nom.",
+				"Le nom de Jésus, Jésus,",
+				"Puissant pour sauver.",
+				"Le nom de Jésus, Jésus,",
+				"Puissant pour guérir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est un amour plus fort que tout autre amour,",
+				"Désintéressé et bon, l’amour de Dieu.",
+				"Plus fort même que la mort,",
+				"C’est si bon à savoir !",
+				"Je chante de joie rempli de l’amour,",
+				"L’amour de Jésus, Jésus,",
+				"L’amour le plus grand.",
+				"L’amour de Jésus, Jésus,",
+				"L’amour le plus pur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est un lieu plus beau même que le paradis.",
+				"Ses rues sont pavées d’or, ne soyez pas surpris.",
+				"Là où vit mon Sauveur, glorieuse demeure !",
+				"Je chante ma joie, invité par sa grâce !",
+				"Je verrai Jésus, Jésus,",
+				"Jésus face à face.",
+				"Je verrai Jésus, Jésus,",
+				"Debout devant Lui."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Plus de tristesse, de maladie,",
+				"Plus de larmes, ni de douleurs,",
+				"Plus de mort, plus de cri, plus de honte,",
+				"Plus de ténèbres, non plus de peur.",
+				"Vivre avec Jésus, Jésus,",
+				"Éternellement,",
+				"Vivre avec Jésus, Jésus,",
+				"Pour l’éternité.",
+				"Il est un nom plus grand que tout autre nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tore W. Aas",
+			"role": "lyrics"
+		},
+		{
+			"name": "Tore W. Aas",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-9",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

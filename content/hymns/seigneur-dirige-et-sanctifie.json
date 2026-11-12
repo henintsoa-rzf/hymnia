@@ -1,0 +1,79 @@
+{
+	"id": "seigneur-dirige-et-sanctifie",
+	"title": "Seigneur, dirige et sanctifie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "217"
+		},
+		{
+			"hymnal": "adf",
+			"number": "597"
+		},
+		{
+			"hymnal": "cd",
+			"number": "241"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, dirige et sanctifie",
+				"Toute la vie",
+				"De ces enfants.",
+				"Que ta lumière,",
+				"Sur leur carrière,",
+				"Brille en tout temps !",
+				"Que, sous ta garde et sous tes ailes,",
+				"Ils soient fidèles,",
+				"Forts et constants !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Soumets leur âme à l'Évangile,",
+				"Au joug facile,",
+				"Plein de douceur ;",
+				"Fais-leur entendre",
+				"L'appel si tendre",
+				"De leur Sauveur ;",
+				"Que pour répondre à sa promesse,",
+				"Ils aient sans cesse",
+				"Le même cœur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frideric Haendel",
+			"role": "music"
+		},
+		{
+			"name": "Jules Aeschimann",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg217",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af597",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1067",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "celui-qui-a-change-ma-vie",
+	"title": "Celui qui a changé ma vie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "388"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Celui qui a changé ma vie,",
+				"Oui, c'est Jésus, Jésus.",
+				"Celui qui a changé ma vie,",
+				"Oui, c'est Jésus, Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je l'ai rencontré,",
+				"Lui le ressuscité.",
+				"Il a changé ma vie,",
+				"Il est vivant aujourd'hui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Celui qui a changé ma vie,",
+				"Oui, c'est Jésus, Jésus.",
+				"Celui qui a changé ma vie,",
+				"Oui, c'est Jésus, Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsqu'il reviendra,",
+				"Tout genou fléchira.",
+				"Chacun reconnaîtra",
+				"Qu'il est vivant, le Roi des rois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Celui qui a changé ma vie,",
+				"Oui, c'est Jésus, Jésus.",
+				"Celui qui a changé ma vie,",
+				"Oui, c'est Jésus, Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si tu entends sa voix,",
+				"N'endurcis pas ton cœur.",
+				"Laisse le te saisir,",
+				"Te pardonner, te guérir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Celui qui a changé ma vie,",
+				"Oui, c'est Jésus, Jésus.",
+				"Celui qui a changé ma vie,",
+				"Oui, c'est Jésus, Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem388",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

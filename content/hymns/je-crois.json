@@ -1,0 +1,81 @@
+{
+	"id": "je-crois",
+	"title": "Je crois",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "763"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je crois en toi, Seigneur Jésus.",
+				"Tu nous as donné ton Esprit.",
+				"Quand deux ou trois prient en ton nom,",
+				"Tu as promis d'être présent ;",
+				"Je crois, oui, je crois !",
+				"Je crois que tu es Fils de Dieu,",
+				"La seule offrande pour nos péchés.",
+				"Je crois que tu es tout-puissant,",
+				"Tu nous as sauvés par ton sang ;",
+				"Je crois, oui, je crois !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Roi de paix venu du ciel,",
+				"Tu as quitté ton trône éternel,",
+				"Revêtu notre humanité",
+				"Afin de nous libérer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je crois que tu reviens bientôt,",
+				"Comme Roi de gloire sur l'univers.",
+				"Les peuples se rassembleront",
+				"Pour t'offrir leur adoration ;",
+				"Je crois, oui, je crois !",
+				"Je crois en la résurrection,",
+				"La vie éternelle avec toi ;",
+				"Tu nous as préparé une place",
+				"Et nous te verrons face à face ;",
+				"Je crois, oui, je crois !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Roi de paix venu du ciel,",
+				"Tu as quitté ton trône éternel,",
+				"Revêtu notre humanité",
+				"Afin de nous libérer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem763",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

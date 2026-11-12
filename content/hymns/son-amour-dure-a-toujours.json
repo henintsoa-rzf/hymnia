@@ -1,0 +1,116 @@
+{
+	"id": "son-amour-dure-a-toujours",
+	"title": "Son amour dure à toujours",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "711"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louez Dieu, car il est bon,",
+				"Son amour dure à toujours.",
+				"Louez le Dieu du pardon,",
+				"Son amour dure à toujours.",
+				"Louez le Dieu juste et saint,",
+				"Son amour dure à toujours.",
+				"Louez le Dieu souverain,",
+				"Son amour dure à toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son amour calme la frayeur,",
+				"Son amour guérit la douleur.",
+				"Oui, son amour chasse nos erreurs.",
+				"Dieu nous offre la grâce de son amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Louez le Père éternel,",
+				"son amour dure à toujours.",
+				"Créateur de l'univers,",
+				"son amour dure à toujours.",
+				"Louez ce sublime artiste,",
+				"son amour dure à toujours.",
+				"Il est le Dieu des prodiges,",
+				"son amour dure à toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son amour réveille en douceur,",
+				"Son amour touche avec ardeur.",
+				"Oui, son amour embrase nos cœurs.",
+				"Dieu nous tient",
+				"sous les ailes de son amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Louez le Dieu tout-puissant,",
+				"Son amour dure à toujours.",
+				"Il prend soin de ses enfants,",
+				"Son amour dure à toujours.",
+				"Louez le Dieu de victoire,",
+				"Son amour dure à toujours.",
+				"À lui seul rendons la gloire,",
+				"Son amour dure à toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son amour calme la frayeur,",
+				"Son amour guérit la douleur.",
+				"Oui, son amour chasse nos erreurs.",
+				"Dieu nous offre la grâce de son amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son amour réveille en douceur,",
+				"Son amour touche avec ardeur.",
+				"Oui, son amour embrase nos cœurs.",
+				"Dieu nous tient",
+				"sous les ailes de son amour.",
+				"Dieu nous offre la grâce de son amour.",
+				"Son Esprit nous remplit de son amour.",
+				"Louez-le !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel Pialat",
+			"role": "music"
+		},
+		{
+			"name": "Daniel Pialat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem711",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

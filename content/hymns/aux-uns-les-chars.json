@@ -1,0 +1,81 @@
+{
+	"id": "aux-uns-les-chars",
+	"title": "Aux uns les chars",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "729"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, dans sa gloire, est puissant ;",
+				"Sa voix retentit sur les eaux ;",
+				"Sa voix puissante fait bondir",
+				"Les montagnes comme des veaux.",
+				"Dans la tempête du combat,",
+				"Déployez toutes vos bannières",
+				"Pour célébrer sa victoire,",
+				"Car c'est lui qui nous libère."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aux uns les chars de guerre,",
+				"Aux autres les chevaux ;",
+				"Nous, notre confiance,",
+				"Nous la mettons en toi.",
+				"Eux, ils fléchissent, ils tombent ;",
+				"Nous, nous restons debout ;",
+				"Nous tenons fermement,",
+				"Car tu es devant nous,",
+				"Éternel notre Dieu, Éternel notre Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous célébrerons ta vaillance.",
+				"Nous chanterons tous tes exploits.",
+				"En toi, Seigneur, nous nous confions ;",
+				"Que ta puissance se déploie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La voix de l'Éternel fait jaillir des éclairs ;",
+				"La voix de l'Éternel fait trembler le désert.",
+				"Louange et gloire à toi,",
+				"O Seigneur des seigneurs.",
+				"Tu nous délivreras,",
+				"Tu es le grand vainqueur.",
+				"Éternel, notre Roi, Éternel, notre Roi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning ; J.-B. Arthur",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning ; J.-B. Arthur",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem729",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

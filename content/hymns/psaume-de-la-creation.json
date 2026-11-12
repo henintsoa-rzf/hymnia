@@ -1,0 +1,136 @@
+{
+	"id": "psaume-de-la-creation",
+	"title": "Psaume de la création",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1081"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Par les cieux devant toi, splendeur et majesté,",
+				"Par l'infiniment grand, l'infiniment petit,",
+				"Et par le firmament, ton manteau étoilé",
+				"Et par frère soleil,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux crier : « Mon Dieu, tu es grand,",
+				"tu es beau,",
+				"Dieu vivant, Dieu très haut, tu es le Dieu d'amour.",
+				"Mon Dieu, tu es grand, tu es beau, Dieu vivant,",
+				"Dieu très haut, Dieu présent en toute création. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par tous les océans et par toutes les mers,",
+				"Par tous les continents et par l'eau des rivières,",
+				"Par le feu qui te dit comme un buisson ardent",
+				"Et par l'aile du vent,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux crier : « Mon Dieu, tu es grand,",
+				"tu es beau,",
+				"Dieu vivant, Dieu très haut, tu es le Dieu d'amour.",
+				"Mon Dieu, tu es grand, tu es beau, Dieu vivant,",
+				"Dieu très haut, Dieu présent en toute création. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par toutes les montagnes et toutes les vallées,",
+				"Par l'ombre des forêts",
+				"Et par les fleurs des champs,",
+				"Par les bourgeons des arbres",
+				"Et l'herbe des prairies,",
+				"Par le blé en épis,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux crier : « Mon Dieu, tu es grand,",
+				"tu es beau,",
+				"Dieu vivant, Dieu très haut, tu es le Dieu d'amour.",
+				"Mon Dieu, tu es grand, tu es beau, Dieu vivant,",
+				"Dieu très haut, Dieu présent en toute création. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Par tous les animaux de la terre et de l'eau,",
+				"Par le chant des oiseaux, par le chant de la vie,",
+				"Par l'homme que tu fis juste moins grand que toi",
+				"Et par tous ses enfants,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux crier : « Mon Dieu, tu es grand,",
+				"tu es beau,",
+				"Dieu vivant, Dieu très haut, tu es le Dieu d'amour.",
+				"Mon Dieu, tu es grand, tu es beau, Dieu vivant,",
+				"Dieu très haut, Dieu présent en toute création. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Par cette main tendue qui invite à la danse,",
+				"Par ce baiser jailli d'un élan d'espérance,",
+				"Par ce regard d'amour qui relève et réchauffe,",
+				"Par le pain et le vin,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux crier : « Mon Dieu, tu es grand,",
+				"tu es beau,",
+				"Dieu vivant, Dieu très haut, tu es le Dieu d'amour.",
+				"Mon Dieu, tu es grand, tu es beau, Dieu vivant,",
+				"Dieu très haut, Dieu présent en toute création. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Patrick Richard",
+			"role": "music"
+		},
+		{
+			"name": "Patrick Richard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1081",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

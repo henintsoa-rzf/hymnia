@@ -1,0 +1,129 @@
+{
+	"id": "jesus-fils-unique-du-pere",
+	"title": "Jésus, fils unique du Père.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "160"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, Fils Unique du Père !",
+				"Que ton nom saint et glorieux",
+				"À tous les enfants de lumière",
+				"Est chaque jour plus précieux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Emmanuel ! dans ton Église,",
+				"La gloire à toujours t'appartient ;",
+				"À ton Esprit ton Épouse est soumise",
+				"Et ton amour la garde et la soutient."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À toi, Seigneur ! nul n'est semblable,",
+				"Car toi seul es la Vérité ;",
+				"Et chez toi seul tout est aimable,",
+				"Tout est grandeur, force et beauté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Emmanuel ! dans ton Église,",
+				"La gloire à toujours t'appartient ;",
+				"À ton Esprit ton Épouse est soumise",
+				"Et ton amour la garde et la soutient."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En toi réside la puissance ;",
+				"Ton trône est ferme et souverain.",
+				"Tout doit te rendre obéissance ;",
+				"Tout jugement est dans ta main."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Emmanuel ! dans ton Église,",
+				"La gloire à toujours t'appartient ;",
+				"À ton Esprit ton Épouse est soumise",
+				"Et ton amour la garde et la soutient."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Devant toi, les saints et les anges",
+				"Célèbrent ton règne éternel ;",
+				"Et le récit de tes louanges",
+				"Remplit les demeures du ciel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Emmanuel ! dans ton Église,",
+				"La gloire à toujours t'appartient ;",
+				"À ton Esprit ton Épouse est soumise",
+				"Et ton amour la garde et la soutient."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Oh ! que mon cœur, plein d'allégresse,",
+				"Sous ton regard vive pour toi !",
+				"Qu'en ta paix il t'offre sans cesse",
+				"Le saint hommage de sa foi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Emmanuel ! dans ton Église,",
+				"La gloire à toujours t'appartient ;",
+				"À ton Esprit ton Épouse est soumise",
+				"Et ton amour la garde et la soutient."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af160",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

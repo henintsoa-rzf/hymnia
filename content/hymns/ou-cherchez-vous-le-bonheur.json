@@ -1,0 +1,112 @@
+{
+	"id": "ou-cherchez-vous-le-bonheur",
+	"title": "Où cherchez-vous le bonheur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "227"
+		},
+		{
+			"hymnal": "cd",
+			"number": "202"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Où cherchez-vous le bonheur,",
+				"Dans ce monde où tout passe ?",
+				"Avez-vous dans votre cœur,",
+				"Pour Jésus une place ?",
+				"À votre porte il se tient.",
+				"Sans se lasser Il revient…",
+				"Pour Jésus votre Sauveur,",
+				"N'avez-vous point de place ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"N'avez-vous point de place ?",
+				"N'avez-vous point de place ?",
+				"Pour Jésus, votre Sauveur,",
+				"N'avez-vous point de place ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"S'Il a souffert, c'est pour vous,",
+				"Oh ! merveilleuse grâce !",
+				"Lorsqu'il luttait à genoux,",
+				"Dieu Lui voilant Sa Face !",
+				"Ah ! de Sa sublime croix.",
+				"N'entendez-vous pas la voix",
+				"Qui vous dit : Pauvre pécheur,",
+				"N'as-tu donc point de place ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"N'avez-vous point de place ?",
+				"N'avez-vous point de place ?",
+				"Ah ! Pour l'homme de douleur",
+				"N'avez-vous point de place ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si le monde a votre cœur,",
+				"Croyez-vous donc qu'il fasse",
+				"Jusqu'au bout votre bonheur ?",
+				"Vous savez que tout passe.",
+				"Oh ! pendant qu'il en est temps,",
+				"Écoutez les doux accents",
+				"De la voix du grand Vainqueur,",
+				"Et faites-lui donc place !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"N'avez-vous point de place ?",
+				"N'avez-vous point de place ?",
+				"Pour Jésus, le grand Vainqueur,",
+				"N'avez-vous point de place ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robert Harkness",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af227",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1037",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

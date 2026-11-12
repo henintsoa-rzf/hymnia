@@ -1,0 +1,80 @@
+{
+	"id": "que-tout-genou-flechisse",
+	"title": "Que tout genou fléchisse",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "292"
+		},
+		{
+			"hymnal": "adf",
+			"number": "294"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que tout genou fléchisse",
+				"Devant ta majesté,",
+				"Et qu'aujourd'hui je puisse",
+				"Lâcher ma volonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, devant toi je plie,",
+				"Je me courbe, ô mon Roi,",
+				"Je pleure et m'humilie,",
+				"Et c'est un don de toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que tout ce qui s'élève",
+				"En moi soit abaissé !",
+				"Que mon cœur, de ton glaive,",
+				"S'il le faut, soit percé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mourir, mais c'est renaître",
+				"Et vivre désormais.",
+				"Oh ! courbe tout mon être",
+				"À tes pieds pour jamais !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J.-B. Nevin",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg292",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af294",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

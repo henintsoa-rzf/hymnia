@@ -1,0 +1,94 @@
+{
+	"id": "beni-soit-le-pas",
+	"title": "Béni soit le pas",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1087"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit le pas",
+				"De ceux qui parlent",
+				"De celui qui les a sauvés.",
+				"Béni soit le pas",
+				"De ceux qui parlent",
+				"De celui qui les a sauvés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est le Roi des rois, (Il est le Roi des rois,)",
+				"Le Seigneur des seigneurs.",
+				"(le Seigneur des seigneurs.)",
+				"Il n'est pas d'autre nom",
+				"Sur terre et dans les cieux",
+				"Que le nom de Jésus,",
+				"Fils de Dieu,",
+				"Jésus, Fils de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Béni soit le pas",
+				"De ceux qui parlent",
+				"De celui qui les a sauvés.",
+				"Béni soit le pas",
+				"De ceux qui parlent",
+				"De celui qui les a sauvés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est le Roi des rois, (Il est le Roi des rois,)",
+				"Le Seigneur des seigneurs.",
+				"(le Seigneur des seigneurs.)",
+				"Il n'est pas d'autre nom",
+				"Sur terre et dans les cieux",
+				"Que le nom de Jésus,",
+				"Fils de Dieu,",
+				"Jésus, Fils de Dieu.",
+				"Jésus, Fils de Dieu."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Béni soit le pas",
+				"De ceux qui partent",
+				"Pour celui qui les a sauvés.",
+				"Béni soit le pas",
+				"De ceux qui partent",
+				"Pour celui qui les a sauvés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1087",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

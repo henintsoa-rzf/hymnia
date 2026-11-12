@@ -1,0 +1,71 @@
+{
+	"id": "sur-les-pas-du-saiint-modele",
+	"title": "Sur les pas du saiint modèle",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "285"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur les pas du saint modèle,",
+				"Nous marchons, comptant sur lui,",
+				"Et son coeur toujours fidèle",
+				"Nous accorde son appui.",
+				"Il connaît notre faiblesse;",
+				"Lui toujours demeure fort,",
+				"Et nous livre avec largesse",
+				"Le meilleur de son trésor."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il nous donne sa vaillance",
+				"Pour monter vers les sommets;",
+				"Si l’un tombe en défaillance,",
+				"De ce faible il vient plus près.",
+				"Sur le bord du précipice",
+				"Il nous tient plus fortement.",
+				"C’est ainsi que nul n’y glisse",
+				"Qui sur lui compte vraiment."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avec nous venez sans crainte",
+				"Sur les pas de ce Sauveur,",
+				"Suivons tous la route sainte,",
+				"Car déjà c’est le bonheur.",
+				"Et plus haut, plus loin des plaines,",
+				"Avec lui moutons toujours,",
+				"Car ses mains sont toujours pleines",
+				"Pour qui veut son grand secours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "E. BONNARD",
+			"role": "unspecified"
+		},
+		{
+			"name": "William James Kirkpatrick",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1091",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

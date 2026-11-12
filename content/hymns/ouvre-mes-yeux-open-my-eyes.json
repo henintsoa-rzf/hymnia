@@ -1,0 +1,79 @@
+{
+	"id": "ouvre-mes-yeux-open-my-eyes",
+	"title": "Ouvre mes yeux (Open My Eyes)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "502"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les étoiles me révèlent ta majesté.",
+				"Dans les cieux je vois tes merveilles proclamées.",
+				"J’entends ta gloire sur toute la terre, je cherche,",
+				"je veux savoir qui tu es vraiment !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans le ciel et la mer j’entends ta louange.",
+				"Toute la création le crie : ton nom est grand.",
+				"J’entends ta louange sur toute la terre, je cherche,",
+				"je veux savoir qui tu es vraiment !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, ouvre mes yeux, oh Dieu.",
+				"Ouvre mes yeux, qu’ils voient :",
+				"Tu es merveilleux, ton nom est si puissant.",
+				"Par ta grâce, je vis,",
+				"par ta grâce, je vois,",
+				"car ma vie et mon salut sont en toi seul."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"A nos cœurs pécheurs, tu donnes la vie nouvelle.",
+				"Par la croix, nous retrouvons ta lumière.",
+				"Je le sais : c’est ton amour qu’il me faut, je cherche,",
+				"je veux savoir qui tu es vraiment !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Reuben Morgan",
+			"role": "lyrics"
+		},
+		{
+			"name": "Reuben Morgan",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-ouvre-mes-yeux/#chant-2",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

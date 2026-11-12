@@ -1,0 +1,109 @@
+{
+	"id": "o-vous-qui-n-avez-pas-la-paix",
+	"title": "O vous qui n'avez pas la paix.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "232"
+		},
+		{
+			"hymnal": "adf",
+			"number": "232A"
+		},
+		{
+			"hymnal": "cd",
+			"number": "182"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O vous qui n'avez pas la paix,",
+				"Venez, Jésus la donne,",
+				"Pure, profonde et pour jamais :",
+				"Venez, Jésus pardonne."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand Jésus remplit un cœur,",
+				"Il déborde de bonheur,",
+				"Et l'effroi ne l'atteint plus :",
+				"Gloire, gloire à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vous qui tombez à chaque pas,",
+				"Venez, Jésus délivre ;",
+				"Celui qui se jette en ses bras",
+				"Peut à toujours le suivre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand Jésus remplit un cœur,",
+				"Il déborde de bonheur,",
+				"Car il ne chancelle plus.",
+				"Gloire, gloire à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vous qui tremblez sous la terreur",
+				"Que la mort vous inspire,",
+				"Venez, votre Libérateur",
+				"A détruit son empire !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec Lui nous revivrons",
+				"Avec Lui nous régnerons,",
+				"Et la mort ne sera plus :",
+				"Gloire, gloire à Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Howard Doane",
+			"role": "music"
+		},
+		{
+			"name": "Mlle N. Coulin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af232",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af232a",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1013",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,111 @@
+{
+	"id": "a-ta-suite",
+	"title": "À ta suite",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "22"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À ta suite, Jésus mon Roi !",
+				"Je me charge de ma croix,",
+				"Sûr que tu gardes mes pas,",
+				"À ta suite, Jésus mon Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu Rédempteur, dont l’amour ne se lasse,",
+				"Vers nous tes compassions tu déploies.",
+				"Ma vie je t’offre en réponse à ta grâce",
+				"Et je plie le genou devant toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma vie, mon corps, à grand prix rachetés,",
+				"Je consacre entiers à ton honneur.",
+				"Délivre-moi de la main du péché ;",
+				"Dieu très saint, règne seul dans mon cœur.",
+				"Dieu très saint, règne seul dans mon cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que je renonce à l’attrait des richesses",
+				"Qui détournent de l’éternité.",
+				"L’amour de Jésus m’étreint et me presse ;",
+				"Je veux servir le Ressuscité.",
+				"(Oui) je veux servir le Ressuscité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		},
+		{
+			"name": "Sebastian Demrey",
+			"role": "lyrics"
+		},
+		{
+			"name": "Sebastian Demrey",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/atasuite",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

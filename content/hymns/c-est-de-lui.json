@@ -1,0 +1,53 @@
+{
+	"id": "c-est-de-lui",
+	"title": "C'est de lui",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "212"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est de Lui, et par Lui,",
+				"Et pour Lui que sont toutes choses.",
+				"À Jésus la gloire à jamais !",
+				"C'est de Lui, et par Lui,",
+				"Et pour Lui que sont toutes choses.",
+				"À Jésus la gloire, amen !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est de Lui, et par Lui,",
+				"Et pour Lui que sont toutes choses.",
+				"À Jésus la gloire à jamais !",
+				"C'est de Lui, et par Lui,",
+				"Et pour Lui que sont toutes choses.",
+				"À Jésus la gloire, amen !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ena Thompson",
+			"role": "music"
+		},
+		{
+			"name": "Ena Thompson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem212",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

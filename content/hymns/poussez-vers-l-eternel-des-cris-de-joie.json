@@ -1,0 +1,55 @@
+{
+	"id": "poussez-vers-l-eternel-des-cris-de-joie",
+	"title": "Poussez vers l'Éternel des cris de joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "14"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Poussez vers l'Éternel des cris de joie,",
+				"Vous tous, habitants de la terre !",
+				"Servez l'Éternel avec joie, avec joie,",
+				"Venez avec allégresse en sa présence !",
+				"Sachez que l'Éternel est Dieu !",
+				"C'est lui qui nous a fait ;",
+				"Nous lui appartenons ;",
+				"Nous sommes son peuple et son troupeau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Entrez dans ses portes avec des louanges,",
+				"Dans ses parvis avec des cantiques !",
+				"Célébrez-le, bénissez son nom !",
+				"Car l'Éternel est bon:",
+				"Oui sa bonté dure à toujours,",
+				"Et sa fidélité d'âge en âge."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gayle Whipple",
+			"role": "music"
+		},
+		{
+			"name": "Gayle Whipple",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem014",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -12,9 +12,26 @@ Exact file formats are in [contracts/import-files.md](./contracts/import-files.m
 
 | Field | Type | Rules |
 |-------|------|-------|
-| `alternateSources` | Source[] | Optional, default `[]`. Other sources that provide the same hymn after a merge (FR-017). Not shown in the app for now. |
+| `alternateSources` | Source[] | Optional; absent means none (written only when non-empty, so untouched files do not change). Other sources that provide the same hymn after a merge (FR-017). Not shown in the app for now, so not copied into the published catalog. |
 
 The 001 content schema and the Zod schema must allow this field. Existing files stay valid.
+The content schemas also become strict (`z.strictObject`), so an unknown or misspelt field
+fails the build instead of being dropped silently.
+
+## Hymn redirects (`content/redirects.json`, new, versioned, published)
+
+A map from a hymn id removed by a merge to the id it was merged into (FR-026):
+`{ "a-toi-la-gloire-jem-245": "a-toi-la-gloire" }`.
+
+| Rule | |
+|------|---|
+| Source | Must not be the id of an existing hymn file. Never removed once written (FR-028). |
+| Target | Must be an existing hymn id, not another redirect. When a target is itself merged later, every redirect pointing to it is rewritten to the new target, so there are never chains. |
+| Absent file | Same as `{}`. |
+
+The build checks these rules and publishes the map in the catalog (`redirects`). The app uses
+it to resolve the `hymnId` stored in collection entries
+(`specs/003-repertoire-collections/data-model.md`, "Resolving an entry").
 
 ## Import records
 
@@ -53,7 +70,11 @@ The 001 content schema and the Zod schema must allow this field. Existing files 
 | `credits` | Credit[] | May be empty (reported as "no credits"). |
 | `strippedMarkup` | record | Counts of removed chord/annotation kinds (reported). |
 
-**Fingerprint**: SHA-256 of `normalize(title) + sections (type, number, normalised lines)`.
+**Fingerprint**: SHA-256 of the title and sections (type, number, lines), each text with
+whitespace collapsed and in NFC. It deliberately does **not** use the search normalisation
+(`normalizeText`), which drops punctuation, case and accents: a source correcting "Eternel" to
+"Éternel" must become a pending change (FR-004, FR-011). *(Changed during implementation,
+2026-11-11.)*
 The importer computes it; it is not stored on the RawHymn.
 
 ### Link (`import/state/links.json`, versioned)
@@ -98,10 +119,20 @@ git keeps the history.
 | `decision` | enum | `merge` (into `a`), `distinct`. |
 | `date` | date | — |
 
+### Titles printed by each hymnal
+
+When an entry joins an existing hymn (matching, an alternate source, or `merge`), the entry
+keeps the title its page gives in `HymnalEntry.title` (feature 001's content schema), unless it
+is the hymn's title once normalised. When the reference text changes source, the entries that
+printed the old title keep it. Accepting a pending change gives its own entry the new title.
+
 ### SourcePriority (`import/decisions/source-priority.json`, versioned)
 
-A map from hymnal id to an ordered list of source ids. A missing hymnal falls back to the order
-of `sources.json`.
+A map from hymnal id to an ordered list of source ids. A hymnal that is not listed prefers no
+source: when another source adds an entry of that hymnal to a hymn, the hymn keeps its current
+reference text and the new source is recorded in `alternateSources`. (Falling back to the order
+of `sources.json` gave Célébrons Dieu's site the text of about 200 hymns jemaf.fr already
+provided for JEM, AdF and ATG.)
 
 ### ImportRun and Report (`import/reports/<runId>.json` + `.md`, versioned)
 

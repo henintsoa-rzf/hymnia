@@ -1,0 +1,109 @@
+{
+	"id": "oh-quand-sera-ce-fils-de-dieu",
+	"title": "Oh ! quand sera-ce, Fils de Dieu.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "131"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! quand sera-ce, Fils de Dieu,",
+				"Que ton Église émue",
+				"Verra son Époux, du saint lieu",
+				"Descendre sur la nue ?",
+				"Réponds à notre cri Seigneur",
+				"Et viens bientôt puissant Vainqueur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! viens, Seigneur Jésus !",
+				"Oh ! viens, Seigneur Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu nous donnes ta douce paix,",
+				"Nous sentons ta Présence ;",
+				"Tu ne nous laisseras jamais,",
+				"C'est là notre assurance ;",
+				"Mais quand pourrons-nous donc enfin",
+				"Te voir, ô notre Époux divin ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! viens, Seigneur Jésus !",
+				"Oh ! viens, Seigneur Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De tous tes ennemis, ô Dieu,",
+				"Nous voyons la puissance :",
+				"Que de rebelles en tout lieu,",
+				"De vice et de souffrance !",
+				"Viens bientôt, grand Triomphateur,",
+				"Mettre un terme à tant de douleur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! viens, Seigneur Jésus !",
+				"Oh ! viens, Seigneur Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"« Veillez, priez, nous dit Jésus,",
+				"Tenez vos lampes prêtes ! »",
+				"Que rien ne nous entrave plus,",
+				"Levons, levons nos têtes !",
+				"Il vient, Il vient ! entendez-vous",
+				"Ce cri : « Voici, voici l'Époux ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu viens, Seigneur Jésus !",
+				"Tu viens, Seigneur Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air populaire allemand",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af131",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

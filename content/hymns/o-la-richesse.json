@@ -1,0 +1,127 @@
+{
+	"id": "o-la-richesse",
+	"title": "Ô la richesse",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "12"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nés dans le péché, enclins au mal,",
+				"Nous étions condamnés.",
+				"Mais Dieu a pris sur lui",
+				"Le poids de nos fautes ;",
+				"Nous sommes revêtus",
+				"De sa justice."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Refusant d'aimer et d’obéir,",
+				"Nous étions ennemis.",
+				"Mais Dieu a fait la paix",
+				"Par le sang du Christ ;",
+				"Nous sommes pardonnés,",
+				"Réconciliés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô la richesse de l'amour de Dieu !",
+				"Il nous a fait passer de la mort à la vie.",
+				"Oui, que son nom soit loué en tous lieux,",
+				"Car tout est de lui, par lui, et pour lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Trompés par l'éclat d'idoles vaines,",
+				"Nous étions aveuglés.",
+				"Mais Dieu a fait briller",
+				"La lueur de vie ;",
+				"Nous sommes libérés",
+				"Pour l’adorer."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"A lui la gloire pour toujours !",
+				"A lui la gloire pour toujours !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Errant loin de Dieu et de ses voies,",
+				"Nous étions orphelins.",
+				"Mais Dieu nous a choisis,",
+				"Nous a adoptés ;",
+				"Nous sommes héritiers",
+				"De ses promesses."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/larichesse",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

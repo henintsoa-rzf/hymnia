@@ -1,0 +1,129 @@
+{
+	"id": "comme-une-terre-alteree",
+	"title": "Comme une terre altérée",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "259"
+		},
+		{
+			"hymnal": "adf",
+			"number": "145"
+		},
+		{
+			"hymnal": "cd",
+			"number": "219"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme une terre altérée",
+				"Soupire après l'eau du ciel,",
+				"Nous appelons la rosée",
+				"De ta grâce, Emmanuel !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fraîches rosées,",
+				"Descendez sur nous tous !",
+				"O divines ondées,",
+				"Venez, arrosez-nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ne laisse en nous rien d'aride",
+				"Qui ne soit fertilisé ;",
+				"Que le cœur le plus avide",
+				"Soit pleinement arrosé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fraîches rosées,",
+				"Descendez sur nous tous !",
+				"O divines ondées,",
+				"Venez, arrosez-nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, que les déserts fleurissent",
+				"Sous tes bienfaisantes eaux ;",
+				"Que les lieux secs reverdissent",
+				"Et portent des fruits nouveaux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fraîches rosées,",
+				"Descendez sur nous tous !",
+				"O divines ondées,",
+				"Venez, arrosez-nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens, ô salutaire pluie,",
+				"Esprit de grâce et de paix,",
+				"Répands en nous une vie",
+				"Qui ne tarisse jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fraîches rosées,",
+				"Descendez sur nous tous !",
+				"O divines ondées,",
+				"Venez, arrosez-nous !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James McGranahan",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg259",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af145",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1050",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

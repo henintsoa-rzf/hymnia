@@ -1,0 +1,81 @@
+{
+	"id": "chantons-noel",
+	"title": "Chantons noël !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "91"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La nuit soudain s’éclaire,",
+				"Les anges ont chanté :",
+				"Bonheur et paix sur terre",
+				"Et bonne volonté !",
+				"Joyeux, chantons, chantons Noël :",
+				"Le Fils de Dieu descend du ciel !",
+				"Joyeux, chantons, chantons Noël :",
+				"Le Fils de Dieu descend du ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Auprès du Roi des anges",
+				"Venez, doux pastoureaux !",
+				"Qu’éclatent vos louanges",
+				"Et sonnent vos pipeaux !",
+				"Joyeux, chantons, chantons Noël :",
+				"Le Fils de Dieu descend du ciel !",
+				"Joyeux, chantons, chantons Noël :",
+				"Le Fils de Dieu descend du ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L’enfant divin sommeil le",
+				"Couché sous l’humble toit.",
+				"Sur lui sa mère veille :",
+				"Sait-elle qu’il est roi ?",
+				"Joyeux, chantons, chantons Noël :",
+				"Le Fils de Dieu descend du ciel !",
+				"Joyeux, chantons, chantons Noël :",
+				"Le Fils de Dieu descend du ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et toi, n’as-tu point place",
+				"Pour lui, ce roi si beau ?",
+				"Demande-lui qu’il fasse",
+				"De ton coeur son berceau.",
+				"S’il naît en nous le Roi du ciel,",
+				"Pour nous c’est tous les jours Noël !",
+				"S’il naît pour nous le Roi du ciel,",
+				"Pour nous c’est tous les jours Noël !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/895",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

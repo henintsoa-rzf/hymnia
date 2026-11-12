@@ -1,0 +1,42 @@
+{
+	"id": "je-veux-te-louer",
+	"title": "Je veux te louer",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "227"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux te louer,",
+				"Toi qui m'as aimé.",
+				"Comment m'exprimer",
+				"Pour te remercier ?",
+				"Tu as rempli ma vie",
+				"De joie et d'harmonie:",
+				"Oh ! Merci !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem227",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,101 @@
+{
+	"id": "christ-est-roi",
+	"title": "Christ est Roi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "850"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans son amour, Dieu, le Père",
+				"envoya son fils Jésus",
+				"Pour accorder la lumière",
+				"à tous ceux qui sont perdus.",
+				"Il descendit sur la terre",
+				"mais les hommes l'ont rejeté.",
+				"Ils l'ont cloué au Calvaire,",
+				"mais Christ est ressuscité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est Roi, Christ est Roi,",
+				"Christ est Roi des rois.",
+				"Christ est Roi, Christ est Roi,",
+				"Christ est Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les croyants de tous les âges",
+				"portent son nom sur leur cœur ;",
+				"Dans l'épreuve, ils gardent courage",
+				"car leur Dieu est un sauveur.",
+				"Ils vont par toute la terre",
+				"annoncer le fils béni.",
+				"Fiers de porter leur bannière",
+				"sur laquelle il est écrit :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est Roi, Christ est Roi,",
+				"Christ est Roi des rois.",
+				"Christ est Roi, Christ est Roi,",
+				"Christ est Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Un jour, les chrétiens du monde",
+				"seront rassemblés par lui.",
+				"Ils sortiront de leurs tombes",
+				"car, en lui, ils ont la vie.",
+				"Ils formeront un royaume,",
+				"la terre sera leur pays.",
+				"Leur hymne sera un psaume",
+				"à la gloire du Messie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Christ est Roi, Christ est Roi,",
+				"Christ est Roi des rois.",
+				"Christ est Roi, Christ est Roi,",
+				"Christ est Roi des rois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Richard Picotin",
+			"role": "music"
+		},
+		{
+			"name": "Richard Picotin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem850",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,5 +1,12 @@
 <!--
 Sync Impact Report
+- Version change: 1.0.0 → 1.1.0 (2026-11-11)
+- Principe modifié : III. Fidélité des textes et respect des droits — exception d'usage
+  personnel (build local, jamais distribué) pour les chants aux droits non confirmés
+- Templates : aucun modifié
+- TODO différés : aucun
+
+Rapport précédent
 - Version change: (template vierge) → 1.0.0
 - Principes définis (création initiale) :
   - I. Recherche avancée au cœur du produit
@@ -61,6 +68,10 @@ sites sources, souvent chargés.
 - L'import de contenu depuis un site tiers DOIT respecter ses conditions d'utilisation
   et le droit d'auteur ; un contenu dont la licence d'usage est incertaine est marqué
   comme tel et n'est pas publié sans validation.
+- Exception d'usage personnel : une copie de l'application utilisée par son seul
+  mainteneur PEUT inclure les chants aux droits non confirmés (réglage local
+  `HYMNIA_PERSONAL_USE`, jamais versionné). Leur statut de droits reste inchangé, et
+  une telle copie NE DOIT PAS être distribuée ni hébergée publiquement.
 - Les fichiers audio et les accords suivent les mêmes règles de provenance et de crédits.
 
 **Pourquoi** : il s'agit d'œuvres protégées et de textes liturgiques ; une erreur ou
@@ -139,4 +150,4 @@ faible et le public varié.
 - Conformité : chaque plan (`/speckit-plan`) et chaque revue de code vérifient le respect
   des principes ; toute complexité non justifiée est refusée.
 
-**Version**: 1.0.0 | **Ratified**: 2026-11-11 | **Last Amended**: 2026-11-11
+**Version**: 1.1.0 | **Ratified**: 2026-11-11 | **Last Amended**: 2026-11-11

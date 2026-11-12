@@ -1,0 +1,65 @@
+{
+	"id": "douce-clarte",
+	"title": "Douce clarté.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "393"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Douce clarté, dans la nuit qui m'enserre,",
+				"Dirige-moi !",
+				"La route est noire, et longue et solitaire :",
+				"Dirige-moi !",
+				"Brille à mes pieds ; je ne demande pas",
+				"À voir de loin : guide-moi pas à pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ah ! je n'ai pas toujours désiré d'être",
+				"Conduit par Toi.",
+				"Mais aujourd'hui j'ai retrouvé mon Maître :",
+				"Dirige-moi !",
+				"Je reconnais mes fautes du passé,",
+				"O Dieu, pardonne au pèlerin lassé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"N'étais-je pas, même en mes jours de doute,",
+				"Conduis par Toi ?",
+				"Ravins, torrents, en vain barrent ma route :",
+				"Dirige-moi !",
+				"Jusqu'à l'aurore où me seront rendus",
+				"Mes bien-aimés, un instant disparus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Henry Purday",
+			"role": "music"
+		},
+		{
+			"name": "Ruben ; d'après Newman Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af393",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

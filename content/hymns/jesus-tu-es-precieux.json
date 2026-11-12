@@ -1,0 +1,69 @@
+{
+	"id": "jesus-tu-es-precieux",
+	"title": "Jésus, tu es précieux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "437"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, tu es précieux,",
+				"ô Jésus, tu es précieux,",
+				"O Jésus tu es",
+				"le précieux Fils de Dieu, ô Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, tu es si bon,",
+				"ô Jésus, tu es si bon,",
+				"O Jésus tu es si bon pour moi,",
+				"pour moi, ô Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, tu es glorieux,",
+				"ô Jésus, tu es glorieux,",
+				"O Jésus tu es",
+				"mon glorieux rédempteur, ô Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus, tu es puissant,",
+				"ô Jésus, tu es puissant,",
+				"O Jésus tu es",
+				"le puissant Roi de gloire, ô Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem437",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

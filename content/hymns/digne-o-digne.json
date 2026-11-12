@@ -1,0 +1,75 @@
+{
+	"id": "digne-o-digne",
+	"title": "Digne, O digne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "346"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "117",
+			"title": "Digne"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Digne, oh ! digne es-tu Seigneur,",
+				"Digne d'être remercié,",
+				"Loué et adoré.",
+				"Digne, oh ! digne es-tu Seigneur,",
+				"Digne d'être remercié,",
+				"Loué et adoré."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons alléluia ! Agneau sur le trône",
+				"Nous t'adorons, nous t'exaltons,",
+				"Nous célébrons ta gloire.",
+				"Alléluia ! Louange au grand Roi.",
+				"Tu es plus que vainqueur,",
+				"Seigneur de l'univers."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Seigneur, tu es plus précieux que l'argent,",
+				"Seigneur, tu es plus précieux que l'or.",
+				"Seigneur, tu es plus beau que le diamant,",
+				"Et rien ne peut se comparer à toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mark S. Kinzer",
+			"role": "music"
+		},
+		{
+			"name": "Mark S. Kinzer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem346",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-17",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

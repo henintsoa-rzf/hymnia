@@ -1,0 +1,79 @@
+{
+	"id": "benissez-l-eternel-jem-846",
+	"title": "Bénissez l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "846"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bénissez l'Éternel,",
+				"Bénissez le grand Dieu d'Israël.",
+				"Bénissez l'Éternel,",
+				"Bénissez le grand Dieu d'Israël."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les voies de l'Éternel sont justes,",
+				"Sa parole est éprouvée.",
+				"Il est un bouclier, une forteresse,",
+				"Un ami, un conseiller",
+				"Pour aller jusqu'au bout."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bénissez l'Éternel,",
+				"Bénissez le grand Dieu d'Israël.",
+				"Bénissez l'Éternel,",
+				"Bénissez le grand Dieu d'Israël."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les voies de l'Éternel sont justes,",
+				"Sa parole est éprouvée.",
+				"Elle soutient mon âme.",
+				"Elle me fortifie, m'apprend à persévérer",
+				"Pour aller jusqu'au bout."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Bénissez l'Éternel,",
+				"Bénissez le grand Dieu d'Israël."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem846",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

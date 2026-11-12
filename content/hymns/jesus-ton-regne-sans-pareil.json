@@ -1,0 +1,80 @@
+{
+	"id": "jesus-ton-regne-sans-pareil",
+	"title": "Jésus, ton règne sans pareil",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "143"
+		},
+		{
+			"hymnal": "adf",
+			"number": "561"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, ton règne sans pareil",
+				"S'étendra sur la terre :",
+				"Dans tous les lieux où le soleil",
+				"Fait briller sa lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tous les peuples vont accourir",
+				"À ton appel suprême,",
+				"Et tous les rois voudront t'offrir",
+				"Leur propre diadème !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu feras de tous tes élus",
+				"L'humanité nouvelle",
+				"Qui doit être, ô Seigneur Jésus,",
+				"Ton épouse immortelle !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dès maintenant, gloire à la croix !",
+				"Gloire au Sauveur du monde !",
+				"À ton amour, ô Roi des rois,",
+				"Que notre amour réponde !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Hatton",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg143",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af561",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

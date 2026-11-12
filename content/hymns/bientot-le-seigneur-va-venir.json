@@ -1,0 +1,120 @@
+{
+	"id": "bientot-le-seigneur-va-venir",
+	"title": "Bientôt le Seigneur va venir.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "213"
+		},
+		{
+			"hymnal": "cd",
+			"number": "153"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bientôt le Seigneur va venir !",
+				"Es-tu prêt ?",
+				"Bientôt le ciel, Il veut t'ouvrir !",
+				"Es-tu prêt ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Es-tu prêt ? Es-tu prêt ?",
+				"Es-tu prêt pour l'éternité ?",
+				"Es-tu prêt ? Es-tu prêt ?",
+				"Le Sauveur t'a-t-il racheté ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bientôt l'appel retentira !",
+				"Es-tu prêt ?",
+				"Bientôt la mort te surprendra !",
+				"Es-tu prêt ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Es-tu prêt ? Es-tu prêt ?",
+				"Es-tu prêt pour l'éternité ?",
+				"Es-tu prêt ? Es-tu prêt ?",
+				"Le Sauveur t'a-t-il racheté ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bientôt Jésus va te juger !",
+				"Es-tu prêt ?",
+				"Oh ! devra-t-il te condamner ?",
+				"Es-tu prêt ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Es-tu prêt ? Es-tu prêt ?",
+				"Es-tu prêt pour l'éternité ?",
+				"Es-tu prêt ? Es-tu prêt ?",
+				"Le Sauveur t'a-t-il racheté ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bientôt dans le ciel enlevés !",
+				"Es-tu prêt ?",
+				"Tous les élus seront sauvés !",
+				"Es-tu prêt ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Es-tu prêt ? Es-tu prêt ?",
+				"Es-tu prêt pour l'éternité ?",
+				"Es-tu prêt ? Es-tu prêt ?",
+				"Le Sauveur t'a-t-il racheté ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Georges Guillod",
+			"role": "music"
+		},
+		{
+			"name": "Georges Guillod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af213",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/987",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

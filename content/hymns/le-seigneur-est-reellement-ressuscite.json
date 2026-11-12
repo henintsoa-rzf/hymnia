@@ -1,0 +1,70 @@
+{
+	"id": "le-seigneur-est-reellement-ressuscite",
+	"title": "Le Seigneur est réellement ressuscité",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "138"
+		},
+		{
+			"hymnal": "jem",
+			"number": "78",
+			"title": "Salutation de Pâques"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur est réellement ressuscité,",
+				"Le Seigneur est réellement ressuscité !",
+				"Il vit à jamais, il vit à jamais,",
+				"Le Seigneur vit à jamais: alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pourquoi chercher parmi ceux qui sont morts ?",
+				"Pourquoi chercher parmi ceux qui sont morts ?",
+				"Il n'est pas ici."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur est réellement ressuscité,",
+				"Le Seigneur est réellement ressuscité !",
+				"Il vit à jamais, il vit à jamais,",
+				"Le Seigneur vit à jamais: alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cyril Squire",
+			"role": "music"
+		},
+		{
+			"name": "Cyril Squire",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg138",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem078",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

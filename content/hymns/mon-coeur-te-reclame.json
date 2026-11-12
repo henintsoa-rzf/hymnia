@@ -1,0 +1,109 @@
+{
+	"id": "mon-coeur-te-reclame",
+	"title": "Mon cœur te réclame.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "334"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon cœur te réclame,",
+				"Pays du repos !",
+				"Protégez mon âme,",
+				"Ailes du Très-haut.",
+				"Refuges du monde,",
+				"Me recevrez-vous ?",
+				"Si l'orage gronde",
+				"M'abriterez-vous ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Non, non,",
+				"Non, non,",
+				"Mille fois non.",
+				"Le pays de l'âme,",
+				"Le lieu du repos",
+				"Que mon cœur réclame,",
+				"Rayonne là-haut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Prends ton vol, mon âme,",
+				"Vers ton beau pays,",
+				"Vers la pure flamme",
+				"Du saint paradis.",
+				"Sion bien-aimée,",
+				"Ruisselante d'or,",
+				"De l'âme affamée",
+				"Serais-tu le port ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, oui,",
+				"Oui, oui,",
+				"Mille fois oui !",
+				"Céleste patrie,",
+				"J'ai soif de repos,",
+				"Mon âme ravie",
+				"Te verra bientôt."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mort anéantie,",
+				"Péché disparu,",
+				"Tristesse bannie",
+				"Du cœur de l'élu,",
+				"Instruments sonores,",
+				"chœurs mélodieux,",
+				"Redites encore",
+				"Votre chant joyeux :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Repos, repos,",
+				"Divin repos !",
+				"Je fuis de la terre",
+				"Le mortel tourment ;",
+				"Dans tes bras, mon Père,",
+				"Reçois ton enfant !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Bishop",
+			"role": "music"
+		},
+		{
+			"name": "Léon Paul",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af334",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,63 @@
+{
+	"id": "exauce-o-pere",
+	"title": "Exauce, ô Père",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "219"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Exauce, ô Père,",
+				"Notre prière :",
+				"Que ta lumière",
+				"Brille en leur cœur.",
+				"Que ta présence",
+				"Soit l'assurance",
+				"De leur bonheur.",
+				"O Dieu de gloire,",
+				"Qu'ils puissent croire",
+				"À la victoire",
+				"De leur Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fais-leur entendre",
+				"Ta voix si tendre,",
+				"Viens leur apprendre",
+				"L'amour divin.",
+				"Dans ta tendresse,",
+				"Veille sans cesse",
+				"Sur le chemin.",
+				"Oh ! magnifie",
+				"Toute leur vie",
+				"Et sanctifie",
+				"Leurs lendemains."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frideric Haendel",
+			"role": "music"
+		},
+		{
+			"name": "Jacques-A. Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg219",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

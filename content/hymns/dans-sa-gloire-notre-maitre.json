@@ -1,0 +1,109 @@
+{
+	"id": "dans-sa-gloire-notre-maitre",
+	"title": "Dans sa gloire, notre Maître",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "148"
+		},
+		{
+			"hymnal": "adf",
+			"number": "135"
+		},
+		{
+			"hymnal": "cd",
+			"number": "120"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans sa gloire, notre Maître",
+				"Bientôt va paraître.",
+				"Oui, bientôt nous allons être",
+				"Avec lui, dans les cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du sauveur qui nous donne",
+				"La paix, et nous pardonne,",
+				"Nous serons la couronne,",
+				"Les joyaux précieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tous ceux qui surent entendre",
+				"Sa voix douce et tendre,",
+				"Le Seigneur viendra les prendre",
+				"Avec lui, dans les cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du sauveur qui nous donne",
+				"La paix, et nous pardonne,",
+				"Nous serons la couronne,",
+				"Les joyaux précieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vous qui recevez sa grâce",
+				"Et suivez sa trace,",
+				"Il vous prépare une place",
+				"Près de lui, dans les cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Du sauveur qui nous donne",
+				"La paix, et nous pardonne,",
+				"Nous serons la couronne,",
+				"Les joyaux précieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frederick Root",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg148",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af135",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/938",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

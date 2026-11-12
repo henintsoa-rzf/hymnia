@@ -1,0 +1,105 @@
+{
+	"id": "ah-donne-a-mon-ame",
+	"title": "Ah ! donne à mon âme",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "299"
+		},
+		{
+			"hymnal": "adf",
+			"number": "312"
+		},
+		{
+			"hymnal": "cd",
+			"number": "299"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ah ! donne à mon âme",
+				"Plus de sainteté…",
+				"Plus d'ardente flamme,",
+				"De sérénité,",
+				"Plus de confiance",
+				"Pour rester debout,",
+				"Plus de patience",
+				"Pour supporter tout."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fais que je contemple",
+				"Sans cesse l'Agneau ;",
+				"Son vivant exemple,",
+				"Sa croix, son tombeau ;",
+				"Sa grâce fidèle,",
+				"Son immense amour,",
+				"Sa gloire éternelle,",
+				"Son prochain retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, à tes larmes",
+				"Je veux compatir ;",
+				"De toutes tes armes",
+				"Viens me revêtir :",
+				"Par plus de prière,",
+				"De zèle et de foi,",
+				"Que dans la lumière",
+				"Je marche avec toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Donne, à ton service,",
+				"Un cœur plus joyeux,",
+				"Prompt au sacrifice,",
+				"Toujours sous tes yeux,",
+				"Qui chante et qui tremble,",
+				"Humble en sa ferveur ;",
+				"Un cœur qui ressemble",
+				"Au tien, mon Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg299",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af312",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1103",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"id": "pour-toujours-avec-lui",
+	"title": "« Pour toujours avec Lui. »",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "426"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"« Pour toujours avec Lui ! »",
+				"Une douce espérance",
+				"À ces mots, dans mon cœur a lui",
+				"Et calmé ma souffrance."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je languis ici-bas,",
+				"Ma route est solitaire,",
+				"Mais chaque soir un nouveau pas",
+				"Me rapproche du Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand viendras-tu des cieux",
+				"Finir ma longue attente ?",
+				"Quand pour ton palais radieux",
+				"Quitterai-je ma tente ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je languis ici-bas,",
+				"Ma route est solitaire,",
+				"Mais chaque soir un nouveau pas",
+				"Me rapproche du Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O douce éternité !",
+				"O fleuve des eaux vives !",
+				"Bientôt je serai transporté",
+				"Sur tes célestes rives."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je languis ici-bas,",
+				"Ma route est solitaire,",
+				"Mais chaque soir un nouveau pas",
+				"Me rapproche du Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Doux Sauveur, près de Toi",
+				"Que je vive et je meure ;",
+				"Fais de mon âme, ô puissant Roi,",
+				"Ton trône et ta demeure,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Puis, laissant ici-bas",
+				"Ma route solitaire,",
+				"Je m'envolerai dans tes bras",
+				"Vers la maison du Père !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Isaac Baker Woodbury",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af426",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,129 @@
+{
+	"id": "il-me-conduit",
+	"title": "Il me conduit",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "152"
+		},
+		{
+			"hymnal": "adf",
+			"number": "396"
+		},
+		{
+			"hymnal": "cd",
+			"number": "292"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il me conduit, douce pensée !",
+				"Repos pour mon âme lassée !",
+				"En tous lieux son regard me suit :",
+				"Et par la main il me conduit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me conduit, il me conduit !",
+				"Désormais pour lui je veux vivre ;",
+				"Brebis fidèle, je veux suivre",
+				"Le bon Berger qui me conduit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus sur moi veille sans cesse,",
+				"Dans la joie et dans la tristesse,",
+				"Dans le jour comme dans la nuit :",
+				"Pas à pas, sa main me conduit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me conduit, il me conduit !",
+				"Désormais pour lui je veux vivre ;",
+				"Brebis fidèle, je veux suivre",
+				"Le bon Berger qui me conduit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme un rempart, il me protège,",
+				"Il me préserve de tout piège ;",
+				"Loin de moi l'ennemi s'enfuit",
+				"Quand par la main Christ me conduit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me conduit, il me conduit !",
+				"Désormais pour lui je veux vivre ;",
+				"Brebis fidèle, je veux suivre",
+				"Le bon Berger qui me conduit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand mon heure sera sonnée,",
+				"Mon œuvre ici-bas terminée,",
+				"Je dirai, dans la sombre nuit :",
+				"Je ne crains point, il me conduit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me conduit, il me conduit !",
+				"Désormais pour lui je veux vivre ;",
+				"Brebis fidèle, je veux suivre",
+				"Le bon Berger qui me conduit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Willliam Batchelder Bradbury",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg152",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af396",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1097",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

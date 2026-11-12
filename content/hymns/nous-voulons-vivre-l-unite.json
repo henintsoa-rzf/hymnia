@@ -1,0 +1,95 @@
+{
+	"id": "nous-voulons-vivre-l-unite",
+	"title": "Nous voulons vivre l'unité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "584"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous voulons vivre l'unité,",
+				"Rester ensemble à chaque instant.",
+				"Surtout ne pas nous séparer,",
+				"Continuer d'aller de l'avant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous ensemble,",
+				"Nous partageons l'amour du Seigneur,",
+				"L'adoration du Sauveur.",
+				"Tous ensemble,",
+				"Nous accueillons l'Esprit du Seigneur,",
+				"L'unité du Créateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous voulons te rester fidèles,",
+				"Et devenir un même corps.",
+				"Travailler au lien de la paix,",
+				"Marcher toujours dans le même Esprit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous ensemble,",
+				"Nous partageons l'amour du Seigneur,",
+				"L'adoration du Sauveur.",
+				"Tous ensemble,",
+				"Nous accueillons l'Esprit du Seigneur,",
+				"L'unité du Créateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Reconnaissons nos différences,",
+				"En Dieu elles seront notre force.",
+				"Nous allons partager ensemble,",
+				"Chercher encore le royaume de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous ensemble,",
+				"Nous partageons l'amour du Seigneur,",
+				"L'adoration du Sauveur.",
+				"Tous ensemble,",
+				"Nous accueillons l'Esprit du Seigneur,",
+				"L'unité du Créateur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem584",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

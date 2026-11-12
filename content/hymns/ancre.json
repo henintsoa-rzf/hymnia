@@ -1,0 +1,140 @@
+{
+	"id": "ancre",
+	"title": "Ancre",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1135"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai cet espoir,",
+				"Telle une ancre pour mon âme.",
+				"Dans la tempête,",
+				"Je m'appuie sur toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ton amour,",
+				"Toutes mes craintes disparaissent.",
+				"En toute chose,",
+				"J'ai confiance en toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon espoir est assuré, à la croix",
+				"Tu as tout donné,",
+				"Tu nous as rachetés.",
+				"Cet espoir est une ancre pour mon âme.",
+				"Inébranlable est notre Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu éternel,",
+				"Tu étais et tu seras.",
+				"Tu es fidèle,",
+				"Toujours près de moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon espoir est assuré, à la croix",
+				"Tu as tout donné,",
+				"Tu nous as rachetés.",
+				"Cet espoir est une ancre pour mon âme.",
+				"Inébranlable est notre Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon espoir est assuré, à la croix",
+				"Tu as tout donné,",
+				"Tu nous as rachetés.",
+				"Cet espoir est une ancre pour mon âme.",
+				"Inébranlable est notre Dieu."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ton nom est plus haut,",
+				"Ton nom est plus grand.",
+				"Mon espoir est en toi.",
+				"Ta parole est certaine,",
+				"Tes promesses sont parfaites.",
+				"Mon espoir est en toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ton nom est plus haut,",
+				"Ton nom est plus grand.",
+				"Mon espoir est en toi.",
+				"Ta parole est certaine,",
+				"Tes promesses sont parfaites.",
+				"Mon espoir est en toi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ton nom est plus haut,",
+				"Ton nom est plus grand.",
+				"Mon espoir est en toi.",
+				"Ta parole est certaine,",
+				"Tes promesses sont parfaites.",
+				"Mon espoir est en toi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ton nom est plus haut,",
+				"Ton nom est plus grand.",
+				"Mon espoir est en toi.",
+				"Ta parole est certaine,",
+				"Tes promesses sont parfaites.",
+				"Mon espoir est en toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ben Fielding et Dean Ussher",
+			"role": "music"
+		},
+		{
+			"name": "Ben Fielding et Dean Ussher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1135",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -11,7 +11,14 @@ export const EntryRefSchema = z.object({
 	number: z.string().min(1)
 });
 
-export const CollectionEntrySchema = EntryRefSchema.extend({ addedAt: isoDateTime });
+export const CollectionEntrySchema = EntryRefSchema.extend({
+	addedAt: isoDateTime,
+	/**
+	 * The hymn the entry was saved for (feature 002, FR-027). Optional within version 2: older
+	 * entries have none until their reference resolves, and older app versions drop it.
+	 */
+	hymnId: z.string().min(1).optional()
+});
 
 export const CollectionSchema = z.object({
 	id: z.string().min(1),
@@ -28,6 +35,8 @@ export const RepertoireDocSchema = z.object({
 
 /** A hymn reference: hymnal id and number as printed. */
 export type EntryRef = z.infer<typeof EntryRefSchema>;
+/** A reference that may carry the hymn id it was saved for. */
+export type HymnRef = EntryRef & { hymnId?: string };
 export type CollectionEntry = z.infer<typeof CollectionEntrySchema>;
 export type Collection = z.infer<typeof CollectionSchema>;
 export type RepertoireDoc = z.infer<typeof RepertoireDocSchema>;

@@ -1,0 +1,55 @@
+{
+	"id": "tu-es-le-maitre",
+	"title": "Tu es le Maître",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "509"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le maître de tout mon être,",
+				"Je bénirai ta sainteté,",
+				"Je veux renaître, je veux connaître",
+				"Ta plénitude et ta beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux vivre libre de moi-même,",
+				"Je veux vivre tes joies et tes peines."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu es le maître et je veux être",
+				"Celui que tu veux que je sois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem509",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

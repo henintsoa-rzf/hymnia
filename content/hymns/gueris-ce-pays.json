@@ -1,0 +1,79 @@
+{
+	"id": "gueris-ce-pays",
+	"title": "Guéris ce pays",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "416"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Montre nous aujourd'hui ta puissance,",
+				"O Seigneur, c'est le cri de nos cœurs.",
+				"Viens nous guérir, nous relever.",
+				"Que ton Esprit nous réveille."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Guéris ce pays,",
+				"Guéris ce pays,",
+				"Guéris ce pays,",
+				"Répands sur lui ton Esprit saint."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton Esprit, tel un flot, se rapproche,",
+				"Prêt à recouvrir tout ce pays.",
+				"Pour instaurer ta justice,",
+				"O Seigneur, viens nous réveiller."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Guéris ce pays,",
+				"Guéris ce pays,",
+				"Guéris ce pays,",
+				"Répands sur lui ton Esprit saint."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Guéris ce pays,",
+				"Guéris ce pays,",
+				"Guéris ce pays,",
+				"Répands sur lui ton Esprit saint."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Trish Morgan",
+			"role": "music"
+		},
+		{
+			"name": "Trish Morgan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem416",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

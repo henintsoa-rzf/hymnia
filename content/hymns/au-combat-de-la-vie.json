@@ -1,0 +1,85 @@
+{
+	"id": "au-combat-de-la-vie",
+	"title": "Au combat de la vie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "103"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au combat de la vie,",
+				"Conscrits et vétérans,",
+				"Le Seigneur nous convie :",
+				"Soldats ! serrons nos rangs !",
+				"Qu'au divin Capitaine",
+				"Notre cœur soit uni :",
+				"La victoire est certaine",
+				"Sous son drapeau béni."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La croix est sa bannière,",
+				"Son beau nom est Jésus ;",
+				"Des armes de lumière",
+				"Il revêt ses élus.",
+				"Son esprit les enflamme",
+				"Au plus fort des combats ;",
+				"Son âme est dans leur âme,",
+				"Sa force est dans leurs bras."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jeunesse ardente et fière,",
+				"Jeunesse au cœur vaillant,",
+				"Donnes-toi tout entière",
+				"Au Sauveur tout-Puissant !",
+				"Soumise à sa loi pure,",
+				"Tu mettras sous tes pieds,",
+				"Tes péchés, ta souillure,",
+				"Par sa mort expiés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Par sa grâce infinie",
+				"Il guérira tes maux ;",
+				"Et, la lutte finie,",
+				"Après bien des travaux,",
+				"Sur ton front, qui rayonne",
+				"D'espoir et de clarté,",
+				"Il mettra la couronne",
+				"De l'immortalité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Sebastian Wesley",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af103",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

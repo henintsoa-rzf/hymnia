@@ -1,0 +1,77 @@
+{
+	"id": "est-il-bien-vrai-que-tu-pardonnes",
+	"title": "Est-il bien vrai que tu pardonnes.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "509"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Est-il bien vrai que Tu pardonnes,",
+				"Seigneur, un pécheur tel que moi ?",
+				"Est-il bien vrai que Tu me donnes",
+				"Tout ton ciel pour un peu de foi !",
+				"Quoi ! ce passé qui m'humilie,",
+				"Ce noir passé plein de folie,",
+				"Ton amour l'aurait effacé,",
+				"Pareil à quelque affreux nuage",
+				"Qui semblait tout gonflé d'orage",
+				"Et qu'un souffle aurait dispersé ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais, grand Dieu ! pourquoi douterais-je ?",
+				"Ton nom n'est-il pas : Charité ?",
+				"Pardonner est le privilège",
+				"De la suprême majesté",
+				"Pour satisfaire Ta justice,",
+				"Voici l'Agneau du sacrifice :",
+				"Ton Fils qui fut livré pour moi !",
+				"Amour qui passe toute chose,",
+				"Ton Sang versé gagne ma cause",
+				"Et me rend libre par la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O grâce, grâce imméritée !",
+				"Amour profond comme la mer !",
+				"Lorsque mon âme est attristée,",
+				"Par quelque souvenir amer,",
+				"Il me suffit d'une parole,",
+				"Pour que toute crainte s'envole :",
+				"Pauvre pécheur, regarde et crois,",
+				"Crois à l'amour qui seul demeure !",
+				"O Christ, que je vive et je meure",
+				"Le regard fixé sur ta croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "F. Wilson",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af509",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

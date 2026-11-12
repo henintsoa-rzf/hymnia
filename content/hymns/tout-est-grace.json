@@ -1,0 +1,94 @@
+{
+	"id": "tout-est-grace",
+	"title": "Tout est grâce",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "28"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand ta grâce m’a trouvé,",
+				"Je sombrais dans mon péché,",
+				"Vil, inexcusable et condamné.",
+				"Mais ta grâce m’a surpris,",
+				"Dans la fosse, m’a saisi.",
+				"De ma peine tu m’as affranchi,",
+				"Par ta mort tu m’as donné la vie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tout est grâce après grâce après grâce.",
+				"Tout est grâce après grâce après grâce.",
+				"Ses bontés, oh jamais ne se lassent.",
+				"À Dieu soit toute gloire !",
+				"Tout est grâce après grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sans ta grâce, emprisonné",
+				"Par ma propre volonté ;",
+				"Je ne pouvais vaincre mon péché.",
+				"Ton pardon est l’étincelle",
+				"Qui enflamme un nouveau zèle",
+				"Pour vivre à ta gloire, ô Éternel.",
+				"Par ta grâce tu me renouvelles !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dans ma faiblesse, elle est mon soutien,",
+				"Et me gardera jusqu’à la fin.",
+				"Oh ta grâce suffit",
+				"Et jamais ne tarit !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Quand la détresse est sur mon chemin,",
+				"Je proclame et saisis pour mon bien",
+				"Que ta grâce suffit",
+				"Pour la mort et la vie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/toutestgrace",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

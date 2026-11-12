@@ -1,0 +1,79 @@
+{
+	"id": "merveilleux-sauveur",
+	"title": "Merveilleux Sauveur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1020"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je reconnais, je suis pécheur",
+				"Et par ton sang je suis purifié.",
+				"Je reconnais, tu es Seigneur ;",
+				"Je m'humilie devant ton trône."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, me voici en ta présence,",
+				"Où je suis changé en la même image.",
+				"Tu as payé le prix à la croix.",
+				"Ton sang tu as versé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Maintenant je suis sauvé",
+				"Et ta grâce, et ta grâce,",
+				"Et ta grâce me remplit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, merveilleux Sauveur !",
+				"Jésus, merveilleux rédempteur !",
+				"Jésus, glorieux Seigneur !",
+				"Jésus, Roi de gloire !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire, nous chantons : « Gloire »,",
+				"Nous chantons : « Gloire à Jésus ».",
+				"Nous chantons : Gloire,",
+				"Nous chantons : « Gloire »,",
+				"Nous chantons : « Gloire à Jésus »."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fabien Gutknecht",
+			"role": "music"
+		},
+		{
+			"name": "Fabien Gutknecht",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1020",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

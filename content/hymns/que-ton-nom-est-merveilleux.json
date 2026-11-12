@@ -1,0 +1,70 @@
+{
+	"id": "que-ton-nom-est-merveilleux",
+	"title": "Que ton nom est merveilleux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "818"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, que ton nom est merveilleux",
+				"sur toute la terre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, écoute les enfants",
+				"Qui chantent ton saint nom !",
+				"Qui sommes-nous, ô Dieu,",
+				"Pour que tu aimes autant ?",
+				"Quand je vois la lune, les étoiles,",
+				"Toute l'œuvre de tes mains,",
+				"Qu'est-ce que l'homme",
+				"Pour que tu te souviennes,",
+				"Tu te souviennes de lui ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, que ton nom est merveilleux",
+				"sur toute la terre !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Dieu, que ton nom est merveilleux",
+				"sur toute la terre !",
+				"Dieu, que ton nom est merveilleux",
+				"sur toute la terre !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gabriel Alonso",
+			"role": "music"
+		},
+		{
+			"name": "Gabriel Alonso",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem818",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,10 +1,18 @@
 {
 	"id": "c-est-un-rempart-que-notre-dieu",
-	"title": "C’est un rempart que notre Dieu",
+	"title": "C'est un rempart que notre Dieu",
 	"entries": [
 		{
-			"hymnal": "ce",
-			"number": "2"
+			"hymnal": "atg",
+			"number": "349"
+		},
+		{
+			"hymnal": "adf",
+			"number": "375"
+		},
+		{
+			"hymnal": "cd",
+			"number": "8"
 		}
 	],
 	"sections": [
@@ -12,37 +20,90 @@
 			"type": "verse",
 			"number": 1,
 			"lines": [
-				"C’est un rempart que notre Dieu,",
-				"Une invincible armure,",
-				"Un défenseur victorieux,",
-				"Une aide prompte et sûre.",
-				"L’ennemi contre nous",
-				"Redouble de courroux :",
-				"Vaine colère !",
-				"Que pourrait l’adversaire ?",
-				"L’Éternel détourne ses coups."
+				"C'est un rempart que notre Dieu !",
+				"En ces jours de détresse,",
+				"Il nous délivre, il nous tient lieu",
+				"D'arme et de forteresse.",
+				"Notre ennemi mortel,",
+				"Rusé, fort et cruel,",
+				"Rugit, menace",
+				"Et redouble d'audace :",
+				"Il n'a point d'égal sous le ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seuls, nous serions bientôt perdus",
+				"Dans ce péril extrême,",
+				"Un héros nous a secourus,",
+				"Choisi par Dieu lui-même.",
+				"Il est notre Sauveur,",
+				"Le grand Dieu, le Seigneur,",
+				"C'est Dieu fait homme,",
+				"Jésus-Christ il se nomme ;",
+				"La victoire lui restera !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand tous les démons déchaînés",
+				"Prétendraient te détruire,",
+				"Ne crains point ! Ils sont condamnés",
+				"Et ne sauraient te nuire.",
+				"Eux tous, avec leur roi,",
+				"Tomberont devant toi,",
+				"Peuple fidèle !",
+				"Pour vaincre le rebelle,",
+				"Il suffit d'un mot de la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il faudra bien que, malgré tous,",
+				"Subsiste la Parole !",
+				"Car l'Éternel est avec nous,",
+				"Son Esprit nous console.",
+				"Qu'ils prennent tout, chrétiens,",
+				"Notre vie et nos biens,",
+				"Laissons-les faire !",
+				"Ils n'y gagneront guère ;",
+				"Le royaume nous appartient !"
 			]
 		}
 	],
 	"credits": [
 		{
 			"name": "Martin Luther",
-			"role": "lyrics"
-		},
-		{
-			"name": "Martin Luther",
 			"role": "music"
 		},
 		{
-			"name": "Henri Lutteroth",
-			"role": "translation"
+			"name": "Ruben Saillens",
+			"role": "lyrics"
 		}
 	],
 	"source": {
-		"name": "Échantillon de test — domaine public, texte non vérifié",
-		"url": null,
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg349",
 		"retrievedAt": "2026-11-11"
 	},
-	"rights": "public-domain",
-	"corrections": []
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af375",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/905",
+			"retrievedAt": "2026-11-11"
+		}
+	]
 }

@@ -1,0 +1,63 @@
+{
+	"id": "mon-plus-cher-desir",
+	"title": "Mon plus cher désir",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "875"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon plus cher désir, c'est t'honorer,",
+				"Oui de tout mon cœur, je t'adore.",
+				"Tout ce qui est en moi te glorifie.",
+				"Tout ce que j'adore est en toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te donne mon cœur,",
+				"Je te donne mon âme.",
+				"Et je vis pour toi seul",
+				"Chaque instant de ma vie",
+				"Jusqu'à la fin de mes jours.",
+				"O Seigneur, règne en moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te donne mon cœur,",
+				"Je te donne mon âme.",
+				"Et je vis pour toi seul",
+				"Chaque instant de ma vie",
+				"Jusqu'à la fin de mes jours.",
+				"O Seigneur, règne en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Reuben Morgan",
+			"role": "music"
+		},
+		{
+			"name": "Reuben Morgan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem875",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

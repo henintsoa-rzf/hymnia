@@ -1,0 +1,50 @@
+{
+	"id": "celebrez-jesus",
+	"title": "Célébrez Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "559"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Célébrez Jésus, célébrez.",
+				"Célébrez Jésus, célébrez.",
+				"Célébrez Jésus, célébrez.",
+				"Célébrez Jésus, célébrez."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ressuscité, il est vivant.",
+				"Il vivra à jamais.",
+				"Ressuscité, il est vivant.",
+				"Venez et célébrez,",
+				"La résurrection du Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gary Oliver",
+			"role": "music"
+		},
+		{
+			"name": "Gary Oliver",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem559",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

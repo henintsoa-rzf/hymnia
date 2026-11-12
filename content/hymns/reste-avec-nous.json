@@ -1,0 +1,89 @@
+{
+	"id": "reste-avec-nous",
+	"title": "Reste avec nous",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "202"
+		},
+		{
+			"hymnal": "adf",
+			"number": "190"
+		},
+		{
+			"hymnal": "jem",
+			"number": "95"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Reste avec nous, Seigneur, le jour décline,",
+				"La nuit s'approche et nous menace tous ;",
+				"Nous implorons ta présence divine :",
+				"Reste avec nous, Seigneur, reste avec nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans nos combats si ta main nous délaisse,",
+				"Satan vainqueur nous tiendra sous ses coups ;",
+				"Que ta puissance arme notre faiblesse ;",
+				"Reste avec nous, Seigneur, reste avec nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sous ton regard, la joie est sainte et bonne.",
+				"Près de ton cœur les pleurs même sont doux ;",
+				"Soit que ta main nous frappe ou nous couronne ;",
+				"Reste avec nous, Seigneur, reste avec nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et quand, au bout de ce pèlerinage,",
+				"Nous partirons pour le grand rendez-vous,",
+				"Pour nous guider dans ce dernier passage,",
+				"Reste avec nous, Seigneur, reste avec nous !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Henry Monk",
+			"role": "music"
+		},
+		{
+			"name": "Francis Chaponnière",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg202",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af190",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem095",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

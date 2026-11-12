@@ -1,0 +1,61 @@
+{
+	"id": "dansez-dansez",
+	"title": "Dansez, dansez",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "897"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dansez, dansez, tout le monde danse,",
+				"Tout le monde chante, la joie règne en ce lieu.",
+				"Dansez, dansez, tout le monde danse,",
+				"Tout le monde chante, la joie règne en ce lieu.",
+				"Ensemble venez danser, ensemble venez danser."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ô grâce immense qui est venue",
+				"sauver le malheureux !",
+				"J'étais perdu, elle m'a trouvé ;",
+				"J'étais aveugle, je vois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chantez, chantez, tout le monde chante,",
+				"Tout le monde crie, la joie règne en ce lieu.",
+				"Chantez, chantez, tout le monde chante,",
+				"Tout le monde crie, la joie règne en ce lieu.",
+				"La joie règne en ce lieu, la joie règne en ce lieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Newton ; Tim Hughes",
+			"role": "music"
+		},
+		{
+			"name": "John Newton ; Tim Hughes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem897",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

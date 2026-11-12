@@ -1,0 +1,52 @@
+{
+	"id": "jesus-c-est-le-plus-beau-nom",
+	"title": "Jésus, c'est le plus beau nom",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "87"
+		},
+		{
+			"hymnal": "jem",
+			"number": "222"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, c'est le plus beau nom,",
+				"Merveilleux Sauveur,",
+				"Seigneur de gloire !",
+				"Emmanuel, Dieu est avec nous,",
+				"Source de joie,",
+				"Parole de vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naida Hearn",
+			"role": "music"
+		},
+		{
+			"name": "Jeunesse en Mission",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg087",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem222",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

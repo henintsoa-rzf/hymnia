@@ -1,0 +1,120 @@
+{
+	"id": "o-nom-divin-nom-redempteur",
+	"title": "O nom divin, nom rédempteur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "79"
+		},
+		{
+			"hymnal": "adf",
+			"number": "652"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O nom divin, nom rédempteur,",
+				"Jésus, puissant Sauveur,",
+				"Jésus, puissant Sauveur !",
+				"Nous prosternant tous devant toi,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te proclamons Roi",
+				"Nous te proclamons Roi.",
+				"C'est Toi Jésus,",
+				"C'est toi que nous proclamons Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Avec les anges dans les cieux,",
+				"Les martyrs glorieux,",
+				"Les martyrs glorieux",
+				"Qui jadis ont souffert pour toi,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te proclamons Roi",
+				"Nous te proclamons Roi.",
+				"C'est Toi Jésus,",
+				"C'est toi que nous proclamons Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rachetés au prix de ton sang,",
+				"O Sauveur tout-puissant,",
+				"O Sauveur tout-puissant,",
+				"Sauvés par grâce, par la foi,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te proclamons Roi",
+				"Nous te proclamons Roi.",
+				"C'est Toi Jésus,",
+				"C'est toi que nous proclamons Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bientôt nous te verrons au ciel",
+				"Sur ton trône éternel,",
+				"Sur ton trône éternel.",
+				"Mais ne vivant déjà qu'en toi,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous te proclamons Roi",
+				"Nous te proclamons Roi.",
+				"C'est Toi Jésus,",
+				"C'est toi que nous proclamons Roi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Herbert Jude",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg079",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af652",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

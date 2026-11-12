@@ -1,0 +1,79 @@
+{
+	"id": "o-toi-dont-les-bienfaits",
+	"title": "O toi dont les bienfaits",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "57"
+		},
+		{
+			"hymnal": "adf",
+			"number": "531"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Toi, dont les bienfaits",
+				"Ne tarissent jamais,",
+				"O Dieu de paix,",
+				"Pour louer tes présents,",
+				"S'unissent tes enfants.",
+				"Écoute leurs accents",
+				"Reconnaissants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour combler tes faveurs,",
+				"O Dieu, rends-nous meilleurs,",
+				"Change nos cœurs.",
+				"Nous voulons te bénir,",
+				"Nous voulons te servir",
+				"Et mettre à t'obéir",
+				"Notre plaisir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ainsi conduits par toi,",
+				"Vivant selon ta loi,",
+				"O notre Roi,",
+				"Vers le ciel radieux,",
+				"Séjour des bienheureux,",
+				"Nous marcherons joyeux,",
+				"Toujours joyeux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henry Carey",
+			"role": "music"
+		},
+		{
+			"name": "Louis Roehrich ; Recueil de Louis Durand",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg057",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af531",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

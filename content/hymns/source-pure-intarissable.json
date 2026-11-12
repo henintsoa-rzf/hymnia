@@ -1,0 +1,59 @@
+{
+	"id": "source-pure-intarissable",
+	"title": "Source pure, intarissable.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "588"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Source pure, intarissable,",
+				"Source de l'amour divin,",
+				"Amour incommensurable,",
+				"Je me plonge dans ton sein !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur toi, charité profonde,",
+				"L'archange se penche en vain ;",
+				"Océan que nul ne sonde,",
+				"Je me plonge dans ton sein !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Amour qui me purifies,",
+				"Tu peux seul me rendre saint !",
+				"Source de joie et de vie,",
+				"Je me plonge en ton sein !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Sebastian Bach",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af588",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

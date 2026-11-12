@@ -1,0 +1,72 @@
+{
+	"id": "alleluia-jem-656",
+	"title": "Alléluia",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "656"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Alléluia, Alléluia,",
+				"Alléluia, Alléluia,",
+				"Alléluia, Alléluia,",
+				"Alléluia, Alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus est le Roi, Jésus est le Roi,",
+				"Il est le Roi de gloire,",
+				"Alléluia,",
+				"Il est le Roi de gloire,",
+				"Alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu es le Roi, tu es le Roi,",
+				"Tu es le Roi de gloire,",
+				"Alléluia,",
+				"Tu es le Roi de gloire,",
+				"Alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Hou malkeïnou, hou malkeïnou,",
+				"Hou melech ha m'lachim,",
+				"Alléluia,",
+				"Hou melech ha m'lachim,",
+				"Alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joy Hjerstedt",
+			"role": "music"
+		},
+		{
+			"name": "Joy Hjerstedt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem656",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

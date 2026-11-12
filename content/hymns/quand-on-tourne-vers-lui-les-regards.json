@@ -1,0 +1,42 @@
+{
+	"id": "quand-on-tourne-vers-lui-les-regards",
+	"title": "Quand on tourne vers lui les regards",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "6"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand on tourne vers lui les regards,",
+				"Quand on tourne vers lui les regards,",
+				"On est rayonnant de joie,",
+				"On est rayonnant de joie,",
+				"On est rayonnant de joie,",
+				"On est rayonnant de joie,",
+				"De joie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michael Ingle",
+			"role": "music"
+		},
+		{
+			"name": "Michael Ingle",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem006",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

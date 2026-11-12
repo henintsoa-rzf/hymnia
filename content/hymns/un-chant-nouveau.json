@@ -1,0 +1,73 @@
+{
+	"id": "un-chant-nouveau",
+	"title": "Un chant nouveau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "975"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un chant nouveau monte de la terre entière",
+				"Pour célébrer, acclamer l'Éternel.",
+				"Tous les peuples et les nations entonnent",
+				"Un hymne à la gloire du Fils de l'homme."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'Éternel est bon, il fait de grandes choses.",
+				"L'Éternel est bon, oui, nous le chantons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son nom est le grand « Je suis »,",
+				"Celui qui console et guérit.",
+				"Nul ne peut se comparer à lui.",
+				"Tout pouvoir lui est donné,",
+				"Il règne pour l'éternité.",
+				"Rien ni personne ne peut l'égaler,",
+				"Ne peut l'égaler."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son nom est le grand « Je suis »,",
+				"Celui qui console et guérit.",
+				"Nul ne peut se comparer à lui.",
+				"Tout pouvoir lui est donné,",
+				"Il règne pour l'éternité.",
+				"Rien ni personne ne peut l'égaler,",
+				"Ne peut l'égaler."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "music"
+		},
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem975",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

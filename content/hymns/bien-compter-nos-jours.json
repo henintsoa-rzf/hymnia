@@ -1,0 +1,95 @@
+{
+	"id": "bien-compter-nos-jours",
+	"title": "Bien compter nos jours",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "602"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le temps passe, ce rapace : quelle angoisse, nos années s’effacent !",
+				"En vitesse, la vieillesse … Quelle tristesse : à la fin, on régresse.",
+				"Oui, qu’est-ce que notre vie ? Comme une vapeur, elle s’enfuit,",
+				"Comme une fleur, elle se flétrit : une ombre qu’on oublie !",
+				"Que reste-t-il à la fin de l’argent que l’on obtient,",
+				"Du travail qui nous contraint et de nos loisirs vains ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Enseigne-nous à bien compter nos jours,",
+				"afin que notre cœur apprenne la sagesse !",
+				"Ô Dieu, enseigne-nous à compter nos jours,",
+				"pour que notre cœur apprenne la sagesse !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le passé, regretté, inachevé, que de temps gâché.",
+				"L’avenir fait frémir, défaillir : Comment ça va finir ?",
+				"Mais là où les fautes abondent, la grâce de Dieu est féconde :",
+				"Ne restons pas dans les plaintes, car Dieu apaise nos craintes.",
+				"Il prépare à ses enfants un lieu sans pleurs ni tourments,",
+				"Un avenir assuré pour toute l’éternité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Farniente, pauvreté, fatigué : un cycle entamé …",
+				"Surmenage, engrenage : on surnage, mais pas sans dommage …",
+				"Du temps pour se reposer, pour prier, être enseigné :",
+				"Fixer les priorités, car nous sommes limités.",
+				"Investir dans le long terme, à chaque jour suffit sa peine,",
+				"Travailler, se reposer, rester équilibrés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Notre Dieu : Prodigieux, Bienheureux, Miséricordieux !",
+				"Grâce à lui, affermis, réjouis : nouvelle énergie !",
+				"Pas se laisser étouffer par soucis, activités ;",
+				"À Dieu sans cesse regarder, Lui qui a tout créé !",
+				"Il est Dieu d’éternité, par lui nous sommes renouvelés.",
+				"Il est le Maître du temps, Souverain pleinement !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-2",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

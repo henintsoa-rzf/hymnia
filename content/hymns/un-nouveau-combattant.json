@@ -1,0 +1,92 @@
+{
+	"id": "un-nouveau-combattant",
+	"title": "Un nouveau combattant.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "60"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un nouveau combattant",
+				"vient d'entrer dans la lice ;",
+				"Un nouvel ouvrier se joint à nos travaux ;",
+				"Un esclave nouveau commence son service ;",
+				"Un nouveau marinier vient essuyer les flots.",
+				"Un nouveau marinier vient essuyer les flots."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Soldat de l'Éternel,",
+				"qu'une puissante armure",
+				"Des assauts du péché garantisse ton cœur ;",
+				"Et que l'Esprit céleste attache à ta ceinture",
+				"Le glaive de la foi, glaive toujours vainqueur.",
+				"Le glaive de la foi, glaive toujours vainqueur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ouvrier du Seigneur,",
+				"un vaste champ t'appelle,",
+				"Fort du secours de Dieu, sage de ses leçons,",
+				"À Sa divine loi soumets un sol rebelle",
+				"Que sa main parera d'immortelles moissons.",
+				"Que sa main parera d'immortelles moissons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Esclave, tends les mains",
+				"aux glorieuses chaînes",
+				"Que les élus du ciel",
+				"portent jusqu'au tombeau ;",
+				"Sers Dieu dans ses enfants ;",
+				"prends ta part de leurs peines ;",
+				"Soutiens-les dans leur course",
+				"et porte leur fardeau.",
+				"Soutiens-les dans leur course",
+				"et porte leur fardeau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Matelot courageux, sur la mer de ce monde",
+				"Lance-toi sans murmure et vogue sans effroi ;",
+				"Le Prince de la vie est avec toi sur l'onde",
+				"Et le port du salut est ouvert devant toi.",
+				"Et le port du salut est ouvert devant toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Michael Haydn",
+			"role": "music"
+		},
+		{
+			"name": "Alexandre Vinet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af060",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

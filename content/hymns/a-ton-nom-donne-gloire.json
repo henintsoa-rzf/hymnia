@@ -1,0 +1,120 @@
+{
+	"id": "a-ton-nom-donne-gloire",
+	"title": "À ton nom donne gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "605"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Non pas à nous, non pas à nous,",
+				"Mais à ton nom, à ton nom donne gloire.",
+				"Non pas à nous, non pas à nous,",
+				"Mais à ton nom, à ton nom donne gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta main, Éternel, est sur moi.",
+				"Tu ouvres mes yeux et je vois",
+				"La splendeur de ta majesté;",
+				"Le voile est déchiré",
+				"Et je peux contempler"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La gloire de Jésus,",
+				"L'Agneau qui a vaincu",
+				"Et qui est assis sur le trône,",
+				"La force du grand Roi,",
+				"Le Lion de Juda",
+				"À qui appartient la couronne."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La gloire de Jésus,",
+				"L'Agneau qui a vaincu",
+				"Et qui est assis sur le trône,",
+				"La force du grand Roi,",
+				"Le Lion de Juda",
+				"À qui appartient la couronne",
+				"Pour toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Non pas à nous, non pas à nous,",
+				"Mais à ton nom, à ton nom donne gloire.",
+				"Non pas à nous, non pas à nous,",
+				"Mais à ton nom, à ton nom donne gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nos yeux, Éternel, sont sur Toi.",
+				"Nous contemplons le Roi des rois,",
+				"Confondus par tant de beauté;",
+				"Émerveillés par toi, nous voulons refléter"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La gloire de Jésus,",
+				"L'Agneau qui a vaincu",
+				"Et qui est assis sur le trône,",
+				"La force du grand Roi,",
+				"Le Lion de Juda",
+				"À qui appartient la couronne."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La gloire de Jésus,",
+				"L'Agneau qui a vaincu",
+				"Et qui est assis sur le trône,",
+				"La force du grand Roi,",
+				"Le Lion de Juda",
+				"À qui appartient la couronne",
+				"Pour toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem605",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

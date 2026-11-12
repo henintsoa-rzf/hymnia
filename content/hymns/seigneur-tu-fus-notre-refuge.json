@@ -1,0 +1,89 @@
+{
+	"id": "seigneur-tu-fus-notre-refuge",
+	"title": "Seigneur, tu fus notre refuge",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "17"
+		},
+		{
+			"hymnal": "adf",
+			"number": "24"
+		},
+		{
+			"hymnal": "cd",
+			"number": "20"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu fus notre refuge,",
+				"Dès les âges lointains.",
+				"De père en fils, éternel Juge,",
+				"Tu règles nos destins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mille ans, pour toi, n'ont que l'espace",
+				"D'un jour, quand il n'est plus.",
+				"Ainsi qu'un songe bientôt passe,",
+				"Ils sont tous révolus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Reviens, Seigneur ; quand donc sera-ce ?",
+				"Envers nous sois clément !",
+				"Fais succéder un temps de grâce",
+				"Aux jours d'abaissement."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Déploie à nos yeux la puissance",
+				"De tes bras souverains.",
+				"Affermis, dans ta bienveillance,",
+				"L'ouvrage de nos mains."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr. William Croft",
+			"role": "music"
+		},
+		{
+			"name": "Jules-Marcel Nicole",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg017",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af024",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/843",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "que-ma-louange-te-plaise",
+	"title": "Que ma louange te plaise",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "933"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux chanter toute ma vie.",
+				"Mon Dieu, je t'aime, toi, mon ami.",
+				"Je veux crier ma joie de vivre.",
+				"Je ne peux pas me contenir."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ma louange te plaise,",
+				"Que ma louange t'élève,",
+				"Que ma louange réjouisse",
+				"ton cœur, Seigneur.",
+				"Wa-o-a-o, wa-o-a-o.",
+				"Que ma louange te plaise,",
+				"Que ma louange t'élève,",
+				"Que ma louange réjouisse",
+				"ton cœur, Seigneur.",
+				"Wa-o-a-o, wa-o-a-o."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je suis si heureux que tu sois,",
+				"Je suis si heureux que tu sois,",
+				"Le Seigneur de tout mon être.",
+				"Je veux juste te dire merci,",
+				"Je veux juste te dire merci,",
+				"Simplement merci."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ma louange te plaise,",
+				"Que ma louange t'élève,",
+				"Que ma louange réjouisse",
+				"ton cœur, Seigneur.",
+				"Wa-o-a-o, wa-o-a-o."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matthieu Marvane",
+			"role": "music"
+		},
+		{
+			"name": "Matthieu Marvane",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem933",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

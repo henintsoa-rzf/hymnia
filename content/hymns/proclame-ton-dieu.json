@@ -1,0 +1,42 @@
+{
+	"id": "proclame-ton-dieu",
+	"title": "Proclame ton Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "120"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Proclame ton Dieu",
+				"Pendant qu'il en est temps ;",
+				"Enfant marchant le cœur content,",
+				"Annonce au monde que le Dieu d'Israël",
+				"Aujourd'hui ouvre le ciel.",
+				"Marche, marche, en chantant ton Sauveur,",
+				"Marche, marche et tu seras vainqueur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem120",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

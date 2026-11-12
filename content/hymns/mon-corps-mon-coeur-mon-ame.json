@@ -1,0 +1,89 @@
+{
+	"id": "mon-corps-mon-coeur-mon-ame",
+	"title": "Mon corps, mon cœur, mon âme.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "290"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon corps, mon cœur, mon âme",
+				"Ne m'appartiennent plus ;",
+				"Ton amour les réclame :",
+				"Ils sont à Toi, Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois mon sacrifice,",
+				"Il est sur ton autel !",
+				"Esprit, Esprit, descends,",
+				"J'attends le feu du ciel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En toi, je me confie,",
+				"Je m'abandonne à toi ;",
+				"Ton sang me purifie",
+				"Et ta grâce est ma Loi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois mon sacrifice,",
+				"Il est sur ton autel !",
+				"Esprit, Esprit, descends,",
+				"J'attends le feu du ciel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Consacre mon offrande,",
+				"Mets ton sceau sur mon cœur !",
+				"Le sceau que je demande",
+				"C'est ton Esprit, Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois mon sacrifice,",
+				"Il est sur ton autel !",
+				"Esprit, Esprit, descends,",
+				"J'attends le feu du ciel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Aline-J.-F. Knapp",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Fisch",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af290",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

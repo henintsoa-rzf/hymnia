@@ -18,6 +18,10 @@ export default defineConfig({
 			{
 				resolve: { alias: { $lib: lib } },
 				test: { name: 'perf', include: ['tests/perf/**/*.test.ts'], testTimeout: 120_000 }
+			},
+			{
+				resolve: { alias: { $lib: lib } },
+				test: { name: 'import', include: ['tests/import/**/*.test.ts'] }
 			}
 		]
 	}

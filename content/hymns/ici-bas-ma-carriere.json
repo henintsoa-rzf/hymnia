@@ -1,0 +1,74 @@
+{
+	"id": "ici-bas-ma-carriere",
+	"title": "Ici-bas ma carrière.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "513"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ici-bas ma carrière",
+				"Va finir pour jamais,",
+				"Je vais dormir dans la poussière",
+				"Avec ceux que j'aimais.",
+				"O Jésus, sois ma vie !",
+				"Source des biens cachés,",
+				"Prends mon âme et la purifie,",
+				"Efface mes péchés,",
+				"Efface, Efface, efface mes péchés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quelques soleils encore",
+				"Sur moi se lèveront,",
+				"Puis la céleste et douce aurore",
+				"Brillera sur mon front.",
+				"O Christ, ô ma justice,",
+				"Source des biens cachés,",
+				"Rends-moi cette aurore propice,",
+				"Efface mes péchés",
+				"Efface, Efface, efface mes péchés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Encor quelques orages,",
+				"Et, par le flot porté,",
+				"J'aborderai les doux rivages",
+				"De l'immortalité.",
+				"Vers toi , divine Étoile",
+				"Tiens mes yeux attachés ;",
+				"De la mort dissipe les voiles,",
+				"Efface mes péchés,",
+				"Efface, Efface, Efface mes péchés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Roucaute",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af513",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

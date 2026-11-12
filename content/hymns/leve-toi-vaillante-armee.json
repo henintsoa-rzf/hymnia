@@ -1,0 +1,96 @@
+{
+	"id": "leve-toi-vaillante-armee",
+	"title": "Lève-toi, vaillante armée !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "350"
+		},
+		{
+			"hymnal": "adf",
+			"number": "296"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lève-toi, vaillante armée,",
+				"Pour les combats du Seigneur !",
+				"C'est ton Dieu qui t'a formée,",
+				"C'est lui seul qui rend vainqueur.",
+				"Soldats, à la sainte guerre,",
+				"Préparez-vous en ce jour ;",
+				"Il faut soumettre la terre",
+				"Au Roi de paix et d'amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Allez révéler au monde",
+				"L'amour du Dieu tout-puissant ;",
+				"Dans l'obscurité profonde,",
+				"Annoncez le jour naissant.",
+				"Aux peuples sans espérance,",
+				"Dites que Christ est venu,",
+				"Apportant la délivrance",
+				"Au cœur coupable et perdu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur le plus lointain rivage,",
+				"Portez l'éternelle croix ;",
+				"Avec un nouveau courage,",
+				"Partout, élevez la voix.",
+				"Qu'ainsi l'Église s'étende,",
+				"Ici-bas, sous tous les cieux,",
+				"Et que partout l'on entende,",
+				"O Christ, ton Nom glorieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Heureux ceux qui pour leur Maître",
+				"Auront voulu tout souffrir !",
+				"Le grand jour fera connaître",
+				"L'honneur qui les doit couvrir.",
+				"Dans l'immortelle victoire",
+				"De Jésus, le Roi des rois,",
+				"Ils auront part à sa gloire,",
+				"Ayant eu part à sa croix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henry Smart",
+			"role": "music"
+		},
+		{
+			"name": "Eugène Bersier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg350",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af296",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

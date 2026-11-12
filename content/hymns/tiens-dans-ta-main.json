@@ -1,0 +1,92 @@
+{
+	"id": "tiens-dans-ta-main",
+	"title": "Tiens dans ta main",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "221"
+		},
+		{
+			"hymnal": "adf",
+			"number": "206"
+		},
+		{
+			"hymnal": "cd",
+			"number": "187"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tiens dans ta main,",
+				"ta main puissante et forte,",
+				"Ton faible enfant qui seul ne peut marcher.",
+				"Vers toi, Seigneur, tout mon désir se porte,",
+				"Sur mon chemin, garde-moi de broncher !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tiens dans ta main,",
+				"mon cœur plein de faiblesse,",
+				"Sans ton secours je ne puis faire un pas.",
+				"Écoute-moi, regarde ma tristesse,",
+				"Viens, secours-moi, ne m'abandonne pas !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tiens dans ta main",
+				"ma main parfois tremblante,",
+				"Quand vient l'épreuve et ses jours de douleur.",
+				"Donne à ma foi, souvent si chancelante,",
+				"Plus de douceur, de paix et de ferveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tiens dans ta main mon âme tout entière,",
+				"Révèle-moi, Jésus, tout ton amour ;",
+				"Sois mon rocher, mon ancre, ma lumière,",
+				"Mon Roi, mon Maître, ô Jésus, chaque jour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hubert Platt Main",
+			"role": "music"
+		},
+		{
+			"name": "L.E. Rilliet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg221",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af206",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1016",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

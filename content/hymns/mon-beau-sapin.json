@@ -1,0 +1,65 @@
+{
+	"id": "mon-beau-sapin",
+	"title": "Mon beau sapin.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "640"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon beau sapin, roi des forêts,",
+				"Que j'aime ta verdure !",
+				"Quand par l'hiver, bois et guérets",
+				"Sont dépouillés de leurs attraits,",
+				"Mon beau sapin, roi des forêts",
+				"Tu gardes ta parure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi que Noël planta chez nous",
+				"Au saint anniversaire,",
+				"Joli sapin, comme ils sont doux,",
+				"Et tes bonbons et tes joujoux,",
+				"Toi que Noël planta chez nous",
+				"Tout brillant de lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon beau sapin, tes verts sommets",
+				"Et leur fidèle ombrage,",
+				"De la foi qui ne meurt jamais,",
+				"De la constance et de la paix,",
+				"Mon beau sapin, tes verts sommets",
+				"M'offrent la douce image."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air populaire allemand",
+			"role": "music"
+		},
+		{
+			"name": "Delcasso",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af640",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

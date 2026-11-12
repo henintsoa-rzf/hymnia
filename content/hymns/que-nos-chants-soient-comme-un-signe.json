@@ -1,0 +1,131 @@
+{
+	"id": "que-nos-chants-soient-comme-un-signe",
+	"title": "Que nos chants soient comme un signe",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "981"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que nos chants soient comme un signe,",
+				"Nos louanges un accueil.",
+				"Nous sommes là pour toi,",
+				"Nous sommes là pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que ton souffle vienne des cieux",
+				"Nous remplir de ta vie,",
+				"Nous sommes là pour toi,",
+				"Nous sommes là pour toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nos cœurs sont ouverts au tien,",
+				"Nous ne te cachons rien.",
+				"Nous avons soif de toi,",
+				"Car tu es le Dieu saint,",
+				"Tout autre dieu est vain.",
+				"Oh ! que ton feu descende !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que nos cris soient comme un hymne,",
+				"Que ton nom retentisse !",
+				"Nous sommes là pour toi,",
+				"Nous sommes là pour toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Avec force, dis un seul mot",
+				"Et les morts revivront.",
+				"Nous sommes là pour toi,",
+				"Nous sommes là pour toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nos cœurs sont ouverts au tien,",
+				"Nous ne te cachons rien.",
+				"Nous avons soif de toi,",
+				"Car tu es le Dieu saint,",
+				"Tout autre dieu est vain.",
+				"Oh ! que ton feu descende !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nos cœurs sont ouverts au tien,",
+				"Nous ne te cachons rien.",
+				"Nous avons soif de toi,",
+				"Car tu es le Dieu saint,",
+				"Tout autre dieu est vain.",
+				"Oh ! que ton feu descende !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Seigneur, nous t'accueillons,",
+				"Seigneur, nous t'accueillons.",
+				"O Roi et Dieu d'amour,",
+				"Tu es le bienvenu.",
+				"Seigneur, nous t'accueillons,",
+				"Seigneur, nous t'accueillons.",
+				"O Roi et Dieu d'amour,",
+				"Tu es le bienvenu."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que notre cœur t'adore et toute âme s'éveille",
+				"Ô Roi et Dieu d'amour, tu es le bienvenu.",
+				"Seigneur, nous t'accueillons,",
+				"Seigneur, nous t'accueillons.",
+				"O Roi et Dieu d'amour,",
+				"Tu es le bienvenu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tim Wanstall ; Matt Redman ; Matt Maher ; Jesse Reeves",
+			"role": "music"
+		},
+		{
+			"name": "Tim Wanstall ; Matt Redman ; Matt Maher ; Jesse Reeves",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem981",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

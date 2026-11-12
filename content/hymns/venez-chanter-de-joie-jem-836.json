@@ -1,0 +1,65 @@
+{
+	"id": "venez-chanter-de-joie-jem-836",
+	"title": "Venez chanter de joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "836"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez chanter de joie pour le Seigneur",
+				"Et crier vers lui, le rocher de notre salut.",
+				"Avec reconnaissance allons vers lui,",
+				"Exaltons le Seigneur par nos chants."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allélu, alléluia, chante: « Alléluia.",
+				"Allélu, alléluia, allélu, alléluia. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Prosternons-nous pour l'adorer",
+				"À genoux ; célébrons notre créateur.",
+				"Il est notre Dieu, nous lui appartenons.",
+				"Nous sommes son peuple, il est notre berger."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allélu, alléluia, chante: « Alléluia.",
+				"Allélu, alléluia, allélu, alléluia. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Wilbur",
+			"role": "music"
+		},
+		{
+			"name": "Paul Wilbur",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem836",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

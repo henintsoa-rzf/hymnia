@@ -1,0 +1,73 @@
+{
+	"id": "jesus-tu-es-la",
+	"title": "Jésus, tu es là",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "868"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand le peuple de Dieu",
+				"Des quatre coins de l'horizon,",
+				"Quand le peuple de Dieu",
+				"Se rassemble en ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand les cœurs s'ouvrent",
+				"Et que les mains se tendent,",
+				"Quand nos âmes soupirent",
+				"À t'entendre, assoiffées de toi,",
+				"Jésus tu es là, Jésus tu es là.",
+				"Jésus tu es là, Jésus tu es là."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand du milieu de nous",
+				"Comme un parfum d'adoration,",
+				"S'élèvent nos voix",
+				"Pour chanter et louer ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand les cœurs s'ouvrent",
+				"Et que les mains se tendent,",
+				"Quand nos âmes soupirent",
+				"À t'entendre, assoiffées de toi,",
+				"Jésus tu es là, Jésus tu es là.",
+				"Jésus tu es là, Jésus tu es là."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Decourroux",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Decourroux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem868",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

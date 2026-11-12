@@ -1,0 +1,121 @@
+{
+	"id": "oh-viens-bientot-emmanuel",
+	"title": "Oh ! viens bientôt, Emmanuel",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "142"
+		},
+		{
+			"hymnal": "adf",
+			"number": "540"
+		},
+		{
+			"hymnal": "cd",
+			"number": "119"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! viens bientôt, Emmanuel,",
+				"Nous délivrer du joug cruel",
+				"Et du péché briser la loi :",
+				"Ton peuple entier s'attend à toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joyeux, levez les yeux au ciel :",
+				"Voici venir Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! viens bientôt, que ta clarté",
+				"Dissipe nos obscurités.",
+				"Errants et tristes dans la nuit,",
+				"Nous appelons le jour qui luit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joyeux, levez les yeux au ciel :",
+				"Voici venir Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! viens bientôt, descends vers nous,",
+				"Saint Fils du ciel, aimant et doux.",
+				"Aux cœurs troublés apporte donc",
+				"La paix divine du pardon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joyeux, levez les yeux au ciel :",
+				"Voici venir Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! viens bientôt, puissant Sauveur,",
+				"Nous réveiller de nos langueurs.",
+				"Il n'est que toi, céleste pain,",
+				"Qui puisse apaiser notre faim."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Joyeux, levez les yeux au ciel :",
+				"Voici venir Emmanuel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie grégorienne",
+			"role": "music"
+		},
+		{
+			"name": "Hermann Ecuyer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg142",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af540",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/937",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

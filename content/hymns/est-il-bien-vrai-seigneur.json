@@ -1,0 +1,92 @@
+{
+	"id": "est-il-bien-vrai-seigneur",
+	"title": "Est-il bien vrai, Seigneur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "39"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Est-il bien vrai, Seigneur,",
+				"qu'un fils de la poussière",
+				"À ton festin d'amour par toi soit invité ?",
+				"Pour titre à tes faveurs je n'ai que ma misère :",
+				"Mon seul droit, c'est ta charité !",
+				"Mon seul droit, c'est ta charité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Du Dieu qui nous créa,",
+				"consolante assurance :",
+				"Lui-même s'est chargé",
+				"de toutes nos langueurs ;",
+				"Pour prix de tant d'amour",
+				"et de tant de souffrance,",
+				"Il ne demande que nos cœurs !",
+				"Il ne demande que nos cœurs !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je viens donc, altéré de pardon, de justice,",
+				"Recevoir de ta main les symboles touchants",
+				"Qui retracent ici ton sanglant sacrifice",
+				"Au souvenir de tes enfants.",
+				"Au souvenir de tes enfants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Toi qui m'as tant aimé,",
+				"qui lavas ma souillure,",
+				"Qui dans mon cœur troublé",
+				"fis descendre la paix,",
+				"O Jésus, pain du ciel, deviens ma nourriture,",
+				"Et qu'en toi je vive à jamais !",
+				"Et qu'en toi je vive à jamais !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Oui Seigneur, en toi seul",
+				"je veux trouver ma vie ;",
+				"J'ai vécu trop longtemps",
+				"du monde et du péché :",
+				"À ta brebis lassée ouvre la bergerie,",
+				"Et dans ton sein tiens-moi caché.",
+				"Et dans ton sein tiens-moi caché."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "L.-J. Delaborde",
+			"role": "music"
+		},
+		{
+			"name": "Mlle de Chabeaud-Latour",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af039",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

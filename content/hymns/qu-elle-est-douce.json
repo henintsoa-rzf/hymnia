@@ -1,0 +1,68 @@
+{
+	"id": "qu-elle-est-douce",
+	"title": "Qu'elle est douce.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "415"
+		},
+		{
+			"hymnal": "cd",
+			"number": "342"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'elle est douce, qu'elle est bonne,",
+				"Cette paix qui vient du ciel !",
+				"C'est Jésus qui nous la donne,",
+				"Dans son amour éternel.",
+				"Au jour de sa mort cruelle,",
+				"Ce bon Sauveur nous l'acquit,",
+				"Et dans nos cœurs Il la scelle",
+				"Par le don de son Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cette paix, rien ne la trouble,",
+				"Dangers, douleurs ni travaux.",
+				"Dans le combat qui redouble,",
+				"Elle fait notre repos.",
+				"Ah ! que notre cœur l'éprouve !",
+				"Qu'il en sente la douceur !",
+				"Que toujours il la retrouve,",
+				"Sous le regard du Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frideric Haendel",
+			"role": "music"
+		},
+		{
+			"name": "Henri Lutteroth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af415",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1140",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

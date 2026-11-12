@@ -1,0 +1,99 @@
+{
+	"id": "c-est-trop-chanter-la-paix",
+	"title": "C'est trop chanter la paix.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "619"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est trop chanter la paix de l'âme",
+				"Et l'espérance, et le repos,",
+				"Quand de toutes parts nous réclame",
+				"L'appel déchirant des sanglots :",
+				"Chrétien, les heures sont trop brèves,",
+				"Le sort de l'homme est trop cruel,",
+				"Pour te dépenser en beaux rêves",
+				"Sur la félicité du ciel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Autour de nous on peine, on pleure,",
+				"Et l'on a froid, et l'on a faim :",
+				"À quelques pas de ta demeure,",
+				"Des enfants nus manquent de pain ;",
+				"On voit dans les yeux de leur père",
+				"Le sombre feu du désespoir…",
+				"Les arracher à la misère,",
+				"C'est le bonheur, c'est le devoir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À toi d'éclairer l'ignorance ;",
+				"À toi d'apporter au pécheur",
+				"Et sa grâce et sa délivrance,",
+				"Avec le nom de son Sauveur.",
+				"Dieu s'est donné… c'est ta doctrine ;",
+				"Fais voir à ce siècle étonné",
+				"Que, fidèle à la loi divine,",
+				"Toi-même aussi tu t'es donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Donne ton temps, donne ta peine,",
+				"Donne ton or, donne ton cœur !",
+				"Qu'importent l'outrage ou la haine !",
+				"Il faut que l'amour soit vainqueur.",
+				"Le Maître a préparé la tâche",
+				"Qu'il met aujourd'hui devant toi :",
+				"À l'œuvre donc, et sans relâche,",
+				"Pour ton Rédempteur et ton Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"O Jésus ! tu vins sur la terre",
+				"Et nous aimas jusqu'à mourir :",
+				"Que, poursuivant ton ministère,",
+				"Nous aussi nous sachions souffrir !",
+				"Tes serviteurs et tes servantes",
+				"À toi se donnent sans retour :",
+				"Pour que leurs œuvres soient vivantes,",
+				"En eux fais vivre ton amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mme H. Lutteroth",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af619",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

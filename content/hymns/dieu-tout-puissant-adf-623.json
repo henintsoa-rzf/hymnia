@@ -1,0 +1,65 @@
+{
+	"id": "dieu-tout-puissant-adf-623",
+	"title": "Dieu tout-puissant.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "623"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu tout-puissant, Dieu de ma délivrance",
+				"Je mets en toi toute mon espérance ;",
+				"Les grosses eaux débordent en fureur !",
+				"Veille sur moi, soutiens mon faible cœur,",
+				"Les grosses eaux débordent en fureur !",
+				"Veille sur moi, soutiens mon faible cœur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ah ! quel ami pourrait, sur cette terre,",
+				"Me consoler dans ma douleur amère ?",
+				"Où donc aller, si ce n'est point à toi ?",
+				"Tes bras, Seigneur, s'ouvrent toujours pour moi,",
+				"Où donc aller, si ce n'est point à toi ?",
+				"Tes bras, Seigneur, s'ouvrent toujours pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le malheureux qui, dans son infortune,",
+				"S'adresse à toi, jamais ne t'importune.",
+				"Allez à lui, travaillés et chargés :",
+				"Vous reviendrez guéris et soulagés.",
+				"Allez à lui, travaillés et chargés :",
+				"Vous reviendrez guéris et soulagés."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joseph Haydn",
+			"role": "music"
+		},
+		{
+			"name": "Mme de Maison",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af623",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

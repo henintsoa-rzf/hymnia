@@ -1,0 +1,101 @@
+{
+	"id": "qui-veut-pour-le-maitre",
+	"title": "Qui veut pour le Maître ?",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "359"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui veut pour le Maître,",
+				"Pour notre grand Roi,",
+				"Livrer tout son être,",
+				"Combattre avec foi,",
+				"Dans la guerre sainte",
+				"Contre toute erreur,",
+				"Les pieds dans l'empreinte",
+				"Des pas du Sauveur ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus nous appelle,",
+				"Écoutons sa voix ;",
+				"La vie éternelle",
+				"Commence à la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rude est la bataille,",
+				"Mais un vrai soldat",
+				"Jamais ne défaille",
+				"Dans le saint combat !",
+				"Il suit la bannière",
+				"De la vérité,",
+				"Marche à la lumière",
+				"De l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'erreur, confondue,",
+				"Ne résiste plus,",
+				"Et l'âme perdue",
+				"Se donne à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À l'appel suprême,",
+				"Oui, nous venons tous,",
+				"À cette heure extrême,",
+				"Promettre, à genoux,",
+				"Notre obéissance",
+				"Aux ordres du Roi",
+				"Avec l'assurance",
+				"Qui naît de la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Après la victoire,",
+				"Tout sera nouveau,",
+				"Mon cœur chante : « Gloire,",
+				"Honneur à l'Agneau ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Goss",
+			"role": "music"
+		},
+		{
+			"name": "Hector Arnéra",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg359",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

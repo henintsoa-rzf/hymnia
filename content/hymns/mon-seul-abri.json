@@ -1,0 +1,68 @@
+{
+	"id": "mon-seul-abri",
+	"title": "Mon seul abri",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "354"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon seul abri, c'est toi,",
+				"Toujours mon cœur te chantera,",
+				"Car tu me délivres",
+				"Et chaque fois que j'ai peur",
+				"Je m'appuie sur toi,",
+				"Je m'appuie sur toi,",
+				"Et dans ma faiblesse,",
+				"Le Seigneur me rend fort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon seul abri, c'est toi,",
+				"Toujours mon cœur te chantera,",
+				"Car tu me délivres",
+				"Et chaque fois que j'ai peur,",
+				"Je m'appuie sur toi.",
+				"Je m'appuie sur toi,",
+				"Et dans ma faiblesse,",
+				"Le Seigneur me rend fort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon seul abri, c'est toi,",
+				"Toujours mon cœur te chantera,",
+				"Car tu me délivres",
+				"Et chaque fois que j'ai peur,",
+				"Je m'appuie sur toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michael Ledner",
+			"role": "music"
+		},
+		{
+			"name": "Michael Ledner",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem354",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

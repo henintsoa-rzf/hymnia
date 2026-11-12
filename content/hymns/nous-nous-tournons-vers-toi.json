@@ -1,0 +1,73 @@
+{
+	"id": "nous-nous-tournons-vers-toi",
+	"title": "Nous nous tournons vers toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "878"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous nous tournons vers toi en cet instant,",
+				"Nous élevons nos voix en t'adorant.",
+				"Nous laissons sans regrets ce monde fou",
+				"Pour retrouver la paix, à genoux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car tu es le seul digne de recevoir",
+				"L'honneur et la gloire, l'adoration.",
+				"Car tu es le seul Dieu",
+				"Au-dessus de la terre et des cieux.",
+				"Car tu es le seul Dieu",
+				"Au-dessus de la terre et des cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous t'apportons nos dons pour t'adorer,",
+				"Créer, chanter, danser, pour t'honorer.",
+				"Nous exprimons la joie d'être avec toi,",
+				"Nous proclamons ton nom avec foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car tu es le seul digne de recevoir",
+				"L'honneur et la gloire, l'adoration.",
+				"Car tu es le seul Dieu",
+				"Au-dessus de la terre et des cieux.",
+				"Car tu es le seul Dieu",
+				"Au-dessus de la terre et des cieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem878",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

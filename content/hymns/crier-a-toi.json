@@ -1,0 +1,101 @@
+{
+	"id": "crier-a-toi",
+	"title": "Crier à toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "610"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme soupire une biche",
+				"Après l'eau d'un ruisseau,",
+				"Moi aussi, ô Seigneur, je soupire après toi.",
+				"J'ai soif de toi, mon Dieu, d'être là devant toi,",
+				"De venir dans ton temple me présenter à toi.",
+				"Pour qu'enfin me reviennent",
+				"Les souvenirs d'antan",
+				"Où, heureux, je courais,",
+				"courais vers ta maison."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je voudrais retrouver cet amour et ce feu,",
+				"Encore une fois brûler, être fou amoureux,",
+				"Fou amoureux de toi, attaché à tes pas,",
+				"Vibrer à ta parole et au son de ta voix,",
+				"Pour qu'enfin me reviennent",
+				"Les souvenirs d'antan",
+				"Où, heureux, je courais,",
+				"courais vers ta maison."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux crier à toi",
+				"plutôt que de me plaindre,",
+				"Je veux compter sur toi,",
+				"te louer à nouveau.",
+				"L'espérance et la joie",
+				"seront dans ta présence ;",
+				"Je veux crier à toi,",
+				"mon Sauveur et mon Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Montre-moi, ô Seigneur,",
+				"chaque jour ta bonté,",
+				"Ta grandeur et ta grâce, et moi je chanterai,",
+				"Je chanterai celui qui de ma vie est maître,",
+				"Celui qui m'a choisi et qui me fait renaître",
+				"Pour qu'enfin me reviennent",
+				"Les souvenirs d'antan",
+				"Où, heureux, je courais,",
+				"courais vers ta maison."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux crier à toi",
+				"plutôt que de me plaindre,",
+				"Je veux compter sur toi,",
+				"te louer à nouveau.",
+				"L'espérance et la joie",
+				"seront dans ta présence ;",
+				"Je veux crier à toi,",
+				"mon Sauveur et mon Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem610",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

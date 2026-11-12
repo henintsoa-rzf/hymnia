@@ -1,0 +1,71 @@
+{
+	"id": "jesus-jesus-mon-sauveur",
+	"title": "Jésus, Jésus, mon Sauveur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "110"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, Jésus mon Sauveur,",
+				"À l'ombre de Ta croix,",
+				"J'ai trouvé le repos du cœur,",
+				"Gloire à Toi, Roi des rois !",
+				"Une retraite dans l'orage,",
+				"Un refuge assuré,",
+				"Pour moi, pécheur, quel doux partage,",
+				"Là, je t'ai contemplé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, Jésus mon Sauveur,",
+				"À l'ombre de Ta croix,",
+				"Devant ton immense douleur",
+				"Je t'adore et je crois.",
+				"Là, mes ténèbres sont lumière,",
+				"Et mon fardeau n'est plus !",
+				"Humble à tes pieds, dans la poussière,",
+				"Tiens-moi toujours, Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, Jésus mon Sauveur,",
+				"À l'ombre de Ta croix,",
+				"Exauce le cri de mon cœur,",
+				"Entends ma faible voix :",
+				"Donne-moi ton obéissance,",
+				"Ton support, ton amour,",
+				"Céleste Agneau, ton endurance,",
+				"Jusqu'à mon dernier jour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af110",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

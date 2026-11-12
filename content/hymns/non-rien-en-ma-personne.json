@@ -1,0 +1,71 @@
+{
+	"id": "non-rien-en-ma-personne",
+	"title": "Non, rien en ma personne.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "126"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Non, rien en ma personne",
+				"N'est digne d'être aimé,",
+				"Ce que Jésus me donne",
+				"Peut seul être estimé.",
+				"Jésus est ma justice,",
+				"Ma gloire, mon appui ;",
+				"Il m'aime, il m'est propice,",
+				"Et je puis tout par Lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nul ne peut à mon âme",
+				"Disputer son bonheur ;",
+				"De l'enfer, de sa flamme",
+				"Je ne sens nulle peur.",
+				"Le Seigneur, juste Juge,",
+				"Est mon plus tendre ami ;",
+				"Son cœur est le refuge,",
+				"Où je fuis l'ennemi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, malgré la tempête,",
+				"Jésus, à qui je suis,",
+				"Toujours sous sa houlette,",
+				"Gardera sa brebis.",
+				"Dussé-je pour mon Maître",
+				"Perdre tout ici-bas.",
+				"À lui seul je veux être,",
+				"Je ne le quitte pas."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Melchior Teschner",
+			"role": "music"
+		},
+		{
+			"name": "Paul Gerhardt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af126",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

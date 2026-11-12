@@ -1,0 +1,107 @@
+{
+	"id": "eleve-toi",
+	"title": "Élève-toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "748"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élève-toi, ô notre Dieu !",
+				"Élève-toi, ô notre Dieu !",
+				"Que ton règne vienne sur la terre !",
+				"Que ton règne vienne parmi nous !",
+				"Que ton règne vienne sur la terre !",
+				"Que ton règne vienne parmi nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'éclaterai en chants de triomphe,",
+				"À la tête des grandes nations ;",
+				"Je publierai tes hauts faits, ta gloire,",
+				"Pour l'honneur de ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élève-toi, ô notre Dieu !",
+				"Élève-toi, ô notre Dieu !",
+				"Que ton règne vienne sur la terre !",
+				"Que ton règne vienne parmi nous !",
+				"Que ton règne vienne sur la terre !",
+				"Que ton règne vienne parmi nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je t'élèverai parmi les peuples,",
+				"En proclamant haut ta sainteté.",
+				"Races et tribus de toute la terre",
+				"Te loueront à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élève-toi, ô notre Dieu !",
+				"Élève-toi, ô notre Dieu !",
+				"Que ton règne vienne sur la terre !",
+				"Que ton règne vienne parmi nous !",
+				"Que ton règne vienne sur la terre !",
+				"Que ton règne vienne parmi nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pourquoi les nations se moqueraient-elles",
+				"En disant: « mais où est donc leur Dieu ? »",
+				"Notre Seigneur, qui vit dans le ciel,",
+				"Règne et fait tout ce qu'il veut."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élève-toi, ô notre Dieu !",
+				"Élève-toi, ô notre Dieu !",
+				"Que ton règne vienne sur la terre !",
+				"Que ton règne vienne parmi nous !",
+				"Que ton règne vienne sur la terre !",
+				"Que ton règne vienne parmi nous !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fabienne Pons",
+			"role": "music"
+		},
+		{
+			"name": "Fabienne Pons",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem748",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

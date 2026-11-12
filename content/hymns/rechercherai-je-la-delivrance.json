@@ -1,0 +1,89 @@
+{
+	"id": "rechercherai-je-la-delivrance",
+	"title": "Rechercherai-je la délivrance",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1153"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rechercherai-je la délivrance ?",
+				"En toi, Seigneur, je la verrai.",
+				"À chaque instant de ma longue errance,",
+				"Ton secours sera mon rocher."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nul ennemi ne saurait te nuire,",
+				"Les dangers ne pourront te détruire.",
+				"Le Dieu qui veille et garde, partout a son empire.",
+				"Le Dieu qui veille et garde, partout a son empire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il étendra sur ta route l’ombre",
+				"Qui te protégera des feux,",
+				"Et que les astres deviennent sombres,",
+				"Alors tu ne craindrais rien d’eux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le jour mauvais tu seras en paix,",
+				"La nuit ne pourra te terrasser.",
+				"En Dieu, nulle défaillance, lui seul va te garder.",
+				"En Dieu, nulle défaillance, lui seul va te garder."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, l’Éternel a soin de son peuple ;",
+				"Je veux connaître un tel secours.",
+				"Sa protection est sur ses fidèles",
+				"Dès maintenant et pour toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avançons donc pour le rencontrer !",
+				"Venons à lui, venons l’invoquer !",
+				"Il n’y a que l’Éternel pour ainsi protéger.",
+				"Il n’y a que l’Éternel pour ainsi protéger."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pascal Glock",
+			"role": "music"
+		},
+		{
+			"name": "Pascal Glock",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1153",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

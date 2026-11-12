@@ -1,0 +1,94 @@
+{
+	"id": "seigneur-dieu-tout-puissant",
+	"title": "Seigneur, Dieu tout-puissant.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "636"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, Dieu tout-puissant,",
+				"protège notre France !",
+				"Tu la comblas de dons, tu fus sa délivrance ;",
+				"Nous plaçons en tes mains son obscur avenir :",
+				"Préside à ses destins et daigne la bénir.",
+				"Et daigne la bénir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Apprends-nous à l'aimer",
+				"comme on aime une mère ;",
+				"Eloigne de son sein la discorde et la guerre ;",
+				"Donne aux fleurs la rosée,",
+				"à nos champs les moissons.",
+				"Rends nos fils valeureux et nos foyers féconds.",
+				"Et nos foyers féconds."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que toujours au travail s'unisse la prière,",
+				"Dans la riche demeure",
+				"ou dans l'humble chaumière ;",
+				"Qu'on craigne ton saint nom,",
+				"qu'on observe tes lois,",
+				"Et que du plus petit on respecte les droits.",
+				"On respecte les droits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu'à servir Jésus-Christ",
+				"employant son génie,",
+				"Et fière de remplir sa mission bénie,",
+				"Parmi les nations elle élève sa voix",
+				"Pour défendre le faible",
+				"et pour prêcher la croix.",
+				"Et pour prêcher la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Humblement, devant toi",
+				"nous confessons nos fautes",
+				"Par un plus grand amour,",
+				"par des vertus plus hautes,",
+				"Fais que nous préparions",
+				"les meilleurs lendemains",
+				"Où la paix régnera toujours sur nos chemins.",
+				"Toujours sur nos chemins."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Louis Decoppet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af636",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

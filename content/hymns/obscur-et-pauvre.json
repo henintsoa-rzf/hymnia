@@ -1,0 +1,87 @@
+{
+	"id": "obscur-et-pauvre",
+	"title": "Obscur et pauvre.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "115"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Obscur et pauvre au monde présenté,",
+				"Nous le voyons sans éclat, sans beauté,",
+				"Ce Roi des rois, ce Fils du Père,",
+				"Vit ici-bas dans la misère."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il s'est chargé de toutes nos langueurs,",
+				"Et sur la croix a porté nos douleurs,",
+				"Et sur la croix a porté nos douleurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon Dieu, mon Dieu !",
+				"pourquoi m'as-tu laissé ?",
+				"Tel est le cri de son cœur angoissé.",
+				"Puis, Seigneur, Il baisse la tête,",
+				"Et ta justice est satisfaite."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il s'est chargé de toutes nos langueurs,",
+				"Et sur la croix a porté nos douleurs,",
+				"Et sur la croix a porté nos douleurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur Jésus, que nous avons percé,",
+				"Dans notre cœur par la foi sois placé ;",
+				"Car ta mort, qui nous justifie,",
+				"Par la foi devient notre vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il s'est chargé de toutes nos langueurs,",
+				"Et sur la croix a porté nos douleurs,",
+				"Et sur la croix a porté nos douleurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Frideric Haendel",
+			"role": "music"
+		},
+		{
+			"name": "Ch. Recordon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af115",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,65 @@
+{
+	"id": "repose-en-paix",
+	"title": "Repose en paix",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "331"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Repose en paix, mon pauvre cœur en peine,",
+				"Jésus est là, comme un tendre berger.",
+				"Il est puissant, sa grâce est souveraine,",
+				"De tes fardeaux il veut te décharger.",
+				"C'est vers le ciel que son amour te mène,",
+				"Il est fidèle et ne saurait changer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Repose en paix, pauvre cœur de misère,",
+				"Jésus est là, comme hier et demain.",
+				"Ne doute pas de l'amour du Calvaire",
+				"Qui dans la nuit éclaire ton chemin.",
+				"Tu comprendras, bientôt, tous les mystères",
+				"Quand cesseront ton deuil et ton chagrin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Repose en paix, mon pauvre cœur en larmes,",
+				"Ne sais-tu pas que Jésus est vivant ?",
+				"Il chassera ta crainte et tes alarmes,",
+				"Car à sa voix obéit l'ouragan !",
+				"Même la mort est soumise à ses armes :",
+				"En ton Sauveur, vis éternellement."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean Sibelius",
+			"role": "music"
+		},
+		{
+			"name": "Jacques-A. Blocher",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg331",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

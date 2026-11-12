@@ -1,0 +1,88 @@
+{
+	"id": "vous-qui-gardez-les-murs",
+	"title": "Vous qui gardez les murs",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "374"
+		},
+		{
+			"hymnal": "adf",
+			"number": "368"
+		},
+		{
+			"hymnal": "cd",
+			"number": "326"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous qui gardez les murs de la sainte cité,",
+				"Sentinelles de Dieu, qui veillez à ses portes,",
+				"Ceignez-vous de vérité,",
+				"De valeur, de fermeté,",
+				"Que vos yeux soient perçants",
+				"et que vos voix soient fortes !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voyez-vous l'ennemi",
+				"s'approcher doucement",
+				"Et chercher, en secret,",
+				"à franchir les murailles ?",
+				"Dénoncez-le franchement,",
+				"Et lui livrez fermement",
+				"Du Maître des combats,",
+				"les terribles batailles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Du monde, contre vous, la rage éclatera ;",
+				"Soutenez ses assauts :",
+				"c'est Jésus qui l'ordonne.",
+				"Le moqueur vous maudira,",
+				"Le méchant vous frappera ;",
+				"Mais le Seigneur vous garde",
+				"et tient votre couronne."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg374",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af368",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1127",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

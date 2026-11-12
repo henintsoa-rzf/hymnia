@@ -1,0 +1,130 @@
+{
+	"id": "rien-n-est-plus-haut",
+	"title": "Rien n'est plus haut",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1195"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Plus haut, plus haut, plus haut,",
+				"Lorsque je m’égare",
+				"Et que les ténèbres couvrent la voie,",
+				"Quand tous ces mensonges",
+				"M’attirent et me détournent de toi.",
+				"Oh ! ouh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je lève les yeux et aperçois ta lumière,",
+				"Je regarde à toi et retrouve mes repères.",
+				"Mon âme était perdue,",
+				"Mais tu m’as retrouvé à la croix.",
+				"Oh-ou-oh."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Non, rien n’est plus haut, plus haut, plus haut,",
+				"Rien n’est plus haut que la croix.",
+				"Non rien ne surpasse ton amour pour moi.",
+				"Oh ! ouh ! oh !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Non, rien n’est plus haut, plus haut, plus haut,",
+				"Rien n’est plus haut que la croix.",
+				"Non rien ne dépasse ton amour pour moi.",
+				"Oh ! ouh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! ouh ! oh ! oh !",
+				"Oh ! oh ! oh ! ouh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsque j’ai l’illusion",
+				"De pouvoir me sauver par moi-même,",
+				"Et si je prétends",
+				"Pouvoir m’élever au dessus du ciel,",
+				"Oh ! ouh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’ouvre alors les yeux.",
+				"Ma vie n’est qu’une poussière.",
+				"Face contre terre,",
+				"Je suis au bout de moi-même."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’ai besoin de toi, j’ai besoin de toi,",
+				"Besoin de la croix !",
+				"Oh ! ouh ! oh !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Non, rien n’est plus haut, plus haut, plus haut,",
+				"Rien n’est plus haut que la croix.",
+				"Non rien ne surpasse ton amour pour moi.",
+				"Oh ! ouh ! oh !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Non, rien n’est plus haut, plus haut, plus haut,",
+				"Rien n’est plus haut que la croix.",
+				"Non rien ne dépasse ton amour pour moi.",
+				"Oh ! ouh ! oh ! oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Etienne Charles, Philippe Joseph Bédard et Sébastien Corn",
+			"role": "music"
+		},
+		{
+			"name": "Etienne Charles, Philippe Joseph Bédard et Sébastien Corn",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1195",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

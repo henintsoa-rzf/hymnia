@@ -1,0 +1,145 @@
+{
+	"id": "redites-moi-l-histoire",
+	"title": "Redites-moi l'histoire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "168"
+		},
+		{
+			"hymnal": "adf",
+			"number": "263"
+		},
+		{
+			"hymnal": "cd",
+			"number": "72"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Redites-moi l'histoire",
+				"De l'amour de Jésus ;",
+				"Parlez-moi de la gloire",
+				"Qu'il promet aux élus.",
+				"J'ai besoin qu'on m'instruise,",
+				"Car je suis ignorant,",
+				"Qu'à Christ on me conduise",
+				"Comme un petit enfant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Redites-moi l'histoire,",
+				"Redites-moi l'histoire,",
+				"Redites-moi l'histoire,",
+				"De l'amour de Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Redites-moi l'histoire",
+				"De la crèche à la croix ;",
+				"Éveillez ma mémoire,",
+				"Oublieuse parfois.",
+				"Cette histoire est si belle,",
+				"Dites-la simplement ;",
+				"Elle est toujours nouvelle ;",
+				"Répétez-la souvent."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Redites-moi l'histoire,",
+				"Redites-moi l'histoire,",
+				"Redites-moi l'histoire,",
+				"De l'amour de Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Redites-moi l'histoire",
+				"De mon divin Sauveur ;",
+				"C'est lui dont la victoire",
+				"Affranchit le pécheur.",
+				"Ce glorieux message,",
+				"Oh ! redites-le-moi",
+				"Lorsque je perds courage,",
+				"Lorsque faiblit ma foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Redites-moi l'histoire,",
+				"Redites-moi l'histoire,",
+				"Redites-moi l'histoire,",
+				"De l'amour de Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Redites-moi l'histoire",
+				"Quand le monde trompeur",
+				"Me vend sa vaine gloire,",
+				"Au prix de mon bonheur.",
+				"Et quand loin de la terre,",
+				"Je prendrai mon essor,",
+				"En fermant la paupière,",
+				"Que je l'entende encor !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Redites-moi l'histoire,",
+				"Redites-moi l'histoire,",
+				"Redites-moi l'histoire,",
+				"De l'amour de Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Howard Doane",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg168",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af263",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/878",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"id": "chant-d-adieu",
+	"title": "Chant d'adieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "96"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus soit avec vous à jamais ;",
+				"Vous guidant avec sagesse,",
+				"Vous entourant de tendresse,",
+				"Vous remplissant toujours de sa paix !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec vous toujours, avec vous !",
+				"Oui, qu'Il soit tous les jours avec vous !",
+				"Avec vous toujours, avec vous !",
+				"Jusqu'au jour du dernier rendez-vous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Avec vous au milieu du danger,",
+				"À l'heure de la détresse,",
+				"Qu'il soit votre forteresse,",
+				"Qu'il soit toujours votre bon berger !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec vous toujours, avec vous !",
+				"Oui, qu'Il soit tous les jours avec vous !",
+				"Avec vous toujours, avec vous !",
+				"Jusqu'au jour du dernier rendez-vous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avec vous quand votre ciel est bleu,",
+				"Comme au jour de la tempête,",
+				"Que son cœur soit la retraite",
+				"Où vous retrouvez la paix de Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec vous toujours, avec vous !",
+				"Oui, qu'Il soit tous les jours avec vous !",
+				"Avec vous toujours, avec vous !",
+				"Jusqu'au jour du dernier rendez-vous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Enfin, dans le dernier des combats,",
+				"Pour échanger cette terre",
+				"Contre la maison du Père,",
+				"Que Jésus vous porte dans ses bras !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec vous toujours, avec vous !",
+				"Oui, qu'Il soit tous les jours avec vous !",
+				"Avec vous toujours, avec vous !",
+				"Jusqu'au jour du dernier rendez-vous !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Gould Tomer",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem096",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

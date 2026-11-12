@@ -1,0 +1,59 @@
+{
+	"id": "pour-cet-immense-bonheur",
+	"title": "Pour cet immense bonheur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "109"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour cet immense bonheur, alléluia !",
+				"Que tu as mis dans mon cœur, alléluia !",
+				"Je veux te chanter, Seigneur, alléluia !",
+				"Oui, Jésus est mon Sauveur, alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je le redirai encore, alléluia !",
+				"Que pour moi, Jésus est mort, alléluia !",
+				"Voilà pourquoi je l'adore, alléluia !",
+				"Lui seul est tout mon trésor, alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que chaque jour, à chaque heure, alléluia !",
+				"En moi tu aies ta demeure, alléluia !",
+				"Que ma vie soit une fleur, alléluia !",
+				"Un parfum pour toi, Seigneur, alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gospel song",
+			"role": "music"
+		},
+		{
+			"name": "Josiane de Worm",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem109",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

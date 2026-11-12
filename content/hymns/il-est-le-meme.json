@@ -1,0 +1,47 @@
+{
+	"id": "il-est-le-meme",
+	"title": "Il est le même",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "418"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est le même, hier aujourd'hui.",
+				"Il est le même, je vis pour lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon avenir est entre ses mains,",
+				"Je ne craindrai pas le lendemain,",
+				"Le monde finira un jour,",
+				"Mais Jésus est là pour toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem418",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

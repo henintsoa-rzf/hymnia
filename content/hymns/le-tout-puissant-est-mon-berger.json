@@ -1,0 +1,90 @@
+{
+	"id": "le-tout-puissant-est-mon-berger",
+	"title": "Le Tout-Puissant est mon Berger",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "153"
+		},
+		{
+			"hymnal": "adf",
+			"number": "402"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Tout-Puissant est mon Berger,",
+				"Son amour me fait vivre ;",
+				"Il n'est disette ni danger",
+				"Dont il ne me délivre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chaque matin, il me conduit",
+				"Près des sources d'eau vive,",
+				"Et je m'endors, quand vient la nuit,",
+				"Sous sa garde attentive."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je m'égarais, folle brebis,",
+				"Mais tu suivis ma trace !",
+				"Et dans tes bras tu me repris,",
+				"Amour que rien ne lasse !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et maintenant, je ne veux plus",
+				"Sans toi marcher une heure ;",
+				"Pour vivre et mourir, ô Jésus,",
+				"Sous ta croix je demeure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Car seule elle me guidera",
+				"Dans le sombre passage.",
+				"Mon âme, ô Sauveur, bénira",
+				"Ton amour d'âge en âge !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Bacchus Dykes",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg153",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af402",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "la-priere-d-habacuc",
+	"title": "La prière d'Habacuc",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "577"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, je sais tant de toi.",
+				"J'ai connu ta force et ta splendeur.",
+				"Seigneur, j'en appelle à toi ;",
+				"Reviens manifester ta grandeur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et nous prions, oh nous prions,",
+				"Reviens toucher nos cœurs.",
+				"Viens au fil de nos jours",
+				"Manifester ta gloire.",
+				"Viens au fil de nos jours,",
+				"Nous révéler ta grâce.",
+				"Dans ton amour,",
+				"Reviens bouleverser nos vies."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham",
+			"role": "music"
+		},
+		{
+			"name": "David Durham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem577",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,109 @@
+{
+	"id": "non-par-moi-mais-par-christ-en-moi-yet-not-i-but-through-christ-in-me",
+	"title": "Non par moi, mais par Christ en moi (Yet Not I But Through Christ In Me)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "707"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Merveilleux don de Jésus mon Rédempteur,",
+				"En lui le ciel a donné le meilleur !",
+				"J’ai tout en lui : ma joie, ma paix profonde,",
+				"Amour parfait, justice et liberté.",
+				"Oui, je le crois : mon seul espoir est Jésus,",
+				"Car ma vie à la sienne est unie !",
+				"Ce mystère est divin, et mon chant : « Tout est mien ».",
+				"Non par moi, mais par Christ en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je n’ai pas peur : jamais il n’abandonne.",
+				"Malgré la nuit, il reste mon Sauveur !",
+				"Dans ma faiblesse, sa joie toujours il donne,",
+				"Car mon besoin révèle sa grandeur.",
+				"Oui, je le crois : dans la vallée des larmes,",
+				"Mon Berger me soutient, me conduit.",
+				"Oh, la nuit est vaincue et moi plus que vainqueur !",
+				"Non par moi, mais par Christ en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh, pardonné, ma destinée certaine,",
+				"Le prix payé, mon cœur est assuré !",
+				"Jésus est mort, son sang brise mes chaines,",
+				"Ressuscité, la mort est renversée !",
+				"Oui, je le crois : mon péché est abattu !",
+				"Pour toujours, Jésus me défendra !",
+				"Détaché de mes liens, oui, mon chant : « Libre enfin ! »",
+				"Non par moi, mais par Christ en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"A chaque instant, je brûle de le suivre.",
+				"Il mènera mes pas dans sa demeure.",
+				"Jour après jour, ses forces me font vivre",
+				"Et face au trône, je dirai mon bonheur.",
+				"Oui, je le crois, mon seul espoir est Jésus !",
+				"Que la gloire toujours lui soit rendue !",
+				"Et la course achevée, encore mon chant dira :",
+				"Non par moi, mais par Christ en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jonny Robinson",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jonny Robinson",
+			"role": "music"
+		},
+		{
+			"name": "Rich Thompson",
+			"role": "lyrics"
+		},
+		{
+			"name": "Rich Thompson",
+			"role": "music"
+		},
+		{
+			"name": "Michael Farren",
+			"role": "lyrics"
+		},
+		{
+			"name": "Michael Farren",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-parce-quil-vit/#chant-7",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

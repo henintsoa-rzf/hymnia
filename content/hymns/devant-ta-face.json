@@ -1,0 +1,57 @@
+{
+	"id": "devant-ta-face",
+	"title": "Devant ta face",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "395"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Devant ta face, je veux m'incliner",
+				"Que ta lumière sonde mon cœur.",
+				"J'ai souvent manqué à ta volonté,",
+				"Je viens vers toi demander grâce, grâce.",
+				"Je veux renoncer à tout mon péché",
+				"Que ton Esprit me purifie.",
+				"Qui pourra juger, pourra condamner",
+				"Si toi mon Dieu, tu me fais grâce, grâce."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux te louer,",
+				"Je veux t'adorer",
+				"Et que ma vie",
+				"Te rende gloire.",
+				"Je veux te louer,",
+				"Je veux t'adorer",
+				"Et que ma vie",
+				"Te rende gloire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem395",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

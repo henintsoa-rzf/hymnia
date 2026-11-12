@@ -1,0 +1,61 @@
+{
+	"id": "saint-saint-saint-est-le-seigneur",
+	"title": "Saint, saint, saint est le Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "44"
+		},
+		{
+			"hymnal": "jem",
+			"number": "206",
+			"title": "Saint est le Seigneur"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Saint, saint, saint est le Seigneur,",
+				"Le Dieu des armées !",
+				"Saint, saint, saint est le Seigneur,",
+				"Le Dieu des armées !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La terre est remplie de sa gloire,",
+				"La terre est remplie de sa gloire,",
+				"La terre est remplie de sa gloire !",
+				"Saint est le Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nolene Prince",
+			"role": "music"
+		},
+		{
+			"name": "Nolene Prince",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg044",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem206",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,91 @@
+{
+	"id": "nous-sommes-un-peuple",
+	"title": "Nous sommes un peuple",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "803"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes un peuple,",
+				"un peuple qui chante,",
+				"Un peuple qui prie",
+				"et qui marche dans la lumière ;",
+				"Oui, nous sommes le peuple de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le peuple que Dieu s'est choisi",
+				"Depuis toujours et pour toujours ;",
+				"Le peuple adopté pour la vie,",
+				"Pour une longue histoire d'amour ;",
+				"Il se distingue pour « Je suis »,",
+				"Parce qu'il respecte sa parole,",
+				"Parce qu'il écoute son avis",
+				"Et qu'il comprend quel est son rôle."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes un peuple,",
+				"un peuple qui chante,",
+				"Un peuple qui prie",
+				"et qui marche dans la lumière ;",
+				"Oui, nous sommes le peuple de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le peuple par qui sont bénies",
+				"Toutes les nations de la terre ;",
+				"Il est assoiffé de justice",
+				"Et du royaume de son Père ;",
+				"Il a pleuré sur sa folie,",
+				"De la croix coule son pardon ;",
+				"Il a reçu le Saint-Esprit",
+				"En gage de sa guérison."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes un peuple,",
+				"un peuple qui chante,",
+				"Un peuple qui prie",
+				"et qui marche dans la lumière ;",
+				"Oui, nous sommes le peuple de Dieu.",
+				"Oui, nous sommes le peuple de Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre Lachat",
+			"role": "music"
+		},
+		{
+			"name": "Pierre Lachat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem803",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

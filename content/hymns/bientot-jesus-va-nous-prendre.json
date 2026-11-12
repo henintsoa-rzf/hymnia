@@ -1,0 +1,69 @@
+{
+	"id": "bientot-jesus-va-nous-prendre",
+	"title": "Bientôt Jésus va nous prendre",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "351"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bientôt Jésus va nous prendre,",
+				"Auprès de lui dans le ciel;",
+				"Il nous a dit de l’attendre,",
+				"Jusqu’au jour de son appel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous avons la victoire !",
+				"Nous vivons avec Jésus dans le ciel !",
+				"À toi seul la gloire !",
+				"Oh ! Viens bientôt, Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Péchés, travaux et souffrances,",
+				"Cesseront et pour toujours.",
+				"Devant sa sainte présence,",
+				"Nous chanterons son amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Combattons avec courage,",
+				"Attendant ce jour heureux.",
+				"Et chantons malgré l’orage :",
+				"Nous sommes victorieux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H.E. Alexander",
+			"role": "unspecified"
+		},
+		{
+			"name": "E. Wilson",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1147",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

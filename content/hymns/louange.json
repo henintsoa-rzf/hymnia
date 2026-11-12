@@ -1,0 +1,36 @@
+{
+	"id": "louange",
+	"title": "Louange",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "229"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louange, louange,",
+				"Louange à Jésus notre roi !",
+				"Qui pourra condamner",
+				"Ceux qui sont délivrés",
+				"Et qui marchent dans la sainteté ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie africaine",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem229",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "le-fleuve-de-dieu",
+	"title": "Le fleuve de Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "633"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Des sommets, le torrent descend,",
+				"Sur tout son parcours, il répand la fraîcheur.",
+				"Dans les prairies et dans les vallées,",
+				"La source déborde, la rivière est ici."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le fleuve de Dieu nous invite à danser,",
+				"Le fleuve de Dieu nous remplit de vie.",
+				"Le fleuve de Dieu fait jaillir nos rires.",
+				"Crions de joie, car le fleuve est ici !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le fleuve de Dieu bouillonne de vie,",
+				"Ceux qui s'approchent sont restaurés.",
+				"Ceux qui s'attardent le long des rives",
+				"Reviennent affamés, assoiffés du Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le fleuve de Dieu nous invite à danser,",
+				"Le fleuve de Dieu nous remplit de vie.",
+				"Le fleuve de Dieu fait jaillir nos rires.",
+				"Crions de joie, car le fleuve est ici !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À la montagne, nous retournons,",
+				"Trouver la présence du Seigneur.",
+				"Et sur les bords du torrent, nous courons,",
+				"Nous louons Jésus dans la danse et les rires."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le fleuve de Dieu nous invite à danser,",
+				"Le fleuve de Dieu nous remplit de vie.",
+				"Le fleuve de Dieu fait jaillir nos rires.",
+				"Crions de joie, car le fleuve est ici !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Andy Park",
+			"role": "music"
+		},
+		{
+			"name": "Andy Park",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem633",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

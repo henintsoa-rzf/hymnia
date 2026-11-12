@@ -1,0 +1,113 @@
+{
+	"id": "vases-d-argile",
+	"title": "Vases d'argile",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1144"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous portons ce trésor",
+				"Dans des vases d’argile",
+				"Et la vie de Jésus",
+				"Se manifeste dans nos corps fragiles."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous portons ce trésor",
+				"Dans des vases d’argile",
+				"Et la vie de Jésus",
+				"Se manifeste dans nos corps fragiles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans la détresse, mais non désespérés.",
+				"Persécutés, mais non abandonnés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous portons ce trésor",
+				"Dans des vases d’argile",
+				"Et la vie de Jésus",
+				"Se manifeste dans nos corps fragiles."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous portons ce trésor",
+				"Dans des vases d’argile",
+				"Et la vie de Jésus",
+				"Se manifeste dans nos corps fragiles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Désemparés, mais jamais écrasés.",
+				"Discrédités, mais jamais terrassés."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Ah ! ah ! ah ! ah !",
+				"Ah ! ah ! ah ! ah !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous portons ce trésor",
+				"Dans des vases d’argile",
+				"Et la vie de Jésus",
+				"Se manifeste dans nos corps fragiles."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous portons ce trésor",
+				"Dans des vases d’argile",
+				"Et la vie de Jésus",
+				"Se manifeste dans nos corps fragiles."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1144",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

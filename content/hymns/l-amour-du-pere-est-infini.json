@@ -1,0 +1,89 @@
+{
+	"id": "l-amour-du-pere-est-infini",
+	"title": "L'amour du Père est infini",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1164"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L’amour du Père est infini,",
+				"Plus précieux que beaucoup d’or.",
+				"Il a donné son Fils unique",
+				"Et fait de nous son trésor."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tristesse, souffrance sans mesure,",
+				"Le Père détourne le regard",
+				"Quand de Jésus les meurtrissures",
+				"Nous font entrer dans sa gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voyez cet homme sur la croix !",
+				"Portant mon péché, il meurt.",
+				"Honteux, j’entends aussi ma voix",
+				"S’unir aux cris des moqueurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon péché l’a cloué au bois,",
+				"Il dit : « Tout est accompli. »",
+				"Il insuffle sa vie en moi,",
+				"Ma vie passée est finie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je ne me vanterai de rien,",
+				"Ni force, ni sagesse, ni don,",
+				"Car Jésus-Christ est mon seul bien.",
+				"Sa mort, sa résurrection,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je n’en comprends pas la raison,",
+				"Mais je prends part à son butin.",
+				"Pourtant mon cœur en est certain,",
+				"Il a payé ma rançon."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1164",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

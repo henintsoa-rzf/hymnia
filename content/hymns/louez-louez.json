@@ -1,0 +1,130 @@
+{
+	"id": "louez-louez",
+	"title": "Louez, louez",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "787"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louez l'Éternel, vous, tous ses anges !",
+				"Louez l'Éternel, vous, toutes ses armées !",
+				"Louez l'Éternel, soleil et lune,",
+				"Le Dieu d'Israël vous a créés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Louez l'Éternel feu et grêle,",
+				"Brouillard et neige, louez l'Éternel !",
+				"Vents de tempête, exécutez sa parole !",
+				"Monts et collines, louez l'Éternel !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Car l'Éternel prend plaisir à son peuple.",
+				"Il donne aux humbles le salut pour parure.",
+				"Que les fidèles exultent dans la gloire,",
+				"Et sur leurs lits qu'ils chantent ses louanges !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Louez l'Éternel avec des danses,",
+				"Louez l'Éternel avec des tambourins !",
+				"Louez l'Éternel dansez en sa présence !",
+				"Louez l'Éternel, tapez des mains !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !",
+				"Louez, louez, louez l'Éternel !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que tout ce qui respire loue l'Éternel !",
+				"Que tout ce qui respire loue l'Éternel !",
+				"Que tout ce qui respire loue l'Éternel !",
+				"Que tout ce qui respire loue l'Éternel !",
+				"Louez l'Éternel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem787",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

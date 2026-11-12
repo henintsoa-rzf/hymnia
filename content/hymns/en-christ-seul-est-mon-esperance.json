@@ -1,0 +1,101 @@
+{
+	"id": "en-christ-seul-est-mon-esperance",
+	"title": "En Christ seul est mon espérance.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "65"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En Christ seul est mon espérance ;",
+				"Sa justice est mon assurance.",
+				"Il est devant Dieu mon appui ;",
+				"Je n'en veux point d'autre que Lui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est ma retraite sûre,",
+				"Le Rocher en qui je m'assure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout autre asile est périssable ;",
+				"Tout autre appui n'est que du sable.",
+				"Qui n'a posé ce fondement",
+				"Travaille et souffre vainement."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est ma retraite sûre,",
+				"Le Rocher en qui je m'assure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Lorsque sur moi s'abat l'orage,",
+				"Sa croix ranime mon courage.",
+				"Quand tout faiblit autour de moi,",
+				"Sa présence soutient ma foi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est ma retraite sûre,",
+				"Le Rocher en qui je m'assure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et quand la dernière tempête",
+				"Fondra, terrible, sur ma tête,",
+				"Comme lui, vainqueur de la mort,",
+				"J'entrerai radieux au port."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est ma retraite sûre,",
+				"Le Rocher en qui je m'assure."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Zerubbabel Wywill",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af065",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

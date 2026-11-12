@@ -1,0 +1,109 @@
+{
+	"id": "montre-moi-l-aurore",
+	"title": "Montre-moi l'aurore",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1062"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Montre-moi l'aurore de ce jour si noir,",
+				"Christ en chemin vers le calvaire,",
+				"Jugé par des pécheurs, flagellé, battu,",
+				"Cloué sur une croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O puissance de la croix,",
+				"Christ s'est fait péché pour moi,",
+				"Prend sur lui la colère,",
+				"Je suis pardonné à la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Montre-moi l'angoisse gravée sur ta face,",
+				"Tu portes le poids du péché.",
+				"Nos pensées amères, nos actions mauvaises",
+				"Couronnent ton front sanglant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O puissance de la croix,",
+				"Christ s'est fait péché pour moi,",
+				"Prend sur lui la colère,",
+				"Je suis pardonné à la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La lumière se voile et la terre tressaille,",
+				"Le Créateur courbe la tête.",
+				"Le voile déchiré, les morts se réveillent.",
+				"Il crie : « C'est accompli ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O puissance de la croix,",
+				"Christ s'est fait péché pour moi,",
+				"Prend sur lui la colère,",
+				"Je suis pardonné à la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Montre-moi mon nom gravé dans tes mains",
+				"Transpercées pour me libérer.",
+				"La mort est vaincue, la vie m'est donnée",
+				"Par ton amour parfait."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O puissance de la croix,",
+				"Christ s'est fait péché pour moi,",
+				"Prend sur lui la colère,",
+				"Je suis pardonné à la croix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Keith Getty et Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Keith Getty et Stuart Townend",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1062",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

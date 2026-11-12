@@ -1,0 +1,39 @@
+{
+	"id": "sonde-moi-o-dieu",
+	"title": "Sonde-moi, ô Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "18"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sonde-moi, ô Dieu et connais mon cœur !",
+				"Éprouve-moi, et connais mes pensées !",
+				"Regarde si je suis sur une mauvaise voie,",
+				"Et conduis-moi sur la voie de l'éternité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem018",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

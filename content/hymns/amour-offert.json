@@ -1,0 +1,69 @@
+{
+	"id": "amour-offert",
+	"title": "Amour offert",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "102"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C’est Dieu qui nous aima le premier,",
+				"Il a donné son Fils pour nous sauver.",
+				"Par Jésus nous vivrons pour toujours;",
+				"Il veut que nous, nous l’aimions en retour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Notre Dieu, nous voulons te remercier",
+				"D’avoir offert ton amour le premier",
+				"Dans notre nuit il est venu nous toucher",
+				"Le coeur rempli nous pouvons te chanter !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Non, personne n’a jamais vu Dieu,",
+				"Ce qu’il nous donne est vraiment merveilleux :",
+				"Si l’un et l’autre nous nous aimons",
+				"Il demeure en nous, nous le connaissons !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Donne-nous ô Dieu d’aimer vraiment,",
+				"Garde-nous de tout mauvais sentiment.",
+				"Fais briller dans nos coeurs pour toujours",
+				"Un peu du ciel, un peu de ton amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel et Frédérique Jaccard",
+			"role": "lyrics"
+		},
+		{
+			"name": "Sylvain Jaccard",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-2",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

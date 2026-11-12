@@ -30,6 +30,7 @@ format is in [contracts/content-schema.md](./contracts/content-schema.md).
 | `source` | Source | Required (Principle III). |
 | `rights` | enum | `confirmed`, `public-domain`, `unconfirmed`. Only the first two are published (FR-019). |
 | `corrections` | Correction[] | Log of changes made to the source text. Zero or more. |
+| `alternateSources` | Source[] | Optional (feature 002). Other sources of the same hymn after a merge. Not published. |
 
 **Derived at build time**: `firstLine` (first line of the first section), used by search ranking
 (FR-007).
@@ -48,6 +49,7 @@ format is in [contracts/content-schema.md](./contracts/content-schema.md).
 |-------|------|-------|
 | `hymnal` | string | Must match an existing hymnal `id`. |
 | `number` | string | As printed ("245", "123a", "123 bis"). Unique within its hymnal. |
+| `title` | string, optional | *(Feature 002)* The title this hymnal prints, only when it differs from the hymn's `title` (JEM 232 prints "Ma joie de t'appartenir" for ATG 42 "C'est vers toi que je me tourne"). Searched like the title; shown in the hymnal's list and on the hymn page opened from this entry, with the hymn's title under it. |
 | `sortKey` | integer + string | Derived: numeric part, then suffix. Used for number order (FR-012) and next/previous (FR-016). |
 
 ### Credit (Crédit)
@@ -100,7 +102,12 @@ hymnals; in text search it appears once with both references (spec edge cases).
 4. Every text field is in Unicode NFC.
 5. Every hymn has at least one section with at least one non-empty line.
 6. Hymns with `rights: unconfirmed` are excluded from the published output, and the build lists
-   how many were excluded.
+   how many were excluded. Exception (constitution III, personal use): with
+   `HYMNIA_PERSONAL_USE=1` in the git-ignored `.env`, they are published too and the build
+   says how many; such a build is never distributed.
+7. *(Feature 002)* No unknown field anywhere (schemas are strict).
+8. *(Feature 002)* `redirects.json`: a source is never an existing hymn id; a target is an
+   existing hymn id and never itself redirected.
 
 ## Lifecycle
 
@@ -114,7 +121,7 @@ One document per hymn, with these indexed fields:
 
 | Field | Boost | Content |
 |-------|-------|---------|
-| `title` | 3 | Hymn title |
+| `title` | 3 | Hymn title, then every other title its entries print (`HymnalEntry.title`), one per line |
 | `firstLine` | 2 | First line of the first section |
 | `lyrics` | 1 | All section lines joined |
 

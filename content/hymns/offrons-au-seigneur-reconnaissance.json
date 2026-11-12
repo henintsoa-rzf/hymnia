@@ -1,0 +1,119 @@
+{
+	"id": "offrons-au-seigneur-reconnaissance",
+	"title": "Offrons au Seigneur reconnaissance",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "927"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Offrons au Seigneur reconnaissance.",
+				"Son amour dure à jamais,",
+				"Car il est bon, il est au-dessus de tout.",
+				"Son amour dure à jamais.",
+				"Chantons, louons.",
+				"Offrons au Seigneur reconnaissance.",
+				"Son amour dure à jamais,",
+				"Car il est bon, il est au-dessus de tout.",
+				"Son amour dure à jamais.",
+				"Chantons, louons,",
+				"Chantons, louons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À jamais Dieu est fidèle,",
+				"À jamais Dieu est fort,",
+				"À jamais Dieu est avec nous, à jamais.",
+				"À jamais Dieu est fidèle,",
+				"À jamais Dieu est fort,",
+				"À jamais Dieu est avec nous, à jamais.",
+				"À jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"D'une main puissante et d'un bras tendu,",
+				"Son amour dure à jamais.",
+				"Il nous donne une vie nouvelle.",
+				"Son amour dure à jamais.",
+				"Chantons, louons.",
+				"D'une main puissante et d'un bras tendu,",
+				"Son amour dure à jamais.",
+				"Il nous donne une vie nouvelle.",
+				"Son amour dure à jamais.",
+				"Chantons, louons,",
+				"Chantons, louons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À jamais Dieu est fidèle,",
+				"À jamais Dieu est fort,",
+				"À jamais Dieu est avec nous, à jamais.",
+				"À jamais Dieu est fidèle,",
+				"À jamais Dieu est fort,",
+				"À jamais Dieu est avec nous, à jamais.",
+				"À jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Du lever du soleil jusqu'à son coucher,",
+				"Son amour dure à jamais.",
+				"Par la grâce de Dieu, nous persévérons.",
+				"Son amour dure à jamais.",
+				"Chantons, louons.",
+				"Du lever du soleil jusqu'à son coucher,",
+				"Son amour dure à jamais.",
+				"Par la grâce de Dieu, nous persévérons.",
+				"Son amour dure à jamais.",
+				"Chantons, louons,",
+				"Chantons, louons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À jamais Dieu est fidèle,",
+				"À jamais Dieu est fort,",
+				"À jamais Dieu est avec nous, à jamais.",
+				"À jamais Dieu est fidèle,",
+				"À jamais Dieu est fort,",
+				"À jamais Dieu est avec nous, à jamais.",
+				"À jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Tomlin",
+			"role": "music"
+		},
+		{
+			"name": "Chris Tomlin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem927",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

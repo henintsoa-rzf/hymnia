@@ -1,0 +1,65 @@
+{
+	"id": "oh-jesus-mon-sauveur",
+	"title": "Oh ! Jésus, mon Sauveur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "640"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! Jésus, mon Sauveur,",
+				"Seigneur, nul n'est comme toi.",
+				"Jour après jour, je te louerai,",
+				"Car ton amour est merveilleux.",
+				"Mon abri, mon refuge,",
+				"Mon réconfort, mon rocher",
+				"Tout ce qui vit, ce que je suis,",
+				"Ne cesse de t'adorer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chante au Seigneur,",
+				"crie de joie terre entière.",
+				"À Dieu la gloire, la puissance et l'honneur.",
+				"Les monts s'inclinent et les flots rugissent",
+				"À l'écho de ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je vois tes œuvres",
+				"Et mon cœur crie de joie ;",
+				"Je t'aimerai, je tiendrai par la foi.",
+				"Rien ne pourrait égaler",
+				"Tes promesses pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Darlene Zschech",
+			"role": "music"
+		},
+		{
+			"name": "Darlene Zschech",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem640",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,58 @@
+{
+	"id": "o-seigneur-dieu-d-israel",
+	"title": "O Seigneur, Dieu d'Israël",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "468"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Seigneur, Dieu d'Israël,",
+				"Qui est semblable à toi dans les cieux ?",
+				"Qui est semblable à toi sur la terre ?",
+				"O Seigneur, Dieu d'Israël,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu gardes ton alliance et ta bienveillance",
+				"Envers ceux qui t'aiment",
+				"Et marchent devant toi de tout leur cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Seigneur, Dieu d'Israël,",
+				"Qui est semblable à toi dans les cieux ?",
+				"Qui est semblable à toi sur la terre ?",
+				"O Seigneur, Dieu d'Israël."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem468",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

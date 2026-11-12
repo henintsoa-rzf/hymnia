@@ -1,0 +1,105 @@
+{
+	"id": "mon-dieu-est-si-bon",
+	"title": "Mon Dieu est si bon",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "339"
+		},
+		{
+			"hymnal": "jem",
+			"number": "133"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Dieu est si bon,",
+				"il prend bien soin de moi :",
+				"Ce Dieu plein d'amour,",
+				"sais-tu qu'il pense à toi ?",
+				"Il voudrait t'aider dans tes difficultés ;",
+				"Ne tarde pas, viens à lui tel que tu es."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu sait si bien ce qui te semble lourd,",
+				"Qui te fait mal, te trouble chaque jour.",
+				"Il connaît tes chagrins,",
+				"ta peur du lendemain ;",
+				"Il veut que tout concoure à notre bien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il vit à jamais, c'est un Dieu tout-puissant,",
+				"Il te répondra, viens à lui simplement.",
+				"Quand tout semble noir, triste et désespéré,",
+				"Sais-tu que, là-haut, tu n'es pas oublié ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu sait si bien ce qui te semble lourd,",
+				"Qui te fait mal, te trouble chaque jour.",
+				"Il connaît tes chagrins,",
+				"ta peur du lendemain ;",
+				"Il veut que tout concoure à notre bien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon Dieu t'aidera, il conduira tes pas,",
+				"Si tu veux marcher, appuyé sur son bras.",
+				"Alors, ne crains plus, en lui, sois affermi,",
+				"Il accomplira tout ce qu'il a promis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu sait si bien ce qui te semble lourd,",
+				"Qui te fait mal, te trouble chaque jour.",
+				"Il connaît tes chagrins,",
+				"ta peur du lendemain ;",
+				"Il veut que tout concoure à notre bien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "I.-M. Hörnberg",
+			"role": "music"
+		},
+		{
+			"name": "H. Lepczinski",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg339",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem133",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

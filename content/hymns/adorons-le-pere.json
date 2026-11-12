@@ -1,0 +1,77 @@
+{
+	"id": "adorons-le-pere",
+	"title": "Adorons le Père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "839"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Adorons le Père dans la vérité",
+				"En obéissant, avec intégrité.",
+				"Adorons le Père conduits par l'Esprit",
+				"Comme des enfants remplis de sa vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le seul Roi si grand,",
+				"Tu es le seul Dieu si bon.",
+				"Tu mérites tout de nous,",
+				"Nous t'adorons pour toujours.",
+				"Nous proclamons: tu es grand,",
+				"Nous déclarons: tu es bon.",
+				"Tu mérites tout de nous,",
+				"Nous t'exaltons pour toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Adorons Jésus, plions les genoux,",
+				"Offrons-lui nos vies, abandonnons tout.",
+				"Adorons Jésus dans la sainteté,",
+				"Vêtus de l'habit de la pureté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le seul Roi si grand,",
+				"Tu es le seul Dieu si bon.",
+				"Tu mérites tout de nous,",
+				"Nous t'adorons pour toujours.",
+				"Nous proclamons: tu es grand,",
+				"Nous déclarons: tu es bon.",
+				"Tu mérites tout de nous,",
+				"Nous t'exaltons pour toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem839",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

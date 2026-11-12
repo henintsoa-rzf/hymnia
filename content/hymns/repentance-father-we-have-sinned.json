@@ -1,0 +1,77 @@
+{
+	"id": "repentance-father-we-have-sinned",
+	"title": "Repentance (Father, We Have Sinned)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "304"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Père, nous péchons, en actes, et en pensées,",
+				"Par faiblesse, ignorance ou délibérément,",
+				"Péchés contre nos prochains, contre toi, ô Dieu,",
+				"Mais, tristes dans nos cœurs, nous retournons à toi, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Père des nations tu pleures en nous voyant :",
+				"Esclaves de nos envies et de nos ambitions",
+				"Nous arrachons, nous exploitons, nous dominons.",
+				"Oh, jusqu’à quand tant d’égoïsme, de haine et d’injustice ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Père, nous avons besoin de ton pardon,",
+				"Nous venons devant toi et nous reconnaissons",
+				"Que sans ta grâce et sans la mort de Jésus-Christ",
+				"Nous serions perdus, sans espoir au jour du jugement."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Père, l’homme qui se sait pauvre tu le bénis.",
+				"Nous avons faim et soif, O Dieu, de l’infini.",
+				"Viens remplir notre vide, viens contenir nos joies",
+				"Jusqu’au jour où nos mots, nos gestes, montreront ton cœur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-4",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,110 @@
+{
+	"id": "il-est-ne-le-roi-du-monde",
+	"title": "Il est né, le Roi du monde",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "114"
+		},
+		{
+			"hymnal": "adf",
+			"number": "88"
+		},
+		{
+			"hymnal": "cd",
+			"number": "75",
+			"title": "Ii est né, le roi du monde"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est né le Roi du monde",
+				"Le Christ, le Libérateur !",
+				"Que la terre au ciel réponde",
+				"D'une voix, d'un même cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans l'étable misérable",
+				"Contemplez ce nouveau né !",
+				"À la terre, ô mystère,",
+				"Dieu lui-même s'est donné !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À tes pieds, Roi sans couronne,",
+				"Jésus, nous courbons nos fronts.",
+				"Ta crèche est pour nous un trône,",
+				"C'est là que nous t'adorons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans l'étable misérable",
+				"Contemplez ce nouveau né !",
+				"À la terre, ô mystère,",
+				"Dieu lui-même s'est donné !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En notre âme viens renaître,",
+				"O Christ, elle a soif de toi !",
+				"Elle veut t'avoir pour Maître,",
+				"Humble enfant, glorieux Roi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dans l'étable misérable",
+				"Contemplez ce nouveau né !",
+				"À la terre, ô mystère,",
+				"Dieu lui-même s'est donné !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James McGranahan",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg114",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af088",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/881",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

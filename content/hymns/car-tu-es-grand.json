@@ -1,0 +1,43 @@
+{
+	"id": "car-tu-es-grand",
+	"title": "Car tu es grand",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "13"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car tu es grand,",
+				"Et tu opères des prodiges ;",
+				"Toi seul, tu es Dieu.",
+				"Enseigne-moi tes voies ;",
+				"O Éternel ! je marcherai dans ta fidélité.",
+				"Dispose mon cœur à la crainte de ton nom.",
+				"Je te louerai de tout mon cœur,",
+				"Seigneur, mon Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem013",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

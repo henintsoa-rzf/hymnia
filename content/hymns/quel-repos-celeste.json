@@ -1,0 +1,121 @@
+{
+	"id": "quel-repos-celeste",
+	"title": "Quel repos céleste",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "315"
+		},
+		{
+			"hymnal": "adf",
+			"number": "411"
+		},
+		{
+			"hymnal": "cd",
+			"number": "227"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel repos céleste, Jésus, d'être à toi !",
+				"À toi pour la mort et la vie ;",
+				"Dans les jours mauvais de chanter avec foi :",
+				"Tout est bien, ma paix est infinie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel repos, quel repos,",
+				"quel repos, quel céleste repos !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quel repos céleste ! mon fardeau n'est plus !",
+				"Libre par le sang du Calvaire.",
+				"Tous mes ennemis, Jésus les a vaincus :",
+				"Gloire et louange à Dieu notre Père !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel repos, quel repos,",
+				"quel repos, quel céleste repos !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quel repos céleste ! Tu conduis mes pas,",
+				"Tu me combles de tes richesses.",
+				"Dans ton grand amour, chaque jour tu sauras",
+				"Déployer envers moi tes tendresses."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel repos, quel repos,",
+				"quel repos, quel céleste repos !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quel repos céleste, quand enfin, Seigneur,",
+				"Auprès de toi, j'aurai ma place :",
+				"Après les travaux, les combats, la douleur,",
+				"À jamais je pourrai voir ta face !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel repos, quel repos,",
+				"quel repos, quel céleste repos !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg315",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af411",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1056",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

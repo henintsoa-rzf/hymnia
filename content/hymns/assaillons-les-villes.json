@@ -1,0 +1,114 @@
+{
+	"id": "assaillons-les-villes",
+	"title": "Assaillons les villes",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "379"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Assaillons les villes,",
+				"Franchissons les murailles.",
+				"Nous sommes l'armée de Dieu",
+				"Qui combat dans les cieux,",
+				"Qui ordonne aux montagnes:",
+				"Jetez-vous dans la mer",
+				"Et vous esprits méchants",
+				"Retournez au désert."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes l'armée du Roi,",
+				"Nous sommes l'armée du Roi,",
+				"Devant l'armée du Roi,",
+				"Marche le Roi des rois.",
+				"Nous sommes l'armée du Roi,",
+				"Nous sommes l'armée du Roi,",
+				"Devant l'armée du Roi,",
+				"Marche le Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rien sur notre passage",
+				"Ne pourra subsister.",
+				"Les lieux que nous foulons,",
+				"Dieu nous les a donnés.",
+				"Satan, nous t'avons vu",
+				"Cesse de te cacher,",
+				"Car au nom de Jésus",
+				"Nous t'avons démasqué."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes l'armée du Roi,",
+				"Nous sommes l'armée du Roi,",
+				"Devant l'armée du Roi,",
+				"Marche le Roi des rois.",
+				"Nous sommes l'armée du Roi,",
+				"Nous sommes l'armée du Roi,",
+				"Devant l'armée du Roi,",
+				"Marche le Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand l'Esprit nous saisit,",
+				"Nous nous hâtons de dire",
+				"Les mots de prophétie",
+				"Que Dieu veut accomplir.",
+				"Dieu parle et tout arrive",
+				"Comme il l'a annoncé,",
+				"Jamais rien ni personne",
+				"Ne pourrait l'arrêter."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous sommes l'armée du Roi,",
+				"Nous sommes l'armée du Roi,",
+				"Devant l'armée du Roi,",
+				"Marche le Roi des rois.",
+				"Nous sommes l'armée du Roi,",
+				"Nous sommes l'armée du Roi,",
+				"Devant l'armée du Roi,",
+				"Marche le Roi des rois,",
+				"Le Roi des rois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem379",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

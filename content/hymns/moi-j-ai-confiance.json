@@ -1,0 +1,41 @@
+{
+	"id": "moi-j-ai-confiance",
+	"title": "Moi, j'ai confiance",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "182"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Moi, j'ai confiance en ta bonté,",
+				"Moi, j'ai confiance en ta bonté.",
+				"J'ai de l'allégresse dans le cœur",
+				"À cause de ton salut ;",
+				"Je chante à l'Éternel,",
+				"Car il m'a fait du bien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre van Woerden",
+			"role": "music"
+		},
+		{
+			"name": "Pierre van Woerden",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem182",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,52 @@
+{
+	"id": "el-shaddai-jem-618",
+	"title": "El Shaddaï",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "618"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"El Shaddaï, El Shaddaï,",
+				"Dieu nourrit, rassasie.",
+				"Dieu Tout-puissant,",
+				"Tout-suffisant,",
+				"Plein de bonté, d'autorité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu, tu fortifies ton peuple.",
+				"Comme un père et une mère, tu me nourris.",
+				"Tu m'appelles « mon enfant ».",
+				"Ravis de ton regard, je vis",
+				"El Shaddaï.",
+				"Tu donnes vie, El Shad daï."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem618",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

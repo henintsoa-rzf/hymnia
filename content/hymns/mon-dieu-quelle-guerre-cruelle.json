@@ -1,0 +1,77 @@
+{
+	"id": "mon-dieu-quelle-guerre-cruelle",
+	"title": "Mon Dieu, quelle guerre cruelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "200"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Dieu ! quelle guerre cruelle !",
+				"Je trouve deux hommes en moi",
+				"L'un veut que, plein d'amour pour Toi,",
+				"Mon cœur te soit toujours fidèle ;",
+				"L'autre, à tes volontés, rebelle,",
+				"Se révolte contre ta loi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'un, tout esprit et tout céleste,",
+				"Veut qu'au ciel sans cesse attaché,",
+				"Et des biens éternels touché,",
+				"Je compte pour rien tout le reste ;",
+				"Et l'autre, par son poids funeste,",
+				"Me tient vers la terre penché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Hélas ! En guerre avec moi-même,",
+				"Où pourrai-je trouver la paix ?",
+				"Je veux et n'accomplis jamais ;",
+				"Je veux, mais, ô misère extrême !",
+				"Je ne fais pas le bien que j'aime",
+				"Et je fais le mal que je hais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O grâce ! ô rayon salutaire !",
+				"Viens me mettre avec moi d'accord ;",
+				"Et, domptant, par un doux effort,",
+				"Cet homme qui t'est si contraire,",
+				"Fais ton esclave volontaire",
+				"De cet esclave de la mort !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joseph Mainzer",
+			"role": "music"
+		},
+		{
+			"name": "Jean Racine",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af200",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

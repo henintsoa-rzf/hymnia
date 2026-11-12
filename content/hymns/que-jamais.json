@@ -1,0 +1,87 @@
+{
+	"id": "que-jamais",
+	"title": "Que jamais",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "882"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que jamais ô mon Seigneur,",
+				"Je ne perde ma saveur.",
+				"Que jamais mon bon berger,",
+				"Je ne sois plus passionné.",
+				"Je veux vivre de ta grâce.",
+				"Je veux te donner la place",
+				"Qui te revient dans mon cœur :",
+				"La première, ô mon Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Donne-moi un cœur qui aime,",
+				"Un cœur fidèle et zélé,",
+				"Qui donne plus qu'il ne prend,",
+				"Un cœur qui t'est attaché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que jamais ô Dieu vivant,",
+				"Je ne devienne distant.",
+				"Que jamais je ne brille plus",
+				"De ta lumière, ô Jésus.",
+				"Je ne peux me contenter",
+				"De médiocres destinées.",
+				"O que ta divine flamme",
+				"Embrase toujours mon âme."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Donne-moi un cœur qui aime,",
+				"Un cœur fidèle et zélé,",
+				"Qui donne plus qu'il ne prend,",
+				"Un cœur qui t'est attaché."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je veux être entre tes mains",
+				"Comme le sel de la terre,",
+				"Pour les autres une lumière",
+				"Et t'adorer à jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Daniel Pialat",
+			"role": "music"
+		},
+		{
+			"name": "Daniel Pialat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem882",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

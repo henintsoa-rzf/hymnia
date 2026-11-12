@@ -1,0 +1,101 @@
+{
+	"id": "viens-a-la-croix-ame-perdue",
+	"title": "Viens à la croix, âme perdue.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "220"
+		},
+		{
+			"hymnal": "cd",
+			"number": "307",
+			"title": "Viens à la croix"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens à la croix, âme perdue,",
+				"Brebis sans berger ;",
+				"Tu verras une main tendue",
+				"Pour te sauver."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens à la croix, âme souillée,",
+				"Pécheur repentant ;",
+				"Là tu seras purifiée",
+				"En un instant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens à la croix, âme chargée",
+				"De pesants fardeaux ;",
+				"Là tu trouveras, soulagée,",
+				"Le vrai repos."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens à la croix, âme affaiblie,",
+				"Chrétien chancelant ;",
+				"Là se trouvent force, énergie,",
+				"Secours puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Viens à la croix, âme assiégée",
+				"Par le Tentateur ;",
+				"Là ta victoire est assurée",
+				"Dans le Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Dans tes soucis, tes deuils, tes larmes,",
+				"Entends cette voix",
+				"Qui te dit : Viens dans tes alarmes,",
+				"Viens à la Croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ethelbert William Bullinger",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af220",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1109",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

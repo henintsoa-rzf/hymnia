@@ -1,0 +1,70 @@
+{
+	"id": "notre-barque-est-en-danger",
+	"title": "Notre barque est en danger",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "332"
+		},
+		{
+			"hymnal": "adf",
+			"number": "624"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre barque est en danger :",
+				"Prends, Seigneur, la barre en mains.",
+				"À toi sont nos lendemains ;",
+				"Toi seul peux vraiment nous protéger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre barque est en danger :",
+				"Aimons mieux de jour en jour ;",
+				"Notre force est dans l'amour,",
+				"Et le tien, Seigneur, ne peut changer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Notre barque est en danger :",
+				"Des orages et des flots ;",
+				"Mais en toi quel saint repos !",
+				"Vers le port tu veux nous diriger."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ulrich Zwingli",
+			"role": "music"
+		},
+		{
+			"name": "D. Meylan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg332",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af624",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

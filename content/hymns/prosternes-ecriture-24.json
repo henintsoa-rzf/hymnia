@@ -1,0 +1,119 @@
+{
+	"id": "prosternes-ecriture-24",
+	"title": "Prosternés",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "24"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voyez Christ, le Fils de l’homme,",
+				"Éclatant de beauté,",
+				"Qui tient les clés de la mort,",
+				"Le premier, le dernier.",
+				"Ses yeux brûlent d’un feu saint ;",
+				"Qui pourrait le contempler ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prosternés devant le Roi,",
+				"Tremblez devant sa gloire",
+				"Et sa splendeur !",
+				"Adorez devant le trône",
+				"Celui dont le royaume",
+				"Dure à jamais !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Honorez le juste Roi,",
+				"Qui, ceint d’autorité,",
+				"Viendra achever Satan,",
+				"L’écrasant sous ses pieds.",
+				"Devant ce suprême Juge,",
+				"Qui pourrait se relever ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Louez l’Agneau qui est digne,",
+				"Car il fut immolé",
+				"Pour laver de tout péché",
+				"Les nations rachetées.",
+				"Dieu livré en sacrifice -",
+				"Qui l’aurait imaginé ?"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"[Hommes] Saint est le Seigneur, [Femmes] Louange et honneur",
+				"[Hommes] Saint est le Seigneur, [Femmes] Au glorieux Vainqueur !",
+				"[Hommes] Saint est le Seigneur, [Femmes] Digne es tu,",
+				"[Ensemble] Amen !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/prosternes",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

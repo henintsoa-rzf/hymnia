@@ -1,0 +1,70 @@
+{
+	"id": "comme-une-biche",
+	"title": "Comme une biche",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "249"
+		},
+		{
+			"hymnal": "cd",
+			"number": "217"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comme une biche soupire",
+				"Après des courants d'eau, courants d'eau.",
+				"Comme une biche soupire",
+				"Après des courants d'eau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ainsi mon âme soupire après toi,",
+				"Soupire après toi, ô Dieu.",
+				"Mon âme a soif de Dieu,",
+				"Du Dieu vivant, Dieu vivant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comme une biche soupire",
+				"Après des courants d'eau, courants d'eau.",
+				"Comme une biche soupire",
+				"Après des courants d'eau."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John van den Hogen",
+			"role": "music"
+		},
+		{
+			"name": "John van den Hogen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem249",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1168",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

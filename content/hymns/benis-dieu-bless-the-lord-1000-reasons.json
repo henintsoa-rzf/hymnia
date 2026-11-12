@@ -1,0 +1,84 @@
+{
+	"id": "benis-dieu-bless-the-lord-1000-reasons",
+	"title": "Bénis Dieu (Bless the Lord – 1000 Reasons)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "613"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bénis Dieu,",
+				"Ô mon âme, ô mon âme,",
+				"Rends gloire à son saint nom.",
+				"Oh ! Chante comme jamais,",
+				"Ô mon âme, rends gloire à son saint nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voici l’aurore, l’aube d’un nouveau jour.",
+				"Pour toi un chant doit s’élever.",
+				"Devant ce qui m’attend",
+				"Et ce qui pourrait arriver,",
+				"Qu’à la fin du jour je te chante encore."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Riche en bonté et lent à la colère,",
+				"Ton nom est grand et ton cœur est bon.",
+				"Je ne cesserai de chanter tes bontés,",
+				"J’ai des milliers de raisons pour louer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Un jour viendra, je n’aurai plus de forces,",
+				"Mon heure venue, la fin sonnera.",
+				"Pourtant mon âme chantera tes louanges.",
+				"Pendant des milliers d’années,",
+				"Oui, sans fin."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Redman",
+			"role": "lyrics"
+		},
+		{
+			"name": "Matt Redman",
+			"role": "music"
+		},
+		{
+			"name": "Jonas Myrin",
+			"role": "lyrics"
+		},
+		{
+			"name": "Jonas Myrin",
+			"role": "music"
+		},
+		{
+			"name": "LTC",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-13",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

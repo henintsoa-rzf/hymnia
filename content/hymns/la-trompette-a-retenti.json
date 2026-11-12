@@ -1,0 +1,67 @@
+{
+	"id": "la-trompette-a-retenti",
+	"title": "La trompette a retenti",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "354"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La trompette a retenti :",
+				"(Écoutez, écoutez),",
+				"Du ciel résonne ce cri :",
+				"Le Seigneur revient !",
+				"Oh ! Toi qui sommeilles",
+				"(Écoutez, écoutez),",
+				"Viens et te réveille :",
+				"Le Seigneur revient !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Entendez-vous le clairon ?",
+				"(Écoutez, écoutez),",
+				"L’Épouse en connaît le son :",
+				"Jésus vient bientôt !",
+				"Et dans l’allégresse",
+				"(Écoutez, écoutez),",
+				"Son coeur dit sans cesse :",
+				"Jésus, viens bientôt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La trompette retentit :",
+				"(Écoutez, écoutez),",
+				"Levez-vous, il est minuit,",
+				"Voici l’Époux vient !",
+				"Au banquet de fête",
+				"(Écoutez, écoutez),",
+				"Que chacun s’apprête :",
+				"Voici, l’Époux vient !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Amélie Humbert",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1150",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

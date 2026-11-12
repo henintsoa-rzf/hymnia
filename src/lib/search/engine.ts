@@ -8,25 +8,45 @@ import { normalizeNumber } from '../domain/numbering';
 import type { Catalog, PublishedEntry, PublishedHymn } from '../domain/schema';
 import { buildExcerpt } from './excerpt';
 import { FIELD_BOOST, INDEX_OPTIONS, type IndexDocument } from './index-config';
-import { allowsPrefix, allowsTypo, allTokensMatch } from './match';
+import { allowsPrefix, allowsTypo, allTokensMatch, phraseMatches } from './match';
 import { compactKey, normalizeText, tokenize } from './normalize';
 import { parseQuery } from './query-parser';
 import type { ResultRef, SearchRequest, SearchResponse, SearchResult, Tier } from './types';
 
 export const DEFAULT_LIMIT = 50;
+/** Lyrics hits re-ordered by phrase / every word (see lyricsStrength). */
+const STRENGTH_CHECKS = 200;
 
 export type SearchEngine = {
 	catalog: CatalogApi;
 	search(request: SearchRequest): SearchResponse;
 };
 
+/** One title of a hymn and the entries that print it (HymnalEntry.title). */
+type PreparedTitle = { title: string; words: string[]; entries: PublishedEntry[] };
+
 type Prepared = {
 	hymn: PublishedHymn;
-	title: string;
-	titleWords: string[];
+	/** The hymn's title first, then each other title its hymnals print. */
+	titles: PreparedTitle[];
 	firstLineWords: string[];
 	lines: string[];
+	/** Normalised words of all the lyrics, in order (phrase matching). */
+	lyricsWords: string[];
 };
+
+function prepareTitles(hymn: PublishedHymn): PreparedTitle[] {
+	const byTitle = new Map<string, PreparedTitle>();
+	const add = (raw: string, entry?: PublishedEntry) => {
+		const title = normalizeText(raw);
+		let t = byTitle.get(title);
+		if (!t) byTitle.set(title, (t = { title, words: tokenize(raw), entries: [] }));
+		if (entry) t.entries.push(entry);
+	};
+	add(hymn.title);
+	for (const e of hymn.entries) add(e.title ?? hymn.title, e);
+	return [...byTitle.values()];
+}
 
 const now = () => (typeof performance !== 'undefined' ? performance.now() : Date.now());
 
@@ -34,7 +54,8 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 	const catalog = createCatalog(catalogData);
 	const index = MiniSearch.loadJSON<IndexDocument>(indexJson, INDEX_OPTIONS);
 
-	const hymnals = catalog.getHymnals();
+	// Every hymnal, even one with no published hymn yet, so "JEM 245" reports "not found in JEM".
+	const hymnals = catalogData.hymnals;
 	const order = new Map(hymnals.map((h, i) => [h.id, i]));
 	const abbr = new Map(hymnals.map((h) => [h.id, h.abbreviations[0]]));
 
@@ -49,10 +70,10 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 			hymn.id,
 			{
 				hymn,
-				title: normalizeText(hymn.title),
-				titleWords: tokenize(hymn.title),
+				titles: prepareTitles(hymn),
 				firstLineWords: tokenize(hymn.firstLine),
-				lines: hymn.sections.flatMap((s) => s.lines)
+				lines: hymn.sections.flatMap((s) => s.lines),
+				lyricsWords: tokenize(hymn.sections.flatMap((s) => s.lines).join(' '))
 			}
 		])
 	);
@@ -72,13 +93,22 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 		number: e.number
 	});
 
-	/** Entry in the first selected hymnal, otherwise the hymnal with the lowest sortOrder. */
-	function primaryEntry(entries: PublishedEntry[], selected: string[]): PublishedEntry {
+	/**
+	 * Entry in the first selected hymnal, otherwise the hymnal with the lowest sortOrder. When the
+	 * query matched a title that only some hymnals print, one of those entries.
+	 */
+	function primaryEntry(
+		entries: PublishedEntry[],
+		selected: string[],
+		preferred?: PublishedEntry[]
+	): PublishedEntry {
+		const pool = preferred ? entries.filter((e) => preferred.includes(e)) : [];
+		const candidates = pool.length > 0 ? pool : entries;
 		for (const id of selected) {
-			const entry = entries.find((e) => e.hymnal === id);
+			const entry = candidates.find((e) => e.hymnal === id);
 			if (entry) return entry;
 		}
-		return entries[0];
+		return candidates[0];
 	}
 
 	function result(
@@ -89,7 +119,8 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 	): SearchResult {
 		return {
 			hymnId: hymn.id,
-			title: hymn.title,
+			// The title printed by the hymnal the result opens on.
+			title: primary.title ?? hymn.title,
 			refs: entries.map(toRef),
 			primaryRef: { hymnal: primary.hymnal, number: primary.number },
 			tier
@@ -112,14 +143,39 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 
 	/* ---------- text searches ---------- */
 
-	function tierOf(p: Prepared, normalizedQuery: string, tokens: string[]): Tier {
-		if (p.title === normalizedQuery) return 2;
-		if (allTokensMatch(tokens, p.titleWords)) return 3;
-		if (allTokensMatch(tokens, p.firstLineWords)) return 4;
-		return 5;
+	/** Tier of a hit, and for a title match, the entries that print the matched title. */
+	function tierOf(
+		p: Prepared,
+		normalizedQuery: string,
+		tokens: string[]
+	): { tier: Tier; entries?: PublishedEntry[] } {
+		const exact = p.titles.find((t) => t.title === normalizedQuery);
+		if (exact) return { tier: 2, entries: exact.entries };
+		const words = p.titles.find((t) => allTokensMatch(tokens, t.words));
+		if (words) return { tier: 3, entries: words.entries };
+		if (allTokensMatch(tokens, p.firstLineWords)) return { tier: 4 };
+		return { tier: 5 };
 	}
 
-	type Ranked = { p: Prepared; tier: Tier; rank: number };
+	/**
+	 * Order inside the lyrics tier (5): the query as a phrase of the lyrics, then every query word
+	 * somewhere in the lyrics, then the rest. Without it, a full line of lyrics ranked below
+	 * hymns that only had one of its words in their title (the title weighs 3 times more).
+	 */
+	function lyricsStrength(p: Prepared, tokens: string[]): number {
+		if (tokens.length > 1 && phraseMatches(tokens, p.lyricsWords)) return 0;
+		if (allTokensMatch(tokens, p.lyricsWords)) return 1;
+		return 2;
+	}
+
+	type Ranked = {
+		p: Prepared;
+		tier: Tier;
+		rank: number;
+		strength?: number;
+		/** Entries printing the title that matched (tiers 2–3). */
+		entries?: PublishedEntry[];
+	};
 
 	const isAllowed = (p: Prepared, allowed: Set<string> | null) =>
 		!allowed || p.hymn.entries.some((e) => allowed.has(e.hymnal));
@@ -135,18 +191,28 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 			fuzzy: (term) => (allowsTypo(term) ? 1 : false),
 			filter: allowed ? (hit) => isAllowed(prepared.get(hit.id)!, allowed) : undefined
 		});
+		let checked = 0;
 		return hits.map((hit, rank) => {
 			const p = prepared.get(hit.id)!;
-			return { p, tier: tierOf(p, normalizedQuery, tokens), rank };
+			const { tier, entries } = tierOf(p, normalizedQuery, tokens);
+			// Only the best lyrics hits are re-ordered (performance): a hymn holding the whole
+			// query is always among them, since the index already ranks it by the words it holds.
+			const strength = tier === 5 && checked++ < STRENGTH_CHECKS ? lyricsStrength(p, tokens) : 2;
+			return { p, tier, rank, strength, entries };
 		});
 	}
 
 	function rankShort(text: string, allowed: Set<string> | null): Ranked[] {
 		const q = normalizeText(text);
-		return [...prepared.values()]
-			.filter((p) => p.title.startsWith(q) && isAllowed(p, allowed))
-			.sort((a, b) => a.title.localeCompare(b.title))
-			.map((p, rank) => ({ p, tier: p.title === q ? 2 : 3, rank }));
+		const found: { p: Prepared; t: PreparedTitle }[] = [];
+		for (const p of prepared.values()) {
+			if (!isAllowed(p, allowed)) continue;
+			const t = p.titles.find((x) => x.title === q) ?? p.titles.find((x) => x.title.startsWith(q));
+			if (t) found.push({ p, t });
+		}
+		return found
+			.sort((a, b) => a.t.title.localeCompare(b.t.title))
+			.map(({ p, t }, rank) => ({ p, tier: t.title === q ? 2 : 3, rank, entries: t.entries }));
 	}
 
 	function toResults(
@@ -158,11 +224,11 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 	): SearchResult[] {
 		const tokens = tokenize(text);
 		return ranked
-			.sort((a, b) => a.tier - b.tier || a.rank - b.rank)
+			.sort((a, b) => a.tier - b.tier || (a.strength ?? 0) - (b.strength ?? 0) || a.rank - b.rank)
 			.slice(0, limit)
-			.map(({ p, tier }) => {
+			.map(({ p, tier, entries: matched }) => {
 				const entries = allowedEntries(p.hymn, allowed);
-				const r = result(p.hymn, entries, primaryEntry(entries, selected), tier);
+				const r = result(p.hymn, entries, primaryEntry(entries, selected, matched), tier);
 				if (tier >= 4) r.excerpt = buildExcerpt(p.lines, tokens);
 				return r;
 			});

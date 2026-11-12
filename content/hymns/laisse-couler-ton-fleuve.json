@@ -1,0 +1,73 @@
+{
+	"id": "laisse-couler-ton-fleuve",
+	"title": "Laisse couler ton fleuve",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "631"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du trône de Dieu coule un fleuve limpide,",
+				"Fleuve de la vie.",
+				"Du trône de l'Agneau coule un fleuve,",
+				"Fleuve de la vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais couler ton fleuve,",
+				"Fais couler ton fleuve,",
+				"Pour la guérison des nations.",
+				"Fais couler ton fleuve,",
+				"Fais couler ton fleuve,",
+				"Pour la guérison des nations."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur Jésus-Christ, l'Alpha et l'Oméga,",
+				"L'arbre de la vie,",
+				"Répands ton Esprit de réconciliation",
+				"Parmi les nations."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Fais couler ton fleuve,",
+				"Fais couler ton fleuve,",
+				"Pour la guérison des nations.",
+				"Fais couler ton fleuve,",
+				"Fais couler ton fleuve,",
+				"Pour la guérison des nations."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-Charles Édouard",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Charles Édouard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem631",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

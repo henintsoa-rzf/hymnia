@@ -1,0 +1,48 @@
+{
+	"id": "oh-que-c-est-chose-belle",
+	"title": "Oh ! que c'est chose belle",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "465"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! que c'est chose belle",
+				"De te louer, Seigneur,",
+				"De chanter ton honneur",
+				"D'un cœur humble et fidèle,",
+				"Quand le jour vient à naître,",
+				"D'annoncer ta bonté,",
+				"Et ta fidélité,",
+				"Quand la nuit va paraître."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Combien grande est ta gloire",
+				"En tout ce que tu fais,",
+				"Et combien tes hauts faits",
+				"Sont dignes de mémoire !",
+				"Tes œuvres sans pareilles",
+				"Ont réjoui mon cœur.",
+				"Je veux chanter, Seigneur,",
+				"Tes divines merveilles."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem465",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

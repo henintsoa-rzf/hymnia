@@ -1,0 +1,53 @@
+{
+	"id": "venez-louer-le-seigneur",
+	"title": "Venez louer le Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "604"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez louer le Seigneur, vous les nations,",
+				"Venez célébrer son nom, vous les peuples,",
+				"Car sa bonté pour nous est grande,",
+				"Sa vérité dure à toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allélu, alléluia,",
+				"Allélu, alléluia,",
+				"Allélu, alléluia,",
+				"Alléluia.",
+				"Allélu, alléluia,",
+				"Allélu, alléluia,",
+				"Allélu, alléluia,",
+				"Alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rachel Boski",
+			"role": "music"
+		},
+		{
+			"name": "Rachel Boski",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem604",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

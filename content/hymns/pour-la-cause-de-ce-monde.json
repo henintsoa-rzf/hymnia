@@ -1,0 +1,151 @@
+{
+	"id": "pour-la-cause-de-ce-monde",
+	"title": "Pour la cause de ce monde",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1061"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je te remets ma vie, je te laisse le contrôle.",
+				"Je t'abandonne tout, sans regard en arrière,",
+				"Car je vis pour ta gloire sur cette terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cet élan dans mon âme,",
+				"Cette passion dans mon cœur,",
+				"Que les nations s'inclinent et que le monde croie,",
+				"Car je vis pour ta gloire sur cette terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi.",
+				"Viens embraser mon âme,",
+				"Que tous les hommes le voient.",
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cet élan dans mon âme,",
+				"Cette passion dans mon cœur,",
+				"Que les nations s'inclinent",
+				"et que le monde croie,",
+				"Car je vis pour ta gloire sur cette terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi.",
+				"Viens embraser mon âme,",
+				"Que tous les hommes le voient.",
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi.",
+				"Viens embraser mon âme,",
+				"Que tous les hommes le voient.",
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Pour que tout genou fléchisse,",
+				"Pour que les cœurs te reçoivent,",
+				"Pour que les hommes crient à toi,",
+				"Brûle comme un feu en moi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Pour que toute langue confesse",
+				"Que tu es le seul Roi.",
+				"Tu es l'espoir de ce monde,",
+				"Brûle comme un feu en moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi.",
+				"Viens embraser mon âme,",
+				"Que tous les hommes le voient.",
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi.",
+				"Viens embraser mon âme,",
+				"Que tous les hommes le voient.",
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi.",
+				"Viens embraser mon âme,",
+				"Que tous les hommes le voient.",
+				"Pour la cause de ce monde,",
+				"Brûle comme un feu en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brian Johnson, Jeremy Riddle et Joel Taylor",
+			"role": "music"
+		},
+		{
+			"name": "Brian Johnson, Jeremy Riddle et Joel Taylor",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1061",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,70 @@
+{
+	"id": "jesus-le-seul-nom",
+	"title": "Jésus le seul nom",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "112"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C’est Jésus, Jésus seul, c’est Jésus Christ qui peut sauver.",
+				"C’est Jésus, Jésus seul; par Jésus je suis délivré."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand j’ai crié, Il m’a secouru;",
+				"Dans ma douleur Il m’a consolé.",
+				"Il a comblé et rempli ma vie.",
+				"Son nom brillera, toujours brillera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il m’a cherché, Il s’est approché;",
+				"Il est venu, Il reste toujours.",
+				"Il m’a guéri, m’a sanctifié;",
+				"Son nom brillera, toujours brillera, éternellement."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C’est Jésus, Jésus seul, par Jésus je suis délivré.",
+				"Jésus seul, Lui seul peut sauver,",
+				"Et je suis délivré par le nom de Jésus Christ."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tore W. Aas",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		},
+		{
+			"name": "Tore W. Aas",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-12",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

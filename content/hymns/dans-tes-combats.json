@@ -1,0 +1,69 @@
+{
+	"id": "dans-tes-combats",
+	"title": "Dans tes combats",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "275"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans tes combats Dieu te conduit,",
+				"Revêtu de l’Esprit.",
+				"Toujours loyal, fuyant le mal,",
+				"Soldat de Jésus Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jamais céder, jamais fléchir,",
+				"Ne jamais défaillir,",
+				"Dans le danger persévérer",
+				"Pour vaincre et bien servir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh! Que d’esclaves, de pécheurs,",
+				"De victimes d’erreurs.",
+				"Tu n’as qu’un but, c’est leur salut,",
+				"Combattant du Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ton chef, vainqueur à Golgotha,",
+				"Toujours t’approuvera.",
+				"Obéissant, fort et vaillant,",
+				"Soldat, pars au combat !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H.E. Alexander",
+			"role": "unspecified"
+		},
+		{
+			"name": "T.A. Arne",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1306",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

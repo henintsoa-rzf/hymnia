@@ -1,0 +1,131 @@
+{
+	"id": "mon-espoir",
+	"title": "Mon espoir",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1145"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lumière dans ma nuit,",
+				"Paix pour mon âme,",
+				"Tu es mon refuge.",
+				"Tu restes fidèle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lumière dans ma nuit,",
+				"Paix pour mon âme,",
+				"Tu es mon refuge.",
+				"Tu restes fidèle."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon espoir est en toi.",
+				"Ma confiance est en toi.",
+				"À chaque instant,",
+				"Mon âme s’appuie sur toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Là, dans ma faiblesse,",
+				"Toujours le même,",
+				"Ton amour est ma force,",
+				"Ta vie est ma voie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon espoir est en toi.",
+				"Ma confiance est en toi.",
+				"À chaque instant,",
+				"Mon âme s’appuie sur toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon espoir est en toi.",
+				"Ma confiance est en toi.",
+				"À chaque instant,",
+				"Mon âme s’appuie sur toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Sauveur constant, toujours présent,",
+				"Dieu, tu as mon cœur.",
+				"Ma fondation inébranlable,",
+				"Dieu, tu as mon cœur."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Sauveur constant, toujours présent,",
+				"Dieu, tu as mon cœur.",
+				"Ma fondation inébranlable,",
+				"Dieu, tu as mon cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon espoir est en toi.",
+				"Ma confiance est en toi.",
+				"À chaque instant,",
+				"Mon âme s’appuie sur toi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"L’univers est à toi",
+				"Et ma vie devant toi.",
+				"À chaque instant,",
+				"Mon âme s’appuie sur toi.",
+				"À chaque instant,",
+				"Mon âme s’appuie sur toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Reuben Morgan et Jason Ingram",
+			"role": "music"
+		},
+		{
+			"name": "Reuben Morgan et Jason Ingram",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1145",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

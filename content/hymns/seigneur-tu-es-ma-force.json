@@ -1,0 +1,58 @@
+{
+	"id": "seigneur-tu-es-ma-force",
+	"title": "Seigneur, tu es ma force",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "497"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu es ma force et mon chant.",
+				"Seigneur, Éternel,",
+				"Le rocher de mon salut,",
+				"Tu es mon Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je veux te donner mon cœur.",
+				"Et je veux te donner mon cœur,",
+				"Et je veux te donner mon cœur."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Seigneur, tu règneras",
+				"Pour toute l'Éternité ! Amen.",
+				"Seigneur, tu règneras",
+				"Pour toute l'Éternité ! Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Frank Gallian",
+			"role": "music"
+		},
+		{
+			"name": "Frank Gallian",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem497",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

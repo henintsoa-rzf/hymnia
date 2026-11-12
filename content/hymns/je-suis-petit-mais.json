@@ -1,0 +1,84 @@
+{
+	"id": "je-suis-petit-mais",
+	"title": "Je suis petit, mais…",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "394"
+		},
+		{
+			"hymnal": "adf",
+			"number": "476"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je suis petit, mais que m'importe ?",
+				"Du bon Berger je suis l'agneau.",
+				"Je puis donc entrer par la porte",
+				"Qui mène au ciel tout son troupeau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ah ! que je mette,",
+				"Ah ! que je mette,",
+				"O bon Sauveur !",
+				"Sous ta houlette,",
+				"Sous ta houlette,",
+				"Mon jeune cœur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je suis petit, mais si ma vie",
+				"Est aussi chétive ici-bas,",
+				"Jésus, la tienne est infinie,",
+				"Et d'elle tu m'enrichiras."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ah ! que je mette,",
+				"Ah ! que je mette,",
+				"O bon Sauveur !",
+				"Sous ta houlette,",
+				"Sous ta houlette,",
+				"Mon jeune cœur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg394",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af476",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

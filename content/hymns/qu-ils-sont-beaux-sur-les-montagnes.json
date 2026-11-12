@@ -1,0 +1,91 @@
+{
+	"id": "qu-ils-sont-beaux-sur-les-montagnes",
+	"title": "Qu'ils sont beaux sur les montagnes",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "372"
+		},
+		{
+			"hymnal": "adf",
+			"number": "357"
+		},
+		{
+			"hymnal": "cd",
+			"number": "321"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'ils sont beaux sur les montagnes",
+				"Les pieds de tes serviteurs,",
+				"Qui parcourent les campagnes,",
+				"Prêchant la grâce aux pécheurs !",
+				"O délicieuse vie",
+				"D'un serviteur de Jésus,",
+				"Qui pour son Maître s'oublie",
+				"En annonçant ses vertus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Libre de toute autre chaîne,",
+				"Le chrétien qui sert son Dieu,",
+				"Dans la souffrance et la peine",
+				"Suit son modèle en tout lieu.",
+				"Il faut qu'en vivante offrande",
+				"Il s'offre pour son Sauveur ;",
+				"C'est là ce que Dieu demande",
+				"D'un fidèle serviteur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Au cœur accablé de peines",
+				"Qui tremble au seul nom de mort,",
+				"Au captif chargé de chaînes,",
+				"Qui n'attend qu'un triste sort,",
+				"Dites que Dieu, dans sa grâce,",
+				"Donna Son Fils au pécheur,",
+				"Et que sa mort efficace",
+				"Nous mérita sa faveur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air allemand",
+			"role": "music"
+		},
+		{
+			"name": "Recueil Rosselloty",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg372",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af357",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1122",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"id": "la-bonne-nouvelle",
+	"title": "La bonne nouvelle",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "124"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous vous apportons la bonne nouvelle",
+				"Jésus-Christ !",
+				"Il est venu sur la terre",
+				"Afin que nous voyons Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amis, mes amis écoutez-nous,",
+				"Jésus-Christ vous apporte la joie !",
+				"Amis, mes amis écoutez-nous,",
+				"Cette bonne nouvelle est pour tous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais un jour, il est mort sur la croix,",
+				"En sacrifice pour nos péchés.",
+				"Trois jours plus tard, il est ressuscité !",
+				"Jésus, mon rédempteur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amis, mes amis écoutez-nous,",
+				"Jésus-Christ vous apporte la joie !",
+				"Amis, mes amis écoutez-nous,",
+				"Cette bonne nouvelle est pour tous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans la Parole, nous pouvons lire,",
+				"Jésus-Christ !",
+				"Il est le chemin, la vérité,",
+				"pour vous la vie abondante !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amis, mes amis écoutez-nous,",
+				"Jésus-Christ vous apporte la joie !",
+				"Amis, mes amis écoutez-nous,",
+				"Cette bonne nouvelle est pour tous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem124",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

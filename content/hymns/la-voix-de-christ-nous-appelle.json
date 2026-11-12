@@ -1,0 +1,105 @@
+{
+	"id": "la-voix-de-christ-nous-appelle",
+	"title": "La voix de Christ nous appelle",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "371"
+		},
+		{
+			"hymnal": "adf",
+			"number": "347"
+		},
+		{
+			"hymnal": "cd",
+			"number": "324"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La voix de Christ nous appelle ;",
+				"Il est temps de s'éveiller :",
+				"La moisson est vaste et belle !",
+				"Qui veut pour moi travailler ?",
+				"C'est ton Sauveur, ô mon frère,",
+				"Dont l'appel s'adresse à toi.",
+				"Réponds-lui, d'un cœur sincère :",
+				"Me voici, Maître, prends-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sans franchir les mers bruyantes,",
+				"Tu peux annoncer Jésus,",
+				"Que d'âmes insouciantes,",
+				"De cœurs souffrants et perdus !",
+				"Autour de nous l'œuvre est grande,",
+				"Mais petite est notre foi.",
+				"À Jésus qui nous commande",
+				"Répondons : Maître, aide-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si d'un sublime langage",
+				"Tu n'as pas reçu le don,",
+				"Tu peux rendre témoignage",
+				"Qu'en Jésus est le pardon,",
+				"À ton frère tu peux dire",
+				"Ce que Christ a fait pour toi.",
+				"Pour que lui-même t'inspire,",
+				"Dis-lui : Maître, enseigne-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais que nul ne nous entende",
+				"Dire encore : Je ne puis rien !",
+				"Lorsque Jésus nous commande",
+				"De faire et d'aimer le bien.",
+				"Poursuivons l'œuvre bénie",
+				"Avec zèle, amour et foi ;",
+				"Puis, notre tâche finie,",
+				"Nous dirons : Maître, prends-moi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg371",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af347",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1125",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

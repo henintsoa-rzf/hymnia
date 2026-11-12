@@ -1,0 +1,50 @@
+{
+	"id": "prosternons-nous",
+	"title": "Prosternons-nous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "362"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prosternons-nous devant le Roi,",
+				"Fléchissons le genou devant le Père.",
+				"Prosternons-nous devant le Roi,",
+				"Fléchissons le genou devant le Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car il est notre Dieu",
+				"Et nous sommes le peuple",
+				"De son pâturage",
+				"Le troupeau que sa main conduit,",
+				"Le troupeau que sa main conduit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dave Doherty",
+			"role": "music"
+		},
+		{
+			"name": "Dave Doherty",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem362",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

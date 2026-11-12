@@ -1,0 +1,131 @@
+{
+	"id": "divin-sauveur",
+	"title": "Divin Sauveur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "121"
+		},
+		{
+			"hymnal": "adf",
+			"number": "105"
+		},
+		{
+			"hymnal": "cd",
+			"number": "108"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Divin Sauveur, toi qui vins sur la terre",
+				"Pour y mourir sur un infâme bois,",
+				"Le cœur ému, j'approche du Calvaire ;",
+				"Que ton Esprit m'enseigne",
+				"à contempler ta croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta grâce infinie",
+				"Vaut mieux que la vie ;",
+				"Mon cœur s'attache à toi,",
+				"Pour te suivre avec foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Là, je puis voir la grandeur de l'abîme",
+				"Où, par amour, Jésus est descendu,",
+				"Et les tourments de la sainte Victime",
+				"Me disent qu'à jamais",
+				"sans Christ, j'étais perdu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta grâce infinie",
+				"Vaut mieux que la vie ;",
+				"Mon cœur s'attache à toi,",
+				"Pour te suivre avec foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon seul refuge est dans sa meurtrissure ;",
+				"Là, j'ai trouvé le pardon et la paix,",
+				"Et, sous le sang qui lava ma souillure,",
+				"Je puis de tout péché rester libre à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta grâce infinie",
+				"Vaut mieux que la vie ;",
+				"Mon cœur s'attache à toi,",
+				"Pour te suivre avec foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jusqu'à la fin, Jésus, ma confiance",
+				"Sera toujours dans le sang de ta croix ;",
+				"Scelle en mon cœur cette ferme assurance,",
+				"Et que toujours aussi j'obéisse à ta voix !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi je me livre,",
+				"Pour toi je veux vivre ;",
+				"Jésus, de ton amour",
+				"Remplis-moi chaque jour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil Consécration et Louange",
+			"role": "music"
+		},
+		{
+			"name": "Ernest Favre",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg121",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af105",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/956",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

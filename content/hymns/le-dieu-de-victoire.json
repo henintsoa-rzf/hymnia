@@ -1,0 +1,66 @@
+{
+	"id": "le-dieu-de-victoire",
+	"title": "Le Dieu de victoire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "578"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Dieu de victoire habite en moi,",
+				"Le Dieu de victoire habite en moi.",
+				"Je marche non par la vue,",
+				"Mais par la foi.",
+				"Le Dieu de victoire habite en moi.",
+				"Le Dieu de victoire habite en moi.",
+				"Le Dieu de victoire habite en moi.",
+				"Je marche non par la vue,",
+				"Mais par la foi.",
+				"Le Dieu de victoire habite en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je chanterai, et danserai,",
+				"car le combat est celui du Seigneur.",
+				"La victoire est assurée,",
+				"Car notre Dieu est vainqueur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Dieu de victoire habite en moi.",
+				"Le Dieu de victoire habite en moi.",
+				"Je marche non par la vue,",
+				"Mais par la foi.",
+				"Le Dieu de victoire habite en moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dave Bell",
+			"role": "music"
+		},
+		{
+			"name": "Dave Bell",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem578",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,101 @@
+{
+	"id": "accueilli-dans-les-parvis-du-roi",
+	"title": "Accueilli dans les parvis du Roi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "894"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Accueilli dans les parvis du Roi,",
+				"Je suis introduit dans ta présence.",
+				"Je suis là sur le lieu de ta grâce,",
+				"Pourtant je m'avance avec révérence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui au ciel est comparable à toi ?",
+				"Et qui, sur la terre, est ton égal ?",
+				"Tu es élevé bien au-dessus de tout.",
+				"Je veux m'incliner pour t'exalter."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je tombe face à terre",
+				"En présence de ta gloire.",
+				"Oui, je tombe face à terre",
+				"En présence de ta gloire.",
+				"Et je tombe face à terre",
+				"En présence de ta gloire.",
+				"Oui, je tombe face à terre",
+				"En présence de ta gloire."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Viens rayonner de ta gloire,",
+				"Viens rayonner de ta gloire,",
+				"Prends la place qui te revient,",
+				"Ô Roi de gloire.",
+				"Viens rayonner de ta gloire,",
+				"Viens rayonner de ta gloire,",
+				"Prends la place qui te revient,",
+				"Ô Roi de gloire."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Viens rayonner de ta gloire,",
+				"Viens rayonner de ta gloire,",
+				"Prends la place qui te revient,",
+				"Ô Roi de gloire.",
+				"Viens rayonner de ta gloire,",
+				"Viens rayonner de ta gloire,",
+				"Prends la place qui te revient,",
+				"Ô Roi de gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je tombe face à terre",
+				"En présence de ta gloire.",
+				"Oui, je tombe face à terre",
+				"En présence de ta gloire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt et Beth Redman",
+			"role": "music"
+		},
+		{
+			"name": "Matt et Beth Redman",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem894",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

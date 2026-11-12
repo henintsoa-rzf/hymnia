@@ -1,0 +1,93 @@
+{
+	"id": "oh-que-ta-main-paternelle",
+	"title": "Oh ! que ta main paternelle",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "218"
+		},
+		{
+			"hymnal": "adf",
+			"number": "482"
+		},
+		{
+			"hymnal": "cd",
+			"number": "311"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! que ta main paternelle",
+				"Me bénisse à mon coucher !",
+				"Et que ce soit sous ton aile",
+				"Que je dorme, ô mon Berger !",
+				"Que je dorme, ô mon Berger !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Veuille effacer par ta grâce",
+				"Les péchés que j'ai commis,",
+				"Et que ton Esprit me fasse",
+				"Obéissant et soumis !",
+				"Obéissant et soumis !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ta faveur se déploie",
+				"Pour consoler l'affligé ;",
+				"Donne au pauvre un peu de joie,",
+				"Au malade la santé !",
+				"Au malade la santé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur ! j'ai fait ma prière,",
+				"Sous ton aile je m'endors,",
+				"Heureux de savoir qu'un Père",
+				"Plein d'amour veille au dehors,",
+				"Plein d'amour veille au dehors."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air populaire allemand",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg218",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af482",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1113",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

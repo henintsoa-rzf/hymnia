@@ -1,0 +1,109 @@
+{
+	"id": "je-te-loue",
+	"title": "Je te loue",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "916"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme le soleil à son zénith,",
+				"Ta lumière envahit mon cœur",
+				"Et vient dissiper mes ténèbres.",
+				"Comme la rosée dans un jardin,",
+				"Tu rafraîchis mon être entier",
+				"Par les flots de ton Esprit saint."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout en moi soupire après toi.",
+				"Tu es ma vie, ma joie.",
+				"Mon espérance, c'est toi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te loue, loue,",
+				"Loue, ô Seigneur",
+				"De tout mon cœur,",
+				"De toute mon âme.",
+				"Je te loue, loue,",
+				"Loue, ô Seigneur",
+				"De tout mon cœur,",
+				"De toute mon âme."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme le soleil à son zénith,",
+				"Ta lumière envahit mon cœur",
+				"Et vient dissiper mes ténèbres.",
+				"Comme la rosée dans un jardin,",
+				"Tu rafraîchis mon être entier",
+				"Par les flots de ton Esprit saint."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tout en moi soupire après toi.",
+				"Tu es ma vie, ma joie.",
+				"Mon espérance, c'est toi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je te loue, loue,",
+				"Loue, ô Seigneur",
+				"De tout mon cœur,",
+				"De toute mon âme.",
+				"Je te loue, loue,",
+				"Loue, ô Seigneur",
+				"De tout mon cœur,",
+				"De toute mon âme."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"De tout mon cœur,",
+				"De toute mon âme.",
+				"De tout mon cœur,",
+				"De toute mon âme."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Caroline Oskera",
+			"role": "music"
+		},
+		{
+			"name": "Caroline Oskera",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem916",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

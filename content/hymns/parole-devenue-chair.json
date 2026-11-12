@@ -1,0 +1,115 @@
+{
+	"id": "parole-devenue-chair",
+	"title": "Parole devenue chair",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1113"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Parole transcendante,",
+				"Au commencement présente,",
+				"Divine parole, tu es",
+				"De toute éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Parole immanente,",
+				"Qui du ciel s’est détachée,",
+				"Divine parole incarnée,",
+				"De grâce et vérité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Messager d’espérance",
+				"Soumis à la souffrance,",
+				"Christ porta notre honte ;",
+				"En lui la grâce abonde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Parole de lumière",
+				"Qui fut envoyée du Père,",
+				"Divine parole, clouée,",
+				"Pour nous tu t’es humiliée."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Messager d’espérance",
+				"Soumis à la souffrance,",
+				"Christ porta notre honte ;",
+				"En lui la grâce abonde."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Parole devenue chair,",
+				"Chère à nos cœurs,",
+				"Chère à nos cœurs."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Parole, tu t’es offerte",
+				"Pour nous pécheurs,",
+				"Pour nous pécheurs."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Parole devenue chair,",
+				"Chère à nos cœurs,",
+				"Chère à nos cœurs."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Parole, tu t’es offerte",
+				"Pour nous pécheurs,",
+				"Pour nous pécheurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sébastien Corn et Ando Rasoamanana",
+			"role": "music"
+		},
+		{
+			"name": "Emmanuel Robin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1113",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

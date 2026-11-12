@@ -1,0 +1,90 @@
+{
+	"id": "mon-coeur-rempli-des-biens",
+	"title": "Mon cœur, rempli des biens.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "544"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon cœur, rempli",
+				"des biens que Dieu m'envoie,",
+				"Ne peut cacher les transports de sa joie ;",
+				"Mon âme loue et bénit le Seigneur,",
+				"Et mon esprit s'égaie en mon Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Dieu vivant, malgré ma petitesse,",
+				"Ma pauvreté, mon néant, ma bassesse,",
+				"A bien voulu sur moi jeter les yeux,",
+				"Et rend mon sort à jamais glorieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Heureux celui qui le craint et l'adore,",
+				"Qui, son secours, avec ardeur implore !",
+				"Tous ceux qui font sa sainte volonté,",
+				"De siècle en siècle, éprouvent sa bonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Les orgueilleux poursuivent leurs pensées,",
+				"Mais Dieu les a bien vite renversées.",
+				"Il humilie et dompte leur fierté,",
+				"Et les punit de leur impiété."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Il enrichit les pauvres qui le craignent,",
+				"Il les entend aussitôt qu'ils se plaignent,",
+				"Il les nourrit quand ils sont affamés,",
+				"Il les soutient lorsqu'ils sont opprimés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Son peuple élu, qu'il aime avec tendresse,",
+				"Voit du Seigneur s'accomplir la promesse ;",
+				"Dieu le défend contre ses ennemis,",
+				"Et donne enfin le Rédempteur promis."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Bénédict. Pictet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af544",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

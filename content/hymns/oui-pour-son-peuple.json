@@ -1,0 +1,71 @@
+{
+	"id": "oui-pour-son-peuple",
+	"title": "Oui, pour son peuple.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "41"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, pour son peuple Jésus prie :",
+				"Prêtons l'oreille à ses soupirs ;",
+				"Qu'à sa voix notre âme attendrie",
+				"Réponde par de saints désirs.",
+				"Dans les hauts lieux, brillant de gloire,",
+				"Il est entré victorieux,",
+				"Et sur l'autel expiatoire",
+				"Il offre son sang précieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, pour nos âmes Jésus prie ;",
+				"Dans cet instant, ô charité !",
+				"Il plaide, Il intercède, Il crie",
+				"Pour nous, qui l'avons contristé.",
+				"À son enfant, auprès du Père",
+				"Son cœur obtient un doux pardon,",
+				"Et, pour l'aider dans sa misère,",
+				"Sa voix réclame un nouveau don."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui, pour les tiens, Jésus, tu pries ;",
+				"Qu'il nous est doux de le savoir !",
+				"Ainsi, Seigneur, tu nous convies",
+				"À mettre en Toi tout notre espoir.",
+				"Sous le parfum de ta prière",
+				"Fais-nous marcher, remplis d'ardeur.",
+				"Pour te bénir, notre âme entière",
+				"S'élève à Toi, puissant Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "F.-G. Clottu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af041",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

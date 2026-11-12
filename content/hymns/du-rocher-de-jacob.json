@@ -1,0 +1,91 @@
+{
+	"id": "du-rocher-de-jacob",
+	"title": "Du Rocher de Jacob",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "56"
+		},
+		{
+			"hymnal": "adf",
+			"number": "32"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du Rocher de Jacob",
+				"toute l'œuvre est parfaite ;",
+				"Ce que sa bouche a dit, sa main l'accomplira.",
+				"Alléluia ! Alléluia ! Alléluia ! Alléluia !",
+				"Car il est notre Dieu, Car il est notre Dieu,",
+				"Car il est notre Dieu, notre haute retraite."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est pour l'éternité",
+				"que le Seigneur nous aime :",
+				"Sa grâce en notre cœur jamais ne cessera.",
+				"Alléluia ! Alléluia ! Alléluia ! Alléluia !",
+				"Car il notre espoir, Car il notre espoir,",
+				"Car il notre espoir, notre bonheur suprême."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De tous nos ennemis",
+				"il sait quel est le nombre ;",
+				"Son bras combat pour nous et nous délivrera.",
+				"Alléluia ! Alléluia ! Alléluia ! Alléluia !",
+				"Les méchants devant lui,",
+				"Les méchants devant lui,",
+				"Les méchants devant lui",
+				"s'enfuiront comme l'ombre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Louons donc l'Éternel,",
+				"notre Dieu, notre Père !",
+				"Le Seigneur est pour nous ;",
+				"contre nous qui sera ?",
+				"Alléluia ! Alléluia ! Alléluia ! Alléluia !",
+				"Triomphons en Jésus, Triomphons en Jésus,",
+				"Triomphons en Jésus, et vivons pour lui plaire."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg056",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af032",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,106 @@
+{
+	"id": "pardon",
+	"title": "Pardon",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "641"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pardon, pardon d'avoir jugé,",
+				"Pardon, pardon d'avoir condamné,",
+				"Pardon, pardon d'avoir blessé,",
+				"Pardon, pardon d'avoir critiqué."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est vrai, mon cœur est tortueux ;",
+				"C'est vrai, il est dur et orgueilleux,",
+				"Et sans toi, je ne peux pas changer,",
+				"Seigneur, viens m'apprendre à aimer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pardon de mépriser mes frères,",
+				"Pardon de rester là sans rien faire,",
+				"Pardon, c'est mon cœur qui te prie,",
+				"Pardon, oh ! viens purifier ma vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est vrai, mon cœur est tortueux ;",
+				"C'est vrai, il est dur et orgueilleux,",
+				"Et sans toi, je ne peux pas changer,",
+				"Seigneur, viens m'apprendre à aimer."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu nous as donné ta vie.",
+				"Tu as donné ton Esprit",
+				"Pour que l'on soit tes témoins.",
+				"Tu as dit, c'est par l'amour",
+				"Que le monde qui nous entoure",
+				"Verra que tu es vivant.",
+				"Alors entends nos prières,",
+				"Viens renverser nos barrières,",
+				"Viens nous apprendre à aimer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est vrai, nos cœurs sont tortueux ;",
+				"C'est vrai, ils sont durs et orgueilleux,",
+				"Mais par toi, nous serons transformés ;",
+				"Seigneur, rétablis l'unité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est vrai, mais toi tu as payé;",
+				"C'est vrai, mais toi tu as tout changé,",
+				"Et par toi nous serons transformés ;",
+				"Seigneur, rétablis l'unité.",
+				"Seigneur, nous voulons l'unité.",
+				"Seigneur, nous voulons l'unité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem641",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

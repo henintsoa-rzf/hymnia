@@ -1,0 +1,39 @@
+{
+	"id": "pere-unis-nous-tous",
+	"title": "Père, unis-nous tous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "297"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Père, unis-nous tous.",
+				"Père, unis-nous tous.",
+				"Que le monde croie à ton amour !",
+				"Père, unis-nous tous."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rick Ridings",
+			"role": "music"
+		},
+		{
+			"name": "Rick Ridings",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem297",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

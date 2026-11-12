@@ -1,0 +1,73 @@
+{
+	"id": "je-le-reconnais",
+	"title": "Je le reconnais",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "767"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je le reconnais, je ne suis rien sans toi,",
+				"Tu es parfait, tu sais tout de moi.",
+				"J'ai tant besoin de te connaître mieux,",
+				"Je fais le plein quand tu me rejoins."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Apprends-moi à te servir,",
+				"dis-moi comment t'obéir,",
+				"Marcher dans tes pas, écouter ta voix !",
+				"Façonne en moi ta volonté,",
+				"montre-moi comment marcher,",
+				"Agir par la foi, accomplir ce que je dois !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, je l'admets, je ne suis rien sans toi,",
+				"Pas de secrets entre toi et moi.",
+				"J'ai tant besoin de garder mes pensées,",
+				"Je suis serein, car tu n'es pas loin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Apprends-moi à te servir,",
+				"dis-moi comment t'obéir,",
+				"Marcher dans tes pas, écouter ta voix !",
+				"Façonne en moi ta volonté,",
+				"montre-moi comment marcher,",
+				"Agir par la foi, accomplir ce que je dois !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem767",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,88 @@
+{
+	"id": "chretiens-peuple-fidele",
+	"title": "Chrétiens, peuple fidèle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "30"
+		},
+		{
+			"hymnal": "cd",
+			"number": "54"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chrétiens, peuple fidèle !",
+				"Ranimons notre ardeur,",
+				"Et redoublons de zèle",
+				"Pour notre Rédempteur.",
+				"Il vint vers nous du ciel :",
+				"Chantons dans nos cantiques",
+				"Les bontés magnifiques",
+				"De notre Emmanuel,",
+				"Les bontés magnifiques",
+				"De notre Emmanuel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vous, âmes affligées,",
+				"Accourez à ce Roi.",
+				"Vous serez soulagées,",
+				"L'invoquant avec foi.",
+				"Jésus-Christ, de son bras,",
+				"Protège ceux qu'il aime ;",
+				"Son cœur toujours le même,",
+				"Ne les délaisse pas",
+				"Son cœur toujours le même,",
+				"Ne les délaisse pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus est notre Frère :",
+				"Implorons son secours ;",
+				"Au fort de la misère,",
+				"Il est notre recours.",
+				"Ses charitables soins",
+				"Soutiennent notre vie ;",
+				"Sa puissance infinie",
+				"Pourvoit à nos besoins.",
+				"Sa puissance infinie",
+				"Pourvoit à nos besoins."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Wolf-Hauloch",
+			"role": "music"
+		},
+		{
+			"name": "Henri-Louis Empeytaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af030",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/862",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

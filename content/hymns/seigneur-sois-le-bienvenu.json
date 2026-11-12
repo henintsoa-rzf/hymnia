@@ -1,0 +1,75 @@
+{
+	"id": "seigneur-sois-le-bienvenu",
+	"title": "Seigneur sois le bienvenu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "937"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, sois le bienvenu",
+				"Au milieu de tes enfants.",
+				"Nous t'accueillons avec joie",
+				"Pour te louer librement.",
+				"Nous t'apportons nos offrandes,",
+				"Le meilleur de notre cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois nos chants, nos hommages,",
+				"Dieu le plus haut, juste et sage.",
+				"Nous t'adorons, nous t'exaltons,",
+				"Dieu tout-puissant et fidèle,",
+				"Dieu trois fois saint, éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous accueillons ton Esprit",
+				"Et tout ce qui vient de toi,",
+				"Ta parole, tes prophéties,",
+				"Tes dons et ta guérison.",
+				"Oh ! que tes œuvres sont grandes",
+				"Et tes actions excellentes !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reçois nos chants, nos hommages,",
+				"Dieu le plus haut, juste et sage.",
+				"Nous t'adorons, nous t'exaltons,",
+				"Dieu tout-puissant et fidèle,",
+				"Dieu trois fois saint, éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem937",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

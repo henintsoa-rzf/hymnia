@@ -1,0 +1,85 @@
+{
+	"id": "sentinelle-vigilante",
+	"title": "Sentinelle vigilante",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "375"
+		},
+		{
+			"hymnal": "adf",
+			"number": "364"
+		},
+		{
+			"hymnal": "cd",
+			"number": "320"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"« Sentinelle vigilante,",
+				"Qu'en est-il donc de la nuit ? »",
+				"« Dis à l'âme somnolente,",
+				"Que déjà le matin luit ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La nuit passe, le matin du grand jour luit !",
+				"Sentinelle, sois au poste jour et nuit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Point de repos, de relâche,",
+				"Rachetés de l'Éternel.",
+				"Travaillez à votre tâche,",
+				"Car Jésus revient du ciel !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La nuit passe, le matin du grand jour luit !",
+				"Sentinelle, sois au poste jour et nuit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Hastings",
+			"role": "music"
+		},
+		{
+			"name": "Mlle Amélie Humbert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg375",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af364",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1121",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

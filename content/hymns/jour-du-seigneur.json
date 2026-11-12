@@ -1,0 +1,88 @@
+{
+	"id": "jour-du-seigneur",
+	"title": "Jour du Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "198"
+		},
+		{
+			"hymnal": "adf",
+			"number": "168"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jour du Seigneur,",
+				"J'ouvre mon cœur",
+				"À ta douce lumière ;",
+				"Jour solennel,",
+				"À l'Éternel",
+				"Consacre ma prière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu tout-puissant,",
+				"Dieu bienfaisant,",
+				"J'ai besoin de ta grâce.",
+				"Éclaire-moi,",
+				"Soutiens ma foi,",
+				"Je viens chercher ta face."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta Vérité,",
+				"Ta charité,",
+				"Brillent dans ta Parole.",
+				"Seule elle instruit,",
+				"Guide et conduit",
+				"Notre âme, et la console."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que ton Esprit,",
+				"O Jésus-Christ,",
+				"Règne seul en notre âme !",
+				"Que ton amour",
+				"Et nuit et jour,",
+				"L'embrase de sa flamme !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil Hymnodus Sacer",
+			"role": "music"
+		},
+		{
+			"name": "Matthias Engel",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg198",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af168",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

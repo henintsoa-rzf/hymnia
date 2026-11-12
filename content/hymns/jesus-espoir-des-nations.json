@@ -1,0 +1,62 @@
+{
+	"id": "jesus-espoir-des-nations",
+	"title": "Jésus, espoir des nations",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "903"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, espoir des nations,",
+				"Jésus, soutien de ceux qui pleurent,",
+				"Tu es la source de tout espoir sur terre.",
+				"Jésus, lumière dans la nuit,",
+				"Jésus, vérité en tout temps.",
+				"Tu es la source de la lumière sur terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es venu vivre et mourir,",
+				"Briser les liens, ressusciter.",
+				"Tu es l'espoir qui vit en nous.",
+				"Tu es le roc solide et sûr,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es lumière ; par ton éclat, le monde voit.",
+				"Ressuscité, tu es vainqueur.",
+				"Prince de paix, plein de douceur,",
+				"Tu es l'espoir vivant pour celui qui te reçoit.",
+				"Oui, nous croyons."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brian Doerksen",
+			"role": "music"
+		},
+		{
+			"name": "Brian Doerksen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem903",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

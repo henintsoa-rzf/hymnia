@@ -1,0 +1,52 @@
+{
+	"id": "gloire-a-dieu",
+	"title": "Gloire à Dieu",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "90"
+		},
+		{
+			"hymnal": "jem",
+			"number": "67"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Gloire à Dieu, notre créateur !",
+				"Gloire à Jésus, le Rédempteur !",
+				"Gloire à l'Esprit, le Consolateur !",
+				"Alléluia !",
+				"Alléluia !",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Melchior Vulpius",
+			"role": "music"
+		},
+		{
+			"name": "Chants évangéliques",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg090",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem067",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

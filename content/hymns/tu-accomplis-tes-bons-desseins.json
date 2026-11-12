@@ -1,0 +1,104 @@
+{
+	"id": "tu-accomplis-tes-bons-desseins",
+	"title": "Tu accomplis tes bons desseins",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "31"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui peut cerner tes plans, ô Dieu,",
+				"Inébranlables, glorieux ?",
+				"Les astres fixés dans les cieux",
+				"Se plient à ton décret divin.",
+				"Seigneur très-haut, tu tiens ferme les rênes",
+				"Des fortes eaux, des mers qui se déchaînent.",
+				"D’un simple mot, ta voix les rend sereines.",
+				"Tu accomplis tes bons desseins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu tiens les princes des empires,",
+				"Le sort du pauvre, du martyr.",
+				"Le cœur de tout ce qui respire",
+				"Est un ruisseau entre tes mains.",
+				"Même le bras du méchant qui s’obstine",
+				"Te servira, ta volonté l’incline,",
+				"Et ton œuvre insondable se dessine.",
+				"Tu accomplis tes bons desseins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand l’ennemi semblait régner,",
+				"Et l’injustice triompher,",
+				"À l’heure où Jésus fut livré,",
+				"Tu siégeais seul en souverain.",
+				"Par l’acte d’hommes vils et insoumis,",
+				"Ta main nous donne le salut promis,",
+				"Et de la mort du Fils jaillit la vie.",
+				"Tu accomplis tes bons desseins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu vois mes combats quotidiens",
+				"Et les torrents de mon chagrin.",
+				"Tous les contours de mon chemin",
+				"Sont tracés par ta bonne main.",
+				"Dans ma douleur, rappelle ta constance,",
+				"Et que mes pleurs arrosent la semence",
+				"Qui produira le fruit de l’espérance.",
+				"Tu accomplis tes bons desseins."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Dans ma douleur, rappelle ta constance,",
+				"Et que mes pleurs arrosent la semence",
+				"Qui produira le fruit de l’espérance.",
+				"Oh accomplis tes bons desseins !",
+				"Tu accomplis tes bons desseins."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/tuaccomplistesbonsdesseins",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

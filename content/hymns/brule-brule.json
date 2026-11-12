@@ -1,0 +1,100 @@
+{
+	"id": "brule-brule",
+	"title": "Brûle, brûle",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "271"
+		},
+		{
+			"hymnal": "jem",
+			"number": "239"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Brûle, brûle, flamme ardente,",
+				"Flamme ardente, dans mon cœur ;",
+				"Brûle et comble mon attente",
+				"De lumière et de chaleur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brûle encore, purifie,",
+				"Saint-Esprit qui vis en moi !",
+				"Vois, ma volonté se plie",
+				"À la tienne, par la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Brûle, brûle, flamme claire,",
+				"Flamme claire, feu divin !",
+				"Mon désir est de te plaire,",
+				"D'accomplir tout ton dessin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brûle encore, purifie,",
+				"Saint-Esprit qui vis en moi !",
+				"Vois, ma volonté se plie",
+				"À la tienne, par la foi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Brûle, brûle, flamme sainte,",
+				"Flamme sainte, feu d'en-haut !",
+				"Ton amour pur sans contrainte",
+				"Me donne un amour nouveau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brûle encore, purifie,",
+				"Saint-Esprit qui vis en moi !",
+				"Vois, ma volonté se plie",
+				"À la tienne, par la foi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Larsson",
+			"role": "music"
+		},
+		{
+			"name": "John Gowans",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg271",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem239",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

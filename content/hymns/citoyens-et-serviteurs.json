@@ -1,0 +1,92 @@
+{
+	"id": "citoyens-et-serviteurs",
+	"title": "Citoyens et serviteurs",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1154"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Citoyens de ton Royaume et serviteurs debout,",
+				"Engagés dans ton armée qui combat à genoux,",
+				"Maniant le bouclier et l’épée de l’Esprit,",
+				"Tenant ferme et proclamant ce que tu as acquis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous t’élevons, Jésus, dans nos vies et dans nos cœurs,",
+				"Puissant héros, Jésus, dans les plaines et les hauteurs.",
+				"Nous t’adorons, Jésus, dans la joie ou la douleur.",
+				"À toi nos prières et la victoire en toute heure,",
+				"À toi nos prières et la victoire en toute heure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rien ne peut nous séparer de ton immense amour,",
+				"Ni les puissances de la nuit, du mal et de la mort,",
+				"Ni l’avenir, ni le temps présent et sa détresse,",
+				"Ni le danger, ni la pauvreté, ni la richesse."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous t’élevons, Jésus, dans nos vies et dans nos cœurs,",
+				"Puissant héros, Jésus, dans les plaines et les hauteurs.",
+				"Nous t’adorons, Jésus, dans la joie ou la douleur.",
+				"À toi nos prières et la victoire en toute heure,",
+				"À toi nos prières et la victoire en toute heure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ici-bas, l’Esprit conduit l’Église vers l’unité.",
+				"Pas à pas, il l’établit en grâce et vérité.",
+				"Invisible mais puissant, il lui redonne espoir.",
+				"Ta faiblesse sur la croix son seul cri de victoire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous t’élevons, Jésus, dans nos vies et dans nos cœurs,",
+				"Puissant héros, Jésus, dans les plaines et les hauteurs.",
+				"Nous t’adorons, Jésus, dans la joie ou la douleur.",
+				"À toi nos prières et la victoire en toute heure,",
+				"À toi nos prières et la victoire en toute heure."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Judith Ann Robertson",
+			"role": "music"
+		},
+		{
+			"name": "Judith Ann Robertson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1154",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,93 @@
+{
+	"id": "nous-croyons",
+	"title": "Nous croyons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "371"
+		},
+		{
+			"hymnal": "psalmodie",
+			"number": "303",
+			"title": "Nous croyons (We Believe)"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous croyons en Dieu le Père,",
+				"Créateur de l'univers.",
+				"Et en Christ son Fils unique,",
+				"Né de Dieu par l'Esprit Saint.",
+				"Nous croyons qu'il est mort pour nous,",
+				"Crucifié pour nos péchés.",
+				"Et qu'il est auprès du Père,",
+				"Car Dieu l'a ressuscité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Roi des rois. Roi des rois,",
+				"Jésus, Roi des rois, Roi des rois.",
+				"Jésus, Roi des rois. Roi des rois.",
+				"Jésus, Roi des rois, Roi des rois.",
+				"Ton nom est Tout-Puissant.",
+				"Ton nom est Tout-Puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous croyons qu'il répand sur nous",
+				"Son Esprit avec ses dons.",
+				"Notre Dieu, par sa Parole,",
+				"Nous envoie vers les nations.",
+				"Il revient avec puissance",
+				"Pour juger sa création.",
+				"Tout genou pliera devant lui,",
+				"Hommes et anges confesseront."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Roi des rois. Roi des rois,",
+				"Jésus, Roi des rois, Roi des rois.",
+				"Jésus, Roi des rois. Roi des rois.",
+				"Jésus, Roi des rois, Roi des rois.",
+				"Ton nom est Tout-Puissant.",
+				"Ton nom est Tout-Puissant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem371",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Chorale Psalmodie — psalmodie.ch",
+			"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-3",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

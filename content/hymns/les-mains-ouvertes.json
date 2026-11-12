@@ -1,0 +1,79 @@
+{
+	"id": "les-mains-ouvertes",
+	"title": "Les mains ouvertes",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "190"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Les mains ouvertes devant toi, Seigneur,",
+				"Pour t'offrir le monde !",
+				"Les mains ouvertes devant toi, Seigneur,",
+				"Notre joie est profonde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Garde-nous tout petits devant ta face,",
+				"Simples et purs comme un ruisseau !",
+				"Garde-nous tout petits devant nos frères,",
+				"Et disponibles comme une eau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Les mains ouvertes devant toi, Seigneur,",
+				"Pour t'offrir le monde !",
+				"Les mains ouvertes devant toi, Seigneur,",
+				"Notre joie est profonde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Garde-nous tout petits devant ta face,",
+				"Brûlants d'amour et pleins de joie !",
+				"Garde-nous tout petits parmi nos frères,",
+				"Simples chemins devant leurs pas !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Les mains ouvertes devant toi, Seigneur,",
+				"Pour t'offrir le monde !",
+				"Les mains ouvertes devant toi, Seigneur,",
+				"Notre joie est profonde."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Odette Vercruysse",
+			"role": "music"
+		},
+		{
+			"name": "Odette Vercruysse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem190",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

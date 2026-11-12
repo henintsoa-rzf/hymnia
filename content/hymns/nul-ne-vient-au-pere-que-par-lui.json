@@ -1,0 +1,43 @@
+{
+	"id": "nul-ne-vient-au-pere-que-par-lui",
+	"title": "Nul ne vient au Père que par Lui",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "307"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus dit : «Je suis le Chemin, la Vérité, la Vie.",
+				"Nul ne vient au Père que par moi.»",
+				"Jésus est le seul Chemin,",
+				"C’est lui qui s’est donné.",
+				"Il s’est sacrifié, est mort pour nos péchés.",
+				"Lui seul est ressuscité,",
+				"Dans le ciel élevé.",
+				"Nous prépare une place !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-7",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

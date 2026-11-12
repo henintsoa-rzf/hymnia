@@ -1,0 +1,149 @@
+{
+	"id": "jesus-te-confie",
+	"title": "Jésus te confie",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "365"
+		},
+		{
+			"hymnal": "adf",
+			"number": "614"
+		},
+		{
+			"hymnal": "cd",
+			"number": "334"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus te confie",
+				"Une œuvre d'amour,",
+				"Utile et bénie",
+				"Jusqu'à son retour ;",
+				"Cette sainte tâche,",
+				"Veux-tu l'accomplir",
+				"Pour lui, sans relâche,",
+				"Sans jamais faiblir ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prie, agis, jour après jour,",
+				"Sans broncher,",
+				"suis ton Sauveur avec amour ;",
+				"Sois fidèle, obéissant,",
+				"Et le maître rendra ton travail puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Va chanter la grâce,",
+				"Au près comme au loin.",
+				"Que rien ne te lasse",
+				"D'être un bon témoin,",
+				"Mets-toi sur la liste",
+				"Des vrais combattants,",
+				"Parle, exhorte, insiste,",
+				"En temps, hors de temps."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prie, agis, jour après jour,",
+				"Sans broncher,",
+				"suis ton Sauveur avec amour ;",
+				"Sois fidèle, obéissant,",
+				"Et le maître rendra ton travail puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Va vers la jeunesse,",
+				"Que le tentateur",
+				"Détourne sans cesse,",
+				"Loin du vrai bonheur ;",
+				"Combattant le doute,",
+				"Parle-lui d'amour ;",
+				"Montre-lui la route",
+				"Du ciel, saint séjour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prie, agis, jour après jour,",
+				"Sans broncher,",
+				"suis ton Sauveur avec amour ;",
+				"Sois fidèle, obéissant,",
+				"Et le maître rendra ton travail puissant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Va vers ceux qui meurent",
+				"Sans Dieu, sans espoir ;",
+				"Dis à ceux qui pleurent",
+				"Quand tout semble noir :",
+				"« Jésus donne vie,",
+				"Bonheur, joie et paix",
+				"À qui se confie",
+				"En lui, pour jamais. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Prie, agis, jour après jour,",
+				"Sans broncher,",
+				"suis ton Sauveur avec amour ;",
+				"Sois fidèle, obéissant,",
+				"Et le maître rendra ton travail puissant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil Chants joyeux",
+			"role": "music"
+		},
+		{
+			"name": "James Hunter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg365",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af614",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1134",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

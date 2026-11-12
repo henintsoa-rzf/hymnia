@@ -1,0 +1,53 @@
+{
+	"id": "nous-sommes-ton-peuple",
+	"title": "Nous sommes ton peuple",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "462"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous sommes ton peuple,",
+				"Et nous portons ton nom ;",
+				"Tu nous as rachetés",
+				"Pour proclamer ta gloire.",
+				"Au milieu de l'obscurité,",
+				"Nous sommes la lumière,",
+				"Nous cherchons ta face Seigneur,",
+				"Révèle-toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Construis l'Église, guéris ce pays",
+				"Et que ton royaume vienne.",
+				"Construis l'Église, guéris ce pays,",
+				"Que ta volonté soit faite."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Fellingham",
+			"role": "music"
+		},
+		{
+			"name": "David Fellingham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem462",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

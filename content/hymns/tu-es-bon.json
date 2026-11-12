@@ -1,0 +1,79 @@
+{
+	"id": "tu-es-bon",
+	"title": "Tu es bon",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "194"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je passerai ma vie",
+				"À dire à tous mes frères, que tu es bon !",
+				"Oui, je passerai ma vie",
+				"À dire à tous mes frères que tu es bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! donne à mon cœur le rythme de ta joie,",
+				"O Seigneur avec moi !",
+				"Oh ! donne à ma joie le rythme de ton cœur,",
+				"O Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je passerai ma vie",
+				"À dire à tous mes frères, que tu es bon !",
+				"Oui, je passerai ma vie",
+				"À dire à tous mes frères que tu es bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Donne à ma chanson le rythme de ta vie,",
+				"O Seigneur mon ami !",
+				"Oh ! donne à ma vie le rythme des chansons",
+				"De moisson !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je passerai ma vie",
+				"À dire à tous mes frères, que tu es bon !",
+				"Oui, je passerai ma vie",
+				"À dire à tous mes frères que tu es bon."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Odette Vercruysse",
+			"role": "music"
+		},
+		{
+			"name": "Odette Vercruysse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem194",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,44 @@
+{
+	"id": "debout-jeunesse",
+	"title": "Debout jeunesse",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "136"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Debout, jeunesse, lève-toi,",
+				"Courageuse et vaillante ;",
+				"Accours à l'ordre de Jésus,",
+				"L'âme heureuse et croyante !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il vit ! Il vit ! Il vit ! Il vit !",
+				"Jeunesse, ton Rédempteur vit !",
+				"Il vit ! Oui, ton Rédempteur vit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mélodie allemande",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem136",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

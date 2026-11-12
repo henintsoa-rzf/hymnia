@@ -1,0 +1,43 @@
+{
+	"id": "l-eternel-dieu-au-milieu-de-toi",
+	"title": "L'Éternel Dieu au milieu de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "534"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel Dieu, au milieu de toi,",
+				"Est puissant, tout puissant,",
+				"L'Éternel Dieu, au milieu de toi,",
+				"Est puissant, tout puissant,",
+				"Et je l'ai vu revêtu de gloire,",
+				"De grâce et puissance, et d'autorité.",
+				"Il régnera au milieu de toi,",
+				"Aux siècles des siècles. Amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Blane Morris",
+			"role": "music"
+		},
+		{
+			"name": "Blane Morris",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem534",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,85 @@
+{
+	"id": "je-voudrais-vous-dire-a-genoux",
+	"title": "Je voudrais vous dire à genoux.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "651"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je voudrais vous dire à genoux",
+				"Que l'amour de Jésus est doux.",
+				"Plus doux que je ne puis le dire.",
+				"Plus doux que je ne puis le dire.",
+				"O vous les blessés du chemin !",
+				"Venez : car il vous tend la main,",
+				"Depuis longtemps il vous attire,",
+				"Depuis longtemps il vous attire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je voudrais vous dire à genoux",
+				"Que l'amour de Jésus est doux.",
+				"Vous faire croire à ce mystère.",
+				"Vous faire croire à ce mystère.",
+				"Si vous l'aviez jamais goûté,",
+				"Si vous en saviez la beauté,",
+				"Je ne saurais plus que me taire.",
+				"Je ne saurais plus que me taire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je voudrais vous dire à genoux",
+				"Que l'amour de Jésus est doux.",
+				"Qu'il nourrit l'âme et la délivre,",
+				"Qu'il nourrit l'âme et la délivre,",
+				"Et les malheureux du chemin,",
+				"Qui l'ont reçu n'ont jamais faim :",
+				"Car cet amour-là les fait vivre ;",
+				"Car cet amour-là les fait vivre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! venez vous mettre à genoux :",
+				"Croyez que son amour est doux !",
+				"Dans une offrande solennelle,",
+				"Dans une offrande solennelle,",
+				"Dites-lui : « Je me donne à toi !",
+				"Prends mon amour, mon Dieu, mon Roi",
+				"Le tien, c'est la vie éternelle,",
+				"Le tien, c'est la vie éternelle ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "M. Boissonas",
+			"role": "music"
+		},
+		{
+			"name": "M. Boissonas",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af651",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,71 @@
+{
+	"id": "son-nom-est-plus-grand",
+	"title": "Son Nom est plus grand",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "594"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son nom est plus grand,",
+				"Plus grand que tous les noms",
+				"Sur terre et au ciel ;",
+				"Tout l'univers proclame",
+				"Que Jésus-Christ est Roi !",
+				"Il est Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il a triomphé, Satan est vaincu,",
+				"Le sang de Jésus nous a libérés:",
+				"Jésus-Christ est Roi,",
+				"Il est Seigneur."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Il est l'image du Dieu très haut,",
+				"Par lui tout fut créé.",
+				"Par sa parole, il soutient l'univers",
+				"Et son nom soumet tous les pouvoirs."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Le nom de Jésus partout retentira ;",
+				"Parmi les nations, proclamons sa victoire:",
+				"Jésus-Christ est Roi,",
+				"Il est Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Fellingham",
+			"role": "music"
+		},
+		{
+			"name": "David Fellingham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem594",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -18,7 +18,11 @@ export const results = (page: Page) => page.locator('main .hy-result');
 /** Collections to start with (feature 003). Only seeded when the browser has none yet. */
 export async function seedCollections(
 	page: Page,
-	collections: { name: string; entries?: [hymnal: string, number: string][] }[]
+	collections: {
+		name: string;
+		/** An optional third item is the hymn id the entry was saved for (feature 002). */
+		entries?: [hymnal: string, number: string, hymnId?: string][];
+	}[]
 ) {
 	const at = '2026-11-11T09:00:00.000Z';
 	const doc = {
@@ -29,7 +33,12 @@ export async function seedCollections(
 			createdAt: at,
 			// Later collections are "more recent": they come first in the Répertoire.
 			updatedAt: `2026-11-11T09:0${i}:00.000Z`,
-			entries: (c.entries ?? []).map(([hymnal, number]) => ({ hymnal, number, addedAt: at }))
+			entries: (c.entries ?? []).map(([hymnal, number, hymnId]) => ({
+				hymnal,
+				number,
+				addedAt: at,
+				...(hymnId ? { hymnId } : {})
+			}))
 		}))
 	};
 	await page.addInitScript((json) => {

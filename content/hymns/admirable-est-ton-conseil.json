@@ -1,0 +1,92 @@
+{
+	"id": "admirable-est-ton-conseil",
+	"title": "Admirable est ton conseil",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "722"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Admirable est ton conseil,",
+				"Si grande est ta sagesse ;",
+				"Tu sièges dans les hauteurs,",
+				"Au-dessus de l'univers.",
+				"Que tes actions sont grandioses",
+				"Et tes pensées profondes !",
+				"Tu es le Dieu tout-puissant,",
+				"Infiniment grand !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans mon esprit, ton nom me remplit:",
+				"Père éternel, Roi bienveillant, Dieu qui entend,",
+				"Toi seul es l'Éternel Dieu,",
+				"Seigneur et maître des cieux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Admirable est ton conseil,",
+				"Si grande est ta sagesse ;",
+				"Tu sièges dans les hauteurs,",
+				"Au-dessus de l'univers.",
+				"Que tes actions sont grandioses",
+				"Et tes pensées profondes !",
+				"Tu es le Dieu tout-puissant,",
+				"Infiniment grand !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es parfait dans tous tes aspects:",
+				"Fidélité, miséricorde,",
+				"Justice et paix,",
+				"Patience, immense bonté,",
+				"Sauveur de l'humanité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Admirable est ton conseil,",
+				"Si grande est ta sagesse ;",
+				"Tu sièges dans les hauteurs,",
+				"Au-dessus de l'univers.",
+				"Que tes actions sont grandioses",
+				"Et tes pensées profondes !",
+				"Tu es le Dieu tout-puissant,",
+				"Infiniment grand !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem722",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

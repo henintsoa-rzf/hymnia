@@ -1,0 +1,96 @@
+{
+	"id": "il-faut-pour-te-suivre",
+	"title": "Il faut pour te suivre.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "610"
+		},
+		{
+			"hymnal": "cd",
+			"number": "221"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il faut, pour te suivre,",
+				"Tout perdre d'abord :",
+				"On ne peut revivre",
+				"Sans subir la mort.",
+				"Bien-aimé du Père,",
+				"Tu mourus pour moi ;",
+				"Je veux, au Calvaire,",
+				"Mourir avec Toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mourir à moi-même,",
+				"N'être pas compris,",
+				"Et de ceux que j'aime",
+				"Souffrir le mépris,",
+				"Sans regret, sans haine,",
+				"Renoncer à tout,",
+				"Et l'âme sereine,",
+				"Tenir jusqu'au bout !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus nous appelle,",
+				"En avant, soldats !",
+				"L'armée immortelle",
+				"Ne recule pas !",
+				"Qu'aurions-nous à craindre",
+				"Étant rachetés ?",
+				"Quel mal peut atteindre",
+				"Des ressuscités ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Notre guerre est sainte :",
+				"Notre arme est la croix,",
+				"Combattons sans crainte",
+				"Pour le Roi des Rois.",
+				"Arrachons aux flammes",
+				"Les pécheurs perdus…",
+				"Pour sauver leurs âmes,",
+				"O Christ ! Tu mourus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dimitri Bortniansky",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af610",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1052",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

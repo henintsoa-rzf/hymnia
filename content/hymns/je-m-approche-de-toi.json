@@ -1,0 +1,93 @@
+{
+	"id": "je-m-approche-de-toi",
+	"title": "Je m'approche de toi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "210"
+		},
+		{
+			"hymnal": "adf",
+			"number": "179"
+		},
+		{
+			"hymnal": "cd",
+			"number": "267"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je m'approche de toi,",
+				"Je m'approche de toi,",
+				"Source de vie,",
+				"Source de vie,",
+				"Mon Sauveur, bénis-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fais silence en mon cœur,",
+				"Fais silence en mon cœur,",
+				"Viens et me parle,",
+				"Viens et me parle,",
+				"O mon divin Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rends-moi conforme à toi,",
+				"Rends-moi conforme à toi,",
+				"Divin Modèle,",
+				"Divin Modèle,",
+				"Mets ton image en moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Rends-moi bouillant, Seigneur !",
+				"Rends-moi bouillant, Seigneur !",
+				"Pour ton service,",
+				"Pour ton service,",
+				"Que je parte en vainqueur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg210",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af179",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1298",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

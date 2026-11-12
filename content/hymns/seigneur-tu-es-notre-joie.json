@@ -1,0 +1,59 @@
+{
+	"id": "seigneur-tu-es-notre-joie",
+	"title": "Seigneur, tu es notre joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "231"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, tu es notre joie,",
+				"Notre vie, notre espérance ;",
+				"Seigneur, tu es notre joie,",
+				"Nous ne sommes rien sans toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand parfois dans notre vie,",
+				"Tout est froid et sans lumière,",
+				"C'est vers toi que nous conduit",
+				"L'espoir d'être ton ami."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, tu es notre joie,",
+				"Notre vie, notre espérance ;",
+				"Seigneur, tu es notre joie,",
+				"Nous ne sommes rien sans toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Léon Guillou",
+			"role": "music"
+		},
+		{
+			"name": "Léon Guillou",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem231",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

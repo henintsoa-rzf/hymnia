@@ -1,0 +1,77 @@
+{
+	"id": "jesus-mis-a-mort-pour-moi",
+	"title": "Jésus, mis à mort pour moi.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "224"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, mis à mort pour moi,",
+				"Je cherche un refuge en toi !",
+				"Que ton sang, que l'onde pure",
+				"Découlant de ta blessure,",
+				"Otant mon iniquité,",
+				"Me rendent la liberté !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tous les travaux de mes mains",
+				"Pour Te plaire seraient vains.",
+				"Lors même qu'en ma détresse",
+				"Mes pleurs couleraient sans cesse,",
+				"Ils ne sauraient me laver ;",
+				"Toi seul peux et veux sauver !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, je n'apporte rien ;",
+				"Ta croix seule est mon soutien.",
+				"Je viens à toi sans ressource ;",
+				"Souillé, je viens à la source",
+				"Où les péchés sont lavés",
+				"Et les pécheurs sont sauvés !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu'en toi je vive ici-bas !",
+				"Que je meure entre tes bras !",
+				"Et que, vers ton ciel splendide",
+				"Prenant mon essor rapide,",
+				"Jésus mis à mort pour moi,",
+				"Je trouve un refuge en toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Schop",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af224",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

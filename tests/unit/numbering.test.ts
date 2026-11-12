@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { compareNumbers, normalizeNumber, sortKey } from '$lib/domain/numbering';
+import { compareNumbers, compareSortKeys, normalizeNumber, sortKey } from '$lib/domain/numbering';
 
 describe('sortKey and compareNumbers', () => {
 	it('orders numbers numerically, then by suffix', () => {
@@ -23,6 +23,12 @@ describe('sortKey and compareNumbers', () => {
 
 	it('puts numbers with no digits last', () => {
 		expect(compareNumbers('Annexe', '999')).toBeGreaterThan(0);
+	});
+
+	it('still puts them last after a trip through JSON (the catalog file)', () => {
+		const key = JSON.parse(JSON.stringify(sortKey('Doxologie')));
+		expect(compareSortKeys(key, sortKey('999'))).toBeGreaterThan(0);
+		expect(normalizeNumber('Doxologie')).toBe('doxologie');
 	});
 });
 

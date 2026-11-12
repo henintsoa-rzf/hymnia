@@ -1,0 +1,75 @@
+{
+	"id": "mon-redempteur-vit",
+	"title": "Mon rédempteur vit",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "876"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je sais qu'il m'a secouru,",
+				"Son sang a couvert mes fautes,",
+				"Je le crois, oui je crois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il a enlevé ma honte,",
+				"Je suis guéri en son nom,",
+				"Je le crois, oui je crois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux proclamer :",
+				"« Jésus a vaincu la mort.",
+				"Mon rédempteur vit, mon rédempteur vit !",
+				"Mon rédempteur vit, mon rédempteur vit ! »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu prends mon fardeau,",
+				"Et tu l'emportes.",
+				"Alors je danse sur les sommets,",
+				"Je vois venir ton règne."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Mon rédempteur vit, mon rédempteur vit !",
+				"Mon rédempteur vit, mon rédempteur vit ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Reuben Morgan",
+			"role": "music"
+		},
+		{
+			"name": "Reuben Morgan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem876",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,73 @@
+{
+	"id": "dieu-des-nations",
+	"title": "Dieu des nations",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "987"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu des nations : Jésus-Christ.",
+				"Roi de la terre : Jésus-Christ.",
+				"Prince de paix : Jésus-Christ, le rédempteur.",
+				"Dieu des nations : Jésus-Christ.",
+				"Roi de la terre : Jésus-Christ.",
+				"Prince de paix : Jésus-Christ, le rédempteur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu bienveillant : le Père.",
+				"Dieu trois fois saint : le Père.",
+				"Seigneur de tout : le Père, Dieu éternel.",
+				"Dieu bienveillant : le Père.",
+				"Dieu trois fois saint : le Père.",
+				"Seigneur de tout : le Père, Dieu éternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu révélé : Esprit Saint.",
+				"Consolateur : Esprit Saint.",
+				"Dieu tout-puissant : Esprit Saint, souffle de Dieu.",
+				"Dieu révélé : Esprit Saint.",
+				"Consolateur : Esprit Saint.",
+				"Dieu tout-puissant : Esprit Saint, souffle de Dieu."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ton Église t'adore.",
+				"Ton Église t'adore."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem987",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

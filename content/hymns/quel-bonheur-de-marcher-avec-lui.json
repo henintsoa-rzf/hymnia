@@ -1,0 +1,62 @@
+{
+	"id": "quel-bonheur-de-marcher-avec-lui",
+	"title": "Quel bonheur de marcher avec lui !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "361"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel bonheur de marcher avec lui !",
+				"Quel bonheur de marcher avec lui !",
+				"Il conduira tous les pas",
+				"De mon voyage, ici-bas,",
+				"Quel bonheur de marcher avec lui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quel bonheur d'avoir un tel Sauveur !",
+				"Quel bonheur d'avoir un tel Sauveur !",
+				"Il me garde dans sa main,",
+				"Me conduit dans son chemin !",
+				"Quel bonheur d'avoir un tel Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quel bonheur de pouvoir le servir !",
+				"Quel bonheur de pouvoir le servir !",
+				"Il est fidèle et puissant,",
+				"Son cœur toujours me comprend !",
+				"Quel bonheur de pouvoir le servir !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Haldor Lillenas",
+			"role": "music"
+		},
+		{
+			"name": "A. Omer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg361",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

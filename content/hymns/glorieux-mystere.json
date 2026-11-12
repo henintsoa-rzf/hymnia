@@ -1,0 +1,131 @@
+{
+	"id": "glorieux-mystere",
+	"title": "Glorieux mystère",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1194"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Insondable mystère,",
+				"Amour venu sur terre,",
+				"Vainqueur de nos frontières,",
+				"Tu t’es révélé à nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Insaisissable grandeur,",
+				"Amour divin créateur,",
+				"Par ton Esprit dans nos cœurs,",
+				"Viens te révéler à nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Revêtu de lumière,",
+				"Éclatant de gloire,",
+				"Tu restes le même à jamais.",
+				"Couronné de splendeur,",
+				"À toi soit tout l’honneur,",
+				"De tous nos cœurs nous t’adorons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Insaisissable grandeur,",
+				"Amour divin créateur,",
+				"Par ton Esprit dans nos cœurs,",
+				"Viens te révéler à nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Revêtu de lumière,",
+				"Éclatant de gloire,",
+				"Tu restes le même à jamais.",
+				"Couronné de splendeur,",
+				"À toi soit tout l’honneur,",
+				"De tous nos cœurs nous t’adorons."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Fais-nous connaître l’immensité,",
+				"Les profondeurs et la beauté",
+				"De ton amour sans fin."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dévoile-nous dans le secret,",
+				"Oui, l’étendue de qui tu es.",
+				"Nous désirons ton cœur."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Fais-nous connaître l’immensité,",
+				"Les profondeurs et la beauté",
+				"De ton amour sans fin."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dévoile-nous dans le secret,",
+				"Oui, l’étendue de qui tu es.",
+				"Nous désirons ton cœur."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Revêtu de lumière,",
+				"Éclatant de gloire,",
+				"Tu restes le même à jamais.",
+				"Couronné de splendeur,",
+				"À toi soit tout l’honneur,",
+				"De tous nos cœurs nous t’adorons."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Andrick Lucien, Marielly Juarez et Simon Bellavance",
+			"role": "music"
+		},
+		{
+			"name": "Andrick Lucien, Marielly Juarez et Simon Bellavance",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1194",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,92 @@
+{
+	"id": "hosanna-beni-soit",
+	"title": "Hosanna, béni soit",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "68"
+		},
+		{
+			"hymnal": "adf",
+			"number": "36"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Hosanna ! Béni soit",
+				"le Sauveur débonnaire",
+				"Qui vers nous, plein d'amour,",
+				"descend du sein du Père !",
+				"Béni soit le Seigneur,",
+				"qui vient des plus hauts cieux",
+				"Apporter aux humains,",
+				"un salut glorieux ! un salut glorieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Hosanna ! Béni soit le Prince de la vie !",
+				"Que de joie, en son nom,",
+				"notre âme soit ravie !",
+				"Qu'en des accents nouveaux",
+				"elle éclate aujourd'hui ;",
+				"Que tout enfant de Dieu",
+				"tressaille devant Lui, tressaille devant lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Hosanna ! Béni soit cet ami charitable",
+				"Que le plus grand pécheur",
+				"va trouver favorable !",
+				"Humble et sans apparat, sous notre humanité",
+				"Il a voilé l'éclat de sa divinité, de sa divinité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Hosanna ! Béni soit Jésus notre justice !",
+				"Pour nous, pauvres pécheurs,",
+				"il s'offre en sacrifice !",
+				"Ce Fils du Dieu très-haut,",
+				"ce puissant Roi des rois,",
+				"Pour nous ouvrir le ciel",
+				"vient mourir sur la croix,",
+				"vient mourir sur la croix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg068",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af036",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

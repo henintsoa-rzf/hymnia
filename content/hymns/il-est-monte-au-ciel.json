@@ -1,0 +1,60 @@
+{
+	"id": "il-est-monte-au-ciel",
+	"title": "Il est monté au ciel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1147"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est monté au ciel,",
+				"Il a reçu la gloire,",
+				"La louange éternelle.",
+				"On ne peut plus le voir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À la droite du Père,",
+				"Le Roi de l’univers !",
+				"Il nous donne l’Esprit ;",
+				"Il prend soin de nos vies."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Amen ! il est notre avocat !",
+				"Amen ! il ne nous oublie pas !",
+				"Il intercède, il reviendra",
+				"Et il nous donne",
+				"L’assurance qu’il sera toujours là."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pascal Gonzalez",
+			"role": "music"
+		},
+		{
+			"name": "Pascal Gonzalez",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1147",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

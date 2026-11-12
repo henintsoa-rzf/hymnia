@@ -1,0 +1,77 @@
+{
+	"id": "oui-selon-ta-promesse",
+	"title": "Oui, selon ta promesse.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "404"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, selon ta promesse,",
+				"O Jésus, mon Sauveur,",
+				"J'ai trouvé l'allégresse",
+				"Auprès de la douleur,",
+				"Le rayon qui rassure",
+				"Dans la plus sombre nuit,",
+				"Un baume à la blessure,",
+				"Dans l'épreuve un appui ;",
+				"Un baume à la blessure,",
+				"Dans l'épreuve un appui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans le désert aride,",
+				"Et sous un ciel brûlant,",
+				"Une eau fraîche et limpide",
+				"Du rocher jaillissant,",
+				"L'ombre de la nuée",
+				"Abritant le chemin,",
+				"La céleste rosée",
+				"Qui remplace le pain,",
+				"La céleste rosée",
+				"Qui remplace le pain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, mon Roi, mon Maître,",
+				"N'es-tu pas tout pour moi ?",
+				"La source de mon être,",
+				"Le rocher de ma foi,",
+				"Le soleil qui m'éclaire,",
+				"Le ciel qui me sourit,",
+				"L'eau qui me désaltère,",
+				"Le pain qui me nourrit !",
+				"L'eau qui me désaltère,",
+				"Le pain qui me nourrit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ira David Sankey",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af404",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

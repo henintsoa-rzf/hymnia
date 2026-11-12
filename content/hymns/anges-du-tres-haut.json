@@ -1,0 +1,79 @@
+{
+	"id": "anges-du-tres-haut",
+	"title": "Anges du Très-Haut",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "40"
+		},
+		{
+			"hymnal": "adf",
+			"number": "526"
+		},
+		{
+			"hymnal": "cd",
+			"number": "14"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Anges du Très-haut, louez le Seigneur,",
+				"Et du Saint des saints chantez la grandeur !",
+				"Toujours enflammés d'une pure ardeur,",
+				"Bénissez le nom du Dieu Créateur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Saints glorifiés, chœurs des bienheureux,",
+				"Vous qui contemplez déjà dans les cieux",
+				"Du jour éternel l'éclat radieux",
+				"Louez du Sauveur le nom glorieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'ici-bas aussi, de nos cœurs fervents",
+				"Montent chaque jour nos vœux et nos chants.",
+				"Pour louer de Dieu la gloire en tous temps,",
+				"Et répondre aux voix des cieux triomphants."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr. William Croft",
+			"role": "music"
+		},
+		{
+			"name": "Eugène Bersier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg040",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af526",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/841",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

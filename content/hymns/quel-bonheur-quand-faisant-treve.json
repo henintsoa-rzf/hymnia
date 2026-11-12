@@ -1,0 +1,85 @@
+{
+	"id": "quel-bonheur-quand-faisant-treve",
+	"title": "Quel bonheur quand faisant trêve.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "487"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel bonheur quand, faisant trêve",
+				"Un moment à nos labeurs,",
+				"L'aube du saint jour se lève",
+				"Dans le ciel et dans nos cœurs !",
+				"Dès le matin, plus légère,",
+				"L'âme s'élève au Seigneur",
+				"Sur l'aile de la prière :",
+				"Quel bonheur ! Quel bonheur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'été, la nature en fête",
+				"Élève ensuite sa voix ;",
+				"On l'entend, où qu'on s'arrête,",
+				"Dans les champs et dans les bois.",
+				"L'oiseau, la fleur, le brin d'herbe",
+				"Chante aussi bien son Auteur",
+				"Que la montagne superbe.",
+				"Quel bonheur ! Quel bonheur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L'hiver, voici la demeure",
+				"Du pauvre et de l'orphelin,",
+				"Où l'on a froid, où l'on pleure :",
+				"Oh ! prenons-en le chemin !",
+				"À soulager la souffrance,",
+				"À faire en leur triste cœur",
+				"Luire un rayon d'espérance,",
+				"Quel bonheur ! Quel bonheur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le soir, quand la lampe brille,",
+				"On lit ou l'on cause un peu,",
+				"Puis le père de famille",
+				"Ouvre le livre de Dieu ;",
+				"Et, sous la garde invisible",
+				"De son ange protecteur,",
+				"Le foyer s'endort paisible.",
+				"Quel bonheur ! Quel bonheur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mme Martin-Hickel",
+			"role": "music"
+		},
+		{
+			"name": "Louis Tournier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af487",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

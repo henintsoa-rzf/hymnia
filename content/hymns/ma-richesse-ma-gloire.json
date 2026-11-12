@@ -1,0 +1,91 @@
+{
+	"id": "ma-richesse-ma-gloire",
+	"title": "Ma richesse, ma gloire",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "69"
+		},
+		{
+			"hymnal": "adf",
+			"number": "44"
+		},
+		{
+			"hymnal": "cd",
+			"number": "48"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ma richesse, ma gloire",
+				"Et ma félicité,",
+				"O Jésus, c'est de croire",
+				"Que tu m'as racheté !",
+				"Rempli de confiance",
+				"En Toi, divin Sauveur,",
+				"Je vis dans l'espérance",
+				"Et je marche sans peur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rien n'ôte les souillures,",
+				"Rien ne guérit le cœur,",
+				"Sinon les meurtrissures",
+				"Et le sang du Sauveur.",
+				"Oui, Jésus seul nous lave",
+				"De toute iniquité,",
+				"Et procure à l'esclave",
+				"L'heureuse liberté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! que toute la terre",
+				"Apporte à ce Sauveur",
+				"Ses péchés, sa misère !",
+				"Il fait grâce au pécheur.",
+				"Son amour insondable",
+				"Lui fit quitter le ciel,",
+				"Pour donner au coupable",
+				"Un salut éternel."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Henry Purday",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Bez",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg069",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af044",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/857",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

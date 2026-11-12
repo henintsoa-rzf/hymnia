@@ -1,0 +1,99 @@
+{
+	"id": "elevez-vous",
+	"title": "Élevez-vous",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "856"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seou shearim rasheichem",
+				"Ve yavo melech hakavod !",
+				"Seou shearim rasheichem",
+				"Ve yavo melech hakavod !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mi hou zeh melech hakavod ?",
+				"Adonaï tsevaot !",
+				"Mi hou zeh melech hakavod ?",
+				"Adonaï tsevaot !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Élevez-vous portails éternels",
+				"Et que le roi de gloire fasse son entrée !",
+				"Élevez-vous portails éternels",
+				"Et que le roi de gloire fasse son entrée !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élevez-vous portails éternels",
+				"Et que le roi de gloire fasse son entrée !",
+				"Élevez-vous portails éternels",
+				"Et que le roi de gloire fasse son entrée !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel est le nom de ce roi de gloire ?",
+				"L'Éternel des armées !",
+				"Quel est le nom de ce roi de gloire ?",
+				"Adonaï tsevaot !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quel est le nom de son fils ?",
+				"Et des merveilles qu'il accomplit ?",
+				"Quel est le nom de son fils ?",
+				"Ye shoua hama shiach."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élevez-vous portails éternels",
+				"Et que le roi de gloire fasse son entrée !",
+				"Élevez-vous portails éternels",
+				"Et que le roi de gloire fasse son entrée !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Avner Boskey",
+			"role": "music"
+		},
+		{
+			"name": "Avner Boskey",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem856",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

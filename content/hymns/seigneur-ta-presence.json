@@ -1,0 +1,67 @@
+{
+	"id": "seigneur-ta-presence",
+	"title": "Seigneur ta présence",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "938"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, ta présence fait la différence !",
+				"Tu habites en moi, en toi j'ai confiance,",
+				"Tu diriges mes pas vers ton abondance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ça change tout quand tu es là.",
+				"Mon cœur te loue, ta paix demeure en moi.",
+				"Tu fortifies mes mains affaiblies,",
+				"Tu me rafraîchis par ton fleuve de vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, ta présence fait la différence !",
+				"Tu habites en moi, en toi j'ai confiance,",
+				"Tu diriges mes pas vers ton abondance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma délivrance, face aux vents forts.",
+				"Mon assurance pour la vie et la mort.",
+				"Mon espérance, c'est mon seul trésor,",
+				"Ma préférence, toi, Jésus, je t'adore !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond ; Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond ; Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem938",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

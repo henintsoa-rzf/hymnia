@@ -1,0 +1,79 @@
+{
+	"id": "jesus-ressuscite",
+	"title": "Jésus, ressuscité",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "282"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, ressuscité !",
+				"Assis à la droite du Père,",
+				"Tu es au-dessus de tout pouvoir,",
+				"De toute autorité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le Roi qui règne sur nous.",
+				"C'est à toi que tout est soumis",
+				"Et dans ton amour",
+				"Seigneur, tu remplis nos vies.",
+				"Tu es le Roi qui règne sur nous.",
+				"C'est à toi que tout est soumis",
+				"Et dans ton amour",
+				"Seigneur, tu remplis nos vies."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, ressuscité !",
+				"Assis à la droite du Père,",
+				"Tu es au-dessus de tout pouvoir,",
+				"De toute autorité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es le Roi qui règne sur nous.",
+				"C'est à toi que tout est soumis",
+				"Et dans ton amour",
+				"Seigneur, tu remplis nos vies.",
+				"Tu es le Roi qui règne sur nous.",
+				"C'est à toi que tout est soumis",
+				"Et dans ton amour",
+				"Seigneur, tu remplis nos vies,",
+				"Tu remplis nos vies,",
+				"Dans ton amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem282",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

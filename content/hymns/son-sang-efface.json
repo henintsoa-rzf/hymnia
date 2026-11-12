@@ -1,0 +1,59 @@
+{
+	"id": "son-sang-efface",
+	"title": "Son sang efface",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "499"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son sang efface",
+				"Toute condamnation",
+				"Pour ceux qui demeurent en Jésus.",
+				"Son sang efface",
+				"Toute condamnation",
+				"Pour ceux qui demeurent en Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car la loi de la grâce,",
+				"En Jésus, efface",
+				"Et libère de la mort et du péché."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son sang efface",
+				"Toute condamnation",
+				"Pour ceux qui demeurent en Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles F. Monroe",
+			"role": "music"
+		},
+		{
+			"name": "Charles F. Monroe",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem499",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

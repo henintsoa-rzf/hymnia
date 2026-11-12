@@ -1,0 +1,65 @@
+{
+	"id": "merveilleux-seigneur",
+	"title": "Merveilleux Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "579"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Merveilleux Seigneur,",
+				"Merveilleux Sauveur,",
+				"Nous t'adorons,",
+				"Nous t'adorons,",
+				"Nous t'adorons,",
+				"Merveilleux Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Merveilleux Seigneur,",
+				"Merveilleux Sauveur,",
+				"Nous t'adorons,",
+				"Nous t'adorons,",
+				"Nous t'adorons,",
+				"Merveilleux Seigneur."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Nous t'adorons,",
+				"Nous t'adorons,",
+				"Nous t'adorons,",
+				"Merveilleux Seigneur,",
+				"Merveilleux Seigneur,",
+				"Merveilleux Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dave Bell",
+			"role": "music"
+		},
+		{
+			"name": "Dave Bell",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem579",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

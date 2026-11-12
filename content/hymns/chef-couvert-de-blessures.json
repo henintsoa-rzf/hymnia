@@ -1,0 +1,105 @@
+{
+	"id": "chef-couvert-de-blessures",
+	"title": "Chef couvert de blessures",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "117"
+		},
+		{
+			"hymnal": "adf",
+			"number": "100"
+		},
+		{
+			"hymnal": "cd",
+			"number": "100"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chef couvert de blessures,",
+				"Meurtri par nous pécheurs,",
+				"Chef accablé d'injures,",
+				"D'opprobres, de douleurs,",
+				"Des splendeurs éternelles",
+				"Naguère environné,",
+				"C'est d'épines cruelles",
+				"Qu'on te voit couronné !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est ainsi que tu paies",
+				"Le prix de ma rançon.",
+				"Tes langueurs et tes plaies,",
+				"Voilà ma guérison.",
+				"Mon âme criminelle",
+				"Est à tes pieds, Seigneur ;",
+				"Daigne jeter sur elle",
+				"Un regard de faveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Au sein de ma misère,",
+				"Sauvé par ton amour,",
+				"Pour toi, que puis-je faire ?",
+				"Que t'offrir en retour ?",
+				"Ah ! du moins, Dieu suprême,",
+				"Prends à jamais mon cœur :",
+				"Qu'il te serve et qu'il t'aime,",
+				"Plein d'une sainte ardeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour ta longue agonie,",
+				"Pour ta mort sur la croix,",
+				"Je veux toute ma vie",
+				"Te louer, Roi des rois !",
+				"Ta grâce est éternelle,",
+				"Et rien jusqu'à la fin",
+				"Ne pourra, Dieu fidèle,",
+				"Me ravir de ta main."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hans Leo Hassler",
+			"role": "music"
+		},
+		{
+			"name": "Émile Guers",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg117",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af100",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/902",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

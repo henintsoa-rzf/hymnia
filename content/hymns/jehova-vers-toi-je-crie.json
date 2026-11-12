@@ -1,0 +1,74 @@
+{
+	"id": "jehova-vers-toi-je-crie",
+	"title": "Jéhova, vers toi je crie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "185"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jéhova, vers toi je crie,",
+				"Dans ce désert, guide-moi !",
+				"Toute ma force est tarie,",
+				"Tout mon espoir est en toi.",
+				"Pain de vie,",
+				"Pain de vie,",
+				"Pain de vie,",
+				"Viens du ciel nourrir ma foi.",
+				"Viens du ciel nourrir ma foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jaillis, onde qui fais vivre !",
+				"Colonne d'ombre et de feu,",
+				"Nuit et jour je veux te suivre.",
+				"Que ta présence, ô grand Dieu !",
+				"Me délivre,",
+				"Me délivre,",
+				"Me délivre",
+				"Et m'environne en tout lieu !",
+				"Et m'environne en tout lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Lorsque la Mort, fleuve étrange,",
+				"Sous ses flots m'engloutira,",
+				"Sur l'autre rive, ton ange,",
+				"Éternel, me portera !",
+				"Ma louange,",
+				"Ma louange,",
+				"Ma louange",
+				"Vers toi toujours montera.",
+				"Vers toi toujours montera."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Owen",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af185",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

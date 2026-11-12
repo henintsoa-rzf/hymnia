@@ -1,0 +1,105 @@
+{
+	"id": "a-tes-pieds-o-divin-maitre",
+	"title": "À tes pieds, ô divin Maître",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "293"
+		},
+		{
+			"hymnal": "adf",
+			"number": "313"
+		},
+		{
+			"hymnal": "cd",
+			"number": "127"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À tes pieds, ô divin Maître,",
+				"Je me place avec bonheur !",
+				"En t'adorant, je veux être",
+				"Ton disciple, ô mon Sauveur !",
+				"Parle ! j'ai soif de t'entendre,",
+				"Parle ! je n'ai qu'un désir :",
+				"Que ta voix puissante et tendre",
+				"À mon cœur se fasse ouïr."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Faites place, ô voix humaines,",
+				"À la voix de mon Sauveur !",
+				"Pensers vains et choses vaines,",
+				"Eloignez-vous de mon cœur !",
+				"Tous les bruits, faites silence !",
+				"Toi, mon Maître, parle-moi !",
+				"Recueillie en ta présence,",
+				"Mon âme n'entend que toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Parle-moi, Témoin fidèle !",
+				"Découvre-moi le trésor",
+				"De ta sagesse éternelle ;",
+				"Parle, ô Maître ! parle encor.",
+				"Ta parole, c'est la vie,",
+				"C'est la lumière et la paix ;",
+				"À ton école bénie",
+				"Je veux rester à jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Parle ! et pour que je comprenne",
+				"Ton enseignement divin,",
+				"Dans ta grâce souveraine,",
+				"Instruis-moi par l'Esprit-Saint.",
+				"Parle et pour que j'obéisse",
+				"À tes ordres aussitôt,",
+				"Forme-moi pour ton service,",
+				"Pour te suivre, saint Agneau !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Silas Jones Vail",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg293",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af313",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/963",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

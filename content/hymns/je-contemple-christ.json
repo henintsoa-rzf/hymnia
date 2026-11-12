@@ -1,0 +1,123 @@
+{
+	"id": "je-contemple-christ",
+	"title": "Je contemple Christ",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "25"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand l’aurore resplendit,",
+				"Je contemple Christ.",
+				"À la tombée de la nuit,",
+				"Je contemple Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand je chante d’allégresse,",
+				"Je contemple Christ.",
+				"Dans mes larmes de détresse,",
+				"Je contemple Christ."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon Seigneur, mon Dieu,",
+				"Ma ferme espérance,",
+				"Couronne de joie et de justice,",
+				"Éternels délices de mon âme",
+				"Et mon chant,",
+				"Je contemple Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand le monde me séduit,",
+				"Je contemple Christ.",
+				"Et lorsque mon pied fléchit,",
+				"Je contemple Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand l’Accusateur me blâme,",
+				"Je contemple Christ.",
+				"Dans la sombre nuit de l’âme,",
+				"Je contemple Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"À l’approche du déclin,",
+				"Je contemple Christ.",
+				"À jamais mon doux refrain :",
+				"Je contemple Christ."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/jecontemplechrist",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

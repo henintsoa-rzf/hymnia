@@ -1,0 +1,120 @@
+{
+	"id": "viens-au-pere-qui-t-appelle",
+	"title": "Viens au Père qui t'appelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "252"
+		},
+		{
+			"hymnal": "cd",
+			"number": "148"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens au Père qui t'appelle,",
+				"Oh ! reviens à la maison !",
+				"Voici l'heure est solennelle,",
+				"Où Dieu t'offre son pardon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aujourd'hui, viens à Lui !",
+				"Ah ! pourquoi tarderais-tu ?",
+				"Aujourd'hui, viens à Lui !",
+				"Viens, reçois son grand salut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Trop longtemps, dans la misère,",
+				"Tu vécus sans vrai bonheur !",
+				"Se peut-il que tu préfères",
+				"Fuir encor loin du Sauveur ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aujourd'hui, viens à Lui !",
+				"Ah ! pourquoi tarderais-tu ?",
+				"Aujourd'hui, viens à Lui !",
+				"Viens, reçois son grand salut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ah ! ton âme est angoissée,",
+				"En vain tu cherchas la paix ;",
+				"Par sa croix qui fut dressée,",
+				"Christ la donne, et pour jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aujourd'hui, viens à Lui !",
+				"Ah ! pourquoi tarderais-tu ?",
+				"Aujourd'hui, viens à Lui !",
+				"Viens, reçois son grand salut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À Jésus dis ta souffrance,",
+				"Parle-Lui de ton péché,",
+				"Mets en Lui ton espérance,",
+				"Car en Lui Dieu t'a cherché."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aujourd'hui, viens à Lui !",
+				"Ah ! pourquoi tarderais-tu ?",
+				"Aujourd'hui, viens à Lui !",
+				"Viens, reçois son grand salut !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Clinton Case",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af252",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/983",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

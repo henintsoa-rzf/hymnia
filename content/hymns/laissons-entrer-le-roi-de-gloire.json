@@ -1,0 +1,111 @@
+{
+	"id": "laissons-entrer-le-roi-de-gloire",
+	"title": "Laissons entrer le Roi de gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1097"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous venons célébrer Dieu,",
+				"Nous voulons l'adorer.",
+				"Devant lui, nous nous courbons",
+				"Pour élever son nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Laissons entrer le Roi de gloire,",
+				"Acclamons le Dieu de victoire.",
+				"Il est vainqueur, faisons-lui place.",
+				"Il est Roi, il est Roi et Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu est là, il nous attend.",
+				"Il entend nos prières.",
+				"Sa parole est éternelle",
+				"Elle est notre essentiel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Laissons entrer le Roi de gloire,",
+				"Acclamons le Dieu de victoire.",
+				"Il est vainqueur, faisons-lui place.",
+				"Il est Roi, il est Roi et Seigneur."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Accueillons notre Dieu,",
+				"Il est le Merveilleux,",
+				"Glorieux, Majestueux.",
+				"Accueillons notre Dieu,",
+				"Il est le Merveilleux,",
+				"Glorieux, Majestueux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Laissons entrer le Roi de gloire,",
+				"Acclamons le Dieu de victoire.",
+				"Il est vainqueur, faisons-lui place.",
+				"Il est Roi, il est Roi et Seigneur."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh ! oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dan Luiten et Jérémie Poulet",
+			"role": "music"
+		},
+		{
+			"name": "Dan Luiten et Jérémie Poulet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1097",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

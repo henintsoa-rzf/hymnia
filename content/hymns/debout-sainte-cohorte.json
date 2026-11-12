@@ -3,8 +3,20 @@
 	"title": "Debout, sainte cohorte",
 	"entries": [
 		{
-			"hymnal": "ce",
-			"number": "12"
+			"hymnal": "atg",
+			"number": "352"
+		},
+		{
+			"hymnal": "adf",
+			"number": "359"
+		},
+		{
+			"hymnal": "jem",
+			"number": "664"
+		},
+		{
+			"hymnal": "cd",
+			"number": "327"
 		}
 	],
 	"sections": [
@@ -14,21 +26,89 @@
 			"lines": [
 				"Debout, sainte cohorte,",
 				"Soldats du Roi des rois !",
-				"Tenez d’une main forte",
-				"L’étendard de la croix !",
+				"Tenez d'une main forte",
+				"L'étendard de la croix.",
 				"Au sentier de la gloire",
-				"Jésus-Christ vous conduit ;",
+				"Jésus-Christ nous conduit ;",
 				"De victoire en victoire",
 				"Il mène qui le suit."
 			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Debout, le clairon sonne,",
+				"Debout, vaillants soldats !",
+				"L'immortelle couronne",
+				"Est le prix des combats.",
+				"Si l'ennemi fait rage,",
+				"Soyez fermes et forts ;",
+				"Redoublez de courage",
+				"S'il redouble d'efforts."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Debout pour la bataille !",
+				"Partez, n'hésitez plus ;",
+				"Pour que nul ne défaille,",
+				"Regardez à Jésus.",
+				"De l'armure invincible,",
+				"Soldats, revêtez-vous !",
+				"Le triomphe est possible",
+				"Pour qui lutte à genoux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Debout, debout encore !",
+				"Luttez jusqu'au matin.",
+				"Déjà brille l'aurore",
+				"À l'horizon lointain.",
+				"Bientôt, jetant nos armes",
+				"Aux pieds du Roi des rois,",
+				"Les chants après les larmes,",
+				"Le trône après la croix."
+			]
 		}
 	],
-	"credits": [],
+	"credits": [
+		{
+			"name": "George James Webb",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
 	"source": {
-		"name": "Échantillon de test — domaine public, texte non vérifié",
-		"url": null,
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg352",
 		"retrievedAt": "2026-11-11"
 	},
-	"rights": "public-domain",
-	"corrections": []
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af359",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem664",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/717",
+			"retrievedAt": "2026-11-11"
+		}
+	]
 }

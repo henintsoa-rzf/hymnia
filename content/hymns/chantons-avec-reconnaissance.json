@@ -1,0 +1,110 @@
+{
+	"id": "chantons-avec-reconnaissance",
+	"title": "Chantons avec reconnaissance.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "571"
+		},
+		{
+			"hymnal": "cd",
+			"number": "131"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons avec reconnaissance",
+				"Un saint cantique à notre Dieu.",
+				"C'est son amour, c'est sa puissance",
+				"Qui nous rassemblent en ce lieu.",
+				"C'est déjà le ciel sur la terre,",
+				"C'est l'aube du jour éternel.",
+				"Voici les fils d'un même Père",
+				"Unis dans l'Amour fraternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rien autre, ô Jésus, que ta grâce",
+				"N'aurait pu joindre en un seul corps",
+				"Ces enfants d'une pauvre race",
+				"Qui se déchiraient sans remords.",
+				"De pleurs et de sang arrosée,",
+				"La terre va enfin refleurir.",
+				"Et la colombe s'est posée",
+				"Sur le monde près de périr."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Hélas ! Nous ne sommes encore",
+				"Qu'un faible et timide troupeau.",
+				"On nous méprise, on nous ignore,",
+				"Nous, l'espoir d'un monde nouveau.",
+				"Ranime, ô Seigneur, ton Église !",
+				"Qu'elle soit en ces jours mauvais,",
+				"Sur le roc des siècles assise,",
+				"Le phare auguste de la paix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que, des ténèbres de l'abîme",
+				"Où leur révolte les jeta,",
+				"À cette lumière sublime",
+				"Les pécheurs voient le Golgotha !",
+				"Que vers la cité du refuge,",
+				"Ils accourent de tous côtés,",
+				"Ceux qui redoutent le Grand Juge,",
+				"Mais que ta grâce a rachetés !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Alors viendra l'heure promise",
+				"Où, couronnant tes longs travaux,",
+				"Tu donnera à ton Église",
+				"La royauté des cieux nouveaux.",
+				"O temple, ô maison paternelle !",
+				"Bientôt, délivrés de la mort",
+				"Et beaux d'une gloire éternelle",
+				"Nous franchirons tes portes d'or."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joseph Haydn",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af571",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/967",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

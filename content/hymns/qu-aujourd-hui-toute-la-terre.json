@@ -1,0 +1,80 @@
+{
+	"id": "qu-aujourd-hui-toute-la-terre",
+	"title": "Qu'aujourd'hui toute la terre",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "197"
+		},
+		{
+			"hymnal": "adf",
+			"number": "169"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qu'aujourd'hui toute la terre",
+				"S'égaie au nom du Seigneur !",
+				"Qu'à Dieu monte sa prière,",
+				"Par Jésus le Rédempteur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qu'aujourd'hui son Évangile",
+				"En tous lieux soit publié ;",
+				"Qu'à porter son joug facile",
+				"Tout pécheur soit convié."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'aujourd'hui beaucoup d'esclaves",
+				"De l'erreur et de la mort,",
+				"Soient tirés de leurs entraves",
+				"Par la grâce du Dieu fort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu'aujourd'hui la paix descende,",
+				"Seigneur, sur tous tes enfants",
+				"Et que partout l'on entende",
+				"Leurs hymnes reconnaissants !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Gabrieli",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg197",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af169",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"id": "dieu-sublime",
+	"title": "Dieu sublime",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "2"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui est semblable à notre Dieu,",
+				"Suprême, éternel, infini ?",
+				"Il règne seul, majestueux,",
+				"Tout pouvoir tremble devant lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui est semblable au Créateur ?",
+				"Lui seul peut insuffler la vie.",
+				"Le sage et souverain Auteur",
+				"Par aucune main n’est servi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Qui ne pourrait se prosterner,",
+				"Devant sa gloire s’écrier :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu sublime, tu es digne",
+				"De révérence en tous lieux,",
+				"De confiance, d’espérance.",
+				"Nul n’est comme notre Dieu,",
+				"Nul n’est comme notre Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qui est semblable au Trois-fois-saint ?",
+				"Il siège en gloire, irréprochable,",
+				"Fontaine de bonté sans fin,",
+				"Ceint de justice inébranlable."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qui est semblable à l’Éternel ?",
+				"Sa grâce il donne en abondance.",
+				"Son amour bienveillant, fidèle,",
+				"Surpasse toute connaissance."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Qui est semblable au Rédempteur ?",
+				"Son dessein il accomplira.",
+				"Ferme Rocher, puissant Sauveur,",
+				"Tout autre appui s’effondrera."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/dieusublime",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

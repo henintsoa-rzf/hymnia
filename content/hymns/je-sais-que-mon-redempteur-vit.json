@@ -1,0 +1,59 @@
+{
+	"id": "je-sais-que-mon-redempteur-vit",
+	"title": "Je sais que mon rédempteur vit",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "118"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je sais que mon rédempteur vit,",
+				"Il intercède pour moi.",
+				"Dans son amour il m'enrichit",
+				"Et il soutient ma foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De toi j'ai tout reçu Seigneur,",
+				"Délivrance et pardon,",
+				"La paix, la grâce et le bonheur,",
+				"Loué soit son saint nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta parole est mon sûr appui,",
+				"Et j'y crois fermement;",
+				"En toi, Seigneur, je me confie,",
+				"À ton commandement."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "R. Peterson",
+			"role": "unspecified"
+		},
+		{
+			"name": "George Frideric Haendel",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/936",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,133 @@
+{
+	"id": "le-plus-grand-amour",
+	"title": "Le plus grand amour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "782"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a pas de plus grand amour",
+				"Que de donner sa vie",
+				"pour ceux qu'on aime.",
+				"Aimons-nous les uns les autres,",
+				"Car Dieu est amour.",
+				"Il n'y a pas de plus grand amour",
+				"Que de donner sa vie",
+				"pour ceux qu'on aime.",
+				"Aimons-nous les uns les autres,",
+				"Car Dieu est amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu le premier nous aima",
+				"En livrant pour nous son Fils,",
+				"Qui est mort sur une croix",
+				"Pour nous sauver du péché."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a pas de plus grand amour",
+				"Que de donner sa vie",
+				"pour ceux qu'on aime.",
+				"Aimons-nous les uns les autres,",
+				"Car Dieu est amour.",
+				"Il n'y a pas de plus grand amour",
+				"Que de donner sa vie",
+				"pour ceux qu'on aime.",
+				"Aimons-nous les uns les autres,",
+				"Car Dieu est amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oui, nous avons reconnu",
+				"L'amour que Dieu a pour nous",
+				"Et nous avons cru en lui ;",
+				"Dieu est lumière et amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a pas de plus grand amour",
+				"Que de donner sa vie",
+				"pour ceux qu'on aime.",
+				"Aimons-nous les uns les autres,",
+				"Car Dieu est amour.",
+				"Il n'y a pas de plus grand amour",
+				"Que de donner sa vie",
+				"pour ceux qu'on aime.",
+				"Aimons-nous les uns les autres,",
+				"Car Dieu est amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand il mourut sur la croix,",
+				"Jésus nous remit l'Esprit",
+				"Pour que tout homme qui croit",
+				"Boive aux sources de la vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a pas de plus grand amour",
+				"Que de donner sa vie",
+				"pour ceux qu'on aime.",
+				"Aimons-nous les uns les autres,",
+				"Car Dieu est amour.",
+				"Il n'y a pas de plus grand amour",
+				"Que de donner sa vie",
+				"pour ceux qu'on aime.",
+				"Aimons-nous les uns les autres,",
+				"Car Dieu est amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Gardons ses commandements",
+				"Et nous serons ses amis ;",
+				"Qui demeure en son amour",
+				"Portera beaucoup de fruit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Bruno Ben ; Harmonisation: Barbara Fady",
+			"role": "music"
+		},
+		{
+			"name": "Jean-Louis Fradon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem782",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

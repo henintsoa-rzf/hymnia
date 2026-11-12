@@ -1,0 +1,87 @@
+{
+	"id": "de-tout-mon-coeur-jem-1157",
+	"title": "De tout mon coeur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1157"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"De tout mon cœur, mon âme,",
+				"Ma force et chaque fibre qui vibre pour toi,",
+				"Je veux apprendre à mieux te connaître, Seigneur,",
+				"Et te servir où tu voudras."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que ton Esprit, ô Père, me guide",
+				"Chaque jour de ma vie ici-bas ;",
+				"Que je sois pour le monde un reflet de l’amour",
+				"Que tu as déposé en moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J’ai mis tout mon espoir en toi seul.",
+				"J’ai mis tout mon espoir en toi seul."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que ma louange proclame",
+				"Le nom du Fils de Dieu,",
+				"Jésus-Christ, le Seigneur,",
+				"Car il est la lumière",
+				"Qui brille dans la nuit",
+				"Et il est notre seul Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que sa présence grandisse",
+				"Et que je diminue pour que les hommes croient",
+				"Qu’il est venu sur terre, envoyé par le Père",
+				"Et reviendra comme Roi des rois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J’ai mis tout mon espoir en lui seul.",
+				"J’ai mis tout mon espoir en lui seul."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1157",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

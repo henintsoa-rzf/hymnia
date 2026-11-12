@@ -1,0 +1,77 @@
+{
+	"id": "souvent-seigneur-en-sa-detresse",
+	"title": "Souvent, Seigneur, en sa détresse.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "195"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Souvent, Seigneur, en sa détresse,",
+				"Un pauvre pécheur ne t'adresse",
+				"Pour prières que des soupirs.",
+				"Vers lui, plein d'amour, tu t'inclines ;",
+				"Quoiqu'il se taise, tu devines",
+				"Le secret de tous ses désirs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais, ô Dieu ! ces élans de l'âme,",
+				"Ce cri d'un cœur qui te réclame,",
+				"Je ne les trouve pas en moi :",
+				"Toujours occupé de la terre,",
+				"Quoique de tout je désespère,",
+				"Je ne sais m'élever à Toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais quoi ! ce désir que j'éprouve,",
+				"Ce souhait qu'en mon cœur je trouve,",
+				"Ne me viendraient-il pas de Dieu ?",
+				"Je disais : « Dicte ma prière, »",
+				"Et tu m'avais, ô tendre Père,",
+				"Déjà dicté ce premier vœu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Désormais donc, ô Dieu suprême,",
+				"Pourquoi chercherais-je en moi-même",
+				"La prière à te présenter ?",
+				"De ta grâce je veux l'attendre :",
+				"C'est du ciel qu'elle doit descendre,",
+				"Pour qu'elle y puisse remonter."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "Mme Lutteroth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af195",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

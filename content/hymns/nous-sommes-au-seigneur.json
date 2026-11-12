@@ -1,0 +1,94 @@
+{
+	"id": "nous-sommes-au-seigneur",
+	"title": "Nous sommes au Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "276"
+		},
+		{
+			"hymnal": "adf",
+			"number": "300"
+		},
+		{
+			"hymnal": "cd",
+			"number": "242"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous sommes au Seigneur",
+				"et non point à nous-mêmes.",
+				"Pour la vie et la mort,",
+				"nous sommes au Seigneur.",
+				"C'est pour l'éternité, Jésus, que tu nous aimes ;",
+				"Ta croix nous a rendus la paix et le bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous sommes au Seigneur.",
+				"Ah ! vivons pour sa gloire.",
+				"Et mourons au péché, saints héritiers du ciel.",
+				"Saisissons chaque jour les fruits de sa victoire,",
+				"Et reposons en paix dans son sein paternel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous sommes au Seigneur.",
+				"Que nos âmes te louent,",
+				"Que nos lèvres aussi bénissent ton amour.",
+				"O Jésus, mes tiédeurs souvent te désavouent ;",
+				"Je voudrais être à toi, mais à toi sans retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous sommes au Seigneur !",
+				"Dans la sombre vallée,",
+				"Du dernier ennemi Jésus me rend vainqueur ;",
+				"La face de mon Dieu ne peut m'être voilée,",
+				"Car pour l'éternité nous sommes au Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Franz Josef Haydn",
+			"role": "music"
+		},
+		{
+			"name": "Charles Chatelanat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg276",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af300",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1068",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

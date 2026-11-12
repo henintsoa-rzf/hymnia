@@ -2,17 +2,24 @@
  * Data build: validate content/, leave out hymns whose rights are not confirmed, and write the
  * catalog and the search index to static/data/ (specs/001-hymnal-browse-search/plan.md).
  *
+ * Personal use: with HYMNIA_PERSONAL_USE=1 (in `.env`, never committed), hymns whose rights are
+ * not confirmed are published too, for a copy of the app only its maintainer uses. Their
+ * `rights` field is unchanged, so turning the setting off publishes only covered hymns again.
+ *
  * Usage: npm run data   (tsx scripts/build-data.ts [contentDir] [outDir])
  */
 import { createHash } from 'node:crypto';
 import { mkdir, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { basename, join, resolve } from 'node:path';
 import { gzipSync } from 'node:zlib';
+import { existsSync } from 'node:fs';
 import { pathToFileURL } from 'node:url';
 import MiniSearch from 'minisearch';
 import {
 	HymnalListSchema,
 	HymnSchema,
+	RedirectsSchema,
+	type Redirects,
 	type Catalog,
 	type DataManifest,
 	type Hymn,
@@ -29,9 +36,30 @@ export const MAX_COMPRESSED_BYTES = 5 * 1024 * 1024;
 export type RawContent = {
 	hymnals: { file: string; data: Hymnal[] };
 	hymns: { file: string; data: Hymn }[];
+	/** `redirects.json`; `{}` when the file does not exist. */
+	redirects: { file: string; data: Redirects };
 };
 
-export type BuildReport = { hymnals: number; hymns: number; excluded: number };
+export type BuildReport = {
+	hymnals: number;
+	hymns: number;
+	excluded: number;
+	/** Personal use only: hymns published although their rights are not confirmed. */
+	unconfirmedIncluded?: number;
+};
+
+export type BuildOptions = {
+	/** Publish hymns whose rights are not confirmed (personal use, HYMNIA_PERSONAL_USE). */
+	personalUse?: boolean;
+	/** Hymnal ids that must not appear (the sample hymnals, when building from content/). */
+	reservedHymnalIds?: string[];
+};
+
+/**
+ * The fictional sample hymnals of feature 001, kept in tests/fixtures/sample-content/ for the
+ * tests. Their ids are reserved: content/ never uses them (feature 002, FR-028).
+ */
+export const SAMPLE_HYMNAL_IDS = ['ce', 'he'];
 
 export type BuildResult = {
 	errors: string[];
@@ -41,6 +69,15 @@ export type BuildResult = {
 };
 
 /* ------------------------------------------------------------------ load */
+
+async function readJsonIfExists(path: string, fallback: unknown): Promise<unknown> {
+	try {
+		return JSON.parse(await readFile(path, 'utf8'));
+	} catch (error) {
+		if ((error as NodeJS.ErrnoException).code === 'ENOENT') return fallback;
+		throw error;
+	}
+}
 
 export async function loadContent(contentDir: string): Promise<RawContent> {
 	const hymnalsFile = join(contentDir, 'hymnals.json');
@@ -53,7 +90,11 @@ export async function loadContent(contentDir: string): Promise<RawContent> {
 				file: `hymns/${f}`,
 				data: JSON.parse(await readFile(join(hymnsDir, f), 'utf8'))
 			}))
-		)
+		),
+		redirects: {
+			file: 'redirects.json',
+			data: (await readJsonIfExists(join(contentDir, 'redirects.json'), {})) as Redirects
+		}
 	};
 }
 
@@ -80,11 +121,16 @@ function nfcErrors(file: string, value: unknown, path: string[] = []): string[] 
 	return [];
 }
 
-export function validateContent(raw: RawContent): {
+export function validateContent(
+	raw: RawContent,
+	options: BuildOptions = {}
+): {
 	errors: string[];
 	hymnals: Hymnal[];
 	published: Hymn[];
 	excluded: number;
+	unconfirmedIncluded: number;
+	redirects: Redirects;
 } {
 	const errors: string[] = [];
 
@@ -113,6 +159,12 @@ export function validateContent(raw: RawContent): {
 			} else {
 				keyOwner.set(key, h.id);
 			}
+		}
+	}
+
+	for (const id of options.reservedHymnalIds ?? []) {
+		if (hymnals.some((h) => h.id === id)) {
+			errors.push(`${raw.hymnals.file}: "${id}" is reserved for the sample hymnals of the tests`);
 		}
 	}
 
@@ -166,10 +218,36 @@ export function validateContent(raw: RawContent): {
 		if (hymnErrors.length === 0) valid.push(hymn);
 	}
 
-	// Rule 6
-	const published = valid.filter((h) => h.rights !== 'unconfirmed');
+	// Feature 002 (FR-026): redirects from merged hymn ids.
+	const redirects = validateRedirects(raw, new Set(hymnIds.keys()), errors);
+
+	// Rule 6 (all of them for personal use)
+	const unconfirmed = valid.filter((h) => h.rights === 'unconfirmed').length;
+	const published = options.personalUse ? valid : valid.filter((h) => h.rights !== 'unconfirmed');
 	const excluded = valid.length - published.length;
-	return { errors, hymnals, published, excluded };
+	const unconfirmedIncluded = options.personalUse ? unconfirmed : 0;
+	return { errors, hymnals, published, excluded, unconfirmedIncluded, redirects };
+}
+
+function validateRedirects(raw: RawContent, hymnIds: Set<string>, errors: string[]): Redirects {
+	const { file, data } = raw.redirects;
+	const result = RedirectsSchema.safeParse(data);
+	if (!result.success) {
+		errors.push(...zodErrors(file, result.error));
+		return {};
+	}
+	const redirects = result.data;
+	for (const [from, to] of Object.entries(redirects)) {
+		if (hymnIds.has(from)) {
+			errors.push(`${file}: "${from}" is the id of an existing hymn file; it cannot be redirected`);
+		}
+		if (to in redirects) {
+			errors.push(`${file}: "${from}" → "${to}" is a chain: "${to}" is itself redirected`);
+		} else if (!hymnIds.has(to)) {
+			errors.push(`${file}: "${from}" → "${to}": no hymn has the id "${to}"`);
+		}
+	}
+	return redirects;
 }
 
 /* ----------------------------------------------------------------- build */
@@ -184,7 +262,7 @@ function firstLine(hymn: Hymn): string {
 	return '';
 }
 
-export function buildCatalog(hymnals: Hymnal[], hymns: Hymn[]): Catalog {
+export function buildCatalog(hymnals: Hymnal[], hymns: Hymn[], redirects: Redirects = {}): Catalog {
 	const publishedHymns: PublishedHymn[] = [...hymns]
 		.sort((a, b) => a.id.localeCompare(b.id))
 		.map((h) => ({
@@ -208,7 +286,10 @@ export function buildCatalog(hymnals: Hymnal[], hymns: Hymn[]): Catalog {
 		.sort((a, b) => a.sortOrder - b.sortOrder || a.id.localeCompare(b.id))
 		.map((h) => ({ ...h, hymnCount: counts.get(h.id) ?? 0 }));
 
-	const body = { hymnals: publishedHymnals, hymns: publishedHymns };
+	const sortedRedirects = Object.fromEntries(
+		Object.entries(redirects).sort(([a], [b]) => a.localeCompare(b))
+	);
+	const body = { hymnals: publishedHymnals, hymns: publishedHymns, redirects: sortedRedirects };
 	return { version: hash(JSON.stringify(body)), ...body };
 }
 
@@ -218,12 +299,19 @@ export function buildIndex(catalog: Catalog): string {
 	return JSON.stringify(index);
 }
 
-export async function buildData(contentDir: string): Promise<BuildResult> {
+export async function buildData(
+	contentDir: string,
+	options: BuildOptions = {}
+): Promise<BuildResult> {
 	const raw = await loadContent(contentDir);
-	const { errors, hymnals, published, excluded } = validateContent(raw);
-	const report = { hymnals: hymnals.length, hymns: published.length, excluded };
+	const { errors, hymnals, published, excluded, unconfirmedIncluded, redirects } = validateContent(
+		raw,
+		options
+	);
+	const report: BuildReport = { hymnals: hymnals.length, hymns: published.length, excluded };
+	if (options.personalUse) report.unconfirmedIncluded = unconfirmedIncluded;
 	if (errors.length > 0) return { errors, report };
-	const catalog = buildCatalog(hymnals, published);
+	const catalog = buildCatalog(hymnals, published, redirects);
 	return { errors, report, catalog, indexJson: buildIndex(catalog) };
 }
 
@@ -248,7 +336,14 @@ export async function writeOutput(outDir: string, catalog: Catalog, indexJson: s
 async function main() {
 	const contentDir = resolve(process.argv[2] ?? 'content');
 	const outDir = resolve(process.argv[3] ?? 'static/data');
-	const { errors, report, catalog, indexJson } = await buildData(contentDir);
+	if (existsSync('.env')) process.loadEnvFile('.env');
+	const personalUse = process.env.HYMNIA_PERSONAL_USE === '1';
+	// The sample hymnals belong to the tests: the real collection never uses their ids.
+	const reservedHymnalIds = contentDir === resolve('content') ? SAMPLE_HYMNAL_IDS : [];
+	const { errors, report, catalog, indexJson } = await buildData(contentDir, {
+		personalUse,
+		reservedHymnalIds
+	});
 
 	if (errors.length > 0 || !catalog || !indexJson) {
 		console.error(`✗ Content is invalid (${errors.length} error(s)):`);
@@ -262,6 +357,12 @@ async function main() {
 		`✓ ${report.hymnals} hymnals, ${report.hymns} hymns published, ` +
 			`${report.excluded} left out (rights not confirmed)`
 	);
+	if (report.unconfirmedIncluded) {
+		console.log(
+			`  ⚠ Personal use (HYMNIA_PERSONAL_USE): ${report.unconfirmedIncluded} hymns published ` +
+				'although their rights are not confirmed. Do not distribute this build.'
+		);
+	}
 	console.log(`  ${manifest.catalog}, ${manifest.index} — ${mb} MB compressed`);
 
 	if (compressed > MAX_COMPRESSED_BYTES) {

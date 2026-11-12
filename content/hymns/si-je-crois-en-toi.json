@@ -1,0 +1,78 @@
+{
+	"id": "si-je-crois-en-toi",
+	"title": "Si je crois en toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "500"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si je crois en toi, si je viens vers toi,",
+				"Si je me tiens là,",
+				"C'est que tu as versé ton sang.",
+				"Si je suis pardonné, si je suis racheté,",
+				"Si je suis purifié,",
+				"C'est que tu as versé ton sang pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et je crois en toi, et je me tiens là,",
+				"Debout devant toi",
+				"Comme un enfant devant son papa.",
+				"Je lève les bras, j'élève ma voix,",
+				"Tu es tout pour moi,",
+				"Toi le grand Dieu, le Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et je reste là, je cherche ta voix,",
+				"Je reçois de toi",
+				"Tout l'amour que tu as pour moi",
+				"Et je te dis merci,",
+				"Dieu de l'infini, tu es mon ami,",
+				"Celui qui m'aime comme je suis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Si je crois en toi, si je viens vers toi",
+				"Si je me tiens là,",
+				"C'est que tu as versé ton sang",
+				"Et je te dis merci, Dieu de l'infini,",
+				"D'avoir donné Jésus-Christ,",
+				"Car aujourd'hui, si je vis c'est en lui,",
+				"Car aujourd'hui, si je vis c'est en lui."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem500",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

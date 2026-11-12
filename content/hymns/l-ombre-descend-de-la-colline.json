@@ -1,0 +1,71 @@
+{
+	"id": "l-ombre-descend-de-la-colline",
+	"title": "L'ombre descend de la colline.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "478"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'ombre descend de la colline,",
+				"Tout fait silence autour de nous,",
+				"Le ciel d'étoiles s'illumine,",
+				"Que leur regard est pur et doux !",
+				"Petits enfants, entendez-vous",
+				"La voix divine,",
+				"Comme un souffle mystérieux",
+				"Qui vient des cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce souffle passe dans les branches",
+				"Où dorment les petits oiseaux ;",
+				"Il fait frissonner les pervenches,",
+				"Il fait soupirer les roseaux,",
+				"Et l'on voit glisser sur les eaux",
+				"Des voiles blanches,",
+				"À ce souffle mystérieux",
+				"Qui vient des cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Cette brise douce et légère,",
+				"C'est ton haleine, ô Dieu clément !",
+				"Elle verse à toute la terre",
+				"Le repos et l'apaisement.",
+				"Ah ! que dans le recueillement",
+				"Notre prière,",
+				"Comme un souffle mystérieux,",
+				"S'élève aux cieux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air populaire provençal",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af478",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

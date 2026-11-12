@@ -1,0 +1,51 @@
+{
+	"id": "benediction",
+	"title": "Bénédiction",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "659"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que la grâce et la paix du Seigneur",
+				"Soient déposées sur vous,",
+				"Sur vos cœurs,",
+				"Et que sa lumière vienne éclairer vos vies",
+				"Par le nom de Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que la grâce et la paix du Seigneur",
+				"Soient déposées sur vous,",
+				"Sur vos cœurs,",
+				"Et que sa lumière vienne éclairer vos vies",
+				"Par le nom de Jésus-Christ."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem659",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

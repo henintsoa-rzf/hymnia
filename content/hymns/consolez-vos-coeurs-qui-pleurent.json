@@ -1,0 +1,73 @@
+{
+	"id": "consolez-vos-coeurs-qui-pleurent",
+	"title": "Consolez vos cœurs qui pleurent.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "443"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Consolez vos cœurs qui pleurent,",
+				"Car en Jésus, tous ceux qui meurent",
+				"Dès à présent sont bienheureux.",
+				"L'Esprit de Dieu nous l'affirme ;",
+				"Dépouillés de leur corps infirme,",
+				"Ils nous attendent dans les cieux.",
+				"Après tous leurs travaux,",
+				"Ils goûtent le repos, Alléluia !",
+				"De leurs combats, ils ont le prix",
+				"Et leurs œuvres les ont suivis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Là, plus de deuil ni d'alarmes,",
+				"Plus de fatigues, plus de larmes,",
+				"Pour eux a cessé la douleur.",
+				"À la source de la vie",
+				"Qui jamais ne sera tarie,",
+				"Ils puisent la paix, le bonheur.",
+				"Bientôt le jour luira",
+				"Où notre cœur dira : Alléluia !",
+				"Par toi, Jésus, sauvés, bénis,",
+				"Avec eux nous serons unis !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Au ciel avec les saints anges,",
+				"Nous célébrerons tes louanges,",
+				"O Père, et celles de l'Agneau ;",
+				"Il est notre délivrance,",
+				"Il nous a donné l'espérance,",
+				"Et nous triomphons du tombeau.",
+				"Pour nous plus de terreur,",
+				"Nous avons un Sauveur, Alléluia !",
+				"C'est par sa croix que dans les cieux",
+				"Nous entrerons victorieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Nicolaï",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af443",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

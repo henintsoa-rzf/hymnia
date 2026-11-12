@@ -10,7 +10,10 @@
 	import StorageNotice from '$lib/components/StorageNotice.svelte';
 	import UndoToast from '$lib/components/UndoToast.svelte';
 	import UpdatePrompt from '$lib/components/UpdatePrompt.svelte';
+	import { loadCatalog } from '$lib/data/store';
 	import { prefs } from '$lib/prefs/prefs';
+	import { collectRepairs } from '$lib/repertoire/resolve';
+	import { repertoire } from '$lib/repertoire/store';
 
 	let { children } = $props();
 
@@ -29,6 +32,18 @@
 			const systemColor = i === 0 ? THEME_COLORS.light : THEME_COLORS.dark;
 			meta.content = theme === 'system' ? systemColor : THEME_COLORS[theme];
 		});
+	});
+
+	// Saved entries follow their hymn when a data update renumbered or merged it (feature 002,
+	// FR-027): store the repairs once the catalog of this visit is loaded.
+	$effect(() => {
+		loadCatalog()
+			.then((catalog) =>
+				repertoire.applyRepairs(collectRepairs(catalog, repertoire.current().collections))
+			)
+			.catch(() => {
+				// No catalog yet (offline first visit): the screens show their own message.
+			});
 	});
 
 	const routeId = $derived(page.route.id ?? '');

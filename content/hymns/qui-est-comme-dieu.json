@@ -1,0 +1,99 @@
+{
+	"id": "qui-est-comme-dieu",
+	"title": "Qui est comme Dieu ?",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "820"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui est comme Dieu ?",
+				"Vraiment personne !",
+				"Qui est comme Dieu,",
+				"redoutable et puissant ?",
+				"Qui est comme Dieu ?",
+				"Il est Seigneur !",
+				"Lève-toi pour louer ton Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui est comme Dieu ?",
+				"Vraiment personne !",
+				"Qui est comme Dieu,",
+				"redoutable et puissant ?",
+				"Qui est comme Dieu ?",
+				"Il est Seigneur !",
+				"Lève-toi pour louer ton Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louons Dieu, louons Dieu,",
+				"Notre Dieu est digne de gloire.",
+				"Que du lever du soleil jusqu'à son coucher,",
+				"Le nom du Seigneur soit adoré !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Lève-toi, crie ta joie au Seigneur de gloire !",
+				"Lève-toi, crie ta joie au Seigneur de gloire !",
+				"Lève-toi, crie ta joie au Seigneur de gloire !",
+				"Notre Dieu est digne de gloire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui est comme Dieu ?",
+				"Vraiment personne !",
+				"Qui est comme Dieu,",
+				"redoutable et puissant ?",
+				"Qui est comme Dieu ?",
+				"Il est Seigneur !",
+				"Lève-toi pour louer ton Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Louons Dieu, louons Dieu,",
+				"Notre Dieu est digne de gloire.",
+				"Que du lever du soleil jusqu'à son coucher,",
+				"Le nom du Seigneur soit adoré !",
+				"Qui est comme Dieu ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lynn Deshazo",
+			"role": "music"
+		},
+		{
+			"name": "Lynn Deshazo",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem820",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

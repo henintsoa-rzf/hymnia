@@ -12,8 +12,15 @@
 	let {
 		hymn,
 		reference,
+		title = hymn.title,
 		children
-	}: { hymn: PublishedHymn; reference: string; children?: Snippet } = $props();
+	}: {
+		hymn: PublishedHymn;
+		reference: string;
+		/** The title the hymnal of `reference` prints (HymnalEntry.title). */
+		title?: string;
+		children?: Snippet;
+	} = $props();
 
 	const blocks = $derived.by(() => {
 		const out: Section[] = [];
@@ -36,7 +43,10 @@
 <article class="hb-hymn lyrics" lang="fr">
 	<header class="hb-header">
 		<span class="hb-header__number">{reference}</span>
-		<h1 class="hb-header__title">{frenchSpaces(hymn.title)}</h1>
+		<h1 class="hb-header__title">{frenchSpaces(title)}</h1>
+		{#if title !== hymn.title}
+			<p class="hb-header__also">Aussi : {frenchSpaces(hymn.title)}</p>
+		{/if}
 		{#if credit}<p class="hb-header__credit">{credit}</p>{/if}
 	</header>
 

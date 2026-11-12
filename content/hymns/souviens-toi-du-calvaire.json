@@ -1,0 +1,119 @@
+{
+	"id": "souviens-toi-du-calvaire",
+	"title": "Souviens-toi du Calvaire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "251"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Souviens-toi du Calvaire,",
+				"De l'angoisse à la croix,",
+				"Du combat solitaire,",
+				"Qu'Il a livré pour toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cède, cède, ton cœur à ton Sauveur.",
+				"Cède, cède, ton cœur à ton Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Souviens-toi des épines.",
+				"Blessant son noble front,",
+				"Des compassions divines",
+				"Supportant chaque affront."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cède, cède, ton cœur à ton Sauveur.",
+				"Cède, cède, ton cœur à ton Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pense à son agonie,",
+				"Pour toi, pauvre pécheur ;",
+				"Sa tendresse infinie",
+				"Devrait briser ton cœur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cède, cède, ton cœur à ton Sauveur.",
+				"Cède, cède, ton cœur à ton Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Crois, oh ! crois à sa grâce,",
+				"Ne désespère plus ;",
+				"Jésus a pris ta place,",
+				"Tous par lui sont reçus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cède, cède, ton cœur à ton Sauveur.",
+				"Cède, cède, ton cœur à ton Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Enlève ma misère,",
+				"Enlève mon péché…",
+				"Toute douleur amère,",
+				"Et tout fardeau caché !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cède, cède, ton cœur à ton Sauveur.",
+				"Cède, cède, ton cœur à ton Sauveur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chants de l'Armée du Salut",
+			"role": "music"
+		},
+		{
+			"name": "Chants de l'Armée du Salut",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af251",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,69 @@
+{
+	"id": "le-seigneur-m-aime",
+	"title": "Le Seigneur m'aime",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "163"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur m'aime,",
+				"Bonheur suprême,",
+				"Le Seigneur m'aime,",
+				"Il est amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je redirai toujours :",
+				"Le Seigneur m'aime,",
+				"Le Seigneur m'aime,",
+				"Il est amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À toi la gloire",
+				"Et la victoire,",
+				"À toi la gloire,",
+				"Agneau de Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je redirai toujours :",
+				"Le Seigneur m'aime,",
+				"Le Seigneur m'aime,",
+				"Il est amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air allemand",
+			"role": "music"
+		},
+		{
+			"name": "Georges Guillod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg163",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

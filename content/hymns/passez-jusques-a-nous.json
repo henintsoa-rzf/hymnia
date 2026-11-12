@@ -1,0 +1,118 @@
+{
+	"id": "passez-jusques-a-nous",
+	"title": "Passez jusques à nous.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "353"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"« Passez jusques à nous,",
+				"venez briser nos chaînes ! »",
+				"C'est le cri des païens delà les mers lointaines,",
+				"C'est le cri que saint Paul entendait retentir :",
+				"« Satan nous asservit, venez nous secourir ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ils viendront des deux hémisphères,",
+				"Ils viendront du Midi, du Nord,",
+				"Ceux pour lesquels le Christ est mort,",
+				"Et, délivrés de leurs misères,",
+				"Ils auront des fêtes au ciel,",
+				"Les rachetés de l'Éternel ;",
+				"Ils auront des fêtes au ciel,",
+				"Les rachetés de l'Éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chrétiens de tous pays,",
+				"n'oubliez pas vos frères ;",
+				"Allez ! ils sont perdus ; il leur faut vos prières.",
+				"Ils ne connaissent pas leur grand Libérateur ;",
+				"Allez leur annoncer l'amour de leur Sauveur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ils viendront des deux hémisphères,",
+				"Ils viendront du Midi, du Nord,",
+				"Ceux pour lesquels le Christ est mort,",
+				"Et, délivrés de leurs misères,",
+				"Ils auront des fêtes au ciel,",
+				"Les rachetés de l'Éternel ;",
+				"Ils auront des fêtes au ciel,",
+				"Les rachetés de l'Éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les pas des messagers",
+				"qui vont porter la vie",
+				"Plaisent à l'Éternel, et leur voie est bénie ;",
+				"Portez à ceux qui sont",
+				"dans la mort, dans la nuit,",
+				"Jésus, lumière et vie à qui regarde à Lui !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ils viendront des deux hémisphères,",
+				"Ils viendront du Midi, du Nord,",
+				"Ceux pour lesquels le Christ est mort,",
+				"Et, délivrés de leurs misères,",
+				"Ils auront des fêtes au ciel,",
+				"Les rachetés de l'Éternel ;",
+				"Ils auront des fêtes au ciel,",
+				"Les rachetés de l'Éternel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Allez ! Pour bouclier",
+				"dans cette guerre sainte",
+				"Vous aurez le Seigneur.",
+				"Allez, partez sans crainte,",
+				"Car vous serez vainqueurs",
+				"par le Christ et sa croix,",
+				"Par le Ressuscité, le puissant Roi des rois !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "P. Hahnemann",
+			"role": "music"
+		},
+		{
+			"name": "Mme V. Gauthier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af353",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

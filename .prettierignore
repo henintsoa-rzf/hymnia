@@ -16,3 +16,6 @@ import/
 # Claude Design export and its notes: kept as delivered
 design/handoff/
 design/decisions.md
+
+# Content-format JSON (tabs, schema key order): written by the importer and build, not Prettier
+tests/fixtures/sample-content/

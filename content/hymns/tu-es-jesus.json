@@ -1,0 +1,116 @@
+{
+	"id": "tu-es-jesus",
+	"title": "Tu es Jésus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "994"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le monde court après le vent des illusions.",
+				"Les nations conçoivent leurs vaines ambitions",
+				"Et les puissants s'écroulent, les faibles perdent leur toit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous comptons sur toi, comptons sur toi. Oh !",
+				"Le chant de notre cœur, l'espoir de notre nation,",
+				"Tu es, Jésus, tu es, tu es, Jésus, tu es. Oh !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous amassons des trésors qui pourriront un jour.",
+				"Nous luttons pour des credo sans joie et sans amour.",
+				"Nous prions : « Seigneur, guéris notre pays ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous comptons sur toi, comptons sur toi. Oh !",
+				"Le chant de notre cœur, l'espoir de notre nation,",
+				"Tu es, Jésus, tu es, tu es, Jésus,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es l'ami des cœurs brisés,",
+				"Un père pour l'orphelin,",
+				"Tu es, Jésus, tu es, tu es, Jésus, tu es. Oh !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu es la Parole du ciel !",
+				"Tu es le pain de vie !",
+				"Tu es la résurrection,",
+				"La lumière dans la nuit !",
+				"Tu es la Parole du ciel !",
+				"Tu es le pain de vie !",
+				"Tu es la résurrection,",
+				"La lumière dans la nuit !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu es la Parole du ciel !",
+				"Tu es le pain de vie !",
+				"Tu es la résurrection,",
+				"La lumière dans la nuit !",
+				"Oh !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Le chant de notre cœur, l'espoir de notre nation,",
+				"Tu es, Jésus, tu es, tu es, Jésus,"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu es l'ami des cœurs brisés,",
+				"Un père pour l'orphelin,",
+				"Tu es, Jésus, tu es, tu es, Jésus, tu es. Oh !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nate Cronk",
+			"role": "music"
+		},
+		{
+			"name": "Nate Cronk",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem994",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

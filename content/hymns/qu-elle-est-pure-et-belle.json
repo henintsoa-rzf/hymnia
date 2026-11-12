@@ -1,0 +1,93 @@
+{
+	"id": "qu-elle-est-pure-et-belle",
+	"title": "Qu'elle est pure et belle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "653"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quelle est pure et belle,",
+				"Au matin des ans,",
+				"L'amitié fidèle,",
+				"Fleur d'un beau printemps !",
+				"La sainte alliance",
+				"Où l'on a pour loi",
+				"La même espérance",
+				"Et la même foi,",
+				"La même espérance",
+				"Et la même foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Joyeuse auréole",
+				"Aux jours de bonheur,",
+				"L'amitié console",
+				"Quand vient la douleur.",
+				"À l'heure où tout semble",
+				"Défaillir en nous,",
+				"Qu'il fait bon ensemble",
+				"Ployer les genoux.",
+				"Qu'il fait bon ensemble",
+				"Ployer les genoux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Celui qui s'avance",
+				"Tout seul ici-bas",
+				"Reste sans défense,",
+				"Tombe à chaque pas.",
+				"Mais l'orage même",
+				"Rend les vrais amis",
+				"O bienfait suprême !",
+				"Plus forts, plus unis,",
+				"O bienfait suprême !",
+				"Plus forts, plus unis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À travers la vie,",
+				"Amis , gardons-la,",
+				"L'amitié bénie",
+				"Qui nous gardera.",
+				"Amitié céleste,",
+				"Eclose au printemps,",
+				"Que ta fleur nous reste",
+				"Jusqu'au soir des ans !",
+				"Que ta fleur nous reste",
+				"Jusqu'au soir des ans !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "J.-P.-E. Hartmann",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af653",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

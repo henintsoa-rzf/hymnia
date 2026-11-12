@@ -1,0 +1,41 @@
+{
+	"id": "roi-de-gloire",
+	"title": "Roi de gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "932"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Roi de gloire !",
+				"Tu es Roi de gloire !",
+				"La création s'incline devant ta majesté.",
+				"Les anges se prosternent devant ta sainteté.",
+				"Et moi, je tombe face contre terre",
+				"Sous la puissance de ta lumière."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem932",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

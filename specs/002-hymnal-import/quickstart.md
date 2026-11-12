@@ -13,7 +13,7 @@ How to run the importer and check that it meets the spec. Commands are in
 ## 1. Offline checks (no network)
 
 ```bash
-npm test -- tests/import          # adapters on fixtures, matching, idempotence, rights
+npm run test:import               # adapters on fixtures, matching, idempotence, rights
 npm run import -- check           # schemas, links, decisions, text vs cache
 ```
 
@@ -23,11 +23,16 @@ parsed), the 20% abort threshold, and an interrupted write.
 ## 2. First import of one hymnal (US1)
 
 ```bash
-npm run import -- run --source cdl --hymnal jem --dry-run   # report only
-npm run import -- run --source cdl --hymnal jem
+npm run import -- run --source cdl --hymnal jem --dry-run --yes   # report only
+npm run import -- run --source cdl --hymnal jem --yes
 npm run import -- report
 npm run data
 ```
+
+`--yes` is needed while the source's `permission` is `unknown` in `import/sources.json`; the
+run warns that nothing will be published until rights are recorded. JEM on
+conducteurdelouange.com is about 1,500 hymns over 4 volumes: at 1 request per second, a first
+run takes about half an hour; later runs reuse the cache.
 
 Expected:
 - The report shows imported/skipped counts, with a reason and URL for each skipped page; at
@@ -39,7 +44,7 @@ Expected:
 ## 3. Re-run (US2)
 
 ```bash
-npm run import -- run --source cdl --hymnal jem --offline
+npm run import -- run --source cdl --hymnal jem --offline --yes
 git status content/ import/state/          # expect: no changes (SC-003)
 ```
 
@@ -51,13 +56,15 @@ Then edit one cached page (change one word), re-run with `--offline`, and check 
 ## 4. Second hymnal and duplicates (US3)
 
 ```bash
-npm run import -- run --source cdl --hymnal atg
+npm run import -- run --source cdl --hymnal adf --yes
 npm run import -- duplicates
-npm test -- tests/import/reference-duplicates.test.ts       # SC-005
+npx vitest run --project import tests/import/reference-duplicates.test.ts   # SC-005
 ```
 
-Expected: hymns shared by JEM and ATG exist once with two entries; near matches are listed,
-not merged.
+Expected: hymns shared by JEM and Ailes de la Foi exist once with two entries; near matches are
+listed, not merged. (À Toi la Gloire is not on conducteurdelouange.com.) The SC-005 test is
+skipped until `tests/import/reference-duplicates.json` lists at least 30 shared hymns and 10
+distinct pairs.
 
 ## 5. Rights and publishing (US4)
 
@@ -66,7 +73,7 @@ npm run import -- rights set --scope hymnal --target jem --basis permission --no
 npm run data && npm run preview
 ```
 
-Expected: JEM hymns appear in the app, and ATG-only hymns do not. A later import that adds a
+Expected: JEM hymns appear in the app, and AdF-only hymns do not. A later import that adds a
 JEM hymn marks it confirmed and reports `rightsInherited`.
 
 ## 6. New source (US5)

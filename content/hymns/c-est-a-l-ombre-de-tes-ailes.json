@@ -1,0 +1,101 @@
+{
+	"id": "c-est-a-l-ombre-de-tes-ailes",
+	"title": "C'est à l'ombre de tes ailes.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "406"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est à l'ombre de tes ailes",
+				"Qu'est le vrai repos ;",
+				"Là plus de douleurs cruelles,",
+				"Là plus d'angoisses mortelles,",
+				"Là plus d'écrasants fardeaux :",
+				"C'est le vrai repos !",
+				"Là plus d'écrasants fardeaux :",
+				"C'est le vrai repos !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vrai repos, paix parfaite et bonheur,",
+				"Sous les ailes du Seigneur !",
+				"Vrai repos, paix parfaite et bonheur,",
+				"Sous les ailes du Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est à l'ombre de tes ailes",
+				"Qu'on trouve la paix…",
+				"Les oiseaux dans leurs nids frêles,",
+				"Sous les plumes maternelless",
+				"Ne s'épouvantent jamais :",
+				"Ils dorment en paix !",
+				"Ne s'épouvantent jamais :",
+				"Ils dorment en paix !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vrai repos, paix parfaite et bonheur,",
+				"Sous les ailes du Seigneur !",
+				"Vrai repos, paix parfaite et bonheur,",
+				"Sous les ailes du Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est à l'ombre de tes ailes",
+				"Qu'est le vrai bonheur.",
+				"Toutes choses sont nouvelles",
+				"Et c'est la vie éternelle,",
+				"Que d'être près de ton cœur !",
+				"C'est le vrai bonheur,",
+				"Que d'être près de ton cœur,",
+				"C'est le vrai bonheur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vrai repos, paix parfaite et bonheur,",
+				"Sous les ailes du Seigneur !",
+				"Vrai repos, paix parfaite et bonheur,",
+				"Sous les ailes du Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edwin Othello Excell",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af406",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,61 @@
+{
+	"id": "oui-tu-es-digne",
+	"title": "Oui, tu es digne",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "83"
+		},
+		{
+			"hymnal": "jem",
+			"number": "288"
+		},
+		{
+			"hymnal": "cd",
+			"number": "66"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, tu es digne de régner",
+				"Dans notre cœur.",
+				"Tu es le Roi de gloire,",
+				"Alléluia,",
+				"Jésus, tu es le Maître en moi,",
+				"Alléluia, alléluia, alléluia."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dave Richards",
+			"role": "music"
+		},
+		{
+			"name": "Jeunesse en Mission",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg083",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem288",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/926",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

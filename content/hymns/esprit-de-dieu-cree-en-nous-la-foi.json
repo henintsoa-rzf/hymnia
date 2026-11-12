@@ -1,0 +1,65 @@
+{
+	"id": "esprit-de-dieu-cree-en-nous-la-foi",
+	"title": "Esprit de Dieu, crée en nous la foi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "174"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Esprit de Dieu, crée en nous tous la foi.",
+				"Toute puissance nous vient de toi.",
+				"Si dans la détresse",
+				"Le mal nous presse,",
+				"Affermis nos cœurs",
+				"Et rends-les vainqueurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Esprit de Dieu, mets en nous chaque jour",
+				"De notre Sauveur le saint amour.",
+				"Allume en notre âme",
+				"La vive flamme",
+				"De la vérité",
+				"Dans la charité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Esprit de Dieu, ranime en nous l'espoir.",
+				"Quand sur notre route tout est noir,",
+				"Viens et nous éclaire",
+				"De ta lumière.",
+				"Rends-nous confiants,",
+				"Toujours vigilants."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Johann Walther",
+			"role": "music"
+		},
+		{
+			"name": "J. Siordet-Ruckert",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg174",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

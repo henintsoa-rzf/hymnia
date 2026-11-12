@@ -1,0 +1,85 @@
+{
+	"id": "a-toi-la-gloire",
+	"title": "À toi la gloire",
+	"entries": [
+		{
+			"hymnal": "ce",
+			"number": "1"
+		},
+		{
+			"hymnal": "he",
+			"number": "7"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À toi la gloire,",
+				"Ô Ressuscité !",
+				"À toi la victoire",
+				"Pour l’éternité !",
+				"Brillant de lumière,",
+				"L’ange est descendu,",
+				"Il roule la pierre",
+				"Du tombeau vaincu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À toi la gloire,",
+				"Ô Ressuscité !",
+				"À toi la victoire",
+				"Pour l’éternité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vois-le paraître :",
+				"C’est lui, c’est Jésus,",
+				"Ton Sauveur, ton Maître !",
+				"Oh ! ne doute plus !",
+				"Sois dans l’allégresse,",
+				"Peuple du Seigneur,",
+				"Et redis sans cesse",
+				"Que Christ est vainqueur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Craindrais-je encore ?",
+				"Il vit à jamais,",
+				"Celui que j’adore,",
+				"Le Prince de paix ;",
+				"Il est ma victoire,",
+				"Mon puissant soutien,",
+				"Ma vie et ma gloire :",
+				"Non, je ne crains rien !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edmond Budry",
+			"role": "lyrics"
+		},
+		{
+			"name": "Georg Friedrich Haendel",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Échantillon de test — domaine public, texte non vérifié",
+		"url": null,
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "public-domain",
+	"corrections": []
+}

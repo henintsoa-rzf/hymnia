@@ -1,0 +1,60 @@
+{
+	"id": "il-est-tout-pour-moi-cd-157",
+	"title": "Il est tout pour moi",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "157"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La nature parle d'un créateur.",
+				"Et le vent murmure sa grandeur,",
+				"Mais si on me parle d'un Sauveur",
+				"Qu'est-ce donc pour moi ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il y a longtemps en Galilée",
+				"On me dit qu'un Sauveur nous est né.",
+				"S'il est venu pour nous racheter,",
+				"Qu'est-ce donc pour moi ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Puis un jour je le vis face à face.",
+				"Je goûtai la douceur de sa grâce.",
+				"Alors je compris qu'il n'était pas un être artificiel,",
+				"Un Dieu loin dans le ciel, non !",
+				"Maintenant il vit tout près de moi.",
+				"Chaque jour à chaque heure il est là.",
+				"Qui sur le chemin guide mes pas.",
+				"Il est tout pour moi.",
+				"Oui, il est tout pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "R. CARMICHAEL",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/944",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

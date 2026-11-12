@@ -1,0 +1,105 @@
+{
+	"id": "seule-voie",
+	"title": "Seule voie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "885"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'abandonne ma vie à tes pieds,",
+				"Tu es le seul dont j'ai besoin.",
+				"Je me tourne vers toi, tu es toujours là.",
+				"Dans les mauvais jours je te cherche,",
+				"Je veux te placer en premier",
+				"Et je viens m'abaisser devant toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seule voie, Jésus,",
+				"Tu es le seul pour qui tout en moi vit.",
+				"Seule voie, Jésus,",
+				"Tu es le seul pour qui tout en moi vit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es toujours, oui toujours là,",
+				"Partout et à chaque instant.",
+				"Ta grâce abonde profondément en moi.",
+				"Tu ne changeras jamais,",
+				"Hier et aujourd'hui le même",
+				"Pour toujours et à jamais, sans fin."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seule voie, Jésus,",
+				"Tu es le seul pour qui tout en moi vit.",
+				"Seule voie, Jésus,",
+				"Tu es le seul pour qui tout en moi vit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seule voie, Jésus,",
+				"Tu es le seul pour qui tout en moi vit.",
+				"Seule voie, Jésus,",
+				"Tu es le seul pour qui tout en moi vit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es la vie et la vérité ;",
+				"Je vis par la foi, non par la vue, pour toi.",
+				"Nous vivons tous pour toi.",
+				"Tu es la vie et la vérité ;",
+				"Je vis par la foi, non par la vue, pour toi.",
+				"Nous vivons tous pour toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seule voie, Jésus,",
+				"Tu es le seul pour qui tout en moi vit.",
+				"Seule voie, Jésus,",
+				"Tu es le seul pour qui tout en moi vit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jonathan Douglass ; Joël Houston",
+			"role": "music"
+		},
+		{
+			"name": "Jonathan Douglass ; Joël Houston",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem885",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

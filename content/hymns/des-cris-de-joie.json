@@ -1,0 +1,64 @@
+{
+	"id": "des-cris-de-joie",
+	"title": "Des cris de joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "741"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Des cris de joie, des chants de salut",
+				"Montent des tentes",
+				"des fidèles du Seigneur.",
+				"Des cris de joie, des chants de salut",
+				"Montent des tentes",
+				"des fidèles du Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La main de Dieu agit puissamment pour nous.",
+				"Le bras de Dieu est élevé.",
+				"La main de Dieu est puissante et glorieuse.",
+				"Le bras de Dieu est souverain,",
+				"Le bras de Dieu est souverain."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Des cris de joie, des chants de salut",
+				"Montent des tentes",
+				"des fidèles du Seigneur.",
+				"Des cris de joie, des chants de salut",
+				"Montent des tentes",
+				"des fidèles du Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joanie Murphy",
+			"role": "music"
+		},
+		{
+			"name": "Joanie Murphy",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem741",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

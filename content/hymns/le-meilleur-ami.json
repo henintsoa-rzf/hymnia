@@ -1,0 +1,81 @@
+{
+	"id": "le-meilleur-ami",
+	"title": "Le meilleur ami",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "266"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! Le meilleur ami, c’est Jésus !",
+				"C’est le sauveur des hommes perdus !",
+				"Par sa mort expiatoire,",
+				"Il nous donne la victoire,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, le meilleur ami , c’est Jésus !",
+				"Le meilleur ami, c’est Jésus,",
+				"Le meilleur ami, c’est Jésus :",
+				"Il nous préserve de chutes,",
+				"Combat pour nous dans nos luttes,",
+				"Oui, le meilleur ami, c’est Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! Le meilleur ami, c’est Jésus !",
+				"Grâce à lui, nos fardeaux ne sont plus !",
+				"Sa paix remplace la crainte,",
+				"Le chant succède à la plainte,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! Le meilleur ami, c’est Jésus !",
+				"Quand aux bords du Jourdain parvenus,",
+				"Jésus de sa main puissante,",
+				"Tarit la vague écumante,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Là-haut, pour toujours, avec Jésus !",
+				"Dans le grand cortège des élus,",
+				"Transformés à son image,",
+				"Nous chanterons d’âge en âge :"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "E. Shürer",
+			"role": "unspecified"
+		},
+		{
+			"name": "P.P. Bilhorn",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1297",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

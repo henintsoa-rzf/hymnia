@@ -1,0 +1,49 @@
+{
+	"id": "ta-grace",
+	"title": "Ta grâce",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1009"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis sauvé, aimé, pardonné par ta grâce.",
+				"Je suis sauvé, aimé, pardonné par ta grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta grâce vient me libérer,",
+				"Ta grâce vient me racheter ;",
+				"C'est par la foi que je suis sauvé.",
+				"Ta grâce vient me libérer,",
+				"Ta grâce vient me racheter ;",
+				"C'est par la foi que je suis sauvé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Benjamin et Thomas Pouzin",
+			"role": "music"
+		},
+		{
+			"name": "Benjamin et Thomas Pouzin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1009",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

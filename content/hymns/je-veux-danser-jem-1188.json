@@ -1,0 +1,115 @@
+{
+	"id": "je-veux-danser-jem-1188",
+	"title": "Je veux danser",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1188"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es le soleil qui brille sur moi,",
+				"Ma paix, le sourire qui guide mes pas,",
+				"L’espoir, celui qui affermit ma foi.",
+				"Tu es, oh! oh!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es la lumière qui vient de la croix,",
+				"Ta vie, la rivière qui coule sur moi.",
+				"Inondé par un amour si parfait,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux danser, te louer, te célébrer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu es le soleil qui brille sur moi,",
+				"Ma paix, le sourire qui guide mes pas,",
+				"L’espoir, celui qui affermit ma foi.",
+				"Tu es, oh! oh!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu es la lumière qui vient de la croix,",
+				"Ta vie, la rivière qui coule sur moi.",
+				"Inondé par un amour si parfait,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux danser, er, er, er,",
+				"Te louer, te célébrer.",
+				"Je veux danser, er, er, er,",
+				"Te louer, te célébrer."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Que le monde voie !",
+				"Je ne peux garder cet amour pour moi.",
+				"Une immense joie",
+				"Qui jamais ne me retiendra."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Que le monde voie !",
+				"Je ne peux garder cet amour pour moi.",
+				"Une immense joie",
+				"Qui jamais ne me retiendra.",
+				"Ah ! ah !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux danser, er, er, er,",
+				"Te louer, te célébrer.",
+				"Je veux danser, er, er, er,",
+				"Te louer, te célébrer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joy Reichör, Sabrina Malapelle, Jordan Bulone, Ben Lütke, Lauryan Dowse",
+			"role": "music"
+		},
+		{
+			"name": "Joy Reichör, Sabrina Malapelle, Jordan Bulone, Ben Lütke, Lauryan Dowse",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1188",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,85 @@
+{
+	"id": "croire-en-christ",
+	"title": "Croire en Christ",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "406"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La Bible déclare",
+				"que chaque être humain commet",
+				"beaucoup de mauvaises actions :",
+				"mensonge, rancune, égoïsme,",
+				"mauvaises pensées, haine, jalousie,",
+				"colère, orgueil, rejet de Dieu et d’autres choses encore."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Or, Dieu, le Créateur, est un Dieu juste.",
+				"Il ne laisse aucun péché sans punition.",
+				"Même si nous faisons beaucoup de bien,",
+				"cela ne compensera pas nos fautes."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais Dieu nous aime : Il nous a sauvés",
+				"de la punition que nous méritions.",
+				"Mais Dieu nous aime : Il nous a sauvés",
+				"de la punition que nous méritions."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus est venu sur cette terre,",
+				"Il a été condamné alors qu’il était sans péché.",
+				"Jésus a été puni pour payer nos mauvaises actions.",
+				"La punition que nous méritions est retombée sur lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Jésus est ressuscité, chacun peut être sauvé",
+				"s’il reconnaît ses péchés et veut se laisser changer.",
+				"Reconnais tes mauvaises actions, demande à Dieu son pardon,",
+				"laisse-le diriger ta vie, alors tu seras sauvé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Marc Dirlewanger",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "lyrics"
+		},
+		{
+			"name": "Marc Dirlewanger",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-moments-deternite/#chant-6",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

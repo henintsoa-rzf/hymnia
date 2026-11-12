@@ -1,0 +1,119 @@
+{
+	"id": "jesus-eleve",
+	"title": "Jésus élevé",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "15"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vivant de toute éternité,",
+				"Avant que naisse la lumière,",
+				"Le Fils de Dieu resplendissait,",
+				"Le précieux joyau de son Père",
+				"Qui, dans sa joie, élabora",
+				"Un plan pour révéler ce Roi :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus élevé,",
+				"Rayonnant de gloire.",
+				"Seigneur exalté,",
+				"Centre de l’histoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ceint de suprême autorité,",
+				"Le Fils façonna l’univers.",
+				"Son âme se réjouissait,",
+				"À l'œuvre aux côtés de son Père.",
+				"Tout ce qui vit subsiste en lui,",
+				"Créé pour entonner ce cri :"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vêtu de frêle humanité,",
+				"Il fut glorifié par son Père :",
+				"Le Fils éternel crucifié",
+				"Pour sauver l’homme de misère.",
+				"Sa sainteté, grâce et bonté",
+				"Parfaitement manifestées !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le Fils règne ressuscité,",
+				"Seigneur du peuple qu’il libère.",
+				"De leurs éloges couronné,",
+				"Il siège à la droite du Père.",
+				"Sa majesté, son nom parfait,",
+				"Loués pour toute éternité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "David Charrier",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Charrier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/jesuseleve",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

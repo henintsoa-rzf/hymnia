@@ -1,0 +1,83 @@
+{
+	"id": "j-apporterai-ma-detresse-a-jesus",
+	"title": "J'apporterai ma détresse à Jésus.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "217"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'apportai ma détresse",
+				"À Jésus ;",
+				"Mon péché, ma tristesse",
+				"Ne sont plus.",
+				"Combien douce à mon âme",
+				"Fut sa voix,",
+				"Quand, sur le bois infâme",
+				"De la croix,",
+				"Il murmura : « Je t'aime,",
+				"Et j'expire pour toi ;",
+				"Pécheur, aujourd'hui même,",
+				"Tu vivras avec moi ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand mon âme est lassée,",
+				"Au Sauveur",
+				"J'élève ma pensée",
+				"Et mon cœur.",
+				"Je le vois : plus de larmes",
+				"Dans mes yeux !",
+				"Je suis libre d'alarmes",
+				"Et joyeux.",
+				"Sa force en ma faiblesse",
+				"S'accomplit tous les jours ;",
+				"Nul fardeau ne m'oppresse",
+				"Car Il est mon recours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens à Jésus, mon frère,",
+				"Aujourd'hui !",
+				"Avec ta peine amère",
+				"Viens à Lui.",
+				"Le Fils de Dieu t'appelle ;",
+				"Viens et crois !",
+				"Pourquoi rester rebelle",
+				"À sa voix ?",
+				"La voix qui fit le monde",
+				"Te supplie, ô pécheur.",
+				"Que ton âme réponde",
+				"Et trouve le bonheur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Songs and Solos",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af217",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

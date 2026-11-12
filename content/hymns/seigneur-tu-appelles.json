@@ -1,0 +1,97 @@
+{
+	"id": "seigneur-tu-appelles",
+	"title": "Seigneur, tu appelles",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "496"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu appelles",
+				"le peuple que tu as choisi",
+				"À combattre en ton nom, à vaincre l'ennemi,",
+				"À rester debout, un peuple prêt à te servir,",
+				"Pour que ton royaume vienne sur la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ton règne vienne,",
+				"Que ta volonté soit faite",
+				"Sur terre comme dans le ciel !",
+				"Que ton règne vienne,",
+				"Que ta volonté soit faite",
+				"Sur terre comme dans le ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, tu appelles",
+				"le peuple que tu as choisi",
+				"À combattre en ton nom, à vaincre l'ennemi,",
+				"À rester debout, un peuple prêt à te servir,",
+				"Pour que ton royaume vienne sur la terre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ton règne vienne,",
+				"Que ta volonté soit faite",
+				"Sur terre comme dans le ciel !",
+				"Que ton règne vienne,",
+				"Que ta volonté soit faite",
+				"Sur terre comme dans le ciel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout genou fléchira au nom de Jésus ;",
+				"L'obscurité du monde s'enfuira.",
+				"Déploie ta puissance et remplis ce pays.",
+				"Que ta gloire resplendisse par nos chants !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ton règne vienne,",
+				"Que ta volonté soit faite",
+				"Sur terre comme dans le ciel !",
+				"Que ton règne vienne,",
+				"Que ta volonté soit faite",
+				"Sur terre comme dans le ciel !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Simon et Lorraine Fenner",
+			"role": "music"
+		},
+		{
+			"name": "Simon et Lorraine Fenner",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem496",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

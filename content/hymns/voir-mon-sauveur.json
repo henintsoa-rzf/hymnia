@@ -1,0 +1,100 @@
+{
+	"id": "voir-mon-sauveur",
+	"title": "Voir mon Sauveur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "386"
+		},
+		{
+			"hymnal": "adf",
+			"number": "432"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voir mon Sauveur face à face,",
+				"Voir Jésus dans sa beauté,",
+				"O joie ! ô suprême grâce !",
+				"O bonheur ! félicité !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, dans ta magnificence",
+				"Je te verrai, divin Roi !",
+				"Pour toujours en ta présence,",
+				"Je serai semblable à toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta gloire est encore cachée,",
+				"Sous un voile ensanglanté !",
+				"Bientôt sera révélée",
+				"Ton ineffable beauté !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, dans ta magnificence",
+				"Je te verrai, divin Roi !",
+				"Pour toujours en ta présence",
+				"Je serai semblable à toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! quels transports d'allégresse,",
+				"Quand tes yeux baissés sur moi",
+				"Me diront avec tendresse :",
+				"« Je mourus aussi pour toi ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, dans ta magnificence",
+				"Je te verrai, divin Roi !",
+				"Pour toujours en ta présence",
+				"Je serai semblable à toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Grant Colfax Tullar",
+			"role": "music"
+		},
+		{
+			"name": "Charles Rochedieu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg386",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af432",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

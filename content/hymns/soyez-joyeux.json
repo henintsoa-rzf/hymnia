@@ -1,0 +1,106 @@
+{
+	"id": "soyez-joyeux",
+	"title": "Soyez joyeux",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "339"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Soyez joyeux, Christ est en vous,",
+				"L'espoir de gloire est dans nos cœurs.",
+				"Il vit en vous par son Esprit saint,",
+				"Debout soldats pour Jésus, le Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est le moment d'entrer",
+				"Dans le pays promis",
+				"Et de saisir le terrain à conquérir.",
+				"Dieu nous donnera la victoire",
+				"Par sa main puissante,",
+				"Le monde verra Christ est Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Soyez joyeux, Christ est en vous,",
+				"L'espoir de gloire est dans nos cœurs.",
+				"Il vit en vous par son Esprit saint,",
+				"Debout soldats pour Jésus, le Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu est à l'œuvre en nous",
+				"Pour accomplir ses plans,",
+				"Car il construit son royaume glorieux.",
+				"Ce qui est impossible aux hommes",
+				"Est possible avec Dieu.",
+				"Rendons-lui gloire maintenant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Soyez joyeux, Christ est en vous,",
+				"L'espoir de gloire est dans nos cœurs.",
+				"Il vit en vous par son Esprit saint,",
+				"Debout soldats pour Jésus, le Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous sommes faibles,",
+				"Mais sa grâce nous suffit.",
+				"Nous sommes d'argile,",
+				"mais le trésor est en nous,",
+				"Car il transforme nos faiblesses",
+				"En forces pour sa gloire,",
+				"Et lui seul est glorifié."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Soyez joyeux, Christ est en vous,",
+				"L'espoir de gloire est dans nos cœurs.",
+				"Il vit en vous par son Esprit saint,",
+				"Debout soldats pour Jésus, le Seigneur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem339",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

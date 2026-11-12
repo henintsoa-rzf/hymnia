@@ -1,0 +1,80 @@
+{
+	"id": "seigneur-ta-grace-m-appelle",
+	"title": "Seigneur, ta grâce m'appelle",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "290"
+		},
+		{
+			"hymnal": "adf",
+			"number": "303"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, ta grâce m'appelle,",
+				"Par mon nom tu me connais,",
+				"Et mon cœur, longtemps rebelle,",
+				"Se donne à toi pour jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est pour toi que je veux vivre,",
+				"Car toi seul es mon Berger,",
+				"C'est toi seul que je veux suivre,",
+				"Et non plus un étranger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"N'as-tu pas donné ta vie",
+				"Pour me sauver, bon Pasteur ?",
+				"Gloire à ta grâce infinie !",
+				"Gloire à toi, mon Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ainsi, mon âme, courage !",
+				"Jésus marche devant toi,",
+				"Et jusqu'au bout du voyage,",
+				"Son amour veille sur moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "K. Schulz",
+			"role": "music"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg290",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af303",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

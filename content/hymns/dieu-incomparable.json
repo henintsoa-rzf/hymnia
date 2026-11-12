@@ -1,0 +1,116 @@
+{
+	"id": "dieu-incomparable",
+	"title": "Dieu incomparable",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "900"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du plus haut des sommets",
+				"au fond des océans,",
+				"La création nous parle de ta majesté.",
+				"Des couleurs de l'automne",
+				"aux parfums du printemps,",
+				"Toute créature élève sa voix pour chanter",
+				"Et proclamer :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Dieu incomparable, grand et admirable. »",
+				"Tu as placé les étoiles et tu connais leur nom.",
+				"Tu es surprenant, Seigneur !",
+				"Dieu redoutable, insaisissable,",
+				"Émerveillés, nous tombons",
+				"à genoux et crions :",
+				"« Tu es surprenant, Seigneur ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui a tracé la route aux éclairs dans le ciel ?",
+				"Qui a vu les réserves de neige et de pluie ?",
+				"Qui a donné naissance à l'éclat du soleil,",
+				"Mais le voile pour offrir la douceur de la nuit ?",
+				"Oh ! Quel mystère !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Dieu incomparable, grand et admirable. »",
+				"Tu as placé les étoiles et tu connais leur nom.",
+				"Tu es surprenant, Seigneur !",
+				"Dieu insondable, inébranlable,",
+				"Tu vois mon cœur",
+				"Et pourtant tu m'aimes sans condition.",
+				"« Tu es surprenant, Seigneur ! »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Dieu incomparable, grand et admirable. »",
+				"Tu as placé les étoiles et tu connais leur nom.",
+				"Tu es surprenant, Seigneur !",
+				"Dieu insondable, inébranlable,",
+				"Tu vois mon cœur",
+				"Et pourtant tu m'aimes sans condition.",
+				"« Tu es surprenant, Seigneur ! »",
+				"Tu es surprenant, Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Dieu incomparable, grand et admirable. »",
+				"Tu as placé les étoiles et tu connais leur nom.",
+				"Tu es surprenant, Seigneur !",
+				"Dieu insondable, inébranlable,",
+				"Tu vois mon cœur",
+				"Et pourtant tu m'aimes sans condition.",
+				"« Tu es surprenant, Seigneur !",
+				"Tu es surprenant, Seigneur ! »"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu vois mon cœur et pourtant",
+				"Tu m'aimes sans condition.",
+				"Tu es surprenant, Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Laura Story",
+			"role": "music"
+		},
+		{
+			"name": "Laura Story",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem900",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

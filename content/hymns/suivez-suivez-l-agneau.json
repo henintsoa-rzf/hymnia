@@ -1,0 +1,74 @@
+{
+	"id": "suivez-suivez-l-agneau",
+	"title": "Suivez, suivez l'Agneau.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "341"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Suivez, suivez l'Agneau",
+				"jusqu'au soir de la vie ;",
+				"Vers un gras pâturage Il mène son troupeau",
+				"Au bonheur des élus sa grâce vous convie ;",
+				"Suivez toujours, suivez toujours l'Agneau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Suivez-le sans frayeur,",
+				"au jour de la tristesse ;",
+				"Déposez dans son sein votre pesant fardeau ;",
+				"Suivez-le dans la paix, au jour de l'allégresse ;",
+				"Suivez toujours, suivez toujours l'Agneau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais suivez-le partout.",
+				"Le Berger qui vous mène",
+				"Vous aime, et ne saurait égarer son troupeau.",
+				"Oui, le joug du Seigneur est une douce chaîne.",
+				"Suivez toujours, suivez toujours l'Agneau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Suivez-le sans broncher ;",
+				"le chemin solitaire",
+				"Doit vous conduire un jour au céleste repos,",
+				"Mais pour le suivre au ciel,",
+				"suivez-le sur la terre.",
+				"Suivez toujours, suivez toujours l'Agneau !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "M. Avocat",
+			"role": "music"
+		},
+		{
+			"name": "Charles Chatelanat",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af341",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

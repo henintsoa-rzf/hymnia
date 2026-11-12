@@ -1,0 +1,96 @@
+{
+	"id": "c-est-toi",
+	"title": "C'est toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "735"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est toi qui as reçu",
+				"les coups que je méritais,",
+				"Sur toi qu'est tombée",
+				"la colère qui me revenait",
+				"Et c'est par tes blessures",
+				"que je suis guéri,",
+				"C'est par ton sang",
+				"que je suis libre aujourd'hui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ce sont tes larmes qui m'ont touché,",
+				"Ta compassion qui m'a lavé.",
+				"À toi la gloire, la majesté",
+				"Et l'honneur pour l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est toi qui as couvert",
+				"ma honte et ma nudité",
+				"De ton amour et ton pardon, de ta vérité",
+				"C'est par ton sacrifice que je suis racheté,",
+				"Sur la croix tu m'as offert ta liberté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ce sont tes larmes qui m'ont touché,",
+				"Ta compassion qui m'a lavé.",
+				"À toi la gloire, la majesté",
+				"Et l'honneur pour l'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est toi qui as été trahi et abandonné,",
+				"C'est toi qui as été brisé",
+				"pour tous mes péchés",
+				"Et ce sont ces mêmes mains",
+				"que les hommes ont percées",
+				"Que tu as tendues vers moi pour me relever."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ce sont tes larmes qui m'ont touché,",
+				"Ta compassion qui m'a lavé.",
+				"À toi la gloire, la majesté",
+				"Et l'honneur pour l'éternité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem735",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

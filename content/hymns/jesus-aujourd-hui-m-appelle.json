@@ -1,0 +1,80 @@
+{
+	"id": "jesus-aujourd-hui-m-appelle",
+	"title": "Jésus aujourd'hui m'appelle.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "286"
+		},
+		{
+			"hymnal": "cd",
+			"number": "340"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus aujourd'hui m'appelle,",
+				"J'entends sa voix dans mon cœur.",
+				"Oh ! rends-toi donc, cœur rebelle,",
+				"Ouvre la porte au Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, je te l'abandonne,",
+				"Ce cœur indigne de toi.",
+				"Viens y régner ! Que personne",
+				"Ne le soustraie à ta loi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"De moi librement dispose,",
+				"De ma santé, de mes biens ;",
+				"À tes pieds je les dépose,",
+				"O Maître a qui j'appartiens !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"De ma vie, heure par heure,",
+				"Que ta main règle le cours !",
+				"Car désormais je demeure",
+				"À tes ordres pour toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Wolfgang Amadeus Mozart",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Glardon",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af286",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1139",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

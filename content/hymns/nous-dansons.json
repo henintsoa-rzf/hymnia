@@ -1,0 +1,132 @@
+{
+	"id": "nous-dansons",
+	"title": "Nous dansons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1008"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu est dans nos villes,",
+				"(Dieu est dans nos villes,)",
+				"Dieu est sur nos places,",
+				"(Dieu est sur nos places,)",
+				"Dieu est dans nos hymnes,",
+				"(Dieu est dans nos hymnes,)",
+				"Dieu est sur nos traces.",
+				"(Dieu est sur nos traces.)",
+				"Notre Dieu est là, là où on ne l'attend pas.",
+				"(Notre Dieu est là, là où on ne l'attend pas.)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu dans notre histoire,",
+				"(Dieu dans notre histoire,)",
+				"Dieu dans notre temps,",
+				"(Dieu dans notre temps,)",
+				"Dieu dans nos mémoires,",
+				"(Dieu dans nos mémoires,)",
+				"Dieu est là, partout présent.",
+				"(Dieu est là, partout présent.)",
+				"Notre Dieu est là, là où on ne l'attend pas.",
+				"(Notre Dieu est là, là où on ne l'attend pas.)"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous dansons, nous dansons",
+				"pour notre génération.",
+				"Nous prions, nous prions",
+				"parmi les acclamations,",
+				"Élevons nos mains vers lui.",
+				"Nous marchons, nous marchons,",
+				"reçois notre adoration.",
+				"Nous venons, nous venons élever ton saint nom.",
+				"Notre Dieu est avec nous maintenant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu est dans nos yeux,",
+				"(Dieu est dans nos yeux,)",
+				"Dieu est dans nos mains,",
+				"(Dieu est dans nos mains,)",
+				"Dieu est sur nos lèvres,",
+				"(Dieu est sur nos lèvres,)",
+				"Dieu est dans nos voix.",
+				"(Dieu est dans nos voix.)",
+				"Notre Dieu est là, là où on ne l'attend pas.",
+				"(Notre Dieu est là, là où on ne l'attend pas.)"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous dansons, nous dansons",
+				"pour notre génération.",
+				"Nous prions, nous prions",
+				"parmi les acclamations,",
+				"Élevons nos mains vers lui.",
+				"Nous marchons, nous marchons,",
+				"reçois notre adoration.",
+				"Nous venons, nous venons élever ton saint nom.",
+				"Notre Dieu est avec nous maintenant."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Lève-toi, lève toi, ton Dieu a besoin de toi.",
+				"Nous voici, nous voici là.",
+				"Lève-toi, lève-toi, rien ne se fera sans toi.",
+				"Nous voici, nous voici là."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Nous dansons, nous dansons",
+				"pour notre génération.",
+				"Nous prions, nous prions",
+				"parmi les acclamations,",
+				"Élevons nos mains vers lui.",
+				"Nous marchons, nous marchons,",
+				"reçois notre adoration.",
+				"Nous venons, nous venons élever ton saint nom.",
+				"Notre Dieu est avec nous maintenant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Benjamin et Thomas Pouzin",
+			"role": "music"
+		},
+		{
+			"name": "Benjamin et Thomas Pouzin",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1008",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

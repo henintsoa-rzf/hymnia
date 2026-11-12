@@ -1,0 +1,89 @@
+{
+	"id": "quel-sauveur-merveilleux",
+	"title": "Quel sauveur merveilleux",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "250"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel Sauveur merveilleux je possède !",
+				"Il se livre à la mort pour moi ;",
+				"Et, sa vie innocente, il la cède",
+				"En souffrant sur l'infâme bois."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Attaché à la croix pour moi,",
+				"Attaché à la croix pour moi,",
+				"Il a pris mon péché, il m'a délivré,",
+				"Attaché à la croix pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il renonce à la gloire céleste,",
+				"Il se charge de mes douleurs,",
+				"Sa Parole infaillible m'atteste",
+				"Que je trouve en lui mon Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Attaché à la croix pour moi,",
+				"Attaché à la croix pour moi,",
+				"Il a pris mon péché, il m'a délivré,",
+				"Attaché à la croix pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est ressuscité plein de gloire",
+				"Pour régner à toujours au ciel.",
+				"Il revient et j'attends sa victoire",
+				"Avec mon bonheur éternel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Attaché à la croix pour moi,",
+				"Attaché à la croix pour moi,",
+				"Il a pris mon péché, il m'a délivré,",
+				"Attaché à la croix pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Frederick Arthur Graves",
+			"role": "music"
+		},
+		{
+			"name": "Algot Edlund",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg250",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

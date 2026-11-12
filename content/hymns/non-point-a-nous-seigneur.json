@@ -1,0 +1,97 @@
+{
+	"id": "non-point-a-nous-seigneur",
+	"title": "Non point à nous, Seigneur",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "49"
+		},
+		{
+			"hymnal": "adf",
+			"number": "620"
+		},
+		{
+			"hymnal": "cd",
+			"number": "314"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Non point à nous, Seigneur,",
+				"non point à nous la gloire.",
+				"Gloire au nom trois fois saint",
+				"qu'on adore à genoux !",
+				"De tes bienfaits passés tu couronnes l'Histoire",
+				"Par les bienfaits nouveaux",
+				"que tu répands sur nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu nous as confié ta Parole féconde ;",
+				"Témoins de ta justice et de ta charité.",
+				"Nous n'avons autre chose",
+				"à proclamer au monde",
+				"Que la croix du Sauveur, mort et ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le trésor est sans prix,",
+				"mais le vase est d'argile…",
+				"Toi seul, tu peux soumettre",
+				"et soutenir nos cœurs.",
+				"Que cédant à ta grâce, ô Dieu de l'Évangile,",
+				"Ils soient vaincus par elle",
+				"et par elle vainqueurs !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur, étends ta main",
+				"pour bénir notre frère :",
+				"Ranime en lui l'amour, l'espérance et la foi ;",
+				"Consacre-le toi-même, et que son ministère,",
+				"Avec toi commencé, se poursuive avec toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul-Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "Théodore Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg049",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af620",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1116",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

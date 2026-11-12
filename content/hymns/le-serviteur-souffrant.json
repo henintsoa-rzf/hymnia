@@ -1,0 +1,132 @@
+{
+	"id": "le-serviteur-souffrant",
+	"title": "Le serviteur souffrant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1077"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Devant le Seigneur, son saint serviteur",
+				"S'est levé, fragile,",
+				"Comme une racine, rejeton chétif",
+				"Qui sort d'un sol stérile, desséché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aucune apparence, aucune prestance,",
+				"Rien dans son aspect",
+				"Pour nous attirer, rien de merveilleux",
+				"Pour captiver nos yeux,",
+				"Sans beauté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Méprisé, rejeté, de tous abandonné,",
+				"Homme de douleur, la souffrance il connaît.",
+				"Il ressemble à celui qu'on évite et qu'on fuit,",
+				"Dédaigné, écrasé et sans aucun respect."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais c'étaient nos tourments",
+				"Dont il s'était chargé,",
+				"Nos maux, nos maladies qu'il a portés sur lui.",
+				"Accablé par nos tords, frappé pour nos péchés,",
+				"Ce sont nos fautes à nous",
+				"Qui ont fixé ses clous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il a supporté notre châtiment,",
+				"Il coule pour la paix,",
+				"Son sang innocent, et c'est dans ses plaies",
+				"Que nous sommes guéris, rétablis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous suivions nos voies, loin du chemin droit,",
+				"Inconstants, rebelles,",
+				"Perdus, sans repères, Dieu a fait tomber",
+				"Sur son Agneau parfait sa colère."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Moqué, maltraité, il s'est humilié,",
+				"Gardant le silence",
+				"Devant la sentence, jugé, condamné",
+				"En raison des péchés de ses frères."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Son corps est déposé au milieu des impies,",
+				"Bien qu'il n'y eut en lui ni mal ni tromperie.",
+				"Mais, brisé par la souffrance, il sera glorifié,",
+				"Car Dieu accomplira par lui sa volonté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est une descendance,",
+				"C'est un peuple saint immense,",
+				"Libéré, acquitté qui sera justifié,"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Car il prendra sur lui tous les péchés commis.",
+				"Dieu le fera puissant au-dessus des plus grands.",
+				"Il a pris sur lui tous les péchés commis.",
+				"Dieu l'a fait tout-puissant",
+				"Au-dessus des plus grands."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thérèse Motte",
+			"role": "music"
+		},
+		{
+			"name": "Thérèse Motte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1077",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

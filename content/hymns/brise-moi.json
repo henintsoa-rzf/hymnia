@@ -1,0 +1,55 @@
+{
+	"id": "brise-moi",
+	"title": "Brise-moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "524"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brise-moi,",
+				"Brise tout ce qui est rebelle en moi.",
+				"Émonde-moi",
+				"De ces branches mortes",
+				"Qui ne fleuriront pas.",
+				"Brise-moi,",
+				"Brise tout ce qui est rebelle en moi.",
+				"Émonde-moi",
+				"De ces branches mortes",
+				"Qui ne fleuriront pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il faut que tu grandisses",
+				"Et que je diminue,",
+				"Que tu grandisses",
+				"Et que je diminue, Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lydie Ramasco",
+			"role": "music"
+		},
+		{
+			"name": "Lydie Ramasco",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem524",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

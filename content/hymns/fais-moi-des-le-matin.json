@@ -1,0 +1,50 @@
+{
+	"id": "fais-moi-des-le-matin",
+	"title": "Fais-moi dès le matin",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "200"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Fais-moi dès le matin entendre ta bonté,",
+				"Car je me confie en toi.",
+				"Fais-moi connaître le chemin",
+				"Où je dois marcher,",
+				"Car j'élève à toi mon âme."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Délivre-moi ô Éternel !",
+				"Auprès de toi je cherche un refuge.",
+				"Enseigne-moi à faire ta volonté,",
+				"Car Seigneur, tu es mon Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rosalie Monroe",
+			"role": "music"
+		},
+		{
+			"name": "Psaume 143.8",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem200",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

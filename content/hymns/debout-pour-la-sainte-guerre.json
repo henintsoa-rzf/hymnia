@@ -1,0 +1,79 @@
+{
+	"id": "debout-pour-la-sainte-guerre",
+	"title": "Debout pour la sainte guerre !",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "323"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Debout pour la sainte guerre !",
+				"Le mal est grand encor;",
+				"Plus d’un ami, plus d’un frère",
+				"Suit un chemin de mort."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"En avant ! tous en avant !",
+				"Notre chef est tout-puissant.",
+				"Nos armes sont la prière,",
+				"L’amour persévérant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Debout pour la sainte guerre !",
+				"Ranimons notre ardeur.",
+				"Avec la croix pour bannière,",
+				"Qui ne serait vainqueur ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Debout pour la sainte guerre !",
+				"Soyons unis et forts !",
+				"Qu’une charité sincère",
+				"Préside à nos efforts."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ô Dieu ! pour la sainte guerre",
+				"Revêts-nous tous en Christ",
+				"Des armes de la lumière,",
+				"Des dons de ton Esprit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "W. Ogden",
+			"role": "unspecified"
+		},
+		{
+			"name": "Edmond Louis Budry",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1124",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

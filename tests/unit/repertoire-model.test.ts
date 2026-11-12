@@ -2,6 +2,7 @@
 import { describe, expect, it } from 'vitest';
 import {
 	addEntry,
+	applyRepairs,
 	collectionsWith,
 	createCollection,
 	deleteCollection,
@@ -122,7 +123,8 @@ describe('entries', () => {
 		expect(result.doc.collections[0].entries.at(-1)).toEqual({
 			hymnal: 'ce',
 			number: '3',
-			addedAt: T1
+			addedAt: T1,
+			hymnId: 'torrents'
 		});
 		expect(result.doc.collections[0].updatedAt).toBe(T1);
 	});
@@ -132,6 +134,39 @@ describe('entries', () => {
 		const again = addEntry(doc, id, { hymnal: 'he', number: '7' }, hymnIdOf, T1);
 		expect(again.status).toBe('already-there');
 		expect(again.doc).toBe(doc);
+	});
+
+	it('stores the hymnId when the catalog knows the hymn (feature 002, FR-027)', () => {
+		const { doc, ids } = withCollections('Culte');
+		const known = addEntry(doc, ids[0], { hymnal: 'ce', number: '1' }, hymnIdOf, T1);
+		expect(known.doc.collections[0].entries[0]).toEqual({
+			hymnal: 'ce',
+			number: '1',
+			addedAt: T1,
+			hymnId: 'a-toi-la-gloire'
+		});
+		const unknown = addEntry(doc, ids[0], { hymnal: 'xx', number: '9' }, hymnIdOf, T1);
+		expect('hymnId' in unknown.doc.collections[0].entries[0]).toBe(false);
+	});
+
+	it('compares the stored hymnId first', () => {
+		// The entry was saved for "rempart"; its reference now points to another hymn.
+		const { doc, ids } = withCollections('Culte');
+		const stored = {
+			...doc,
+			collections: [
+				{
+					...doc.collections[0],
+					entries: [{ hymnal: 'ce', number: '1', addedAt: T0, hymnId: 'rempart' }]
+				}
+			]
+		};
+		expect(addEntry(stored, ids[0], { hymnal: 'ce', number: '2' }, hymnIdOf, T1).status).toBe(
+			'already-there'
+		);
+		expect(addEntry(stored, ids[0], { hymnal: 'he', number: '7' }, hymnIdOf, T1).status).toBe(
+			'added'
+		);
 	});
 
 	it('compares references when the catalog does not know the hymn', () => {
@@ -149,6 +184,26 @@ describe('entries', () => {
 		]);
 		expect(numbers(removeEntry(doc, id, { hymnal: 'he', number: '7' }, hymnIdOf, T1), id)).toEqual([
 			'ce 2'
+		]);
+	});
+
+	it('removes only one entry when the hymn is there twice (hymns merged at import)', () => {
+		// Before the merge the catalog saw two hymns, so both references were added.
+		const unknown: HymnIdOf = () => undefined;
+		const created = withCollections('Culte');
+		const id = created.ids[0];
+		let doc = created.doc;
+		doc = addEntry(doc, id, { hymnal: 'ce', number: '1' }, unknown, T0).doc;
+		doc = addEntry(doc, id, { hymnal: 'he', number: '7' }, unknown, T0).doc;
+		expect(numbers(doc, id)).toEqual(['ce 1', 'he 7']);
+		// After the merge, both references are the same hymn: the exact one is removed.
+		expect(numbers(removeEntry(doc, id, { hymnal: 'he', number: '7' }, hymnIdOf, T1), id)).toEqual([
+			'ce 1'
+		]);
+		// Removing under a third reference of the hymn removes only the first entry.
+		const third: HymnIdOf = (ref) => (ref.hymnal === 'zz' ? 'a-toi-la-gloire' : hymnIdOf(ref));
+		expect(numbers(removeEntry(doc, id, { hymnal: 'zz', number: '4' }, third, T1), id)).toEqual([
+			'he 7'
 		]);
 	});
 
@@ -202,6 +257,33 @@ describe('collectionsWith', () => {
 		doc = addEntry(doc, ids[2], { hymnal: 'he', number: '7' }, hymnIdOf, T0).doc;
 		expect(collectionsWith(doc, { hymnal: 'he', number: '7' }, hymnIdOf)).toEqual([ids[0], ids[2]]);
 		expect(collectionsWith(doc, { hymnal: 'ce', number: '2' }, hymnIdOf)).toEqual([]);
+	});
+});
+
+describe('repairs (feature 002, FR-027)', () => {
+	it('updates the entries in place without changing updatedAt', () => {
+		const { doc, id } = filled(['ce', '1'], ['ce', '2']);
+		const next = applyRepairs(doc, [
+			{ collectionId: id, index: 1, repair: { hymnal: 'ce', number: '3', hymnId: 'torrents' } }
+		]);
+		expect(next.collections[0].entries[1]).toEqual({
+			hymnal: 'ce',
+			number: '3',
+			addedAt: T0,
+			hymnId: 'torrents'
+		});
+		expect(next.collections[0].updatedAt).toBe(doc.collections[0].updatedAt);
+		expect(next.collections[0].entries[0]).toBe(doc.collections[0].entries[0]);
+	});
+
+	it('returns the same document when there is nothing to repair', () => {
+		const { doc } = filled(['ce', '1']);
+		expect(applyRepairs(doc, [])).toBe(doc);
+		expect(
+			applyRepairs(doc, [
+				{ collectionId: 'nope', index: 0, repair: { hymnal: 'ce', number: '1', hymnId: 'x' } }
+			])
+		).toBe(doc);
 	});
 });
 

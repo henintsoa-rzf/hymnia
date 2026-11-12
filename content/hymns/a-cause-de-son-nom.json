@@ -1,0 +1,77 @@
+{
+	"id": "a-cause-de-son-nom",
+	"title": "À cause de son nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1067"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À cause de son nom, il nous répondra.",
+				"À cause de son nom, il nous conduira.",
+				"À cause de son nom, il agira.",
+				"L'Éternel est fidèle, l'Éternel est fidèle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il nous gardera dans les mauvais jours.",
+				"Il nous soutiendra jusqu'à son retour.",
+				"Rien ne détruira son immense amour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À cause de son nom, il nous répondra.",
+				"À cause de son nom, il nous conduira.",
+				"À cause de son nom, il agira.",
+				"L'Éternel est fidèle, l'Éternel est fidèle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il nous comblera de tous ses bienfaits.",
+				"Il nous donnera sa grâce et sa paix.",
+				"Il nous conduira ; c'est le guide parfait."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À cause de son nom, il nous répondra.",
+				"À cause de son nom, il nous conduira.",
+				"À cause de son nom, il agira.",
+				"L'Éternel est fidèle, l'Éternel est fidèle."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1067",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

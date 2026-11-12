@@ -1,0 +1,106 @@
+{
+	"id": "tu-dors-dans-ce-tombeau",
+	"title": "Tu dors dans ce tombeau.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "120"
+		},
+		{
+			"hymnal": "cd",
+			"number": "112"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu dors dans ce tombeau,",
+				"Jésus, mon frère !…",
+				"Ils l'ont fermé d'un sceau,",
+				"Jésus, mon Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est ressuscité !",
+				"Pour toujours, l'enfer est dompté !",
+				"Comme lui, tous les fils du Père",
+				"S'envoleront dans la lumière.",
+				"Gloire à Dieu ! Gloire à Dieu !",
+				"Alléluia ! Gloire à Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le sceau ni les soldats,",
+				"Jésus, mon frère,",
+				"Ne te retiendront pas,",
+				"Jésus, mon Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est ressuscité !",
+				"Pour toujours, l'enfer est dompté !",
+				"Comme lui, tous les fils du Père",
+				"S'envoleront dans la lumière.",
+				"Gloire à Dieu ! Gloire à Dieu !",
+				"Alléluia ! Gloire à Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu brises sans effort",
+				"Jésus, mon frère,",
+				"Les portes de la mort,",
+				"Jésus, mon Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus est ressuscité !",
+				"Pour toujours, l'enfer est dompté !",
+				"Comme lui, tous les fils du Père",
+				"S'envoleront dans la lumière.",
+				"Gloire à Dieu ! Gloire à Dieu !",
+				"Alléluia ! Gloire à Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robert Lowry",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af120",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/959",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

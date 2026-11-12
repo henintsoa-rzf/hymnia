@@ -1,0 +1,74 @@
+{
+	"id": "devant-le-trone",
+	"title": "Devant le trône",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "739"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Devant le trône du Très-Haut,",
+				"Mon défenseur saura plaider.",
+				"Cet avocat s'appelle: « Amour. »",
+				"Il intercède pour moi toujours.",
+				"Mon nom est gravé sur ses mains,",
+				"Mon nom est inscrit sur son cœur.",
+				"Puisqu'il défend ma cause au ciel,",
+				"Nul ne pourra me condamner,",
+				"Nul ne pourra me condamner."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et quand Satan me fait douter,",
+				"Vient me tenter et m'accuser,",
+				"Je lève les yeux vers celui",
+				"Qui a donné pour moi sa vie.",
+				"Mon Sauveur était innocent,",
+				"Sa mort me rend la liberté.",
+				"Oui, Dieu le juste est satisfait",
+				"Et il pardonne mon péché,",
+				"Et il pardonne mon péché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voyez l'Agneau ressuscité,",
+				"Il est le Roi plein de bonté.",
+				"Non, il ne changera jamais,",
+				"Lui, ma justice, mon bien, ma paix.",
+				"En lui, j'ai la vie éternelle,",
+				"Par son sang, il m'a racheté.",
+				"Pour toujours, ma vie est cachée",
+				"En Jésus, mon Sauveur, mon Dieu,",
+				"En Jésus, mon Sauveur, mon Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Vikki Cook",
+			"role": "music"
+		},
+		{
+			"name": "Vikki Cook",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem739",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

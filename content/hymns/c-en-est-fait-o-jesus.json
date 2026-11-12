@@ -1,0 +1,68 @@
+{
+	"id": "c-en-est-fait-o-jesus",
+	"title": "C'en est fait, ô Jésus.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "284"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'en est fait, ô Jésus, je ne suis plus à moi ;",
+				"Pour jamais, mon Sauveur,",
+				"je m'abandonne à toi ;",
+				"À toi qui me créas, à toi qui m'as sauvé,",
+				"Qui d'Esprit et de feu m'as enfin baptisé,",
+				"Qui d'Esprit et de feu m'as enfin baptisé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'en est fait, c'en est fait,",
+				"j'appartiens à Jésus ;",
+				"Je l'aime, je le sers, et ne m'appartiens plus.",
+				"À lui j'ai tout donné, mon esprit et mon cœur :",
+				"Gloire, gloire à jamais à mon divin Sauveur !",
+				"Gloire, gloire à jamais à mon divin Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'en est fait ! oui, Seigneur,",
+				"ton pauvre et faible enfant",
+				"À tes pieds se prosterne et t'adore en aimant !",
+				"Maintiens-le dans ta grâce,",
+				"et qu'à jamais mon cœur",
+				"Demeure en ton amour,",
+				"tout-puissant Rédempteur !",
+				"Demeure en ton amour,",
+				"tout-puissant Rédempteur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "César Malan",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af284",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

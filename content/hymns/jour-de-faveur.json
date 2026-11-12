@@ -1,0 +1,77 @@
+{
+	"id": "jour-de-faveur",
+	"title": "Jour de faveur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "629"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jour de faveur, jour de grâce,",
+				"Voici le jour du jubilé.",
+				"L'Esprit du Seigneur souverain",
+				"Vient sur moi maintenant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que cette huile se répande,",
+				"Venant du trône du Roi.",
+				"Répands sur nous ta puissance",
+				"Quand nous te louons, Jésus.",
+				"Rends-nous libres d'annoncer",
+				"Ta grâce au monde angoissé.",
+				"Jésus, que ta gloire vienne",
+				"Quand nous proclamons ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jour de faveur, jour de grâce,",
+				"Voici le jour du jubilé.",
+				"L'Esprit du Seigneur souverain",
+				"Vient sur moi maintenant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Délivrons les prisonniers,",
+				"Que Satan a enfermés.",
+				"Soulageons les opprimés,",
+				"Proclamons la liberté.",
+				"Portons l'Évangile aux pauvres,",
+				"Rendons la vue aux aveugles.",
+				"L'Esprit du Dieu tout-puissant",
+				"Vient sur nous maintenant."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Fellingham",
+			"role": "music"
+		},
+		{
+			"name": "David Fellingham",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem629",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

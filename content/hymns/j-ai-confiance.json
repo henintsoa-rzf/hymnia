@@ -1,0 +1,49 @@
+{
+	"id": "j-ai-confiance",
+	"title": "J'ai confiance",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "762"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'ai confiance quand, dans ta présence,",
+				"Je prie je crie: « Miséricorde ! »",
+				"J'ai confiance quand, dans ta présence,",
+				"Je prie je crie: « Miséricorde ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Grand Dieu d'amour, ne t'éloigne pas de moi !",
+				"Grand Dieu d'amour, pose ton regard sur moi !",
+				"Souviens-toi de ta miséricorde,",
+				"Souviens-toi de ta miséricorde !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Bowater",
+			"role": "music"
+		},
+		{
+			"name": "Chris Bowater",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem762",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

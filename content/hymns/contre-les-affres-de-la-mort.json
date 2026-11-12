@@ -1,0 +1,68 @@
+{
+	"id": "contre-les-affres-de-la-mort",
+	"title": "Contre les affres de la mort.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "628"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Contre les affres de la mort",
+				"Je trouverai refuge.",
+				"Auprès du Sauveur doux et fort",
+				"Qui m'a sauvé du Juge.",
+				"En sa blessure j'ai la paix ;",
+				"Là s'anéantit mon forfait,",
+				"Satan ne peut m'atteindre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il n'est de maux ni de besoins",
+				"Point de douleur poignante",
+				"Qui ne guérisse par les soins",
+				"De cette plaie ardente.",
+				"Le sang de Christ, voilà mon or.",
+				"Il est mon pain et mon trésor,",
+				"Je ne suis plus à plaindre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur me voici consolé,",
+				"Heureux, calme, tranquille,",
+				"Ta plaie auguste m'a lavé",
+				"De ma nature vile.",
+				"Mon âme vole vers ton Dieu,",
+				"Car il t'attend dans le Saint Lieu",
+				"Où rien n'est plus à craindre."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Melchior Franck",
+			"role": "music"
+		},
+		{
+			"name": "Mme M. Wargenau-Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af628",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

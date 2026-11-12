@@ -1,0 +1,73 @@
+{
+	"id": "ma-vie",
+	"title": "Ma vie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "144"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ma vie est remplie de roses,",
+				"C'est un grand jardin fleuri ;",
+				"Je ne désire autre chose",
+				"Que ce qui te glorifie,",
+				"Que ce qui te glorifie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma vie est bien peu de chose",
+				"Face à ton grand infini,",
+				"Mais je sais qu'elle repose",
+				"Sur l'amour et la folie,",
+				"Sur l'amour et la folie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ma vie est un long poème",
+				"Qui s'élève en mélodie ;",
+				"Il commence par un « je t'aime »",
+				"Et jamais ne se finit,",
+				"Et jamais ne se finit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ma vie est un long voyage",
+				"Où mon soleil s'obscurcit ;",
+				"Mais dans ce pèlerinage,",
+				"Il est l'aurore de ma vie,",
+				"Il est l'aurore de ma vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "D. Fernandez",
+			"role": "music"
+		},
+		{
+			"name": "D. Fernandez",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem144",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

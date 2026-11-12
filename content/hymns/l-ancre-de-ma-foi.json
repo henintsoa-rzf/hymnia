@@ -1,0 +1,173 @@
+{
+	"id": "l-ancre-de-ma-foi",
+	"title": "L'ancre de ma foi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1163"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Quand les épreuves",
+				"Me font douter de toi,",
+				"Ta voix soutient mes pas.",
+				"Et dans ma peine",
+				"Je sens toujours tes bras",
+				"Qui me ramènent à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je suis faible",
+				"Et que mon pied chancelle,",
+				"Tu es toujours fidèle",
+				"Car à chaque heure",
+				"Ton Esprit me rappelle",
+				"Ton alliance éternelle !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta promesse en moi",
+				"Est l'ancre de ma foi,",
+				"Ton amour pour moi",
+				"Ne faillit pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta promesse en moi",
+				"Est l'ancre de ma foi,",
+				"Ton amour pour moi",
+				"Ne faillit pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ces moments",
+				"Qui servent pour ta gloire,",
+				"Me rapprochant de toi,",
+				"Car tu transformes",
+				"Ce qui est mort en vie",
+				"Comme tu l'as promis."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta promesse en moi",
+				"Est l'ancre de ma foi,",
+				"Ton amour pour moi",
+				"Ne faillit pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta promesse en moi",
+				"Est l'ancre de ma foi,",
+				"Ton amour pour moi",
+				"Ne faillit pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta promesse en moi",
+				"Est l'ancre de ma foi,",
+				"Ton amour pour moi",
+				"Ne faillit pas."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu es ma vie",
+				"Et tu es ma joie.",
+				"Dieu de l'infini,",
+				"Tu ne faillis pas.",
+				"Tu es ma vie",
+				"Et tu es ma joie.",
+				"Dieu de l'infini,",
+				"Tu es toujours là !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu es ma vie",
+				"Et tu es ma joie.",
+				"Dieu de l'infini,",
+				"Tu ne faillis pas.",
+				"Tu es ma vie",
+				"Et tu es ma joie.",
+				"Dieu de l'infini,",
+				"Tu es toujours là !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta promesse en moi",
+				"Est l'ancre de ma foi,",
+				"Ton amour pour moi",
+				"Ne faillit pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta promesse en moi",
+				"Est l'ancre de ma foi,",
+				"Ton amour pour moi",
+				"Ne faillit pas."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ta promesse en moi",
+				"Est l'ancre de ma foi,",
+				"Ton amour pour moi",
+				"Ne faillit pas."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dan Luiten",
+			"role": "music"
+		},
+		{
+			"name": "Dan Luiten",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1163",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

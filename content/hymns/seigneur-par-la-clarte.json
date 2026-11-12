@@ -1,0 +1,95 @@
+{
+	"id": "seigneur-par-la-clarte",
+	"title": "Seigneur, par la clarté",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "495"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, par la clarté de ton amour,",
+				"Chasse l'obscurité qui nous entoure.",
+				"Jésus, toi la lumière qui nous éclaires,",
+				"Vérité qui nous guides et qui nous libères,",
+				"Brille sur moi, brille sur moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brille, ô Jésus, couvre ce pays de ta gloire,",
+				"Brûle, Esprit-Saint embrase nos cœurs,",
+				"Coule en torrent,",
+				"De ta grâce remplis les nations,",
+				"Parle, Seigneur. Que la lumière soit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, tu me conduis dans ta présence,",
+				"De la nuit dans l'éclat de ta puissance.",
+				"Par ton sang, je prends part à ta sainteté.",
+				"Sonde-moi, mes ténèbres, consume-les.",
+				"Brille sur moi, brille sur moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brille, ô Jésus, couvre ce pays de ta gloire,",
+				"Brûle, Esprit-Saint embrase nos cœurs,",
+				"Coule en torrent,",
+				"De ta grâce remplis les nations,",
+				"Parle, Seigneur. Que la lumière soit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et quand nous contemplons ta royauté,",
+				"Nos visages reflètent ta beauté.",
+				"Et transformés sans cesse de gloire en gloire,",
+				"Que sans fin notre vie dise ton histoire.",
+				"Brille sur moi, brille sur moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Brille, ô Jésus, couvre ce pays de ta gloire,",
+				"Brûle, Esprit-Saint embrase nos cœurs,",
+				"Coule en torrent,",
+				"De ta grâce remplis les nations,",
+				"Parle, Seigneur. Que la lumière soit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem495",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

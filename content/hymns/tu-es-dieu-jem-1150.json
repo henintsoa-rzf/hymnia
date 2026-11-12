@@ -1,0 +1,109 @@
+{
+	"id": "tu-es-dieu-jem-1150",
+	"title": "Tu es Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1150"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es celui qui tient nos vies dans sa main.",
+				"Tu connais nos doutes, nos questions, nos lendemains.",
+				"Tu conduis chacuns de nos pas.",
+				"Tu nous apprends à ne dépendre que de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es celui qui tient nos vies dans sa main.",
+				"Tu connais nos doutes, nos questions, nos lendemains.",
+				"Tu conduis chacuns de nos pas.",
+				"Tu nous apprends à ne dépendre que de toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Dieu, Adonaï !",
+				"Tu pourvois, Jehova Jireh !",
+				"Tu guéris, Jehova Rapha !",
+				"El Shaddaï, tu suffis pleinement !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu es celui qui tient nos vies dans sa main.",
+				"Tu connais nos doutes, nos questions, nos lendemains.",
+				"Tu conduis chacuns de nos pas.",
+				"Tu nous apprends à ne dépendre que de toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es Dieu, Adonaï !",
+				"Tu pourvois, Jehova Jireh !",
+				"Tu guéris, Jehova Rapha !",
+				"El Shaddaï, tu suffis pleinement !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu suffis pleinement !",
+				"Tu suffis pleinement !",
+				"Tu suffis pleinement !",
+				"Tu suffis pleinement !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu suffis pleinement !",
+				"Tu suffis pleinement !",
+				"Tu suffis pleinement !",
+				"Tu suffis pleinement !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu es Dieu, Adonaï !",
+				"Tu pourvois, Jehova Jireh !",
+				"Tu guéris, Jehova Rapha !",
+				"El Shaddaï, tu suffis pleinement !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "music"
+		},
+		{
+			"name": "Pierre-Nicolas de Katow",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1150",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

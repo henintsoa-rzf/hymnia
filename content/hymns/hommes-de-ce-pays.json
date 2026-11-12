@@ -1,0 +1,101 @@
+{
+	"id": "hommes-de-ce-pays",
+	"title": "Hommes de ce pays",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "622"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Appelés à aimer,",
+				"Destinés à rencontrer nos frères,",
+				"Une armée entraînée",
+				"par la foi unis et solidaire.",
+				"Abattons les murs, l'esprit de rupture,",
+				"Brisons les barrières, enlevons les fers."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, unis ce pays,",
+				"Répands sur nous ton Esprit,",
+				"Mets dans nos cœurs un désir de sainteté.",
+				"Accorde-nous ton pardon,",
+				"Ta grâce et ta guérison,",
+				"Et que s'accomplisse en nous ta volonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Transformés par l'Esprit",
+				"Nous refusons l'œuvre de division.",
+				"Relevons ce défi,",
+				"Travaillons à notre réunion",
+				"Hommes de ce pays, frères en Jésus-Christ,",
+				"Réformons nos voies, que le monde croie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, unis ce pays,",
+				"Répands sur nous ton Esprit,",
+				"Mets dans nos cœurs un désir de sainteté.",
+				"Accorde-nous ton pardon,",
+				"Ta grâce et ta guérison,",
+				"Et que s'accomplisse en nous ta volonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En Jésus rassemblés,",
+				"Nous voulons sceller notre unité.",
+				"Soutenus, fortifiés,",
+				"Dieu nous aide à vivre en vérité.",
+				"Combattons ensemble, et que l'enfer tremble,",
+				"Unissons nos mains, construisons demain."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, unis ce pays,",
+				"Répands sur nous ton Esprit,",
+				"Mets dans nos cœurs un désir de sainteté.",
+				"Accorde-nous ton pardon,",
+				"Ta grâce et ta guérison,",
+				"Et que s'accomplisse en nous ta volonté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-François Bussy",
+			"role": "music"
+		},
+		{
+			"name": "Jean-François Bussy",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem622",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

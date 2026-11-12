@@ -1,0 +1,114 @@
+{
+	"id": "oh-que-ton-joug-est-facile",
+	"title": "Oh ! que ton joug est facile",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "178"
+		},
+		{
+			"hymnal": "adf",
+			"number": "321"
+		},
+		{
+			"hymnal": "jem",
+			"number": "89"
+		},
+		{
+			"hymnal": "cd",
+			"number": "287"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! que ton joug est facile !",
+				"Oh ! combien j'aime ta loi !",
+				"Dieu Saint, Dieu de l'Évangile,",
+				"Elle est toujours devant moi.",
+				"De mes pas c'est la lumière,",
+				"C'est le repos de mon cœur :",
+				"Mais pour la voir tout entière,",
+				"Ouvre mes yeux, bon Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Non, ta loi n'est point pénible",
+				"Pour quiconque est né de toi ;",
+				"Toute victoire est possible",
+				"À qui combat avec foi.",
+				"Seigneur, dans ta forteresse,",
+				"Aucun mal ne m'atteindra :",
+				"Si je tremble en ma faiblesse,",
+				"Ta droite me soutiendra."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"D'un triste et rude esclavage",
+				"Affranchi par Jésus-Christ,",
+				"J'ai part à ton héritage,",
+				"Au secours de ton Esprit.",
+				"Au lieu d'un maître sévère,",
+				"Prêt à juger et punir,",
+				"Je sers le plus tendre Père,",
+				"Toujours prêt à me bénir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu qui guides, qui consoles,",
+				"J'ai connu que le bonheur",
+				"C'est de garder tes paroles,",
+				"Et je les serre en mon cœur.",
+				"Fais-moi marcher dans ta voie",
+				"Et me plaire en tes statuts :",
+				"Si je cherche en toi ma joie,",
+				"Je ne serai pas confus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dimitri Bortniansky",
+			"role": "music"
+		},
+		{
+			"name": "Mme de Maison",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg178",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af321",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem089",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/279",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

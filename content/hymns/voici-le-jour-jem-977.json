@@ -1,0 +1,108 @@
+{
+	"id": "voici-le-jour-jem-977",
+	"title": "Voici le jour",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "977"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mes soucis je laisse au loin,",
+				"Je me tourne vers demain.",
+				"À toi je remets mon être entier, Jésus.",
+				"Mes mains sont tendues vers toi,",
+				"Croyant que tout vient de toi.",
+				"Je sais que tout ce que tu as",
+				"Pour moi est bon, si bon,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car voici le jour que tu as fait,",
+				"Il est pour moi un sujet de joie,",
+				"Car voici le jour que tu as fait,",
+				"Il est pour moi un sujet de joie.",
+				"Non, je n'aurai pas peur pour demain,",
+				"Mon espérance est en toi.",
+				"Voici le jour, voici le jour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mes craintes je laisse au loin,",
+				"Je ne doute plus de rien.",
+				"À toi je remets ma volonté, Jésus.",
+				"Mes mains sont tendues vers toi,",
+				"Croyant que tout vient de toi.",
+				"Je sais que tout ce que tu as",
+				"Pour moi est bon, si bon,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car voici le jour que tu as fait,",
+				"Il est pour moi un sujet de joie,",
+				"Car voici le jour que tu as fait,",
+				"Il est pour moi un sujet de joie.",
+				"Non, je n'aurai pas peur pour demain,",
+				"Mon espérance est en toi.",
+				"Voici le jour, voici le jour."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Pour toi, Seigneur, je vivrai.",
+				"Pour toi, Seigneur, je vivrai,",
+				"Fondé sur ta vérité,",
+				"Fondé sur ta vérité.",
+				"Pour toi, Seigneur, je vivrai.",
+				"Pour toi, Seigneur, je vivrai,",
+				"Fondé sur ta vérité,",
+				"Sur ta vérité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car voici le jour que tu as fait,",
+				"Il est pour moi un sujet de joie,",
+				"Car voici le jour que tu as fait,",
+				"Il est pour moi un sujet de joie.",
+				"Non, je n'aurai pas peur pour demain,",
+				"Mon espérance est en toi.",
+				"Voici le jour, voici le jour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Baloche ; Lincoln Brewster",
+			"role": "music"
+		},
+		{
+			"name": "Paul Baloche ; Lincoln Brewster",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem977",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

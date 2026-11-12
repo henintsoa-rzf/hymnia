@@ -1,0 +1,71 @@
+{
+	"id": "la-mort-n-est-plus",
+	"title": "La mort n'est plus.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "506"
+		},
+		{
+			"hymnal": "cd",
+			"number": "358"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La mort n'est plus",
+				"qu'un chemin vers la gloire,",
+				"Quand nous vivons en Jésus-Christ ;",
+				"Et sur l'enfer nous avons la victoire,",
+				"Quand nous marchons selon l'Esprit.",
+				"Oui, par Jésus, je sors de l'esclavage :",
+				"Libre, joyeux et triomphant.",
+				"J'ai de mon Dieu l'éternel héritage,",
+				"Et tous les droits de son enfant,",
+				"Et tous les droits de son enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui peut encore accuser le fidèle ?",
+				"Le Fils de Dieu l'a racheté ;",
+				"Qui peut ravir sa couronne immortelle ?",
+				"Du Dieu fort il est adopté.",
+				"Que l'ennemi, le danger, la souffrance,",
+				"Viennent m'assaillir chaque jour,",
+				"Rien ne pourra, Dieu de ma délivrance,",
+				"Me séparer de ton amour,",
+				"Me séparer de ton amour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ludwig van Beethoven",
+			"role": "music"
+		},
+		{
+			"name": "Jules Aeschimann",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af506",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1154",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

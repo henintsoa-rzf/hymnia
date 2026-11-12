@@ -1,0 +1,39 @@
+{
+	"id": "dieu-est-le-printemps-version-courte",
+	"title": "Dieu est le printemps (version courte)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "101"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu est le printemps, il chasse l’hiver",
+				"Pour laisser la place à la vie.",
+				"Mais si ton coeur est glacé comme la pierre,",
+				"Dieu peut lui rendre la vie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Heinrich Riesich",
+			"role": "lyrics"
+		},
+		{
+			"name": "Heinrich Riesich",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-1",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

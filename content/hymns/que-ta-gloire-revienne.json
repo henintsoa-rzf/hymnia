@@ -1,0 +1,139 @@
+{
+	"id": "que-ta-gloire-revienne",
+	"title": "Que ta gloire revienne",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "477"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église.",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sonde-nous ô Dieu,",
+				"Quel péché nous cache ton visage ?",
+				"Parle-nous Seigneur,",
+				"Dévoile ce qui couvre ton message."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église.",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous venons vers toi,",
+				"Pour nous humilier dans ta présence,",
+				"Ton sang a coulé",
+				"Pour laver nos cœurs et nos consciences."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église.",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Aide-nous, Seigneur,",
+				"À bâtir ton corps dans l'unité.",
+				"Et que l'ennemi,",
+				"Devant notre amour soit éloigné."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église.",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Renouvelle-nous,",
+				"Que ta grâce inonde tes enfants.",
+				"Manifeste-toi,",
+				"Que ta gloire éclate maintenant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église.",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne,",
+				"Que ta gloire revienne",
+				"Dans l'Église."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem477",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

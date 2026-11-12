@@ -1,0 +1,47 @@
+{
+	"id": "tu-es-puissant",
+	"title": "Tu es puissant",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "602"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es puissant, tu es très saint",
+				"Et redoutable par ton pouvoir.",
+				"Ressuscité, tu es vainqueur",
+				"Sur la puissance de la mort."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, soyons dans la joie !",
+				"Alléluia, soyons dans la joie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Craig Musseau",
+			"role": "music"
+		},
+		{
+			"name": "Craig Musseau",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem602",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

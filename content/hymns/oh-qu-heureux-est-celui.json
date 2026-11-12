@@ -1,0 +1,43 @@
+{
+	"id": "oh-qu-heureux-est-celui",
+	"title": "Oh ! qu'heureux est celui.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "594"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! qu'heureux est celui",
+				"Dont la transgression est remise",
+				"Et dont les péchés sont pardonnés !",
+				"Mon âme, bénis l'Éternel,",
+				"Et que tout ce qui est en moi",
+				"Bénisse son saint nom.",
+				"Mon âme, bénis l'Éternel,",
+				"Et n'oublie aucun de ses bienfaits."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mlle H. Hollard",
+			"role": "music"
+		},
+		{
+			"name": "Ps. 32 : 1, 2 ; 103 : 1, 2",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af594",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

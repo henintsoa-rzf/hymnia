@@ -1,0 +1,69 @@
+{
+	"id": "mon-dieu-que-jamais-je-n-envie",
+	"title": "Mon Dieu, que jamais je n'envie.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "327"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Dieu, que jamais je n'envie",
+				"La paix trompeuse du pécheur ;",
+				"Donne-moi d'accepter la vie",
+				"Telle que tu la veux, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ne permets pas que le mystère",
+				"Qui me voile ta vérité",
+				"Me fasse oublier pour la terre",
+				"Du ciel l'éternelle beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu'en humble enfant je te confie",
+				"Mon avenir et mon bonheur !",
+				"Que sur ta main ma main s'appuie",
+				"Pour être fort dans la douleur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Transforme en force ma faiblesse ;",
+				"Que je te donne tout mon cœur ;",
+				"Et que du péché qui me presse",
+				"Par ta grâce je sois vainqueur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Herbert Oakely",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Louis Decoppet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af327",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

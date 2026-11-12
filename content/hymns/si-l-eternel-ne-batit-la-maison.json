@@ -1,0 +1,79 @@
+{
+	"id": "si-l-eternel-ne-batit-la-maison",
+	"title": "Si l'Éternel ne bâtit la maison",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1107"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si l’Éternel ne bâtit la maison,",
+				"Ceux qui la bâtissent travaillent en vain.",
+				"Si l’Éternel ne veille sur la ville,",
+				"Ceux qui la surveillent la gardent en vain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu as fait une alliance avec nous",
+				"Pour mille générations ; tu es bon !",
+				"Tu es toujours fidèle avec nous,",
+				"Ta bonté nous entoure à jamais."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si l’Éternel ne bâtit la maison,",
+				"Ceux qui la bâtissent travaillent en vain.",
+				"Si l’Éternel ne veille sur la ville,",
+				"Ceux qui la surveillent la gardent en vain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta grâce est infinie, envers nous.",
+				"Nous travaillons pour toi chaque jour !",
+				"Tu as béni l’ouvrage de nos mains,",
+				"Nous voulons te servir chaque jour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Si l’Éternel ne bâtit la maison,",
+				"Ceux qui la bâtissent travaillent en vain.",
+				"Si l’Éternel ne veille sur la ville,",
+				"Ceux qui la surveillent la gardent en vain."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1107",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

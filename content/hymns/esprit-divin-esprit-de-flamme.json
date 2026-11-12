@@ -1,0 +1,65 @@
+{
+	"id": "esprit-divin-esprit-de-flamme",
+	"title": "Esprit divin, esprit de flamme.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "140"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Esprit divin, Esprit de flamme,",
+				"Viens des cieux embraser notre âme !",
+				"Esprit de consolation,",
+				"Répands sur nous ton onction ;",
+				"Dans notre cœur, ton sanctuaire,",
+				"Verse la vie et la lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens, de nos yeux tarir les larmes,",
+				"Dissiper nos vaines alarmes,",
+				"Et, de ta force armant nos cœurs,",
+				"Du péché nous rendre vainqueurs.",
+				"Illumine la sombre voie",
+				"Qui mène à l'éternelle joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Gloire à l'Esprit, de qui procède",
+				"Tout bienfait, qui soupire, plaide,",
+				"Pour le pécheur, humble et contrit.",
+				"Ô Père, ô Fils, ô Saint-Esprit,",
+				"Nos cœurs, pleins d'amour et de crainte,",
+				"T'adorent, ô Trinité Sainte !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William Moore",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af140",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

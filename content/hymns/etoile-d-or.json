@@ -1,0 +1,57 @@
+{
+	"id": "etoile-d-or",
+	"title": "Étoile d'or.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "96"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Étoile d'or, céleste messagère,",
+				"Reine parmi les astres du matin,",
+				"Fais jusqu'à nous resplendir ta lumière,",
+				"Et conduis-nous près de l'Enfant divin.",
+				"Bien qu'il soit né dans une hôtellerie",
+				"Où de berceau la paille lui tient lieu,",
+				"Nous saluons dans le Fils de Marie",
+				"Notre Sauveur, notre Roi, notre Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais que donner à ce Dieu qui se donne ?",
+				"Tous nos présents de souillure entachés,",
+				"Que valent-ils auprès de la couronne",
+				"Qu'il a quittée en prenant nos péchés ?",
+				"Ce bon Sauveur ne veut pas d'autre offrande",
+				"Qu'un cœur contrit, plein d'amour et de foi.",
+				"Ah ! donnons-Lui ce cœur qu'Il nous demande,",
+				"Et que l'Enfant nous courbe sous sa loi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Tullius Clinton O'Kane",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af096",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

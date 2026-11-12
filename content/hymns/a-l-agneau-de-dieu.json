@@ -1,0 +1,89 @@
+{
+	"id": "a-l-agneau-de-dieu",
+	"title": "À l'Agneau de Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "519"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Élevé à la droite de Dieu,",
+				"Couronné de mille couronnes,",
+				"Tu resplendis comme un soleil radieux ;",
+				"Les êtres crient autour de ton trône :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À l'Agneau de Dieu soit la gloire,",
+				"À l'Agneau de Dieu la victoire,",
+				"À l'Agneau de Dieu soit le règne",
+				"Pour tous les siècles, amen."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'Esprit saint et l'épouse fidèle",
+				"Disent: « viens ! » c'est leur cœur qui appelle.",
+				"Viens, ô Jésus, toi l'époux bien aimé;",
+				"Tous tes élus ne cessent de chanter:"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À l'Agneau de Dieu soit la gloire,",
+				"À l'Agneau de Dieu la victoire,",
+				"À l'Agneau de Dieu soit le règne",
+				"Pour tous les siècles, amen."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tous les peuples et toutes les nations,",
+				"D'un seul cœur avec les milliers d'anges,",
+				"Entonneront en l'honneur de son nom",
+				"Ce chant de gloire, avec force et louange:"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À l'Agneau de Dieu soit la gloire,",
+				"À l'Agneau de Dieu la victoire,",
+				"À l'Agneau de Dieu soit le règne",
+				"Pour tous les siècles, amen."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "music"
+		},
+		{
+			"name": "Élisabeth Bourbouze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem519",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

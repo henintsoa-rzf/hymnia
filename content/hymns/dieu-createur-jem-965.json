@@ -1,0 +1,98 @@
+{
+	"id": "dieu-createur-jem-965",
+	"title": "Dieu créateur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "965"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La création est un chant, un prélude à son Roi.",
+				"La nature, en adorant, soupire d'une même voix.",
+				"Qui mènera la danse pour chanter son refrain",
+				"Ou battra la cadence à l'œuvre de ses mains ?",
+				"Seigneur, entends nos cœurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louange, honneur, gloire et puissance",
+				"Au Dieu créateur.",
+				"Les chants du ciel et du monde",
+				"S'unissent en un chœur.",
+				"Louange, honneur, gloire et puissance",
+				"Au Dieu créateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les nations sont comme un chant,",
+				"Un prélude à leur Roi",
+				"Une chorale, mille instruments,",
+				"Pour élever leurs voix.",
+				"Le souverain de tout,",
+				"Sa majesté céleste,",
+				"S'est sacrifié pour nous.",
+				"Devant tant de largesses,",
+				"Que pourrions-nous donner ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louange, honneur, gloire et puissance",
+				"Au Dieu créateur.",
+				"Les chants du ciel et du monde",
+				"S'unissent en un chœur.",
+				"Louange, honneur, gloire et puissance",
+				"Au Dieu créateur."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"À lui seul la gloire, l'honneur pour toujours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Louange, honneur, gloire et puissance",
+				"Au Dieu créateur.",
+				"Les chants du ciel et du monde",
+				"S'unissent en un chœur.",
+				"Louange, honneur, gloire et puissance",
+				"Au Dieu créateur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Graham Kendrick",
+			"role": "music"
+		},
+		{
+			"name": "Graham Kendrick",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem965",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

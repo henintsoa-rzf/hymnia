@@ -1,0 +1,92 @@
+{
+	"id": "il-est-seigneur",
+	"title": "Il est Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "758"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'heure est arrivée, le moment de vérité",
+				"À sonné l'avènement de sa lumière.",
+				"L'ombre est désarmée, l'ennemi est terrassé",
+				"Et le jour de la victoire est arrivé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est Seigneur, il est vainqueur.",
+				"Par la force de son nom,",
+				"il a scellé le pardon",
+				"De sa vie, de sa paix",
+				"Et d'un testament d'éternité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Revêtus de joie, à l'écoute de sa voix,",
+				"Avançons vers le combat dans sa puissance.",
+				"Unis par son sang et portés par notre chant,",
+				"Nous amènerons les foules à sa louange."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est Seigneur, il est vainqueur.",
+				"Par la force du Très-Haut,",
+				"il est sorti du tombeau",
+				"Et il vit à jamais,",
+				"Couronné de gloire et d'autorité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L'aube est déjà là, de ce jour où l'on verra",
+				"Le salut de Jésus-Christ briller sur terre.",
+				"Rien n'est plus certain que l'étoile du matin",
+				"Dans le ciel illuminé de nos prières."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il est Seigneur, il est vainqueur.",
+				"Que le Dieu de l'univers",
+				"soit manifesté sur terre,",
+				"Que son nom soit loué",
+				"Et que règne enfin sa majesté."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris Christensen ; Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Chris Christensen ; Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem758",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

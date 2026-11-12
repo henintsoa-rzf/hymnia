@@ -1,0 +1,97 @@
+{
+	"id": "dieu-repand-le-saint-esprit",
+	"title": "Dieu répand le Saint-Esprit",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1092"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Notre Dieu nous l'a promis, c'est sûr et certain,",
+				"Il répandra son Esprit sur toute chair,",
+				"Oui, sur toute chair.",
+				"Nos fils et nos filles prophétiseront",
+				"Et tous recevront des révélations,",
+				"Nos vieillards auront des songes,",
+				"Nos jeunes gens des visions.",
+				"Notre Dieu répand son Esprit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu répand le Saint-Esprit",
+				"Sur tous ses serviteurs.",
+				"Dieu répand le Saint-Esprit",
+				"Sur tous ses serviteurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Notre Dieu nous l'a promis, c'est sûr et certain,",
+				"Il donne son Esprit saint à ceux qui demandent,",
+				"Oui, à ceux qui demandent.",
+				"Nos cœurs assoiffés te prient ardemment :",
+				"« Père, envoie sur nous ce feu si puissant",
+				"Pour faire de nous les témoins",
+				"De l'amour du Dieu sauveur. »",
+				"Notre Dieu répand son Esprit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu répand le Saint-Esprit",
+				"Sur tous ses serviteurs.",
+				"Dieu répand le Saint-Esprit",
+				"Sur tous ses serviteurs."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Dieu répand le Saint-Esprit.",
+				"Ouvrons tout grands nos cœurs !",
+				"Dieu répand le Saint-Esprit.",
+				"Ouvrons tout grands nos cœurs !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Dieu répand le Saint-Esprit",
+				"Sur tous ses serviteurs.",
+				"Dieu répand le Saint-Esprit",
+				"Sur tous ses serviteurs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thérèse Motte",
+			"role": "music"
+		},
+		{
+			"name": "Thérèse Motte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1092",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

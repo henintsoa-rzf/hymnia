@@ -1,0 +1,100 @@
+{
+	"id": "dieu-regne-en-juste-roi",
+	"title": "Dieu règne en juste Roi",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "19"
+		},
+		{
+			"hymnal": "adf",
+			"number": "520"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu règne en juste roi :",
+				"Terre, réjouis-toi :",
+				"Iles, soyez en fête !",
+				"Dieu vient pour la conquête.",
+				"Puissant et redouté,",
+				"Par l'orage porté.",
+				"Ses justes jugements",
+				"Sont les sûrs fondements",
+				"De son trône exalté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Son glorieux pouvoir",
+				"Aux peuples se fait voir,",
+				"Qui rendaient leurs hommages",
+				"À de vaines images,",
+				"Confondus aujourd'hui",
+				"Ils prennent pour appui",
+				"Celui qui règne aux cieux",
+				"Bientôt tous les faux dieux",
+				"Tomberont devant lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si, de tout votre cœur,",
+				"Vous aimez le Seigneur,",
+				"Gardez-vous de mal faire,",
+				"Travaillez à lui plaire :",
+				"Il protège ses saints,",
+				"Leur vie est dans ses mains ;",
+				"Si l'on veut les frapper,",
+				"Il saura dissiper",
+				"Ces funestes desseins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu sur les hommes droits",
+				"qui pratiquent ses lois",
+				"Fait lever sa lumière ;",
+				"Il rend leur joie entière.",
+				"Vous donc, son peuple heureux,",
+				"Dans vos transports joyeux,",
+				"Célébrez le Seigneur",
+				"Et chantez la grandeur",
+				"De son nom glorieux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Psautier 1562",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg019",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af520",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

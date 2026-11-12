@@ -1,0 +1,104 @@
+{
+	"id": "kyrie-eleison",
+	"title": "Kyrie Eleison",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "445"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Écoute-nous, dans ta grâce !",
+				"Seigneur, nous venons vers toi,",
+				"Nous entrons dans la présence",
+				"De Dieu à genoux.",
+				"Écoute-nous, nous sommes tombés,",
+				"Nous sommes loin de tes sentiers.",
+				"Ton amour nous a trouvés",
+				"Quand nous étions perdus.",
+				"O Seigneur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Kyrie eleison",
+				"Seigneur aie pitié !",
+				"Nous ne pouvons pas vivre",
+				"Sans ton amour.",
+				"Kyrie eleison",
+				"Seigneur aie pitié !",
+				"Nous ne pouvons pas vivre",
+				"Sans ton amour incomparable",
+				"Et sans fin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Écoute-nous, nous sommes comblés",
+				"Par les dons que tu nous fais,",
+				"Chaque instant toutes choses",
+				"Viennent de toi, de toi seul.",
+				"Écoute-nous, nous t'adorons,",
+				"Nous élevons avec joie",
+				"Nos cœurs remplis de louange",
+				"Pour toi Dieu souverain,",
+				"Écoute-nous."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloria in excelsis Deo.",
+				"Gloire à Dieu dans les cieux,",
+				"Et que tous tes enfants",
+				"Louent ton nom.",
+				"Gloria in excelsis Deo.",
+				"Gloria in excelsis Deo.",
+				"Gloire à Dieu dans les cieux,",
+				"Et que tous tes enfants",
+				"Louent ton nom.",
+				"Gloria in excelsis Deo."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloria in excelsis Deo.",
+				"Gloire à Dieu dans les cieux,",
+				"Et que tous tes enfants",
+				"Louent ton nom.",
+				"Gloria in excelsis Deo.",
+				"Gloire à Dieu dans les cieux,",
+				"Et que tous tes enfants louent ton nom",
+				"Que l'univers entier t'acclame ! Ouh"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Bill Delveaux",
+			"role": "music"
+		},
+		{
+			"name": "Mike Hudson",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem445",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

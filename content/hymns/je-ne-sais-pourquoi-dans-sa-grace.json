@@ -1,0 +1,139 @@
+{
+	"id": "je-ne-sais-pourquoi-dans-sa-grace",
+	"title": "Je ne sais pourquoi dans sa grâce",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "318"
+		},
+		{
+			"hymnal": "adf",
+			"number": "270"
+		},
+		{
+			"hymnal": "jem",
+			"number": "75",
+			"title": "Je sais…"
+		},
+		{
+			"hymnal": "cd",
+			"number": "210"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je ne sais pourquoi, dans sa grâce,",
+				"Jésus m'a tant aimé,",
+				"Pourquoi par son sang il efface",
+				"Ma dette, mon péché."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais, je sais, qu'en lui j'ai la vie,",
+				"Il m'a sauvé dans son amour ;",
+				"Et gardé par sa main meurtrie,",
+				"J'attends l'heure de son retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je ne sais comment la lumière",
+				"Éclaire tout mon cœur,",
+				"Comment je compris ma misère",
+				"Et reçus mon Sauveur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais, je sais, qu'en lui j'ai la vie,",
+				"Il m'a sauvé dans son amour ;",
+				"Et gardé par sa main meurtrie,",
+				"J'attends l'heure de son retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je ne sais quelle est la mesure",
+				"De joie et de douleur",
+				"Que pour moi, faible créature,",
+				"Réserve mon Sauveur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais, je sais, qu'en lui j'ai la vie,",
+				"Il m'a sauvé dans son amour ;",
+				"Et gardé par sa main meurtrie,",
+				"J'attends l'heure de son retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je ne sais quand de la victoire",
+				"L'heure enfin sonnera,",
+				"Quand l'Agneau, l'Époux, dans sa gloire",
+				"Avec lui me prendra."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais, je sais, qu'en lui j'ai la vie,",
+				"Il m'a sauvé dans son amour ;",
+				"Et gardé par sa main meurtrie,",
+				"J'attends l'heure de son retour."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "James McGranahan",
+			"role": "music"
+		},
+		{
+			"name": "Georges Guillod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg318",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af270",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/jem075",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1166",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

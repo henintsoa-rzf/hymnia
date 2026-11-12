@@ -1,0 +1,101 @@
+{
+	"id": "dans-le-desert",
+	"title": "Dans le désert.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "338"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans le désert où je poursuis ma route",
+				"Vers le pays que je dois habiter,",
+				"Que nul effort, nul travail ne me coûte,",
+				"Car c'est des cieux que je dois hériter.",
+				"Que nul effort, nul travail ne me coûte,",
+				"Car c'est des cieux que je dois hériter."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon Rédempteur, ô guide en qui j'espère,",
+				"Protège-moi contre le faix du jour !",
+				"Pendant la nuit, que ta clarté m'éclaire,",
+				"Et garde-moi sans cesse en ton amour !",
+				"Pendant la nuit, que ta clarté m'éclaire,",
+				"Et garde-moi sans cesse en ton amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Chaque matin, ta bonté paternelle",
+				"Répand d'en-haut mon pain quotidien ;",
+				"Et quand, le soir, je m'endors sous ton aile,",
+				"C'est toi qui prends souci du lendemain.",
+				"Et quand, le soir, je m'endors sous ton aile,",
+				"C'est toi qui prends souci du lendemain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand le péché, de sa dent venimeuse,",
+				"M'a déchiré pour me faire périr,",
+				"Un seul regard sur ta croix glorieuse,",
+				"Divin Sauveur, suffit pour me guérir.",
+				"Un seul regard sur ta croix glorieuse,",
+				"Divin Sauveur, suffit pour me guérir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Bientôt pour moi le terme du voyage",
+				"Amènera le moment du repos ;",
+				"De Canaan je verrai le rivage",
+				"Et du Jourdain je franchirai les flots.",
+				"De Canaan je verrai le rivage",
+				"Et du Jourdain je franchirai les flots."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"O mon pays, terre de la promesse !",
+				"Mon cœur ému de loin t'a salué ;",
+				"Dans les transports d'une sainte allégresse,",
+				"Ton nom, Seigneur, soit à jamais loué !",
+				"Dans les transports d'une sainte allégresse,",
+				"Ton nom, Seigneur, soit à jamais loué !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ludwig van Beethoven",
+			"role": "music"
+		},
+		{
+			"name": "Frédéric Chavannes",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af338",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

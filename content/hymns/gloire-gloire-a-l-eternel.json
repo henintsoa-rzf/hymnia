@@ -1,0 +1,110 @@
+{
+	"id": "gloire-gloire-a-l-eternel",
+	"title": "Gloire, gloire à l Éternel.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "11"
+		},
+		{
+			"hymnal": "cd",
+			"number": "9"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Gloire, gloire à l'Éternel !",
+				"Qu'un cantique solennel",
+				"Qu'un cantique solennel",
+				"De nos cœurs monte à son trône.",
+				"Quand il crée, oh ! qu'il est grand !",
+				"Quand il crée, oh ! qu'il est grand !",
+				"Qu'il est juste en punissant,",
+				"Qu'il est bon quand il pardonne !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il commande… et le néant",
+				"Tressaille au premier accent",
+				"Tressaille au premier accent",
+				"De sa parole vivante ;",
+				"Et des astres radieux",
+				"Et des astres radieux",
+				"Sa main jette dans les cieux",
+				"La poussière étincelante."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il accuse et le pécheur,",
+				"Devant cet accusateur",
+				"Devant cet accusateur",
+				"Sent sa profonde misère,",
+				"Et s'écrie, en son effroi :",
+				"Et s'écrie, en son effroi :",
+				"Montagnes, tombez sur moi,",
+				"Cachez-moi de sa colère !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mais l'âme à qui le Seigneur",
+				"S'est donné pour rédempteur",
+				"S'est donné pour rédempteur",
+				"Goûte une pais ineffable :",
+				"Objet d'un si grand amour",
+				"Objet d'un si grand amour",
+				"Elle se donne en retour",
+				"À ce Sauveur adorable."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"O Dieu ! que tes rachetés",
+				"Toujours chantent les bontés",
+				"Toujours chantent les bontés",
+				"De Celui qui leur pardonne !",
+				"Gloire, gloire à l'Éternel !",
+				"Gloire, gloire à l'Éternel !",
+				"Ce cantique solennel",
+				"Montera jusqu'à son trône !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Webbe",
+			"role": "music"
+		},
+		{
+			"name": "Dr Lamouroux",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af011",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/837",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

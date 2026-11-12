@@ -1,0 +1,94 @@
+{
+	"id": "merveilleux-sauveur-hymne-pour-la-cene",
+	"title": "Merveilleux Sauveur(Hymne pour la Cène)",
+	"entries": [
+		{
+			"hymnal": "ecriture",
+			"number": "23"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Prenez, mangez : voici le pain de vie,",
+				"Le corps de Christ brisé pour vous.",
+				"Quel grand pardon pour nous Jésus acquit",
+				"En détournant le saint courroux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merveilleux Sauveur !",
+				"Ton sacrifice nous commémorons.",
+				"Reçois tout l’honneur !",
+				"À table ensemble, nous te proclamons.",
+				"Pleins d’espérance, oui nous t’attendons !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Prenez, buvez : la coupe de l’alliance,",
+				"Le sang de Christ versé pour vous.",
+				"Ce flot béni coula en abondance",
+				"Pour purifier tous ses élus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Prenez, croyez : Jésus revient bientôt",
+				"Pour rassembler ses rachetés.",
+				"Nous festoierons aux noces de l’Agneau,",
+				"Dans sa présence à tout jamais !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Naomi Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Naomi Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "lyrics"
+		},
+		{
+			"name": "Johnny Pilgrem",
+			"role": "music"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Fiona Price",
+			"role": "music"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "lyrics"
+		},
+		{
+			"name": "Adrian Price",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Écritures — ecrituremusique.com",
+		"url": "https://www.ecrituremusique.com/merveilleuxsauveur",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,64 @@
+{
+	"id": "je-sais-bien-qui-nous-aima-tant",
+	"title": "Je sais bien qui nous aima tant.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "477"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je sais bien qui nous aima tant",
+				"Que de mourir à notre place ;",
+				"Qui veut que le cœur repentant",
+				"Par sa mort puisse trouver grâce :",
+				"C'est Jésus, le Libérateur,",
+				"C'est le Sauveur !",
+				"C'est le Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il était servi dans le ciel",
+				"Par les anges, comme le Père ;",
+				"Mais, dans son amour éternel,",
+				"Il voulut vivre sur la terre,",
+				"Et devenir pour le pécheur",
+				"Parfait Sauveur !",
+				"Parfait Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il devint homme, et par sa mort",
+				"Opéra le salut du monde.",
+				"Sa croix a changé notre sort ;",
+				"En Lui pour tous, la grâce abonde ;",
+				"Il est devenu du pécheur",
+				"Le seul Sauveur,",
+				"Le seul Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil des Écoles",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af477",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

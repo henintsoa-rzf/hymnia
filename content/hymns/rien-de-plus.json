@@ -1,0 +1,100 @@
+{
+	"id": "rien-de-plus",
+	"title": "Rien de plus",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1027"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand le soleil se lève,",
+				"Quand le soleil se lève,",
+				"Qu'il n'y ait sur mes lèvres que mon Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Jésus, oh ! Jésus,",
+				"Ne m'offrez rien de plus que mon Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et, lorsque je suis seul,",
+				"Oh ! lorsque je suis seul,",
+				"Je ne veux que lui seul,",
+				"Je veux Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Jésus, oh ! Jésus,",
+				"Ne m'offrez rien de plus que mon Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que m'importe le monde,",
+				"Que m'importe le monde,",
+				"Ses richesses sans nombre,",
+				"Je veux Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Jésus, oh ! Jésus,",
+				"Ne m'offrez rien de plus que mon Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et, quand viendra la mort,",
+				"Oui, quand viendra la mort,",
+				"Que mon chant soit encore :",
+				"« Donnez-moi Jésus. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! Jésus, oh ! Jésus,",
+				"Ne m'offrez rien de plus que mon Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christian Frappier et Thierry Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Christian Frappier et Thierry Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1027",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

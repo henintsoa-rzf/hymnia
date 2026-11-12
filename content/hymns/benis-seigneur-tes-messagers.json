@@ -1,0 +1,65 @@
+{
+	"id": "benis-seigneur-tes-messagers",
+	"title": "Bénis, Seigneur, tes messagers.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "351"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bénis, Seigneur, tes messagers",
+				"En pays étrangers,",
+				"Entends nos chants, entends nos vœux,",
+				"Nous t'implorons pour eux !",
+				"Toi qui fais scintiller l'étoile,",
+				"Dieu puissant en bonté,",
+				"Fais souffler ton vent dans leur voile,",
+				"Esprit de vérité !",
+				"Par eux, Seigneur,",
+				"Qu'à tout pécheur",
+				"Le Christ Sauveur",
+				"Soit révélé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mets à l'abri tes ouvriers,",
+				"Des périls, des dangers ;",
+				"Dans le continent africain",
+				"Étends sur eux ta main !",
+				"Qu'en Europe et qu'en Amérique",
+				"On entende leur voix",
+				"Chanter le salut magnifique",
+				"De Jésus mort en croix !",
+				"À tous les yeux,",
+				"Oui, fais par eux,",
+				"Grand Dieu des cieux,",
+				"Briller ta croix !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hymne national boër",
+			"role": "music"
+		},
+		{
+			"name": "Adèle Pélaz",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af351",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

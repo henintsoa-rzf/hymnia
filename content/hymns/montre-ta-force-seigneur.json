@@ -1,0 +1,120 @@
+{
+	"id": "montre-ta-force-seigneur",
+	"title": "Montre ta force, Seigneur !",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "313"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois,",
+				"O Seigneur ! O Seigneur !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois,",
+				"O Seigneur ! O Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit le Seigneur,",
+				"Lui qui nous porte,",
+				"Car il est le Dieu des délivrances.",
+				"Béni soit le Seigneur,",
+				"Lui qui nous porte,",
+				"Car il est le Dieu des délivrances.",
+				"Que Dieu se lève et à l'instant,",
+				"Ses ennemis sont en déroute.",
+				"Du cœur des justes monte un chant,",
+				"Le cri joyeux de la victoire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois,",
+				"O Seigneur ! O Seigneur !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois,",
+				"O Seigneur ! O Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois,",
+				"O Seigneur ! O Seigneur !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois,",
+				"O Seigneur ! O Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Béni soit le Seigneur,",
+				"Lui qui nous porte,",
+				"Car il est le Dieu des délivrances.",
+				"Béni soit le Seigneur,",
+				"Lui qui nous porte,",
+				"Car il est le Dieu des délivrances.",
+				"Que Dieu se lève et à l'instant,",
+				"Ses ennemis sont en déroute.",
+				"Du cœur des justes monte un chant,",
+				"Le cri joyeux de la victoire."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois !",
+				"Montre ta force, Seigneur,",
+				"Et ta grandeur comme autrefois,",
+				"O Seigneur ! O Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dale Garratt",
+			"role": "music"
+		},
+		{
+			"name": "Dale Garratt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem313",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

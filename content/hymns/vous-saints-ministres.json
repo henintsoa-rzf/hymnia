@@ -1,0 +1,71 @@
+{
+	"id": "vous-saints-ministres",
+	"title": "Vous, saints ministres.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "523"
+		},
+		{
+			"hymnal": "cd",
+			"number": "350",
+			"title": "Vous, saints ministres du Seigneur"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous, saints ministres du Seigneur,",
+				"Qui, dévoués à son honneur,",
+				"Nuit et jour gardez sa maison,",
+				"Présentez-lui votre oraison."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Levez vos mains vers le saint lieu,",
+				"Vers les parvis de notre Dieu ;",
+				"À sa louange racontez",
+				"Et ses exploits et ses bontés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu qui fit la terre et les cieux,",
+				"Sur vous, ses serviteurs pieux,",
+				"Daigne répandre de Sion",
+				"Sa sainte bénédiction !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Théodore De Bèze",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af523",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1146",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

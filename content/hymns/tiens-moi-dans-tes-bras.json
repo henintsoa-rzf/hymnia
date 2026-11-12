@@ -1,0 +1,67 @@
+{
+	"id": "tiens-moi-dans-tes-bras",
+	"title": "Tiens-moi dans tes bras",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "830"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tiens-moi dans tes bras, ne me lâche pas.",
+				"Seigneur, je te remets ma vie,",
+				"Dis-moi que je suis ton ami.",
+				"Montre-moi la voie qui ramène à toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'ai tout en toi,",
+				"j'ai tout en toi pour toujours.",
+				"Je veux savoir que tu es près de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon cœur te désire, je ne veux que toi.",
+				"Nul ne pourrait prendre ta place,",
+				"Je suis si bien quand tu m'enlaces.",
+				"Montre-moi la voie qui ramène à toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'ai tout en toi,",
+				"j'ai tout en toi pour toujours.",
+				"Je veux savoir que tu es près de moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Kelly Carpenter",
+			"role": "music"
+		},
+		{
+			"name": "Kelly Carpenter",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem830",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

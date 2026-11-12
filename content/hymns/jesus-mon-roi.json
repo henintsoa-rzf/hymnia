@@ -1,0 +1,83 @@
+{
+	"id": "jesus-mon-roi",
+	"title": "Jésus mon Roi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1191"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, mon Roi, tu es ma force,",
+				"Jésus, mon Roi et mon appui,",
+				"Jésus, ma joie, les jours, les nuits,",
+				"Jésus c'est toi, ma vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es le calme dans la tempête,",
+				"Tu es l’étoile au-dessus de ma tête.",
+				"Tu es ma force dans la faiblesse",
+				"Et le sourire dans la vieillesse.",
+				"Tu es ma joie même dans la détresse.",
+				"Tu es la paix qui fait fondre le stress."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, mon Roi, tu es ma force,",
+				"Jésus, mon Roi et mon appui,",
+				"Jésus, ma joie, les jours, les nuits,",
+				"Jésus c'est toi, ma vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es le calme dans la tempête,",
+				"Tu es l'étoile au-dessus de ma tête,",
+				"Tu es ma force dans la faiblesse",
+				"Et le fou-rire dans la jeunesse.",
+				"Tu es ma joie même dans la détresse.",
+				"Tu es la paix qui fait fondre le stress."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, mon Roi, tu es ma force,",
+				"Jésus, mon Roi et mon appui,",
+				"Jésus, ma joie, les jours, les nuits,",
+				"Jésus c'est toi, ma vie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc Mayor",
+			"role": "music"
+		},
+		{
+			"name": "Luc Mayor",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1191",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

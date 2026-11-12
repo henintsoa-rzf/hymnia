@@ -1,0 +1,67 @@
+{
+	"id": "remplis-moi",
+	"title": "Remplis-moi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "545"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Remplis-moi de ta force,",
+				"Remplis-moi de ton amour,",
+				"Remplis-moi de ta puissance",
+				"Pour te servir Jésus.",
+				"Remplis-moi de ta force,",
+				"Remplis-moi de ton amour,",
+				"Remplis-moi de ta puissance,",
+				"Règne en moi Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai tant besoin de ton Esprit",
+				"Pour transformer mon cœur de pierre.",
+				"Que le monde voie ton amour en moi,",
+				"Ta vie et ta lumière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Remplis-moi de ta force,",
+				"Remplis-moi de ton amour,",
+				"Remplis-moi de ta puissance",
+				"Pour te servir Jésus.",
+				"Remplis-moi de ta force,",
+				"Remplis-moi de ton amour,",
+				"Remplis-moi de ta puissance,",
+				"Règne en moi Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Bieri",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Bieri",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem545",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

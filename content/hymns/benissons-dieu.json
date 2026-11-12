@@ -1,0 +1,79 @@
+{
+	"id": "benissons-dieu",
+	"title": "Bénissons Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "61"
+		},
+		{
+			"hymnal": "cd",
+			"number": "7"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bénissons Dieu, notre Roi,",
+				"Le puissant Roi de gloire !",
+				"De ses bienfaits incessants,",
+				"Célébrons la mémoire !",
+				"Et qu'en tous lieux,",
+				"Sur la terre et dans les cieux,",
+				"Montent les chants de louange !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bénissons Dieu, notre Roi,",
+				"Dont la main étendue",
+				"Porte ses faibles enfants",
+				"Comme l'aigle en la nue !",
+				"Il nous guérit.",
+				"Son pouvoir est infini,",
+				"Il nous remplit d'allégresse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bénissons Dieu, notre Roi,",
+				"Qui toujours fait justice,",
+				"À l'orgueilleux, redoutable,",
+				"Aux plus humbles, propice !",
+				"Riche en bonté,",
+				"Pour ses enfants révoltés",
+				"Son amour est sans limite."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Recueil de Stralsund",
+			"role": "music"
+		},
+		{
+			"name": "Joachim Neander",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem061",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/904",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

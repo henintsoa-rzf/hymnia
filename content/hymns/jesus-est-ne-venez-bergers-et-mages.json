@@ -1,0 +1,91 @@
+{
+	"id": "jesus-est-ne-venez-bergers-et-mages",
+	"title": "Jésus est né, venez bergers et mages",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "105"
+		},
+		{
+			"hymnal": "adf",
+			"number": "90",
+			"title": "Jésus est né."
+		},
+		{
+			"hymnal": "cd",
+			"number": "92",
+			"title": "Jésus est né"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus est né ! Venez, bergers et mages ;",
+				"Anges du ciel, portez-lui vos hommages ;",
+				"Oui, gloire aux cieux !",
+				"Paix en tous lieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il a voulu, pour notre délivrance,",
+				"Naître ignoré, pauvre et sans apparence ;",
+				"Humbles aussi,",
+				"Allons à lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tout ce qui plaît à ce Roi débonnaire,",
+				"C'est un cœur pur, formé par la prière ;",
+				"À toi ce cœur,",
+				"O bon Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À toi ce cœur, et qu'il te glorifie,",
+				"Non pour un jour, mais pour toute la vie ;",
+				"Il est à toi,",
+				"Sois-en le Roi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Hans Georg Naegeli",
+			"role": "music"
+		},
+		{
+			"name": "Louis Tournier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg105",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af090",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/896",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

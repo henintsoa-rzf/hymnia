@@ -1,0 +1,96 @@
+{
+	"id": "merci-jem-872",
+	"title": "Merci",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "872"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J'ai juste quelques mots à dire,",
+				"C'est pas grand'chose c'est ça le pire.",
+				"Pourtant je ne veux pas le taire,",
+				"C'est vers toi que vient ma prière,",
+				"C'est vers toi que monte ma voix",
+				"Quand mon cœur déborde et se noie,",
+				"Quand tout ce qu'il me reste à faire",
+				"C'est mettre le genou à terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je sais que les mots sont usés,",
+				"Qu'on les a pris et dépouillés,",
+				"Pourtant je ne peux pas me taire,",
+				"C'est toujours en toi que j'espère,",
+				"C'est toujours en toi que je crois",
+				"Même quand mon cœur est vide parfois.",
+				"Y'a aucun nom sur cette terre",
+				"Pour qui chanter cette prière :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci ouh tout simplement merci.",
+				"Merci ouh tout simplement merci."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu sais les hasards de ma vie,",
+				"C'est souvent toi qui m'y conduis,",
+				"Et si je savais regarder,",
+				"C'est encore toi que je verrais.",
+				"Tu prends si bien soin de ma vie,",
+				"Tu sais changer mes aujourd'hui.",
+				"Toi qui entends tous mes silences,",
+				"Reçois ce mot, cette évidence :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Merci ouh tout simplement merci.",
+				"Merci ouh tout simplement merci."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Merci ouh tout simplement merci.",
+				"Merci ouh tout simplement merci,",
+				"Tout simplement, tout simplement merci !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "François Reymond",
+			"role": "music"
+		},
+		{
+			"name": "François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem872",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

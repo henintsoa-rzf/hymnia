@@ -1,0 +1,144 @@
+{
+	"id": "je-ne-crains-rien",
+	"title": "Je ne crains rien",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1189"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je ne crains rien, mon espoir est en toi.",
+				"Sur le chemin, tu guides mes pas.",
+				"Je ne crains rien, je me confie en toi.",
+				"Ta droite me soutient, je ne crains rien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un refuge pour l'opprimé",
+				"Quand la tempête vient à frapper,",
+				"Un repère pour le perdu,",
+				"Tendre père, précieux Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je ne crains rien, mon espoir est en toi.",
+				"Sur le chemin, tu guides mes pas.",
+				"Je ne crains rien, je me confie en toi.",
+				"Ta droite me soutient, je ne crains rien."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Victorieux et juste, protecteur,",
+				"Humble de cœur, bouclier, infaillible,",
+				"Prince de paix, mon rédempteur."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Victorieux et juste, protecteur,",
+				"Humble de cœur, bouclier, infaillible,",
+				"Prince de paix, mon rédempteur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je ne crains rien, mon espoir est en toi.",
+				"Sur le chemin, tu guides mes pas.",
+				"Je ne crains rien, je me confie en toi.",
+				"Ta droite me soutient,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je ne crains rien, mon espoir est en toi.",
+				"Sur le chemin, tu guides mes pas.",
+				"Je ne crains rien, je me confie en toi.",
+				"Ta droite me soutient."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Des chants de grâces à jamais montent vers toi.",
+				"Ta gloire éclate, tes bienfaits, tes exploits,",
+				"Toute la terre te célébrera",
+				"Et nos cris de joie feront trembler les rois !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je me confie en l’Éternel,",
+				"Ma forteresse et mon rocher.",
+				"Je me confie en l’Éternel."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je me confie en l’Éternel,",
+				"Ma forteresse et mon rocher.",
+				"Je me confie en l’Éternel."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Je me confie en l’Éternel,",
+				"Ma forteresse et mon rocher.",
+				"Je me confie en l’Éternel."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je ne crains rien, mon espoir est en toi.",
+				"Sur le chemin, tu guides mes pas.",
+				"Je ne crains rien, je me confie en toi,",
+				"Car ta droite me soutient, je ne crains rien."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thomas Blanc",
+			"role": "music"
+		},
+		{
+			"name": "Thomas Blanc",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1189",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

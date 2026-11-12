@@ -1,0 +1,94 @@
+{
+	"id": "eveille-toi-mon-ame",
+	"title": "Éveille-toi, mon âme",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "997"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Éveille-toi, mon âme. Éveille-toi, mon âme.",
+				"Voici l'aurore, sors du sommeil,",
+				"Éveille-toi.",
+				"Éveille-toi, mon âme. Éveille-toi, mon âme.",
+				"Après l'heure noire, renaît l'espoir.",
+				"Éveille-toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il a souffert, il s'est livré,",
+				"Sacrifié, là, sur le bois.",
+				"Il s'est offert, il a payé,",
+				"Il t'a rachetée. Éveille-toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu n'es plus seule, mon âme.",
+				"Tu n'es plus seule, mon âme.",
+				"Toi qui étais nue, pauvre et aveugle,",
+				"Relève-toi.",
+				"Il t'a aimée, mon âme. Il t'a aimée, mon âme.",
+				"Le Dieu des merveilles, de toi s'émerveille.",
+				"Relève-toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Son corps blessé, son cœur brisé,",
+				"Sa vie ôtée, donnée pour toi.",
+				"Le sang amer, la croix du calvaire,",
+				"Les larmes du Père versées pour toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Hors des ténèbres jaillit la lumière.",
+				"Tout est accompli, tu vis en moi.",
+				"Le tombeau désert, la pierre est roulée.",
+				"Christ ressuscité, tu vis en moi."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Éveille-toi, mon âme. Éveille-toi, mon âme.",
+				"La mort a perdu, il a vaincu, éveille-toi.",
+				"Éveille-toi, mon âme. Éveille-toi, mon âme.",
+				"Viens à ses pieds, viens l'adorer. Éveille-toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem997",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

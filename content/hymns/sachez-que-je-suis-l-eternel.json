@@ -1,0 +1,56 @@
+{
+	"id": "sachez-que-je-suis-l-eternel",
+	"title": "Sachez que je suis l'Éternel",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "195"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sachez que je suis l'Éternel Dieu !",
+				"Sachez que je suis l'Éternel Dieu !",
+				"Sachez que je suis l'Éternel Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je suis l'Éternel qui te guérit.",
+				"Je suis l'Éternel qui te guérit.",
+				"Je suis l'Éternel qui te guérit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En toi, Seigneur, je me confie.",
+				"En toi, Seigneur, je me confie.",
+				"En toi, Seigneur, je me confie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem195",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

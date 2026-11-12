@@ -1,0 +1,73 @@
+{
+	"id": "tu-es-notre-dieu",
+	"title": "Tu es notre Dieu",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1185"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Heureux sont les affligés,",
+				"Car tu viens leur donner ta joie.",
+				"Heureux sont les cœurs brisés,",
+				"Car toi seul les consoleras,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car tu nous remplis d'une vie nouvelle ;",
+				"Nous t'aimerons d'un amour éternel.",
+				"Tu ouvres grand les portes des cieux,",
+				"Nous voulons déclarer que tu es notre Dieu.",
+				"Tu es notre Dieu.",
+				"Tu es notre Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Heureux sont les rejetés,",
+				"Car tu leur ouvriras tes bras.",
+				"Heureux ceux qui ont donné,",
+				"Car c'est toi qui les combleras,"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car tu nous remplis d'une vie nouvelle ;",
+				"Nous t'aimerons d'un amour éternel.",
+				"Tu ouvres grand les portes des cieux,",
+				"Nous voulons déclarer que tu es notre Dieu.",
+				"Tu es notre Dieu.",
+				"Tu es notre Dieu."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Emmanuel Robin, Stéphane Hoareau et Sébastien Corn",
+			"role": "music"
+		},
+		{
+			"name": "Emmanuel Robin, Stéphane Hoareau et Sébastien Corn",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1185",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

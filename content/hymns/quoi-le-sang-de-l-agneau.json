@@ -1,0 +1,89 @@
+{
+	"id": "quoi-le-sang-de-l-agneau",
+	"title": "Quoi ! le sang de l'Agneau.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "612"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quoi ! Le sang de l'Agneau sans tache,",
+				"Pour moi, sur la croix a coulé ?",
+				"Pour moi, si coupable, si lâche,",
+				"Il fut au Clavaire immolé ?",
+				"À tant d'amour est-il possible",
+				"Que mon cœur demeure insensible ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! quel mystère, unique, étrange !",
+				"Qui peut sonder sa profondeur ?",
+				"Ni le séraphin, ni l'archange",
+				"N'en ont vu toute la splendeur !",
+				"Devant cette croix je m'incline,",
+				"Adorant la Grâce divine !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Verbe éternel s'est fait homme ;",
+				"Pour me sauver, Il a quitté",
+				"Le ciel, son glorieux royaume,",
+				"N'emportant que sa charité !",
+				"Mon Dieu, pour expier mon crime,",
+				"Voulut devenir ma victime !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand mon âme était prisonnière",
+				"Des ténèbres et du péché,",
+				"Les purs rayons de Ta lumière,",
+				"O Christ, dans ma nuit m'ont cherché,",
+				"Ce feu divin m'a fait renaître,",
+				"Et me voici, mon Roi, mon Maître !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Oui, maintenant, c'est Toi que j'aime !",
+				"Je marche avec Toi désormais",
+				"Pour Toi, je renonce à moi-même,",
+				"Au monde qu'autrefois j'aimais,",
+				"Librement, je te sacrifie",
+				"Tout mon être, toute ma vie !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dimitri Bortniansky",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af612",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

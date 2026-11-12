@@ -1,0 +1,65 @@
+{
+	"id": "on-frappe-on-frappe-entends-tu",
+	"title": "On frappe ! On frappe ! Entends-tu ?",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "222"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"On frappe ! on frappe ! entends-tu ?",
+				"Passant, qui donc cherches-tu ?",
+				"Pourquoi, voyageur étrange,",
+				"À ma porte es-tu venu ?",
+				"N'es-tu pas quelque saint ange",
+				"Sur la terre descendu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est Moi, c'est Moi, ton Sauveur !",
+				"Je veux entrer dans ton cœur.",
+				"Pourquoi me laisser attendre ?",
+				"Ouvre, c'est un bienfaiteur.",
+				"Qui chez toi s'offre à répandre",
+				"Tous les trésors du bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vraiment ! vraiment ! c'est sa voix ;",
+				"C'est Lui ! c'est Lui ! je le vois.",
+				"Oh ! ta grâce est la plus forte,",
+				"Mon Sauveur, je te reçois !",
+				"Je ne puis fermer la porte,",
+				"Quand tu me montres ta croix."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edwin Othello Excell",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af222",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

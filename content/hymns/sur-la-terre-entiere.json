@@ -1,0 +1,65 @@
+{
+	"id": "sur-la-terre-entiere",
+	"title": "Sur la terre entière",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "827"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sur la terre entière, sur la terre entière,",
+				"Ton Saint-Esprit agit sur la terre entière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton fleuve s'écoule, Seigneur, tu es là;",
+				"Ton Saint-Esprit agit sur la terre entière.",
+				"Tu touches les nations par ton grand amour ;",
+				"Ton Saint-Esprit agit sur la terre entière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sur la terre entière, sur la terre entière,",
+				"Ton Saint-Esprit agit sur la terre entière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta bannière est dressée, ton nom célébré;",
+				"Ton Saint-Esprit agit sur la terre entière.",
+				"Les divisions tombent, car tu nous unis ;",
+				"Ton Saint-Esprit agit sur la terre entière."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Terry Butler",
+			"role": "music"
+		},
+		{
+			"name": "Terry Butler",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem827",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,102 @@
+{
+	"id": "eveiller",
+	"title": "Éveiller",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1072"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est en toi que je renais,",
+				"Ton Esprit me ranime.",
+				"C'est en toi que je renais",
+				"Par ton amour sublime.",
+				"J'étais mort par mon péché,",
+				"Mais ta grâce a commencé à"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Éveiller mon cœur, éveiller mon âme.",
+				"Je te vois, Seigneur, je me donne à toi,",
+				"Je me donne à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est en toi que je renais ;",
+				"T'aimer, c'est respirer.",
+				"C'est en toi que je renais ;",
+				"Je veux croire à jamais.",
+				"J'étais mort par mon péché",
+				"Mais ta grâce a commencé à"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Éveiller mon cœur, éveiller mon âme.",
+				"Je te vois, Seigneur, je me donne à toi,",
+				"Je me donne à toi."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"En toi, tout s'éveille à nouveau.",
+				"En toi, tout s'éveille à nouveau.",
+				"En toi, tout s'éveille à nouveau.",
+				"En toi, tout s'éveille à nouveau."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"En toi, tout s'éveille à nouveau.",
+				"En toi, tout s'éveille à nouveau.",
+				"En toi, tout s'éveille à nouveau.",
+				"En toi, tout s'éveille."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Éveiller mon cœur, éveiller mon âme.",
+				"Je te vois, Seigneur, je me donne à toi.",
+				"Éveiller mon cœur, éveiller mon âme.",
+				"Je te vois, Seigneur, je me donne à toi,",
+				"Je me donne à toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christopher et Jennifer Hopper",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider et Lisa Blyth",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1072",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

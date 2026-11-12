@@ -1,0 +1,77 @@
+{
+	"id": "l-eternel-est-mon-berger-jem-147",
+	"title": "L'Éternel est mon berger",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "147"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel est mon berger",
+				"De rien je ne manquerai ;",
+				"Dans de très verts pâturages",
+				"Et près des limpides eaux",
+				"Il me donne du repos",
+				"Et renouvelle mon âme. Oh"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par le chemin de justice",
+				"Ou le long des précipices,",
+				"Tu es là pour me guider ;",
+				"Ton bras puissant me protège.",
+				"Dans le ravin de ténèbres,",
+				"Tu es là pour me consoler. Oh"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Devant tous mes ennemis,",
+				"Richement tu me bénis,",
+				"Tu me combles de bienfaits",
+				"Qui ne tarissent jamais.",
+				"À ta table tu m'invites,",
+				"Sous tes ailes tu m'abrites. Oh"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oui le bonheur et la grâce,",
+				"Tous les jours seront ma part.",
+				"Dans ta maison de bonté",
+				"Et en la longueur des jours,",
+				"Je chanterai ton amour,",
+				"Jusque dans l'éternité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Michel Desaedeleer",
+			"role": "music"
+		},
+		{
+			"name": "Michel Desaedeleer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem147",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

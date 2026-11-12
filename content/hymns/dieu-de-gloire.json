@@ -1,0 +1,49 @@
+{
+	"id": "dieu-de-gloire",
+	"title": "Dieu de gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "272"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car tu es Dieu au-dessus de la terre,",
+				"Tu établis ton trône dans les cieux.",
+				"Car tu es Dieu au-dessus de la terre.",
+				"Tu es le Roi ; tu es le seul Dieu !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de gloire, Dieu de gloire,",
+				"Dieu de gloire, tu es Roi !",
+				"Dieu de gloire, Dieu de gloire,",
+				"Dieu de gloire, tu es Roi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pete Jr. Sanchez",
+			"role": "music"
+		},
+		{
+			"name": "Pete Jr. Sanchez",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem272",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

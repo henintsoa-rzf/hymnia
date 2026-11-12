@@ -1,0 +1,105 @@
+{
+	"id": "ecoutez-un-saint-cantique",
+	"title": "Écoutez un saint cantique",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "111"
+		},
+		{
+			"hymnal": "adf",
+			"number": "87"
+		},
+		{
+			"hymnal": "cd",
+			"number": "82"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Écoutez ! un saint cantique",
+				"Vient d'éclater dans les cieux :",
+				"C'est un hymne magnifique,",
+				"C'est un chant simple et joyeux.",
+				"Les voix, parcourant l'espace",
+				"Disent aux humains surpris :",
+				"La loi fait place à la grâce,",
+				"Et Moïse à Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La promesse est accomplie,",
+				"Le Salut nous est donné ;",
+				"En Christ, Dieu réconcilie",
+				"Sa justice et sa bonté.",
+				"L'heure de la délivrance",
+				"Pour les captifs a sonné ;",
+				"C'est la nouvelle alliance,",
+				"L'enfant Jésus nous est né."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et soudain, perçant le voile",
+				"Du firmament ténébreux,",
+				"L'éclat nouveau d'une étoile",
+				"Vers Juda jette ses feux.",
+				"Les mages, à sa lumière,",
+				"Accourent de l'Orient ;",
+				"Et pour rendre gloire au Père,",
+				"Ils vont adorer l'Enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ce Jésus est notre frère,",
+				"Il a vécu parmi nous :",
+				"Il a pris notre misère,",
+				"Pécheurs, il est mort pour nous.",
+				"Sa charité nous enlace,",
+				"Il veut régner sur nos cœurs ;",
+				"Sachons accepter sa grâce.",
+				"Jésus, sois notre Sauveur."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air Gallois",
+			"role": "music"
+		},
+		{
+			"name": "Alfred André",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg111",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af087",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/887",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

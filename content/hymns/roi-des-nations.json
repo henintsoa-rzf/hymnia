@@ -1,0 +1,56 @@
+{
+	"id": "roi-des-nations",
+	"title": "Roi des nations",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "486"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, Dieu tout-puissant,",
+				"Que tes œuvres sont grandes et merveilleuses,",
+				"Seigneur, Dieu tout-puissant,",
+				"Que tes œuvres sont grandes et merveilleuses.",
+				"Roi des nations,",
+				"Roi des nations,",
+				"Que tes plans sont justes et vrais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui ne te craindrait Seigneur ?",
+				"Qui refuserait de te rendre gloire ?",
+				"Qui ne te craindrait Seigneur ?",
+				"Qui refuserait de te rendre gloire ?",
+				"Car toi seul est saint,",
+				"Toi seul est saint ;",
+				"Les nations viendront t'adorer,",
+				"T'adorer, t'adorer."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "music"
+		},
+		{
+			"name": "Linda Panci-McGowen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem486",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

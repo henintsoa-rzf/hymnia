@@ -1,0 +1,51 @@
+{
+	"id": "l-eternel-dieu-est-au-milieu-de-toi",
+	"title": "L'Éternel Dieu est au milieu de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "366"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel Dieu est au milieu de toi",
+				"Comme un héros qui sauve.",
+				"Il fera de toi sa plus grande joie.",
+				"Il te guidera dans son amour,",
+				"Et Il chantera pour toi"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Des chants de joie,",
+				"Chants de joie,",
+				"Chants de joie,",
+				"Chants de joie,",
+				"Chants de joie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem366",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

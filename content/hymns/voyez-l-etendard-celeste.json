@@ -1,0 +1,109 @@
+{
+	"id": "voyez-l-etendard-celeste",
+	"title": "Voyez l'étendard céleste.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "366"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voyez l'étendard céleste",
+				"Qui s'agite au vent !",
+				"C'est un secours manifeste ;",
+				"Frères, en avant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tenez fermes, car j'avance »",
+				"Amis répondons :",
+				"« O Jésus, notre espérance,",
+				"Par toi nous vaincrons ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Satan, Prince de ce monde,",
+				"Redouble ses coups ;",
+				"Notre faiblesse est profonde",
+				"Que deviendrons-nous ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tenez fermes, car j'avance »",
+				"Amis répondons :",
+				"« O Jésus, notre espérance,",
+				"Par toi nous vaincrons ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur la montagne prochaine",
+				"Sonnent les clairons…",
+				"Au nom du grand Capitaine",
+				"Nous triompherons !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tenez fermes, car j'avance »",
+				"Amis répondons :",
+				"« O Jésus, notre espérance,",
+				"Par toi nous vaincrons ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le combat est long, peut-être,",
+				"Élevons nos cœurs !",
+				"Avec Jésus notre Maître,",
+				"Nous serons vainqueurs !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Tenez fermes, car j'avance »",
+				"Amis répondons :",
+				"« O Jésus, notre espérance,",
+				"Par toi nous vaincrons ! »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af366",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

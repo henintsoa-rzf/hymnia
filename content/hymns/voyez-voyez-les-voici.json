@@ -1,0 +1,89 @@
+{
+	"id": "voyez-voyez-les-voici",
+	"title": "Voyez, voyez, les voici.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "344"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voyez, voyez ! Les voici !",
+				"Tous les peuples sont ici :",
+				"C'est la croix qui les attire…",
+				"Les pécheurs, les malheureux,",
+				"Tous viennent grossir l'empire",
+				"Du Christ qui mourut pour eux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voyez ! Voyez ! Les voici !",
+				"En foule accourent ici :",
+				"De leurs cités innombrables",
+				"Les Hindous et les chinois,",
+				"Quittant leurs dieux misérables…",
+				"Tous regardent vers la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voyez ! Voyez ! Les voici !",
+				"Lentement s'approche aussi",
+				"L'Africain qui rend hommage.",
+				"Au divin Crucifié,",
+				"Son long et dur esclavage",
+				"Est maintenant oublié !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Voyez, voyez ! Les voici !",
+				"Les enfants du Nord transi,",
+				"Les fils de la steppe aride ;",
+				"L'heure est sonnée en tout lieu ;",
+				"Le cœur de l'homme est avide",
+				"De te voir, ô Fils de Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Voyez, voyez ! Les voici !",
+				"Tous sont réunis ici !",
+				"C'est la famille immortelle,",
+				"Et tous chantent d'un seul cœur",
+				"Cette hymne toujours nouvelle :",
+				"Gloire, gloire au Rédempteur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Edward Husband",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens ; traduit librement de Jacob Wakefield Mac Gill",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af344",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

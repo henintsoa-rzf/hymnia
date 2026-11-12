@@ -1,0 +1,77 @@
+{
+	"id": "pleins-d-espoir-levons-la-tete",
+	"title": "Pleins d'espoir levons la tête",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "145"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pleins d'espoir, levons la tête,",
+				"Car bientôt Jésus revient.",
+				"Tous nos cœurs seront en fête :",
+				"Il viendra chercher les siens.",
+				"Qu'elle éclate la tempête :",
+				"Non ! Notre âme ne craint rien."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cet espoir en nous flamboie,",
+				"Même au fort de nos combats.",
+				"Une vive et sainte joie",
+				"Chante en nous à chaque pas.",
+				"Du Seigneur suivons la voie,",
+				"Et soyons de bons soldats."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L'espérance du Royaume :",
+				"Ne nous laisse point confus.",
+				"En nos cœurs jaillit un psaume",
+				"De louange et de salut.",
+				"Nos espoirs ne sont que chaume",
+				"Hors de toi, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il viendra, ce jour de gloire :",
+				"Notre Dieu nous l'a promis.",
+				"C'est lui seul qui fait l'Histoire,",
+				"Il vaincra ses ennemis.",
+				"Lorsqu'on marche à la victoire,",
+				"L'espérance s'affermit."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Henry Smart",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg145",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

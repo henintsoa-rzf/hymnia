@@ -29,9 +29,23 @@ User data only. Hymn data (hymnals, hymns, entries) is unchanged; see
 | `hymnal` | string | Hymnal id (e.g. `ce`) |
 | `number` | string | Number as printed (e.g. `12a`, `3 bis`) |
 | `addedAt` | ISO date-time | Set when added |
+| `hymnId` | string, optional | Id of the hymn the entry was saved for (FR-016). Set on add; filled in on load for older entries whose reference resolves. Absent only while the reference has never resolved |
 
-Derived at runtime (never stored): the hymn the entry points to (`catalog.getEntry`), its hymn
-id for "already added", and `available = false` when the reference no longer resolves.
+Derived at runtime (never stored): the hymn the entry points to, its hymn id for "already
+added", and `available`.
+
+**Resolving an entry** (`resolveEntries`, FR-016):
+
+1. If `hymnId` is set, follow the catalog's redirects (`content/redirects.json`, written by the
+   feature 002 importer when hymns are merged) to the current id.
+   - The reference (hymnal + number) points to that hymn: available, as is.
+   - The reference points elsewhere or nowhere, and the hymn is published: available, opened
+     under its entry in the same hymnal if it has one, otherwise its first entry. The stored
+     reference and `hymnId` are updated to match.
+   - The hymn is not published (unpublished or unknown): unavailable, even if the reference now
+     points to another hymn.
+2. If `hymnId` is not set (entries saved before this field existed), use the reference, as
+   before, and store the hymn id it resolves to.
 
 ## Rules
 
@@ -40,8 +54,12 @@ id for "already added", and `available = false` when the reference no longer res
    resolve either reference, references are compared instead.
 2. **New entries go last**; moving an entry changes only the order.
 3. **Removing** an entry or **deleting** a collection never affects other collections.
+   Removing takes out exactly one entry: the one with the given reference, or else the first
+   entry of the same hymn. A collection can hold a hymn twice when two hymns are merged at
+   import (feature 002); removing one reference then leaves the other.
 4. **Unavailable hymns** are kept, shown as "Chant indisponible", removable, and never resolved
-   to another hymn.
+   to another hymn. Entries are checked through `hymnId` (see "Resolving an entry"), so a
+   renumbered or merged hymn is followed, never replaced.
 5. **Deleted collection** is kept in memory (not stored) until the undo delay ends; undo puts
    it back at its position with the same id and entries.
 
@@ -54,10 +72,10 @@ id for "already added", and `available = false` when the reference no longer res
 | `deleteCollection(doc, id)` | New doc + the removed collection and its index (for undo) |
 | `restoreCollection(doc, removed, index)` | New doc |
 | `addEntry(doc, id, ref, hymnIdOf, now)` | New doc, or `already-there` |
-| `removeEntry(doc, id, ref, now)` | New doc |
+| `removeEntry(doc, id, ref, hymnIdOf, now)` | New doc, with one entry removed (rule 3) |
 | `toggleEntry(doc, id, ref, hymnIdOf, now)` | New doc + `added` / `removed` (bookmark sheet) |
 | `moveEntry(doc, id, from, to, now)` | New doc |
-| `collectionsWith(doc, hymnId, hymnIdOf)` | Ids of collections containing the hymn (filled bookmark, sheet marks) |
+| `collectionsWith(doc, ref, hymnIdOf)` | Ids of collections containing the hymn (filled bookmark, sheet marks) |
 | `parseDocument(raw)` | v2 doc from nothing or a valid v2; otherwise `corrupt` |
 | `validateName(doc, name, exceptId?)` | `ok` or the name error |
 

@@ -1,0 +1,90 @@
+{
+	"id": "o-dieu-nous-le-placons",
+	"title": "O Dieu ! nous le plaçons",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "387"
+		},
+		{
+			"hymnal": "adf",
+			"number": "638"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu ! nous le plaçons",
+				"sous ta main paternelle,",
+				"Notre frêle trésor, notre enfant nouveau-né.",
+				"Qu'il entre dans la vie abrité sous ton aile !",
+				"Nous te donnons l'enfant que tu nous as donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est à toi, Seigneur,",
+				"avant d'être à nous-mêmes ;",
+				"Fais que ce soit, un jour, lui qui se donne à toi.",
+				"S'il ne le sait encor,",
+				"nous savons que tu l'aimes ;",
+				"Oh ! qu'il t'aime à son tour",
+				"et marche sous ta loi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toi qui t'es fait enfant",
+				"pour sauver notre race,",
+				"Souviens-toi de ta crèche,",
+				"auprès de ce berceau ;",
+				"Fais grandir, comme toi,",
+				"notre enfant dans la grâce,",
+				"Pour que ta bergerie ait un nouvel agneau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand il devra, bientôt,",
+				"fouler notre poussière,",
+				"Conduis ses pas tremblants",
+				"sur le chemin des cieux ;",
+				"Et quand il connaîtra les douleurs de la terre,",
+				"Viens toi-même essuyer",
+				"les larmes de ses yeux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jean-Jacques Rousseau",
+			"role": "music"
+		},
+		{
+			"name": "Édouard Monod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg387",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af638",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

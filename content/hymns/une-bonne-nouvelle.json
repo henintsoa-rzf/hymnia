@@ -1,0 +1,96 @@
+{
+	"id": "une-bonne-nouvelle",
+	"title": "Une bonne nouvelle",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "231"
+		},
+		{
+			"hymnal": "adf",
+			"number": "577"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Une bonne nouvelle",
+				"Descend des cieux :",
+				"Pécheur, Jésus t'appelle,",
+				"Lève les yeux.",
+				"Chargé de ta misère,",
+				"De tes péchés confus,",
+				"Viens à Jésus, mon frère,",
+				"Viens à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Fils de Dieu lui-même",
+				"Te racheta ;",
+				"Vois Son amour suprême",
+				"En Golgotha !",
+				"Au Sang qui purifie",
+				"Les cœurs souillés, perdus,",
+				"Que ton cœur se confie ;",
+				"Viens à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Celui que Jésus lave",
+				"De son péché,",
+				"Au dur joug de l'esclave",
+				"Est arraché.",
+				"Dans son âme affranchie",
+				"Le mal ne règne plus,",
+				"L'Esprit le sanctifie.",
+				"Viens à Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens, que rien ne t'arrête,",
+				"Viens à l'instant ;",
+				"Ta délivrance est prête :",
+				"Jésus t'attend.",
+				"Si tu crois, ô victoire !",
+				"Tes péchés ne sont plus,",
+				"Et tu peux chanter : Gloire !",
+				"Gloire à Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air télougou",
+			"role": "music"
+		},
+		{
+			"name": "Jean Wesley Lelièvre",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg231",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af577",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

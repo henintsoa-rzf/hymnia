@@ -1,0 +1,85 @@
+{
+	"id": "pleine-des-plus-beaux-dons",
+	"title": "Pleine des plus beaux dons.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "328"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pleine des plus beaux dons,",
+				"l'âme se trouve vide ;",
+				"Elle n'en peut tirer qu'un bonheur imparfait ;",
+				"Rien ne pourra remplir ce cœur toujours avide,",
+				"Que la seule beauté pour laquelle il est fait."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tous les plaisirs du siècle",
+				"et toutes ses caresses,",
+				"La pompe et la grandeur des trônes réunis,",
+				"Toutes les voluptés et toutes les richesses,",
+				"Sont des biens trop bornés",
+				"pour des vœux infinis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les fleuves, les ruisseaux,",
+				"les torrents, les fontaines,",
+				"Portent à l'Océan leurs eaux sans le grossir ;",
+				"Le torrent tout entier des délices humaines",
+				"Dans l'abîme du cœur se perd sans le remplir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon cœur a-t-il en vain",
+				"cette grandeur immense ?",
+				"Je vois combien Jésus est jaloux de ma foi :",
+				"Je vois que ton amour,",
+				"je sens que ta puissance,",
+				"En le faisant si grand, ne le fit que pour Toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Brise, ô Dieu ! les liens où mon âme captive",
+				"Entre le monde et Toi partage ses soupirs,",
+				"Et dirige mes pas vers la source d'eau vive",
+				"Qui peut seule étancher la soif de mes désirs."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ami Bost",
+			"role": "music"
+		},
+		{
+			"name": "Recueil de Paris",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af328",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

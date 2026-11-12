@@ -1,0 +1,114 @@
+{
+	"id": "nous-vivons-des-jours-de-gloire",
+	"title": "Nous vivons des jours de gloire",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "688"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Nous vivons des jours de gloire",
+				"Où les temps annoncés par les prophètes",
+				"Se réalisent sous nos yeux,",
+				"S'accomplissent dans les cieux.",
+				"Nous vivons des jours de gloire",
+				"Où ce que nous a prédit Jérémie",
+				"Se réalise sous nos yeux.",
+				"Vive le Dieu glorieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voici que les jours viennent,",
+				"Dit l'Éternel des armées,",
+				"Où je ramènerai mon peuple",
+				"Qui était disséminé.",
+				"Éclatez d'allégresse,",
+				"Vous, toutes les nations.",
+				"Il est un jour où les gardes crient:"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Levons-nous, montons à Sion.",
+				"Allons à la montagne du Dieu de Jacob ;",
+				"Allons à la montagne du Dieu vivant.",
+				"Allons à la montagne du Dieu de Jacob ;",
+				"Allons à la montagne du Dieu vivant. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lève-toi, prophétise à la maison d'Israël:",
+				"« Vos os sont desséchés,",
+				"Votre espoir s'est envolé.",
+				"Voici: j'ouvre vos tombes,",
+				"Je vous fais revenir",
+				"Pour adorer le Dieu des armées. »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Levons-nous, montons à Sion.",
+				"Allons à la montagne du Dieu de Jacob ;",
+				"Allons à la montagne du Dieu vivant.",
+				"Allons à la montagne du Dieu de Jacob ;",
+				"Allons à la montagne du Dieu vivant. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voici le Roi des rois",
+				"Qui revient sur les nuées.",
+				"Il posera ses pieds",
+				"Sur le mont des Oliviers,",
+				"Après qu'ils ont pleuré",
+				"Sur celui qu'ils ont percé.",
+				"Nous irons ensemble adorer Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"« Levons-nous, montons à Sion.",
+				"Allons à la montagne du Dieu de Jacob ;",
+				"Allons à la montagne du Dieu vivant.",
+				"Allons à la montagne du Dieu de Jacob ;",
+				"Allons à la montagne du Dieu vivant. »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem688",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

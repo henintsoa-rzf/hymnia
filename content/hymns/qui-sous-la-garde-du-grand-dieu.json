@@ -1,0 +1,99 @@
+{
+	"id": "qui-sous-la-garde-du-grand-dieu",
+	"title": "Qui sous la garde du grand Dieu.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "23"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui sous la garde du grand Dieu",
+				"Pour jamais se retire,",
+				"À son ombre, en un si haut lieu,",
+				"Se repose, et peut dire :",
+				"Dieu seul est mon libérateur,",
+				"Mon espoir, mon asile !",
+				"Sous la main d'un tel protecteur,",
+				"Mon âme, sois tranquille."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des pièges tendus sous tes pas",
+				"Sa bonté te délivre ;",
+				"Il te défend dans les combats",
+				"Que l'ennemi te livre ;",
+				"Son bouclier te couvrira",
+				"Si le péril te presse ;",
+				"Sous son aile Il te gardera",
+				"Au jour de la détresse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans les ténèbres de la nuit,",
+				"Que ton cœur soit sans crainte ;",
+				"Et d'aucun mal, quand le jour luit,",
+				"Ne redoute l'atteinte :",
+				"Mille à ta gauche vont tomber,",
+				"À ta droite dix mille ;",
+				"Mais tu ne saurais succomber,",
+				"Ayant Dieu pour asile."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu verras le fléau cruel",
+				"Épargner ta demeure,",
+				"Et les anges de l'Éternel",
+				"Te garder à toute heure :",
+				"Par leurs mains Il te portera",
+				"Durant ta vie entière,",
+				"Et jamais ton pied ne viendra",
+				"Heurter contre la pierre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"À qui l'aime et connaît son nom",
+				"Dieu dit : Je suis ton guide ;",
+				"Tu ne craindra ni le lion,",
+				"Ni le serpent perfide ;",
+				"Je répondrai par mon pouvoir",
+				"Au cri de ta souffrance,",
+				"Et jusqu'au bout te ferai voir",
+				"Ma pleine délivrance."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Louis Bourgeois",
+			"role": "music"
+		},
+		{
+			"name": "Clément Marot",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af023",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

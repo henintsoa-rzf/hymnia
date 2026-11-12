@@ -1,0 +1,83 @@
+{
+	"id": "vois-ce-matin-see-what-a-morning",
+	"title": "Vois ce matin (See, What A Morning)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "306"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vois, ce matin de joie et d’espoir,",
+				"La lumière resplendit à Jérusalem.",
+				"Linges pliés dans la tombe éclairée,",
+				"L’ange est là qui proclame : il est vivant !",
+				"Le plan de Dieu pour sauver,",
+				"Par amour, en souffrant, jusqu’au sacrifice",
+				"Est accompli en Christ :",
+				"Jésus vit, est ressuscité des morts !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vois, c’est Marie qui pleure au tombeau :",
+				"«Où est-il ? Et pourquoi n’est-il plus ici ?»",
+				"Mais elle entend l’appel de son Maître ;",
+				"C’est bien lui, c’est Jésus, il est vivant !",
+				"Sa voix franchit le temps jusqu’à nous,",
+				"Donne vie, espérance et paix.",
+				"Je vais le voir : c’est ma joie,",
+				"Jésus vit, est ressuscité des morts !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Près de son Père, l’Ancien des Jours,",
+				"Par l’Esprit qui revêt la foi de certitude,",
+				"Jésus reçoit la gloire et l’honneur,",
+				"La puissance, la louange et l’autorité.",
+				"La mort est engloutie, par sa mort,",
+				"Par sa vie, Christ est triomphant.",
+				"Avec lui, nous régnerons,",
+				"Jésus vit, est ressuscité des morts !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-certitudes/#chant-6",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

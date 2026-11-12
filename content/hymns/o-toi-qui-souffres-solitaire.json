@@ -1,0 +1,128 @@
+{
+	"id": "o-toi-qui-souffres-solitaire",
+	"title": "O toi, qui souffres solitaire.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "225"
+		},
+		{
+			"hymnal": "cd",
+			"number": "198"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O toi qui souffres solitaire,",
+				"Dieu te cherche dans cet instant,",
+				"Toi qui gémis dans ta misère,",
+				"Dieu te cherche et son cœur t'attend."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu te cherche,",
+				"Dieu te cherche,",
+				"Dieu te cherche pour te guérir.",
+				"Dieu te cherche,",
+				"Dieu te cherche,",
+				"Dieu te cherche, veux-tu venir ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et si ton âme est altérée,",
+				"Dieu te cherche pour l'abreuver ;",
+				"Si du péché tu l'as souillée,",
+				"Dieu te cherche pour la sauver."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu te cherche,",
+				"Dieu te cherche,",
+				"Dieu te cherche pour te guérir.",
+				"Dieu te cherche,",
+				"Dieu te cherche,",
+				"Dieu te cherche, veux-tu venir ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si ton cœur désire la vie,",
+				"Dieu te cherche, Il est éternel ;",
+				"Si tu veux la gloire infinie,",
+				"Dieu te cherche, Il t'ouvre le ciel."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu te cherche,",
+				"Dieu te cherche,",
+				"Dieu te cherche pour te guérir.",
+				"Dieu te cherche,",
+				"Dieu te cherche,",
+				"Dieu te cherche, veux-tu venir ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ouvre donc ton cœur à la grâce,",
+				"Dieu te cherche, viens donc à Lui.",
+				"Oh ! n'attends pas que ce jour passe,",
+				"Dieu te cherche, viens aujourd'hui !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu te cherche,",
+				"Dieu te cherche,",
+				"Dieu te cherche pour te guérir.",
+				"Dieu te cherche,",
+				"Dieu te cherche,",
+				"Dieu te cherche, veux-tu venir ?"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Georges Guillod",
+			"role": "music"
+		},
+		{
+			"name": "Georges Guillod",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af225",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1025",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

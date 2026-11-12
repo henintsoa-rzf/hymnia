@@ -1,0 +1,139 @@
+{
+	"id": "oui-j-ai-decide",
+	"title": "Oui, j'ai décidé",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1141"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, j’ai décidé de suivre Jésus.",
+				"Christ est ma vie, la mort m’est gain.",
+				"Sa grâce immense, son si grand salut",
+				"Pour moi n’auront pas été vains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux marcher comme il a marché",
+				"Et dans ses pas mettre les pieds.",
+				"La croix devant moi, le monde derrière moi,",
+				"J’avancerai sur le chemin,",
+				"J’avancerai sur le chemin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’ai abandonné pour ce long voyage",
+				"Mes possessions, richesses et biens.",
+				"Avec sa paix comme simple bagage,",
+				"Je n’en aurai pas le besoin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est mon tout, l’air que je respire.",
+				"Il est ma coupe, il est mon pain.",
+				"Ses tendres bontés, sa fidélité",
+				"Se renouvellent chaque matin,",
+				"Se renouvellent chaque matin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oui, j’ai décidé de suivre Jésus,",
+				"Son joug léger, son doux fardeau.",
+				"Au vagabond, à l’enfant perdu,",
+				"Sa bienveillance donne le repos."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans les dangers, les pièges, les combats,",
+				"À ses côtés, je ne crains pas.",
+				"Il est ma force, mon sûr bouclier,",
+				"Rien ne saurait le terrasser,",
+				"Rien ne saurait le terrasser."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oh ! oh ! oh ! oh ! oh ! oh !",
+				"Oui, j’ai décidé de suivre Jésus",
+				"Jusqu’à la fin, sans m’arrêter.",
+				"Dans son royaume, je suis attendu.",
+				"Mon bien-aimé m’a précédé"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et dans la gloire, quand j’arriverai,",
+				"Oui, face à face, je le verrai.",
+				"Je chanterai pour l’éternité :",
+				"« Gloire à celui qui m’a sauvé. »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et dans la gloire, quand j’arriverai,",
+				"Oui, face à face, je le verrai.",
+				"Je chanterai pour l’éternité :",
+				"« Gloire à celui qui m’a sauvé,",
+				"Gloire à celui qui m’a sauvé. »"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oui, j’ai décidé de suivre Jésus",
+				"Pas après pas, main dans sa main.",
+				"Sa grâce immense, son si grand salut",
+				"Pour moi n’auront pas été vains,",
+				"Pour moi n’auront pas été vains."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Samuel Olivier",
+			"role": "music"
+		},
+		{
+			"name": "Samuel Olivier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1141",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

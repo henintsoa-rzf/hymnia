@@ -1,0 +1,71 @@
+{
+	"id": "chantons-d-un-coeur-joyeux",
+	"title": "Chantons d'un cœur joyeux",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "107"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons d'un cœur joyeux,",
+				"En ce jour glorieux,",
+				"Dans une humble étable,",
+				"Est né le Fils de Dieu,",
+				"Puissant et secourable,",
+				"Chantons à pleine voix,",
+				"Jésus notre Roi,",
+				"Jésus notre Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O viens, Seigneur Jésus,",
+				"C'est toi notre salut,",
+				"En toi seul j'espère.",
+				"Au monde enténébré,",
+				"Apporte la lumière.",
+				"Du poids de nos péchés,",
+				"Viens nous délivrer,",
+				"Viens nous délivrer !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Un Sauveur nous est né,",
+				"Jésus nous est donné,",
+				"Notre délivrance.",
+				"À nos cœurs angoissés,",
+				"Il donne l'assurance.",
+				"D'un bonheur éternel.",
+				"Chantons tous Noël,",
+				"Chantons tous Noël !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Johann Sebastian Bach",
+			"role": "music"
+		},
+		{
+			"name": "H. Bochet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg107",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

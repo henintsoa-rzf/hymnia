@@ -1,0 +1,108 @@
+{
+	"id": "a-l-agneau",
+	"title": "À l'Agneau",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "725"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous les anges louent sa sainteté.",
+				"L'univers crie sa majesté.",
+				"Chantons gloire et puissance,",
+				"Force et louange à l'Agneau,",
+				"À l'Agneau immolé,",
+				"À l'Agneau, à l'Agneau immolé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les ténèbres ont reculé",
+				"devant l'œuvre de la croix,",
+				"Devant l'Agneau immolé",
+				"et le sang versé pour moi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous les anges louent sa sainteté.",
+				"L'univers crie sa majesté.",
+				"Chantons gloire et puissance,",
+				"Force et louange à l'Agneau,",
+				"À l'Agneau immolé,",
+				"À l'Agneau, à l'Agneau immolé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De la vie qu'il a donnée",
+				"à la vie qui brûle en moi",
+				"Tant d'amour et à jamais",
+				"ma reconnaissance au Roi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous les anges louent sa sainteté.",
+				"L'univers crie sa majesté.",
+				"Chantons gloire et puissance,",
+				"Force et louange à l'Agneau,",
+				"À l'Agneau immolé,",
+				"À l'Agneau, à l'Agneau immolé."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Vivant, vivant, puissant, puissant,",
+				"Vivant, Dieu vivant,",
+				"Puissant, tout-puissant,",
+				"Dieu vivant, Dieu tout-puissant,",
+				"Dieu vivant, Dieu tout-puissant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous les anges louent sa sainteté.",
+				"L'univers crie sa majesté.",
+				"Chantons gloire et puissance,",
+				"Force et louange à l'Agneau,",
+				"À l'Agneau immolé,",
+				"À l'Agneau, à l'Agneau immolé."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Steve Thompson ; Chris Christensen ; T. Ostrini",
+			"role": "music"
+		},
+		{
+			"name": "Steve Thompson ; Chris Christensen; T. Ostrini",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem725",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

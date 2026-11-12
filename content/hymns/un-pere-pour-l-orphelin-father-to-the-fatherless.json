@@ -1,0 +1,87 @@
+{
+	"id": "un-pere-pour-l-orphelin-father-to-the-fatherless",
+	"title": "Un Père pour l’orphelin (Father to the Fatherless)",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "611"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour l’orphelin, il est un Père,",
+				"Mon abri dans l’orage.",
+				"Il est ma source dans le désert,",
+				"Mon Refuge et mon Roc.",
+				"Grand Roi d’amour, Dieu qui fait grâce.",
+				"Dieu tout-puissant pour me sauver.",
+				"Vers toi mon Dieu , toujours fidèle ,",
+				"Je trouve mon secours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Au mal-aimé il rend l’amour,",
+				"Le faible il vient défendre.",
+				"Il veut guérir les cœurs brisés,",
+				"Mes rêves il fait renaître.",
+				"Grand Roi d’amour, Dieu qui fait grâce.",
+				"Dieu tout-puissant pour me sauver.",
+				"Tu me consoles, tu me rassures,",
+				"Oui, tu es tout pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu prends ma place, tu meurs pour moi,",
+				"Agneau de Dieu, sans tache.",
+				"Tu donnes ta vie, ton amitié,",
+				"Seigneur ressuscité.",
+				"Grand Roi d’amour, Dieu qui fait grâce.",
+				"Dieu tout-puissant pour me sauver.",
+				"Tu m’as vêtu de ta justice,",
+				"Je chanterai ta gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour l’orphelin, tu es un Père,",
+				"Mon abri dans l’orage.",
+				"Tu es ma source dans le désert,",
+				"Mon Refuge et mon Roc.",
+				"Tu es mon Dieu, toujours fidèle,",
+				"Tu es mon Dieu, mon Père."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Paul Oakley",
+			"role": "lyrics"
+		},
+		{
+			"name": "Paul Oakley",
+			"role": "music"
+		},
+		{
+			"name": "Marc Varidel",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-11",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

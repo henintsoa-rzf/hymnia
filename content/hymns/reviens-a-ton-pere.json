@@ -1,0 +1,96 @@
+{
+	"id": "reviens-a-ton-pere",
+	"title": "Reviens à ton Père.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "585"
+		},
+		{
+			"hymnal": "cd",
+			"number": "161"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Reviens à ton Père,",
+				"Enfant égaré !",
+				"Dis-Lui ta misère,",
+				"Dis-Lui : « j'ai péché ».",
+				"Toujours Il pardonne",
+				"À qui se repent.",
+				"Pour toi l'heure sonne,",
+				"C'est toi qu'il attend."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Reviens à ton Père,",
+				"Ses biens sont pour toi.",
+				"Entends sa prière,",
+				"Reviens sans effroi !",
+				"Sa main s'est tendue",
+				"Vers toi maintenant ;",
+				"Sa voix bien connue",
+				"Dit : « Viens, mon enfant ! »"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Reviens à ton Père,",
+				"Ici tu péris.",
+				"Son eau désaltère :",
+				"Reviens à tout prix !",
+				"Oh ! crois à sa grâce ;",
+				"Sa paix est pour toi.",
+				"Chez Lui, prends ta place,",
+				"Deviens fils du Roi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Reviens à ton Père ;",
+				"Reviens, c'est le port ;",
+				"Reviens, et préfère",
+				"La vie à la mort.",
+				"Vois-tu, son cœur saigne",
+				"Devant ton malheur.",
+				"Viens donc, qu'Il t'étreigne",
+				"Enfin sur son cœur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philip-Paul Bliss",
+			"role": "music"
+		},
+		{
+			"name": "Émile Bonnard",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af585",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/994",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

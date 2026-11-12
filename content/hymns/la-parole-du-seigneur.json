@@ -1,0 +1,78 @@
+{
+	"id": "la-parole-du-seigneur",
+	"title": "La parole du Seigneur.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "146"
+		},
+		{
+			"hymnal": "cd",
+			"number": "134"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La Parole du Seigneur",
+				"Est la source jaillissante,",
+				"Où peut toujours notre cœur",
+				"Étancher sa soif ardente.",
+				"Mon Dieu, du Livre sacré",
+				"Répands la grâce infinie ;",
+				"Conduis tout cœur altéré",
+				"À la fontaine de vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est un flambeau dans la main,",
+				"De sa splendeur vive et pure,",
+				"Éclairant notre chemin",
+				"À travers la nuit obscure.",
+				"Oh ! de ce divin flambeau,",
+				"Seigneur, sur notre carrière,",
+				"Chaque jour, jusqu'au tombeau",
+				"Fais rayonner la lumière !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est un grain de sénevé,",
+				"Que l'Esprit de Dieu féconde ;",
+				"Car, à peine a-t-il levé,",
+				"Qu'il envahit tout le monde.",
+				"Que le moindre grain planté",
+				"De la divine semence,",
+				"Ici, pour l'éternité,",
+				"Fructifie en abondance !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Cantique des Écoles du dimanche",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af146",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/969",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

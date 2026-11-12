@@ -1,0 +1,86 @@
+{
+	"id": "non-nous-n-offrirons-point",
+	"title": "Non, nous n'offrirons point.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "596"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Non, nous n'offrirons point",
+				"à ce Dieu qui nous aime,",
+				"Qui ne se lasse pas de nous faire du bien,",
+				"Et qui pour nous sauver,",
+				"s'est immolé lui-même,",
+				"Un don qui ne nous coûte rien !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout appartient à Dieu,",
+				"qui nous a donné l'être,",
+				"Tous dépendent de lui ; le riche et l'indigent,",
+				"Économes d'un jour des biens de notre Maître,",
+				"À Lui notre or et notre argent."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rachetés du Sauveur, c'est par le sacrifice",
+				"Que notre amour pour lui doit enfin s'exprimer :",
+				"Honte à notre tiédeur ! Honte à notre avarice !",
+				"Seigneur, quand saurons-nous t'aimer ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oui, nous voulons donner,",
+				"car nous voulons connaître",
+				"Un bonheur plus profond",
+				"que le bonheur d'avoir.",
+				"Notre cœur nous redit la parole du Maître :",
+				"Mieux vaut donner que recevoir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Aimons, faisons le bien :",
+				"la nuit vient où personne",
+				"Ne peut plus travailler à l'œuvre du Seigneur !",
+				"Mais si tu veux, chrétien,",
+				"que ta main s'ouvre et donne,",
+				"Commence par donner ton cœur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jules Duprato",
+			"role": "music"
+		},
+		{
+			"name": "Auguste Louis Decoppet",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af596",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

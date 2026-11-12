@@ -1,0 +1,131 @@
+{
+	"id": "hosanna-jem-573",
+	"title": "Hosanna",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "573"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Hosanna, hosanna.",
+				"Hosanna, hosanna."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ouvrons les portes au Roi,",
+				"au Dieu de gloire.",
+				"Lançons des cris de joie,",
+				"Laissons jaillir un chant de victoire.",
+				"Hosanna, hosanna, hosanna.",
+				"Ouvrons les portes au Roi,",
+				"au Dieu de gloire.",
+				"Lançons des cris de joie,",
+				"Laissons jaillir un chant de victoire.",
+				"Hosanna, hosanna, hosanna."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Marchons ensemble,",
+				"L'ennemi tremble.",
+				"Dieu est avec nous,",
+				"Chassons les ténèbres."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ouvrons les portes au Roi,",
+				"au Dieu de gloire.",
+				"Lançons des cris de joie,",
+				"Laissons jaillir un chant de victoire.",
+				"Hosanna, hosanna, hosanna.",
+				"Ouvrons les portes au Roi,",
+				"au Dieu de gloire.",
+				"Lançons des cris de joie,",
+				"Laissons jaillir un chant de victoire.",
+				"Hosanna, hosanna, hosanna."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui pourra taire",
+				"Notre prière ?",
+				"Dieu est avec nous,",
+				"Levons sa bannière."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ouvrons les portes au Roi,",
+				"au Dieu de gloire.",
+				"Lançons des cris de joie,",
+				"Laissons jaillir un chant de victoire.",
+				"Hosanna, hosanna, hosanna.",
+				"Ouvrons les portes au Roi,",
+				"au Dieu de gloire.",
+				"Lançons des cris de joie,",
+				"Laissons jaillir un chant de victoire.",
+				"Hosanna, hosanna, hosanna."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dansons devant lui",
+				"Remplis de sa vie.",
+				"Dieu est avec nous,",
+				"Chantons sa louange."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ouvrons les portes au Roi,",
+				"au Dieu de gloire.",
+				"Lançons des cris de joie,",
+				"Laissons jaillir un chant de victoire.",
+				"Hosanna, hosanna, hosanna.",
+				"Ouvrons les portes au Roi,",
+				"au Dieu de gloire.",
+				"Lançons des cris de joie,",
+				"Laissons jaillir un chant de victoire.",
+				"Hosanna, hosanna, hosanna."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "music"
+		},
+		{
+			"name": "Thierry Ostrini ; Chris Christensen",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem573",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

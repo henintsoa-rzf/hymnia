@@ -1,0 +1,62 @@
+{
+	"id": "jesus-m-a-donne-la-liberte",
+	"title": "Jésus m'a donné la liberté",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "129"
+		},
+		{
+			"hymnal": "cd",
+			"number": "172"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus m'a donné la liberté",
+				"Et il m'a racheté,",
+				"En mourant sur la croix",
+				"Jésus m'a donné la liberté,",
+				"Gloire à Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C'est pourquoi je veux chanter,",
+				"C'est pourquoi je veux chanter,",
+				"Mes péchés sont pardonnés,",
+				"Ma vie a changé;",
+				"C'est pourquoi je veux chanter."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Inconnu",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem129",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/945",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"id": "a-la-croix",
+	"title": "À la croix",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "893"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"1. Seigneur, tu me cherches,",
+				"Tu me connais,",
+				"Et si je t'oubliais,",
+				"Je sais que tu m'aimes."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta sainte présence,",
+				"Elle m'environne",
+				"À chaque moment.",
+				"Je sais que tu m'aimes.",
+				"Je sais que tu m'aimes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À la croix, je me prosterne",
+				"Où ton sang coula pour moi.",
+				"Aucun amour n'est plus grand !",
+				"Tu as gagné sur la mort,",
+				"Ta gloire remplit les lieux très hauts.",
+				"Rien ne peut nous séparer !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu marches devant moi,",
+				"Tu gardes mes pas.",
+				"Ta main me soutient.",
+				"Je sais que tu m'aimes.",
+				"Je sais que tu m'aimes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"À la croix, je me prosterne",
+				"Où ton sang coula pour moi.",
+				"Aucun amour n'est plus grand !",
+				"Tu as gagné sur la mort,",
+				"Ta gloire remplit les lieux très hauts.",
+				"Rien ne peut nous séparer !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu déchires le voile,",
+				"Tu traces un chemin",
+				"Car tu as tout accompli."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si tout s'effondrait,",
+				"Devant mes yeux,",
+				"Tu resterais là.",
+				"Je sais que tu m'aimes.",
+				"Je sais que tu m'aimes."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Darlène Zschech ; Reuben Morgan",
+			"role": "music"
+		},
+		{
+			"name": "Darlène Zschech ; Reuben Morgan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem893",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,53 @@
+{
+	"id": "rendons-graces-au-seigneur",
+	"title": "Rendons grâces au Seigneur",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "304"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rendons grâces au Seigneur,",
+				"Car il est bon,",
+				"Et son grand amour dure à toujours.",
+				"Rendons grâces au Seigneur,",
+				"Car il est bon,",
+				"Et son grand amour dure à toujours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rendons grâces au Seigneur,",
+				"Car il est bon,",
+				"Et son grand amour dure à toujours.",
+				"Rendons grâces au Seigneur,",
+				"Car il est bon,",
+				"Et son grand amour dure à toujours."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brent Chambers",
+			"role": "music"
+		},
+		{
+			"name": "Brent Chambers",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem304",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,84 @@
+{
+	"id": "l-eternel-seul-est-ma-lumiere",
+	"title": "L'Éternel seul est ma lumière",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "10"
+		},
+		{
+			"hymnal": "adf",
+			"number": "22"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L'Éternel seul est ma lumière,",
+				"Ma délivrance et mon appui :",
+				"Qu'aurais-je à craindre sur la terre",
+				"Puisque ma force est toute en Lui,",
+				"Est toute en Lui ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Son bras puissant, à ma requête,",
+				"Un prompt secours me prêtera,",
+				"Et, dans le fort de la tempête,",
+				"Sur un rocher m'élèvera,",
+				"M'élèvera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Réponds-moi donc ; j'attends ta grâce :",
+				"Seigneur, exauce ton enfant !",
+				"Tu me dis de chercher ta face,",
+				"Et je la cherche, ô Dieu vivant !",
+				"Ô Dieu vivant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mes yeux verront la délivrance",
+				"Que mon Sauveur m'accordera ;",
+				"Aussi mon cœur plein d'assurance,",
+				"En l'attendant, s'affermira,",
+				"S'affermira."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Franz Josef Haydn",
+			"role": "music"
+		},
+		{
+			"name": "César Malan",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg010",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af022",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

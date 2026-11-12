@@ -1,0 +1,59 @@
+{
+	"id": "que-je-brule-pour-toi",
+	"title": "Que je brûle pour toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "475"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que je brûle pour toi,",
+				"Brûle d'amour, brûle de joie.",
+				"Que je brûle pour toi,",
+				"Brûle d'amour, brûle de joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que ma prière monte vers toi",
+				"Comme un parfum",
+				"Et l'élévation de mes mains",
+				"Comme une offrande."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que je brûle pour toi,",
+				"Brûle d'amour, brûle de joie.",
+				"Que je brûle pour toi,",
+				"Brûle d'amour, brûle de joie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Fabienne Pons",
+			"role": "music"
+		},
+		{
+			"name": "Fabienne Pons",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem475",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

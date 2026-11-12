@@ -1,0 +1,129 @@
+{
+	"id": "jusqu-a-la-mort",
+	"title": "Jusqu'à la mort",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "355"
+		},
+		{
+			"hymnal": "adf",
+			"number": "302"
+		},
+		{
+			"hymnal": "cd",
+			"number": "332"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jusqu'à la mort nous te serons fidèles ;",
+				"Jusqu'à la mort tu seras notre Roi ;",
+				"Sous ton drapeau, Jésus, tu nous appelles ;",
+				"Nous y mourrons en luttant avec foi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'à la mort ! c'est notre cri de guerre,",
+				"Le libre cri d'un peuple racheté ;",
+				"Jusqu'à la mort, nous aurons pour bannière",
+				"Ta croix sanglante, ô Christ ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jusqu'à la mort, soumis à ta puissance,",
+				"Nous voulons vivre et mourir sous tes lois,",
+				"Toi qui pour nous poussas l'obéissance",
+				"Jusqu'à la mort, et la mort de la croix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'à la mort ! c'est notre cri de guerre,",
+				"Le libre cri d'un peuple racheté ;",
+				"Jusqu'à la mort, nous aurons pour bannière",
+				"Ta croix sanglante, ô Christ ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mais, ô Sauveur ! tu sais notre faiblesse ;",
+				"Nous tomberons sûrement en chemin",
+				"Si tu ne viens accomplir ta promesse :",
+				"Jusqu'à la mort, nous tenir par la main."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'à la mort ! c'est notre cri de guerre,",
+				"Le libre cri d'un peuple racheté ;",
+				"Jusqu'à la mort, nous aurons pour bannière",
+				"Ta croix sanglante, ô Christ ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que ton Esprit nous guide et nous anime !",
+				"Et que sa flamme, embrasant tous nos cœurs,",
+				"Nous devenions par toi, sainte Victime,",
+				"Sur la mort même un peuple de vainqueurs !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jusqu'à la mort ! c'est notre cri de guerre,",
+				"Le libre cri d'un peuple racheté ;",
+				"Jusqu'à la mort, nous aurons pour bannière",
+				"Ta croix sanglante, ô Christ ressuscité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air américain",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg355",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af302",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1132",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

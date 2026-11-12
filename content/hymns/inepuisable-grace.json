@@ -1,0 +1,59 @@
+{
+	"id": "inepuisable-grace",
+	"title": "Inépuisable grâce",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "858"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est par tes souffrances que je suis guéri.",
+				"Ta miséricorde me donne la vie.",
+				"C'est dans ta mort que se trouve mon salut,",
+				"Inépuisable est ta grâce, mon Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les clous du calvaire, l'épine et la croix",
+				"Ont frappé un juste, condamné pour moi.",
+				"C'est par amour que tu as comparu,",
+				"Inépuisable est ta grâce, mon Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est dans ma faiblesse que je viens à toi,",
+				"Poser ma détresse au pied de mon Roi.",
+				"Un seul regard et je suis secouru.",
+				"Inépuisable est ta grâce, mon Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem858",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

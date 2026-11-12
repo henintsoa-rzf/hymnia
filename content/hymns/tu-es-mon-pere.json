@@ -1,0 +1,41 @@
+{
+	"id": "tu-es-mon-pere",
+	"title": "Tu es mon père",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "510"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es mon père ;",
+				"Tu poses ton regard sur moi.",
+				"Tu es mon père",
+				"Et tu me prends dans tes bras.",
+				"Tu prends plaisir à te pencher sur moi,",
+				"Me chuchoter: « tu es à moi », Papa."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jeunesse en Mission",
+			"role": "music"
+		},
+		{
+			"name": "Jeunesse en Mission",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem510",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,89 @@
+{
+	"id": "adorons",
+	"title": "Adorons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "840"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Adorons, adorons l'Agneau",
+				"Immolé pour nos péchés.",
+				"Adorons, adorons l'Agneau",
+				"Immolé pour nos péchés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Lui seul est digne de recevoir nos louanges.",
+				"Lui seul est digne d'être adoré.",
+				"Lui seul est digne de recevoir nos louanges.",
+				"Lui seul est digne d'être adoré."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Adorons, adorons Jésus",
+				"Crucifié pour nos péchés.",
+				"Adorons, adorons Jésus",
+				"Crucifié pour nos péchés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Lui seul est digne de recevoir nos louanges.",
+				"Lui seul est digne d'être adoré.",
+				"Lui seul est digne de recevoir nos louanges.",
+				"Lui seul est digne d'être adoré."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Adorons le ressuscité",
+				"Fils de Dieu, fils bien aimé.",
+				"Adorons le ressuscité",
+				"Fils de Dieu, fils bien aimé."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Lui seul est digne de recevoir nos louanges.",
+				"Lui seul est digne d'être adoré.",
+				"Lui seul est digne de recevoir nos louanges.",
+				"Lui seul est digne d'être adoré."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem840",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

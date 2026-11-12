@@ -1,0 +1,75 @@
+{
+	"id": "lorsque-le-ciel-retentit",
+	"title": "Lorsque le ciel retentit",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "117"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lorsque le ciel retentit de louanges,",
+				"Et qu'ici bas régnait la sombre nuit,",
+				"Jésus naquit, plus humble que les anges,",
+				"Pour me sauver, si bas il descendit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bonheur suprême, mon Sauveur m'aime,",
+				"Lui qui mourut et fut ressucité,",
+				"Et sur la nue, à sa venue,",
+				"Je le verrai, lui qui m'a racheté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsqu'à la croix, le prince de la vie",
+				"Lava, blanchit mes péchés, mes forfaits,",
+				"Le grand pouvoir de sa grâce infinie,",
+				"Ferma l'abîme où Satan mentraînait."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Lorsqu'au matin de la grande victoire,",
+				"Il triompha de la mort, du tombeau,",
+				"Il effaça pour toujours la mémoire",
+				"Du noir passé, cet écrasant fardau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Lorsqu'il viendra dans ma magnificence",
+				"Ravir les siens pour jamais dans les cieux,",
+				"J'entonnerai l'hymne de délivrance,",
+				"En exaltant son grand nom précieux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "C.H. Marsh",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/935",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

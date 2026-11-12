@@ -1,0 +1,80 @@
+{
+	"id": "je-viens-seigneur-a-ce-bapteme",
+	"title": "Je viens, Seigneur, à ce baptême",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "190"
+		},
+		{
+			"hymnal": "adf",
+			"number": "574"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je viens, Seigneur, à ce baptême,",
+				"Où tu descendis avant moi,",
+				"Heureux de mourir à moi-même",
+				"Afin de vivre comme toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Après tant d'erreurs et de chutes,",
+				"Tant de péchés et de remords,",
+				"Je renonce à mes vaines luttes",
+				"Et me réfugie en ta mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C'est pour moi que tu l'as soufferte,",
+				"Victime sainte, Agneau très doux !",
+				"Pour moi, ton âme fut offerte",
+				"Et ton corps meurtri par les clous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À ton baptême, à ton calice,",
+				"Je veux avoir part en ce jour",
+				"Et goûter, dans le sacrifice,",
+				"La douceur de ton grand amour !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dr Lowell Mason",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg190",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af574",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

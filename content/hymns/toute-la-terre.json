@@ -1,0 +1,57 @@
+{
+	"id": "toute-la-terre",
+	"title": "Toute la terre",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "716"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toute la terre est dans la joie,",
+				"Le Seigneur l'a créée de ses mains ;",
+				"Les arbres et même les montagnes",
+				"Chantent pour le Roi des rois.",
+				"Ses œuvres comblent ma joie,",
+				"Car il a tout créé de ses mains,",
+				"L'Éternel, Dieu d'Israël ;",
+				"Pour lui j'élève ma voix."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je voudrais te dire:",
+				"« Ta grandeur touche mon cœur.",
+				"Comment puis-je décrire",
+				"Tes merveilles et ta splendeur ? »",
+				"Je voudrais te dire:",
+				"« Ta grandeur touche mon cœur.",
+				"Comment puis-je décrire",
+				"Tes merveilles et ta splendeur ? »"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charly et Isabelle Siounath",
+			"role": "music"
+		},
+		{
+			"name": "Charly Siounath",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem716",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

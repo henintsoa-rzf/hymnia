@@ -1,0 +1,72 @@
+{
+	"id": "l-esprit-et-l-epouse",
+	"title": "L'Esprit et l'épouse",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "869"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il y aura en divers endroits",
+				"Des tremblements de terre.",
+				"Vous entendrez parler de guerre",
+				"Et de bruits de guerre.",
+				"Lorsque vous verrez ces choses arriver,",
+				"Gardez-vous d'être troublés.",
+				"Relevez la tête, votre délivrance approche."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Esprit et l'épouse disent : viens !",
+				"Que celui qui entend dise : viens !",
+				"Que celui qui a soif vienne aussi.",
+				"Que celui qui le veut prenne",
+				"L'eau de la vie gratuitement."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L'Esprit et l'épouse disent : viens !",
+				"Que celui qui entend dise : viens !",
+				"Que celui qui a soif vienne aussi.",
+				"Que celui qui le veut prenne",
+				"L'eau de la vie gratuitement."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Amen, amen, viens bientôt Seigneur Jésus.",
+				"Amen, amen, viens bientôt Seigneur Jésus."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem869",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

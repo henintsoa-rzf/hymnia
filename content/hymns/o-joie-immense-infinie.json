@@ -1,0 +1,96 @@
+{
+	"id": "o-joie-immense-infinie",
+	"title": "O joie immense, infinie !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "342"
+		},
+		{
+			"hymnal": "cd",
+			"number": "289"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O joie immense, infinie,",
+				"Qui nous remplit chaque jour,",
+				"Joie éternelle et bénie,",
+				"Qui nous vient du Dieu d'amour.",
+				"Quel bonheur ! Dieu nous fait grâce.",
+				"Il nous offre son pardon,",
+				"Son secours est efficace ;",
+				"Il nous comble par ses dons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chantons l'amour insondable,",
+				"L'amour parfait de Jésus ;",
+				"Disons sa grâce ineffable",
+				"Envers nous, pécheurs perdus ;",
+				"Louons sa miséricorde,",
+				"Tous unis et d'un seul cœur,",
+				"Oui, que notre amour déborde",
+				"À la gloire du Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toutes ses œuvres le chantent,",
+				"Le ciel, la terre et la mer ;",
+				"Les étoiles rayonnantes,",
+				"Scintillant dans l'univers,",
+				"Les forêts et les campagnes,",
+				"Et le vent, et les oiseaux,",
+				"Les torrents de nos montagnes,",
+				"Ainsi que les clairs ruisseaux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"À ce concert de louange,",
+				"Il nous faut participer ;",
+				"Nous devons avec les anges",
+				"Nous courber pour adorer,",
+				"Proclamer de Dieu la gloire,",
+				"La puissance et la splendeur,",
+				"Le bonheur et la victoire",
+				"En Jésus notre Sauveur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ludwig van Beethoven",
+			"role": "music"
+		},
+		{
+			"name": "A. Omer",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg342",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1094",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"id": "infiniment-grand",
+	"title": "Infiniment grand",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "956"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je sonde l'univers,",
+				"Les astres que tu as créés,",
+				"Les océans, les mers,",
+				"Tout me révèle ta majesté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors mon âme veut s'écrier,",
+				"De tout mon cœur je veux chanter.",
+				"Alors mon âme veut s'écrier,",
+				"De tout mon cœur je veux chanter."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô Dieu tu es infiniment grand,",
+				"Éternel puissant, Roi majestueux.",
+				"Ô Dieu tu es infiniment grand,",
+				"Éternel puissant, Roi majestueux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand je songe que tu m'as fait,",
+				"Que tu t'es révélé à moi,",
+				"Que pour moi tu as tout créé,",
+				"Tout me révèle ta bonté."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alors mon âme veut s'écrier,",
+				"De tout mon cœur je veux chanter.",
+				"Alors mon âme veut s'écrier,",
+				"De tout mon cœur je veux chanter."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô Dieu tu es infiniment grand,",
+				"Éternel puissant, Roi majestueux.",
+				"Ô Dieu tu es infiniment grand,",
+				"Éternel puissant, Roi majestueux."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sebastien Corn",
+			"role": "music"
+		},
+		{
+			"name": "Sebastien Corn",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem956",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

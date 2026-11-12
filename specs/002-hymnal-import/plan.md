@@ -32,7 +32,8 @@ All state is in versioned files under `import/`, with no database. See
 **Language/Version**: TypeScript 5.x on Node.js 22 LTS, run with `tsx`
 
 **Primary Dependencies**: built-in `fetch`, `cheerio` (HTML parsing), `robots-parser`, `diff`
-(before/after of pending changes), Zod and `normalize` shared with feature 001,
+(before/after of pending changes), Zod schemas and `normalizeText`/`tokenize` shared with
+feature 001,
 `node:util parseArgs` (CLI)
 
 **Storage**: JSON files. `content/` is the shared source of truth; the importer writes it.
@@ -66,18 +67,22 @@ hymns after merging (estimate).
 
 | Principle | How the plan complies | Status |
 |-----------|-----------------------|--------|
-| I. Advanced search at the core | Not directly affected. Merging duplicates (R7) gives one result per hymn, and the shared `normalize` keeps matching consistent with search. | ✅ |
+| I. Advanced search at the core | Not directly affected. Merging duplicates (R7) gives one result per hymn, and the shared `normalizeText`/`tokenize` keep matching consistent with search. | ✅ |
 | II. Clean, text-centred design | No UI. Chords and annotations are removed from the lyrics, so the reading view stays clean. | ✅ |
 | III. Faithful text and rights | Text is kept as in the source (adapter rule 2), and `check` verifies it against the cache. Each hymn stores its source URL and date. Changed source text goes through review (pending). Hymns default to `unconfirmed`, and only a recorded rights decision publishes them. Each source's terms and permission are recorded, and the importer refuses to fetch a source whose permission was refused. | ✅ |
-| IV. Unified multi-hymnal model | Duplicates are merged into one hymn with several entries. A new hymnal or source needs an adapter and config only, with no change in `src/`. Import state is kept apart from content. | ✅ |
+| IV. Unified multi-hymnal model | Duplicates are merged into one hymn with several entries. A new hymnal or source needs an adapter and config only, with no change in `src/`. Import state is kept apart from content. Saved collections (user data) are never written by the import; they follow merges and renumbering through the stored `hymnId` and the published redirects (R12). | ✅ |
 | V. Simplicity, incremental delivery | Files instead of a database, `parseArgs` instead of a CLI framework, `cheerio` instead of a browser. The work is delivered one source at a time, starting with conducteurdelouange.com. Import, normalisation and numbering are covered by tests. | ✅ |
 | VI. Accessibility, real-world use | Not affected (no UI). | ✅ |
 | Content and sources | Versioned scripts in `scripts/import/`; idempotent (R6); source URL and date stored for each hymn; text stored in NFC with normalisation used for matching only. | ✅ |
 | Workflow and quality | Spec → plan → tasks. Changes to matching are checked against a versioned reference list (SC-005). The search reference queries of feature 001 are re-run after each large import. | ✅ |
 
-**Result**: Passed before research and again after design. One cross-feature change: the
-additive `alternateSources` field in feature 001's content schema. It is optional and keeps
-existing files valid, so it is not a violation. No entries in Complexity Tracking.
+**Result**: Passed before research and again after design. Cross-feature changes, none of them
+a violation:
+- Feature 001: the additive `alternateSources` field, strict content schemas, and the published
+  `redirects` map.
+- Feature 003: entries gain an optional `hymnId`, within storage version 2 (R12).
+
+No entries in Complexity Tracking.
 
 ## Project Structure
 
@@ -129,7 +134,9 @@ scripts/import/
 └── report.ts                    # JSON and Markdown reports
 
 src/lib/domain/                  # feature 001 schemas: add alternateSources
-src/lib/search/normalize.ts      # reused as is
+src/lib/search/normalize.ts      # reused as is (normalizeText, tokenize)
+src/lib/repertoire/              # 003: entries remember their hymnId (R12)
+content/redirects.json           # merged hymn id → kept id, published (R12)
 
 tests/import/
 ├── fixtures/<source>/*.html     # a few saved pages per source
@@ -147,11 +154,14 @@ in `import/`, kept apart from `content/`, which stays the only input of feature 
 
 ## Delivery order
 
-1. Shared base: fetcher, store, fingerprint, reconcile, rights, report, `check`, plus the
-   additive change to the 001 schema.
-2. conducteurdelouange.com adapter. It covers 5 hymnals and is enough for US1, US2 and US4.
-3. Matching (US3), which becomes useful once two hymnals are imported.
-4. jemaf.fr, psalmodie.ch and ecrituremusique.com adapters (US5), one at a time.
+1. Protect saved collections (R12): entries remember their `hymnId`, the catalog publishes
+   redirects, and the sample hymnals move to the test fixtures. This is done before any real
+   hymnal is published.
+2. Shared base: fetcher, store, fingerprint, reconcile, rights, report, `check`, plus the
+   additive and strict changes to the 001 schema.
+3. conducteurdelouange.com adapter. It covers 5 hymnals and is enough for US1, US2 and US4.
+4. Matching (US3), which becomes useful once two hymnals are imported.
+5. jemaf.fr, psalmodie.ch and ecrituremusique.com adapters (US5), one at a time.
 
 ## Complexity Tracking
 

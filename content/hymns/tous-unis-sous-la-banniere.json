@@ -1,0 +1,129 @@
+{
+	"id": "tous-unis-sous-la-banniere",
+	"title": "Tous unis sous la bannière.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "500"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tous unis sous la bannière",
+				"Qui ne recule jamais,",
+				"Vouons notre vie entière",
+				"À Jésus le Roi de paix !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Troupe sainte, suis sans crainte",
+				"Ton Dieu, ton Roi !",
+				"Par la foi, vis pour le Roi,",
+				"Car il est mort pour toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour s'offrir en sacrifice,",
+				"Notre Maître a tout quitté ;",
+				"Donnons tout à son service :",
+				"Force, talents, volonté !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Troupe sainte, suis sans crainte",
+				"Ton Dieu, ton Roi !",
+				"Par la foi, vis pour le Roi,",
+				"Car il est mort pour toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ah ! qu'elle est belle l'armée",
+				"Des soldats de Jésus-Christ,",
+				"Que son amour a formée",
+				"Et qu'anime son Esprit !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Troupe sainte, suis sans crainte",
+				"Ton Dieu, ton Roi !",
+				"Par la foi, vis pour le Roi,",
+				"Car il est mort pour toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sa Parole est notre épée,",
+				"Elle rend plus que vainqueur ;",
+				"Dans le sang de Christ trempée,",
+				"Elle va jusques au cœur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Troupe sainte, suis sans crainte",
+				"Ton Dieu, ton Roi !",
+				"Par la foi, vis pour le Roi,",
+				"Car il est mort pour toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Dur est le combat, peut-être,",
+				"Mais bientôt il va finir !",
+				"Bientôt le Roi va paraître ;",
+				"À nous, à nous l'avenir !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Troupe sainte, suis sans crainte",
+				"Ton Dieu, ton Roi !",
+				"Par la foi, vis pour le Roi,",
+				"Car il est mort pour toi !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Air provençal (XVIIe s)",
+			"role": "music"
+		},
+		{
+			"name": "Ruben Saillens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af500",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

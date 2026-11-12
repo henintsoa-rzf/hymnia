@@ -1,0 +1,98 @@
+{
+	"id": "gloire-a-ton-nom",
+	"title": "Gloire à ton nom",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1102"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire à ton nom,",
+				"Gloire à ton merveilleux nom, Jésus.",
+				"Gloire à ton nom,",
+				"Gloire à ton précieux nom, Jésus."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire à ton nom,",
+				"Gloire à ton merveilleux nom, Jésus.",
+				"Gloire à ton nom,",
+				"Gloire à ton précieux nom, Jésus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me donne force et courage,",
+				"Il me donne amour et paix,",
+				"Il me donne puissance et autorité."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Au cœur de l’épreuve, tu es avec moi,",
+				"Je m’attache à ton nom.",
+				"Et, en plein désert,",
+				"Tu restes avec moi ;",
+				"Rien n’est plus fort que ton nom !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Au cœur de l’épreuve, tu es avec moi,",
+				"Je m’attache à ton nom.",
+				"Et, en plein désert,",
+				"Tu restes avec moi ;",
+				"Rien n’est plus fort que ton nom !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu me donnes force et courage,",
+				"Tu me donnes amour et paix,",
+				"Tu me donnes puissance et autorité."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu me donnes force et courage,",
+				"Tu me donnes amour et paix,",
+				"Tu me donnes puissance et autorité."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Dan Luiten",
+			"role": "music"
+		},
+		{
+			"name": "Dan Luiten",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1102",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

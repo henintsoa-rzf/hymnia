@@ -1,0 +1,45 @@
+{
+	"id": "christ-est-la-reponse",
+	"title": "Christ est la réponse",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "155"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ est la réponse",
+				"À tous nos « pourquoi »,",
+				"Seule solution",
+				"Pour ce monde en désarroi.",
+				"Chaque problème",
+				"De l'humanité,",
+				"Le Christ qui l'aime,",
+				"L'a déjà porté.",
+				"Car Christ est la réponse,",
+				"Fais-Lui foi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "William T. Mattby",
+			"role": "music"
+		},
+		{
+			"name": "William T. Mattby",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem155",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

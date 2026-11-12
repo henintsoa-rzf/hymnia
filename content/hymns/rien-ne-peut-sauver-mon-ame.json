@@ -1,0 +1,140 @@
+{
+	"id": "rien-ne-peut-sauver-mon-ame",
+	"title": "Rien ne peut sauver mon âme",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1114"
+		},
+		{
+			"hymnal": "cd",
+			"number": "162"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rien ne peut sauver mon âme,",
+				"Rien que le sang de Jésus !",
+				"Pour elle, je ne réclame",
+				"Rien que le sang de Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Précieux sang de l’Agneau,",
+				"Qui me donne un cœur nouveau,",
+				"Rien d’autre ; je ne veux plus",
+				"Rien que le sang de Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour mon pardon, je ne vois",
+				"Rien que le sang de Jésus !",
+				"Pour mon salut, je ne crois",
+				"Rien que le sang de Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Précieux sang de l’Agneau,",
+				"Qui me donne un cœur nouveau,",
+				"Rien d’autre ; je ne veux plus",
+				"Rien que le sang de Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je ne veux pour ma justice",
+				"Rien que le sang de Jésus !",
+				"Qui me rendra Dieu propice ?",
+				"Rien que le sang de Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Précieux sang de l’Agneau,",
+				"Qui me donne un cœur nouveau,",
+				"Rien d’autre ; je ne veux plus",
+				"Rien que le sang de Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon Dieu, je ne te présente",
+				"Rien que le sang de Jésus !",
+				"Rien ici-bas ne me contente,",
+				"Rien que le sang de Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Précieux sang de l’Agneau,",
+				"Qui me donne un cœur nouveau,",
+				"Rien d’autre ; je ne veux plus",
+				"Rien que le sang de Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Je n’ai pour toute espérance",
+				"Rien que le sang de Jésus,",
+				"Pour appui, pour confiance,",
+				"Rien que le sang de Jésus !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Précieux sang de l’Agneau,",
+				"Qui me donne un cœur nouveau,",
+				"Rien d’autre ; je ne veux plus",
+				"Rien que le sang de Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Robert Lowry",
+			"role": "music"
+		},
+		{
+			"name": "Robert Lowry",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1114",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/995",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

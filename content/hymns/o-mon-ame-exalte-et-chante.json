@@ -1,0 +1,130 @@
+{
+	"id": "o-mon-ame-exalte-et-chante",
+	"title": "O mon âme, exalte et chante !",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "24"
+		},
+		{
+			"hymnal": "cd",
+			"number": "11"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O mon âme, exalte et chante",
+				"Du Seigneur le nom divin !",
+				"Viens louer sa grâce aimante",
+				"Qui t'accorde tant de biens."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire, gloire, gloire, gloire,",
+				"Gloire à toi, Dieu juste et saint !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mes péchés, Dieu les efface,",
+				"Il me sauve et me guérit :",
+				"La couronne de sa grâce",
+				"Chaque jour pour moi fleurit."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire, gloire, gloire, gloire,",
+				"Gloire au Dieu qui nous bénit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tel un doux et tendre Père,",
+				"Dieu prend soin de ses enfants ;",
+				"Il est lent à la colère,",
+				"Il nous aime et nous défend."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire, gloire, gloire, gloire,",
+				"Gloire au Dieu qui nous entend !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Brève est notre vie entière,",
+				"Frêle comme un lis des champs",
+				"Qui demain sera poussière",
+				"Et qu'emporte au loin le vent."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire, gloire, gloire, gloire,",
+				"Gloire au Dieu toujours vivant !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Vous, ses œuvres, vous ses anges,",
+				"Et toi, peuple des élus,",
+				"En tous lieux, que vos louanges",
+				"De Dieu chantent le salut !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire, gloire, gloire, gloire,",
+				"Au Dieu fort l'honneur est dû !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Goss",
+			"role": "music"
+		},
+		{
+			"name": "Claire-Lise de Benoit",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg024",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/839",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

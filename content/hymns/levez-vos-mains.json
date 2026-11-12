@@ -1,0 +1,89 @@
+{
+	"id": "levez-vos-mains",
+	"title": "Levez vos mains",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "184"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Levez vos mains vers le Seigneur ;",
+				"Chantez, bénissez son saint nom !",
+				"Levez vos mains vers le Seigneur,",
+				"Bénissez son saint nom !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous te louons, nous te louons,",
+				"Nous te louons Seigneur Jésus !",
+				"Nous te louons, nous te louons,",
+				"Nous louons ton saint nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Levez vos mains vers le Seigneur ;",
+				"Chantez, bénissez son saint nom !",
+				"Levez vos mains vers le Seigneur,",
+				"Bénissez son saint nom !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous t'exaltons, nous t'exaltons,",
+				"Nous t'exaltons Seigneur Jésus !",
+				"Nous t'exaltons, nous t'exaltons,",
+				"Nous exaltons ton nom."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Levez vos mains vers le Seigneur ;",
+				"Chantez, bénissez son saint nom !",
+				"Levez vos mains vers le Seigneur,",
+				"Bénissez son saint nom !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous t'adorons, nous t'adorons,",
+				"Nous t'adorons Seigneur Jésus !",
+				"Nous t'adorons, nous t'adorons,",
+				"Nous adorons ton nom."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jimmy Owens",
+			"role": "music"
+		},
+		{
+			"name": "Jimmy Owens",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem184",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

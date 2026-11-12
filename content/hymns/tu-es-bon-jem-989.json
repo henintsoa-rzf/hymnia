@@ -1,0 +1,95 @@
+{
+	"id": "tu-es-bon-jem-989",
+	"title": "Tu es bon",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "989"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux le proclamer du sommet des montagnes,",
+				"Ta grâce est sans limite, ta bonté sans égale.",
+				"Ta tendresse m'envahit, ta bonté me poursuit,",
+				"Ton amour m'émerveille."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je chante car tu es bon",
+				"Et je danse car tu es bon",
+				"Et je crie de joie, Tu es bon,",
+				"Tu es bon pour moi.",
+				"Et je chante car tu es bon",
+				"Et je danse car tu es bon",
+				"Et je crie de joie, Tu es bon,",
+				"Tu es bon pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rien dans tout l'univers, à toi, ne se compare.",
+				"Les océans, la terre sont reflets de ta gloire.",
+				"Dans mes plus sombres nuits, ta splendeur m'éblouit,",
+				"Ton amour m'émerveille."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je chante car tu es bon",
+				"Et je danse car tu es bon",
+				"Et je crie de joie, Tu es bon,",
+				"Tu es bon pour moi.",
+				"Et je chante car tu es bon",
+				"Et je danse car tu es bon",
+				"Et je crie de joie, Tu es bon,",
+				"Tu es bon pour moi.",
+				"Un cri sur mes lèvres, ma vie te célèbre,",
+				"Tu es bon, tu es bon.",
+				"Vent, soleil ou pluie, mon cœur te redit,",
+				"Tu es bon, tu es bon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et je chante car tu es bon",
+				"Et je danse car tu es bon",
+				"Et je crie de joie, Tu es bon,",
+				"Tu es bon pour moi.",
+				"Et je chante car tu es bon",
+				"Et je danse car tu es bon",
+				"Et je crie de joie, Tu es bon,",
+				"Tu es bon pour moi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Brian Johnson ; Jérémy Riddle",
+			"role": "music"
+		},
+		{
+			"name": "Brian Johnson ; Jérémy Riddle",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem989",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

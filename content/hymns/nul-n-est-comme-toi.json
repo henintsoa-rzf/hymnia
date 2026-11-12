@@ -1,0 +1,59 @@
+{
+	"id": "nul-n-est-comme-toi",
+	"title": "Nul n'est comme toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "687"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nul n'est comme toi !",
+				"Nul ne peut toucher mon cœur comme toi.",
+				"Je pourrais chercher éternellement,",
+				"Pourtant nul n'est comme toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta bonté coule tel un fleuve immense",
+				"Et c'est ta main qui guérit.",
+				"L'enfant qui souffre trouve en toi un sûr abri,",
+				"Nul n'est comme toi !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nul n'est comme toi !",
+				"Nul ne peut toucher mon cœur comme toi.",
+				"Je pourrais chercher éternellement,",
+				"Pourtant nul n'est comme toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Lenny Le Blanc",
+			"role": "music"
+		},
+		{
+			"name": "Lenny Le Blanc",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem687",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

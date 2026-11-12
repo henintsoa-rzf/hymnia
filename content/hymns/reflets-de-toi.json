@@ -1,0 +1,109 @@
+{
+	"id": "reflets-de-toi",
+	"title": "Reflets de toi",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1038"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu as pour manteau la lumière",
+				"Et tu déploies les cieux,",
+				"Ton empreinte est dans l'univers",
+				"Un signe merveilleux."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais je sais que ce que je vois",
+				"N'est qu'un reflet de toi,",
+				"Bien plus vaste est ta majesté,",
+				"Plus grande est ta beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La cime enneigée des montagnes,",
+				"Le tonnerre ou le vent,",
+				"La terre et son éclat témoignent",
+				"Que tu es tout-puissant."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais je sais que ce que je vois",
+				"N'est qu'un reflet de toi,",
+				"Bien plus vaste est ta majesté,",
+				"Plus grande est ta beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans la naissance d'un enfant,",
+				"Les battements d'un cœur,",
+				"Tu as laissé depuis longtemps",
+				"Les traces de ta splendeur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais je sais que ce que je vois",
+				"N'est qu'un reflet de toi,",
+				"Bien plus vaste est ta majesté,",
+				"Plus grande est ta beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Vienne le jour où nous pourrons",
+				"Te voir tel que tu es,",
+				"Ce jour où nous te connaîtrons",
+				"Comme toi tu nous connais."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Vienne le jour où nous pourrons",
+				"Te voir tel que tu es,",
+				"Ce jour où nous te connaîtrons",
+				"Comme toi tu nous connais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Durham",
+			"role": "music"
+		},
+		{
+			"name": "David Durham, Christine et François Reymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1038",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

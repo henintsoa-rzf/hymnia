@@ -1,0 +1,79 @@
+{
+	"id": "o-jesus-maitre-doux-et-tendre",
+	"title": "O Jésus, Maître doux et tendre.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "325"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus, Maître doux et tendre,",
+				"À tes pieds je veux demeurer ;",
+				"C'est Toi que je veux adorer ;",
+				"C'est ta voix que je veux entendre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nul, parmi les fils de la terre,",
+				"Seigneur, n'a parlé comme Toi.",
+				"Du ciel j'ai reconnu le Roi",
+				"En Celui qui s'est fait mon frère."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Combien ta parole est profonde !",
+				"Le sage ne la peut sonder ;",
+				"Mais par elle tu veux guider",
+				"Les pas des simples de ce monde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il n'est pas de douleur amère",
+				"Que tu ne veuilles partager ;",
+				"C'est Toi seul qui peux soulager",
+				"Notre angoisse et notre misère."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"O Jésus, ô divin modèle !",
+				"Je t'aime et je me donne à Toi ;",
+				"Je veux te servir, ô mon Roi !",
+				"Jusqu'à la fin, d'un cœur fidèle."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John W. Bischoff",
+			"role": "music"
+		},
+		{
+			"name": "Eugène Bersier",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af325",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

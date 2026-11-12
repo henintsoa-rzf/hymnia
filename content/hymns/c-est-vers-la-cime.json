@@ -1,0 +1,85 @@
+{
+	"id": "c-est-vers-la-cime",
+	"title": "C'est vers la cime.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "639"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C'est vers la cime qui se dresse",
+				"Bien haut, dans le ciel bleu,",
+				"Qu'il faut t'élancer, ô jeunesse,",
+				"Sous le regard de Dieu.",
+				"Laisse les brumes de la plaine,",
+				"Ne redescends jamais ;",
+				"Et suis l'étroit sentier qui mène",
+				"Aux radieux sommets."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Monte toujours ! Que rien n'arrête",
+				"Ton courage et ta foi !",
+				"Avance en relevant la tête :",
+				"Le but est devant toi.",
+				"Et si parfois survient l'orage,",
+				"Si tout devient obscur,",
+				"Monte : au-dessus du noir nuage",
+				"Tu trouveras l'azur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que ta joyeuse ardeur entraîne",
+				"Les cœurs les plus tremblants ;",
+				"Montre-leur la clarté sereine",
+				"Des pics étincelants.",
+				"À l'heure où leur force chancelle,",
+				"Où leurs genoux sont las,",
+				"Tends-leur une main fraternelle,",
+				"Pour soutenir leur pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Monte ! et que nul jour ne s'achève",
+				"Sans te trouver plus haut",
+				"Sur le chemin qui seul s'élève",
+				"Vers l'idéal si beau.",
+				"Et quand viendra le jour suprême,",
+				"Le jour du grand adieu,",
+				"Tu monteras jusqu'au ciel même,",
+				"À l'appel de ton Dieu !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "H. Barbezat",
+			"role": "music"
+		},
+		{
+			"name": "Blanche d' Estienne",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af639",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,116 @@
+{
+	"id": "oui-et-amen",
+	"title": "Oui et amen",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1171"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu plein de grâce, rempli de bonté,",
+				"C'est toi qui m'as délivré;",
+				"Tu me combles de paix.",
+				"Dieu de compassion,",
+				"Mon secours dans le danger,",
+				"Je ne peux que chanter :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"«Tu es fidèle !",
+				"Dieu, tu es fidèle à jamais.",
+				"Tu es fidèle.»"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tes promesses, ô Dieu, sont oui et amen.",
+				"Tes promesses, ô Dieu, sont oui et amen."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Merveilleux Sauveur, tu m'attires à toi.",
+				"Tu me ramènes à la vie,",
+				"Tu as brisé mes chaînes.",
+				"Glorieux Rédempteur, tu me rends la liberté,",
+				"Je ne peux que chanter :"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"«Tu es fidèle !",
+				"Dieu, tu es fidèle à jamais.",
+				"Tu es fidèle.»"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tes promesses, ô Dieu, sont oui et amen.",
+				"Tes promesses, ô Dieu, sont oui et amen."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu es fidèle !",
+				"Dieu, tu es fidèle à jamais.",
+				"Tu es fidèle.",
+				"Tes promesses, ô Dieu, sont oui et amen."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ma confiance est en tes promesses,",
+				"Mon assurance, en toi Dieu fidèle.",
+				"Ma confiance est en tes promesses,",
+				"Mon assurance, en toi Dieu fidèle."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ma confiance est en tes promesses,",
+				"Mon assurance, en toi Dieu fidèle.",
+				"Ma confiance est en tes promesses,",
+				"Mon assurance, en toi Dieu fidèle."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chris McClarney, Nate Moore et Tony Brown",
+			"role": "music"
+		},
+		{
+			"name": "Chris McClarney, Nate Moore et Tony Brown",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1171",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

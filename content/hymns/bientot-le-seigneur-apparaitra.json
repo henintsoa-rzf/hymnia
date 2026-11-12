@@ -1,0 +1,95 @@
+{
+	"id": "bientot-le-seigneur-apparaitra",
+	"title": "Bientôt le Seigneur apparaîtra",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "660"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bientôt le Seigneur apparaîtra ;",
+				"Nos yeux oseront-ils y croire ?",
+				"Ce jour tant attendu sera là",
+				"Et nous tomberons à genoux devant lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Baruch ata, toi, le Roi des rois.",
+				"Tu viens pour régner sur la terre.",
+				"Tu viens pour faire cesser la guerre.",
+				"Baruch ata, toi, le Roi des rois.",
+				"Nos cœurs sont transportés de joie,",
+				"Nous serons pour toujours avec toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bientôt le Seigneur apparaîtra ;",
+				"Nos yeux oseront-ils y croire ?",
+				"Ce jour tant attendu sera là",
+				"Et nous tomberons à genoux devant lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Baruch ata, toi, le Roi des rois.",
+				"Nos cœurs ne cessent de chanter,",
+				"Nos bouches ne cessent de crier:",
+				"Baruch ata, toi, le Roi des rois.",
+				"Tu entres par la porte d'or",
+				"Pour juger les vivants et les morts."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Bientôt le Seigneur apparaîtra ;",
+				"Nos yeux oseront-ils y croire ?",
+				"Ce jour tant attendu sera là",
+				"Et nous tomberons à genoux devant lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Baruch ata, toi, le Roi des rois.",
+				"Voici l'année du jubilé",
+				"Où tu sépares l'ivraie du blé.",
+				"Baruch ata, toi, le Roi des rois.",
+				"Levez-vous, portes éternelles,",
+				"Laissez entrer le Roi des rois."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem660",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

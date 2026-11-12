@@ -1,0 +1,71 @@
+{
+	"id": "dans-ta-maison",
+	"title": "Dans ta maison",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "738"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux, mon Dieu, de tout mon cœur",
+				"Te remercier et te louer,",
+				"Et devant les grands de ce monde",
+				"Te proclamer, te glorifier.",
+				"J'irai, Seigneur, dans ta maison",
+				"Chanter ton nom, ô Éternel,",
+				"Pour ton amour, ta vérité",
+				"Et ta bonté toujours fidèles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'accomplissement de tes promesses",
+				"À dépassé mes plus beaux rêves ;",
+				"Ta parole remplie de sagesse",
+				"Me réconforte et me relève.",
+				"Je me prosterne dans ta maison,",
+				"Devant ton trône pour t'adorer.",
+				"À toi l'honneur et la puissance,",
+				"Dans ta présence je veux rester."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Lorsque je passe par la détresse,",
+				"Tu me préserves de l'ennemi",
+				"Et malgré toutes mes faiblesses,",
+				"Tu renouvelleras ma vie.",
+				"Tu agiras en ma faveur,",
+				"Toi, le Sauveur de l'univers.",
+				"N'abandonne pas tes créatures,",
+				"Garde-nous sûrs auprès du Père."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Pat Berning",
+			"role": "music"
+		},
+		{
+			"name": "Pat Berning",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem738",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

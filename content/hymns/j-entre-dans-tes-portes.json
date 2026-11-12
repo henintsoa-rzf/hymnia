@@ -1,0 +1,59 @@
+{
+	"id": "j-entre-dans-tes-portes",
+	"title": "J'entre dans tes portes",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "428"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'entre dans tes portes,",
+				"J'entre dans tes parvis",
+				"Avec des louanges,",
+				"Devant toi me voici."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je reconnais ta majesté,",
+				"Je reconnais ta royauté,",
+				"El-Shaddaï,",
+				"Dieu puissant !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'entre dans tes portes,",
+				"J'entre dans tes parvis",
+				"Avec des louanges,",
+				"Devant toi me voici."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Mady Ramos",
+			"role": "music"
+		},
+		{
+			"name": "Mady Ramos",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem428",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,103 @@
+{
+	"id": "maitre-entends-tu-la-tempete",
+	"title": "Maître, entends-tu la tempête.",
+	"entries": [
+		{
+			"hymnal": "adf",
+			"number": "379"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Maître, entends-tu la tempête",
+				"Et ses terribles accents ?",
+				"Parle, Seigneur, et l'arrête ;",
+				"Sauve, sauve tes enfants !",
+				"Mais aucun bruit ne l'éveille ;",
+				"Il dort et nous périssons.",
+				"À nos cris prête l'oreille,",
+				"Sauve-nous, nous t'en prions !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il parle aux flots en démence :",
+				"Paix vous soit !",
+				"La mer, les vents font silence ;",
+				"Paix vous soit ! Paix vous soit !",
+				"Il est notre délivrance ;",
+				"Paix vous soit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Maître, mon cœur qui chancelle",
+				"Traverse les grandes eaux,",
+				"Et l'orage, à ma nacelle,",
+				"Livre de rudes assauts.",
+				"Oh ! qui verra ma détresse ?",
+				"D'où me viendra le secours ?",
+				"À Toi, Seigneur, je m'adresse,",
+				"C'est à Toi que j'ai recours."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il parle aux flots en démence :",
+				"Paix vous soit !",
+				"La mer, les vents font silence ;",
+				"Paix vous soit ! Paix vous soit !",
+				"Il est notre délivrance ;",
+				"Paix vous soit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Maître, l'onde est apaisée,",
+				"Le doute a quitté mon cœur,",
+				"Et mon âme consolée",
+				"A retrouvé son Sauveur.",
+				"Oh ! prends dans ta main ma vie,",
+				"Jusques au jour de ma mort !",
+				"En Toi seul je me confie ;",
+				"Tu me conduiras au port."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il parle aux flots en démence :",
+				"Paix vous soit !",
+				"La mer, les vents font silence ;",
+				"Paix vous soit ! Paix vous soit !",
+				"Il est notre délivrance ;",
+				"Paix vous soit !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Horatio Richmond Palmer",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/af379",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

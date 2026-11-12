@@ -1,0 +1,123 @@
+{
+	"id": "rien-n-est-impossible",
+	"title": "Rien n'est impossible",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1024"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour toi, je peux tout accomplir,",
+				"Je peux vraiment tout,",
+				"Car c'est toi qui me rends fort.",
+				"Non, rien n'est impossible."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par toi, les yeux sont ouverts,",
+				"Les liens sont brisés.",
+				"Oui, je vis par la foi.",
+				"Non, rien n'est impossible."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je vivrai non par ce que je vois,",
+				"Je vivrai non par ce que je ressens.",
+				"Je le sais, tu es là près de moi",
+				"Et, je le sais, tu peux tout accomplir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour toi, je peux tout accomplir,",
+				"Je peux vraiment tout,",
+				"Car c'est toi qui me rends fort.",
+				"Non, rien n'est impossible."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Par toi, les yeux sont ouverts,",
+				"Les liens sont brisés.",
+				"Oui, je vis par la foi.",
+				"Non, rien n'est impossible."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je vivrai non par ce que je vois,",
+				"Je vivrai non par ce que je ressens.",
+				"Je le sais, tu es là près de moi",
+				"Et, je le sais, tu peux tout accomplir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Pour toi, je peux tout accomplir,",
+				"Je peux vraiment tout,",
+				"Car c'est toi qui me rends fort.",
+				"Non, rien n'est impossible."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Par toi, les yeux sont ouverts,",
+				"Les liens sont brisés.",
+				"Oui, je vis par la foi.",
+				"Non, rien n'est impossible."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oui, je crois, oui, je crois,",
+				"Oui, je crois, oui, je crois en toi.",
+				"Oui, je crois, oui, je crois,",
+				"Oui, je crois, oui, je crois en toi.",
+				"Oui, je crois, oui, je crois,",
+				"Oui, je crois, oui, je crois en toi.",
+				"Oui, je crois, oui, je crois,",
+				"Oui, je crois, oui, je crois en toi."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joth Hunt",
+			"role": "music"
+		},
+		{
+			"name": "Joth Hunt",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1024",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

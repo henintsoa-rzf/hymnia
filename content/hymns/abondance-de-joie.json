@@ -1,0 +1,81 @@
+{
+	"id": "abondance-de-joie",
+	"title": "Abondance de joie",
+	"entries": [
+		{
+			"hymnal": "psalmodie",
+			"number": "615"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Garde-moi, ô Dieu,",
+				"Car je me réfugie en toi.",
+				"Je dis au Seigneur :",
+				"« Tu es mon plus grand bonheur. »",
+				"Car il est ma richesse,",
+				"Il est mon partage,",
+				"Mon bien le plus précieux.",
+				"Il m’a réservé un héritage merveilleux !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il y a abondance de joie devant ta face,",
+				"Des délices éternels à ta droite.",
+				"Je n’ai pas de bonheur plus grand que toi.",
+				"L’Eternel est ma part et la coupe où je bois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je mets l’Eternel",
+				"Constamment devant mes yeux.",
+				"Il est mon conseil,",
+				"Car il sait ce qu’il y a de mieux.",
+				"Il relève ma tête.",
+				"Quand il est à ma droite,",
+				"Je ne suis pas ébranlé.",
+				"Aussi mon âme est en fête",
+				"Et mon corps en sécurité."
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Tu n’abandonneras pas mon âme",
+				"Au séjour des morts.",
+				"Car tu m’as fait connaître",
+				"Le chemin de la vie.",
+				"Oh, tant que je vivrai,",
+				"Je chanterai encore,",
+				"Jusqu’au jour où je chanterai dans tes parvis !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "David Prigent",
+			"role": "lyrics"
+		},
+		{
+			"name": "David Prigent",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Chorale Psalmodie — psalmodie.ch",
+		"url": "https://psalmodie.ch/paroles-du-programme-te-rencontrer/#chant-15",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

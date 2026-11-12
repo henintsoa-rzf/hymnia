@@ -1,0 +1,74 @@
+{
+	"id": "je-veux-te-rester-fidele",
+	"title": "Je veux te rester fidèle",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "774"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux te rester fidèle",
+				"et te suivre jusqu'au bout,",
+				"Je veux te rester fidèle",
+				"et te suivre jusqu'au bout,",
+				"Avec ta force tenir debout,",
+				"avancer, persévérer.",
+				"Je veux te rester fidèle",
+				"et te suivre jusqu'au bout."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Par amour, tu as tissé une alliance éternelle.",
+				"Tu agis par loyauté, car tu es droit et fidèle."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux te rester fidèle",
+				"et te suivre jusqu'au bout,",
+				"Je veux te rester fidèle",
+				"et te suivre jusqu'au bout,",
+				"Avec ta force tenir debout,",
+				"avancer, persévérer.",
+				"Je veux te rester fidèle",
+				"et te suivre jusqu'au bout."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À la croix, tu as payé",
+				"au prix fort de ton sang.",
+				"J'ai reçu la liberté de t'obéir pleinement."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Sylvain Freymond",
+			"role": "music"
+		},
+		{
+			"name": "Sylvain Freymond",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem774",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

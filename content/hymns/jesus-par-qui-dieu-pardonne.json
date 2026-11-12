@@ -1,0 +1,71 @@
+{
+	"id": "jesus-par-qui-dieu-pardonne",
+	"title": "Jésus, par qui Dieu pardonne",
+	"entries": [
+		{
+			"hymnal": "cd",
+			"number": "362"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, par qui Dieu pardonne,",
+				"Roi d’épines couronné,",
+				"Que le monde t’abandonne,",
+				"À toi mon coeur s’est donné !",
+				"Ta mort est ma délivrance,",
+				"Je suis heureux sous ta loi;",
+				"Ô Jésus, mon espérance,",
+				"Quelle autre aurais-je que toi ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! Penche-toi sur ma couche",
+				"Lorsque je devrai mourir,",
+				"Et, ton doux nom sur la bouche,",
+				"Je verrai le ciel s’ouvrir...",
+				"Mais le ciel que je réclame,",
+				"C’est ton regard, c’est ta voix,",
+				"Qui s’abaissent sur mon âme,",
+				"Assise auprès de ta croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Attire, ô Sauveur, attire",
+				"Sur ton sein et dans tes bras",
+				"Le coeur qui tremble et soupire",
+				"Parce qu’il ne te voit pas.",
+				"Mon frère, il t’appelle, écoute :",
+				"Il t’appelle, ne crains plus;",
+				"Suis ses pas, et sur la route",
+				"Chante ce beau nom : Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Ruben Saillens",
+			"role": "unspecified"
+		},
+		{
+			"name": "J. Dowland",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1158",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

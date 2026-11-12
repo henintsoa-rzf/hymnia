@@ -1,0 +1,83 @@
+{
+	"id": "o-dieu-mon-roc",
+	"title": "O Dieu mon roc",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "806"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô Dieu, mon roc, mon refuge et ma force,",
+				"Une tour solide en face de l'ennemi,",
+				"Dans la tempête,",
+				"tu étends sur moi tes ailes.",
+				"Je veux chanter, car tu es mon bouclier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entends mon cri, ô Dieu, entends mon cri.",
+				"Du bout de la terre, je t'appelle au secours.",
+				"Le monde bascule, tous mes repères s'en vont.",
+				"Du bout de la terre, je crie vers toi, mon Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O God, my rock !",
+				"A shelter from the storm.",
+				"A tower of strength against the enemy.",
+				"Let me take refuge",
+				"in the shelter of Your wings.",
+				"Let me dwell in Your love forever more."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je viens vers toi quand je suis abattu.",
+				"Du fond de mon cœur s'élève ma prière.",
+				"Il n'y a qu'en toi que je retrouve l'espoir.",
+				"Du fond de mon cœur je me confie en toi."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ô Dieu, mon roc, mon refuge et ma force,",
+				"Une tour solide en face de l'ennemi,",
+				"Dans la tempête,",
+				"tu étends sur moi tes ailes.",
+				"Je veux chanter, car tu es mon bouclier."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Linda Panci McGowen ; Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Linda Panci McGowen ; Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem806",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

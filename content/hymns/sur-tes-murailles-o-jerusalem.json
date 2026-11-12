@@ -1,0 +1,96 @@
+{
+	"id": "sur-tes-murailles-o-jerusalem",
+	"title": "Sur tes murailles, ô Jérusalem",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "689"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous voulons élever une bannière",
+				"Dans la prière, préparer le chemin,",
+				"Oter les pierres devant nos frères.",
+				"On ne t'appellera plus la ville délaissée,",
+				"Mais on t'appellera",
+				"la bien-aimée ville épousée."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sur tes murailles, ô Jérusalem,",
+				"J'ai posté des gardes.",
+				"Vous, qui priez pour Jérusalem,",
+				"Persévérez, vous qui l'aimez."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les navires de Tarsis voguent en tête,",
+				"Dit le prophète, pour ramener tes fils ;",
+				"Tu les entraînes des terres lointaines.",
+				"Tu les attires à toi pour faire venir le Roi",
+				"Qui régnera bientôt depuis Yerushalaïm."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sur tes murailles, ô Jérusalem,",
+				"J'ai posté des gardes.",
+				"Vous, qui priez pour Jérusalem,",
+				"Persévérez, vous qui l'aimez."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il me montrera la ville:",
+				"« Voici l'épouse, la glorieuse. »",
+				"Elle était pavée d'or,",
+				"Ornée de perles, de pierres précieuses.",
+				"Le nom des douze apôtres",
+				"Était sur ses fondements,",
+				"On lisait sur les portes",
+				"Le nom des tribus d'Israël."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sur tes murailles, ô Jérusalem,",
+				"J'ai posté des gardes.",
+				"Vous, qui priez pour Jérusalem,",
+				"Persévérez, vous qui l'aimez."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Corinne Lafitte",
+			"role": "music"
+		},
+		{
+			"name": "Corinne Lafitte",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem689",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

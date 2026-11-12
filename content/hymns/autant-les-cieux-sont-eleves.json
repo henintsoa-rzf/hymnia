@@ -1,0 +1,55 @@
+{
+	"id": "autant-les-cieux-sont-eleves",
+	"title": "Autant les cieux sont élevés",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "224"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Autant les cieux sont élevés",
+				"au dessus de la terre,",
+				"Autant sa bonté est grande",
+				"pour ceux qui le craignent.",
+				"Autant l'Orient est éloigné de l'Occident,",
+				"Autant il éloigne de nous notre transgression."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Comme un père a compassion",
+				"de ses enfants,",
+				"L'Éternel a compassion",
+				"de ceux qui le craignent.",
+				"Comme un père a compassion",
+				"de ses enfants,",
+				"L'Éternel a compassion",
+				"de ceux qui le craignent."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Serge Ilg",
+			"role": "music"
+		},
+		{
+			"name": "Serge Ilg",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem224",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

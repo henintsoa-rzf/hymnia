@@ -1,0 +1,109 @@
+{
+	"id": "dans-mon-ame-un-beau-soleil-brille",
+	"title": "Dans mon âme un beau soleil brille",
+	"entries": [
+		{
+			"hymnal": "atg",
+			"number": "347"
+		},
+		{
+			"hymnal": "adf",
+			"number": "644"
+		},
+		{
+			"hymnal": "cd",
+			"number": "294"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans mon âme, un beau soleil brille ;",
+				"Son rayon doux et joyeux",
+				"Répand un éclat qui scintille :",
+				"C'est le sourire de Dieu."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel beau soleil dans mon âme !",
+				"Il éclaire, il illumine tout.",
+				"À ses rayons mon cœur s'enflamme,",
+				"Et je vais chantant partout."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mon cœur était plein de ténèbres",
+				"Quand parut un jour nouveau :",
+				"Au loin, fuyez, ombres funèbres,",
+				"Devant un soleil si beau !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel beau soleil dans mon âme !",
+				"Il éclaire, il illumine tout.",
+				"À ses rayons mon cœur s'enflamme,",
+				"Et je vais chantant partout."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O mon cœur, éclate en louanges,",
+				"Pour toi le soleil a lui ;",
+				"Je chanterai comme les anges,",
+				"Célébrant Dieu jour et nuit !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oh ! quel beau soleil dans mon âme !",
+				"Il éclaire, il illumine tout.",
+				"À ses rayons mon cœur s'enflamme,",
+				"Et je vais chantant partout."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Robson Sweney",
+			"role": "music"
+		},
+		{
+			"name": "Gustave Isely",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/atg347",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "JEM — jemaf.fr",
+			"url": "https://jemaf.fr/chant/af644",
+			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/1098",
+			"retrievedAt": "2026-11-11"
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "je-suis-dans-la-joie-jem-1133",
+	"title": "Je suis dans la joie",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "1133"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis dans la joie, une joie immense !",
+				"Je suis dans l’allégresse,",
+				"Car mon Dieu m’a libéré !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis dans la joie, une joie immense !",
+				"Je suis dans l’allégresse,",
+				"Car mon Dieu m’a libéré !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je chanterai de tout cœur",
+				"Les merveilles de Jésus, mon Seigneur !",
+				"Il m’a ôté des ténèbres,",
+				"Il m’a délivré de tout péché !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis dans la joie, une joie immense !",
+				"Je suis dans l’allégresse,",
+				"Car mon Dieu m’a libéré !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Car mon Dieu est fidèle,",
+				"Il ne m’abandonne jamais !",
+				"Je n’ai plus rien à craindre,",
+				"Car mon Dieu m’a libéré !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis dans la joie, une joie immense !",
+				"Je suis dans l’allégresse,",
+				"Car mon Dieu m’a libéré !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je suis dans la joie, une joie immense !",
+				"Je suis dans l’allégresse,",
+				"Car mon Dieu m’a libéré !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Chant de louange africain",
+			"role": "music"
+		},
+		{
+			"name": "Inconnu",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem1133",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,81 @@
+{
+	"id": "nous-nous-prosternons",
+	"title": "Nous nous prosternons",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "958"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous nous prosternons devant ton trône,",
+				"Dieu trois fois saint.",
+				"Et devant ta face nos voix résonnent :",
+				"« Alléluia. »",
+				"Nous nous prosternons devant ton trône,",
+				"Dieu trois fois saint.",
+				"Et devant ta face nos voix résonnent :",
+				"« Alléluia. »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"L'Agneau a vaincu la mort",
+				"Et sa grâce sauve encore."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Nous nous prosternons devant ton trône,",
+				"Dieu trois fois saint.",
+				"Et devant ta face nos voix résonnent :",
+				"« Alléluia. »",
+				"Nous nous prosternons devant ton trône,",
+				"Dieu trois fois saint.",
+				"Et devant ta face nos voix résonnent :",
+				"« Alléluia. »"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"L'Agneau a vaincu la mort",
+				"Et sa grâce sauve encore."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"De nos cœurs remplis d'adoration",
+				"S'élèvent nos chants."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Rolf Schneider",
+			"role": "music"
+		},
+		{
+			"name": "Rolf Schneider",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem958",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,48 @@
+{
+	"id": "je-peux-tout",
+	"title": "Je peux tout",
+	"entries": [
+		{
+			"hymnal": "jem",
+			"number": "912"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Plus grand est celui qui vit en moi",
+				"Que celui qui vit dans le monde.",
+				"Aucune arme forgée contre moi",
+				"Ne peut prospérer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je peux tout en Jésus qui me fortifie.",
+				"Quand je suis faible, je suis fort",
+				"En lui, en Jésus je peux tout."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Luc Dumont",
+			"role": "music"
+		},
+		{
+			"name": "Luc Dumont",
+			"role": "lyrics"
+		}
+	],
+	"source": {
+		"name": "JEM — jemaf.fr",
+		"url": "https://jemaf.fr/chant/jem912",
+		"retrievedAt": "2026-11-11"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

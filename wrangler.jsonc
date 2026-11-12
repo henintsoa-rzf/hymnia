@@ -1,0 +1,11 @@
+// Cloudflare Workers deployment: serves the static build (single-page app) with no Worker code.
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "hymnia-beta",
+	"compatibility_date": "2026-11-01",
+	"assets": {
+		"directory": "./build",
+		// Routes like /collections are not files: serve index.html and let the app route them.
+		"not_found_handling": "single-page-application"
+	}
+}

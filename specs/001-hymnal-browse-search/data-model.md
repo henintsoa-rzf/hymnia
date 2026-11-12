@@ -14,7 +14,7 @@ format is in [contracts/content-schema.md](./contracts/content-schema.md).
 |-------|------|-------|
 | `id` | string | Unique, lowercase slug (`jem`, `adf`, `atg`). Used in URLs. Never changes. |
 | `name` | string | Full name as published ("Ailes de la Foi"). |
-| `abbreviations` | string[] | At least one ("AdF"). Unique across all hymnals once normalised. Used by the number-query parser (FR-004). |
+| `abbreviations` | string[] | At least one ("AdF"). The first is the short code, at most 3 characters. Unique across all hymnals once normalised. Used by the number-query parser (FR-004). |
 | `sortOrder` | integer | Display order in the hymnal list. |
 | `hymnCount` | integer | Computed at build time from published entries (FR-011). Not stored in source files. |
 
@@ -98,7 +98,8 @@ hymnals; in text search it appears once with both references (spec edge cases).
 
 1. Every `entries[].hymnal` matches an existing hymnal.
 2. No two entries share the same hymnal and number.
-3. Hymnal abbreviations are unique after normalisation.
+3. Hymnal abbreviations are unique after normalisation. The first abbreviation is the short
+   code shown in tiles and references: at most 3 characters ("JEM", "AdF", "E21").
 4. Every text field is in Unicode NFC.
 5. Every hymn has at least one section with at least one non-empty line.
 6. Hymns with `rights: unconfirmed` are excluded from the published output, and the build lists

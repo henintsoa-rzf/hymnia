@@ -100,6 +100,12 @@ describe('validation rules from data-model.md', () => {
 		expect(validateContent(raw).errors.join('\n')).toMatch(/abbreviation "a-a".*aa/);
 	});
 
+	it('rule 3b: the first abbreviation has at most 3 characters', async () => {
+		const raw = await validRaw();
+		raw.hymnals.data[1].abbreviations.unshift('Beta');
+		expect(validateContent(raw).errors.join('\n')).toMatch(/at most 3 characters/);
+	});
+
 	it('rule 4: every text field is in Unicode NFC', async () => {
 		const raw = await validRaw();
 		raw.hymns[0].data.title = 'Gloire à Dieu'; // "à" written as a + combining accent

@@ -11,7 +11,7 @@ and two small additions to the import model of feature 002. Base definitions:
 |-------|-------|------|
 | `id` | `evangile21` | Never reused (feature 002, FR-028) |
 | `name` | `Evangile21` | As requested by the maintainer |
-| `abbreviations` | `["Evangile21", "E21"]` | First one is shown in results |
+| `abbreviations` | `["E21", "Evangile21"]` | First one (≤ 3 characters) is shown in tiles and results |
 | `sortOrder` | `10` | After the existing hymnals |
 
 ## Source `evangile21` (import/sources.json)

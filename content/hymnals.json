@@ -44,6 +44,7 @@
 		"id": "ecriture",
 		"name": "Écritures",
 		"abbreviations": [
+			"Écr",
 			"Écritures"
 		],
 		"sortOrder": 8
@@ -52,6 +53,7 @@
 		"id": "psalmodie",
 		"name": "Chorale Psalmodie",
 		"abbreviations": [
+			"CPs",
 			"Psalmodie"
 		],
 		"sortOrder": 9
@@ -60,8 +62,8 @@
 		"id": "evangile21",
 		"name": "Evangile21",
 		"abbreviations": [
-			"Evangile21",
-			"E21"
+			"E21",
+			"Evangile21"
 		],
 		"sortOrder": 10
 	}

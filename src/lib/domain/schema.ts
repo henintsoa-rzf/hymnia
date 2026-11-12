@@ -10,12 +10,24 @@ const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'must be an ISO date (YY
 const slug = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'must be a lowercase slug');
 const text = z.string().min(1);
 
+/** Longest short code (first abbreviation) a hymnal tile can show. */
+export const MAX_SHORT_CODE = 3;
+
 /** Hymnal id: "Unique, lowercase slug (`jem`, `adf`, `atg`). Used in URLs. Never changes." */
 export const HymnalSchema = z.strictObject({
 	id: slug,
 	name: text,
-	/** "At least one". Unique across all hymnals once normalised. */
-	abbreviations: z.array(text).min(1),
+	/**
+	 * "At least one". Unique across all hymnals once normalised. The first one is the short code
+	 * shown in tiles and references ("JEM 12"), so it has at most 3 characters; longer forms
+	 * ("Psalmodie") go after it and still work in search.
+	 */
+	abbreviations: z
+		.array(text)
+		.min(1)
+		.refine((a) => [...a[0].normalize('NFC')].length <= MAX_SHORT_CODE, {
+			message: `the first abbreviation is the short code and has at most ${MAX_SHORT_CODE} characters`
+		}),
 	sortOrder: z.number().int()
 });
 

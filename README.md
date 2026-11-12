@@ -6,7 +6,7 @@ frappe tolérée. Plusieurs recueils, un même chant pouvant figurer dans plusie
 
 C’est une application web installable (PWA) qui fonctionne hors ligne après une première
 visite. Elle est construite avec SvelteKit en mode page unique ; les chants sont des fichiers
-JSON transformés en données statiques et en index de recherche au moment de la construction.
+JSON transformés en données statiques et en index de recherche au moment de la construction. 
 
 ## Démarrer
 

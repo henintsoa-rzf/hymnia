@@ -73,7 +73,7 @@ Réglages.
 | `body`         | Sans    | 16/24               | 400     | Textes, messages                           |
 | `label`        | Sans    | 14/20               | 500     | Boutons, pastilles, libellés               |
 | `caption`      | Sans    | 13/18               | 400     | Métadonnées, extraits courts               |
-| `overline`     | Sans    | 12/16, +0,08 em, capitales | 600 | Titres de section, « Refrain », « Pont » |
+| `overline`     | Sans    | 13/20, +0,01 em, casse de phrase | 600 | Titres de section, « Refrain », « Pont » |
 
 ### 2.3 Espacements, rayons, ombre, mise en page
 

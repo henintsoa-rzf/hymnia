@@ -172,11 +172,10 @@ svg {
 .hy-overline,
 .hb-overline {
 	margin: 0;
-	font-size: 12px;
-	line-height: 16px;
+	font-size: 13px;
+	line-height: 20px;
 	font-weight: 600;
-	letter-spacing: 0.08em;
-	text-transform: uppercase;
+	letter-spacing: 0.01em;
 	color: var(--ink-muted);
 }
 
@@ -336,8 +335,9 @@ svg {
 }
 
 .hb-search:focus-within {
-	outline: 2px solid var(--focus);
-	outline-offset: 2px;
+	/* The field is focused on arrival, so the ring is one quiet 2 px edge, not a doubled frame. */
+	border-color: var(--focus);
+	box-shadow: 0 0 0 1px var(--focus);
 }
 
 .hb-search input {
@@ -893,11 +893,10 @@ mark {
 	margin-bottom: var(--space-1);
 	font-family: var(--font-sans);
 	font-style: normal;
-	font-size: 12px;
-	line-height: 16px;
+	font-size: 13px;
+	line-height: 20px;
 	font-weight: 600;
-	letter-spacing: 0.08em;
-	text-transform: uppercase;
+	letter-spacing: 0.01em;
 	color: var(--rubric);
 }
 

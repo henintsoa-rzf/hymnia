@@ -168,7 +168,12 @@
 	.search__aside {
 		flex: 1 1 260px;
 		min-width: 0;
-		padding-top: 140px;
+		/* Lines the list up with the search field: header (8 + 52) + controls (12). */
+		padding-top: 72px;
+	}
+
+	.search__aside .hb-overline {
+		margin-top: 0;
 	}
 
 	.search__controls {
@@ -188,13 +193,22 @@
 
 	.search__keys {
 		margin-top: 24px;
+		line-height: 24px;
 	}
 
 	kbd {
-		padding: 1px 6px;
+		display: inline-block;
+		min-width: 20px;
+		padding: 0 6px;
 		border: 1px solid var(--line-strong);
+		border-bottom-width: 2px;
 		border-radius: 4px;
+		background: var(--paper-raised);
 		font-family: var(--font-sans);
+		font-size: 12px;
+		line-height: 16px;
+		text-align: center;
+		white-space: nowrap;
 		color: var(--ink);
 	}
 

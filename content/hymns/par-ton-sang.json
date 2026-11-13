@@ -1,0 +1,54 @@
+{
+	"id": "par-ton-sang",
+	"title": "Par ton sang",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "13"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Par ton sang",
+				"Vers toi j'avance",
+				"Ceint de ta puissance",
+				"Fort de ta présence",
+				"À chaque pas",
+				"En ton sang ma délivrance",
+				"Le sceau de ton alliance",
+				"Ma vie, ma révérence",
+				"Devant toi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ni mes craintes ni mes doutes",
+				"Ne détourneront ma foi",
+				"De ta grâce sur ma route",
+				"Et de ton amour pour moi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/757",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

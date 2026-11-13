@@ -1,0 +1,63 @@
+{
+	"id": "tu-me-releves",
+	"title": "Tu me relèves",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "42"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au-dedans de moi",
+				"Mon âme à genoux",
+				"Plus rien que ce choix",
+				"D'être brisé devant toi",
+				"Puique faible et sans recours",
+				"Je t'entends, je vois"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J'entends le vent (je t'entends)",
+				"Je vois des cieux (je te vois)",
+				"À l'horizon des jours, tant d'amour",
+				"Tant de toi",
+				"Ta majesté (tu es Roi)",
+				"Ma dignité (je suis à toi)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu me relèves",
+				"Et tout ce que je suis",
+				"Retrouve en ton Esprit",
+				"La vie, (ta vie)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/791",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,95 @@
+{
+	"id": "entrez-dans-ses-portes",
+	"title": "Entrez dans ses portes",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "27"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous qui soupirez",
+				"Peuple assoiffé",
+				"De son salut",
+				"Tout est accompli",
+				"Tout est en lui",
+				"N'attendez plus"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Entrez dans ses portes",
+				"Célébrez dans ses parvis",
+				"Sa vie est plus forte",
+				"Que les forces ennemies"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans l'obscurité",
+				"La vérité",
+				"Ne faiblit pas",
+				"Tant de tentations",
+				"Tant d'illusions",
+				"Mais Dieu est là"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Entrez dans ses portes",
+				"Célébrez sans ses parvis",
+				"Sa vie est plus forte",
+				"Que les forces ennemies"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Entrez dans ses portes",
+				"Célébrez dans ses parvis",
+				"Chantez dans ses portes",
+				"La salut de Jésus-Christ"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Par ton sacrifice",
+				"Le sang versé",
+				"Crie pour nous",
+				"Fils du Dieu Vivant",
+				"Ressuscité",
+				"Brille en nous"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/774",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

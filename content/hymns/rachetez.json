@@ -1,0 +1,106 @@
+{
+	"id": "rachetez",
+	"title": "Rachetez",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "49"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rachetez tout ce que Dieu nous a donné",
+				"Poussez des cris de joie",
+				"Fêtez enfin ce jour de jubilé",
+				"Louez le Roi des rois"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Car Dieu ne reprend pas",
+				"Les dons que par sa voix",
+				"Son Amour a prodigués",
+				"Il ne se repent pas",
+				"D'avoir tant béni",
+				"Ne revient pas sur ses projets"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cadences ancestrales",
+				"Et ces langues tribales",
+				"Ne seront jamais ouliées",
+				"Nos saintes énergies",
+				"Et nos pas de danse",
+				"Ne seront jamais bridés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rejeter ! Non !",
+				"Racheter ! Oui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Américains naïfs",
+				"Africains émotifs",
+				"Nos points forts parfois se dérivent",
+				"Notre papa sourit",
+				"Dans son indulgence",
+				"Même pour les bavards de France !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Let's dance, let's sing",
+				"Let's bring an offring",
+				"before the King"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Dansez, chantez",
+				"Rachetez tout ce que Dieu nous a donné",
+				"L'ennemi n'a rien créé",
+				"Il a tout volé",
+				"Piraté et déformé,",
+				"Dépouillons ce \"voyou\" !",
+				"Reprenons à genoux",
+				"Ces dons purs et sanctifiés"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "Steve Thompson",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1315",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

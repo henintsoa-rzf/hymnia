@@ -1,0 +1,100 @@
+{
+	"id": "regne-a-l-envers",
+	"title": "Règne à l'envers",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "53"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C'est un règne à l'envers",
+				"Et un monde retourné",
+				"C'est une règle radicale",
+				"C'est fou, c'est dingue, c'est vrai !",
+				"Mais tout doit être changé !",
+				"Quand le ciel épouse la terre,",
+				"Le sublime s'habille en chair,",
+				"Quand le divin rejoint l'humain,",
+				"Le charnel devient le saint,",
+				"Quand l'immuable change d'avis,",
+				"Et l'inchangeable varie,",
+				"Quand l'Éternel mise sur nous...",
+				"Ça me semble un peu...flou...!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Lorsque le maudit bénit",
+				"Et le malade guérit",
+				"Quand le mépris reçoit la vie",
+				"Et l'ennemi devient ami",
+				"Quand le voleur donne ses biens (c'est bien !)",
+				"Et les riches se vantent de rien",
+				"Les têtus font demi-tour",
+				"Et s'adoucissent en son amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand les incrédules croient",
+				"Et les boiteux dansent de joie",
+				"Quand les pauvres sont tous riches",
+				"Et les vieux sautent comme des biches",
+				"Quand le sourd entend des cris",
+				"Et l'athée croit Jésus-Christ",
+				"Quand le fils prodigue revient",
+				"Et l'aveugle voit les siens !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Déséquilibré ? Mais il faut se laisser aller (Allez !)",
+				"Il faut s'habituer, je sais à tourner retourner (OK !)",
+				"Ne t'inquiète pas surtout si t'es désorienté (hop la !)",
+				"C'est tout à fait normal tu sais d'être tout chamboulé,",
+				"Moi aussi j'ai la tête qui tourne dans tous les sens",
+				"Et tous mes anciens repères se perdent, ils s'en balancent (Oh ! la la la !)",
+				"Toutes mes danses font contrecoups partout surtout sur toute la France",
+				"Et tous les coeurs s'éclatent... à la cadence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il y aura bien des gens surpris",
+				"Ceux qui tenaient pour acquis",
+				"Qu'un credo..carré.. suffit",
+				"Pour le Dieu de l'infini",
+				"Dont l'Esprit est comme le vent",
+				"Parfois doux, parfois troublant",
+				"Et dont les voies déstabilisent",
+				"Souvent même son Église !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1319",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

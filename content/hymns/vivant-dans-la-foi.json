@@ -1,0 +1,45 @@
+{
+	"id": "vivant-dans-la-foi",
+	"title": "Vivant dans la foi",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "51"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vivant dans la foi je suis",
+				"Ce n'est plus moi qui vis",
+				"Celui que tu vois",
+				"C'est Jésus-Christ"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus-Christ",
+				"Tu es ma victoire",
+				"Jésus-Christ",
+				"Mon ami, ma gloire"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1317",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

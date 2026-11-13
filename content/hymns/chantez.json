@@ -1,0 +1,84 @@
+{
+	"id": "chantez",
+	"title": "Chantez",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "20"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantez",
+				"Ce que Dieu a fait",
+				"Chantez",
+				"La beauté de sa grâce",
+				"Dansez",
+				"Écoutez son coeur",
+				"Son amour est la source de vie",
+				"Chantez",
+				"Ce que Dieu a fait",
+				"Chantez",
+				"Honorez sa présence",
+				"Dansez",
+				"Écoutez son coeur",
+				"Le Seigneur est la souce de vie",
+				"Le Seigneur est la souce de vie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Saint, saint, saint",
+				"Est le Seigneur",
+				"Son armée remplit les cieux",
+				"Tous les anges à l'unisson",
+				"Louent sa gloire et son Saint Nom"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Son Esprit répand sur nous",
+				"Les torrents de ses bontés",
+				"L'univers à son éclat",
+				"Retentit en cris de joie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantez",
+				"Ce que Dieu a fait",
+				"Chantez",
+				"La beauté de sa grâce",
+				"Dansez",
+				"Écoutez son coeur",
+				"Son amour est la source de vie"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/766",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

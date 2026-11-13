@@ -1,0 +1,73 @@
+{
+	"id": "abba",
+	"title": "Abba",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "23"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Abba-Père",
+				"Nos coeurs t'appelent",
+				"Abba-Père",
+				"Entends tes ailes",
+				"Viens par ta grâce",
+				"Que rien ne remplace",
+				"Viens nous donner la vie",
+				"Dans no faiblesses",
+				"Déploie tes tendresses",
+				"Viens nous donner ta vie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Abba-Papa",
+				"Mon Dieu, mon Père",
+				"Je n'ai que Toi",
+				"Dans mes prières",
+				"Trace ma route",
+				"Efface mes doutes",
+				"Donne à ma foi ta paix",
+				"Calme mon âme",
+				"Ma vie te réclame",
+				"Donne à mon coeur sa paix"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens par ta grâce",
+				"Que rien ne remplace",
+				"Viens nous donner la vie",
+				"Dans nos faiblesses",
+				"Déploie tes tendresses",
+				"Viens nous donner ta vie"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/769",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

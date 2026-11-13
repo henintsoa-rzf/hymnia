@@ -1,0 +1,78 @@
+{
+	"id": "jusqu-au-bout",
+	"title": "Jusqu'au bout",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "36"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Va, crois",
+				"Que la force du Seigneur",
+				"Est avec toi",
+				"Va, si ta route est sur ses pas",
+				"Tu seras, toi",
+				"Messager de son amour",
+				"Et de sa croix",
+				"Va, et ne te retoune pas"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jusqu'au bout",
+				"En son nom",
+				"Nous irons",
+				"Revêtus de lumière",
+				"Jusqu'au bout",
+				"En chantant",
+				"Nous irons",
+				"Jusqu'au bout de la terre"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bats-toi",
+				"Par la force du Seigneur",
+				"Et par la foi, crois",
+				"Que son règne est avec nous",
+				"Ici-bas",
+				"Où l'ennemi",
+				"N'a plus qu'à plier le genou",
+				"Là, où Jésus-Christ nous envoie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jusqu'au bout ... (5x)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/784",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

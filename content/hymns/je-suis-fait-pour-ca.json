@@ -1,0 +1,73 @@
+{
+	"id": "je-suis-fait-pour-ca",
+	"title": "Je suis fait pour ça",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "58"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Contempler ta majesté",
+				"Méditer, émerveillé",
+				"Par ce grand mystère",
+				"Le Roi de l'univers",
+				"Dieu incarné dans la chair.",
+				"Te chercher fidèlement",
+				"Te trouver toujours présent",
+				"Écouter ta voix",
+				"Vivre de ta joie",
+				"Jésus je suis fait pour ça"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des coeurs imparfaits, tu fais",
+				"Ta demeure et ton palais",
+				"Dans ce beau mystère",
+				"Ma vie éphémère",
+				"Devient divin sanctuaire",
+				"Où tes oeuvres se dévoilent",
+				"Se dépeignent sur la toile",
+				"De mes jours de joie",
+				"Qui renaissent en toi",
+				"Jésus je suis fait pour ça."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Porteurs dans ces vases d'argile",
+				"Du bonheur de l'Évangile",
+				"Chacun missionnaire",
+				"Joyeux émissaires",
+				"Messagers de Ta lumière",
+				"Reflets du Ressucité",
+				"Ton amour, tes mains, tes pieds",
+				"Que le monde voit",
+				"Que le monde croit",
+				"Jésus nous sommes faits pour ça."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1324",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

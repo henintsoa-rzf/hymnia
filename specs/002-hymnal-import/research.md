@@ -195,7 +195,7 @@ Added 2026-11-11, after reviewing features 001 and 003.
 
 | Site | Hymnals | Numbering | Credits | Terms of use |
 |------|---------|-----------|---------|--------------|
-| conducteurdelouange.com | `jem` (4 volumes, continuous numbers), `adf`, `cd`. No À Toi la Gloire; Exo has no numbers. | As printed (`#245`) | Names only, no role → `unspecified` | Rights belong to the rights holders; no public use without permission. |
+| conducteurdelouange.com | `jem` (4 volumes, continuous numbers), `adf`, `cd`. No À Toi la Gloire; Exo has no numbers: made-up numbers pinned by site id (feature 005). | As printed (`#245`) | Names only, no role → `unspecified` | Rights belong to the rights holders; no public use without permission. |
 | jemaf.fr | `jem` (1–1200), `adf` (677), `atg` (400) | As printed without prefix (`AF309A` → `309A`) | Roles, from data embedded in the page | « Toute reproduction … ne peut se faire sans l'autorisation de l'éditeur. » |
 | psalmodie.ch | `psalmodie`: 7 concert programmes, 122 songs | **Made up**: 100 per programme, oldest first (e.g. 702) | Labelled lines | No terms; most songs carry a publisher's ©. |
 | ecrituremusique.com | `ecriture`: 32 songs on 3 albums | **Made up**: album blocks 1–12, 13–25, 26–32 | "Paroles et musique" | No terms; "© Écriture Musique" on each song. |

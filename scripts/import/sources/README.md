@@ -32,6 +32,15 @@ Example to copy: `cdl.ts` and `tests/import/adapters/cdl.test.ts`.
 
 Target: under 30 minutes for a site whose pages are already understood (SC-007).
 
+## A hymnal the site does not number
+
+Entries need a number, so give unnumbered songs made-up numbers and **pin** them in a table in
+the adapter, oldest first, so they never move (`EVANGILE21_NUMBERS` in `evangile21.ts`,
+`CDL_PINNED` in `cdl.ts`). A song missing from the table gets the next free number and the
+adapter logs "not pinned yet": add it to the table. On conducteurdelouange.com (Exo), pinned
+ids are always listed, because the site's listing pages overlap and hide some songs
+(specs/005-exo-hymnal).
+
 ## A site that blocks the importer: saved pages
 
 Some sites answer the importer with a challenge page (Cloudflare "Just a moment…", HTTP 403),

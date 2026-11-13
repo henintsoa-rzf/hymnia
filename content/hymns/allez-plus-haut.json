@@ -1,0 +1,71 @@
+{
+	"id": "allez-plus-haut",
+	"title": "Allez plus haut",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "45"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allez plus haut, volez plus loin",
+				"Cherchez d'abord",
+				"Le vent qui va et qui vient",
+				"Osez l'amour, trouvez enfin",
+				"La force et l'élan de sa main"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"On n'a pas de peur à vivre",
+				"Pas l'esprit de crainte en nous",
+				"On a que sa vie à vivre",
+				"Et l'éternité ensemble au bout"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"On n'a pas reçu Le Livre",
+				"Pour le vivre à demi-mot",
+				"On n'a pas envie de vivre",
+				"Qu'un petit morceau,",
+				"o non, non, non"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ça n'est pas la mer à boire",
+				"De chanter le coeur rempli",
+				"De louange et de victoire",
+				"Et de célébrer l'Esprit de Vie"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/795",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

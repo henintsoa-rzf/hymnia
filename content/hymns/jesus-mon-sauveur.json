@@ -1,0 +1,65 @@
+{
+	"id": "jesus-mon-sauveur",
+	"title": "Jésus mon sauveur",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "31"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus mon Sauveur, Ô Jésus",
+				"Élu de mon coeur, mon Jésus"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un seul mot de ta bouche",
+				"Et s'ouvrent",
+				"Les écluses des cieux",
+				"Un seul mot,",
+				"Et ton souffle",
+				"Couvre mon amour de tes voeux"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Rien que toi et toi seul mon Maître",
+				"Rien que toi et j'ai faim",
+				"De l'amour dont je veux renaître",
+				"Et dont j'ai tant besoin"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Plus jamais je ne veux paraître",
+				"Devant toi sans passion",
+				"Apprends-moi je t'en prie, Ô Maître",
+				"Apprends-moi ton pardon"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/779",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

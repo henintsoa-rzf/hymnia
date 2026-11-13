@@ -5,6 +5,10 @@
 		{
 			"hymnal": "jem",
 			"number": "1179"
+		},
+		{
+			"hymnal": "exo",
+			"number": "4"
 		}
 	],
 	"sections": [
@@ -133,5 +137,12 @@
 		"retrievedAt": "2026-11-11"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/706",
+			"retrievedAt": "2026-11-13"
+		}
+	]
 }

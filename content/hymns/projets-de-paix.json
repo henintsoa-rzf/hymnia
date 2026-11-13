@@ -1,0 +1,71 @@
+{
+	"id": "projets-de-paix",
+	"title": "Projets de paix",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "50"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je connais les projets parfaits",
+				"Que mon coeur vous a réservés",
+				"Projets de paix et de bonheur",
+				"De bonté et non de malheur,",
+				"Si vous marchez dans mes voies",
+				"Et ne vous détournez pas",
+				"De la route que j'ai frayée",
+				"Bien étroite mais dégagée",
+				"Pour que vous ne trébuchiez... pas",
+				"Et afin que vous ayez",
+				"La maîtrise de votre Moi",
+				"De l'amour et de la joie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tant d'espoir et de promesses",
+				"Tant de force et de tendresse",
+				"Je répandrai par mes soins",
+				"Si vous les donnez plus loin",
+				"À ce monde que je chéris",
+				"Pour lequel je pleure aussi",
+				"Fruit d'un sublime cépage",
+				"Façonné à mon image"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur la terre vous êtes des rois",
+				"Et vous régnez ici bas",
+				"Que Satan soit bafoué",
+				"J'ai besoin d'un marchepied",
+				"Dans le ciel vous danserez",
+				"Sur des beaux pavés dorés",
+				"Héritiers de l'univers",
+				"Des enfants de la Lumière."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1316",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

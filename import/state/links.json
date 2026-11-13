@@ -28118,5 +28118,605 @@
 		"acceptedFingerprint": "sha256:0b5a9258f37b9a56a1fc352d25df036f7899a349aed1630171f2097b26e8aaf9",
 		"status": "active",
 		"lastSeenAt": "2026-11-12"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "1",
+		"hymnId": "si-tu-veux-le-louer",
+		"url": "https://www.conducteurdelouange.com/698",
+		"acceptedFingerprint": "sha256:ca6aaf110b610ae712508c4e28179dbaa0492e2947cf74839e08ec1f1ad67117",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "2",
+		"hymnId": "tu-es-dieu-exo-2",
+		"url": "https://www.conducteurdelouange.com/704",
+		"acceptedFingerprint": "sha256:faf94e0f1e1f6a1d2345d1a42a63763dc17a9b4c1a214ef3b9878efdea9ae7cc",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "3",
+		"hymnId": "dieu-est-la-source-de-ma-joie",
+		"url": "https://www.conducteurdelouange.com/705",
+		"acceptedFingerprint": "sha256:ce63f7fe47ae72d5b6fb79bb177b254c9f6548fbc125255e07295eae0cf1ce61",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "4",
+		"hymnId": "emmanuel-jem-1179",
+		"url": "https://www.conducteurdelouange.com/706",
+		"acceptedFingerprint": "sha256:58fb1a73f498f164b5bb3e560baf41a06fc260c5550f67b52523cdf72c6ecd85",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "5",
+		"hymnId": "je-veux-n-etre-qu-a-toi",
+		"url": "https://www.conducteurdelouange.com/708",
+		"acceptedFingerprint": "sha256:1bf64b92623ba0c32d14c36e923e3e7b2c651464160eb07b4149a5b35d074e54",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "6",
+		"hymnId": "j-eleve-la-voix",
+		"url": "https://www.conducteurdelouange.com/736",
+		"acceptedFingerprint": "sha256:c30aff235cd05327802f8ddeb100741fc28f5ef8e13eb71a7340f2828cdf1e41",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "7",
+		"hymnId": "toi-et-moi",
+		"url": "https://www.conducteurdelouange.com/751",
+		"acceptedFingerprint": "sha256:5712032cb90fbab3a52c08592bc9a0d4fd4509b6a08fa9640de1d1968412c2bb",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "8",
+		"hymnId": "recreation",
+		"url": "https://www.conducteurdelouange.com/752",
+		"acceptedFingerprint": "sha256:a01beb1812e47deaf01a71bba4f2a2e81dd97945c94b3895964bf195ec7386f8",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "9",
+		"hymnId": "beni-soit-son-saint-nom",
+		"url": "https://www.conducteurdelouange.com/753",
+		"acceptedFingerprint": "sha256:49b881e8f32fad8a6f5f3ace23f576f40ab242d858067c1052b51ef273b148a0",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "10",
+		"hymnId": "abba-pere-exo-10",
+		"url": "https://www.conducteurdelouange.com/754",
+		"acceptedFingerprint": "sha256:029d76ac60f40ad891d44e7c11f6fe26d141b2010e286da5d612f85687c639c5",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "11",
+		"hymnId": "je-jubile-et-je-ris",
+		"url": "https://www.conducteurdelouange.com/755",
+		"acceptedFingerprint": "sha256:b57d37c8ef4aba349829a25ae6c054a30e1874480a492059975e1fd458ebaa67",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "12",
+		"hymnId": "de-mon-seigneur",
+		"url": "https://www.conducteurdelouange.com/756",
+		"acceptedFingerprint": "sha256:8728a81eaf3f308400adb906802df8c9b98ff602770b4a77f1631fc8ea4b83c5",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "13",
+		"hymnId": "par-ton-sang",
+		"url": "https://www.conducteurdelouange.com/757",
+		"acceptedFingerprint": "sha256:2fe43fe0ce8f2664889442979d52201ec16e29f2014336810ba0daffafc770bf",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "14",
+		"hymnId": "viens",
+		"url": "https://www.conducteurdelouange.com/758",
+		"acceptedFingerprint": "sha256:a8df81a5f1f59d2be6bcdc2211544eff1828c209c4237580389385f62926cecd",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "15",
+		"hymnId": "pres-de-toi-exo-15",
+		"url": "https://www.conducteurdelouange.com/759",
+		"acceptedFingerprint": "sha256:6dde3fa3c11ffd805ebdbe3d733810ccdd791236d7422eaeef1d75634cf3aa64",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "16",
+		"hymnId": "l-agneau-de-dieu",
+		"url": "https://www.conducteurdelouange.com/760",
+		"acceptedFingerprint": "sha256:4c0a783f7ddb674aa155451710fa8491d1762c371ff167c4e6fdf0278d5a9fb4",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "17",
+		"hymnId": "debout-exo-17",
+		"url": "https://www.conducteurdelouange.com/762",
+		"acceptedFingerprint": "sha256:92d6fc891e7ca088bf34ff138ac8cf67b7ebe9fdf1c8f7497a43590d723ed16e",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "18",
+		"hymnId": "notre-pere-exo-18",
+		"url": "https://www.conducteurdelouange.com/764",
+		"acceptedFingerprint": "sha256:e6dbb0c471df5c7191e5a6db94dd1751a627844f077d52d7c5aaceda222ea5a4",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "19",
+		"hymnId": "un-seul-dieu-exo-19",
+		"url": "https://www.conducteurdelouange.com/765",
+		"acceptedFingerprint": "sha256:c4608c257f76b93bf9913f2d369608c23277ff98edfb236f6431b3d0c21836ca",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "20",
+		"hymnId": "chantez",
+		"url": "https://www.conducteurdelouange.com/766",
+		"acceptedFingerprint": "sha256:177e0e6f959346b1987b39536e8a371c5fc141f4762d1df2bb1c0ba5720d3c3a",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "21",
+		"hymnId": "celebrez",
+		"url": "https://www.conducteurdelouange.com/767",
+		"acceptedFingerprint": "sha256:06ce25ea56ba312c41421c0b183b849551b3a83e5c52b14b4e2ad0f6477036ff",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "22",
+		"hymnId": "qu-il-en-soit-ainsi",
+		"url": "https://www.conducteurdelouange.com/768",
+		"acceptedFingerprint": "sha256:f819722e6a22c0fea346f25fffe2c77f5bd5fd65ac0c421cdd51a7f34c62cc9f",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "23",
+		"hymnId": "abba",
+		"url": "https://www.conducteurdelouange.com/769",
+		"acceptedFingerprint": "sha256:98d04b1e4bf9e8dc0b7d42054b28674ad647ae29423d4684af4e4105b8216590",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "24",
+		"hymnId": "glorifie-ton-nom-exo-24",
+		"url": "https://www.conducteurdelouange.com/770",
+		"acceptedFingerprint": "sha256:60468754e4f92adbefc261f5e7cde3c406653f082f627266f168c1a35a17e65d",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "25",
+		"hymnId": "pardonne-nous",
+		"url": "https://www.conducteurdelouange.com/771",
+		"acceptedFingerprint": "sha256:7b10d984debedb6c4bdb4b427330af85f08b40b57f249824e5da76c8858fccd1",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "26",
+		"hymnId": "descends-sur-nous",
+		"url": "https://www.conducteurdelouange.com/773",
+		"acceptedFingerprint": "sha256:a896f51090e298b392669b7a7accde3ef49a5976f97e411898da5376afe48f47",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "27",
+		"hymnId": "entrez-dans-ses-portes",
+		"url": "https://www.conducteurdelouange.com/774",
+		"acceptedFingerprint": "sha256:ada53e1371a8bb6ed7f0d9985ad1806e64fcf3c98b6b49e2ce40e9b06e76ce75",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "28",
+		"hymnId": "louez",
+		"url": "https://www.conducteurdelouange.com/776",
+		"acceptedFingerprint": "sha256:1a98f822c560da20fea4054a1f8222573dbf0f633064a762a41b5ccc22757873",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "29",
+		"hymnId": "un-feu-de-joie",
+		"url": "https://www.conducteurdelouange.com/777",
+		"acceptedFingerprint": "sha256:864874e5f708ef3055e1649ea4ab0d1eb11854c314d081aab01844f67895c5e7",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "30",
+		"hymnId": "je-suivrai-mon-seigneur",
+		"url": "https://www.conducteurdelouange.com/778",
+		"acceptedFingerprint": "sha256:9355abef0977a2a3b97e310ad16c063b2b7f467cf9d787bfe302017610368d1b",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "31",
+		"hymnId": "jesus-mon-sauveur",
+		"url": "https://www.conducteurdelouange.com/779",
+		"acceptedFingerprint": "sha256:09f38483b608f52fec9973a76636c46ecb2a546883026fd88752274c934b4c9d",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "32",
+		"hymnId": "attends-le-vent",
+		"url": "https://www.conducteurdelouange.com/780",
+		"acceptedFingerprint": "sha256:9e762499a6f6a49b9d74f99c99e8e2efe339076f744fd5a3ccab05ceaf88c4c0",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "33",
+		"hymnId": "du-sang-de-ton-agneau",
+		"url": "https://www.conducteurdelouange.com/781",
+		"acceptedFingerprint": "sha256:26d33c7643e0a0bcd83926b7a75eff6aee70257e88759201c62745f7ce594172",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "34",
+		"hymnId": "beni-soit-le-pas",
+		"url": "https://www.conducteurdelouange.com/782",
+		"acceptedFingerprint": "sha256:47ab072fd875610f1f79073f24c2e5d39ecddb14ecf60884680d68b1f8675cf3",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "35",
+		"hymnId": "danse-exo-35",
+		"url": "https://www.conducteurdelouange.com/783",
+		"acceptedFingerprint": "sha256:eeed79bcee9c764af46ccec64bde6e6a90c344df4f6dbe386a5bfd5120b41ea3",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "36",
+		"hymnId": "jusqu-au-bout",
+		"url": "https://www.conducteurdelouange.com/784",
+		"acceptedFingerprint": "sha256:1ccef78311591519208b90e3c0020ed728f11d42a0f6f108b5b934b237233b3a",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "37",
+		"hymnId": "a-genoux",
+		"url": "https://www.conducteurdelouange.com/786",
+		"acceptedFingerprint": "sha256:bed128f4bf040cacaeaf9ce4c22660919b8d9c360f631f05c868cd59e8690c4b",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "38",
+		"hymnId": "vivant",
+		"url": "https://www.conducteurdelouange.com/787",
+		"acceptedFingerprint": "sha256:4c0c21f569b8280cced8aaccb82c04eacfcb26451b7ff5bbbf52486c98a1f473",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "39",
+		"hymnId": "oui-je-crois-exo-39",
+		"url": "https://www.conducteurdelouange.com/788",
+		"acceptedFingerprint": "sha256:b8305bb1bb36dfa6983be1acd4cc13fc808050cfb886b5d97c7f3fbc5bf3f074",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "40",
+		"hymnId": "choisissez",
+		"url": "https://www.conducteurdelouange.com/789",
+		"acceptedFingerprint": "sha256:e44a9a156e71d87bfa3c6b4e5178567ca563d263ebbe848e3c7c9e792cb85d71",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "41",
+		"hymnId": "je-servirai-mon-seigneur",
+		"url": "https://www.conducteurdelouange.com/790",
+		"acceptedFingerprint": "sha256:fda21600cc76096051da115fa6a253221605d719af04ad3f941308761f1bb97e",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "42",
+		"hymnId": "tu-me-releves",
+		"url": "https://www.conducteurdelouange.com/791",
+		"acceptedFingerprint": "sha256:81d26dec60dac093039c7147fc97748735ff5e8e185fcf30eafcc48e288e5d91",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "43",
+		"hymnId": "aupres-de-toi",
+		"url": "https://www.conducteurdelouange.com/792",
+		"acceptedFingerprint": "sha256:60d4b4d783ec800273c5354fceee9b1250e877da13a2846429f4756eedcb96f6",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "44",
+		"hymnId": "a-toi-la-gloire",
+		"url": "https://www.conducteurdelouange.com/794",
+		"acceptedFingerprint": "sha256:2849c24d772f93b56ecff8b404365eafaeda1f19249f8faf254513da2065946e",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "45",
+		"hymnId": "allez-plus-haut",
+		"url": "https://www.conducteurdelouange.com/795",
+		"acceptedFingerprint": "sha256:abf20b65ba83582786ed4d5191d6d4de4b456571ead387cc8bfe67f9f55f5d9e",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "46",
+		"hymnId": "akwaba",
+		"url": "https://www.conducteurdelouange.com/1312",
+		"acceptedFingerprint": "sha256:32bae8df3da63079ba90881b8934b4aec9f7c3af8539acb0eba9d4b33a7fc2c5",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "47",
+		"hymnId": "descends-des-cieux",
+		"url": "https://www.conducteurdelouange.com/1313",
+		"acceptedFingerprint": "sha256:2037fa01cccb8d042ad9c63cb777a5c822391ddacae2f147905deea5b11ea834",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "48",
+		"hymnId": "il-n-y-a-qu-a-louer",
+		"url": "https://www.conducteurdelouange.com/1314",
+		"acceptedFingerprint": "sha256:8e853c69908db39bf2190857de8eb06cbaa5e4874cd30dfaf5623efe7dab60df",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "49",
+		"hymnId": "rachetez",
+		"url": "https://www.conducteurdelouange.com/1315",
+		"acceptedFingerprint": "sha256:3c71a479293e9268faadafd09333c09659dd1e487d757401f9983da9911a1c02",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "50",
+		"hymnId": "projets-de-paix",
+		"url": "https://www.conducteurdelouange.com/1316",
+		"acceptedFingerprint": "sha256:b773656f2298456b91365b22470e337ce69154de5a07f5404c5ee30b7714db50",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "51",
+		"hymnId": "vivant-dans-la-foi",
+		"url": "https://www.conducteurdelouange.com/1317",
+		"acceptedFingerprint": "sha256:d12920e78f0ed71ea258c5f56d3a7cffe4e22cb7c4b30d34de080fac134ccf2f",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "52",
+		"hymnId": "siyakudumisa",
+		"url": "https://www.conducteurdelouange.com/1318",
+		"acceptedFingerprint": "sha256:8e2e62cd53a9d7b1d188dc74cc6dfcdcaf0f98690ca629d2ce192b35400b4ff1",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "53",
+		"hymnId": "regne-a-l-envers",
+		"url": "https://www.conducteurdelouange.com/1319",
+		"acceptedFingerprint": "sha256:1220336ae7f9050f976a7b0ae240bf277568b8c3cae7ba14263343dbee18fa08",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "54",
+		"hymnId": "dieu-de-l-impossible-exo-54",
+		"url": "https://www.conducteurdelouange.com/1320",
+		"acceptedFingerprint": "sha256:1385eaabd92aedbd082dcbb384577b3df56101fdc771042b590a24c965fc1606",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "55",
+		"hymnId": "jesus-t-attend",
+		"url": "https://www.conducteurdelouange.com/1321",
+		"acceptedFingerprint": "sha256:07f4448fc745a06b8f9e69b6f74f6d8ef4f9e17411ffd9af0fb312481a8990c5",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "56",
+		"hymnId": "venez-a-la-croix",
+		"url": "https://www.conducteurdelouange.com/1322",
+		"acceptedFingerprint": "sha256:45e3af7430f55e9e2df8cbd954aa2be5c02850f43a2e314bda56e79408e216da",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "57",
+		"hymnId": "jesus-exo-57",
+		"url": "https://www.conducteurdelouange.com/1323",
+		"acceptedFingerprint": "sha256:3a28340ba9262258be8a6f71f800b3545c23ae5731e3b67b9b9bb2129efb7c17",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "58",
+		"hymnId": "je-suis-fait-pour-ca",
+		"url": "https://www.conducteurdelouange.com/1324",
+		"acceptedFingerprint": "sha256:f44de6b8c52be5b51ce33c878f468e87da23d50ac7ebeeea9421bf9ad02d7d00",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "59",
+		"hymnId": "choisis-la-vie",
+		"url": "https://www.conducteurdelouange.com/1325",
+		"acceptedFingerprint": "sha256:0e3b37aa2b1655a86e5ceb72f01e398697081661149ff609ae204442f84ee30a",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "cdl",
+		"hymnal": "exo",
+		"number": "60",
+		"hymnId": "ma-priere-pour-mon-pays",
+		"url": "https://www.conducteurdelouange.com/1326",
+		"acceptedFingerprint": "sha256:7fa8bef4934010a61b7727c9ebdb9fcf9ce9a0c52db7c42522e18223dcda6cf0",
+		"status": "active",
+		"lastSeenAt": "2026-11-13"
 	}
 ]

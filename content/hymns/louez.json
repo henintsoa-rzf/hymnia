@@ -1,0 +1,88 @@
+{
+	"id": "louez",
+	"title": "Louez",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "28"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louez le Dieu de Gloire",
+				"Louez le Roi de Rois",
+				"Louez, que le Fils de Dieu soit loué",
+				"Louez dans la victoire",
+				"Louez à pleine voix",
+				"Louez, que le Fils de Dieu soit loué"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Célébrez sur les montagnes",
+				"Et chantez dans les vallées",
+				"Louez-le dans les campagnes",
+				"Exaltez son Saint nom",
+				"Jusqu'aux cieux"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Proclamez dans sa présence",
+				"Ses faveurs et ses bontés",
+				"Annoncez avec les danses",
+				"Une année de grâce en notre Dieu"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus ! (Jésus !)",
+				"Jésus ! Fils de Dieu ! (Fils de Dieu !)",
+				"Jésus ! (Jésus !)",
+				"Jésus ! Roi des Cieux ! (Roi des Cieux !) (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Louez-le, yeh ! (Louez-le, yeh !)",
+				"Louez-le !",
+				"Que le Fils de Dieu soit loué (bis)",
+				"Louez-le, Jésus ! (Louez-le Jésus !)",
+				"Louez-le !",
+				"Que le Fils de Dieu soit loué",
+				"Louez-le, Jésus ! (Louez-le, Jésus!)",
+				"Louez-le !",
+				"Que le Fils de Dieu soit loué, loué, loué",
+				"Louez-le !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/776",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,107 @@
+{
+	"id": "qu-il-en-soit-ainsi",
+	"title": "Qu'il en soit ainsi",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "22"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu as voulu des enfants unis",
+				"Qu'il en soit ainsi",
+				"Un jardin de paix",
+				"Pour ta famille",
+				"Qu'il en soit ainsi",
+				"Et nous voilà tous ensemble",
+				"Prêts à faire ta volonté",
+				"S'il est vrai qu'on te ressemble",
+				"Donne-nous ta sainteté"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as voulu tes enfants heureux",
+				"Qu'il en soit ainsi",
+				"Un amour sincère",
+				"Au fond des yeux",
+				"Qu'il en soit ainsi",
+				"Nous ne sommes",
+				"Pas capables",
+				"Donne-nous de nous aimer",
+				"Que nos vies soient acceptables",
+				"Selon tes desseins parfaits"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et nous serons enfin",
+				"Ce temple",
+				"Ce palais où tu demeures",
+				"Où ton coeur de Père",
+				"Nous comble de sa grâce",
+				"Et nous serons enfin l'Épouse",
+				"Que ton amour a choisi",
+				"Le parfum de ta vie",
+				"Qu'il en soit ainsi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu as voulu ton trône établi",
+				"Qu'il en soit ainsi",
+				"Et ton règne",
+				"Sur tout le pays",
+				"Qu'il en soit ainsi",
+				"Nous irons dans ta confiance",
+				"Enflammés de ton Esprit",
+				"Proclamer dans ta puissance",
+				"Le salut de Jésus-Christ"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et nous serons enfin",
+				"Ce temple",
+				"Ce palais où tu demeures",
+				"Où ton coeur de Père",
+				"Nous comble de sa grâce",
+				"Et nous serons enfin l'Épouse",
+				"Que ton amour a choisi",
+				"Le parfum de ta vie",
+				"Le parfum de ta vie",
+				"Le parfum de ta vie",
+				"Qu'il en soit ainsi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/768",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

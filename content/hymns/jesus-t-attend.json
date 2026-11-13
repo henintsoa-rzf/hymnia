@@ -1,0 +1,102 @@
+{
+	"id": "jesus-t-attend",
+	"title": "Jésus t'attend",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "55"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus t'attend",
+				"Impatiemment",
+				"Il ne t'en veut pas",
+				"Son sang est là",
+				"Pour te pardonner",
+				"ne tarde plus",
+				"Cours au salut",
+				"Tu peux t'approcher",
+				"Tel que tu es Jésus t'attend"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est venu le Maître",
+				"Pour que ton coeur revive",
+				"Pour que tes rêves renaissent",
+				"Rebaptisés dans l'eau vive !",
+				"Ému et passionné",
+				"Son coeur a réservé",
+				"Une place pour toi",
+				"À la table du Roi",
+				"Tout est là, tout est prêt !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L'univers en attente",
+				"Soupire depuis toujours",
+				"Les anges des cieux s'enchantent",
+				"De ce mystère d'amour",
+				"D'un père qui aime sans relâche",
+				"D'un Fils qui sème sa vie",
+				"Comment rester",
+				"Sourd et blasé",
+				"Quand cet amour t'appelle ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Seigneur te fait la cour",
+				"Ton destin te tend la main",
+				"L'aube brillante accourt",
+				"Relève-toi",
+				"Rallume la foi",
+				"N'hésite pas",
+				"Cours dans ses bras !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus est là !",
+				"Entends sa voix",
+				"Nous emporter",
+				"Nous entraîner",
+				"Dans ce doux refrain !",
+				"L'écho de ses pas",
+				"Les flots de sa joie",
+				"Remplissent ce lieu saint",
+				"Tel un parfum",
+				"Jésus est là",
+				"Jésus t'attend",
+				"Jésus est là",
+				"Jésust t'attend !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1321",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

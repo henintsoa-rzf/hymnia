@@ -1,0 +1,57 @@
+{
+	"id": "aupres-de-toi",
+	"title": "Auprès de toi",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "43"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Auprès de Toi",
+				"Au creux de tes bras",
+				"Rien n'a plus d'importance",
+				"Que le son de ta voix",
+				"Ton Coeur qui bat",
+				"Et le mien qui retrouve un sens",
+				"Sous ton abri où mon coeur revit",
+				"Les merveilles et les mystères",
+				"De ton amour",
+				"Si doux, si fort",
+				"Plus précieux que l'or",
+				"Ô mon berger, je veux rester"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sûr et comblé de ta grâce",
+				"Rien ne pourra m'arracher",
+				"La beauté de ta présence",
+				"Jésus, Jésus"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/792",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,67 @@
+{
+	"id": "un-seul-dieu-exo-19",
+	"title": "Un seul Dieu",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "19"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un seul Dieu, Souverain et Maître",
+				"Au matin de l'humanité",
+				"Au dessus de ce qu'aucun être",
+				"Avant Lui n'avait su toucher",
+				"Un seul mot dans le vide et l'ombre",
+				"Et l'armée de la nuit s'est tue",
+				"Un seul geste a créé le monde",
+				"Un seul cri et la lumière fut"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Exaltons le Dieu de la terre",
+				"Père et Fils et Saint-esprit",
+				"Unissons nos coeurs en prière",
+				"Recevons sa vie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un seul homme habité de gloire",
+				"Rejeté du milieu des siens",
+				"Une seule vie résolue à croire",
+				"Au pouvoir de l'amour divin",
+				"Une seule croix dans le flanc du monde",
+				"Un seul homme a payé le prix",
+				"Un seul cri et la mort s'effondre",
+				"Eli lama sabachthani"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/765",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

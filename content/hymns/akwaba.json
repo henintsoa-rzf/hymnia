@@ -1,0 +1,85 @@
+{
+	"id": "akwaba",
+	"title": "Akwaba",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "46"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Akwaba, Jésus-Christ !",
+				"Akwaba, Saint-Esprit !",
+				"Akwaba, hosanna !",
+				"Akwaba, alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toi qui désaltères par la vie,",
+				"Et arroses la terre jour et nuit",
+				"De la bienveillance de ton coeur",
+				"Et de l'abondance de tes pleurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi dont les paroles nous apaisent,",
+				"Devant qui les vents de conflit se taisent",
+				"Et pour qui les yeux de notre pays",
+				"S'ouvrent aux plans de paix de ton Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Aux nations désunies nous disons :",
+				"\"Vos idolâtries nous décrions",
+				"Mais que le Dieu d'Amour vous secoure",
+				"Que le Prince de Paix vienne régner !\""
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Akwaba, mes enfants !",
+				"Descendants de mon sang",
+				"Akwaba, Race élue,",
+				"Héritiers du salut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Peuple saint, grain divin",
+				"Laisse enfin tes chagrins,",
+				"Danse tes danses chante tes chants",
+				"Joue pour moi sur tes instruments."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1312",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

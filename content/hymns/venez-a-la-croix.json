@@ -1,0 +1,78 @@
+{
+	"id": "venez-a-la-croix",
+	"title": "Venez à la croix",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "56"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Venez à la Croix !",
+				"Le pardon est là,",
+				"Plongez dans le flot",
+				"Du sang de l'Agneau",
+				"Son amour abonde",
+				"Sa paix nous inonde",
+				"D'une joie profond",
+				"Venez à la Croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Venez à La Vie !",
+				"Recevez de Lui",
+				"Le baptême du Père,",
+				"Dans un coeur de chair",
+				"Un esprit nouveau",
+				"Son léger fardeau",
+				"Grâces du Très-Haut",
+				"Venez à La Vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Lavées dans ses rivières",
+				"Portées auprès du Père",
+				"Nos âmes tout entières",
+				"Proclament sa sainteté"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Glorifions Jésus Auteur du salut",
+				"Source de la vie",
+				"Le Messie promis",
+				"Roi de l'univers",
+				"Maître de la terre",
+				"La lumière du Père",
+				"Glorifions Jésus !",
+				"Glorifions Jésus !",
+				"Glorifions Jésus !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1322",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

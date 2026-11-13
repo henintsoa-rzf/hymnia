@@ -1,0 +1,87 @@
+{
+	"id": "vivant",
+	"title": "Vivant",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "38"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Vivant, Dieu vivant",
+				"Il est vivant",
+				"Et si moi je vis",
+				"C'est qu'Il est vivant"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aucun autre Dieu",
+				"Aucune autre loi",
+				"Aucun autre nom que le sien",
+				"Rien de plus que Lui",
+				"Rien de moins que ça",
+				"Il est mon salut, mon seul bien"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Croire en son amour",
+				"Vivre de sa paix",
+				"Chercher le chemin la joie",
+				"Dans le livre saint",
+				"Pour celui qui sait",
+				"Y trouver la vie et la foi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ouvre en moi, l'écho de ta voix",
+				"Souffle-roi, ravive ma foi",
+				"Élevé, dans ta majesté",
+				"Viens régner, Ô Ressuscité"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Vivant (5x)",
+				"Et si moi je vis c'est qu'Il est vivant",
+				"Vivant, Dieu vivant",
+				"Il est vivant",
+				"Et si moi je vis c'est qu'Il est vivant",
+				"Si moi je vis c'est qu'Il est vivant",
+				"Si moi je vis c'est qu'Il est vivant",
+				"Vivant !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/787",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

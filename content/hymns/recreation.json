@@ -1,0 +1,77 @@
+{
+	"id": "recreation",
+	"title": "Recréation",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "8"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au flanc des coteaux",
+				"Des montagnes",
+				"Des plaines, des plateaux,",
+				"Des campagnes",
+				"Tous les arbres des champs",
+				"Tous frappent des mains",
+				"Sans le souci... des lendemains"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Allélu, Allélu, (Alléluia)",
+				"Allélu, Allélu,",
+				"Allélu, Allélu, (Alléluia)",
+				"Alléluia!"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Requins et turbots sous les mers",
+				"Poissons des ruisseaux, des rivières",
+				"La création balance",
+				"Bouge, danse au tempo",
+				"Des vagues et des courants",
+				"Hissez-haut"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Un cheval des oiseaux, des lézards",
+				"Libelulles, crapauds, bizarre!",
+				"Si la vie est partout",
+				"Pourquoi pas vivre",
+				"Jésus-Christ est en nous",
+				"On veut le suivre, le vivre",
+				"Le suivre, le vivre. (3x)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/752",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

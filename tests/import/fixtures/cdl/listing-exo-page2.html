@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Exo - Conducteur de louange</title>
+    <meta name="viewport" content="width&#x3D;device-width,&#x20;initial-scale&#x3D;1,&#x20;shrink-to-fit&#x3D;no">
+<meta http-equiv="X-UA-Compatible" content="IE&#x3D;edge">
+<meta name="copyright" content="www.conducteurdelouange.com">
+<meta name="robots" content="index,follow">
+        <link href="&#x2F;css&#x2F;bootstrap.min.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;style.css&#x3F;11" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;messages.css&#x3F;11" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;conducteur&#x2F;print.css&#x3F;11" media="print" rel="stylesheet" type="text&#x2F;css">
+    <!--[if lt IE 9]><script  src="&#x2F;js&#x2F;html5shiv.min.js"></script><![endif]-->
+<!--[if lt IE 9]><script  src="&#x2F;js&#x2F;respond.min.js"></script><![endif]-->
+<script  src="&#x2F;js&#x2F;jquery-3.0.0.min.js"></script>
+<script  src="&#x2F;js&#x2F;bootstrap.min.js"></script>
+<script  src="&#x2F;js&#x2F;newsletter.js&#x3F;11"></script>
+<script  src="&#x2F;js&#x2F;cart.js&#x3F;11"></script>
+<script  src="&#x2F;js&#x2F;search.js&#x3F;11"></script>
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9110793-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-9110793-1');
+    </script>
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png?v=6948y6OMkA">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png?v=6948y6OMkA">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png?v=6948y6OMkA">
+    <link rel="manifest" href="/favicon/manifest.json?v=6948y6OMkA">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg?v=6948y6OMkA" color="#5bbad5">
+    <link rel="shortcut icon" href="/favicon/favicon.ico?v=6948y6OMkA">
+    <meta name="apple-mobile-web-app-title" content="Conducteur de Louange">
+    <meta name="application-name" content="Conducteur de Louange">
+    <meta name="theme-color" content="#ffffff">
+
+  </head>
+  <body data-base-path="/">
+    <div class="white-background">
+      <div id="container" class="container">
+
+        <div class="row p-l-40 p-r-40">
+          <div id="logo" class="col-lg-6 p-t-20 p-b-20">
+            <a href="/"><img src="/img/logo.png" class="responsive" /></a>
+          </div>
+          <div class="col-lg-6">
+            <div>
+              <section id="session" class="no-print">
+                <span class="session-item">
+                  <span class="glyphicon glyphicon-shopping-cart"></span>
+                  <a href="/panier">Panier</a>
+                  <span class="badge item-count" style="display:none">
+                    <span class="item-count-number">0</span>
+                  </span>
+                </span>
+                                <span class="session-item">
+                  <span class="glyphicon glyphicon-log-in"></span>
+                  <a href="/compte/connexion">Connexion</a>
+                                </span>
+              </section>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="container-fluid">
+
+
+        <div class="navbar navbar-conducteur no-print not-connected" id="nav">
+          <div class="container">
+            <div id="mobile-menu" class="visible-xs-block" onclick="$('.navbar-conducteur .navbar-nav').slideToggle()">
+              <span class="mobile-menu-label">Menu</span>
+              <a href="javascript:void(0);"><span class="  glyphicon glyphicon-menu-hamburger"></span></a>
+            </div>
+            
+            <ul class="nav&#x20;navbar-nav">
+    <li>
+        <a href="&#x2F;">Accueil</a>
+    </li>
+    <li class="active">
+        <a href="&#x2F;chants" aria-current="page">Chants</a>
+    </li>
+    <li>
+        <a href="&#x2F;articles">Articles</a>
+    </li>
+    <li>
+        <a href="&#x2F;produits">Produits</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected&#x20;not-connected&#x20;cart" href="&#x2F;panier">Panier</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected" href="&#x2F;compte">Mon compte</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected" href="&#x2F;programme">Mon programme</a>
+    </li>
+    <li>
+        <a class="phone&#x20;not-connected" href="&#x2F;compte&#x2F;connexion">Connexion</a>
+    </li>
+    <li>
+        <a class="phone&#x20;connected" href="&#x2F;compte&#x2F;deconnexion">Déconnexion</a>
+    </li>
+</ul>    
+              <form class="navbar-form p-0 m-0" method="GET" action="/chants/rechercher">
+              <div class="form-group" style="display:inline;">
+                <div id="search" class="input-group" style="display:table;">
+                  <div id="quick-results"><div id="quick-results-content" class="search-results quick visible-lg"></div></div>
+                  <input type="text" name="parametre" class="form-control" placeholder="Recherche" autocomplete="off" />
+  <span class="input-group-addon" style="width:1%;"><span class="glyphicon glyphicon-search"></span></span>
+                </div>
+              </div>
+            </form>
+
+
+          </div>
+        </div>
+
+      </div>
+      <div class="container">
+
+        <section id="flash-messages">
+          <div class="row p-l-40 p-r-40">
+            <div class="col-xs-12">
+                                                                        </div>
+          </div>
+        </section>
+
+        <div class="row p-l-40 p-r-40 m-b-40">
+  <div class="col-xs-12 search-results">
+    <h2>Recueil : Exo</h2>
+
+  <h3>
+  <span class="glyphicon glyphicon-music"></span>
+    Chants</h3>
+<ul class="version search-results three-columns">
+      <li>
+  <a href="/755">Je jubile et je ris</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/791">Tu me relèves</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/792">Auprès de toi</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/794">À toi la gloire</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/795">Allez plus haut</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/1312">Akwaba</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/1313">Descends des cieux</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/1314">Il n'y a qu'à louer</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/1325">Choisis la vie</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/779">Jésus mon sauveur</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/778">Je suivrai mon Seigneur</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/756">De mon Seigneur</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/757">Par ton sang</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/758">Viens</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/759">Près de toi</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/773">Descends sur nous</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/774">Entrez dans ses portes</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/776">Louez</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/777">Un feu de joie</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+      <li>
+  <a href="/1326">Ma prière pour mon pays</a>
+    <span class="details">
+                                          <span class="source">
+                            Exo                                    </span>
+  </li>
+    </ul>
+
+    <div class="text-center pagination-wrapper">
+  <ul class="pagination">
+    <li class=""><a href="/chants/recueil/6?page=1">&laquo;</a></li>
+    <li class=""><a href="/chants/recueil/6?page=1">&lsaquo;</a></li>
+        <li class=""><a href="/chants/recueil/6?page=1" >1</a></li>
+        <li class="active"><a href="/chants/recueil/6?page=2" >2</a></li>
+        <li class=""><a href="/chants/recueil/6?page=3" >3</a></li>
+        <li class=""><a href="/chants/recueil/6?page=3">&rsaquo;</a></li>
+    <li class=""><a href="/chants/recueil/6?page=3">&raquo;</a></li>
+  </ul>
+</div>
+  </div>
+</div>
+
+
+      </div>
+    </div>
+    <div class="container-fluid dark no-print">
+      <div class="container">
+        <section id="footer">
+          <div class="row p-l-40 p-r-40">
+            <div class="col-md-3 col-sm-4">
+              <h3>Informations</h3>
+              <p><a href="/chants">Chants</a></p>
+              <p><a href="/articles">Articles</a></p>
+              <p><a href="/bible">Bible</a></p>
+              <p><a href="/produits">Produits</a></p>
+            </div>
+            <div class="col-md-3 col-sm-4">
+              <h3>Mon compte</h3>
+              <p><a href="/compte">Mes informations</a></p>
+              <p><a href="/compte/telechargements">Téléchargements</a></p>
+              <p><a href="/panier">Mon panier</a></p>
+              <p><a href="/programme">Mon programme</a></p>
+            </div>
+            <div class="col-md-3 col-sm-4">
+              <h3>Nous joindre</h3>
+              <p class="m-b-0"><a class="social" href="/contacter"><span class="symbol">roundedemail</span> <span class="text">Courriel</span></a></p>
+              <p class="m-b-0"><a class="social" href="http://www.facebook.com/pages/Conducteur-de-louange/233059966712239" target="_blank"><span class="symbol">roundedfacebook</span> <span class="text">Facebook</span></a></p>
+              <p class="m-b-0"><a class="social" href="https://twitter.com/Conduct_Louange" target="_blank"><span class="symbol">roundedtwitter</span> <span class="text">Twitter</span></a></p>
+            </div>
+            <div class="col-md-3 m-b-20 col-sm-12">
+              <h3>Abonnez-vous à notre lettre de nouvelles</h3>
+              <form id="newsletter" method="POST" action="/lettre-de-nouvelles/abonner">
+                <input class="form-control" type="email" name="courriel" placeholder="Courriel"></input>
+              </form>
+            </div>
+          </div>
+        </section>
+
+        <section id="copyright">
+          <div class="row p-l-40 p-r-40 m-t-10 m-b-20">
+            <div class="col-xs-12">
+              <center>&copy; 2026 Conducteurdelouange.com - <a href="/termes-et-conditions">Termes et conditions</a></center>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a18540163750b0012e6b953&product=inline-share-buttons"></script>
+    <script> /* Fix for hastagh sticking after Facebook login. */  if (window.location.href.split('#')[1] == '_=_') { window.location.href = window.location.href.split('#')[0] } </script>
+  </body>
+</html>

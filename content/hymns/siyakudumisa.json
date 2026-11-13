@@ -1,0 +1,59 @@
+{
+	"id": "siyakudumisa",
+	"title": "Siyakudumisa",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "52"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Siyakudumisa",
+				"Siyakudumisa",
+				"Siyakudumisa",
+				"Nkosi yamakhosi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Akekho 'fana nawe",
+				"Akekho 'fana nawe",
+				"Akekho 'fana nawe",
+				"Nkosi yamakhosi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Udumo lonke kuwena",
+				"Udumo lonke kuwena",
+				"Udumo lonke kuwena",
+				"Nkosi yamakhosi",
+				"Sithi hallelujah",
+				"Sithi hallelujah",
+				"Sithi hallelujah",
+				"Hallelujah, hallelujah, hallelujah"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "INCONNU",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1318",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

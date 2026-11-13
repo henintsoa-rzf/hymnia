@@ -1,0 +1,105 @@
+{
+	"id": "glorifie-ton-nom-exo-24",
+	"title": "Glorifie ton nom",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "24"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"N'est-il point d'autre choix",
+				"Devant la coupe",
+				"Que celui de marcher sur cette route",
+				"Ce chemin de douleur",
+				"De peine et de malheur",
+				"N'y a-t-il rien que ce chemin de croix",
+				"Mon âme est dans l'effroi",
+				"Et dans le doute",
+				"Mais je sais",
+				"Que ton coeur de Père écoute",
+				"Chacun de mes soupirs",
+				"Mes peurs et mon désir",
+				"De satisfaire à ta prière en moi"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorifie ton Nom sur cette terre",
+				"Manifeste en moi",
+				"La sainteté de ton pardon",
+				"Je m'abandonne entre tes mains",
+				"Et puisque la vie t'appartient",
+				"Qu'il en soit fait de moi",
+				"Selon les voies de ton amour divin"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Combien de fois pourtant",
+				"J'ai vu ta grâce",
+				"Lorsque je demeurais devant ta face",
+				"Mais là dans ce jardin",
+				"Il ne reste plus rien",
+				"Que le fardeau",
+				"De tous les maux du monde",
+				"Aucun pour partager",
+				"De ma souffrance",
+				"Le sang de l'agonie et de l'absence",
+				"Voici venue mon heure",
+				"Viens soulager mon coeur",
+				"Mon Dieu",
+				"Mon sort est en Toi maintenant"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorifie ton Nom sur cette terre",
+				"Manifeste en moi",
+				"La sainteté de ton pardon",
+				"Je m'abandonne entre tes mains",
+				"Et puisque la vie t'appartient",
+				"Qu'elle soit lumière en moi",
+				"Un chant de joie",
+				"Jusqu'au-delà des temps"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et que le monde voie",
+				"Briller en moi",
+				"La gloire",
+				"Que ta grâce m'a donnée"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/770",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

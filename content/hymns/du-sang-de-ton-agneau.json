@@ -1,0 +1,105 @@
+{
+	"id": "du-sang-de-ton-agneau",
+	"title": "Du sang de ton agneau",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "33"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Envoie ton Esprit saint",
+				"Ton feu d'amour divin",
+				"Déploie ton coeur",
+				"Et viens nous sauver",
+				"Délivre-nous de nous",
+				"Délivre-nous de tout",
+				"Ce qui refuse en nous de t'aimer"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Du sang de ton Agneau",
+				"Déverse en nous le flot",
+				"Des abondantes eaux",
+				"De ton pardon",
+				"Viens inonder nos vies",
+				"Restaure-nous, guéris Ton Église"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Reçois de nous Seigneur",
+				"Le chant de notre coeur",
+				"Du lieu où tu demeures",
+				"Réponds-nous",
+				"Par plus d'amour encore",
+				"Plus puissant et plus fort",
+				"Viens sanctifier ton corps",
+				"Parle-nous"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Du sang de ton Agneau",
+				"Déverse en nous le flot",
+				"Des abondantes eaux",
+				"De ton pardon",
+				"Viens inonder nos vies",
+				"Restaure-nous, guéris notre monde"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Du sang de ton Agneau",
+				"Déverse en nous le flot",
+				"Des abondantes eaux",
+				"De ton pardon",
+				"Viens inonder nos vies",
+				"Restaure-nous, guéris Ton église"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Du sang de ton Agneau",
+				"Déverse en nous le flot",
+				"Des abondantes eaux",
+				"De ton pardon",
+				"Viens inonder nos vies",
+				"Restaure-nous, guéris notre monde",
+				"Seigneur"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/781",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

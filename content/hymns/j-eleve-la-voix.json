@@ -1,0 +1,73 @@
+{
+	"id": "j-eleve-la-voix",
+	"title": "J'élève la voix",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "6"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Longue est la nuit",
+				"Et profond le silence",
+				"Les ténèbres en l'abscence",
+				"De lumière et d'éclat",
+				"De l'ombre à l'oubli",
+				"De la peine à la faute",
+				"À ne croire à rien d'autre",
+				"Qu'à l'effort sans la foi (mais)"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'élève la voix",
+				"Je me lève et je crois",
+				"À la vie qui redonne",
+				"Et le souffle et la force",
+				"Aux élans de ma foi",
+				"Et je marche et je vois",
+				"Un chemin au-delà",
+				"Une étoile au matin",
+				"Et la nuit qui s'en va",
+				"Aux cris de ma joie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans mon coeur tant de cris",
+				"Et mes lèvres se ferment",
+				"Sur des mats qui m'enferment",
+				"Dans le sens qu'ils ont pris",
+				"Et pourtant je sais bien",
+				"Avec l'aube à ma porte",
+				"Et les chants qu'elle m'apporte",
+				"Je saurai le chemin"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/736",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

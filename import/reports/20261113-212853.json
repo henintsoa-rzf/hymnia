@@ -1,0 +1,347 @@
+{
+	"runId": "20261113-212853",
+	"startedAt": "2026-11-13T21:28:53.750Z",
+	"finishedAt": "2026-11-13T21:29:57.244Z",
+	"args": {
+		"source": "cdl",
+		"hymnals": [
+			"exo"
+		],
+		"offline": false,
+		"dryRun": false
+	},
+	"perSource": {
+		"cdl": {
+			"status": "ok",
+			"pages": 60,
+			"failures": 0,
+			"reasons": {}
+		}
+	},
+	"perHymnal": {
+		"exo": {
+			"new": [],
+			"changed": [],
+			"unchanged": [
+				{
+					"number": "1",
+					"hymnId": "si-tu-veux-le-louer",
+					"title": "Si tu veux le louer"
+				},
+				{
+					"number": "2",
+					"hymnId": "tu-es-dieu-exo-2",
+					"title": "Tu es Dieu"
+				},
+				{
+					"number": "3",
+					"hymnId": "dieu-est-la-source-de-ma-joie",
+					"title": "Dieu est la source de ma joie"
+				},
+				{
+					"number": "4",
+					"hymnId": "emmanuel-jem-1179",
+					"title": "Emmanuel"
+				},
+				{
+					"number": "5",
+					"hymnId": "je-veux-n-etre-qu-a-toi",
+					"title": "Je veux n'être qu'à toi"
+				},
+				{
+					"number": "6",
+					"hymnId": "j-eleve-la-voix",
+					"title": "J'élève la voix"
+				},
+				{
+					"number": "7",
+					"hymnId": "toi-et-moi",
+					"title": "Toi et moi"
+				},
+				{
+					"number": "8",
+					"hymnId": "recreation",
+					"title": "Recréation"
+				},
+				{
+					"number": "9",
+					"hymnId": "beni-soit-son-saint-nom",
+					"title": "Béni soit son saint nom"
+				},
+				{
+					"number": "10",
+					"hymnId": "abba-pere-exo-10",
+					"title": "Abba Père"
+				},
+				{
+					"number": "11",
+					"hymnId": "je-jubile-et-je-ris",
+					"title": "Je jubile et je ris"
+				},
+				{
+					"number": "12",
+					"hymnId": "de-mon-seigneur",
+					"title": "De mon Seigneur"
+				},
+				{
+					"number": "13",
+					"hymnId": "par-ton-sang",
+					"title": "Par ton sang"
+				},
+				{
+					"number": "14",
+					"hymnId": "viens",
+					"title": "Viens"
+				},
+				{
+					"number": "15",
+					"hymnId": "pres-de-toi-exo-15",
+					"title": "Près de toi"
+				},
+				{
+					"number": "16",
+					"hymnId": "l-agneau-de-dieu",
+					"title": "L'agneau de Dieu"
+				},
+				{
+					"number": "17",
+					"hymnId": "debout-exo-17",
+					"title": "Debout"
+				},
+				{
+					"number": "18",
+					"hymnId": "notre-pere-exo-18",
+					"title": "Notre Père"
+				},
+				{
+					"number": "19",
+					"hymnId": "un-seul-dieu-exo-19",
+					"title": "Un seul Dieu"
+				},
+				{
+					"number": "20",
+					"hymnId": "chantez",
+					"title": "Chantez"
+				},
+				{
+					"number": "21",
+					"hymnId": "celebrez",
+					"title": "Célébrez"
+				},
+				{
+					"number": "22",
+					"hymnId": "qu-il-en-soit-ainsi",
+					"title": "Qu'il en soit ainsi"
+				},
+				{
+					"number": "23",
+					"hymnId": "abba",
+					"title": "Abba"
+				},
+				{
+					"number": "24",
+					"hymnId": "glorifie-ton-nom-exo-24",
+					"title": "Glorifie ton nom"
+				},
+				{
+					"number": "25",
+					"hymnId": "pardonne-nous",
+					"title": "Pardonne-nous"
+				},
+				{
+					"number": "26",
+					"hymnId": "descends-sur-nous",
+					"title": "Descends sur nous"
+				},
+				{
+					"number": "27",
+					"hymnId": "entrez-dans-ses-portes",
+					"title": "Entrez dans ses portes"
+				},
+				{
+					"number": "28",
+					"hymnId": "louez",
+					"title": "Louez"
+				},
+				{
+					"number": "29",
+					"hymnId": "un-feu-de-joie",
+					"title": "Un feu de joie"
+				},
+				{
+					"number": "30",
+					"hymnId": "je-suivrai-mon-seigneur",
+					"title": "Je suivrai mon Seigneur"
+				},
+				{
+					"number": "31",
+					"hymnId": "jesus-mon-sauveur",
+					"title": "Jésus mon sauveur"
+				},
+				{
+					"number": "32",
+					"hymnId": "attends-le-vent",
+					"title": "Attends le vent"
+				},
+				{
+					"number": "33",
+					"hymnId": "du-sang-de-ton-agneau",
+					"title": "Du sang de ton agneau"
+				},
+				{
+					"number": "34",
+					"hymnId": "beni-soit-le-pas",
+					"title": "Béni soit le pas"
+				},
+				{
+					"number": "35",
+					"hymnId": "danse-exo-35",
+					"title": "Danse"
+				},
+				{
+					"number": "36",
+					"hymnId": "jusqu-au-bout",
+					"title": "Jusqu'au bout"
+				},
+				{
+					"number": "37",
+					"hymnId": "a-genoux",
+					"title": "À genoux"
+				},
+				{
+					"number": "38",
+					"hymnId": "vivant",
+					"title": "Vivant"
+				},
+				{
+					"number": "39",
+					"hymnId": "oui-je-crois-exo-39",
+					"title": "Oui je crois"
+				},
+				{
+					"number": "40",
+					"hymnId": "choisissez",
+					"title": "Choisissez"
+				},
+				{
+					"number": "41",
+					"hymnId": "je-servirai-mon-seigneur",
+					"title": "Je servirai mon Seigneur"
+				},
+				{
+					"number": "42",
+					"hymnId": "tu-me-releves",
+					"title": "Tu me relèves"
+				},
+				{
+					"number": "43",
+					"hymnId": "aupres-de-toi",
+					"title": "Auprès de toi"
+				},
+				{
+					"number": "44",
+					"hymnId": "a-toi-la-gloire",
+					"title": "À toi la gloire"
+				},
+				{
+					"number": "45",
+					"hymnId": "allez-plus-haut",
+					"title": "Allez plus haut"
+				},
+				{
+					"number": "46",
+					"hymnId": "akwaba",
+					"title": "Akwaba"
+				},
+				{
+					"number": "47",
+					"hymnId": "descends-des-cieux",
+					"title": "Descends des cieux"
+				},
+				{
+					"number": "48",
+					"hymnId": "il-n-y-a-qu-a-louer",
+					"title": "Il n'y a qu'à louer"
+				},
+				{
+					"number": "49",
+					"hymnId": "rachetez",
+					"title": "Rachetez"
+				},
+				{
+					"number": "50",
+					"hymnId": "projets-de-paix",
+					"title": "Projets de paix"
+				},
+				{
+					"number": "51",
+					"hymnId": "vivant-dans-la-foi",
+					"title": "Vivant dans la foi"
+				},
+				{
+					"number": "52",
+					"hymnId": "siyakudumisa",
+					"title": "Siyakudumisa"
+				},
+				{
+					"number": "53",
+					"hymnId": "regne-a-l-envers",
+					"title": "Règne à l'envers"
+				},
+				{
+					"number": "54",
+					"hymnId": "dieu-de-l-impossible-exo-54",
+					"title": "Dieu de l'impossible"
+				},
+				{
+					"number": "55",
+					"hymnId": "jesus-t-attend",
+					"title": "Jésus t'attend"
+				},
+				{
+					"number": "56",
+					"hymnId": "venez-a-la-croix",
+					"title": "Venez à la croix"
+				},
+				{
+					"number": "57",
+					"hymnId": "jesus-exo-57",
+					"title": "Jésus"
+				},
+				{
+					"number": "58",
+					"hymnId": "je-suis-fait-pour-ca",
+					"title": "Je suis fait pour ça"
+				},
+				{
+					"number": "59",
+					"hymnId": "choisis-la-vie",
+					"title": "Choisis la vie"
+				},
+				{
+					"number": "60",
+					"hymnId": "ma-priere-pour-mon-pays",
+					"title": "Ma prière pour mon pays"
+				}
+			],
+			"skipped": [],
+			"missing": [],
+			"possibleDuplicates": [],
+			"autoMerged": [],
+			"conflicts": [],
+			"noCredits": [],
+			"rightsInherited": [],
+			"unknownCredits": [],
+			"strippedMarkup": {
+				"section-marker": 7,
+				"chord": 124
+			}
+		}
+	},
+	"rights": {
+		"exo": {
+			"published": 0,
+			"unpublished": 60
+		}
+	}
+}

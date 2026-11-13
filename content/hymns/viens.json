@@ -1,0 +1,75 @@
+{
+	"id": "viens",
+	"title": "Viens",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "14"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens / Viens",
+				"Puisqu'il t'invite à sa table",
+				"Et qu'il t'appelle à ses côtés",
+				"Viens / Viens",
+				"Il suffit d'ouvrir ton âme",
+				"À son amour et sa bonté"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Puisque l'ombre de l'hiver",
+				"Est déjà loin",
+				"Et que le chant de son coeur",
+				"Est en chemin",
+				"Jusqu'au tien"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens / Viens",
+				"Partager le pain de vie",
+				"Avec celui qui t'a créé",
+				"Viens / Viens",
+				"Étancher ta soif au puits",
+				"De son regard et de sa paix"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Plus qu'un souffle avant",
+				"Que naisse l'aube",
+				"Rien ne te perdra",
+				"Si tu laisses l'Esprit-Saint",
+				"Te dire : Viens"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/758",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

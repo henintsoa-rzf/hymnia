@@ -1,0 +1,70 @@
+{
+	"id": "celebrez",
+	"title": "Célébrez",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "21"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Célébrez sa victoire",
+				"Et la joie de son règne",
+				"Célébrez, célébrez",
+				"Célébrez dans l'espoir",
+				"Que sa gloire nous revienne",
+				"Célébrez, célébrez"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Célébrez yeah (x3)",
+				"Célébrez, célébrez Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Célébrez son Esprit",
+				"Exaltez sa présence",
+				"Célébrez, célébrez",
+				"Célébrez aujourd'hui",
+				"Notre sainte espérance",
+				"Célébrez, célébrez."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tant que tout en moi chante",
+				"Et loue son saint Nom",
+				"Je vivrai"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/767",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

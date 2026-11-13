@@ -6,7 +6,8 @@
 		"hymnals": [
 			"jem",
 			"adf",
-			"cd"
+			"cd",
+			"exo"
 		],
 		"minDelayMs": 1000,
 		"terms": {

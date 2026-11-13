@@ -13,19 +13,25 @@ the tests need. Public-domain hymns were chosen where they show the needed struc
 |------|------|----------------|
 | `listing-jem1-page1.html` | `/chants/recueil/1` (J'aime l'Éternel 1, page 1 of 19) | Listing with numbers, pagination |
 | `listing-jem1-page19.html` | `/chants/recueil/1?page=19` | Last listing page (11 items, #361–#371) |
-| `listing-exo.html` | `/chants/recueil/6` (Exo) | Listing **without** numbers: entries skipped |
+| `listing-exo-page1.html` | `/chants/recueil/6` (Exo, page 1 of 3) | Listing **without** numbers (feature 005) |
+| `listing-exo-page2.html` | `/chants/recueil/6?page=2` | Overlaps pages 1 and 3 |
+| `listing-exo-page3.html` | `/chants/recueil/6?page=3` | Last page; the 3 pages hold 60 rows but only 50 distinct songs, while the site has 60 Exo songs (2026-11-13) |
 | `hymn-130.html` | `/130` — JEM 1 #1 | Chorus first, one verse, chorus again |
 | `hymn-7.html` | `/7` — JEM 1 #17 | "Strophe 1"/"Refrain 1" labels; verse number written in the text ("1. …") |
 | `hymn-201.html` | `/201` — JEM 1 #3 | One verse with a blank line inside |
 | `hymn-1411.html` | `/1411` — AdF #1 (Bèze, Bourgeois; public domain) | Three "Couplet", lines split in `chordpro-text` spans, two credited names |
 | `hymn-1413.html` | `/1413` — AdF #3 (Marot, Bourgeois; public domain) | Six verses |
+| `hymn-698.html` | `/698` — Exo "Si tu veux le louer" | Two authors; unnumbered "Couplet" labels; a `(Refrain)` line opening a section (section marker) |
+| `hymn-1320.html` | `/1320` — Exo "Dieu de l'impossible" | One author; "Refrain" (`.chordpro-chorus`) before "Couplet" |
 | `not-a-hymn.html` | `/termes-et-conditions` | Must fail to parse ("no lyrics block") |
 
 ## Page structure (selectors used by `scripts/import/sources/cdl.ts`)
 
 - **Hymnals** (`/chants`): JEM is split in volumes `/chants/recueil/1`, `3`, `5`, `44` with
   continuous numbering (volume 2 starts at #372); AdF is `/chants/recueil/19`, Célébrons Dieu
-  `/chants/recueil/11`, Exo `/chants/recueil/6` (no numbers). À Toi la Gloire is not on the site.
+  `/chants/recueil/11`, Exo `/chants/recueil/6`: no numbers, and its 3 pages overlap
+  (unstable order), so songs are identified by page id and get numbers pinned in `CDL_PINNED`
+  (feature 005). À Toi la Gloire is not on the site.
 - **Listing**: `ul > li` with `a[href="/<id>"]` (title) and `.details .source` ("J'aime
   l'Éternel 1 #20"). 20 items per page; pages are `?page=N`, the last one is in `.pagination`.
 - **Hymn page**: title in the `h2` of the row that holds `section.body`.
@@ -42,3 +48,6 @@ the tests need. Public-domain hymns were chosen where they show the needed struc
 - Apostrophes are straight (`'`) on this site; they are kept as they are.
 - No page with chords visible or without credits was found; tests derive those cases from a
   fixture.
+- A label can also be written as a lyric line: `(Refrain)` as the first `.chordpro-verse` of a
+  "Couplet" block (Exo `/698`). It is read as the section's label (`section-marker`), not as
+  lyrics.

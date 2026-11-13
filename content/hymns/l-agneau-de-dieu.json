@@ -1,0 +1,111 @@
+{
+	"id": "l-agneau-de-dieu",
+	"title": "L'agneau de Dieu",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "16"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Puisque ton coeur",
+				"A connu la misère",
+				"Puisque tes larmes ont coulé",
+				"Puisque pour nous",
+				"Tu t'es donné",
+				"Comment ne pas t'adorer"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Puisque le ciel",
+				"S'est privé de ta gloire",
+				"Puisque le Père a pleuré",
+				"Puisqu'innocent",
+				"Tu t'es livré",
+				"Comment ne pas te louer"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme un sillon de lumière",
+				"Dans le néant de la nuit",
+				"Voici des cieux",
+				"L'Agneau de Dieu",
+				"La Vérité et la Vie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Puisque les mains",
+				"Que les clous ont percées",
+				"N'ont pas cessé de bénir",
+				"Puisque maudit",
+				"Tu as aimé",
+				"Comment ne pas t'adorer"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Puisqu'au-devant",
+				"De la peine à venir",
+				"Tu t'es chargé de ta croix",
+				"Puisqu'avec joie",
+				"Tu l'as portée",
+				"Comment ne pas te louer"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Peuple assoiffé de bonheur",
+				"Quand verras-tu ton sauveur",
+				"Voici des cieux",
+				"L'Agneau de Dieu",
+				"Il est ton libérateur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"À toi le règne",
+				"La puissance et la gloire",
+				"L'adoration qui t'est due",
+				"Prince des cieux",
+				"Messie de Dieu",
+				"Sois exalté ô Jésus"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/760",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

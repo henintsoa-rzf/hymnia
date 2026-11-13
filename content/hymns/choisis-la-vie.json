@@ -1,0 +1,75 @@
+{
+	"id": "choisis-la-vie",
+	"title": "Choisis la vie",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "59"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment s'appelait cette terre",
+				"Quand ta main puissante l'a formée",
+				"Quand tu dessinais toutes ses rivières",
+				"Lorsque tu l'ornais de ta beauté",
+				"Née de ton amour dans l'espérance",
+				"Par ton coeur de Père baptisée",
+				"Dans un océan de joie immense",
+				"Lui as-tu donné un nom secret ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Côte d'Ivoire, ton espoir",
+				"Ton destin t'appelle",
+				"À la vie, à la paix",
+				"À la gloire éternelle",
+				"Tes péchés du passé",
+				"N'entravent en rien ses promesses",
+				"Le voici, Jésus-Christ",
+				"Côte D'Ivoire choisis la Vie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pays de l'amour et de la peine",
+				"Territoire brisé de conflits",
+				"Que le Prince de Paix étende son règne",
+				"Nous apprenne à vivre en harmonie !",
+				"Baoulés, Anyis, Bétés et Mandés",
+				"Tant d'ethnies si belles, si bénies",
+				"Par le Père qui seul peut nous accorder",
+				"Faire de nos nuances une symphonie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour ta volonté je prie,",
+				"Fais de nous une symphonie."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1325",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,63 @@
+{
+	"id": "je-servirai-mon-seigneur",
+	"title": "Je servirai mon Seigneur",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "41"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je servirai mon Seigneur",
+				"Je servirai sa puissance",
+				"Et chaque jour, son amour",
+				"Servira son peuple autour",
+				"Je ferai de ma faiblesse",
+				"L'occasion de son secours",
+				"Et pas à pas, se fera",
+				"Un chemin de vie en moi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un instrument, entre ses mains",
+				"Pour que la voix du Seigneur",
+				"Dans l'écho de mon coeur",
+				"Soit lumière, parole et parfum"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un infini, dans chaque instant",
+				"Dans chaque geste en esprit",
+				"Notre pain d'aujourd'hui",
+				"Notre éclat, notre Roi, notre chant"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/790",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

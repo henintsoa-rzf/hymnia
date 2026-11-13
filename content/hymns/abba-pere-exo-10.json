@@ -1,0 +1,46 @@
+{
+	"id": "abba-pere-exo-10",
+	"title": "Abba Père",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "10"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand le bonheur s'en va-va-va",
+				"Et que je reste là-là-là",
+				"Ton Esprit dit tout bas-bas-bas",
+				"Que tu es mon Papa-pa-pa (2x)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Abba Père (4x)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/754",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,101 @@
+{
+	"id": "un-feu-de-joie",
+	"title": "Un feu de joie",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "29"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un peu de toi sous les étoiles",
+				"Enfants de Roi, armée royale",
+				"Ta descendance est innombrable",
+				"Un océan de grains de sable"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par ta splendeur couronnés",
+				"Nous sommes ton héritage",
+				"Par ton amour colorés",
+				"Nous reflétons ton image"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Un peu de fois sur cette terre",
+				"Au creux de toi, de ta lumière",
+				"En nous vivant un chant de gloire",
+				"L'éclat puissant de la victoire"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Rien ni personne ici-bas",
+				"Ne peut détruire ni reprendre",
+				"Le sacrifice de la croix",
+				"Qu'il nous faut vivre et défendre"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Un feu de joie dans ton Église",
+				"De Malaga jusqu'aux Antilles",
+				"Des Caraïbes jusqu'à la France",
+				"De son Esprit jusqu'à nos danses"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Un feu de joie dans ton Église",
+				"De Malaga jusqu'aux Antilles",
+				"Des Caraïbes jusqu'à la France",
+				"De son Esprit jusqu'à nos danses",
+				"De son Esprit jusqu'à nos danses",
+				"De son Esprit",
+				"Jusqu'à nos danses"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Un feu de joie...(4x)",
+				"Un feu de joie...(2x)",
+				"Un feu de joie"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/777",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

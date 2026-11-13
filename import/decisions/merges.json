@@ -40,5 +40,101 @@
 		"b": "redempteur-adorable-evangile21-18",
 		"decision": "distinct",
 		"date": "2026-11-12"
+	},
+	{
+		"a": "tu-es-dieu",
+		"b": "tu-es-dieu-exo-2",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "tu-es-dieu-exo-2",
+		"b": "tu-es-dieu-jem-1150",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "abba-pere",
+		"b": "abba-pere-exo-10",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "abba-pere-exo-10",
+		"b": "abba-pere-jem-1054",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "abba-pere-exo-10",
+		"b": "abba-pere-jem-372",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "pres-de-toi",
+		"b": "pres-de-toi-exo-15",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "debout",
+		"b": "debout-exo-17",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "notre-pere",
+		"b": "notre-pere-exo-18",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "notre-pere-exo-18",
+		"b": "notre-pere-jem-1132",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "un-seul-dieu",
+		"b": "un-seul-dieu-exo-19",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "glorifie-ton-nom",
+		"b": "glorifie-ton-nom-exo-24",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "danse",
+		"b": "danse-exo-35",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "oui-je-crois",
+		"b": "oui-je-crois-exo-39",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "dieu-de-l-impossible",
+		"b": "dieu-de-l-impossible-exo-54",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "jesus",
+		"b": "jesus-exo-57",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "emmanuel",
+		"b": "emmanuel-jem-1179",
+		"decision": "distinct",
+		"date": "2026-11-13"
 	}
 ]

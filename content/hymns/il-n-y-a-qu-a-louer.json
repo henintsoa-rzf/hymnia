@@ -1,0 +1,87 @@
+{
+	"id": "il-n-y-a-qu-a-louer",
+	"title": "Il n'y a qu'à louer",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "48"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il n'y a qu'à louer",
+				"Il n'y a qu'à chanter",
+				"Et à se vanter de Son nom,",
+				"Pour vivre en vainqueur",
+				"Je dois t'avouer",
+				"Il n'y a qu'à louer le Seigneur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton ennemi te calomnie",
+				"Et il te saoule de ses mensonges",
+				"Il ronge ta foi, mais Dieu est là",
+				"Pour t'enivrer de Son Esprit de Vie",
+				"Il n'y a qu'à louer..."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand le malin",
+				"Croise ton chemin",
+				"Pour bavarder de ton passé",
+				"Il faut sortir son avenir",
+				"Parle-lui du sang de Jésus Christ (Va-t'en Satan !)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ô j'en ai marre",
+				"Que ce vantard",
+				"Nous fasse avaler tous ses maux !\"",
+				"J'en ai assez",
+				"C'est terminé",
+				"Libérons-nous",
+				"Faut lui river le clou !",
+				"Il n'y a qu'à louer..."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pourquoi tu t'affoles,",
+				"Passes ta vie en tôle ?",
+				"En as-tu ras l'bol ?",
+				"Dieu t'a délivré !",
+				"Pourquoi tu t'alarmes ?",
+				"Faut que tu te calmes",
+				"Faut que tu t'empares",
+				"De l'Épée de vérité !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1314",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

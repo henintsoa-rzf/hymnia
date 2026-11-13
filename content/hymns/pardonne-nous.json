@@ -1,0 +1,66 @@
+{
+	"id": "pardonne-nous",
+	"title": "Pardonne-nous",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "25"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour ces regards que l'on détourne",
+				"Devant le mal qui t'a cloué",
+				"Pour ce péché où l'on retourne",
+				"Malgré le sang qui a coulé"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pardonne-nous"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour chaque fois que notre bouche",
+				"A comdamné notre prochain",
+				"Pour chaque fois que l'on se couche",
+				"Sur la colère que l'on retient"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour la violence et pour la haine",
+				"Et pour le droit que l'on méprise",
+				"La vérité que l'on enchaîne",
+				"Et pour le silence de l'Église"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/771",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

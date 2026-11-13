@@ -1,0 +1,107 @@
+{
+	"id": "ma-priere-pour-mon-pays",
+	"title": "Ma prière pour mon pays",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "60"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu très saint et Dieu vivant",
+				"Dieu patient et bienveillant",
+				"Qui ne méprise jamais",
+				"Les coeurs sincères",
+				"Toi qui tends l'oreille souvent",
+				"Au intances de tes enfants",
+				"Et te hâtes d'exaucer",
+				"Ceux qui te vénèrent !",
+				"Toi le Roi et notre Père",
+				"Dont les bras sont grands ouverts",
+				"Ô Seigneur, mon Dieu écoute",
+				"Ma prière pour mon pays !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que les pluies arrivent à temps",
+				"Les averses soient clémentes",
+				"Que le vent de ton Esprit",
+				"Apporte l'abondance",
+				"Des fruits de ton jardin",
+				"Des grâces de ta main.",
+				"Comme la rosée du matin",
+				"Dans ta constance",
+				"Que déborde de ses rivières",
+				"Le pardon qui nous libère",
+				"Que la paix inonde la terre !",
+				"C'est ma prière pour mon pays."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que les sorts soient rejetés",
+				"Que le mal soit dévoilé",
+				"Que tes enfants ne soient jamais",
+				"Jamais complices !",
+				"Que les puissances et les pouvoirs",
+				"S'humilient sous ton regard",
+				"Qu'ils t'honorent, et quils s'emparent De ta justice !",
+				"Qu'ils imitent le Roi Berger",
+				"Qu'ils découvrent et fassent briller",
+				"La gloire de Jésus-Christ !",
+				"Ainsi je prie pour mon pays."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que ton règne vienne enfin",
+				"Apporter son doux parfum",
+				"Et le baume guérissant",
+				"De ton Alliance !",
+				"Que les peuples se bénissent",
+				"Par ton Amour qu'ils s'unissent",
+				"Sous les merveilleux auspices",
+				"De ta Présence !",
+				"Que l'Église reste à genoux !",
+				"Que la Patrie se tienne debout !",
+				"Qu'elle te loue ! Ô Dieu mon Père !",
+				"C'est ma prière pour mon pays."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Que l'Église reste à genoux !",
+				"Que la Patrie se tienne debout !",
+				"Qu'elle te loue ! Ô Dieu mon Père",
+				"C'est ma prière...",
+				"Pour mon pays."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1326",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,83 @@
+{
+	"id": "je-jubile-et-je-ris",
+	"title": "Je jubile et je ris",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "11"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je jubile et je ris quand",
+				"Sa parole est près de moi",
+				"Je jubile et je ris quand",
+				"J'y pense",
+				"Je jubile et je ris quand",
+				"Tout s'allume autour de moi",
+				"Dans les vagues",
+				"Et le vent de sa joie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je jubile et je ris quand",
+				"Son armée danse avec moi",
+				"Je jubile et je ris quand",
+				"J'y pense",
+				"Je jubile et je ris quand",
+				"Tout s'anime autour de moi",
+				"Dans les vagues",
+				"Et le vent de sa joie",
+				"Dans les vagues",
+				"Et le vent de sa joie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et même si les gens",
+				"Se moquent de moi quand",
+				"Mon coeur et ma vie se balancent",
+				"Se balancent au gré de",
+				"Sa toute puissance",
+				"Au coeur de l'enfance je suis"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et même si d'autres",
+				"Se font les apôtres",
+				"Du règne de l'ordre établi",
+				"Mon règne est tout autre",
+				"Je danse et je saute",
+				"Au nom du Seigneur de la vie"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/755",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -17,6 +17,10 @@
 		{
 			"hymnal": "cd",
 			"number": "110"
+		},
+		{
+			"hymnal": "exo",
+			"number": "44"
 		}
 	],
 	"sections": [
@@ -125,6 +129,11 @@
 			"name": "Conducteur de louange — conducteurdelouange.com",
 			"url": "https://www.conducteurdelouange.com/930",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Conducteur de louange — conducteurdelouange.com",
+			"url": "https://www.conducteurdelouange.com/794",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

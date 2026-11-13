@@ -7,10 +7,6 @@
 		"url": "https://www.conducteurdelouange.com/chants/recueil/1?page=19",
 		"retrievedAt": "2026-11-11T17:22:43.435Z"
 	},
-	"listing-exo.html": {
-		"url": "https://www.conducteurdelouange.com/chants/recueil/6",
-		"retrievedAt": "2026-11-11T17:22:38.880Z"
-	},
 	"hymn-130.html": {
 		"url": "https://www.conducteurdelouange.com/130",
 		"retrievedAt": "2026-11-11T17:21:15.183Z"
@@ -34,5 +30,25 @@
 	"not-a-hymn.html": {
 		"url": "https://www.conducteurdelouange.com/termes-et-conditions",
 		"retrievedAt": "2026-11-11T17:20:37.385Z"
+	},
+	"listing-exo-page1.html": {
+		"url": "https://www.conducteurdelouange.com/chants/recueil/6",
+		"retrievedAt": "2026-11-13T21:17:33.508Z"
+	},
+	"listing-exo-page2.html": {
+		"url": "https://www.conducteurdelouange.com/chants/recueil/6?page=2",
+		"retrievedAt": "2026-11-13T21:17:35.001Z"
+	},
+	"listing-exo-page3.html": {
+		"url": "https://www.conducteurdelouange.com/chants/recueil/6?page=3",
+		"retrievedAt": "2026-11-13T21:17:36.506Z"
+	},
+	"hymn-698.html": {
+		"url": "https://www.conducteurdelouange.com/698",
+		"retrievedAt": "2026-11-13T21:17:38.024Z"
+	},
+	"hymn-1320.html": {
+		"url": "https://www.conducteurdelouange.com/1320",
+		"retrievedAt": "2026-11-13T21:17:39.526Z"
 	}
 }

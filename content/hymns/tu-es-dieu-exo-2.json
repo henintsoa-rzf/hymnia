@@ -1,0 +1,75 @@
+{
+	"id": "tu-es-dieu-exo-2",
+	"title": "Tu es Dieu",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "2"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es Dieu au milieu de nos prières",
+				"Roi des cieux, Souverain, Sauveur et Maître.",
+				"Ta présence dans nos vies fait la joie de notre cœur,",
+				"Par le don de ton Esprit viens régner en nous Seigneur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es là dans le cœur de ton Église.",
+				"Au-delà de ces murs qui nous divisent.",
+				"Que les liens de notre amour aient le sceau de ton pardon",
+				"Qu’ils reflètent chaque jour la puissance de ton Nom"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Notre Père que ton règne s’établisse",
+				"Sur la terre que rayonne ta justice.",
+				"Apprends-nous la compassion donne nous d’être avec toi,",
+				"Un flambeau pour les nations dans ta gloire et ton éclat."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Apprends nous la compassion donne nous d’être avec toi,",
+				"Un flambeau pour les nations dans ta gloire et ton éclat.",
+				"Dans ta gloire et ton éclat."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Notre Père que ton règne s’établisse sur la terre. (4x)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/704",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

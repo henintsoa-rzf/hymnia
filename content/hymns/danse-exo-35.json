@@ -1,0 +1,81 @@
+{
+	"id": "danse-exo-35",
+	"title": "Danse",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "35"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À sa voix",
+				"Avançons vers le combat",
+				"Il est Dieu, Il est bon, Il est là",
+				"Et c'est lui qui affermit nos pas",
+				"Par la foi",
+				"Annonçons le Roi des Rois",
+				"Il est Dieu, Il est bon, Il est là",
+				"Et c'est lui qui affermit nos pas"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Danse, danse, danse",
+				"Dans ce lieu où tout s'invente",
+				"Et nous enchante, chante, chante",
+				"À la gloire du Seigneur",
+				"Lance, lance, lance",
+				"Et le cri et la clameur",
+				"Et la cadence, danse, danse",
+				"Dans l'éclat de ton Sauveur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À la croix",
+				"Il a triomphé pour moi",
+				"Il est Dieu, Il est bon, Il est là",
+				"Et c'est lui qui affermit nos pas",
+				"Dans sa joie",
+				"Il nous garde et nous envoie",
+				"Il est Dieu, Il est bon, Il est là",
+				"Et c'est lui qui affermit nos pas"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Vous qui sommeillez",
+				"Ne sommeillez plus, non, non",
+				"Vous qui sommeillez",
+				"Ne sommeillez plus, non, non, non (bis)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/783",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

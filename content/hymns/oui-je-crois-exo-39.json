@@ -1,0 +1,61 @@
+{
+	"id": "oui-je-crois-exo-39",
+	"title": "Oui je crois",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "39"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui je crois, oui je crois en toi",
+				"Et je crois que tu es fidèle et droit",
+				"Par la foi mon coeur proclame",
+				"Avec mon âme",
+				"Que je vis de la vie de l'Esprit en moi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Émervillé par ta beauté",
+				"Mes yeux ont enfin trouvé",
+				"Un chemin de lumière",
+				"Où la terre entière",
+				"Resplendit de ta bonté"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Couronnée d'un ciel étoilé",
+				"Entourée de ta majesté",
+				"La création par ta rédemption",
+				"Reflète ta sainteté"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/788",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

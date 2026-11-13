@@ -1,0 +1,79 @@
+{
+	"id": "dieu-est-la-source-de-ma-joie",
+	"title": "Dieu est la source de ma joie",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "3"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu est la source de ma joie. (4X)",
+				"Je chanterai en tout temps sa bonté,",
+				"Je chanterai en tout temps sa sainteté.",
+				"Je chanterai en tout temps sa beauté,",
+				"Je chanterai en tout temps sa majesté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu est la source de ma joie (4X)",
+				"Je chanterai ses bienfaits à jamais,",
+				"Sa bienveillance et sa paix à tout jamais.",
+				"Je chanterai ses bienfaits à jamais,",
+				"Sa bienveillance et sa paix à tout jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu ! (Dieu !)",
+				"Est ! (Est !)",
+				"La ! (La !)",
+				"Source de ma joie",
+				"Dieu ! (Dieu !)",
+				"Est ! (Est !)",
+				"La ! (La !)",
+				"Source de ma joie",
+				"Dieu est là ! (Dieu est là !)",
+				"Dieu est la",
+				"source de ma joie !",
+				"Dieu ! (Dieu !)",
+				"Est ! (Est !)",
+				"La ! (La !)",
+				"Source de ma joie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu est la source de ma joie (4X)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/705",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,47 @@
+{
+	"id": "pres-de-toi-exo-15",
+	"title": "Près de toi",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "15"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans ta présence",
+				"Dans le silence",
+				"J'entends le vent",
+				"Qui porte ta voix",
+				"Là mon amour t'écoute",
+				"Là, je suis loin",
+				"Loin des mirages d'ici-bas",
+				"Près de toi, Seigneur",
+				"Je veux vivre",
+				"Près de toi, Seigneur",
+				"Je veux vivre",
+				"Près de toi, Seigneur"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/759",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

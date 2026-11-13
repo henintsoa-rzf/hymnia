@@ -1,0 +1,74 @@
+{
+	"id": "toi-et-moi",
+	"title": "Toi et moi",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "7"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toi et moi",
+				"Unis par le don",
+				"De sa vie",
+				"À la croix",
+				"Où la mort",
+				"À perdu sa force",
+				"Et c'est comme ça",
+				"Que je suis libre",
+				"En Jésus-Christ, Wo-o-oh!",
+				"Que je suis libre",
+				"En Jésus-Christ"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le ciel",
+				"Et la terre passeront",
+				"Les larmes",
+				"Et les guerres cesseront",
+				"Mais sa parole",
+				"D'où son amour s'envole",
+				"Oui sa parole",
+				"Restera à jamais"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les hommes",
+				"Et les anges chanteront",
+				"Des louanges",
+				"À sa gloire à l'unison",
+				"En sa présence",
+				"Nous irons par des danses",
+				"Honorer sa puissance",
+				"Et son éclat à jamais."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/751",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,67 @@
+{
+	"id": "jesus-exo-57",
+	"title": "Jésus",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "57"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus",
+				"Jésus",
+				"Jésus",
+				"Jésus"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu m'aimes 4x"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je t'aime 4x"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Maître de ma vie",
+				"Messie promis",
+				"Mon coeur te loue",
+				"Mon Sauveur",
+				"Mon tout"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Jésus..."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/1323",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

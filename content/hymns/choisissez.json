@@ -1,0 +1,54 @@
+{
+	"id": "choisissez",
+	"title": "Choisissez",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "40"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J'ai mis devant vous",
+				"La vie et la mort",
+				"Choisissez, choisissez la vie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Afin que vous viviez",
+				"Vous et vos descendants",
+				"Bénis dans la terre promise",
+				"Vous et vos enfants"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Aimé Yahvé, écoutez sa voix",
+				"Écoutez sa voix",
+				"Semez la paix, récoltez la joie",
+				"Récoltez la joie"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/789",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,63 @@
+{
+	"id": "beni-soit-son-saint-nom",
+	"title": "Béni soit son saint nom",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "9"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tout mon être",
+				"Ô mon Dieu",
+				"Loue ton nom et ta gloire",
+				"De la terre jusqu'aux cieux",
+				"Célébrons sa victoire",
+				"Béni soit son saint nom",
+				"Béni soit son saint nom",
+				"Béni soit son saint nom"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Souviens-toi de ses bienfaits",
+				"Ey abandonne ton fardeau",
+				"L'Éternel est Dieu des Armées",
+				"Il a triomphé du tombeau"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Couronnées de son éclat",
+				"Revêtus de sa sainteté",
+				"Nous exalterons notre roi",
+				"Et nous régnerons à jamais"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/753",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

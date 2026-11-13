@@ -1,0 +1,96 @@
+{
+	"id": "attends-le-vent",
+	"title": "Attends le vent",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "32"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Attends le vent",
+				"Le vent qu'il a promis",
+				"Attends le vent de son Esprit",
+				"Attends, attends",
+				"Attends et obéis",
+				"Attends le vent de son Esprit"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui sait d'où il vient et où il va",
+				"Invisible à nos yeux",
+				"Il nous environne",
+				"Et nous envahit",
+				"De la sainteté de Dieu"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tant d'espoirs et tant de larmes aussi",
+				"Tant de rêve déployés",
+				"Pour si peu de temps",
+				"À chercher vraiment",
+				"La vonlonté du Seigneur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Combien d'heures",
+				"Et d'aubes à écouter",
+				"Combien de jours, de soupirs",
+				"Pour qu'en un instant",
+				"Tout s'éveille au chant",
+				"De l'Esprit de son amour"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Dernier refrain"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Entends le vent",
+				"Le vent qu'il a promis",
+				"Entends le vent de son Esprit",
+				"Entends, entends",
+				"Entends et obéis",
+				"Entends le vent de son Esprit",
+				"Entends le vent de son Esprit",
+				"Entends le vent de son Esprit"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "CHRIS CHRISTENSEN",
+			"role": "unspecified"
+		},
+		{
+			"name": "THIERRY OSTRINI",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/780",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

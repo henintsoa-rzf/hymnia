@@ -1,0 +1,93 @@
+{
+	"id": "a-genoux",
+	"title": "À genoux",
+	"entries": [
+		{
+			"hymnal": "exo",
+			"number": "37"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À genoux devant Toi",
+				"Ton Église attend",
+				"Sans ressource et humblement",
+				"Nous venons à Toi",
+				"Vaines et vides, épuisées",
+				"Dénuées de tout",
+				"Nos vies sans vie",
+				"S'en vont fanées",
+				"Aie pitié de nous"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Entends nos cris, entends nos voix",
+				"Par ton Esprit, révèle-toi",
+				"Entends nos cris, entends nos voix",
+				"Viens Saint Esprit, révèle-toi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"À genoux devant Toi",
+				"Ton épouse étend",
+				"Et son coeur et ses bras",
+				"Ton Église apprend",
+				"Autrement qu'autrefois",
+				"Où nos coeurs de pierre",
+				"Portaient sans toi",
+				"Sans fruit, sans foi",
+				"Un manteau de poussière"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À genoux devant Toi",
+				"Nous voici Seigneur",
+				"Aide-nous... lève toi !",
+				"Viens sauver nos coeurs",
+				"De la nuit",
+				"Sans feu, sans bruit",
+				"Et sans autre secours",
+				"Que celui de croire...",
+				"Au prix de nos vies"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens Saint Esprit, révèle-toi",
+				"Viens Saint Esprit, révèle-toi",
+				"Esprit de vie, révèle-toi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Christensen",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ostrini",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Conducteur de louange — conducteurdelouange.com",
+		"url": "https://www.conducteurdelouange.com/786",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

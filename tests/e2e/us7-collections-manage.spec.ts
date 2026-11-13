@@ -81,6 +81,7 @@ test('5. removing a hymn only affects that collection', async ({ page }) => {
 	]);
 	await page.goto('/repertoire/c1');
 	await page.getByRole('button', { name: 'Retirer « À toi la gloire »' }).click();
+	await page.getByRole('button', { name: 'Retirer', exact: true }).click();
 	await expect(collectionTitles(page)).toHaveText(['C’est un rempart que notre Dieu']);
 	await page.goto('/repertoire/c2');
 	await expect(collectionTitles(page)).toHaveText(['À toi la gloire']);
@@ -99,7 +100,51 @@ test('an entry no longer published shows as unavailable and can be removed', asy
 	await page.goto('/repertoire/c1');
 	await expect(page.locator('ol.collection__list li').first()).toContainText('Chant indisponible');
 	await page.getByRole('button', { name: 'Retirer « Chant indisponible »' }).click();
+	await page.getByRole('button', { name: 'Retirer', exact: true }).click();
 	await expect(collectionTitles(page)).toHaveText(['À toi la gloire']);
+});
+
+test('the cross only marks hymns; several are removed at once after confirming', async ({
+	page
+}) => {
+	await seedCollections(page, [
+		{
+			name: 'Culte',
+			entries: [
+				['ce', '1'],
+				['ce', '2'],
+				['ce', '7']
+			]
+		}
+	]);
+	await page.goto('/repertoire/c1');
+	const confirm = page.getByRole('button', { name: 'Retirer', exact: true });
+	await expect(confirm).toHaveCount(0);
+
+	const first = page.getByRole('button', { name: 'Retirer « À toi la gloire »' });
+	await first.click();
+	await expect(first).toHaveAttribute('aria-pressed', 'true');
+	await expect(collectionTitles(page)).toHaveCount(3);
+	await expect(page.getByRole('group', { name: 'Chants à retirer' })).toContainText(
+		'1 chant sélectionné'
+	);
+
+	// Unmarking, then cancelling, keeps every hymn.
+	await first.click();
+	await expect(confirm).toHaveCount(0);
+	await first.click();
+	await page.getByRole('button', { name: 'Annuler' }).click();
+	await expect(first).toHaveAttribute('aria-pressed', 'false');
+	await expect(collectionTitles(page)).toHaveCount(3);
+
+	await first.click();
+	await page.getByRole('button', { name: 'Retirer « Quel ami fidèle et tendre »' }).click();
+	await expect(page.getByRole('group', { name: 'Chants à retirer' })).toContainText(
+		'2 chants sélectionnés'
+	);
+	await confirm.click();
+	await expect(collectionTitles(page)).toHaveText(['C’est un rempart que notre Dieu']);
+	await expect(confirm).toHaveCount(0);
 });
 
 test('an unknown collection gets a "not found" page', async ({ page }) => {

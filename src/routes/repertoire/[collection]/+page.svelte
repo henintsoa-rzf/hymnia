@@ -27,16 +27,41 @@
 	let ordering = $state(false);
 	let menuOpen = $state(false);
 	let status = $state('');
+	/** Hymns marked with the cross, removed only once the user confirms (`hymnal number` keys). */
+	let marked = $state<string[]>([]);
+
+	const keyOf = (row: ResolvedEntry) => `${row.entry.hymnal} ${row.entry.number}`;
+	const markedRows = $derived(rows.filter((r) => marked.includes(keyOf(r))));
 
 	const label = (row: ResolvedEntry) =>
 		refLabel(row.hymnal?.abbreviations[0] ?? row.entry.hymnal.toUpperCase(), row.entry.number);
 	const titleOf = (row: ResolvedEntry) =>
 		row.hymn ? titleIn(row.hymn, row.entry.hymnal, row.entry.number) : 'Chant indisponible';
 
-	function remove(row: ResolvedEntry) {
+	function toggleMark(row: ResolvedEntry) {
+		const key = keyOf(row);
+		const wasMarked = marked.includes(key);
+		marked = wasMarked ? marked.filter((k) => k !== key) : [...marked, key];
+		status = frenchSpaces(
+			`« ${titleOf(row)} » ${wasMarked ? 'n’est plus sélectionné' : 'sélectionné pour être retiré'}`
+		);
+	}
+
+	function clearMarks() {
+		marked = [];
+		status = 'Sélection annulée';
+	}
+
+	function removeMarked() {
 		if (!collection) return;
-		repertoire.removeEntry(collection.id, row.entry, idOf);
-		status = frenchSpaces(`« ${titleOf(row)} » retiré de la collection`);
+		const removing = markedRows;
+		for (const row of removing) repertoire.removeEntry(collection.id, row.entry, idOf);
+		marked = [];
+		status = frenchSpaces(
+			removing.length === 1
+				? `« ${titleOf(removing[0])} » retiré de la collection`
+				: `${hymnCountLabel(removing.length)} retirés de la collection`
+		);
 	}
 
 	async function move(row: ResolvedEntry, to: number, direction: 'up' | 'down') {
@@ -109,6 +134,7 @@
 									type="button"
 									onclick={() => {
 										menuOpen = false;
+										marked = [];
 										ordering = true;
 									}}>Modifier l’ordre</button
 								>
@@ -167,7 +193,7 @@
 		{:else}
 			<ol class="hb-list collection__list" aria-label="Chants de la collection, dans l’ordre">
 				{#each rows as row, i (`${row.entry.hymnal} ${row.entry.number}`)}
-					<li class="hb-item" data-row={i}>
+					<li class="hb-item" class:is-marked={marked.includes(keyOf(row))} data-row={i}>
 						{#if row.available}
 							<!-- eslint-disable svelte/no-navigation-without-resolve -- hymnInCollectionUrl adds ?collection= to a resolved hymn URL -->
 							<a
@@ -214,17 +240,35 @@
 								<Icon name="down" />
 							</button>
 						{/if}
-						<button
-							type="button"
-							class="hb-icon-btn collection__remove"
-							aria-label={frenchSpaces(`Retirer « ${titleOf(row)} »`)}
-							onclick={() => remove(row)}
-						>
-							<Icon name="close" />
-						</button>
+						{#if !ordering}
+							<button
+								type="button"
+								class="hb-icon-btn collection__remove"
+								aria-label={frenchSpaces(`Retirer « ${titleOf(row)} »`)}
+								aria-pressed={marked.includes(keyOf(row))}
+								onclick={() => toggleMark(row)}
+							>
+								<Icon name="close" />
+							</button>
+						{/if}
 					</li>
 				{/each}
 			</ol>
+		{/if}
+
+		{#if markedRows.length > 0}
+			<div class="hy-toast collection__removal" role="group" aria-label="Chants à retirer">
+				<span
+					>{hymnCountLabel(markedRows.length)}
+					{markedRows.length > 1 ? 'sélectionnés' : 'sélectionné'}</span
+				>
+				<span class="collection__removal-actions">
+					<button type="button" class="hb-btn hb-btn--quiet" onclick={clearMarks}>Annuler</button>
+					<button type="button" class="hb-btn hb-btn--primary" onclick={removeMarked}>
+						Retirer
+					</button>
+				</span>
+			</div>
 		{/if}
 	</div>
 
@@ -304,6 +348,30 @@
 
 	.collection__remove {
 		color: var(--ink-muted);
+	}
+
+	.hb-item.is-marked {
+		background: var(--rubric-soft);
+	}
+
+	.hb-item.is-marked .hb-item__title {
+		text-decoration: line-through;
+		color: var(--ink-muted);
+	}
+
+	.hb-item.is-marked .collection__remove {
+		color: var(--on-rubric);
+		background: var(--rubric);
+	}
+
+	/* Room for the removal bar, so it never hides the last hymn. */
+	.collection:has(.collection__removal) .collection__list {
+		margin-bottom: 96px;
+	}
+
+	.collection__removal-actions {
+		display: flex;
+		gap: 4px;
 	}
 
 	.hb-item .hb-icon-btn:disabled {

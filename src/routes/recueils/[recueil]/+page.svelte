@@ -1,12 +1,14 @@
 <!--
   Hymnal `/recueils/<id>` (T049, FR-012, decisions §6): hymns in number order and a
-  "go to number" field that scrolls to that hymn and highlights it.
+  "go to number" field that scrolls to that hymn and highlights it. A hymnal with parts (JEM
+  volumes, albums, programmes) shows one headed group per part, with links to jump to each.
 -->
 <script lang="ts">
 	import { resolve } from '$app/paths';
 	import Icon from '$lib/components/Icon.svelte';
 	import NotFound from '$lib/components/NotFound.svelte';
 	import { normalizeNumber } from '$lib/domain/numbering';
+	import { groupByPart } from '$lib/domain/parts';
 	import { frenchSpaces, hymnCountLabel, hymnUrl } from '$lib/format';
 	import { tick } from 'svelte';
 
@@ -17,6 +19,11 @@
 	let goMessage = $state('');
 
 	const domId = (number: string) => `n-${normalizeNumber(number)}`;
+
+	const groups = $derived(
+		groupByPart(data.entries, data.hymnal?.parts, ({ entry }) => entry.sortKey)
+	);
+	const hasParts = $derived(groups.some((g) => g.part));
 
 	async function go(event: SubmitEvent) {
 		event.preventDefault();
@@ -78,20 +85,49 @@
 			{#if goMessage}<p class="hymnal__go-message" role="status">{goMessage}</p>{/if}
 		</div>
 
-		<ol class="hb-list hymnal__list" aria-label="Chants du recueil, par numéro">
-			{#each data.entries as { hymn, entry } (entry.number)}
-				<li
-					class="hb-item"
-					class:is-target={target === normalizeNumber(entry.number)}
-					id={domId(entry.number)}
-				>
-					<a class="hb-item__link" href={hymnUrl(hymnal.id, entry.number)}>
-						<span class="hb-item__num">{entry.number}</span>
-						<span class="hb-item__title">{frenchSpaces(entry.title ?? hymn.title)}</span>
-					</a>
-				</li>
+		{#snippet entryList(entries: typeof data.entries, label: string)}
+			<ol class="hb-list hymnal__list" aria-label={label}>
+				{#each entries as { hymn, entry } (entry.number)}
+					<li
+						class="hb-item"
+						class:is-target={target === normalizeNumber(entry.number)}
+						id={domId(entry.number)}
+					>
+						<a class="hb-item__link" href={hymnUrl(hymnal.id, entry.number)}>
+							<span class="hb-item__num">{entry.number}</span>
+							<span class="hb-item__title">{frenchSpaces(entry.title ?? hymn.title)}</span>
+						</a>
+					</li>
+				{/each}
+			</ol>
+		{/snippet}
+
+		{#if hasParts}
+			<nav class="hymnal__parts" aria-label="Parties du recueil">
+				{#each groups as group, i (i)}
+					{#if group.part}
+						<a class="hb-chip" href={`#partie-${i}`}>{group.part.name}</a>
+					{/if}
+				{/each}
+			</nav>
+			{#each groups as group, i (i)}
+				{@const first = group.items[0].entry.number}
+				{@const last = group.items[group.items.length - 1].entry.number}
+				{@const name = group.part?.name ?? 'Autres chants'}
+				<section class="hymnal__part" id={`partie-${i}`} aria-labelledby={`partie-${i}-titre`}>
+					<header class="hymnal__part-head">
+						<h2 class="hymnal__part-name" id={`partie-${i}-titre`}>{frenchSpaces(name)}</h2>
+						<p class="hy-caption">
+							{first === last ? `n°\u00a0${first}` : `n°\u00a0${first}\u202f–\u202f${last}`}
+							· {hymnCountLabel(group.items.length)}
+						</p>
+					</header>
+					{@render entryList(group.items, `${name}, par numéro`)}
+				</section>
 			{/each}
-		</ol>
+		{:else}
+			{@render entryList(data.entries, 'Chants du recueil, par numéro')}
+		{/if}
 	</div>
 {:else}
 	<div class="page">
@@ -143,6 +179,58 @@
 
 	.hymnal__list {
 		border-top: 1px solid var(--line);
+	}
+
+	.hymnal__parts {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
+		padding: 4px 0 8px;
+	}
+
+	.hymnal__parts .hb-chip {
+		text-decoration: none;
+	}
+
+	.hymnal__part {
+		scroll-margin-top: 8px;
+	}
+
+	.hymnal__part + .hymnal__part,
+	.hymnal__parts + .hymnal__part {
+		margin-top: 24px;
+	}
+
+	/* The part name stays at the top while its hymns scroll under it. */
+	.hymnal__part-head {
+		position: sticky;
+		top: 0;
+		z-index: 1;
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		gap: 12px;
+		padding: 12px 0 8px;
+		background: var(--paper);
+		border-bottom: 2px solid var(--rubric);
+	}
+
+	.hymnal__part-name {
+		margin: 0;
+		font-family: var(--font-serif);
+		font-size: 20px;
+		line-height: 26px;
+		font-weight: 500;
+		color: var(--rubric);
+	}
+
+	.hymnal__part-head .hy-caption {
+		flex: none;
+		font-variant-numeric: tabular-nums;
+	}
+
+	.hymnal__part .hymnal__list {
+		border-top: none;
 	}
 
 	.hymnal__list > li {

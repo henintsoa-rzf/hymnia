@@ -28,10 +28,18 @@ changes keep existing files valid.
     "id": "jem",
     "name": "J'aime l'Éternel",
     "abbreviations": ["JEM"],
-    "sortOrder": 1
+    "sortOrder": 1,
+    "parts": [
+      { "name": "JEM 1", "first": 1 },
+      { "name": "JEM 2", "first": 372 }
+    ]
   }
 ]
 ```
+
+`parts` is optional: volumes, albums or programmes, in increasing `first` order. A part holds
+the numbers from its `first` up to the next part's `first`. The hymnal page shows one headed
+group per part.
 
 ## `content/hymns/<hymn-id>.json`
 

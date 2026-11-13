@@ -28,7 +28,19 @@ export const HymnalSchema = z.strictObject({
 		.refine((a) => [...a[0].normalize('NFC')].length <= MAX_SHORT_CODE, {
 			message: `the first abbreviation is the short code and has at most ${MAX_SHORT_CODE} characters`
 		}),
-	sortOrder: z.number().int()
+	sortOrder: z.number().int(),
+	/**
+	 * Optional parts of the hymnal (JEM volumes, albums, concert programmes), shown as headed
+	 * groups on the hymnal page. Part `i` holds the numbers from its `first` up to the next
+	 * part's `first`; listed in increasing `first` order.
+	 */
+	parts: z
+		.array(z.strictObject({ name: text, first: z.number().int().positive() }))
+		.min(1)
+		.refine((p) => p.every((part, i) => i === 0 || part.first > p[i - 1].first), {
+			message: 'parts are listed in increasing `first` order'
+		})
+		.optional()
 });
 
 /** "`verse`, `chorus`, `bridge`, `other`" */
@@ -114,6 +126,7 @@ export const RedirectsSchema = z.record(slug, slug);
 export type Redirects = z.infer<typeof RedirectsSchema>;
 
 export type Hymnal = z.infer<typeof HymnalSchema>;
+export type HymnalPart = NonNullable<Hymnal['parts']>[number];
 export type Section = z.infer<typeof SectionSchema>;
 export type SectionType = z.infer<typeof SectionTypeSchema>;
 export type HymnalEntry = z.infer<typeof HymnalEntrySchema>;

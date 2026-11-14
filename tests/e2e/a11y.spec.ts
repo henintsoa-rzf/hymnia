@@ -81,6 +81,12 @@ for (const colorScheme of ['light', 'dark'] as const) {
 				await page.waitForLoadState('networkidle');
 				await check(url);
 			}
+			// Feature 008: ordering mode (drag handles and muted arrows).
+			await page.goto('/repertoire/c1');
+			await page.getByRole('button', { name: 'Plus d’options' }).click();
+			await page.getByRole('button', { name: 'Modifier l’ordre' }).click();
+			await expect(page.locator('.collection__handle').first()).toBeVisible();
+			await check('/repertoire/c1 (ordre)');
 			// Empty Répertoire is covered by the main test ('/repertoire' without collections).
 			await page.goto('/recueils/ce/1');
 			await page.getByRole('button', { name: 'Ajouter à une collection' }).first().click();

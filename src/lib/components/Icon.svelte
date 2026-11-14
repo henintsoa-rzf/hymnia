@@ -13,7 +13,8 @@
 		| 'more'
 		| 'up'
 		| 'down'
-		| 'external';
+		| 'external'
+		| 'grip';
 </script>
 
 <script lang="ts">
@@ -54,6 +55,16 @@
 		<path d="M6 15l6-6 6 6" />
 	{:else if name === 'down'}
 		<path d="M6 9l6 6 6-6" />
+	{:else if name === 'grip'}
+		<circle cx="9" cy="6" r="1.25" /><circle cx="15" cy="6" r="1.25" /><circle
+			cx="9"
+			cy="12"
+			r="1.25"
+		/><circle cx="15" cy="12" r="1.25" /><circle cx="9" cy="18" r="1.25" /><circle
+			cx="15"
+			cy="18"
+			r="1.25"
+		/>
 	{:else if name === 'external'}
 		<path d="M14 4h6v6M20 4l-9 9" /><path
 			d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"

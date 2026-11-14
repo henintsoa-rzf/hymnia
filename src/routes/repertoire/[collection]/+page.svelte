@@ -1,6 +1,7 @@
 <!--
   One collection `/repertoire/<id>` (feature 003, US1, US2, US4; mockup `Playlist`): its hymns
   in order, "Lire dans l’ordre", "Ajouter des chants", and a menu to rename, reorder or delete.
+  Feature 008: drag-and-drop by the handle in ordering mode; the arrows stay, muted.
 -->
 <script lang="ts">
 	import { goto } from '$app/navigation';
@@ -12,6 +13,7 @@
 	import NotFound from '$lib/components/NotFound.svelte';
 	import { titleIn } from '$lib/domain/titles';
 	import { frenchSpaces, hymnCountLabel, hymnInCollectionUrl, refLabel } from '$lib/format';
+	import { dragReorder } from '$lib/repertoire/drag-reorder';
 	import { hymnIdOf, resolveEntries, type ResolvedEntry } from '$lib/repertoire/resolve';
 	import { repertoire } from '$lib/repertoire/store';
 
@@ -76,6 +78,14 @@
 			? wanted
 			: item?.querySelector<HTMLButtonElement>('[data-move]:not(:disabled)')
 		)?.focus();
+	}
+
+	/** Drop of a dragged row (feature 008): same model call and message as the arrows. */
+	function drop(from: number, to: number) {
+		if (!collection) return;
+		const row = rows[from];
+		repertoire.move(collection.id, from, to);
+		status = frenchSpaces(`« ${titleOf(row)} » déplacé en position ${to + 1}`);
 	}
 
 	function confirmDelete() {
@@ -191,7 +201,11 @@
 		{#if rows.length === 0}
 			<p class="hy-message__text collection__empty">Aucun chant pour l’instant.</p>
 		{:else}
-			<ol class="hb-list collection__list" aria-label="Chants de la collection, dans l’ordre">
+			<ol
+				class="hb-list collection__list"
+				aria-label="Chants de la collection, dans l’ordre"
+				{@attach ordering && dragReorder({ onmove: drop })}
+			>
 				{#each rows as row, i (`${row.entry.hymnal} ${row.entry.number}`)}
 					<li class="hb-item" class:is-marked={marked.includes(keyOf(row))} data-row={i}>
 						{#if row.available}
@@ -221,7 +235,7 @@
 						{#if ordering}
 							<button
 								type="button"
-								class="hb-icon-btn"
+								class="hb-icon-btn collection__move"
 								data-move="up"
 								disabled={i === 0}
 								aria-label={frenchSpaces(`Monter « ${titleOf(row)} »`)}
@@ -231,7 +245,7 @@
 							</button>
 							<button
 								type="button"
-								class="hb-icon-btn"
+								class="hb-icon-btn collection__move"
 								data-move="down"
 								disabled={i === rows.length - 1}
 								aria-label={frenchSpaces(`Descendre « ${titleOf(row)} »`)}
@@ -239,6 +253,7 @@
 							>
 								<Icon name="down" />
 							</button>
+							<span class="collection__handle" aria-hidden="true"><Icon name="grip" /></span>
 						{/if}
 						{#if !ordering}
 							<button
@@ -372,6 +387,49 @@
 	.collection__removal-actions {
 		display: flex;
 		gap: 4px;
+	}
+
+	.collection__move {
+		color: var(--ink-muted);
+	}
+
+	.collection__handle {
+		display: inline-flex;
+		flex: none;
+		align-items: center;
+		justify-content: center;
+		width: var(--tap-target);
+		height: var(--tap-target);
+		color: var(--ink);
+		cursor: grab;
+		touch-action: none;
+		user-select: none;
+		-webkit-user-select: none;
+	}
+
+	.collection__handle :global(svg) {
+		width: 20px;
+		height: 20px;
+		stroke: currentColor;
+		fill: currentColor;
+		stroke-width: 1.5;
+	}
+
+	:global(.collection__list.is-sorting) .collection__handle {
+		cursor: grabbing;
+	}
+
+	:global(.collection__list .hb-item.is-dragging) {
+		position: relative;
+		z-index: 5;
+		background: var(--paper-raised);
+		box-shadow: var(--shadow-float);
+	}
+
+	@media (prefers-reduced-motion: no-preference) {
+		:global(.collection__list.is-sorting .hb-item:not(.is-dragging)) {
+			transition: transform 150ms ease;
+		}
 	}
 
 	.hb-item .hb-icon-btn:disabled {

@@ -70,3 +70,41 @@ test('3. outside a collection, next is the next number of the hymnal', async ({ 
 			.getByRole('link', { name: /Chant suivant : CE 12a/ })
 	).toBeVisible();
 });
+
+// Feature 008, User Story 2: the arrows stay, muted, next to the drag handle.
+test('4. arrows stay, muted, next to the handle, and work with the keyboard', async ({ page }) => {
+	await page.goto('/repertoire/c1');
+	await page.getByRole('button', { name: 'Plus d’options' }).click();
+	await page.getByRole('button', { name: 'Modifier l’ordre' }).click();
+
+	const row = page.locator('ol.collection__list li[data-row="2"]');
+	const order = await row.evaluate((li) =>
+		Array.from(li.children)
+			.filter((el) => el.matches('[data-move], .collection__handle'))
+			.map((el) => (el as HTMLElement).dataset.move ?? 'handle')
+	);
+	expect(order).toEqual(['up', 'down', 'handle']);
+
+	const up = row.locator('[data-move="up"]');
+	const colour = (el: typeof up) => el.evaluate((node) => getComputedStyle(node).color);
+	expect(await colour(up)).not.toBe(await colour(row.locator('.collection__handle')));
+	for (const arrow of [up, row.locator('[data-move="down"]')]) {
+		const box = await arrow.boundingBox();
+		expect(box?.width).toBeGreaterThanOrEqual(44);
+		expect(box?.height).toBeGreaterThanOrEqual(44);
+	}
+
+	// Keyboard only: Tab to « Monter « Douce nuit… » », press Enter twice.
+	const target = page.getByRole('button', { name: /^Monter « Douce nuit/ });
+	for (let i = 0; i < 40 && !(await target.evaluate((el) => el === document.activeElement)); i++) {
+		await page.keyboard.press('Tab');
+	}
+	await expect(target).toBeFocused();
+	await page.keyboard.press('Enter');
+	await page.keyboard.press('Enter');
+	await expect(collectionTitles(page).first()).toHaveText('Douce nuit, sainte nuit');
+	await expect(page.getByRole('button', { name: /^Descendre « Douce nuit/ })).toBeFocused();
+	await expect(page.locator('p.hb-sr[aria-live]')).toHaveText(
+		'« Douce nuit, sainte nuit » déplacé en position 1'
+	);
+});

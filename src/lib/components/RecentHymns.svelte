@@ -11,6 +11,12 @@
 	let { rows, onclear }: { rows: RecentHymn[]; onclear: () => void } = $props();
 
 	const uid = $props.id();
+
+	/** « CE 12a · Cantiques d’exemple ». */
+	const meta = (row: RecentHymn) => {
+		const ref = refLabel(row.hymnalInfo?.abbreviations[0] ?? row.hymnal, row.number);
+		return row.hymnalInfo ? `${ref} · ${row.hymnalInfo.name}` : ref;
+	};
 </script>
 
 {#if rows.length > 0}
@@ -32,13 +38,7 @@
 							<span class="hy-row__title"
 								>{frenchSpaces(titleIn(row.hymn, row.hymnal, row.number))}</span
 							>
-							<span class="hy-row__meta"
-								>{refLabel(
-									row.hymnalInfo?.abbreviations[0] ?? row.hymnal,
-									row.number
-								)}{#if row.hymnalInfo}
-									· {row.hymnalInfo.name}{/if}</span
-							>
+							<span class="hy-row__meta">{meta(row)}</span>
 						</span>
 						<Icon name="forward" />
 					</a>
@@ -51,7 +51,7 @@
 <style>
 	.recent__head {
 		display: flex;
-		align-items: flex-end;
+		align-items: baseline;
 		justify-content: space-between;
 		gap: var(--space-2);
 	}

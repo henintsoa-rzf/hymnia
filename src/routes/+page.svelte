@@ -2,6 +2,9 @@
   Search screen `/` (T036, T050, T061; contracts/routes.md; decisions §4.1).
   The field is focused on load; results come while typing. The query and the hymnal filter are
   kept in the URL (?q=…&recueils=…), so a search can be shared and the back button returns to it.
+  Feature 006: with an empty field, the screen offers the hymns recently opened, recent
+  collections and, on a first visit, example searches, in place of the hymnal list
+  (specs/006-search-start-panel/contracts/ui.md).
 -->
 <script lang="ts">
 	import { goto } from '$app/navigation';

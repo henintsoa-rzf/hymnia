@@ -116,10 +116,10 @@ Single SvelteKit app: `src/`, `tests/` at the repository root. E2E tests run on 
 
 ## Phase 6: Polish & Cross-Cutting Concerns
 
-- [ ] T025 [P] Extend `tests/e2e/a11y.spec.ts`: run axe on `/` in three states — fresh (examples), with history and collections (mobile and 1280 px), and in dark mode — no violations (SC-006, FR-014)
-- [ ] T026 [P] Update the screen comment at the top of `src/routes/+page.svelte` (feature 006: start content replaces the hymnal list) and the `src/lib/history/` file headers to reference `specs/006-search-start-panel/`
-- [ ] T027 Run `npm run check`, `npm run lint`, `npm test`, `npm run test:queries`, `npm run test:e2e`; fix any failure
-- [ ] T028 Walk through `specs/006-search-start-panel/quickstart.md` manual scenarios 1–9 (phone width and desktop, light and dark, private window) and note the result in an « Implementation log » section at the end of this file
+- [X] T025 [P] Extend `tests/e2e/a11y.spec.ts`: run axe on `/` in three states — fresh (examples), with history and collections (mobile and 1280 px), and in dark mode — no violations (SC-006, FR-014)
+- [X] T026 [P] Update the screen comment at the top of `src/routes/+page.svelte` (feature 006: start content replaces the hymnal list) and the `src/lib/history/` file headers to reference `specs/006-search-start-panel/`
+- [X] T027 Run `npm run check`, `npm run lint`, `npm test`, `npm run test:queries`, `npm run test:e2e`; fix any failure
+- [X] T028 Walk through `specs/006-search-start-panel/quickstart.md` manual scenarios 1–9 (phone width and desktop, light and dark, private window) and note the result in an « Implementation log » section at the end of this file
 
 ---
 
@@ -184,3 +184,18 @@ then the page wiring T015 → T018 → T024 one after the other
 - Commit after each task or logical group; keep `main` untouched until the branch is reviewed.
 - History is device-only; never send it anywhere (FR-010).
 - Sample content facts used by the e2e tasks: CE has numbers 1, 2, 3, 5, 7, 8, 12, 12a, 20, 23; HE has 1, 2, 3, 3 bis, 7, 12, 13; 12 hymns in all, all public-domain. The hymn page's next button is labelled « Chant suivant : … ».
+
+## Implementation log
+
+- 2026-11-14 — All tasks done on branch `006-search-start-panel`.
+- `npm run check`: 0 errors, 0 warnings. `npm run lint`: only `README.md` flagged by prettier
+  (not touched by this feature). Unit 214/214, queries 44/44.
+- E2E: 87/87 on the `android` project (Chromium). The `iphone` project (WebKit) cannot start on
+  this machine (missing system libraries, `npx playwright install-deps`); every iPhone test fails
+  at launch, including those of earlier features, so not caused by this change.
+- Found while implementing: lyrics examples need at least 16 letters (research R5); the
+  `hymnHistory` store is named so it is not confused with `window.history`.
+- Visual pass with screenshots at phone and 1280 px, light and dark: fixed a missing space before
+  « · » in the recent hymn rows and the alignment of « Effacer » with its heading.
+- Not checked by hand: a private browsing window on a real device (covered by the e2e test with
+  storage blocked).

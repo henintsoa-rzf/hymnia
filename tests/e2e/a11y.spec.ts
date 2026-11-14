@@ -93,3 +93,30 @@ for (const colorScheme of ['light', 'dark'] as const) {
 		});
 	}
 }
+
+// Feature 006: the search screen's start content. A fresh visit (examples) is covered by the main
+// test ('/'); here, with recent hymns and collections, at phone and desktop width (SC-006).
+for (const colorScheme of ['light', 'dark'] as const) {
+	test(`search start content: no violations, ${colorScheme}`, async ({ page }) => {
+		await page.emulateMedia({ colorScheme });
+		await seedCollections(page, [{ name: 'Culte', entries: [['ce', '1']] }, { name: 'Mariage' }]);
+		for (const url of ['/recueils/ce/1', '/recueils/he/13']) {
+			await page.goto(url);
+			await expect(page.locator('main h1')).toBeVisible();
+		}
+		for (const size of [null, { width: 1280, height: 800 }]) {
+			if (size) await page.setViewportSize(size);
+			await page.goto('/');
+			await page.waitForLoadState('networkidle');
+			await expect(page.getByRole('region', { name: 'Récemment consultés' })).toBeVisible();
+			const { violations } = await new AxeBuilder({ page })
+				.withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa'])
+				.analyze();
+			const label = size ? 'desktop' : 'phone';
+			expect(
+				violations.map((v) => `${label}: ${v.id} (${v.nodes.length}) ${v.help}`),
+				label
+			).toEqual([]);
+		}
+	});
+}

@@ -15,12 +15,14 @@
 	import RecentHymns from '$lib/components/RecentHymns.svelte';
 	import ResultList from '$lib/components/ResultList.svelte';
 	import SearchBox from '$lib/components/SearchBox.svelte';
+	import SearchExamples from '$lib/components/SearchExamples.svelte';
 	import { hymnUrl, refLabel } from '$lib/format';
 	import { recentHymns } from '$lib/history/resolve';
 	import { hymnHistory } from '$lib/history/store';
 	import { prefs } from '$lib/prefs/prefs';
 	import { byUpdatedDesc } from '$lib/repertoire/model';
 	import { repertoire } from '$lib/repertoire/store';
+	import { pickExamples } from '$lib/search/examples';
 	import { getSearchClient } from '$lib/search/session';
 	import type { SearchResponse } from '$lib/search/types';
 
@@ -80,7 +82,19 @@
 	const idle = $derived(!query.trim());
 	const recent = $derived(recentHymns(data.catalog, $hymnHistory));
 	const collections = $derived(byUpdatedDesc($repertoire.collections).slice(0, 3));
+	const examples = $derived(pickExamples(data.catalog));
+	/** Only for a first visit: nothing of the user's own to show yet. */
+	const showExamples = $derived(recent.length === 0 && $repertoire.collections.length === 0);
+	/** « CE 1 » in the help sentence, from the loaded hymnals; no example when there is none. */
+	const numberExample = $derived(
+		examples.find((e) => e.kind === 'number')?.query.replace(' ', '\u00a0')
+	);
 	let announcement = $state('');
+
+	function pickExample(text: string) {
+		query = text;
+		input?.focus();
+	}
 
 	function clearRecent() {
 		hymnHistory.clear();
@@ -139,8 +153,16 @@
 		<div class="search__results">
 			{#if idle}
 				<p class="hy-caption search__help">
-					Tapez un numéro («&#8239;CE&nbsp;12&#8239;»), un titre ou quelques mots des paroles.
+					{#if numberExample}
+						Tapez un numéro («&#8239;{numberExample}&#8239;»), un titre ou quelques mots des
+						paroles.
+					{:else}
+						Tapez un numéro, un titre ou quelques mots des paroles.
+					{/if}
 				</p>
+				{#if showExamples}
+					<SearchExamples {examples} onpick={pickExample} />
+				{/if}
 				<div class="mobile-only">
 					<RecentHymns rows={recent} onclear={clearRecent} />
 					<RecentCollections {collections} />

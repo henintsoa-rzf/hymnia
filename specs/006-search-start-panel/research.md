@@ -62,7 +62,8 @@ reading the existing code (search page, Répertoire store and resolution, hymn p
   2. **Title**: the title of a hymn other than the one above, the first whose title is 2–5
      words long.
   3. **Lyrics**: the first 3 words of the first verse of a third hymn, taken from a line that is
-     not the hymn's title.
+     not the hymn's title and whose 3 words have at least 16 letters (found during
+     implementation: « Je ne manquerai » matched too many hymns to find its own in the top 3).
   If the catalog has fewer than 3 hymns, return what can be made (possibly none); the block is
   hidden when the list is empty.
 - **Rationale**: Always returns results on whatever catalog is loaded (FR-008, SC-005), needs no

@@ -34,8 +34,15 @@ test('"go to number" reports a missing number', async ({ page }) => {
 	await expect(page.getByText('Pas de n° 99 dans ce recueil.')).toBeVisible();
 });
 
-test('with an empty query, the search screen lists the hymnals', async ({ page }) => {
-	await page.goto('/');
-	await expect(page.getByRole('heading', { name: 'Recueils' })).toBeVisible();
-	await expect(page.locator('main .hy-row:visible')).toHaveCount(2);
+// Feature 006 (FR-001, SC-002): the hymnal list lives on the Recueils screen only.
+test('the search screen no longer lists the hymnals', async ({ page }) => {
+	for (const size of [null, { width: 1280, height: 800 }]) {
+		if (size) await page.setViewportSize(size);
+		await page.goto('/');
+		await expect(page.getByRole('searchbox')).toBeVisible();
+		await expect(page.getByRole('heading', { name: 'Recueils' })).toHaveCount(0);
+		await expect(page.locator('main a[href$="/recueils/ce"]')).toHaveCount(0);
+	}
+	await page.goto('/recueils');
+	await expect(page.locator('main .hy-row')).toHaveCount(2);
 });

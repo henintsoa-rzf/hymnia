@@ -20,6 +20,7 @@
 	import { normalizeNumber } from '$lib/domain/numbering';
 	import { titleIn } from '$lib/domain/titles';
 	import { frenchSpaces, hymnalUrl, hymnInCollectionUrl, hymnUrl, refLabel } from '$lib/format';
+	import { hymnHistory } from '$lib/history/store';
 	import { collectionsWith } from '$lib/repertoire/model';
 	import { hymnIdOf, resolveEntries } from '$lib/repertoire/resolve';
 	import { repertoire } from '$lib/repertoire/store';
@@ -46,6 +47,14 @@
 	);
 	const bookmarked = $derived(item ? collectionsWith($repertoire, item, idOf).length : 0);
 	let sheetOpen = $state(false);
+
+	// Feature 006: the hymn shown goes to the top of « Récemment consultés » on the search screen,
+	// whichever way it was reached (search, hymnal, collection, link, previous/next).
+	$effect(() => {
+		const found = data.found;
+		if (found)
+			hymnHistory.record({ hymnal: found.entry.hymnal, number: found.entry.number }, found.hymn.id);
+	});
 
 	/* ---------- reading order: the hymnal, or a collection (?collection=<id>) ---------- */
 

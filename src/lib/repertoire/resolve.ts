@@ -11,7 +11,7 @@
 import type { CatalogApi } from '../data/catalog';
 import type { PublishedHymn, PublishedHymnal } from '../domain/schema';
 import type { CollectionRepair, HymnIdOf, Repair } from './model';
-import type { Collection, CollectionEntry } from './schema';
+import type { Collection, CollectionEntry, HymnRef } from './schema';
 
 export function hymnIdOf(catalog: CatalogApi): HymnIdOf {
 	return (ref) =>
@@ -20,9 +20,9 @@ export function hymnIdOf(catalog: CatalogApi): HymnIdOf {
 			: catalog.getEntry(ref.hymnal, ref.number)?.hymn.id;
 }
 
-export type ResolvedEntry = {
+export type ResolvedEntry<E extends HymnRef = CollectionEntry> = {
 	/** The entry as it should be shown and linked (with any repair applied). */
-	entry: CollectionEntry;
+	entry: E;
 	index: number;
 	hymn?: PublishedHymn;
 	hymnal?: PublishedHymnal;
@@ -31,9 +31,17 @@ export type ResolvedEntry = {
 	repair?: Repair;
 };
 
-function resolveOne(catalog: CatalogApi, entry: CollectionEntry, index: number): ResolvedEntry {
+/**
+ * Resolves one stored reference (a collection entry, or a history entry in feature 006). The
+ * entry keeps its other fields; only `hymnal`, `number` and `hymnId` may change.
+ */
+export function resolveEntry<E extends HymnRef>(
+	catalog: CatalogApi,
+	entry: E,
+	index = 0
+): ResolvedEntry<E> {
 	const byRef = catalog.getEntry(entry.hymnal, entry.number);
-	const result = (e: CollectionEntry, hymn?: PublishedHymn, repair?: Repair): ResolvedEntry => ({
+	const result = (e: E, hymn?: PublishedHymn, repair?: Repair): ResolvedEntry<E> => ({
 		entry: e,
 		index,
 		hymn,
@@ -68,7 +76,7 @@ function resolveOne(catalog: CatalogApi, entry: CollectionEntry, index: number):
 }
 
 export function resolveEntries(catalog: CatalogApi, collection: Collection): ResolvedEntry[] {
-	return collection.entries.map((entry, index) => resolveOne(catalog, entry, index));
+	return collection.entries.map((entry, index) => resolveEntry(catalog, entry, index));
 }
 
 /** Every repair needed across the Répertoire, for one save (`applyRepairs`). */

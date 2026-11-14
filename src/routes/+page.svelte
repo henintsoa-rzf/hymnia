@@ -10,11 +10,13 @@
 	import { untrack } from 'svelte';
 	import { get } from 'svelte/store';
 	import HymnalFilter from '$lib/components/HymnalFilter.svelte';
-	import HymnalList from '$lib/components/HymnalList.svelte';
 	import Icon from '$lib/components/Icon.svelte';
+	import RecentHymns from '$lib/components/RecentHymns.svelte';
 	import ResultList from '$lib/components/ResultList.svelte';
 	import SearchBox from '$lib/components/SearchBox.svelte';
 	import { hymnUrl, refLabel } from '$lib/format';
+	import { recentHymns } from '$lib/history/resolve';
+	import { hymnHistory } from '$lib/history/store';
 	import { prefs } from '$lib/prefs/prefs';
 	import { getSearchClient } from '$lib/search/session';
 	import type { SearchResponse } from '$lib/search/types';
@@ -71,6 +73,17 @@
 
 	const first = $derived(response?.results[0]);
 
+	// Feature 006: what the screen offers while the field is empty (contracts/ui.md).
+	const idle = $derived(!query.trim());
+	const recent = $derived(recentHymns(data.catalog, $hymnHistory));
+	let announcement = $state('');
+
+	function clearRecent() {
+		hymnHistory.clear();
+		announcement = 'Historique effacé';
+		input?.focus();
+	}
+
 	/** Short summary for screen readers (aria-live). */
 	const status = $derived.by(() => {
 		if (!response || !query.trim()) return '';
@@ -117,15 +130,15 @@
 		</div>
 
 		<p class="hb-sr" aria-live="polite">{status}</p>
+		<p class="hb-sr" aria-live="polite">{announcement}</p>
 
 		<div class="search__results">
-			{#if !query.trim()}
+			{#if idle}
 				<p class="hy-caption search__help">
 					Tapez un numéro («&#8239;CE&nbsp;12&#8239;»), un titre ou quelques mots des paroles.
 				</p>
 				<div class="mobile-only">
-					<h2 class="hb-overline" id="hymnals-title">Recueils</h2>
-					<HymnalList {hymnals} labelledby="hymnals-title" />
+					<RecentHymns rows={recent} onclear={clearRecent} />
 				</div>
 			{:else if unavailable}
 				<div class="hy-message" role="status">
@@ -143,9 +156,10 @@
 		</div>
 	</div>
 
-	<aside class="search__aside desktop-only" aria-labelledby="aside-hymnals-title">
-		<h2 class="hb-overline" id="aside-hymnals-title">Recueils</h2>
-		<HymnalList {hymnals} labelledby="aside-hymnals-title" />
+	<aside class="search__aside desktop-only" aria-label="Raccourcis">
+		{#if idle}
+			<RecentHymns rows={recent} onclear={clearRecent} />
+		{/if}
 		<p class="hy-caption search__keys">
 			Au clavier&#8239;: <kbd>/</kbd> place le curseur dans la recherche, <kbd>Entrée</kbd> ouvre le premier
 			résultat.
@@ -172,7 +186,7 @@
 		padding-top: 72px;
 	}
 
-	.search__aside .hb-overline {
+	.search__aside :global(section:first-child .hb-overline) {
 		margin-top: 0;
 	}
 

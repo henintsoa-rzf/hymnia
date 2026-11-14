@@ -17,6 +17,8 @@ export type CatalogApi = {
 	version: string;
 	/** Hymnals to list: those with at least one published hymn, in sortOrder. */
 	getHymnals(): PublishedHymnal[];
+	/** Listed hymnals (at least one published hymn), in French alphabetical order of name, then id (feature 009). */
+	getHymnalsByName(): PublishedHymnal[];
 	getHymnal(id: string): PublishedHymnal | undefined;
 	getHymn(id: string): PublishedHymn | undefined;
 	/** Follows `redirects` (hymns merged by an import): the current id of a stored hymn id. */
@@ -51,10 +53,16 @@ export function createCatalog(catalog: Catalog): CatalogApi {
 	// A hymnal with no published hymn yet (e.g. just added for an import) is known (labels,
 	// number queries) but not listed.
 	const listed = catalog.hymnals.filter((h) => h.hymnCount > 0);
+	// Display order of hymnal lists (feature 009); `listed` keeps sortOrder, a priority for search.
+	const collator = new Intl.Collator('fr', { sensitivity: 'base' });
+	const byName = [...listed].sort(
+		(a, b) => collator.compare(a.name, b.name) || (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)
+	);
 
 	return {
 		version: catalog.version,
 		getHymnals: () => listed,
+		getHymnalsByName: () => byName,
 		getHymnal: (id) => hymnals.get(id),
 		getHymn: (id) => hymns.get(id),
 		// A catalog cached before redirects existed has none.

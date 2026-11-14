@@ -10,6 +10,18 @@ test('1. the hymnal list shows each hymnal with its hymn count', async ({ page }
 	await expect(rows.nth(1)).toContainText('7 chants');
 });
 
+// Feature 009, User Story 1. The fixture's name order equals its sortOrder: this guards the rows,
+// the unit test in tests/unit/catalog.test.ts proves the sort.
+test('the hymnal list is in alphabetical order of name (feature 009)', async ({ page }) => {
+	await page.goto('/recueils');
+	const rows = page.locator('main .hy-row .hy-row__title');
+	await expect(rows).toHaveCount(2);
+	const names = await rows.allTextContents();
+	const collator = new Intl.Collator('fr', { sensitivity: 'base' });
+	expect(names).toEqual([...names].sort(collator.compare));
+	expect(names).toEqual(['Cantiques d’exemple', 'Hymnes d’exemple']);
+});
+
 test('2. a hymnal lists its hymns in number order', async ({ page }) => {
 	await page.goto('/recueils');
 	await page.getByRole('link', { name: /Cantiques d’exemple/ }).click();

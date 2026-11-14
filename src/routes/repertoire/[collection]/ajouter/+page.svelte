@@ -24,6 +24,8 @@
 
 	const collection = $derived($repertoire.collections.find((c) => c.id === data.id));
 	const hymnals = $derived(data.catalog.getHymnals());
+	/** Filter chips in alphabetical order of name, like the Recueils screen (feature 009). */
+	const filterHymnals = $derived(data.catalog.getHymnalsByName());
 	const hymnalMap = $derived(new Map(hymnals.map((h) => [h.id, h])));
 	const idOf = $derived(hymnIdOf(data.catalog));
 	const collectionUrl = $derived(resolve('/repertoire/[collection]', { collection: data.id }));
@@ -102,7 +104,7 @@
 		<div class="add__controls">
 			<SearchBox bind:value={query} bind:input />
 			{#if hymnals.length > 1}
-				<HymnalFilter {hymnals} bind:selected />
+				<HymnalFilter hymnals={filterHymnals} bind:selected />
 			{/if}
 		</div>
 

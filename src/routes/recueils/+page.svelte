@@ -1,4 +1,4 @@
-<!-- Hymnals `/recueils` (T048, FR-011, decisions §5). -->
+<!-- Hymnals `/recueils` (T048, FR-011, decisions §5). Feature 009: in alphabetical order of name. -->
 <script lang="ts">
 	import HymnalList from '$lib/components/HymnalList.svelte';
 
@@ -11,7 +11,7 @@
 	<header class="page__header">
 		<h1 class="hy-screen-title" id="hymnals-title">Recueils</h1>
 	</header>
-	<HymnalList hymnals={data.catalog.getHymnals()} labelledby="hymnals-title" />
+	<HymnalList hymnals={data.catalog.getHymnalsByName()} labelledby="hymnals-title" />
 </div>
 
 <style>

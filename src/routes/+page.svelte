@@ -32,6 +32,8 @@
 	let { data } = $props();
 
 	const hymnals = $derived(data.catalog.getHymnals());
+	/** Filter chips in alphabetical order of name, like the Recueils screen (feature 009). */
+	const filterHymnals = $derived(data.catalog.getHymnalsByName());
 	const hymnalMap = $derived(new Map(hymnals.map((h) => [h.id, h])));
 
 	// Initial state: the URL first (shared link, back button), then the saved filter.
@@ -146,7 +148,7 @@
 		<div class="search__controls">
 			<SearchBox bind:value={query} bind:input onsubmit={openFirst} />
 			{#if hymnals.length > 1}
-				<HymnalFilter {hymnals} bind:selected />
+				<HymnalFilter hymnals={filterHymnals} bind:selected />
 			{/if}
 		</div>
 

@@ -1,0 +1,68 @@
+{
+	"id": "c-est-toi-jesus-qu-ils-ont-chante",
+	"title": "C’est toi, Jésus, qu’ils ont chanté",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "443"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C’est toi, Jésus, qu’ils ont chanté,",
+				"Tous ceux qui t’ont reçu pour roi.",
+				"Alléluia ! Alléluia !",
+				"Accueille aussi nos chants de joie",
+				"Toi qui nous rends la liberté.",
+				"Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as détruit le noir destin ;",
+				"Le monde immense est dans tes mains.",
+				"Alléluia ! Alléluia !",
+				"Les dieux sont morts, tu es vivant.",
+				"Par toi l’amour est triomphant.",
+				"Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous chanterons nos grands espoirs",
+				"Car ils sont tous liés à toi.",
+				"Alléluia ! Alléluia !",
+				"Le jour se lève en notre nuit",
+				"Et ta promesse en notre vie.",
+				"Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand tu viendras au dernier jour",
+				"Nous rassembler dans ton amour,",
+				"Alléluia ! Alléluia !",
+				"Nous redirons en un seul chant",
+				"Que tous par toi sont triomphants.",
+				"Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#443",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

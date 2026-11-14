@@ -1,0 +1,90 @@
+{
+	"id": "nous-avons-vu-les-pas",
+	"title": "Nous avons vu les pas",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "320"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous avons vu les pas de notre Dieu",
+				"Croiser les pas des hommes.",
+				"Nous avons vu brûler comme un grand feu",
+				"Pour la joie de tous les pauvres."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand viendra-t-il* marcher sur nos chemins,",
+				"Changer nos coeurs de pierre ?",
+				"Quand viendra-t-il* semer au creux des mains",
+				"L’amour et la lumière ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous avons vu fleurir dans nos déserts",
+				"Les fleurs de la tendresse.",
+				"Nous avons vu briller sur l’univers",
+				"L’aube d’une paix nouvelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous avons vu danser les malheureux",
+				"Comme au jour de la fête.",
+				"Nous avons vu renaître au fond des yeux",
+				"L’espérance déjà morte."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous avons vu le riche s’en aller",
+				"Le coeur et les mains vides.",
+				"Nous avons vu le pauvre se lever,",
+				"Le regard plein de lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Nous avons vu se rassasier de pain",
+				"Les affamés du monde.",
+				"Nous avons vu entrer pour le festin",
+				"Les mendiants de notre terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Nous avons vu s’ouvrir les bras de Dieu",
+				"Devant le fils prodigue.",
+				"Nous avons vu jaillir du coeur de Dieu",
+				"La fontaine de la vie."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#320",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,27 @@
+{
+	"id": "seigneur-ta-parole",
+	"title": "Seigneur, ta Parole",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "835"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Seigneur, ta Parole nous fait vivre."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#835",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

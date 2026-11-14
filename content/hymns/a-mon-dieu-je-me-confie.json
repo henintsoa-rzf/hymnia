@@ -1,0 +1,66 @@
+{
+	"id": "a-mon-dieu-je-me-confie",
+	"title": "A mon Dieu je me confie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "615"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"A mon Dieu je me confie.",
+				"Sa clémence est infinie.",
+				"Ta pensée, ô Dieu d’amour,",
+				"Est fidèle, éternelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La lumière radieuse",
+				"Est ton oeuvre merveilleuse.",
+				"Ta pensée, ô Dieu…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu consoles, tu pardonnes,",
+				"Ta bonté sur tous rayonne.",
+				"Ta pensée, ô Dieu…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Par ta grâce prévenante,",
+				"L’âme s’ouvre à l’espérance.",
+				"Ta pensée, ô Dieu…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Tout à toi je me confie,",
+				"Ta clémence est infinie.",
+				"Ta pensée, ô Dieu…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#615",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,84 @@
+{
+	"id": "la-vie-chante-devant-toi",
+	"title": "La vie chante devant toi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "747"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La vie chante devant toi,",
+				"La vie danse devant toi,",
+				"Sur la place de village",
+				"Qu’est le monde.",
+				"La vie chante devant toi,",
+				"La vie danse devant toi ;",
+				"Va tirer le vin nouveau",
+				"De ton tonneau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ouvre ta porte à la rencontre",
+				"D’un’ nouvelle amitié.",
+				"Regarde bien : elle est tout contre",
+				"Ton coeur si bien fermé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ouvre ta porte à l’aventure,",
+				"Aux trésors inconnus",
+				"Qu’on trouve au coeur de la grand’ ville",
+				"Comme en pays perdu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ouvre ta porte à la montagne,",
+				"Aux chansons des torrents,",
+				"Aux paysages que l’on gagne",
+				"En courage comptant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ouvre ta porte à l’allégresse,",
+				"A la joie partagée,",
+				"Ce bon pain au goût de tendresse",
+				"Pour les coeurs isolés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Ouvre ta porte à la nature",
+				"Qui chante autour de toi.",
+				"Tu trouveras la figure",
+				"Du Dieu qui la créa."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#747",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

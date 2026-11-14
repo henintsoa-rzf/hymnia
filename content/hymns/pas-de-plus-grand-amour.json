@@ -1,0 +1,30 @@
+{
+	"id": "pas-de-plus-grand-amour",
+	"title": "Pas de plus grand amour",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "184"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Pas de plus grand amour",
+				"Que de donner sa vie pour ceux qu’on aime.",
+				"Pas de plus grand amour",
+				"Que de donner sa vie pour ses amis."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#184",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

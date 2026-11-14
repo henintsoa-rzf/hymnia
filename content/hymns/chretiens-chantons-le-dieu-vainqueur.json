@@ -1,0 +1,80 @@
+{
+	"id": "chretiens-chantons-le-dieu-vainqueur",
+	"title": "Chrétiens, chantons le Dieu vainqueur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "491"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chrétiens, chantons le Dieu vainqueur,",
+				"Fêtons la Pâque du Seigneur.",
+				"Acclamons-le d’un même coeur,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De son tombeau, Jésus surgit,",
+				"Il nous délivre de la nuit",
+				"Et dans nos coeurs le jour a lui,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nouveau Moïse ouvrant les eaux,",
+				"Il sort vainqueur de son tombeau :",
+				"Il est Seigneur des temps nouveaux,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"L’agneau pascal est immolé ;",
+				"Il est vivant, ressuscité,",
+				"Splendeur du monde racheté,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Le coeur de Dieu est révélé,",
+				"Le coeur de l’homme est délivré,",
+				"Splendeur du monde racheté,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"O jour de joie, de vrai bonheur,",
+				"O Pâque sainte du Seigneur,",
+				"Par toi nous sommes tous vainqueurs,",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#491",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

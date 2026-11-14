@@ -1,0 +1,80 @@
+{
+	"id": "toi-qui-es-lumiere",
+	"title": "Toi qui es lumière",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "318"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi qui es lumière,",
+				"Toi qui es l’amour,",
+				"Mets dans nos ténèbres",
+				"Ton Esprit d’amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens sur notre terre,",
+				"Viens ouvrir nos coeurs,",
+				"Toi qui nous libères",
+				"Et nous rends meilleurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le monde se traîne",
+				"Et vit dans la nuit.",
+				"Au coeur de nos peines",
+				"Vienne ton Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vois notre souffrance",
+				"Et nos lâchetés.",
+				"Donne l’espérance",
+				"Aux coeurs fatigués."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Toi qui nous appelles",
+				"A vivre avec toi",
+				"Une vie nouvelle",
+				"Fleurie de ta joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Que dans ton attente",
+				"Nous vivions ta paix",
+				"Et que nos coeurs chantent",
+				"La vie retrouvée."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#318",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

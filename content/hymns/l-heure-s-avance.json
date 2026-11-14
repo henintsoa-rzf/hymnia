@@ -1,0 +1,60 @@
+{
+	"id": "l-heure-s-avance",
+	"title": "L’heure s’avance",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "647"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L’heure s’avance : fais-nous grâce,",
+				"Toi dont le jour n’a pas de fin.",
+				"Reste avec nous quand tout s’efface,",
+				"Dieu des lumières sans déclin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu sais toi-même où sont nos peines ;",
+				"Porte au Royaume nos travaux.",
+				"Sans toi, notre oeuvre serait vaine ;",
+				"Viens préparer les temps nouveaux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme un veilleur attend l’aurore,",
+				"Nous appelons le jour promis.",
+				"Mais si la nuit demeure encore,",
+				"Tiens-nous déjà pour tes amis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu qui sans cesse nous enfantes,",
+				"A toi ces derniers mots du jour !",
+				"L’Esprit du Christ en nous les chante",
+				"Et les confie à ton amour."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#647",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

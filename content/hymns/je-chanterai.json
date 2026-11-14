@@ -1,0 +1,76 @@
+{
+	"id": "je-chanterai",
+	"title": "Je chanterai",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "27"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je chanterai car Dieu est ma lumière,",
+				"Sous son regard, de qui aurais-je peur ?",
+				"J’exalterai celui qui me libère,",
+				"Gardé par lui, je n’ai plus de frayeur.",
+				"Si l’ennemi cherche à me dévorer,",
+				"C’est lui soudain qui succombe à l’effroi.",
+				"Quand une armée camperait devant moi",
+				"Je me tiendrais près de toi rassuré."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je ne t’adresse, ô Dieu, qu’une demande :",
+				"De te louer parmi tes serviteurs,",
+				"Pour apporter devant toi mon offrande,",
+				"Et longuement contempler ta splendeur.",
+				"Vers toi qui fus dans l’épreuve un abri,",
+				"Monte déjà la ferveur de nos chants,",
+				"Et relevé par ton bras triomphant",
+				"Je vois déjà s’enfuir tes ennemis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Réponds, Seigneur ; je te prie, fais-moi grâce.",
+				"J’entends ta voix qui parle dans mon coeur",
+				"Et de ta part me dit : Cherche ma face ;",
+				"Et je la cherche en ta maison, Seigneur.",
+				"Que ton regard ne se détourne pas,",
+				"Que de ta main je ne sois repoussé.",
+				"Quand mes parents m’auraient abandonné,",
+				"Je trouverais mon refuge en tes bras."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Guide nos pas, Seigneur, et les ramène",
+				"Sur le chemin que tu m’avais tracé.",
+				"Ne livre pas ton enfant à la haine",
+				"Des faux témoins autour de lui dressés.",
+				"Si je doutais de voir enfin l’amour",
+				"Renouveler la terre des vivants…",
+				"Oh ! rends-moi fort, rends-moi persévérant",
+				"Et que j’espère en mon Dieu nuit et jour."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#27",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

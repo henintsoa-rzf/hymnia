@@ -1,0 +1,64 @@
+{
+	"id": "quand-jesus-entre-a-jerusalem",
+	"title": "Quand Jésus entre à Jérusalem",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "777"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand Jésus entre à Jérusalem,",
+				"Monté sur un petit âne,",
+				"Le monde vient pour l’acclamer",
+				"Et chanter sur son passage."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuple de Dieu, voici ton Roi.",
+				"Très humblement, il vient vers toi.",
+				"Béni soit celui qui vient au nom du Seigneur.",
+				"Chantons à pleine voix, de tout notre coeur.",
+				"Hosanna, gloire au Fils de Dieu !",
+				"Hosanna, au plus haut des cieux.",
+				"Hosanna, Hosanna, Hosanna,",
+				"Hosanna, Hosanna, Hosanna."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La foule étale des vêtements,",
+				"Des palmes et des feuillages ;",
+				"Chacun agite dans ses mains",
+				"Des rameaux et des branchages."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"“Quel est cet homme ?” disent les gens.",
+				"“C’est notre ami, le prophète”.",
+				"Dans quelques jours ils vont crier :",
+				"“Sur la croix il faut qu’il meure !”."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#777",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

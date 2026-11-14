@@ -1,0 +1,50 @@
+{
+	"id": "nous-qui-mangeons-le-pain",
+	"title": "Nous qui mangeons le pain",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "593"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous qui mangeons le pain de la promesse,",
+				"Nous qui buvons la coupe du royaume,",
+				"Un même appel nous porte tous ensemble",
+				"Vers notre Tête."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En recevant le don du Christ aux hommes,",
+				"Nous accueillons l’élan de son offrande ;",
+				"Que cet élan nous guide à la rencontre",
+				"De tous nos frères."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Grains de froment et grappes de la vigne",
+				"Sont rassemblés dans le pain et la coupe ;",
+				"Ainsi, Jésus, c’est toi qui nous rassembles",
+				"Dans ton Eglise."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#593",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,90 @@
+{
+	"id": "sur-les-routes-de-l-alliance",
+	"title": "Sur les routes de l’Alliance",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "550"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sur les routes de l’Alliance,",
+				"Ta lumière nous conduit.",
+				"Nous marchons pleins d’espérance ;",
+				"Tu nous mènes vers la vie. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu printemps du monde,",
+				"Par amour tu nous choisis.",
+				"Fais grandir ton peuple ;",
+				"Nous vivrons pour te servir.",
+				"Bienheureux qui sait répondre",
+				"A l’appel de ton Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu semeur d’étoiles,",
+				"Tu éclaires notre nuit.",
+				"Fais grandir ton peuple ;",
+				"Nous vivrons pour te servir.",
+				"Bienheureux qui ose croire",
+				"Au soleil de ton pays !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu berger fidèle,",
+				"Tu nous dis quel est ton nom.",
+				"Fais grandir ton peuple ;",
+				"Nous vivrons pour te servir.",
+				"Bienheureux celui qui cherche ;",
+				"Tu lui ouvres ta maison !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu Sauveur des hommes,",
+				"Tu nous donnes Jésus-Christ.",
+				"Fais grandir ton peuple ;",
+				"Nous vivrons pour te servir.",
+				"Bienheureux le coeur de pauvre ;",
+				"Son trésor est infini !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Dieu promesse offerte,",
+				"Ton alliance est notre joie.",
+				"Fais grandir ton peuple ;",
+				"Nous vivrons pour te servir.",
+				"Bienheureux dans ta lumière",
+				"Les marcheurs qui gardent foi !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#550",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

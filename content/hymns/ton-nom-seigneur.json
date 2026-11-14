@@ -1,0 +1,80 @@
+{
+	"id": "ton-nom-seigneur",
+	"title": "Ton nom, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "8"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton nom, Seigneur, est un nom magnifique.",
+				"Sans fin la terre en reprend le cantique ;",
+				"Elle répond de toute sa beauté",
+				"A la splendeur du ciel illuminé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Mais tu choisis la louange parfaite",
+				"Des plus petits, des enfants qu’on allaite",
+				"Pour révéler le secret de ton nom ;",
+				"Ainsi leur voix à l’orgueilleux répond."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J’ai vu ta main peupler le ciel immense",
+				"De tant de feux qui tournent en silence",
+				"Et j’ai pensé : Cet homme si petit",
+				"Qu’est-il, grand Dieu, que tu en aies souci ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Presqu’élevé à la grandeur divine,",
+				"Puisque sur terre il gouverne et domine,",
+				"Tu l’as de gloire et d’honneur couronné,",
+				"Tu as placé toute chose à ses pieds."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Tous les troupeaux qui vont aux pâturages,",
+				"Dans la forêt les animaux sauvages,",
+				"Tous les oiseaux qui volent dans les airs,",
+				"Tous les poissons sur les chemins des mers."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Ton nom, Seigneur, est un nom magnifique.",
+				"Sans fin la terre en reprend le cantique.",
+				"Le Fils de l’homme en son humilité",
+				"En fait partout resplendir la beauté."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#8",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

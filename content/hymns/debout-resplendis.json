@@ -1,0 +1,66 @@
+{
+	"id": "debout-resplendis",
+	"title": "Debout, resplendis",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "186"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Debout, resplendis, car voici ta lumière",
+				"Et sur toi la gloire du Seigneur.",
+				"Relève les yeux et regarde au loin,",
+				"Que ton coeur tressaille d’allégresse,",
+				"Car voici tes fils qui reviennent vers toi",
+				"Et tes filles portées sur la hanche."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jérusalem, Jérusalem,",
+				"Quitte ta robe de tristesse.",
+				"Jérusalem, Jérusalem,",
+				"Chante et danse pour ton Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toutes les nations marchent vers ta lumière,",
+				"Sur les rois se lève ta clarté.",
+				"De nombreux troupeaux te seront offerts ;",
+				"Les trésors des mers afflueront vers toi.",
+				"Ils viendront d’Epha, de Saba, de Qédar,",
+				"Faisant monter vers Dieu la louange."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les fils d’étrangers bâtiront tes murailles",
+				"Et leurs rois franchiront tes portails.",
+				"Je ferai de toi un sujet de joie ;",
+				"On t’appellera “Ville du Seigneur”.",
+				"Les jours de ton deuil seront tous accomplis",
+				"Et sur toi resplendira ma gloire."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#186",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,68 @@
+{
+	"id": "j-ai-vu-l-eau-vive",
+	"title": "J’ai vu l’eau vive",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "492"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J’ai vu l’eau vive",
+				"Jaillissant du coeur du Christ,",
+				"Alléluia ! Alléluia !",
+				"Tous ceux que lave cette eau",
+				"Seront sauvés ; ils chanteront",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’ai vu la source",
+				"Devenir un fleuve immense,",
+				"Alléluia ! Alléluia !",
+				"Les fils de Dieu rassemblés",
+				"Chantaient leur joie d’être sauvés :",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J’ai vu le temple",
+				"Désormais s’ouvrir à tous,",
+				"Alléluia ! Alléluia !",
+				"Le Christ revient victorieux,",
+				"Montrant la plaie de son côté.",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"J’ai vu le Verbe",
+				"Nous donner la paix de Dieu,",
+				"Alléluia ! Alléluia !",
+				"Tous ceux qui croient en son nom",
+				"Seront sauvés et chanteront",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#492",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

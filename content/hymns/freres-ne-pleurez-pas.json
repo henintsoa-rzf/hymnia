@@ -1,0 +1,60 @@
+{
+	"id": "freres-ne-pleurez-pas",
+	"title": "Frères, ne pleurez pas",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "636"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Frères, ne pleurez pas",
+				"Comme ceux qui n’ont pas d’espérance.",
+				"Frères, ne pleurez pas",
+				"Comme ceux qui n’ont pas la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C’est la nuit qu’il faut croire en la lumière,",
+				"Et l’hiver espérer le printemps.",
+				"Quand le corps s’en retourne à la terre,",
+				"La vie continue auprès du Dieu vivant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous savons qu’en venant sur la terre,",
+				"Le Sauveur de la mort a triomphé.",
+				"Désormais avec lui, près du Père,",
+				"Il fait vivre tous ceux qui l’ont cherché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Un grand vide a coupé notre route,",
+				"Quand le vent de la mort est passé ;",
+				"Mais l’espoir, pour les coeurs à l’écoute,",
+				"C’est l’appel du Seigneur ressuscité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#636",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

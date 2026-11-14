@@ -79,5 +79,20 @@
 		},
 		"permission": "unknown",
 		"access": "saved-pages"
+	},
+	{
+		"id": "arc",
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"baseUrl": "https://docs.google.com",
+		"hymnals": [
+			"arc"
+		],
+		"minDelayMs": 1000,
+		"terms": {
+			"url": null,
+			"summary": "Document Google Docs public (« Chants du recueil Arc-en-ciel », 2e édition de 1995, saisi par le pasteur Pierre Muller), sans condition d'utilisation. Les paroles appartiennent à leurs auteurs et éditeurs (recueil Arc-en-ciel, Réveil Publications) : permission à demander avant toute publication. robots.txt de docs.google.com autorise /document.",
+			"checkedAt": "2026-11-13"
+		},
+		"permission": "unknown"
 	}
 ]

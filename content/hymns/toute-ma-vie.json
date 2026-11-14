@@ -1,0 +1,52 @@
+{
+	"id": "toute-ma-vie",
+	"title": "Toute ma vie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "272"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toute ma vie, je chanterai ton nom, Seigneur ;",
+				"Toute ma vie, je chanterai ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton amour qui chaque jour notre pain nous donne,",
+				"Ton amour et ta bonté qui nous pardonne."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que ton règne arrive au ciel et sur la terre,",
+				"Que chacun soit dans l’amour sa vie entière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et du mal, du mal, de la faim, de la guerre,",
+				"Et du mal, Seigneur, délivre notre terre."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#272",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

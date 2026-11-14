@@ -1,0 +1,83 @@
+{
+	"id": "alleluia-le-christ-est-vivant",
+	"title": "Alléluia ! le Christ est vivant",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "482"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, le Christ est vivant !",
+				"Alléluia, le ciel est bleu !",
+				"Alléluia, le Christ est vivant !",
+				"Alléluia, chantons notre joie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L’hiver est fini",
+				"(L’hiver est fini)",
+				"Et les peines aussi.",
+				"(Et les peines aussi)",
+				"Le ciel n’est plus gris",
+				"(Le ciel n’est plus gris)",
+				"Parce qu’aujourd’hui…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Que cessent nos peurs,",
+				"Que sèchent nos pleurs,",
+				"Passent nos douleurs,",
+				"Le Christ est vainqueur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La mer traversée,",
+				"La mort renversée,",
+				"L’homme est libéré,",
+				"Le Christ l’a sauvé !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sonne le réveil.",
+				"Crie de joie, soleil !",
+				"Chante dans le ciel,",
+				"Chante la merveille !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"O Dieu de bonté,",
+				"Christ ressuscité,",
+				"Esprit d’unité,",
+				"Partout soit chanté !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#482",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

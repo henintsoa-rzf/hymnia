@@ -1,0 +1,69 @@
+{
+	"id": "bien-avant-que-mes-yeux",
+	"title": "Bien avant que mes yeux",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "569"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bien avant que mes yeux ne cherchent ta lumière,",
+				"Bien avant, déjà, Seigneur, tu es là !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici que brille le soleil,",
+				"Voici que brille ton amour ;",
+				"Déjà, Seigneur, tu es là !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bien avant que ma main ne cherche ta présence,",
+				"Bien avant, déjà, Seigneur, tu es là !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bien avant que mon coeur ne cherche ton visage,",
+				"Bien avant, déjà, Seigneur, tu es là !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bien avant que mes pas ne cherchent ta demeure,",
+				"Bien avant, déjà, Seigneur, tu es là !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Bien avant que ma faim ne cherche ta Parole,",
+				"Bien avant, déjà, Seigneur, tu es là !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#569",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

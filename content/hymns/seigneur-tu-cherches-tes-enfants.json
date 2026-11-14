@@ -1,0 +1,81 @@
+{
+	"id": "seigneur-tu-cherches-tes-enfants",
+	"title": "Seigneur, tu cherches tes enfants",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "536"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, tu cherches tes enfants,",
+				"Car tu es l’amour.",
+				"Tu veux unir tous les vivants,",
+				"Grâce à ton amour !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, Seigneur,",
+				"Oh ! prends en ton Eglise",
+				"Tous nos frères",
+				"De la terre",
+				"Dans un même amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, tu sauves par ta mort,",
+				"Car tu es l’amour.",
+				"Fais-nous les membres de ton corps,",
+				"Grâce à ton amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, tu calmes notre faim,",
+				"Car tu es l’amour.",
+				"Partage à tous le même pain,",
+				"Grâce à ton amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur, tu vois le monde entier,",
+				"Car tu es l’amour.",
+				"Fais-lui trouver son unité,",
+				"Grâce à ton amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Seigneur, tu nous promets la paix,",
+				"Car tu es l’amour.",
+				"Etends ton règne désormais,",
+				"Grâce à ton amour !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#536",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

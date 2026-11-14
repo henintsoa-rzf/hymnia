@@ -1,0 +1,30 @@
+{
+	"id": "toi-qui-fais-briller-le-soleil",
+	"title": "Toi qui fais briller le soleil",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "721"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Toi qui fais briller le soleil,",
+				"L’aube clair’, les couchers vermeils,",
+				"O Dieu, ton amour est sans pareil.",
+				"La nuit, le jour, sur moi tu veilles."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#721",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

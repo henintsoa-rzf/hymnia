@@ -1,0 +1,92 @@
+{
+	"id": "gloire-a-toi-jesus-christ",
+	"title": "Gloire à toi, Jésus-Christ",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "481"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à toi, Jésus-Christ,",
+				"Seigneur ressuscité,",
+				"Tu nous donnes la vie.",
+				"Gloire à toi, Jésus-Christ,",
+				"Tu viens nous libérer,",
+				"Tu es notre unité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es la vraie lumière,",
+				"Jaillie dans notre nuit.",
+				"Printemps de notre terre,",
+				"C’est toi qui nous conduis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es le beau visage,",
+				"Clarté dans le matin.",
+				"D’un radieux message,",
+				"Nous sommes les témoins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Victoire qui délivre",
+				"Des marques du péché,",
+				"Ta Pâque nous fait vivre",
+				"En vrais ressuscités."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Parole vivifiante,",
+				"Tu viens pour notre faim ;",
+				"Dans notre longue attente,",
+				"Ton corps est notre pain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Tu fais de nous des frères",
+				"Rassemblés par ta croix.",
+				"Enfants d’un même Père,",
+				"Nous partageons ta joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Merveille de ta grâce,",
+				"Tu viens nous libérer.",
+				"Qu’en ton amour se fasse,",
+				"Seigneur, notre unité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#481",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

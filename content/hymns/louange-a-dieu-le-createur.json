@@ -1,0 +1,30 @@
+{
+	"id": "louange-a-dieu-le-createur",
+	"title": "Louange à Dieu, le créateur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "822"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Louange à Dieu, le créateur,",
+				"A Jésus-Christ, notre Sauveur,",
+				"Au Saint-Esprit, le défenseur,",
+				"Alléluia, Alléluia, Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#822",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

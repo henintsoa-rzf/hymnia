@@ -1,0 +1,70 @@
+{
+	"id": "notre-pere-arc-736",
+	"title": "Notre Père",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "736"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Notre Père qui es aux cieux,",
+				"Laisse-nous te chanter.",
+				"Notre Père qui es aux cieux,",
+				"Laisse-nous te prier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, nous croyons que tu es Dieu",
+				"Et que tu brilles dans nos yeux.",
+				"Oui, nous croyons que tu es Dieu",
+				"Et qu’avec toi nous vivrons mieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens nous donner dès aujourd’hui",
+				"Assez de pain pour notre faim.",
+				"Viens nous donner dès aujourd’hui",
+				"Assez de pain pour nos amis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pardonne-nous tous nos péchés ;",
+				"Nous t’avons souvent offensé.",
+				"Pardonne-nous tous nos péchés ;",
+				"Toi qui nous as toujours aimés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Que ton amour habite en nous ;",
+				"Il est plus fort que nos malheurs.",
+				"Que ton amour habite en nous ;",
+				"Tu es plus grand que notre coeur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#736",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

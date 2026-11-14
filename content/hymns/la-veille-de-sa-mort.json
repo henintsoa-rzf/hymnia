@@ -1,0 +1,70 @@
+{
+	"id": "la-veille-de-sa-mort",
+	"title": "La veille de sa mort",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "780"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La veille de sa mort, au cours du repas,",
+				"Le Seigneur prit du pain, il le partagea.",
+				"“Prenez et mangez”, dit-il à ses amis.",
+				"“Je donne ma vie”."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus nous a tant aimés,",
+				"D’un si grand amour.",
+				"Aimons-nous les uns les autres",
+				"Comme il nous a aimés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Puis il prit dans ses mains la coupe de vin.",
+				"“Voici mon sang versé pour tous les humains.",
+				"Quand vous en boirez, rappelez mon amour",
+				"Jusqu’à mon retour”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il se mit à genoux devant ses amis ;",
+				"Il leur lava les pieds et puis il leur dit :",
+				"“Il faut vous aimer, vous servir, vous aider",
+				"Comme je l’ai fait”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Après avoir prié, seul, abandonné,",
+				"Jésus est arrêté, jugé, torturé.",
+				"Il meurt sur la croix en étendant les bras ;",
+				"Il est mort pour moi."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#780",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

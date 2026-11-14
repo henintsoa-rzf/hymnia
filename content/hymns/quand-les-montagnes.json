@@ -10,6 +10,10 @@
 			"hymnal": "jem",
 			"number": "28",
 			"title": "Quand les montagnes s'éloigneraient"
+		},
+		{
+			"hymnal": "arc",
+			"number": "167"
 		}
 	],
 	"sections": [
@@ -66,6 +70,11 @@
 			"name": "JEM — jemaf.fr",
 			"url": "https://jemaf.fr/chant/jem028",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#167",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

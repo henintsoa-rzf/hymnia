@@ -1,0 +1,70 @@
+{
+	"id": "viens-o-sauveur-des-paiens",
+	"title": "Viens, ô Sauveur des païens",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "304"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, ô Sauveur des païens,",
+				"Car les hommes de tous temps,",
+				"Du Levant, de l’Occident,",
+				"Sont comptés parmi les tiens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Parmi nous, comme un enfant,",
+				"Le Seigneur, le Fils de Dieu,",
+				"Lui qui règne dans les cieux,",
+				"Est venu tout humblement."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il naît dans le dénuement",
+				"Pour que l’homme ait réconfort.",
+				"Il acceptera la mort",
+				"Pour partager nos tourments."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ta grâce et ta vérité",
+				"Sont clarté dans notre nuit.",
+				"Garde-nous, ô Seigneur Christ,",
+				"De choisir l’obscurité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Gloire à Dieu, le Créateur !",
+				"Gloire soit à Jésus-Christ !",
+				"Gloire soit au Saint-Esprit,",
+				"Pour le temps, l’éternité !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#304",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

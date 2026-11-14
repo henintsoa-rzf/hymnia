@@ -1,0 +1,70 @@
+{
+	"id": "oh-viens-jesus",
+	"title": "Oh ! viens, Jésus",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "307"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! viens, Jésus, Oh ! viens, Emmanuel,",
+				"Nous dévoiler le monde fraternel",
+				"Où ton amour plus fort que la mort",
+				"Nous régénère au sein d’un même corps."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chantez ! Chantez !",
+				"Il vient à notre appel",
+				"Combler nos coeurs,",
+				"Emmanuel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Oh ! viens, Berger que Dieu nous a promis ;",
+				"Entends au loin ton peuple qui gémit.",
+				"Dans la violence il vit son exil ;",
+				"De ses souffrances, quand renaîtra-t-il ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! viens, Jésus, et dans la chair blessée",
+				"Fleuris pour nous, racine de Jessé.",
+				"Près de l’eau vive, l’arbre planté",
+				"Soulève jusqu’à Dieu le monde entier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oh ! viens, Jésus, tracer notre chemin ;",
+				"Visite-nous, Etoile du matin.",
+				"Au fond de nos regards fais monter",
+				"L’éclat soudain du jour d’éternité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#307",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

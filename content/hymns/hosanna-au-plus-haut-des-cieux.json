@@ -1,0 +1,44 @@
+{
+	"id": "hosanna-au-plus-haut-des-cieux",
+	"title": "Hosanna au plus haut des cieux",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "287"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Hosanna, Hosanna, Hosanna",
+				"Au plus haut des cieux ! (bis)",
+				"Nous célébrons ton nom",
+				"D’un coeur reconnaissant.",
+				"Tu es le Seigneur glorieux,",
+				"Hosanna au plus haut des cieux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Louange, louange et gloire",
+				"A Jésus, notre Roi ! (bis)",
+				"Nous célébrons ton nom",
+				"D’un coeur reconnaissant.",
+				"Tu es le Seigneur, tu es Roi.",
+				"Gloire à toi, Jésus, gloire à toi !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#287",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,32 @@
+{
+	"id": "venez-bergers",
+	"title": "Venez, bergers",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "371"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Venez, bergers et mages,",
+				"Adorer le Sauveur.",
+				"Portez-lui vos hommages,",
+				"Donnez-lui votre coeur.",
+				"Et vous, les anges,",
+				"Louez le Seigneur !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#371",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

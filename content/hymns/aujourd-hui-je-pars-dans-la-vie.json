@@ -1,0 +1,68 @@
+{
+	"id": "aujourd-hui-je-pars-dans-la-vie",
+	"title": "Aujourd’hui, je pars dans la vie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "567"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Aujourd’hui, je pars dans la vie",
+				"Avec le Seigneur, mon ami,",
+				"Le coeur plein de courage et de foi,",
+				"Le coeur plein de soleil et de joie.",
+				"Aujourd’hui, je pars dans la vie",
+				"Avec le Seigneur, mon ami."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au matin de ce jour,",
+				"J’ai promis que toujours",
+				"Je serai fidèle au Seigneur,",
+				"Que la lampe de ma foi",
+				"Jamais plus ne s’éteindra",
+				"Comme l’amour en mon coeur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je sais que je trouverai",
+				"Le mal qui fait trébucher",
+				"Comme des cailloux sous mes pas,",
+				"Mais, au bout du chemin,",
+				"Il y a tant de chrétiens",
+				"Qui sont passés avant moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans ce monde au coeur trop vieux,",
+				"Je voudrais parler de Dieu",
+				"Comme on chante une chanson.",
+				"Par les routes et les cités,",
+				"Aux copains du monde entier,",
+				"il me faut crier son nom."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#567",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,28 @@
+{
+	"id": "saint-saint-est-le-seigneur",
+	"title": "Saint, saint est le Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "867"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Saint, saint est le Seigneur, saint ;",
+				"Éternel est son amour."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#867",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

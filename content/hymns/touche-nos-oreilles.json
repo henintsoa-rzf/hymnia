@@ -1,0 +1,72 @@
+{
+	"id": "touche-nos-oreilles",
+	"title": "Touche nos oreilles",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "229"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Touche nos oreilles,",
+				"Nous entendrons !",
+				"Souffle sur nos lèvres,",
+				"Nous parlerons.",
+				"Donne ta lumière,",
+				"Nous brillerons.",
+				"Montre-nous la route,",
+				"Nous marcherons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu silence,",
+				"Tu nous as parlé :",
+				"Lumière dans nos yeux,",
+				"Ferment dans notre pain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tourne ton visage,",
+				"Nous te verrons.",
+				"Coule dans nos veines,",
+				"Nous guérirons.",
+				"Vienne l’espérance,",
+				"Nous t’attendrons.",
+				"Brille ton étoile,",
+				"Nous partirons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ouvre-nous la porte,",
+				"Nous entrerons.",
+				"Dresse-nous la table,",
+				"Nous mangerons.",
+				"Fais jaillir la source,",
+				"Nous renaîtrons.",
+				"Fais chanter la flûte,",
+				"Nous danserons."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#229",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

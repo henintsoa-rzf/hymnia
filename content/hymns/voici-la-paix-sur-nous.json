@@ -1,0 +1,60 @@
+{
+	"id": "voici-la-paix-sur-nous",
+	"title": "Voici la paix sur nous",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "356"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voici la paix sur nous, un Fils nous est né.",
+				"Voici la paix sur nous, un Dieu s’est donné."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur Emmanuel, tu viens parmi nous.",
+				"Seigneur Emmanuel, tu viens, c’est Noël."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voici les temps nouveaux, un Fils nous est né.",
+				"Voici les temps nouveaux, un Dieu s’est donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Voici les cieux ouverts, un Fils nous est né.",
+				"Voici les cieux ouverts, un Dieu s’est donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Voici l’agneau vainqueur, un Fils nous est né.",
+				"Voici l’agneau vainqueur, un Dieu s’est donné."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#356",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,64 @@
+{
+	"id": "j-ai-tout-remis-entre-tes-mains",
+	"title": "J’ai tout remis entre tes mains",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "621"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J’ai tout remis entre tes mains,",
+				"Tous mes fardeaux, toutes mes peines,",
+				"Ce qui m’angoisse et qui m’enchaîne",
+				"Et le souci du lendemain.",
+				"J’ai tout remis entre tes mains. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’ai tout remis entre tes mains,",
+				"Ressentiments, haines amères,",
+				"Les luttes et toutes les guerres,",
+				"Ce qui sépare les humains.",
+				"J’ai tout remis entre tes mains. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J’ai tout remis entre tes mains,",
+				"Que ce soit la joie, la tristesse,",
+				"La pauvreté ou la richesse,",
+				"Ombre ou lumière du chemin.",
+				"J’ai tout remis entre tes mains. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"J’ai tout remis entre tes mains,",
+				"Que ce soit la mort ou la vie,",
+				"La santé ou la maladie,",
+				"Le commencement ou la fin.",
+				"J’ai tout remis entre tes mains. (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#621",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

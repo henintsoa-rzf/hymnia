@@ -10,6 +10,11 @@
 			"hymnal": "jem",
 			"number": "1006",
 			"title": "Notre Père"
+		},
+		{
+			"hymnal": "arc",
+			"number": "182",
+			"title": "Notre Père"
 		}
 	],
 	"sections": [
@@ -63,6 +68,11 @@
 			"name": "JEM — jemaf.fr",
 			"url": "https://jemaf.fr/chant/jem1006",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#182",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

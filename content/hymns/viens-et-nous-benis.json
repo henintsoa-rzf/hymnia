@@ -1,0 +1,62 @@
+{
+	"id": "viens-et-nous-benis",
+	"title": "Viens et nous bénis",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "890"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens et nous bénis,",
+				"Dieu de la rencontre.",
+				"C’est toi qui unis ;",
+				"Ton amour le montre.",
+				"Garde tes enfants",
+				"Au creux des tempêtes.",
+				"Comme au temps des fêtes,",
+				"Sois toujours présent."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tes dons généreux,",
+				"Ta surabondance,",
+				"Pour les malheureux",
+				"Ouvrent une danse.",
+				"Feu qui nous saisit,",
+				"Porte témoignage !",
+				"Esprit de partage,",
+				"Viens, ô Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Porteurs de la paix,",
+				"La paix que tu donnes,",
+				"Semeurs désormais",
+				"Pour le bien des hommes,",
+				"Nous voulons, Seigneur,",
+				"Dans la vigilance,",
+				"Que ton règne avance,",
+				"Toi, le vrai bonheur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#890",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

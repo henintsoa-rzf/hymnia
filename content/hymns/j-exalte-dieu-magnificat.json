@@ -1,0 +1,60 @@
+{
+	"id": "j-exalte-dieu-magnificat",
+	"title": "J’exalte Dieu (Magnificat)",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "171"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J’exalte Dieu et chante d’allégresse",
+				"Car mon Sauveur, penché sur ma faiblesse,",
+				"Pour sa servante a fait que désormais,",
+				"On me dira bienheureuse à jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Tout-puissant pour moi fit des merveilles.",
+				"Saint est son nom ! Son amour toujours veille.",
+				"Son bras puissant toujours est déployé",
+				"Sur ceux qui font sa sainte volonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il dispersa les pensées orgueilleuses ;",
+				"Il détrôna les forces vaniteuses.",
+				"Il éleva le pauvre et le nourrit ;",
+				"Il renvoya le riche ; il l’appauvrit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour Israël, Dieu garde sa tendresse ;",
+				"Il le secourt, fidèle à sa promesse :",
+				"Pour Abraham et pour ses descendants,",
+				"Dieu est Sauveur jusqu’à la fin des temps."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#171",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,60 @@
+{
+	"id": "oh-viens-seigneur",
+	"title": "Oh ! viens, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "310"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! viens, Seigneur, ne tarde pas,",
+				"Viens dissiper l’obscurité",
+				"Où nous devons toujours marcher.",
+				"Remplis nos yeux de ton éclat."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Brillant soleil, très pur matin,",
+				"Nous aimerions te contempler,",
+				"Nous réjouir de ta beauté.",
+				"Oh ! lève-toi sur nos chemins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous n’abordons jamais au port,",
+				"Tous nos pas sombrent dans le soir.",
+				"Rends-nous la joie, rends-nous l’espoir,",
+				"Délivre-nous de notre mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Parais enfin et nous vivrons,",
+				"Nous n’aurons plus aucune peur.",
+				"En joie tu changeras nos pleurs,",
+				"Et pour toujours nous chanterons."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#310",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

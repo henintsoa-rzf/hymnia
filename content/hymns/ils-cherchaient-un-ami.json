@@ -1,0 +1,64 @@
+{
+	"id": "ils-cherchaient-un-ami",
+	"title": "Ils cherchaient un ami",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "773"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ils cherchaient un ami",
+				"Quand Jésus est passé.",
+				"Ce jour-là, dans leur vie,",
+				"Toute chose a changé.",
+				"Ils cherchaient un ami",
+				"Quand Jésus est passé.",
+				"Ce jour-là, dans leur vie,",
+				"Un soleil s’est levé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus connaissait Matthieu,",
+				"Et Matthieu n’en savait rien.",
+				"Il est devenu joyeux",
+				"Quand Jésus lui a dit : “Viens !”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Un jour, Philippe et André",
+				"Ont voulu le suivre aussi.",
+				"Quand Jésus s’est retourné,",
+				"Il ont accouru vers lui."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand il a connu Simon",
+				"Sur sa barque de pêcheur,",
+				"Jésus lui donna un nom",
+				"A la taille de son coeur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#773",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

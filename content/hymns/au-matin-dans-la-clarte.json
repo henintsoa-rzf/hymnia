@@ -1,0 +1,59 @@
+{
+	"id": "au-matin-dans-la-clarte",
+	"title": "Au matin dans la clarté",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "476"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au matin dans la clarté,",
+				"Jésus est ressuscité.",
+				"Au matin dans la clarté,",
+				"De la tombe il s’est levé.",
+				"Chantons alléluia !",
+				"Christ est vainqueur de la mort.",
+				"Christ, notre espoir est en toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il nous a montré ses mains,",
+				"On l’a vu dans le jardin.",
+				"Il nous a montré ses mains,",
+				"Il a partagé le pain.",
+				"Chantons alléluia !",
+				"Christ est vainqueur de la mort.",
+				"Christ, fais-nous vivre de toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il nous trace le chemin,",
+				"Il nous donne l’Esprit Saint.",
+				"Il nous trace le chemin,",
+				"Et nous ne serons plus qu’un.",
+				"Chantons alléluia !",
+				"Christ est vainqueur de la mort.",
+				"Christ, emplis-nous de ta joie !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#476",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

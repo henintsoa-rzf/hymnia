@@ -1,0 +1,62 @@
+{
+	"id": "que-toute-la-terre",
+	"title": "Que toute la terre",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "263"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Que toute la terre",
+				"Acclame ton nom,",
+				"Jésus, notre frère,",
+				"Toi, notre pardon.",
+				"Que chacun s’incline",
+				"Devant ta grandeur.",
+				"Toi seul en est digne ;",
+				"A toi seul l’honneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi qui es le Maître,",
+				"Le Roi, le Seigneur,",
+				"Tu as voulu naître",
+				"Comme un serviteur.",
+				"Parole éternelle,",
+				"Verbe créateur,",
+				"Une chair mortelle",
+				"Voile ta splendeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Force, honneur, louange",
+				"A toi, crucifié !",
+				"Plus haut que les anges",
+				"Ton nom est chanté.",
+				"Que chacun s’incline",
+				"Devant ta grandeur.",
+				"Toi seul en est digne ;",
+				"A toi seul l’honneur !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#263",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

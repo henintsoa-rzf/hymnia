@@ -1,0 +1,110 @@
+{
+	"id": "pain-rompu",
+	"title": "Pain rompu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "588"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Pain rompu pour un monde nouveau,",
+				"Gloire à toi, Jésus-Christ !",
+				"Pain de Dieu, viens ouvrir nos tombeaux ;",
+				"Fais-nous vivre de l’Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu as donné ton corps",
+				"Pour la vie du monde.",
+				"Tu as offert ta mort",
+				"Pour la paix du monde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as rompu le pain",
+				"Qui restaure l’homme.",
+				"A tous ceux qui ont faim",
+				"S’ouvre ton royaume."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ton corps est un levain",
+				"De vie éternelle.",
+				"Tu sèmes dans nos mains",
+				"Ta Bonne Nouvelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand retentit pour toi",
+				"L’heure du passage,",
+				"Tu donnes sur la croix",
+				"Ta vie en partage."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Tu changes l’eau en vin",
+				"Pour la multitude.",
+				"Tu viens briser les liens",
+				"De nos servitudes."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Les pauvres sont comblés",
+				"De l’amour du Père.",
+				"Son règne peut germer",
+				"Dans nos coeurs de pierre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Ton corps brisé unit",
+				"Le ciel à la terre.",
+				"Dieu nous promet la vie",
+				"En ce grand mystère."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 8,
+			"lines": [
+				"Nous proclamons ta mort",
+				"Pour que vive l’homme.",
+				"Seigneur ressuscité,",
+				"Vienne ton royaume !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#588",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,60 @@
+{
+	"id": "ecoute-nous-dieu-de-la-terre",
+	"title": "Ecoute-nous, Dieu de la terre",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "227"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ecoute-nous, Dieu de la terre ;",
+				"Ecoute-nous, ô Dieu des cieux !",
+				"Des heureux et des malheureux",
+				"Vers toi s’élève la prière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"A toi seul appartient la gloire,",
+				"A toi le règne, à toi l’amour !",
+				"Sans toi le fort tombe en un jour ;",
+				"Par toi le faible a la victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si tu condamnes, tu pardonnes",
+				"Et ton repas nous est offert.",
+				"C’est de tes mains que tu nous sers ;",
+				"Nous vivons de ce que tu nous donnes."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous savons que tu veux toi-même",
+				"Tout ce qui peut nous rendre heureux.",
+				"Fais-nous vouloir ce que tu veux ;",
+				"Oh ! bienheureux celui qui t’aime !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#227",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

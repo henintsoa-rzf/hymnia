@@ -1,0 +1,60 @@
+{
+	"id": "plus-de-nuit",
+	"title": "Plus de nuit",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "305"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Plus de nuit, le jour va naître ;",
+				"Avancez vers le Seigneur.",
+				"Dans le Christ il faut renaître ;",
+				"Tournez vers lui votre coeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens, Seigneur, sauver les hommes ;",
+				"Conduis-nous vers ta clarté.",
+				"Tu le sais, pécheurs nous sommes ;",
+				"Mets en nous ta sainteté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Veillez, car le jour est proche ;",
+				"Soyez fermes dans la foi.",
+				"Frères, marchez sans reproche ;",
+				"Du Seigneur suivez la voie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous préparons ta naissance ;",
+				"Parmi nous tu reviendras.",
+				"Fils de Dieu, par ta présence",
+				"De joie tu nous combleras."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#305",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

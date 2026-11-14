@@ -1,0 +1,30 @@
+{
+	"id": "seigneur-du-fond-de-ma-misere",
+	"title": "Seigneur, du fond de ma misère",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "418"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Seigneur, du fond de ma misère,",
+				"En ta pitié seule j’espère.",
+				"Si tu regardes nos péchés,",
+				"Devant toi qui peut subsister ?"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#418",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

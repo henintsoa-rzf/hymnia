@@ -1,0 +1,60 @@
+{
+	"id": "seigneur-ecoute-ma-priere",
+	"title": "Seigneur, écoute ma prière",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "143"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, écoute ma prière.",
+				"Ne sois pas un juge sévère",
+				"Mais dans ta bonté réponds-moi",
+				"Car nul n’est juste devant toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L’ennemi m’a jeté à terre ;",
+				"Je suis privé de ta lumière :",
+				"Ne tarde pas, je n’en peux plus ;",
+				"Sans ton secours, je suis perdu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Au matin je cherche ta face :",
+				"Accorde-moi encore ta grâce.",
+				"Viens pour moi tracer le chemin ;",
+				"Je sais que je suis dans ta main."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon Dieu, apprends-moi ta sagesse ;",
+				"Délivre-moi de ma détresse.",
+				"Rends-moi la vie, toi mon Seigneur ;",
+				"Accepte-moi pour serviteur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#143",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

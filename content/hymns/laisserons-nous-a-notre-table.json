@@ -1,0 +1,80 @@
+{
+	"id": "laisserons-nous-a-notre-table",
+	"title": "Laisserons-nous à notre table",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "317"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Laisserons-nous à notre table",
+				"Un peu d’espace à l’étranger ?",
+				"Trouvera-t-il quand il viendra",
+				"Un peu de pain et d’amitié ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ne laissons pas mourir la terre,",
+				"Ne laissons pas mourir le feu.",
+				"Tendons nos mains vers la lumière",
+				"Pour accueillir le don de Dieu. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Laisserons-nous à nos paroles",
+				"Un peu de temps à l’étranger ?",
+				"Trouvera-t-il quand il viendra",
+				"Un coeur ouvert pour l’écouter ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Laisserons-nous à notre fête",
+				"Un pas de danse à l’étranger ?",
+				"Trouvera-t-il quand il viendra",
+				"Des mains tendues pour l’inviter ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Laisserons-nous à nos fontaines",
+				"Un peu d’eau vive à l’étranger ?",
+				"Trouvera-t-il quand il viendra",
+				"Des hommes libres et assoiffés ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Laisserons-nous à nos églises",
+				"Un peu d’espace à l’étranger ?",
+				"Trouvera-t-il quand il viendra",
+				"Des coeurs de pauvres et d’affamés ?"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#317",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

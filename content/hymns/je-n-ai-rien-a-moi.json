@@ -1,0 +1,29 @@
+{
+	"id": "je-n-ai-rien-a-moi",
+	"title": "Je n’ai rien à moi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "744"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je n’ai rien à moi",
+				"Mais à pleine voix",
+				"Je chante ma foi."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#744",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

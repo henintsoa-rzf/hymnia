@@ -1,0 +1,76 @@
+{
+	"id": "o-douloureux-visage",
+	"title": "O douloureux visage",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "452"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O douloureux visage",
+				"De mon humble Seigneur ;",
+				"O tête sous l’outrage,",
+				"O front sous la douleur.",
+				"Plein des beautés divines",
+				"Dans les cieux infinis,",
+				"C’est couronné d’épines",
+				"Que je te vois ici."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est toi que ma main blesse,",
+				"C’est moi qui suis guéri ;",
+				"C’est moi qui me redresse,",
+				"C’est toi qui es meurtri.",
+				"Quel étrange partage",
+				"De ma vie et ta mort,",
+				"Où ta mort est le gage",
+				"Que la vie est mon sort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Parmi tant de blessures",
+				"De la lance et des clous,",
+				"Parmi tes meurtrissures,",
+				"La trace de mes coups.",
+				"Et parmi tant d’offenses",
+				"Ton seul, ton seul pardon,",
+				"Et pour seule espérance",
+				"La force de ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"De l’humaine misère",
+				"Tu t’es fait serviteur ;",
+				"De chacun de tes frères",
+				"Tu portes la douleur.",
+				"Seigneur de nos souffrances",
+				"Et de nos lendemains,",
+				"Garde notre espérance",
+				"En tes vivantes mains."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#452",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

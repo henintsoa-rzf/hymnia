@@ -1,0 +1,53 @@
+{
+	"id": "pere-eternel-et-bon",
+	"title": "Père éternel et bon",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "248"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Père éternel et bon, ô toi qu’adorent les anges,",
+				"O Dieu sauveur, à toi nos chants remplis de louange.",
+				"Nous t’adorons,",
+				"Nous bénissons ton saint nom :",
+				"Ton amour jamais ne change."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jour après jour c’est toi, par ta grâce et ta puissance,",
+				"Qui nous donnes la foi et l’amour et l’espérance :",
+				"A toi, Seigneur,",
+				"Notre âme rend tout honneur",
+				"Et dit sa reconnaissance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Gloire au Dieu tout-puissant, gloire au Père qui nous aime,",
+				"Au Fils qui jusqu’à nous voulut s’abaisser lui-même,",
+				"Et à l’Esprit",
+				"Qui nous guide et nous unit",
+				"Dans la foi d’un seul baptême."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#248",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

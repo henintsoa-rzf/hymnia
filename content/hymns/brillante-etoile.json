@@ -1,0 +1,65 @@
+{
+	"id": "brillante-etoile",
+	"title": "Brillante étoile",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "367 A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Brillante étoile en notre nuit",
+				"Qui nous promet le jour béni",
+				"Où Dieu paraît sur terre,",
+				"Voici l’enfant qui nous est né ;",
+				"Le Fils de Dieu nous est donné,",
+				"Image de son Père."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O joie ! O paix !",
+				"Ta lumière sur la terre nous éclaire,",
+				"O bonté de notre Père !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu nous cherchais comme un berger,",
+				"Car tu voulais nous rassembler",
+				"Aux sources d’allégresse.",
+				"Par ton amour, tu fus plus fort",
+				"Que la misère et que la mort",
+				"Qui nous guettaient sans cesse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu prends ton corps de notre chair,",
+				"Tu renouvelles l’univers,",
+				"O Fils de Dieu fait homme.",
+				"Tu nous choisis pour tes amis",
+				"Et tu nous donnes ton Esprit,",
+				"Prémices du Royaume."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#367A",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

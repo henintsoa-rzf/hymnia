@@ -1,0 +1,58 @@
+{
+	"id": "je-crois-en-toi",
+	"title": "Je crois en toi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "566"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je crois en toi, mon Sauveur ressuscité.",
+				"Rien ne pourra de mon coeur ôter la foi.",
+				"Je veux garder la fierté du baptisé.",
+				"Ta force me conduit ; Seigneur, tu es ma joie !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Seigneur, ô Seigneur, toi le maître de la vie,",
+				"Je chante avec amour ta gloire, ô Jésus-Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’espère en toi, mon Sauveur ressuscité,",
+				"Et mon espoir ne sera jamais déçu.",
+				"Tu as promis de garder ton amitié",
+				"A ceux qu’en ton Eglise un jour tu as reçus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je t’aimerai, mon Sauveur ressuscité,",
+				"Et j’aimerai tous mes frères, les humains.",
+				"Je veux aider à bâtir dans l’unité",
+				"Le monde fraternel où nous vivrons demain."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#566",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

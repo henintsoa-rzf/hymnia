@@ -1,0 +1,56 @@
+{
+	"id": "entends-seigneur-ma-plainte",
+	"title": "Entends, Seigneur, ma plainte",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "5 A"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entends, Seigneur, ma plainte,",
+				"Écoute ma parole.",
+				"A l’appel de ma voix",
+				"Incline ton oreille,",
+				"A l’heure où je m’éveille,",
+				"Dieu, mon Sauveur, mon Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dès le matin j’adore",
+				"L’éclat de ton aurore.",
+				"J’élève mon regard",
+				"Vers toi, ô Dieu fidèle :",
+				"Ce jour me renouvelle",
+				"Et me remplit d’espoir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En ta maison j’avance,",
+				"Vers toi je me prosterne,",
+				"O Dieu, mon protecteur.",
+				"Tous ceux que tu abrites,",
+				"En toi se réjouissent :",
+				"Tu les bénis, Seigneur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#5A",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

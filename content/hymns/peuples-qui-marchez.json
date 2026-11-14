@@ -1,0 +1,62 @@
+{
+	"id": "peuples-qui-marchez",
+	"title": "Peuples qui marchez",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "316"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Peuples qui marchez dans la longue nuit,",
+				"Le jour va bientôt se lever.",
+				"Peuples qui cherchez le chemin de vie,",
+				"Dieu lui-même vient vous sauver. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il est temps de lever les yeux vers le monde qui vient,",
+				"Il est temps de jeter la fleur qui se fane en vos mains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est temps de tuer la peur qui vous garde en ses liens,",
+				"Il est temps de porter la croix jusqu’au bout du chemin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il est temps de bâtir la paix dans ce monde qui meurt,",
+				"Il est temps de laisser l’amour libérer votre coeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il est temps de laisser les morts s’occuper de leurs morts,",
+				"Il est temps de laisser le feu ranimer votre coeur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#316",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

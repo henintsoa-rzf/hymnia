@@ -1,0 +1,60 @@
+{
+	"id": "seigneur-tu-nous-appelles",
+	"title": "Seigneur, tu nous appelles",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "212"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, tu nous appelles",
+				"Et nous allons vers toi.",
+				"Ta bonne nouvelle nous met le coeur en joie.",
+				"Ta bonne nouvelle nous met le coeur en joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous marchons vers ton autel",
+				"Où nous attend ton pardon.",
+				"Répondant à ton appel,",
+				"Nous louons ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le long des heures et des jours",
+				"Nous vivons bien loin de toi.",
+				"Donne-nous, Seigneur, l’amour ;",
+				"Donne-nous la joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Donne-nous de partager",
+				"La foi qui est dans nos coeurs",
+				"Et fais-nous, par ta bonté,",
+				"Devenir meilleurs."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#212",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

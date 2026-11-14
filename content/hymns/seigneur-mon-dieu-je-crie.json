@@ -1,0 +1,59 @@
+{
+	"id": "seigneur-mon-dieu-je-crie",
+	"title": "Seigneur, mon Dieu, je crie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "620"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, mon Dieu, je crie vers toi,",
+				"Tu es mon espérance.",
+				"Dans ma misère, écoute-moi,",
+				"Apaise ma souffrance.",
+				"Eclaire-moi sur le chemin",
+				"Et garde ma main dans ta main",
+				"Quand l’ennemi s’avance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’espère en toi au long des jours.",
+				"Je connais ta tendresse",
+				"Et tu pardonnes par amour",
+				"Les fautes de jeunesse.",
+				"Et quand vient le soir de ma vie,",
+				"Je retrouve en toi un ami,",
+				"Dieu bon pour mes faiblesses."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Louons le Dieu de majesté ;",
+				"De tous il est le Père,",
+				"Et gloire au Christ qui a porté",
+				"Le poids de nos misères.",
+				"Des maux il a payé le prix",
+				"Pour nous envoyer son Esprit,",
+				"Feu, amour et lumière."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#620",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

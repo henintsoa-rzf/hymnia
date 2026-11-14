@@ -1,0 +1,72 @@
+{
+	"id": "tout-le-ciel-s-emplit",
+	"title": "Tout le ciel s’emplit",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "379"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tout le ciel s’emplit",
+				"D’une joie nouvelle :",
+				"On entend la nuit",
+				"Dire la merveille.",
+				"Fête sans pareille :",
+				"Le Sauveur est né ;",
+				"L’enfant-Dieu nous est donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le Seigneur paraît,",
+				"Verbe de lumière ;",
+				"L’univers connaît",
+				"La bonté du Père.",
+				"Dieu de notre terre,",
+				"Viens tracer la voie",
+				"Où chemineront nos pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avec les bergers,",
+				"Avec tous les sages,",
+				"C’est le monde entier",
+				"Qui vers lui s’engage",
+				"Pour voir le visage",
+				"De l’amour vivant",
+				"Qui pour nous s’est fait enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Gloire à Jésus-Christ,",
+				"Gloire au Fils du Père !",
+				"Gloire à son Esprit",
+				"Dont l’amour éclaire",
+				"L’éclatant mystère",
+				"Qui remplit le ciel :",
+				"Gloire à l’homme-Dieu ! Noël !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#379",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

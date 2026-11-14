@@ -1,0 +1,62 @@
+{
+	"id": "ta-volonte-seigneur",
+	"title": "Ta volonté, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "608"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ta volonté, Seigneur mon Dieu,",
+				"Deviendra ma sagesse.",
+				"Fais-moi vouloir ce que tu veux",
+				"Pour y voir ta promesse.",
+				"Je chercherai ta volonté.",
+				"Si ton regard m’éclaire,",
+				"Je verrai, Dieu de vérité,",
+				"L’ombre de ton mystère."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Enseigne-moi à discerner,",
+				"Dans la joie et la peine,",
+				"Le chemin où tu veux mener",
+				"Tout homme que tu aimes.",
+				"Comme tu viens me rencontrer",
+				"Et comme tu m’écoutes,",
+				"Que je sache aussi m’approcher",
+				"Des autres sur leur route."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C’est mon bonheur que de chanter",
+				"Que ta joie est profonde",
+				"Quand je comprends ta volonté",
+				"Pour moi et pour le monde.",
+				"Jésus demeure parmi nous,",
+				"Il a notre visage ;",
+				"Je vois en chacun d’entre nous",
+				"L’attente de sa grâce."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#608",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

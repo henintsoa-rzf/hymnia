@@ -1,0 +1,30 @@
+{
+	"id": "affermis-nous-par-ton-esprit",
+	"title": "Affermis-nous par ton Esprit",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "884"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Affermis-nous par ton Esprit",
+				"Dans ta Parole, ô Jésus-Christ !",
+				"Reste avec nous dans les combats",
+				"Et, loin du mal, conduis nos pas."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#884",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

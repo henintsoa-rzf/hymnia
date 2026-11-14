@@ -1,0 +1,70 @@
+{
+	"id": "les-invites",
+	"title": "Les invités",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "774"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Venez maintenant, tout est prêt.",
+				"Venez partager le banquet.",
+				"Heureux celui qui prendra son repas",
+				"Au royaume avec moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le premier a dit : “Je vais voir mon champ ;",
+				"Je n’ai pas le temps de venir manger.",
+				"Auprès de ton maître, il faut m’excuser :",
+				"Je n’ai pas le temps, je n’ai pas le temps !”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le deuxième a dit : “Je viens d’acheter",
+				"Dix boeufs ce matin ; c’est bien du souci.",
+				"Auprès de ton maître, il faut m’excuser :",
+				"J’ai trop de soucis, j’ai trop de soucis”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le troisième a dit : “Je me suis marié ;",
+				"Je n’ai pas envie de partir d’ici.",
+				"Auprès de ton maître, il faut m’excuser :",
+				"Je n’ai pas envie, je n’ai pas envie”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et le maître a dit à son serviteur :",
+				"“Va chercher dehors tous les estropiés.",
+				"Il reste des places autour de mon coeur.",
+				"Fais venir aussi tous les mal aimés !”."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#774",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

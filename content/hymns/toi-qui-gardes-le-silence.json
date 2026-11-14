@@ -1,0 +1,64 @@
+{
+	"id": "toi-qui-gardes-le-silence",
+	"title": "Toi qui gardes le silence",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "623"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toi qui gardes le silence",
+				"Tout le jour, ô Seigneur,",
+				"Nous crions à la violence.",
+				"Ne vois-tu pas nos souffrances ?",
+				"Es-tu mort, ô Seigneur ? (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu partages nos souffrances",
+				"Sans un cri, ô Seigneur.",
+				"Nous t’attendions en puissance,",
+				"Mais tu viens sans apparence.",
+				"Tu t’es fait serviteur. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Elle est force, ta faiblesse",
+				"Sur la croix, ô Seigneur !",
+				"Par tes liens tu nous délivres,",
+				"Par ta mort tu nous fais vivre.",
+				"Tu es grand, ô Seigneur ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ta parole nous engage",
+				"A lutter, ô Seigneur !",
+				"Dans ce monde où tout s’écroule,",
+				"Ton amour nous renouvelle.",
+				"Tu es fort, ô Seigneur ! (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#623",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

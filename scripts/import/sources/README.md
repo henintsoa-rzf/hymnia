@@ -56,3 +56,11 @@ even for `robots.txt`. Do not work around it. Instead:
 4. Run the import as usual. A page that was not saved is reported as `page not saved`.
 
 Example: `evangile21.ts` (specs/004-evangile21-hymnal).
+
+## A hymnal typed in one shared document
+
+Arc-en-ciel (`arc.ts`) comes from a public Google Doc that lists the whole hymnal. The adapter
+reads its HTML export (`…/export?format=html`, allowed by robots.txt) as one page; every entry
+is that URL with a fragment (`#5A`), so the fetcher requests it once per run. Headings carry the
+numbers, the doc's sections become the hymnal's `parts` in `content/hymnals.json`. Fixtures: an
+excerpt of the export in `tests/import/fixtures/arc/`.

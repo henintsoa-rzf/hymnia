@@ -1,0 +1,51 @@
+{
+	"id": "toi-seigneur",
+	"title": "Toi, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "710"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi, Seigneur, toi, le seul Dieu,",
+				"Tu remplis le ciel et la terre.",
+				"Toi, Seigneur, toi, le seul Dieu,",
+				"Vois danser en nous ta lumière.",
+				"Hosanna ! Hosanna au plus haut des cieux ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toi seul es saint,",
+				"Toi seul es Dieu.",
+				"Toi seul es grand,",
+				"Toi seul es Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi seul es bon,",
+				"Toi seul es Dieu.",
+				"Toi seul est vrai,",
+				"Toi seul es Dieu."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#710",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,30 @@
+{
+	"id": "gloire-a-dieu-arc-375",
+	"title": "Gloire à Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "375"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu au plus haut des cieux ;",
+				"Paix sur la terre, sur la terre !",
+				"Bonne volonté envers les hommes.",
+				"Amen, Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#375",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

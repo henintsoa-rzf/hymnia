@@ -1,0 +1,49 @@
+{
+	"id": "rendez-grace-au-seigneur",
+	"title": "Rendez grâce au Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "165"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Rendez grâce au Seigneur car il est bon,…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lui seul fait des merveilles car il est bon,…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Gloire au Père et au Fils, au Saint-Esprit,…"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car il est bon !",
+				"Car éternel est son amour !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#165",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,62 @@
+{
+	"id": "apres-la-longue-attente",
+	"title": "Après la longue attente",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "302"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Après la longue attente,",
+				"Après le rude hiver,",
+				"La nouvelle éclatante",
+				"Ebranle l’univers :",
+				"Fini le dur tourment,",
+				"Le Messie va paraître !",
+				"L’annonce des prophètes",
+				"S’accomplit maintenant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les humbles de la terre,",
+				"Les pauvres du Seigneur",
+				"Pourront lever la tête",
+				"Et réjouir leur coeur.",
+				"L’amour de Dieu s’étend",
+				"Sur tous ceux qui le craignent.",
+				"La splendeur de son règne",
+				"Eclaire les vivants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Seigneur, ta puissance",
+				"Nous soutient chaque jour,",
+				"Eveillant l’espérance",
+				"De ton prochain retour.",
+				"Le désespoir n’est plus,",
+				"Car ta bonté fidèle",
+				"Est la vie éternelle.",
+				"Oh ! viens, Seigneur Jésus !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#302",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

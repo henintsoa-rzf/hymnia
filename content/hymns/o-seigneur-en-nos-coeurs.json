@@ -1,0 +1,30 @@
+{
+	"id": "o-seigneur-en-nos-coeurs",
+	"title": "O Seigneur, en nos coeurs",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "733"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"O Seigneur, en nos coeurs,",
+				"Viens vivre par la foi.",
+				"Nous croyons au bonheur",
+				"Qui seul nous vient de toi."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#733",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

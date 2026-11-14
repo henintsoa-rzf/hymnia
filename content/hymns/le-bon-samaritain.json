@@ -1,0 +1,74 @@
+{
+	"id": "le-bon-samaritain",
+	"title": "Le bon Samaritain",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "776"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur le chemin de Jéricho",
+				"Un homme portait son fardeau ;",
+				"Des brigands l’ont dépouillé,",
+				"L’ont battu, l’ont déchiré."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C’est la loi, c’est la loi,",
+				"Ne te salis pas les doigts.",
+				"Laisse-le sans remords,",
+				"Il est déjà presque mort.",
+				"Mais l’amour est passé,",
+				"Aussitôt s’est arrêté.",
+				"Mais l’amour est passé,",
+				"Sous les traits d’un étranger !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Des gens très bien de son pays",
+				"Passant par là tout près de lui",
+				"Sont allés à travers champs",
+				"Pour ne pas toucher le sang !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Arriva le Samaritain",
+				"Avec de l’huile, avec du vin,",
+				"Qui prit le temps de soigner",
+				"Toutes les plaies du blessé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jusqu’à l’auberge il l’a conduit",
+				"Et l’a traité comme un ami :",
+				"Depuis ce jour, on s’en souvient,",
+				"C’était le bon Samaritain !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#776",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

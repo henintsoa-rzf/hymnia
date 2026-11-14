@@ -1,0 +1,74 @@
+{
+	"id": "est-il-rien-de-plus-beau",
+	"title": "Est-il rien de plus beau",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "722"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Est-il rien de plus beau, plus beau, plus beau,",
+				"Que le soleil sur l’eau, sur l’eau, sur l’eau,",
+				"Les couleurs sur le ciel et les fleurs sous le ciel ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Est-il rien de plus grand, plus grand, plus grand,",
+				"Que le ciel si brillant, brillant, brillant,",
+				"Sur les monts et la mer, dans la nuit et le jour ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Est-il rien de plus gai, plus gai, plus gai,",
+				"Que de rire et chanter, chanter, chanter,",
+				"Comme un oiseau de Dieu, comme un enfant de Dieu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Est-il rien de plus doux, plus doux, plus doux,",
+				"Que de trouver partout, partout, partout,",
+				"Des amis de Jésus qui seront nos amis ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Est-il rien de meilleur, meilleur, meilleur,",
+				"Que d’avoir pour Seigneur, Seigneur, Seigneur,",
+				"Ce Jésus, Fils de Dieu, notre frère Jésus ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Il n’est rien de plus beau, plus beau, plus beau,",
+				"Pas de plus grand cadeau, cadeau, cadeau,",
+				"Que l’amour de Jésus, que l’amour pour Jésus !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#722",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

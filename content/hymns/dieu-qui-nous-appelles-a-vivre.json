@@ -1,0 +1,68 @@
+{
+	"id": "dieu-qui-nous-appelles-a-vivre",
+	"title": "Dieu, qui nous appelles à vivre",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "515"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, qui nous appelles à vivre",
+				"Aux combats de la liberté,",
+				"Pour briser nos chaînes,",
+				"Fais en nous ce que tu dis !",
+				"Pour briser nos chaînes,",
+				"Fais jaillir en nous l’Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu, qui nous apprends à vivre",
+				"Aux chemins de la vérité,",
+				"Pour lever le jour,",
+				"Fais en nous ce que tu dis !",
+				"Pour lever le jour,",
+				"Fais jaillir en nous l’Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu, qui nous invite à suivre",
+				"Le soleil du Ressuscité,",
+				"Pour passer la mort,",
+				"Fais en nous ce que tu dis !",
+				"Pour passer la mort,",
+				"Fais jaillir en nous l’Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu, qui as ouvert le livre",
+				"Où s’écrit notre dignité,",
+				"Pour tenir debout,",
+				"Fais en nous ce que tu dis !",
+				"Pour tenir debout,",
+				"Fais jaillir en nous l’Esprit !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#515",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

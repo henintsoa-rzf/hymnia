@@ -1,0 +1,50 @@
+{
+	"id": "flamme-jaillie-d-aupres-de-dieu",
+	"title": "Flamme jaillie d’auprès de Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "517"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Flamme jaillie d’auprès de Dieu,",
+				"Esprit Saint, embrase-nous !",
+				"Comme brindilles au même feu,",
+				"Fais-nous brûler de ton amour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ote l’ivraie de nos péchés",
+				"Qui menace en nous le grain,",
+				"Germe de vie ensemencé",
+				"Par la parole et par le pain !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Grave en nos coeurs le nouveau nom",
+				"De Jésus ressuscité !",
+				"Sois notre souffle, et nous pourrons",
+				"Chanter sa gloire en vérité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#517",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

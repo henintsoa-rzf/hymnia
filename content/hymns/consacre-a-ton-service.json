@@ -1,0 +1,70 @@
+{
+	"id": "consacre-a-ton-service",
+	"title": "Consacre à ton service",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "425"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Consacre à ton service",
+				"Mon coeur et mon esprit",
+				"En vivant sacrifice,",
+				"O Seigneur Jésus-Christ."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Accepte mon offrande,",
+				"O Jésus, Fils de Dieu,",
+				"Et que sur moi descende",
+				"La flamme du saint lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’abandonne ma vie,",
+				"Sans regrets ni frayeur,",
+				"A ta grâce infinie,",
+				"O mon Libérateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Qu’un feu nouveau s’allume",
+				"Par ton amour en moi,",
+				"Et dans mon coeur consume",
+				"Ce qui n’est pas à toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens, Jésus, sois mon Maître ;",
+				"Par ton sang racheté,",
+				"A toi seul je veux être",
+				"Et pour l’éternité !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#425",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

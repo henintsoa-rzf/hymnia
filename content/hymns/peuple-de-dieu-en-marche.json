@@ -1,0 +1,52 @@
+{
+	"id": "peuple-de-dieu-en-marche",
+	"title": "Peuple de Dieu en marche",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "552"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Peuple de Dieu en marche,",
+				"N’oublie pas qui est ta lumière !",
+				"Jésus-Christ, Jésus-Christ,",
+				"C’est lui notre soleil !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En lui l’aube est nouvelle ;",
+				"Le monde est sans télèbres",
+				"Depuis le matin pascal.",
+				"Jésus-Christ, Jésus-Christ,",
+				"C’est lui notre soleil !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous célébrons ensemble",
+				"La foi qui nous rassemble",
+				"Depuis le matin pascal.",
+				"Jésus-Christ, Jésus-Christ,",
+				"C’est lui notre soleil !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#552",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

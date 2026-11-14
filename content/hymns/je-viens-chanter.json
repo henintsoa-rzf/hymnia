@@ -1,0 +1,70 @@
+{
+	"id": "je-viens-chanter",
+	"title": "Je viens chanter",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "101"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je viens chanter l’amour et la justice ;",
+				"Que leur clarté au fond de moi grandisse.",
+				"Pour leur beauté, je chanterai, Seigneur,",
+				"Pour leur vigueur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"J’ai discerné, mon Dieu, la voie parfaite ;",
+				"Je la suivrai comme un chemin de fête.",
+				"A ta rencontre avec mes compagnons",
+				"Nous marcherons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je ne peux voir qui se plaît à la haine,",
+				"Qui pervertit l’intégrité humaine.",
+				"Je déjouerai les ruses des tricheurs,",
+				"Des imposteurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je veillerai sur les hommes fidèles ;",
+				"J’assemblerai leur troupe fraternelle.",
+				"Ils mangeront le pain de ma maison ;",
+				"Ils y vivront."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Chaque matin la mort et sa séquelle",
+				"Devront céder devant la vie nouvelle.",
+				"Sur la cité où la paix s’étendra,",
+				"Dieu régnera."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#101",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

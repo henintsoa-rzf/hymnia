@@ -1,0 +1,90 @@
+{
+	"id": "le-seigneur-soit-avec-nous",
+	"title": "Le Seigneur soit avec nous",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "224"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur soit avec nous,",
+				"Alléluia !",
+				"Qu’il nous garde au fil des jours,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sa parole a retenti,",
+				"Alléluia !",
+				"Sa parole est vérité,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous vivons de son amour,",
+				"Alléluia !",
+				"Chaque instant de notre vie,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ecoutons et recevons,",
+				"Alléluia !",
+				"La parole du Seigneur,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"O Seigneur, source de vie,",
+				"Alléluia !",
+				"Remplis-nous de ton amour,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Gloire au Père et gloire au Fils,",
+				"Alléluia !",
+				"Gloire soit au Saint-Esprit,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Maintenant et à jamais,",
+				"Alléluia !",
+				"Comme il fut depuis toujours,",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#224",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

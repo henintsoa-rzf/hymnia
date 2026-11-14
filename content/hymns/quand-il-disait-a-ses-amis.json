@@ -1,0 +1,84 @@
+{
+	"id": "quand-il-disait-a-ses-amis",
+	"title": "Quand il disait à ses amis",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "494"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Quand il disait à ses amis :"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"“Si vous saviez le don de Dieu”,",
+				"Nous avons asséché les sources de la vie."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais ce matin, Alléluia !",
+				"Notre lumière a jailli du tombeau !",
+				"Alléluia ! Alléluia ! Jésus est vivant ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"“Venez à moi, je suis le jour”,",
+				"Nous avons sacrifié aux forces de la nuit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"“Je suis vainqueur ; pourquoi trembler ?”,",
+				"Nous avons nié Dieu en face de la peur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"“Heureux celui qui veut la paix”,",
+				"Nous avons déserté le lieu de nos combats."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"“Séchez vos pleurs, prenez ma joie !”,",
+				"Nous avons perdu coeur à force de trahir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"“Soyez mon corps, soyez mon sang”,",
+				"Nous avons pris la mort au lieu de prendre la vie."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#494",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

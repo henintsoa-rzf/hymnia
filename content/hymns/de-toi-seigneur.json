@@ -1,0 +1,59 @@
+{
+	"id": "de-toi-seigneur",
+	"title": "De toi, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "582"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"De toi, Seigneur, nous vient le don",
+				"Du repas de la fête.",
+				"En ce désert où nous marchons,",
+				"Toujours tu nous l’apprêtes.",
+				"Richesse en notre pauvreté,",
+				"Réponse à notre attente,",
+				"Ta Pâque nous rassemble."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ce feu que tu vins allumer",
+				"Enflamme notre monde,",
+				"Foyer visible d’unité,",
+				"Bonté qui nous inonde.",
+				"L’amour bâtit la communion",
+				"Sur cette unique pierre,",
+				"Pour notre terre entière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu as suivi nos durs chemins",
+				"De souffrance en souffrance.",
+				"Sur le visage des humains",
+				"Affleure ta présence.",
+				"Que le courage de la foi,",
+				"Puisque par toi nous sommes,",
+				"Nous porte vers tout homme."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#582",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

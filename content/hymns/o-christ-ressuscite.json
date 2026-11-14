@@ -1,0 +1,34 @@
+{
+	"id": "o-christ-ressuscite",
+	"title": "O Christ ressuscité",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "846"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Christ ressuscité, exauce-nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O Christ monté aux cieux, exauce-nous !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#846",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

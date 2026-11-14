@@ -1,0 +1,60 @@
+{
+	"id": "vous-qui-sur-la-terre-habitez-arc-100",
+	"title": "Vous qui sur la terre habitez",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "100"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous qui sur la terre habitez,",
+				"Chantez à pleine voix, chantez.",
+				"Réjouissez-vous au Seigneur.",
+				"Égayez-vous en son honneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lui seul est notre souverain,",
+				"C’est lui qui nous fit de sa main :",
+				"Nous le peuple qu’il mènera,",
+				"Le troupeau qu’il rassemblera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Présentez-vous tous devant lui,",
+				"Dans sa maison dès aujourd’hui ;",
+				"Célébrez son nom glorieux,",
+				"Exaltez-le jusques aux cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour toi, Seigneur, que notre amour",
+				"Se renouvelle chaque jour ;",
+				"Ta bonté, ta fidélité",
+				"Demeurent pour l’éternité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#100",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

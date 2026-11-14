@@ -1,0 +1,30 @@
+{
+	"id": "joie-joie",
+	"title": "Joie, joie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "713"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Joie, joie, mon coeur est dans la joie.",
+				"Joie, joie, mon coeur est dans la joie.",
+				"Jésus, mon roi, est près de moi",
+				"Et voilà pourquoi mon coeur est dans la joie."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#713",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

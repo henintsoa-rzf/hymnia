@@ -1,0 +1,62 @@
+{
+	"id": "mystere-du-calvaire",
+	"title": "Mystère du calvaire",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "468"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mystère du calvaire,",
+				"Scandale de la croix :",
+				"Le Maître de la terre,",
+				"Esclave sur ce bois !",
+				"Victime dérisoire,",
+				"Toi seul es le Sauveur,",
+				"Toi seul, le Roi de gloire,",
+				"Au rang des malfaiteurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu sais combien les hommes",
+				"Ignorent ce qu’ils font.",
+				"Tu n’as jugé personne,",
+				"Tu donnes ton pardon.",
+				"Partout des pauvres pleurent,",
+				"Partout on fait souffrir ;",
+				"Pitié pour ceux qui meurent",
+				"Et ceux qui font mourir !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Afin que vienne l’Heure",
+				"Promise à toute chair,",
+				"Seigneur, ta croix demeure",
+				"Dressée sur l’univers,",
+				"Sommet de notre terre",
+				"Où meurt la mort vaincue,",
+				"Où Dieu se montre père",
+				"En nous donnant Jésus."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#468",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

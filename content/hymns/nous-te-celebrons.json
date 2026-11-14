@@ -1,0 +1,50 @@
+{
+	"id": "nous-te-celebrons",
+	"title": "Nous te célébrons",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "252"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous te célébrons, Dieu de vérité.",
+				"Nos pas incertains, nos yeux aveuglés",
+				"Perdront leur chemin et vont s’égarer.",
+				"Viens mettre en nos nuits ta vive clarté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous te célébrons, Dieu de vérité.",
+				"Des murs élevés nous font prisonniers.",
+				"Fais-nous retrouver la vraie liberté",
+				"Dont Jésus est signe et réalité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous te célébrons, Dieu de charité.",
+				"La haine et la peur dessèchent nos coeurs.",
+				"Mais l’amour renaît des fidélités",
+				"Que l’Esprit prépare et la croix recrée."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#252",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

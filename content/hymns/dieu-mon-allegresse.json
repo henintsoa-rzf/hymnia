@@ -1,0 +1,65 @@
+{
+	"id": "dieu-mon-allegresse",
+	"title": "Dieu, mon allégresse",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "611"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, mon allégresse,",
+				"Viens par ta jeunesse",
+				"Réveiller ma vie :",
+				"Mes années se passent",
+				"A rêver d’espaces",
+				"Où rien ne périt.",
+				"Vois l’eau vive qui s’enfuit,",
+				"Le désert et l’aventure,",
+				"Si tu ne m’assures."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu, mon espérance,",
+				"Viens par ta puissance",
+				"Rafraîchir ma vie :",
+				"Mon orgueil redoute",
+				"De laisser ta route",
+				"Traverser ma nuit.",
+				"Vois le temps qui m’a détruit,",
+				"La victoire des ténèbres,",
+				"Si tu ne m’éclaires."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu, notre impatience,",
+				"Viens par ton silence",
+				"Apaiser nos vies :",
+				"Nous courons la terre",
+				"En criant misère",
+				"Sans joie, sans répit.",
+				"Sois un chant pour notre cri,",
+				"Compagnon qui nous devance,",
+				"Dieu, notre impatience."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#611",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,62 @@
+{
+	"id": "seigneur-que-ton-regne-admirable",
+	"title": "Seigneur, que ton règne admirable",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "312"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, que ton règne admirable",
+				"S’affermisse enfin parmi nous,",
+				"Ce règne à nul autre semblable",
+				"Qu’on ne peut hâter qu’à genoux,",
+				"Règne auquel ton Esprit incline",
+				"Par l’attrait puissant de ta voix,",
+				"Règne où la force qui domine,",
+				"C’est ton amour, ô Roi des rois !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"S’il est d’abord sans apparence,",
+				"S’il ne grandit que lentement,",
+				"Telle à nos yeux est la semence",
+				"Qu’apporte ou que chasse le vent.",
+				"Mais, ô Dieu, tu la vivifies :",
+				"Voici l’arbre aux puissants rameaux",
+				"Et sous ses branches agrandies",
+				"S’abritent les nids des oiseaux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Roi que le monde désire,",
+				"Qu’il désire et ne connaît pas,",
+				"Etends au loin l’heureux empire",
+				"Que tu veux fonder ici-bas !",
+				"Qu’il soit vaste autant que la terre,",
+				"Qu’il soit pur autant que les cieux",
+				"Et que partout, ô notre Père,",
+				"Il rende ton nom glorieux !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#312",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

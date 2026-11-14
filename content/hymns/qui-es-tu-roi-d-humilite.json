@@ -1,0 +1,80 @@
+{
+	"id": "qui-es-tu-roi-d-humilite",
+	"title": "Qui es-tu, Roi d’humilité",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "380"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui es-tu, Roi d’humilité,",
+				"Roi sans palais, Roi sans armée ?",
+				"Nous sommes venus t’adorer",
+				"Des bouts du monde. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous ne savons pas bien comment",
+				"Un signe vu en Orient",
+				"A conduit nos pas au levant",
+				"De ta lumière. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que feras-tu de cet argent,",
+				"De ces bijoux, de notre encens ?",
+				"Nous les avions pris en pensant",
+				"A nos manières. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Regarde donc autour de toi,",
+				"Dans les richesses qui sont là,",
+				"Les nations qui ne savent pas",
+				"Que tu les aimes. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Marie pourra te raconter",
+				"Qu’avec nous, après les bergers,",
+				"Tout l’univers s’est rassemblé",
+				"Sous ton étoile. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Petit roi juif et Roi du ciel,",
+				"Notre grand Roi, l’Emmanuel,",
+				"Nous traversons ton Israël",
+				"Pour en renaître ! (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#380",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

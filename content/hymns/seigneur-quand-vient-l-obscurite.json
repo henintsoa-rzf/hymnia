@@ -1,0 +1,60 @@
+{
+	"id": "seigneur-quand-vient-l-obscurite",
+	"title": "Seigneur, quand vient l’obscurité",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "650"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, quand vient l’obscurité,",
+				"Eclaire-nous de vérité,",
+				"Et dans la paix de cette nuit,",
+				"Refais nos corps et nos esprits !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta grâce efface les péchés ;",
+				"A nous aussi, pardonne-les !",
+				"Délivre-nous de ce fardeau",
+				"Et nous aurons le vrai repos."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si le sommeil nous fuit parfois,",
+				"Que notre esprit s’élève à toi,",
+				"Se souvenant d’intercéder",
+				"Pour ceux que tu nous as donnés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur, tu veux, pour notre bien,",
+				"Après le jour, la nuit qui vient.",
+				"Dans ce repos, tu nous bénis,",
+				"O Père, ô Fils, ô Saint-Esprit."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#650",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

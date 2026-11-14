@@ -1,0 +1,60 @@
+{
+	"id": "trouver-dans-ma-vie-ta-presence",
+	"title": "Trouver dans ma vie ta présence",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "601"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Trouver dans ma vie ta présence,",
+				"Tenir une lampe allumée,",
+				"Choisir avec toi la confiance,",
+				"Aimer et se savoir aimé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Croiser ton regard dans le doute,",
+				"Brûler à l’écho de ta voix,",
+				"Rester pour le pain de la route,",
+				"Savoir reconnaître ton pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Brûler quand le feu devient cendre,",
+				"Partir vers celui qui attend,",
+				"Choisir de donner sans reprendre,",
+				"Fêter le retour d’un enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ouvrir quand tu frappes à ma porte,",
+				"Briser les verrous de la peur,",
+				"Savoir tout ce que tu m’apportes,",
+				"Rester et devenir veilleur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#601",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

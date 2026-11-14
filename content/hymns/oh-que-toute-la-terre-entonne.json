@@ -9,6 +9,11 @@
 		{
 			"hymnal": "adf",
 			"number": "534"
+		},
+		{
+			"hymnal": "arc",
+			"number": "264",
+			"title": "Jésus, toute la terre entonne"
 		}
 	],
 	"sections": [
@@ -75,6 +80,11 @@
 			"name": "JEM — jemaf.fr",
 			"url": "https://jemaf.fr/chant/af534",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#264",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

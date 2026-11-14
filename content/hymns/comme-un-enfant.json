@@ -1,0 +1,70 @@
+{
+	"id": "comme-un-enfant",
+	"title": "Comme un enfant",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "428"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comme un enfant qui sert son père",
+				"Avec amour, avec bonheur,",
+				"Je veux t’aimer, je veux te plaire",
+				"Et te servir, ô Dieu sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Comme un enfant, je veux sans crainte",
+				"T’offrir ma vie jour après jour.",
+				"J’aimerai ta parole sainte.",
+				"Je compterai sur ton secours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur Jésus, c’est ta promesse",
+				"D’affermir en nous ce désir :",
+				"Te parler, te prier sans cesse,",
+				"Dans le bonheur de t’obéir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"De ton Esprit, emplis nos êtres ;",
+				"De ton amour emplis nos coeurs.",
+				"Habite en nous, fais-nous connaître",
+				"Et ta lumière et ta douceur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Seigneur, pour nous tu intercèdes ;",
+				"Redis au Père notre appel.",
+				"Nous t’attendons, viens à notre aide,",
+				"O toi qui reviendras du ciel."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#428",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,75 @@
+{
+	"id": "c-est-toi-seigneur-notre-joie",
+	"title": "C’est toi, Seigneur, notre joie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "223"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C’est toi, Seigneur, notre joie,",
+				"C’est toi, Seigneur, notre joie.",
+				"C’est toi, Seigneur qui nous rassembles,",
+				"C’est toi, Seigneur qui nous rassembles.",
+				"C’est toi qui nous unis dans ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, tu guides nos pas,",
+				"Seigneur, tu guides nos pas.",
+				"Le monde a tant besoin de toi,",
+				"Le monde a tant besoin de toi.",
+				"Le monde a tant besoin de ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu sais le poids de nos peines,",
+				"Tu sais le poids de nos peines.",
+				"Tu sais l’espoir qui nous soulève,",
+				"Tu sais l’espoir qui nous soulève.",
+				"Tu marches auprès de nous dans ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Voici le jour du Seigneur,",
+				"Voici le jour du Seigneur.",
+				"Ton peuple cherche ta parole,",
+				"Ton peuple cherche ta parole",
+				"Pour vivre chaque jour dans ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Seigneur, voici le repas,",
+				"Seigneur, voici le repas.",
+				"Voici le pain que tu nous donnes,",
+				"Voici le pain que tu nous donnes",
+				"Pour ne plus faire qu’un dans ton amour."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#223",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

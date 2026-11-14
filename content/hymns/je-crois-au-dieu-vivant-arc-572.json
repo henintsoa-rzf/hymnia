@@ -1,0 +1,52 @@
+{
+	"id": "je-crois-au-dieu-vivant-arc-572",
+	"title": "Je crois au Dieu vivant",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "572"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je crois au Dieu vivant ; il est le créateur,",
+				"Il est mon Père et mon espérance, mon seul Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je crois en Jésus-Christ mort et ressuscité ;",
+				"Il est pour moi le chemin, la vie et la vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je crois à l’Esprit Saint, invisible et présent ;",
+				"C’est lui qui donne force et victoire à tous les croyants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le Seigneur dans l’Eglise nous a tous appelés",
+				"A vivre dans la foi, l’espérance et la charité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#572",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

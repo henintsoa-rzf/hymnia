@@ -1,0 +1,30 @@
+{
+	"id": "benis-le-seigneur",
+	"title": "Bénis le Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "162"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Bénis le Seigneur, mon âme !",
+				"Que tout mon être bénisse son nom !",
+				"Bénis le Seigneur, mon âme,",
+				"Et n’oublie aucun de ses bienfaits !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#162",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,60 @@
+{
+	"id": "voici-mon-coeur",
+	"title": "Voici mon coeur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "451"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici mon coeur,",
+				"Je viens vers toi, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, je suis devant ta croix ;",
+				"J’y vois tout ton amour pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as pardonné jusqu’au bout ;",
+				"Pour toi, je me mets à genoux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, tu es ressuscité ;",
+				"Ta joie, tu veux nous la donner."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oui, j’ai reconnu ton amour ;",
+				"Pour toi je chanterai toujours."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#451",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

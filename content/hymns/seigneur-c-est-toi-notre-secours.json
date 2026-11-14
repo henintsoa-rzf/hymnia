@@ -1,0 +1,60 @@
+{
+	"id": "seigneur-c-est-toi-notre-secours",
+	"title": "Seigneur, c’est toi notre secours",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "544"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, c’est toi notre secours,",
+				"Nous vivons tous de ton amour.",
+				"Quand vient la nuit de tous côtés,",
+				"Ouvre nos yeux à ta clarté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O toi, Jésus, notre Seigneur,",
+				"Accorde-nous le grand bonheur",
+				"De partager le même pain,",
+				"Nous réjouir à ton festin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! viens sur nous, toi, Saint-Esprit,",
+				"Donner ce que Dieu a promis ;",
+				"Rassemble-nous dans l’unité",
+				"Pour célébrer ta vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Père éternel, Dieu créateur,",
+				"Fils bien-aimé, libérateur,",
+				"Source de vie, Esprit d’amour,",
+				"Seigneur, ton règne est pour toujours."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#544",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

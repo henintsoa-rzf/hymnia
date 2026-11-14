@@ -1,0 +1,31 @@
+{
+	"id": "seigneur-autour-de-toi",
+	"title": "Seigneur, autour de toi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "213"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Seigneur, autour de toi",
+				"Nous voici réunis",
+				"Comme autour d’un puits,",
+				"Pour boire à ta Parole",
+				"Et nous reposer."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#213",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

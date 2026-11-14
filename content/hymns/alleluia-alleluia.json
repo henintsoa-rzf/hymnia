@@ -1,0 +1,28 @@
+{
+	"id": "alleluia-alleluia",
+	"title": "Alléluia ! Alléluia !",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "833"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia !",
+				"Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#833",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,66 @@
+{
+	"id": "debout-peuple-de-dieu",
+	"title": "Debout, peuple de Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "707"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Debout, peuple de Dieu ;",
+				"Réjouis-toi,",
+				"Car voici la lumière,",
+				"La lumière de Dieu.",
+				"Peuple de Dieu, réjouis-toi,",
+				"Alléluia !",
+				"Peuple de Dieu, vive ta joie,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ce peuple, tu l’as pris pour être ton ami ;",
+				"Nous voici, Jésus, fais de nous le peuple de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Venus de tous pays, conduits par ton Esprit,",
+				"Nous voici, Jésus, fais de nous le peuple de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu veux nous rassembler au coeur de ton été :",
+				"Nous voici, Jésus, fais de nous le peuple de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le monde entier espère et cherche la lumière.",
+				"Nous voici, Jésus, fais de nous le peuple de Dieu."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#707",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

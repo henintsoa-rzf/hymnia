@@ -1,0 +1,72 @@
+{
+	"id": "quand-le-soir-descend",
+	"title": "Quand le soir descend",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "609"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand le soir descend",
+				"Sur ma peur,",
+				"Montre-toi vivant",
+				"A mon coeur.",
+				"Quand le soir descend",
+				"Sur ma peur,",
+				"Réveille ma foi, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je n’ai pas trouvé",
+				"Le trésor ;",
+				"Mais l’amour caché",
+				"N’est pas mort.",
+				"Je n’ai pas trouvé",
+				"Le trésor ;",
+				"Mon Dieu, je te cherche encor."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens chez moi t’asseoir,",
+				"Prends le pain !",
+				"Tu rejoins si tard",
+				"Mon chemin.",
+				"Viens chez moi t’asseoir,",
+				"Prends le pain !",
+				"Mes yeux s’ouvriront enfin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand l’époux viendra",
+				"Dans la nuit,",
+				"Quand retentira",
+				"Le grand cri,",
+				"Quand l’époux viendra",
+				"Dans la nuit,",
+				"J’irai au-devant de lui."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#609",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

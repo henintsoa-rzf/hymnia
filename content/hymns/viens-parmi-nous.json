@@ -1,0 +1,78 @@
+{
+	"id": "viens-parmi-nous",
+	"title": "Viens parmi nous",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "768"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens parmi nous, Seigneur Jésus,",
+				"Dans ce Noël tant attendu.",
+				"Viens parmi nous, Seigneur Jésus,",
+				"Dans ce Noël tant attendu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens parmi nous dans les trompettes,",
+				"Dans les tambours, les airs de fête.",
+				"Viens parmi nous aussi la nuit,",
+				"Quand tout se tait après le bruit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens parmi nous dans nos familles,",
+				"Nous, les garçons, et nous, les filles.",
+				"Viens parmi nous pour nos amis",
+				"Et aussi pour ceux qu’on oublie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens parmi nous dans la lumière,",
+				"Dans ces bougies qu’on éclaire.",
+				"Viens parmi nous au fond du coeur ;",
+				"Fais-nous goûter le vrai bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Reste avec nous après la fête,",
+				"Quand sont finies les découvertes.",
+				"Reste avec nous ; de nos cadeaux,",
+				"C’est toi qui restes le plus beau."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Reste avec nous, Seigneur Jésus,",
+				"Dans ce (ou : Après) Noël tant attendu."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#768",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

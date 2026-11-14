@@ -1,0 +1,59 @@
+{
+	"id": "christ-est-ressuscite-des-morts",
+	"title": "Christ est ressuscité des morts",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "497"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ est ressuscité des morts,",
+				"Car Dieu nous est fidèle.",
+				"Il donne à nos coeurs et nos corps",
+				"La vie enfin nouvelle.",
+				"Et voici avec son roi",
+				"L’été durable de la joie.",
+				"Chantons tous Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il effaça tous nos péchés",
+				"Par sa mort, en silence.",
+				"A tous les siens, il vient montrer",
+				"L’éclat de sa puissance.",
+				"Terre et cieux, il faut chanter",
+				"La force de sa vérité.",
+				"Chantons tous Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il vient pour nous donner le pain,",
+				"Le pain, le vin, la grâce ;",
+				"Prendre les hommes par la main,",
+				"Sa droite est notre place.",
+				"Nous chantons sa royauté,",
+				"Nous chanterons l’éternité.",
+				"Chantons tous Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#497",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,68 @@
+{
+	"id": "seigneur-dieu-c-est-vrai",
+	"title": "Seigneur Dieu, c’est vrai",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "732"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur Dieu, c’est vrai,",
+				"Toi, tu me connais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur Dieu, toi, tu sais",
+				"Tout ce qui est dans mon coeur,",
+				"Seigneur Dieu, toi, tu sais",
+				"Pourquoi tout-à-coup je pleure."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur Dieu, toi, tu vois",
+				"Mes efforts et puis mes joies.",
+				"Seigneur Dieu, toi, tu vois",
+				"Même quand personne n’est là."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur Dieu, tu entends",
+				"La prière que je fais.",
+				"Seigneur Dieu, tu entends",
+				"Et tu gardes mon secret."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur Dieu, toi, tu es",
+				"L’ami de tous les enfants.",
+				"Seigneur Dieu, toi, tu es",
+				"Le plus beau et le plus grand."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#732",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

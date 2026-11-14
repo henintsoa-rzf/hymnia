@@ -1,0 +1,59 @@
+{
+	"id": "je-veux-te-benir",
+	"title": "Je veux te bénir",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "251"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux te bénir, Dieu, mon Père,",
+				"Je veux te bénir nuit et jour.",
+				"Tu es le Dieu qui nous libère ;",
+				"Je chanterai ton grand amour.",
+				"Sois béni, Dieu de vérité,",
+				"Pour tous les dons de ta bonté.",
+				"Alléluia, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es la joie de ma jeunesse ;",
+				"Tu es lumière dans ma nuit.",
+				"Tu mets ta force en ma faiblesse",
+				"Et l’espérance dans ma vie.",
+				"T’avoir pour Maître et pour Seigneur,",
+				"C’est posséder le vrai bonheur.",
+				"Alléluia, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bénissons tous Dieu, notre Père,",
+				"Et JésuChrist, notre Sauveur.",
+				"Bénissons l’Esprit de lumière,",
+				"Lui qui habite dans nos coeurs.",
+				"Dieu trois fois saint, fais-nous un jour",
+				"Franchir le seuil de ton séjour.",
+				"Alléluia, Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#251",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

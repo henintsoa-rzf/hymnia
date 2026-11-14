@@ -1,0 +1,65 @@
+{
+	"id": "o-jesus-mon-frere",
+	"title": "O Jésus, mon frère",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "610"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus, mon frère,",
+				"Ma joie, ma lumière",
+				"Au fond de ma vie,",
+				"Ta présence est douce",
+				"Comme un flot de source,",
+				"Un chant dans la nuit.",
+				"Jésus, prince de la vie,",
+				"Tout le temps et tout l’espace",
+				"Brillent de ta grâce."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Au temps de l’épreuve,",
+				"Que ma joie demeure,",
+				"O Jésus, en toi.",
+				"Dans le bonheur même,",
+				"Que ton nom devienne",
+				"La plus haute joie,",
+				"Jésus, mon frère et mon roi,",
+				"Toi l’espoir, toi le mystère,",
+				"La paix de la terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Jésus qui m’aimes,",
+				"Ta parole sème",
+				"Sur moi tant de dons ;",
+				"Seule ta présence",
+				"Met dans ton silence",
+				"Un désir profond.",
+				"Jésus, je salue ton nom.",
+				"En toi, Jésus, à toute heure,",
+				"Que ma joie demeure."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#610",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

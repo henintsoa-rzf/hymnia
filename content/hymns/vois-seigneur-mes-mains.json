@@ -1,0 +1,60 @@
+{
+	"id": "vois-seigneur-mes-mains",
+	"title": "Vois, Seigneur, mes mains",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "141"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vois, Seigneur, mes mains qui se tendent ;",
+				"Entends mon cri, viens jusqu’à moi !",
+				"Comme un parfum brûlant pour toi,",
+				"Reçois ma prière en offrande."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qu’un gardien soit près de mes lèvres",
+				"Pour écarter les mots trompeurs ;",
+				"J’ai trop goûté à leur douceur",
+				"Qui laisse en moi un goût de fièvre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Près de moi, que viennent des frères",
+				"Pour soutenir et corriger",
+				"Ce coeur si faible et partagé",
+				"Qui, tu le sais, voudrait te plaire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je regarde à ton seul visage,",
+				"Tant de filets me sont tendus !",
+				"Toi qui toujours m’a défendu,",
+				"Devant mes pas ouvre un passage."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#141",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

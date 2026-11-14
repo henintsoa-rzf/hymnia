@@ -124,5 +124,75 @@
 			"Evangile21"
 		],
 		"sortOrder": 10
+	},
+	{
+		"id": "arc",
+		"name": "Arc-en-ciel",
+		"abbreviations": [
+			"ARC"
+		],
+		"sortOrder": 11,
+		"parts": [
+			{
+				"name": "Psaumes",
+				"first": 1
+			},
+			{
+				"name": "Chants bibliques",
+				"first": 151
+			},
+			{
+				"name": "Ouverture",
+				"first": 201
+			},
+			{
+				"name": "Louange",
+				"first": 241
+			},
+			{
+				"name": "Avent",
+				"first": 301
+			},
+			{
+				"name": "Noël",
+				"first": 351
+			},
+			{
+				"name": "Carême",
+				"first": 401
+			},
+			{
+				"name": "Passion",
+				"first": 441
+			},
+			{
+				"name": "Pâques",
+				"first": 471
+			},
+			{
+				"name": "Pentecôte",
+				"first": 501
+			},
+			{
+				"name": "Église",
+				"first": 521
+			},
+			{
+				"name": "Baptême",
+				"first": 561
+			},
+			{
+				"name": "Catéchèse",
+				"first": 701
+			},
+			{
+				"name": "Liturgie",
+				"first": 801
+			},
+			{
+				"name": "Envoi",
+				"first": 881
+			}
+		]
 	}
 ]

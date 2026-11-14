@@ -1,0 +1,30 @@
+{
+	"id": "comme-on-est-heureux-ici",
+	"title": "Comme on est heureux ici",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "702"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Comme on est heureux ici,",
+				"Tous ensemble réunis.",
+				"Dieu nous garde pour toujours,",
+				"Rassemblés dans son amour !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#702",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,41 @@
+{
+	"id": "pour-retenir-tous-les-livres",
+	"title": "Pour retenir tous les livres",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "766"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Pour retenir tous les livres du Nouveau Testament :",
+				"Matthieu, Marc et Luc,",
+				"Jean et les Actes, Ro. Co. Co.",
+				"Gal. Eph. Phi. Col.",
+				"Thes. Thes. Tim. Tim. Tite",
+				"Phil.",
+				"Hébreux, Jacques, 1. 2. Pierre,"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"2. 3. Jean, Jude, Apocalypse !",
+				"Et l’on recommence au début !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#766",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

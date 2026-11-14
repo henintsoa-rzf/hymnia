@@ -1,0 +1,30 @@
+{
+	"id": "benis-seigneur-cette-journee",
+	"title": "Bénis, Seigneur, cette journée",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "888"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Bénis, Seigneur, cette journée.",
+				"Bénis ce jour où tout renaît.",
+				"Enseigne-nous à partager",
+				"Et donne-nous la joie d’aimer."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#888",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

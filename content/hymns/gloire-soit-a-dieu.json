@@ -1,0 +1,30 @@
+{
+	"id": "gloire-soit-a-dieu",
+	"title": "Gloire soit à Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "825"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire soit à Dieu, le Père,",
+				"Gloire soit à Jésus-Christ,",
+				"Notre Sauveur, notre frère,",
+				"Gloire soit au Saint-Esprit."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#825",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

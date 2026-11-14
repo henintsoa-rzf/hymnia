@@ -23,6 +23,11 @@
 			"hymnal": "psalmodie",
 			"number": "113",
 			"title": "Tel que je suis"
+		},
+		{
+			"hymnal": "arc",
+			"number": "420",
+			"title": "Tel que je suis"
 		}
 	],
 	"sections": [
@@ -104,6 +109,11 @@
 			"name": "Chorale Psalmodie — psalmodie.ch",
 			"url": "https://psalmodie.ch/paroles-du-programme-souffle-de-vie/#chant-13",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#420",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

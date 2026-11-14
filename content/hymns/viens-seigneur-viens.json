@@ -1,0 +1,76 @@
+{
+	"id": "viens-seigneur-viens",
+	"title": "Viens, Seigneur, viens",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "324"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens dans notre monde,",
+				"Viens, Seigneur, viens !",
+				"Montre-nous ton visage,",
+				"Ton visage, Seigneur !",
+				"O toi, Dieu notre Père,",
+				"Sauve ton peuple en attente ;",
+				"Il cherche ton visage :",
+				"Viens, donne-nous le salut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens dans notre monde,",
+				"Viens, Seigneur, viens !",
+				"Redis-nous ta Parole,",
+				"Ta Parole, Seigneur !",
+				"O toi, Dieu de lumière,",
+				"Guide ton peuple en attente ;",
+				"Il s’ouvre à ta Parole :",
+				"Viens, donne-nous le salut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Viens dans notre monde,",
+				"Viens, Seigneur, viens !",
+				"Comble-nous de merveilles,",
+				"De merveilles, Seigneur !",
+				"O toi, Dieu d’espérance,",
+				"Bénis ton peuple en attente ;",
+				"Il chante tes merveilles :",
+				"Viens, donne-nous le salut !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Viens dans notre monde,",
+				"Viens, Seigneur, viens !",
+				"Fais en nous ta demeure,",
+				"Ta demeure, Seigneur !",
+				"O toi, Dieu de tendresse,",
+				"Viens pour ton peuple en attente ;",
+				"Il t’offre une demeure :",
+				"Viens, donne-nous le salut !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#324",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

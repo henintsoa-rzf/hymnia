@@ -1,0 +1,60 @@
+{
+	"id": "va-petit-troupeau",
+	"title": "Va, petit troupeau",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "729"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Va, petit troupeau, à petits pas.",
+				"Le Seigneur Dieu t’aime, t’aime ;",
+				"Va cahin caha et ne crains pas :",
+				"Le Seigneur Dieu te guidera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le Seigneur est mon berger,",
+				"Je ne manquerai de rien,",
+				"Car il me fait reposer",
+				"Dans l’herbe le long du chemin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Quand je marcherais la nuit,",
+				"Tu serais à mes côtés,",
+				"Je ne craindrais pas d’ennuis",
+				"Car toi, tu me protègerais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ma vie est comme un sentier",
+				"Où tu m’invites à marcher,",
+				"Mais je sens à mes côtés",
+				"Que tu me suis dans ta bonté."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#729",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

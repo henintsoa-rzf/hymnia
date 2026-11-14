@@ -1,0 +1,62 @@
+{
+	"id": "c-est-toi-seigneur-qui-nous-unis",
+	"title": "C’est toi, Seigneur, qui nous unis",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "208"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C’est toi, Seigneur, qui nous unis",
+				"Pour chanter ton amour !",
+				"Et ta parole, ô Jésus-Christ,",
+				"Nous rassemble en ce jour."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tous unis dans la même foi,",
+				"Nous allons au-devant de toi",
+				"Et tu nous ouvres le chemin.",
+				"Tu prépares nos lendemains",
+				"En nous donnant",
+				"Ta parole et ton pain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu nous reçois dans ta maison",
+				"Pour nous donner ta paix.",
+				"Tu nous connais par notre nom,",
+				"O Christ ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les mains ouvertes devant toi,",
+				"Conduits par ton amour,",
+				"Nous avons tous besoin de toi",
+				"Pour vivre chaque jour."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#208",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

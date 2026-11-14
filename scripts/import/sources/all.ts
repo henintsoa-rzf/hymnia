@@ -1,4 +1,5 @@
 /** Registers every source adapter (one import per adapter, FR-025). */
+import './arc';
 import './cdl';
 import './ecriture';
 import './evangile21';

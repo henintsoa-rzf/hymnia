@@ -1,0 +1,30 @@
+{
+	"id": "gloire-a-toi-qui-etais-mort",
+	"title": "Gloire à toi qui étais mort",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "873"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire à toi qui étais mort.",
+				"Gloire à toi qui es vivant,",
+				"Notre Sauveur et notre Dieu !",
+				"Viens, Seigneur Jésus !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#873",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

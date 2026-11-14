@@ -1,0 +1,80 @@
+{
+	"id": "le-deluge",
+	"title": "Le déluge",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "784"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"“Noé, dit Dieu, fais un bateau ;",
+				"Les gens sont méchants.",
+				"Construis-le pour ta famille",
+				"Et entre dedans.",
+				"Fais-le avec ou sans quille,",
+				"Qu’il soit beau et grand, soit beau et grand."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Choisis parmi les animaux",
+				"Des petits, des grands.",
+				"Prends deux poules, deux gorilles,",
+				"Même deux serpents ;",
+				"Prends deux ânes, deux chenilles",
+				"Et deux éléphants, deux éléphants”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ils sont entrés dans le bateau ;",
+				"Le ciel est blafard.",
+				"On entend les gens qui crient,",
+				"Mais il est trop tard.",
+				"On entend les gens qui prient,",
+				"Mais il est trop tard, il est trop tard."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La pluie tombe quarante jours,",
+				"Quarante nuits durant.",
+				"Mais enfin le soleil brille,",
+				"Noé est content,",
+				"Ses fils et ses belles-filles,",
+				"Ses petits-enfants, petits-enfants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"La colombe a dans son bec",
+				"Un rameau d’olivier.",
+				"Paraît en signe d’alliance",
+				"Un grand arc-en-ciel.",
+				"Ayons tous reconnaissance",
+				"A Dieu l’Eternel, Dieu l’Eternel."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#784",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

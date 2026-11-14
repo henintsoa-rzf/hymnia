@@ -1,0 +1,70 @@
+{
+	"id": "depuis-l-aube",
+	"title": "Depuis l’aube",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "637"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Depuis l’aube où sur la terre",
+				"Nous t’avons revu debout,",
+				"Tout renaît dans ta lumière ;",
+				"O Jésus, reste avec nous ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si parfois, sur notre route,",
+				"Nous menace le dégoût,",
+				"Dans la nuit de notre doute,",
+				"O Jésus, marche avec nous ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu cherchais les misérables ;",
+				"Ton amour allait partout :",
+				"Viens t’asseoir à notre table,",
+				"O Jésus, veille avec nous ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Si ta croix nous semble dure,",
+				"Si nos mains craignent les clous,",
+				"Que ta gloire nous rassure ;",
+				"O Jésus, accueille-nous ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Au-delà de ton calvaire,",
+				"Tu nous donnes rendez-vous.",
+				"Dans la joie, près de ton Père,",
+				"O Jésus, accueille-nous ! (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#637",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

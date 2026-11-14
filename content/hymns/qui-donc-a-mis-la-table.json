@@ -1,0 +1,80 @@
+{
+	"id": "qui-donc-a-mis-la-table",
+	"title": "Qui donc a mis la table ?",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "595"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Qui donc a mis la table où nous attend le pain ?",
+				"Qui donc emplit la coupe où nous boirons le vin ?",
+				"Quel est celui qui nous a conviés ?",
+				"Quel est celui qui peut nous combler ?",
+				"Allons vers le festin : il nous dira son nom.",
+				"Allons vers le festin qu’il donne en sa maison."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est toi, Jésus, qui nous conduis vers ce repas",
+				"Et rien ne peut manquer à qui suivra tes pas.",
+				"Pour nous, ta vie prend le goût du pain.",
+				"Pour nous, ta vie coule comme un vin.",
+				"Tu viens nous inviter : tu nous l’avais promis.",
+				"Ta joie revient brûler le coeur de tes amis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu saint, Dieu juste, Dieu vivant, nous te chantons.",
+				"Dieu saint, Dieu libre, Dieu d’amour, nous te louons.",
+				"Tu tiens la vie du monde en tes mains.",
+				"Tu prends ce jour pour créer demain.",
+				"Dieu saint, nous accueillons celui que tu envoies.",
+				"Jésus, tu viens à nous et Dieu nous vient par toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Seigneur Jésus, depuis le jour de ton départ,",
+				"A ton repas nous ne cessons de prendre part.",
+				"Ta mort venue, rien n’est comme avant.",
+				"Tu es pour nous le premier vivant.",
+				"Déjà ce pain de vie nous comble dans la foi.",
+				"Mais viens, nous t’attendons : le monde a faim de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Seigneur, pour nous sauver, tu meurs sur une croix.",
+				"Ta mort nous rend la vie : l’Agneau pascal, c’est toi.",
+				"Voici ton corps transpercé pour nous.",
+				"Voici ton sang répandu pour nous.",
+				"Le prix de ta Passion est là devant nos yeux.",
+				"Le prix de ton amour nous vaut la paix de Dieu."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#595",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

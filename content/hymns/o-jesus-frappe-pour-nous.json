@@ -1,0 +1,80 @@
+{
+	"id": "o-jesus-frappe-pour-nous",
+	"title": "O Jésus, frappé pour nous",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "447"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus, frappé pour nous,",
+				"Par la haine, par les coups,",
+				"Toi, le Seigneur humble et doux,",
+				"Seigneur, aie pitié de nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Par le jour où tu fléchis",
+				"Sous l’insulte et le mépris,",
+				"Par la mort que tu souffris,",
+				"Seigneur, aie pitié de nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par l’heure où Gethsémané",
+				"T’a vu gémir prosterné,",
+				"Et des tiens abandonné,",
+				"Seigneur, aie pitié de nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Par la coupe de douleur,",
+				"Que tu bus pour nous, Seigneur,",
+				"Par ta sanglante sueur,",
+				"Seigneur, aie pitié de nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Par ton corps qui fut percé",
+				"Et sur la croix élevé,",
+				"Par ton sang qui fut versé,",
+				"Seigneur, aie pitié de nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Par la douleur de la croix,",
+				"Par l’amour qui fait de toi",
+				"Notre Maître et notre roi,",
+				"Seigneur, aie pitié de nous."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#447",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

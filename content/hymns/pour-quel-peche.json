@@ -1,0 +1,60 @@
+{
+	"id": "pour-quel-peche",
+	"title": "Pour quel péché",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "453"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour quel péché, Jésus, pour quelle offense",
+				"A-t-on sur toi prononcé la sentence ?",
+				"Qu’as-tu donc fait, innocente victime ?",
+				"Quel est ton crime ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui peut t’avoir attiré ce supplice ?",
+				"C’est nous, Seigneur, oui, c’est notre injustice :",
+				"De ces tourments où ton amour t’expose",
+				"Nous sommes cause."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour nous sauver, ô mystère adorable,",
+				"Toi, l’innocent, tu meurs pour les coupables.",
+				"Tu as vécu de notre vie humaine",
+				"Toute la peine."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Veuille affermir, Seigneur, notre confiance.",
+				"Fais resplendir sur nous cette espérance :",
+				"Notre avenir, Jésus, c’est ta promesse,",
+				"C’est ta tendresse."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#453",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

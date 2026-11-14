@@ -1,0 +1,30 @@
+{
+	"id": "notre-dieu-est-delivrance",
+	"title": "Notre Dieu est délivrance",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "160"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Notre Dieu est délivrance ;",
+				"Il se lève, il nous sauve.",
+				"Il est le Dieu de notre histoire.",
+				"Que les peuples lui rendent gloire !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#160",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

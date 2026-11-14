@@ -1,0 +1,62 @@
+{
+	"id": "nous-t-invoquons-o-seigneur",
+	"title": "Nous t’invoquons, ô Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "204"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous t’invoquons, ô Seigneur,",
+				"Toi qui nous écoutes.",
+				"Ves ton règne et ta splendeur",
+				"Dirige nos routes.",
+				"Comme passe chaque jour,",
+				"S’éteint sa lumière,",
+				"Mais le feu de ton amour",
+				"Sans fin nous éclaire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour le monde tout entier",
+				"Ta sagesse est folle ;",
+				"Mais la seule vérité",
+				"Est dans ta parole.",
+				"Ton Eglise fonde en toi",
+				"Sa ferme assurance",
+				"Et découvre dans ta croix",
+				"L’unique espérance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous cherchons joie et bonheur",
+				"Dans les jours qui passent ;",
+				"Que ta paix et ta douceur",
+				"En tout les dépassent.",
+				"Sur notre ombre et nos clartés",
+				"Vienne ton aurore",
+				"Pour que dans ta royauté",
+				"L’univers t’adore."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#204",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

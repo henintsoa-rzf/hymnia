@@ -1,0 +1,99 @@
+{
+	"id": "souviens-toi-de-nous-seigneur",
+	"title": "Souviens-toi de nous, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "180"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Souviens-toi de nous, Seigneur, au jour où tu régneras."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bienheureux les pauvres en esprit,",
+				"Car le royaume des cieux est à eux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bienheureux les affligés,",
+				"Car ils seront consolés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Bienheureux ceux qui sont doux,",
+				"Car ils hériteront la terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Bienheureux ceux qui ont faim et soif de justice,",
+				"Car ils seront rassasiés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Bienheureux les miséricordieux,",
+				"Car ils obtiendront miséricorde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Bienheureux ceux qui ont le coeur pur,",
+				"Car ils verront Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Bienheureux les ouvriers de paix,",
+				"Car ils seront appelés fils de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 8,
+			"lines": [
+				"Bienheureux les persécutés pour la justice,",
+				"Car le royaume des cieux est à eux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 9,
+			"lines": [
+				"O vous tous, tressaillez de joie ;",
+				"Votre récompense est grande dans les cieux."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#180",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

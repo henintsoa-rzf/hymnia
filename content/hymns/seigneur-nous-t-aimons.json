@@ -1,0 +1,70 @@
+{
+	"id": "seigneur-nous-t-aimons",
+	"title": "Seigneur, nous t’aimons",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "717"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, nous t’aimons,",
+				"Tu nous donnes l’univers.",
+				"Seigneur, nous t’aimons,",
+				"C’est pour toi que nous chantons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu nous as donné la terre,",
+				"Les forêts et les moissons,",
+				"La montagne toute en pierre,",
+				"Le sable et les galets ronds."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu nous as donné le feu",
+				"Pour que le dîner soit cuit,",
+				"Et pour nous réchauffer mieux,",
+				"Dans le froid et dans la nuit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu nous as donné cet air",
+				"Que nous pouvons respirer.",
+				"Quand le vent souffle au travers,",
+				"On le sent nous pénétrer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu nous as donné de l’eau",
+				"Pour la boire dans nos mains,",
+				"Et la mer pour les bateaux,",
+				"Et la pluie pour le jardin."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#717",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,70 @@
+{
+	"id": "o-saint-esprit-esprit-d-amour",
+	"title": "O Saint-Esprit, Esprit d’amour",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "506"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Saint-Esprit, Esprit d’amour,",
+				"Don du Père et du Fils,",
+				"Fais briller chacun de nos jours",
+				"De la splendeur du Christ."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens affermir sa vérité",
+				"Dans nos coeurs inconstants.",
+				"Viens offrir à sa royauté",
+				"Notre vie qu’il attend."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Accorde-nous la soif de toi",
+				"Et l’eau qui l’assouvit.",
+				"Donne courage en nos combats",
+				"Et lumière en la nuit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Inspire-nous, quand nous prions,",
+				"Pour prier comme il faut.",
+				"Inspire-nous, quand nous parlons,",
+				"Un amour sans défaut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Baptise-nous et nous bénis",
+				"Par ta force et ton feu",
+				"Et fais de nous un peuple uni",
+				"Qui flambe aux mains de Dieu."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#506",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

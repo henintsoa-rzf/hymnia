@@ -1,0 +1,29 @@
+{
+	"id": "envoie-seigneur-ton-esprit",
+	"title": "Envoie, Seigneur, ton Esprit",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "520 A"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Envoie, Seigneur, ton Esprit",
+				"Renouveler la face de la terre.",
+				"Envoie, Seigneur, ton Esprit."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#520A",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

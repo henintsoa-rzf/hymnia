@@ -1,0 +1,28 @@
+{
+	"id": "ta-parole-seigneur-est-verite",
+	"title": "Ta Parole, Seigneur, est vérité",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "831"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ta Parole, Seigneur, est vérité",
+				"Et ta loi, délivrance."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#831",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

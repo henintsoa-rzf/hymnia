@@ -1,0 +1,90 @@
+{
+	"id": "a-toi-mon-dieu",
+	"title": "A toi, mon Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "25"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"A toi, mon Dieu, mon coeur monte,",
+				"Ton amour est mon appui.",
+				"Serai-je couvert de honte,",
+				"Au gré de mes ennemis ?",
+				"Jamais ne sera déçu",
+				"Qui te prend pour espérance ;",
+				"Mais qu’ils soient tous confondus",
+				"Ceux qui rompent ton alliance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Montre-moi, Seigneur, la route,",
+				"Guide-moi dans la clarté,",
+				"Ouvre à celui qui t’écoute",
+				"Un chemin de vérité.",
+				"Je regarde à ton amour,",
+				"Au salut qu’en toi j’espère ;",
+				"Je le verrai chaque jour",
+				"S’étendre sur cette terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon Dieu, dans ta grâce immense",
+				"Qui dure éternellement,",
+				"Regarde en ta bienveillance",
+				"Et pardonne à ton enfant.",
+				"Mets loin de ton souvenir",
+				"Les péchés de ma jeunesse ;",
+				"Chaque jour viens m’affermir,",
+				"Seigneur, selon ta promesse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu d’amour, tu fais connaître",
+				"Au plus humble tes secrets ;",
+				"Et pour lui tu es un maître",
+				"Qui te plais à l’enseigner ;",
+				"Ta parole est son appui,",
+				"Le bonheur son héritage ;",
+				"Et ses enfants comme lui",
+				"Auront la terre en partage."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"A toi, mon Dieu, je regarde",
+				"Je suis seul et malheureux.",
+				"Aujourd’hui viens et me garde,",
+				"Mes ennemis sont nombreux.",
+				"Quand je suis plein de frayeur",
+				"Sois, toi seul, mon assurance ;",
+				"Quand ton peuple est sans vigueur",
+				"Maintiens en lui l’espérance."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#25",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

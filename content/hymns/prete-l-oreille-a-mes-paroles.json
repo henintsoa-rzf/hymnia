@@ -1,0 +1,53 @@
+{
+	"id": "prete-l-oreille-a-mes-paroles",
+	"title": "Prête l’oreille à mes paroles",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "5"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Prête l’oreille à mes paroles",
+				"Dès le matin, ô Dieu mon roi.",
+				"Ma prière est tendue vers toi,",
+				"Entends mon coeur qui se désole,",
+				"Toi qui consoles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Source de vie et de lumière,",
+				"Dès le matin, exauce-moi,",
+				"Lorsque j’implore à haute voix",
+				"Celui que j’attends et j’espère",
+				"Dans ma prière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Que tes enfants se réjouissent,",
+				"Ayant au coeur espoir et foi.",
+				"Un bonheur sans fin devant toi",
+				"Attend tous ceux qui t’obéissent",
+				"Et te bénissent."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#5",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

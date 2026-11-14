@@ -1,0 +1,68 @@
+{
+	"id": "tu-es-notre-dieu-arc-546",
+	"title": "Tu es notre Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "546"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es notre Dieu et nous sommes ton peuple ;",
+				"Ouvre-nous le chemin de la vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toi qui tiens dans ta main",
+				"La profondeur de l’homme,",
+				"Mets en nous aujourd’hui",
+				"Le levain du Royaume !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu dévoiles à nos yeux",
+				"L’océan de ta grâce.",
+				"Sois pour nous l’horizon ;",
+				"Viens briser nos impasses."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toi, le Dieu créateur,",
+				"Tu nous confies la terre.",
+				"Saurons-nous par l’Esprit",
+				"L’habiller de lumière ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"En Jésus, le Seigneur,",
+				"Tu nous dis ta Parole.",
+				"Que l’Esprit dans nos coeurs",
+				"Démasque nos idoles."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#546",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

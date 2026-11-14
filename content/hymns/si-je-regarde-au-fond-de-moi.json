@@ -1,0 +1,95 @@
+{
+	"id": "si-je-regarde-au-fond-de-moi",
+	"title": "Si je regarde au fond de moi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "731"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Si je regarde au fond de moi,",
+				"Je m’aperçois que quelquefois,",
+				"J’ai oublié d’aimer mes frères ;",
+				"Je leur ai même fait la guerre."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mais voici la Parole du Seigneur :",
+				"“Revenez vers moi de tout votre coeur”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si je regarde au fond de moi,",
+				"Je m’aperçois que quelquefois,",
+				"Je n’ai pas dit la vérité,",
+				"Car le courage m’a manqué."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Si je regarde au fond de moi,",
+				"Je m’aperçois que quelquefois,",
+				"Je n’ai pas cherché à prier ;",
+				"Je n’ai pas sur me faire aider."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Si je regarde au fond de moi,",
+				"Je m’aperçois que quelquefois,",
+				"Je me suis dit : “Pauvre pécheur,",
+				"A quoi bon chercher le Seigneur ?”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Si je regarde au fond de moi,",
+				"Je m’aperçois que quelquefois,",
+				"L’ombre a dépassé la lumière",
+				"Et j’ai besoin d’y voir plus clair."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Si je regarde au fond de moi,",
+				"Je m’aperçois bien que j’y crois,",
+				"Et tu m’as déjà pardonné ;",
+				"Oh oui, Seigneur, je reviendrai !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Car voici…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#731",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

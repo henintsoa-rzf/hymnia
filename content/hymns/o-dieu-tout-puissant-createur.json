@@ -1,0 +1,60 @@
+{
+	"id": "o-dieu-tout-puissant-createur",
+	"title": "O Dieu, tout-puissant créateur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "358"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu, tout-puissant créateur,",
+				"Tu deviens homme et serviteur",
+				"Et pour nous sauver de la mort",
+				"Tu viens partager notre sort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le monde immense et frémissant",
+				"T’ignore, pauvre et faible enfant.",
+				"Ton peuple joyeux te reçoit,",
+				"Puissant Sauveur et humble Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour compagnons tu as choisi",
+				"Les pauvres de tous les pays.",
+				"Pour serviteurs tu recevras",
+				"De tous les peuples, tous les rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Heureux nous sommes en ce jour",
+				"D’être au pouvoir de ton amour.",
+				"Heureux serons-nous à jamais",
+				"D’être au royaume de ta paix."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#358",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

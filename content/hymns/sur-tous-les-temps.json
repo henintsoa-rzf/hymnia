@@ -1,0 +1,70 @@
+{
+	"id": "sur-tous-les-temps",
+	"title": "Sur tous les temps",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "488"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur tous les temps, sur tous les lieux,",
+				"Alléluia !",
+				"Tu vas régner auprès de Dieu,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur l’univers tu es Seigneur,",
+				"Alléluia !",
+				"Toi, son espoir et son honneur,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Notre avenir est d’être en toi,",
+				"Alléluia !",
+				"Nous t’attendons, ô notre Roi,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu as promis pour ton retour,",
+				"Alléluia !",
+				"De nous garder en ton amour,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Tu es pour nous toujours présent,",
+				"Alléluia !",
+				"Nous te louerons en tous les temps,",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#488",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

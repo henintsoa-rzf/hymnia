@@ -1,0 +1,30 @@
+{
+	"id": "chantez-au-seigneur-arc-801",
+	"title": "Chantez au Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "801"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Chantez au Seigneur un chant nouveau,",
+				"Alléluia !",
+				"Car il a fait des merveilles,",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#801",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

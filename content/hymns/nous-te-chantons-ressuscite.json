@@ -1,0 +1,60 @@
+{
+	"id": "nous-te-chantons-ressuscite",
+	"title": "Nous te chantons, Ressuscité",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "495"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous te chantons, Ressuscité.",
+				"Ton jour se lève sur l’humanité.",
+				"Tu sors vainqueur de l’ombre des tombeaux,",
+				"Soleil vivant des temps nouveaux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tout l’univers remonte au jour,",
+				"Capable enfin de t’appeler “Amour”.",
+				"Un chant nouveau pour les enfants perdus :",
+				"Le nom de Dieu nous est rendu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu as ouvert pour tous les tiens",
+				"En grand la porte du très vieux jardin",
+				"Où Dieu convie les hommes pour la joie",
+				"Sous l’arbre immense de ta croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Vous qui dormez, réveillez-vous !",
+				"La nuit émet le signe de l’Époux.",
+				"Il vient chercher le peuple des croyants,",
+				"“Amen” de gloire au Dieu vivant."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#495",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

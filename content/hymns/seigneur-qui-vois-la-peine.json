@@ -1,0 +1,80 @@
+{
+	"id": "seigneur-qui-vois-la-peine",
+	"title": "Seigneur qui vois la peine",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "6"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur qui vois la peine",
+				"Où le péché me mène,",
+				"Cesse d’être irrité !",
+				"Dans ta juste colère",
+				"Ne sois pas si sévère",
+				"Que je l’ai mérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Guéris dans ta tendresse",
+				"La douleur qui m’oppresse",
+				"Qui rend mes os tremblants.",
+				"Vois, mon esprit se trouble,",
+				"Mon angoisse redouble :",
+				"“Seigneur, jusques à quand ?”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh, si la mort efface",
+				"Dans nos coeurs toute trace,",
+				"Tout souvenir de toi,",
+				"Si l’amour sous la terre",
+				"Doit mourir et se taire,",
+				"Seigneur, qui te louera ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Seigneur, dans ta grâce",
+				"Tourne vers moi ta face",
+				"Et prends pitié de moi.",
+				"Dans mon malheur extrême,",
+				"Pour l’amour de toi-même",
+				"O mon Dieu, sauve-moi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Que tout ce qui m’enchaîne,",
+				"Tout ce mal que je traîne,",
+				"Retourne à son néant.",
+				"Dieu reçoit ma prière,",
+				"Sa main se fait légère",
+				"Au front de son enfant."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#6",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

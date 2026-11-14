@@ -1,0 +1,50 @@
+{
+	"id": "hosanna-hosanna",
+	"title": "Hosanna, Hosanna !",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "441"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Hosanna, Hosanna ! Jérusalem en fête",
+				"Accueille à très grands cris le Messie des prophètes,",
+				"Le Fils du roi David, l’envoyé du Très-Haut",
+				"Qui vient pour commencer un temps enfin nouveau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Hosanna, Hosanna ! Il vient sans apparence ;",
+				"Sa gloire éclatera au fort de sa souffrance.",
+				"Le Fils du Dieu vivant, le puissant Roi des rois",
+				"Règnera sur nous tous en mourant sur la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Hosanna, Hosanna ! Chantons d’un coeur fidèle",
+				"Le plus grand des amours et la joie éternelle.",
+				"Jésus le crucifié, le roi plein de douceur,",
+				"Dans son humilité devient notre Seigneur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#441",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

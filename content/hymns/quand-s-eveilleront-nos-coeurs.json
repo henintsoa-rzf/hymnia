@@ -1,0 +1,62 @@
+{
+	"id": "quand-s-eveilleront-nos-coeurs",
+	"title": "Quand s’éveilleront nos coeurs",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "315"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Quand s’éveilleront nos coeurs",
+				"À la voix du Dieu vivant,",
+				"Nous retrouverons la source du bonheur.",
+				"Quand se lèveront nos mains",
+				"Pour chanter le Dieu vivant,",
+				"Nous retrouverons l’espoir des lendemains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il saura briser nos armes,",
+				"Il saura changer nos coeurs.",
+				"Il viendra sécher nos larmes,",
+				"Il viendra chasser nos peurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus de nuit sur notre terre,",
+				"Il sera notre flambeau.",
+				"Plus de haine ni de guerre,",
+				"Il nous ouvre un ciel nouveau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Il habite avec les hommes,",
+				"Le vieux monde peut mourir.",
+				"Il annonce son Royaume,",
+				"Il nous ouvre l’avenir."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#315",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

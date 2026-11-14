@@ -1,0 +1,58 @@
+{
+	"id": "je-cherche-le-visage",
+	"title": "Je cherche le visage",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "590"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je cherche le visage, le visage du Seigneur…",
+				"Je cherche son image tout au fond de vos coeurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous êtes le corps du Christ ;",
+				"Vous êtes le sang du Christ ;",
+				"Vous êtes l’amour du Christ.",
+				"Alors ? Qu’avez-vous fait de lui ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vous êtes le corps du Christ ;",
+				"Vous êtes le sang du Christ ;",
+				"Vous êtes la paix du Christ.",
+				"Alors ? Qu’avez-vous fait de lui ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vous êtes le corps du Christ ;",
+				"Vous êtes le sang du Christ ;",
+				"Vous êtes la joie du Christ.",
+				"Alors ? Qu’avez-vous fait de lui ?"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#590",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

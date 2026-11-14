@@ -1,0 +1,40 @@
+{
+	"id": "il-sera-juge-entre-les-peuples",
+	"title": "Il sera juge entre les peuples",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "185"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il sera juge entre les peuples,",
+				"Arbitrera les puissants et les rois. (bis)",
+				"On changera les lances en serpes,",
+				"Les épées seront socs de charrue. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chacun s’étendra sous sa treille,",
+				"Sous son figuier sans y être inquiété. (bis)",
+				"Entre les peuples, plus de guerres.",
+				"On n’apprendra plus l’art des combats. (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#185",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

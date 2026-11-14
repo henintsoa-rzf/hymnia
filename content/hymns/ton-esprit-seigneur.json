@@ -1,0 +1,58 @@
+{
+	"id": "ton-esprit-seigneur",
+	"title": "Ton Esprit, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "564"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ton Esprit, Seigneur, planait sur les eaux",
+				"Quand tu fis le monde.",
+				"Dieu de lumière,",
+				"Sois béni pour ce baptême,",
+				"Source de vie éternelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"A travers les eaux, tu fis un chemin",
+				"Pour sauver ton peuple.",
+				"Dieu de lumière…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par Jésus, ton Fils, le monde connaît",
+				"Ton amour de Père.",
+				"Dieu de lumière…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Aujourd’hui ta main me plonge dans l’eau",
+				"Et me fait renaître.",
+				"Dieu de lumière…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#564",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

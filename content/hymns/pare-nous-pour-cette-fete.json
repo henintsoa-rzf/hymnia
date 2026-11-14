@@ -1,0 +1,48 @@
+{
+	"id": "pare-nous-pour-cette-fete",
+	"title": "Pare-nous pour cette fête",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "581"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pare-nous pour cette fête",
+				"Qu’aujourd’hui tu nous apprêtes.",
+				"Seigneur, fais briller la terre",
+				"Du secret de ta lumière.",
+				"Viens nourrir notre confiance,",
+				"Affermir notre espérance.",
+				"Que ton pain et ta promesse",
+				"Soient pour nous joie et richesse."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu prépares notre place",
+				"A ce festin de ta grâce.",
+				"Tu nous donnes en silence",
+				"La douceur de ta présence.",
+				"Reçois-nous à cette table",
+				"Au repas inépuisable,",
+				"Avant que tu nous appelles",
+				"A tes tables éternelles."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#581",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,53 @@
+{
+	"id": "dans-sa-douleur",
+	"title": "Dans sa douleur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "462"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans sa douleur,",
+				"Notre Seigneur,",
+				"Le Fils de Dieu succombe ;",
+				"Jésus, mon Roi, mon Sauveur,",
+				"Descend dans la tombe."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sur cette croix",
+				"Où je te vois,",
+				"O victime adorable,",
+				"Toi seul portes tout le poids,",
+				"Le poids de nos fautes."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu meurs pour moi,",
+				"Jésus, mon Roi,",
+				"Ah ! fais que, dans ta grâce,",
+				"Je ne vive que pour toi ;",
+				"Qu’en toi je demeure."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#462",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

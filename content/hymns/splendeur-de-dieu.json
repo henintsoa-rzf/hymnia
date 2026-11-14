@@ -1,0 +1,50 @@
+{
+	"id": "splendeur-de-dieu",
+	"title": "Splendeur de Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "519"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Splendeur de Dieu, tu brilleras",
+				"Jour après jour en notre coeur.",
+				"Un feu caché s’allumera",
+				"Dans l’humble don de l’Esprit Saint."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Car ton royaume est parmi nous :",
+				"C’est le souffrant et l’opprimé",
+				"Que toi, Seigneur si proche et si doux,",
+				"Pour compagnons, nous as donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Christ, l’éclat de ton amour",
+				"Renouvellera l’univers.",
+				"La joie, la paix seront pour tous",
+				"Le regard du Dieu éternel."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#519",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

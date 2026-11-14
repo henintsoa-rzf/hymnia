@@ -1,0 +1,50 @@
+{
+	"id": "en-toi-seigneur-nos-vies-reposent",
+	"title": "En toi, Seigneur, nos vies reposent",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "648"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En toi, Seigneur, nos vies reposent",
+				"Et prennent force dans la nuit.",
+				"Tu nous prépares à ton aurore",
+				"Et tu nous gardes dans l’Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Déjà levé sur d’autres terres,",
+				"Le jour éveille les cités.",
+				"Ami des hommes, vois leurs peines",
+				"Et donne-leur la joie d’aimer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vainqueur du mal et des ténèbres,",
+				"O Fils de Dieu ressuscité,",
+				"Délivre-nous de l’adversaire",
+				"Et conduis-nous vers ta clarté."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#648",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

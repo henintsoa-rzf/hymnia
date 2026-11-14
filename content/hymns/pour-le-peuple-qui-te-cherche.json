@@ -1,0 +1,28 @@
+{
+	"id": "pour-le-peuple-qui-te-cherche",
+	"title": "Pour le peuple qui te cherche",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "308"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Pour le peuple qui te cherche,",
+				"Viens, Emmanuel !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#308",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

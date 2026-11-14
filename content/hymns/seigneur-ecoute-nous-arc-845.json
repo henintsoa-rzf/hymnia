@@ -1,0 +1,28 @@
+{
+	"id": "seigneur-ecoute-nous-arc-845",
+	"title": "Seigneur, écoute-nous",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "845"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Seigneur, écoute-nous ;",
+				"Seigneur, exauce-nous."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#845",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

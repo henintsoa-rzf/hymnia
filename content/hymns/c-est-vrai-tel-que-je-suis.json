@@ -1,0 +1,29 @@
+{
+	"id": "c-est-vrai-tel-que-je-suis",
+	"title": "C’est vrai, tel que je suis",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "742"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"C’est vrai, tel que je suis, Dieu m’aime.",
+				"C’est vrai, il est venu lui-même",
+				"Frapper à ma porte ; il est entré chez moi."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#742",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

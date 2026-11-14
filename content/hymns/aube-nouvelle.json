@@ -1,0 +1,50 @@
+{
+	"id": "aube-nouvelle",
+	"title": "Aube nouvelle",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "301"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aube nouvelle dans notre nuit,",
+				"Pour sauver son peuple, Dieu va venir.",
+				"Joie pour les pauvres, fête aujourd’hui :",
+				"Il faut préparer la route au Seigneur. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Bonne nouvelle, cris et chansons,",
+				"Pour sauver son peuple, Dieu va venir.",
+				"Voix qui s’élève dans nos déserts :",
+				"Il faut préparer la route au Seigneur. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Terre nouvelle, monde nouveau,",
+				"Pour sauver son peuple, Dieu va venir.",
+				"Paix sur la terre, ciel parmi nous :",
+				"Il faut préparer la route au Seigneur. (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#301",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

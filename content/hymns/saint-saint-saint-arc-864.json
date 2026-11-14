@@ -1,0 +1,31 @@
+{
+	"id": "saint-saint-saint-arc-864",
+	"title": "Saint ! Saint ! Saint !",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "864"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Saint ! Saint ! Saint est le Seigneur.",
+				"Le ciel et la terre sont remplis de sa gloire.",
+				"Hosanna au plus haut des cieux !",
+				"Béni soit celui qui vient au nom du Seigneur !",
+				"Hosanna au plus haut des cieux ! (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#864",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,60 @@
+{
+	"id": "souffle-du-dieu-vivant",
+	"title": "Souffle du Dieu vivant",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "508"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Souffle du Dieu vivant,",
+				"Anime tout en moi.",
+				"Que ton amour me rende aimant,",
+				"Servant ainsi que toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Souffle du Dieu vivant,",
+				"Viens purifier ma foi.",
+				"Que ce soit ton vouloir puissant",
+				"Qui s’accomplisse en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Souffle du Dieu vivant,",
+				"Mets ton feu dans mon coeur.",
+				"Que tout en moi soit rayonnant",
+				"De ton éclat, Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Souffle du Dieu vivant,",
+				"Ecarte enfin la mort.",
+				"Que pour jamais, dès maintenant,",
+				"J’appartienne au Dieu fort."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#508",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

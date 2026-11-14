@@ -5,6 +5,11 @@
 		{
 			"hymnal": "adf",
 			"number": "590"
+		},
+		{
+			"hymnal": "arc",
+			"number": "811",
+			"title": "Seigneur, aie pitié"
 		}
 	],
 	"sections": [
@@ -34,5 +39,12 @@
 		"retrievedAt": "2026-11-11"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#811",
+			"retrievedAt": "2026-11-13"
+		}
+	]
 }

@@ -1,0 +1,50 @@
+{
+	"id": "o-dieu-nous-te-louons",
+	"title": "O Dieu, nous te louons",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "563"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu, nous te louons pour ta grâce attentive.",
+				"Nous plaçons sous ta main notre enfant nouveau-né.",
+				"Qu’il soit désaltéré à ta source d’eau vive.",
+				"Nous te donnons l’enfant que tu nous as donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est à toi, Seigneur, avant d’être à nous-mêmes.",
+				"Fais que ce soit, un jour, lui qui se donne à toi.",
+				"S’il ne le sait encore, nous savons que tu l’aimes.",
+				"Oh ! qu’il t’aime à son tour et marche sous ta loi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, Fils éternel, Sauveur de tous les âges,",
+				"Toi qui poses ta main sur les plus jeunes fronts,",
+				"Tu vins pour les petits et non pas pour les sages.",
+				"Conduis jour après jour l’enfant que nous t’offrons."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#563",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

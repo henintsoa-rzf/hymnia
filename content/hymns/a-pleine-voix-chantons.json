@@ -1,0 +1,48 @@
+{
+	"id": "a-pleine-voix-chantons",
+	"title": "A pleine voix, chantons",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "374"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"A pleine voix, chantons pour Dieu",
+				"Nos chants de joie, nos chants de fête !",
+				"Dieu est présent dans un enfant.",
+				"Sa gloire habite notre terre !",
+				"Ne marchons plus à perdre coeur",
+				"Par des chemins sans espérance !",
+				"Dieu va sauver le monde entier",
+				"En se chargeant de nos souffrances."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rien ne pourra nous séparer",
+				"De l’amitié que Dieu nous porte.",
+				"Par Jésus-Christ, et dans l’Esprit,",
+				"Cette assurance est la plus forte.",
+				"Pour annoncer les temps nouveaux,",
+				"Prenons le pain de sa tendresse.",
+				"Vienne le jour de son retour :",
+				"Que tous les hommes le connaissent !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#374",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

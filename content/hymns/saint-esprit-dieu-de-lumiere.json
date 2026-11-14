@@ -1,0 +1,62 @@
+{
+	"id": "saint-esprit-dieu-de-lumiere",
+	"title": "Saint-Esprit, Dieu de lumière",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "507"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Saint-Esprit, Dieu de lumière,",
+				"Viens resplendir dans nos coeurs.",
+				"Nous serons avec nos frères",
+				"Les témoins du seul Sauveur."
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Fais-nous vivre en ta présence,",
+				"Revêts-nous de ta puissance",
+				"Et baptise-nous de feu,",
+				"Esprit Saint, Esprit de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Esprit de vie et de gloire,",
+				"Conduis-nous de jour en jour.",
+				"Nous publierons la victoire",
+				"Que nous donne ton amour.",
+				"Fais-nous vivre…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Adorons Dieu, notre Père,",
+				"Adorons le Seigneur Christ,",
+				"Et son Eglise en prière",
+				"Recevra le don promis.",
+				"Fais-nous vivre…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#507",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

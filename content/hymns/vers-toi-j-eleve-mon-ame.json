@@ -1,0 +1,68 @@
+{
+	"id": "vers-toi-j-eleve-mon-ame",
+	"title": "Vers toi j’élève mon âme",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "403"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vers toi j’élève mon âme,",
+				"Mon Dieu, mon Père et mon Roi !",
+				"Mon Sauveur, j’ai soif de toi ;",
+				"Nuit et jour je te réclame :",
+				"Mon fardeau et mon péché,",
+				"Ma faim, mon infirmité,",
+				"Les voici, Dieu secourable.",
+				"Espérance des coupables,",
+				"Toi seul, amour admirable,",
+				"Peut porter ce qui m’accable."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si devant toi nous ne sommes",
+				"Que poussière et corruption,",
+				"Immense est ta compassion.",
+				"Tu voulus sauver les hommes :",
+				"Tu nous donnas Jésus-Christ,",
+				"Tu donnes le Saint-Esprit.",
+				"Tu fais grâce au plus rebelle",
+				"Dès qu’il te cherche et t’appelle.",
+				"Que pour la vie éternelle,",
+				"Tu nous gardes, Dieu fidèle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Veuille accepter nos louanges",
+				"Et permets que des pécheurs",
+				"Te bénissent dans leurs coeurs.",
+				"Répondant aux voix des anges,",
+				"Notre chant, nos cris de joie,",
+				"Nuit et jour montent vers toi :",
+				"Gloire soit à Dieu le Père !",
+				"Gloire à son Fils, notre frère !",
+				"Gloire à l’Esprit de lumière,",
+				"Dans les cieux et sur la terre !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#403",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

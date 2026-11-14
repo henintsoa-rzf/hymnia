@@ -1,0 +1,60 @@
+{
+	"id": "sortez-bergers",
+	"title": "Sortez, bergers",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "362"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sortez, bergers, de vos retraites.",
+				"A Bethléem, Dieu vous attend.",
+				"L’enfant promis par les prophètes",
+				"Naît ici-bas en cet instant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fils de David qui fut lui-même,",
+				"Tout comme vous, pâtre en ces lieux,",
+				"C’est votre accueil surtout qu’il aime.",
+				"La terre en vous répond aux cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Celui qui dort, si pur, si tendre,",
+				"Sera demain le bon berger ;",
+				"Et sa voix, tous voudront l’entendre,",
+				"Mais non la voix d’un étranger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour ses brebis, en sacrifice,",
+				"Il s’offrira sur une croix.",
+				"D’un seul élan qu’on te bénisse,",
+				"Fils des bergers, maître des rois."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#362",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

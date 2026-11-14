@@ -1,0 +1,30 @@
+{
+	"id": "christ-est-vivant-arc-472",
+	"title": "Christ est vivant",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "472"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Christ est vivant,",
+				"Il est ressuscité.",
+				"Christ est vivant,",
+				"Il est ressuscité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#472",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

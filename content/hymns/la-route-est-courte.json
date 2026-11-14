@@ -1,0 +1,64 @@
+{
+	"id": "la-route-est-courte",
+	"title": "La route est courte",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "743"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La route est courte,",
+				"Ce s’rait dommage",
+				"De se croiser",
+				"Sans s’regarder.",
+				"La route est courte,",
+				"Ce s’rait dommage",
+				"De se croiser",
+				"Sans s’rencontrer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"J’ai longtemps marché",
+				"Avec les yeux sur mes souliers.",
+				"J’étais un étranger",
+				"Quand tu m’as dérangé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi, je te connais ;",
+				"Dis-moi : où s’est-on rencontré ?",
+				"Au bord de quel chemin,",
+				"Au fond de quel jardin ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je t’ai reconnu",
+				"Après un long temps de chemin,",
+				"Au geste de tes mains,",
+				"Quand tu as pris le pain."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#743",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

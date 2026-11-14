@@ -1,0 +1,49 @@
+{
+	"id": "loue-sois-tu-arc-235",
+	"title": "Loué sois-tu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "235"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia !",
+				"Alléluia ! Alléluia ! Alléluia !",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Loué sois-tu pour ta Parole,",
+				"Bonne nouvelle en notre temps.",
+				"Loué sois-tu pour ta Parole.",
+				"Christ et Seigneur, tu es présent."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Loué sois-tu pour ta Parole,",
+				"Clarté du monde dans sa nuit.",
+				"Loué sois-tu pour ta Parole,",
+				"Comme une lampe dans nos vies."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#235",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

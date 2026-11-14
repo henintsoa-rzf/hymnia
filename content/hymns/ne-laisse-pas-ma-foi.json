@@ -1,0 +1,56 @@
+{
+	"id": "ne-laisse-pas-ma-foi",
+	"title": "Ne laisse pas ma foi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "629"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ne laisse pas ma foi",
+				"Défaillir loin de toi ;",
+				"Viens en mon âme.",
+				"Et daigne chaque jour,",
+				"Seigneur, de ton amour",
+				"Nourrir la flamme."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sois vraiment mon Sauveur ;",
+				"Déploie en ma faveur",
+				"Ta grâce immense :",
+				"La foi, l’amour, l’espoir,",
+				"Je dois tout recevoir",
+				"De ta clémence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mets en moi ton Esprit",
+				"Qui relève et guérit ;",
+				"Fais-moi revivre.",
+				"Nul ne t’invoque en vain ;",
+				"A toi jusqu’à la fin",
+				"Mon coeur se livre."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#629",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

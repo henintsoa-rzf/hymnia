@@ -1,0 +1,70 @@
+{
+	"id": "toute-ma-vie-chante",
+	"title": "Toute ma vie chante",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "709"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toute ma vie chante devant toi, Seigneur.",
+				"Toute ma vie chante devant toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu m’as fait ouvrir les yeux et j’ai vu tant de merveilles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu as mis sur mon chemin tant d’amis qui te ressemblent."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu transformes notre coeur et il chante ta présence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu te donnes tout entier en nous donnant ta Parole."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Tu nous ouvres ta maison et nous partageons ta vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Tu nous crées pour ton amour ; notre vie est ta louange."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#709",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

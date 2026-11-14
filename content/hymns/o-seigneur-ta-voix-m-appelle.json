@@ -1,0 +1,70 @@
+{
+	"id": "o-seigneur-ta-voix-m-appelle",
+	"title": "O Seigneur, ta voix m’appelle",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "416"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Seigneur, ta voix m’appelle ;",
+				"Par mon nom tu me connais",
+				"Et mon coeur longtemps rebelle",
+				"Se donne à toi pour jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est pour toi que je veux vivre,",
+				"Car toi seul es mon Berger.",
+				"C’est toi seul que je veux suivre,",
+				"Et non plus un étranger."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"N’as-tu pas donné ta vie",
+				"Pour me sauver, bon Pasteur ?",
+				"Oui, ta grâce est infinie.",
+				"Gloire à toi, mon Rédempteur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O mon âme, prends courage !",
+				"Jésus marche devant toi.",
+				"Jusqu’au bout dans le voyage,",
+				"Son amour veille sur moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Ne crains pas qu’il abandonne",
+				"Sa brebis dans le chemin.",
+				"Il est fidèle, et personne",
+				"Ne l’ôtera de sa main."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#416",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

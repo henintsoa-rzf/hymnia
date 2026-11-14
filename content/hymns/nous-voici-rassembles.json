@@ -1,0 +1,34 @@
+{
+	"id": "nous-voici-rassembles",
+	"title": "Nous voici rassemblés",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "201"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Nous voici rassemblés en ton nom, Seigneur,",
+				"Pour t’offrir la louange de nos coeurs.",
+				"Alléluia, alléluia !",
+				"Crions notre joie au Dieu vivant.",
+				"Alléluia, alléluia !",
+				"Louons-le par notre chant.",
+				"Nous voici rassemblés en ton nom, Seigneur,",
+				"Pour t’adorer, Jésus Sauveur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#201",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

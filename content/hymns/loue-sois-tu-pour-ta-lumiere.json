@@ -1,0 +1,79 @@
+{
+	"id": "loue-sois-tu-pour-ta-lumiere",
+	"title": "Loué sois-tu pour ta lumière",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "275"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Loué sois-tu pour ta lumière,",
+				"Tout son éclat vient de ton nom.",
+				"Tu nous arraches des ténèbres",
+				"Par la richesse du pardon."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La paix nous vient des mains du Fils ;",
+				"Attachés à la croix du Christ,",
+				"Dans sa promesse nous marchons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Loué sois-tu pour ton visage,",
+				"Dieu que nul oeil n’a jamais vu,",
+				"Car nous adorons ton image",
+				"Dans le mystère de Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tout, dans les cieux et sur la terre,",
+				"Tout ce qui peut être nommé,",
+				"Tout ce qui vit, soupire, espère,",
+				"Par sa parole fut créé."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ta royauté lui est remise,",
+				"Lui, premier-né d’entre les morts ;",
+				"Tu l’as donné à ton Eglise.",
+				"Il est la tête de son corps."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Il tient de toi la plénitude",
+				"Et tu as tout réconcilié ;",
+				"C’est dans sa mort que naît la vie.",
+				"Gloire à Jésus crucifié !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#275",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

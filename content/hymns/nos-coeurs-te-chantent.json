@@ -1,0 +1,56 @@
+{
+	"id": "nos-coeurs-te-chantent",
+	"title": "Nos coeurs te chantent",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "255"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nos coeurs te chantent,",
+				"Nos voix aimantes",
+				"Te célèbrent, Fils de Dieu.",
+				"Joie et lumière",
+				"Où la prière",
+				"Dit enfin ce que tu veux.",
+				"Nos coeurs désirent",
+				"Ton seul sourire,",
+				"Ton seul visage,",
+				"Ton seul message.",
+				"Nos coeurs te chantent,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dure ou sereine,",
+				"Ma vie est pleine",
+				"Du mystère de ta paix ;",
+				"Et reste heureuse",
+				"Et si joyeuse",
+				"De te louer à jamais.",
+				"Que je choisisse,",
+				"Que je saisisse",
+				"Toujours la trace",
+				"Que fait ta grâce.",
+				"Nos coeurs te chantent,",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#255",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

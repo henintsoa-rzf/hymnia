@@ -1,0 +1,34 @@
+{
+	"id": "tu-as-connu-la-mort",
+	"title": "Tu as connu la mort",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "874"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Tu as connu la mort,",
+				"Tu es ressuscité",
+				"Et tu reviens encor",
+				"Pour nous sauver.",
+				"Viens, Seigneur,",
+				"Nous t’aimons.",
+				"Viens, Seigneur,",
+				"Nous t’attendons."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#874",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

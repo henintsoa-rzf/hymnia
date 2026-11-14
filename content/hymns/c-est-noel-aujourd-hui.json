@@ -1,0 +1,60 @@
+{
+	"id": "c-est-noel-aujourd-hui",
+	"title": "C’est Noël aujourd’hui",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "771"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"C’est Noël aujourd’hui ; jouez les pipeaux.",
+				"Faut chanter au Seigneur cantique nouveau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il vient dans une étable comme un berger",
+				"Pour rassembler les hommes du monde entier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est l’étoile qui brille dans notre nuit,",
+				"La lumière du monde qui nous conduit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C’est la tige nouvelle portant le grain",
+				"Qui sera pain de vie pour notre faim."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ce n’est qu’une étincelle, ce nouveau-né,",
+				"Qui vient brûler le monde de charité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#771",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

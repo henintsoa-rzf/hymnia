@@ -1,0 +1,74 @@
+{
+	"id": "oui-seigneur-tu-es-vivant",
+	"title": "Oui, Seigneur, tu es vivant",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "541"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, Seigneur, tu es vivant !",
+				"Au coeur de ce monde qui t’attend.",
+				"Oui, Seigneur, tu es vivant ;",
+				"Passerons-nous sans te voir ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le mendiant à ma porte",
+				"Qui demande du pain,",
+				"Le mendiant à ma porte",
+				"A qui je tends la main,",
+				"Seigneur, c’est toi ; oui, c’est toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L’étranger sur la route",
+				"Que j’ai peur de croiser,",
+				"L’étranger sur la route",
+				"Quêtant mon amitié,",
+				"Seigneur, c’est toi ; oui, c’est toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le vieillard sans défense,",
+				"Triste et abandonné,",
+				"Le vieillard sans défense,",
+				"Que je viens visiter,",
+				"Seigneur, c’est toi ; oui, c’est toi !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"“Tu cherches mon visage ;",
+				"Regarde autour de toi.",
+				"Tu cherches mon visage ;",
+				"Il est tout près de toi.",
+				"Le pauvre, c’est moi ; oui, c’est moi !”."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#541",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

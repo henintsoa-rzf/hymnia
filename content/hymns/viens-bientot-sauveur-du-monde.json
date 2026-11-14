@@ -1,0 +1,50 @@
+{
+	"id": "viens-bientot-sauveur-du-monde",
+	"title": "Viens bientôt, Sauveur du monde",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "322"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens bientôt, Sauveur du monde !",
+				"Lève-toi, clarté d’en-haut !",
+				"Vrai soleil du jour nouveau,",
+				"Viens percer la nuit profonde !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ta puissance dans l’histoire",
+				"Transfigure nos tourments",
+				"En douleurs d’enfantement",
+				"Où déjà surgit ta gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vois le mal et la souffrance",
+				"Et tant d’hommes chancelants",
+				"Dans l’immense enchaînement",
+				"Du mépris et des violences."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#322",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

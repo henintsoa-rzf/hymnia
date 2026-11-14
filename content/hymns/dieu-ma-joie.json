@@ -1,0 +1,53 @@
+{
+	"id": "dieu-ma-joie",
+	"title": "Dieu, ma joie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "708"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu, ma joie,",
+				"Dieu, mon bonheur,",
+				"Dieu, mon allégresse,",
+				"Je te chante",
+				"Alléluia, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dieu très beau,",
+				"Dieu de clarté,",
+				"Dieu toute lumière,",
+				"Je te chante",
+				"Alléluia, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu très grand,",
+				"Dieu tout puissant,",
+				"Dieu de gloire immense,",
+				"Je te chante",
+				"Alléluia, Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#708",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

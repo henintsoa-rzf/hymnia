@@ -1,0 +1,53 @@
+{
+	"id": "sans-le-seigneur-qui-s-est-leve",
+	"title": "Sans le Seigneur qui s’est levé",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "124"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sans le Seigneur qui s’est levé pour nous",
+				"Quand l’ennemi s’est dressé contre nous,",
+				"Ils nous auraient engloutis tout vivants,",
+				"Tant leur colère est un feu dévorant.",
+				"Sans le Seigneur qui s’est levé pour nous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Alors les eaux nous auraient entraînés",
+				"Et les torrents nous auraient submergés,",
+				"Comme est détruit par le flot écumant",
+				"Le champ paisible où mûrît le froment.",
+				"Ainsi les eaux nous auraient entraînés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Béni soit Dieu qui nous a délivrés.",
+				"Quand sur leur proie les dents étaient serrées,",
+				"Comme l’oiseau échappe à l’oiseleur,",
+				"Nous avons vu se rompre le filet.",
+				"Notre secours est au nom du Seigneur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#124",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

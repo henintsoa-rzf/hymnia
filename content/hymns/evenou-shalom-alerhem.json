@@ -1,0 +1,62 @@
+{
+	"id": "evenou-shalom-alerhem",
+	"title": "Evenou shalom alérhem",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "741"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Evenou shalom alérhem. (ter)",
+				"Evenou shalom, shalom, shalom alérhem."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous vous annonçons la paix. (ter)",
+				"Nous vous annonçons la paix, la paix en Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous vous annonçons la joie. (ter)",
+				"Nous vous annonçons la joie, la joie en Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous vous annonçons l’amour. (ter)",
+				"Nous vous annonçons l’amour, l’amour en Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Nous vous annonçons la paix.",
+				"Nous vous annonçons la joie.",
+				"Nous vous annonçons l’amour.",
+				"Nous vous annonçons la paix, la joie, l’amour en Jésus."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#741",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

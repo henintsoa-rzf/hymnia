@@ -1,0 +1,70 @@
+{
+	"id": "le-seigneur-monte-au-ciel",
+	"title": "Le Seigneur monte au ciel",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "498"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le Seigneur monte au ciel",
+				"Au milieu des chants de joie !",
+				"Il nous prépare une place auprès de lui.",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Fils du Dieu vivant, qu’il est grand ton nom !",
+				"Dans la terre entière, ton amour éclate",
+				"Et ta majestée nous est révélée",
+				"En ce jour de joie, Seigneur de l’univers !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fils du Dieu vivant, ouvre notre coeur",
+				"Pour mieux accueillir ta grâce et ta lumière.",
+				"Fais grandir la foi de tous les croyants,",
+				"Source d’espérance : Jésus-Christ Sauveur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Fils du Dieu vivant, viens en notre coeur",
+				"Selon ta promesse faite à ceux qui t’aiment :",
+				"“Nous viendrons chez vous, Père, Fils, Esprit,",
+				"Et vous aurez part à notre vie d’amour”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dieu de l’univers, qu’il est grand ton nom !",
+				"Nous te rendons grâces par ton Fils unique,",
+				"Dans le Saint-Esprit qui nous donne vie.",
+				"Nous te rendons grâce pour l’éternité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#498",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

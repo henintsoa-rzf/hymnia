@@ -1,0 +1,72 @@
+{
+	"id": "allez-vous-en-sur-les-places",
+	"title": "Allez-vous en sur les places",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "540"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Allez-vous en sur les places",
+				"Et sur les parvis !",
+				"Allez-vous en sur les places,",
+				"Y chercher mes amis,",
+				"Tous mes enfants de lumière",
+				"Qui vivent dans la nuit,",
+				"Tous les enfants de mon Père",
+				"Séparés de lui.",
+				"Allez-vous en sur les places",
+				"Et soyez mes témoins chaque jour !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En quittant cette terre,",
+				"Je vous ai laissé",
+				"Un message de lumière ;",
+				"Qu’en avez-vous donc fait ?",
+				"Quand je vois aujourd’hui mes enfants révoltés,",
+				"Aigris et douloureux d’avoir pleuré !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En quittant cette terre,",
+				"Je vous ai donné",
+				"La justice de mon Père ;",
+				"L’avez-vous partagée ?",
+				"Quand je vois aujourd’hui mes enfants qui ont peur,",
+				"Sans amour et sans foi et sans honneur…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En quittant cette terre,",
+				"Je vous avais dit :",
+				"“Aimez-vous comme des frères” ;",
+				"M’avez-vous obéi ?",
+				"Quand je vois aujourd’hui mes enfants torturés,",
+				"sans amis, sans espoir, abandonnés !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#540",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,76 @@
+{
+	"id": "comment-te-reconnaitre",
+	"title": "Comment te reconnaître",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "311"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Comment te reconnaître,",
+				"Comment te recevoir,",
+				"Toi qui seul est le maître",
+				"Mais que nul ne peut voir.",
+				"Seigneur qui fis le monde,",
+				"Tu vins un jour vers nous ;",
+				"Tu guides notre histoire",
+				"Vers ton règne sans fin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu fus un enfant pauvre",
+				"Naissant à Bethléem,",
+				"Tu fus un roi sans gloire",
+				"Devant Jérusalem.",
+				"Nos yeux sont ouverts dans la nuit",
+				"Guettant ton arrivée ;",
+				"Nos chants seront des branches",
+				"De tant de joie chargées."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C’est toi qui donnes au monde",
+				"Un avenir si beau ;",
+				"Et ta promesse fonde",
+				"L’espoir d’un renouveau",
+				"Dans la vie de tout homme.",
+				"Tu es le compagnon,",
+				"Et la joie la plus vive",
+				"Demeure dans ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous tous pour te connaître",
+				"Et pour te saluer,",
+				"Nous gardons ta promesse,",
+				"Chantons ta royauté.",
+				"Elle est cachée en ton amour ;",
+				"Nos noms sont tous écrits",
+				"Au coeur de l’Evangile",
+				"Où parle ton Esprit."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#311",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

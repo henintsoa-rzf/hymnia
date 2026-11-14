@@ -1,0 +1,64 @@
+{
+	"id": "des-fontaines-de-joie",
+	"title": "Des fontaines de joie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "188"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu fais jaillir en moi des fontaines de joie,",
+				"O Seigneur, quand je pense à toi. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je veux chanter pour toi, Seigneur,",
+				"Quand j’admire avec les yeux du coeur",
+				"Ce que tu fais dans ma vie.",
+				"Un jour, vers moi tu t’es penché,",
+				"Avec tant d’amour m’a regardé",
+				"Que tout le monde applaudit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu donnes un peu plus chaque jour",
+				"A ceux qui te cherchent avec amour,",
+				"A ceux qui ont soif de toi.",
+				"Tu n’aimes pas les orgueilleux",
+				"Ni les oppresseurs des malheureux.",
+				"Les petits sont tes amis."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu viens combler les affamés,",
+				"Tandis que les riches aux mains fermées",
+				"Gardent un vide au fond du coeur.",
+				"Tu es fidèle à cet amour",
+				"Qui nous accompagne chaque jour,",
+				"Aujourd’hui comme autrefois."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#188",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

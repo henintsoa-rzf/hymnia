@@ -1,0 +1,62 @@
+{
+	"id": "laisse-nous-seigneur-entrer",
+	"title": "Laisse-nous, Seigneur, entrer",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "219"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Laisse-nous, Seigneur, entrer dans ta maison,",
+				"Laisse-nous venir chez toi.",
+				"Laisse-nous, Seigneur, partager ta moisson,",
+				"Laisse-nous chanter avec toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Printemps de fête, Alléluia !",
+				"Lumière est faite, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Soleil de joie, Alléluia !",
+				"Viens sous mon toit, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vivons ensemble, Alléluia !",
+				"Dieu nous rassemble, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"L’homme est sauvé, Alléluia !",
+				"Ressuscité, Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#219",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

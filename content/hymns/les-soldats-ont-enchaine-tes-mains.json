@@ -1,0 +1,118 @@
+{
+	"id": "les-soldats-ont-enchaine-tes-mains",
+	"title": "Les soldats ont enchaîné tes mains",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "467"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Les soldats ont enchaîné tes mains ;",
+				"Qui de nous ne s’est enfui ?",
+				"Vers tes juges seul tu as marché ;",
+				"Qui de nous ne s’est enfui ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Seigneur, pardonne à ton peuple.",
+				"O Seigneur, pardonne à ton peuple.",
+				"O Seigneur, pardonne-nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu comptais sur un soutien d’ami ;",
+				"Qui de nous t’a défendu ?",
+				"Ton regard cherchait un peu d’appui ;",
+				"Qui de nous t’a défendu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ton visage était couvert de sang ;",
+				"Qui de nous t’a consolé ?",
+				"Et les larmes remplissaient tes yeux ;",
+				"Qui de nous t’a consolé ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand le fouet a déchiré ta peau,",
+				"Qui de nous a protesté ?",
+				"Quand les clous ont transpercé tes mains,",
+				"Qui de nous a protesté ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Tes épaules se courbaient si bas ;",
+				"Qui de nous t’a secouru ?",
+				"Jusqu’au bout tu as porté la croix ;",
+				"Qui de nous t’a secouru ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Aujourd’hui le pauvre crie et meurt ;",
+				"Qui de nous te reconnaît ?",
+				"Sur la terre coule encore ton sang ;",
+				"Qui de nous te reconnaît ?"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Seigneur, nous sommes ton peuple.",
+				"O Seigneur, nous sommes ton peuple.",
+				"O Seigneur, pitié pour nous !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Le soldat a reconnu ta voix :",
+				"Oui, c’est toi le Fils de Dieu !",
+				"Le soldat t’a demandé pardon :",
+				"Oui, c’est toi le Fils de Dieu ! + R2"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 8,
+			"lines": [
+				"Par ta mort tu as vaincu la mort ;",
+				"Par tes plaies tu nous guéris.",
+				"Et ton sang nous a rendu la vie.",
+				"Par tes plaies tu nous guéris. + R2"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#467",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

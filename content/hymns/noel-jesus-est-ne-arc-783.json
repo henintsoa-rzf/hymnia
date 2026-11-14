@@ -1,0 +1,60 @@
+{
+	"id": "noel-jesus-est-ne-arc-783",
+	"title": "Noël, Jésus est né",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "783"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Noël, Noël, Jésus est né ;",
+				"Criez la joyeuse nouvelle !",
+				"Noël, Noël, Jésus est né ;",
+				"Le Sauveur nous est donné."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Marie dans une étable à la minuit,",
+				"Est venue mettre au monde son tout petit.",
+				"Cet enfant de lumière, c’est l’enfant-Dieu",
+				"Qui vient sur notre terre ; chantons joyeux !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"La chorale des anges vient l’annoncer",
+				"Aux bergers qui accourent pour l’adorer.",
+				"De leurs terres lointaines, viennent les rois",
+				"Qui rendent les hommages au Roi des rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Joseph, déjà, s’apprête à partager",
+				"Sa solide expérience de charpentier.",
+				"Jésus, à son école, va se former",
+				"Et quitter sa famille pour enseigner."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#783",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

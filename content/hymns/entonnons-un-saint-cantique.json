@@ -9,6 +9,10 @@
 		{
 			"hymnal": "adf",
 			"number": "444"
+		},
+		{
+			"hymnal": "arc",
+			"number": "254"
 		}
 	],
 	"sections": [
@@ -104,6 +108,11 @@
 			"name": "JEM — jemaf.fr",
 			"url": "https://jemaf.fr/chant/af444",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#254",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

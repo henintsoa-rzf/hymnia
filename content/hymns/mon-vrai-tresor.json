@@ -1,0 +1,68 @@
+{
+	"id": "mon-vrai-tresor",
+	"title": "Mon vrai trésor",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "617"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon vrai trésor sur terre et mon seul bien,",
+				"O Jésus-Christ à qui j’appartiens,",
+				"Tu es mon espérance ;",
+				"Dans le bonheur",
+				"Et le malheur,",
+				"En toi j’ai placé ma confiance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ton saint amour et ta fidélité",
+				"Subsisteront pour l’éternité",
+				"Et rien sur cette terre,",
+				"A cet amour,",
+				"Jour après jour,",
+				"Seigneur, ne pourrait me soustraire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le jour décline, ô Christ, mon vrai trésor.",
+				"Auprès de moi, Seigneur, reste encore.",
+				"Déjà le soir s’avance ;",
+				"Que nul péché",
+				"N’ose voiler",
+				"En moi l’éclat de ta présence."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Je trouve un sûr repos près de mon Dieu.",
+				"En sa paix, je puis fermer les yeux ;",
+				"Vers toi, vers ton Royaume,",
+				"Le jour, la nuit,",
+				"Tu me conduis,",
+				"Seigneur et Dieu de tous les hommes."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#617",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

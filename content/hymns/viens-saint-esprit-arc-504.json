@@ -1,0 +1,60 @@
+{
+	"id": "viens-saint-esprit-arc-504",
+	"title": "Viens, Saint-Esprit",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "504"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, Saint-Esprit, Dieu créateur,",
+				"Mettre en tout homme un nouveau coeur.",
+				"Tu veux de nous, si différents,",
+				"Former un seul peuple saint."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Viens, Saint-Esprit consolateur,",
+				"Illuminer joie et douleur.",
+				"Tu sais nos élans, nos secrets ;",
+				"Reste avec nous à jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu répands tes dons les meilleurs,",
+				"L’amour, la joie et la douceur,",
+				"Toi qui viens au milieu de nous,",
+				"Esprit Saint promis à tous."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Loué sois-tu, ô Saint-Esprit,",
+				"Qui nous révèles Jésus-Christ",
+				"Et nous unis au Tout-puissant ;",
+				"Loué soit Dieu en tout temps !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#504",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

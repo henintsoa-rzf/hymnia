@@ -1,0 +1,29 @@
+{
+	"id": "surs-de-ton-amour",
+	"title": "Sûrs de ton amour",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "847"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Sûrs de ton amour",
+				"Et forts de notre foi,",
+				"Seigneur, nous te prions."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#847",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

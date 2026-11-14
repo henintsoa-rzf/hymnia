@@ -1,0 +1,59 @@
+{
+	"id": "o-dieu-tu-es-fidele",
+	"title": "O Dieu, tu es fidèle",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "233"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu, tu es fidèle",
+				"Dans tout ce que tu fais.",
+				"Ta Parole éternelle",
+				"Demeure à tout jamais.",
+				"Elle a créé le monde ;",
+				"La vie en elle abonde",
+				"Comme au commencement."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cette Parole unique,",
+				"C’est ton Fils bien-aimé,",
+				"Lumière magnifique,",
+				"Chemin et vérité,",
+				"Eau vive et jaillissante,",
+				"Nourriture abondante",
+				"Pour restaurer les siens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans ta Parole sainte,",
+				"Nous entendons ta voix.",
+				"Elle apaise nos craintes,",
+				"Affermis notre foi.",
+				"C’est elle qui rassemble",
+				"Tous les croyants ensemble",
+				"Dans l’Eglise de Dieu."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#233",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

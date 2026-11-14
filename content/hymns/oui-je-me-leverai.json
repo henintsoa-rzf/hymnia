@@ -1,0 +1,132 @@
+{
+	"id": "oui-je-me-leverai",
+	"title": "Oui, je me lèverai",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "436"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Oui, je me lèverai",
+				"Et j’irai vers mon Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vers toi, Seigneur, j’élève mon âme.",
+				"Je me confie en toi, mon espoir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vois mon malheur, regarde ma peine.",
+				"Tous mes péchés, pardonne-les moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Mon coeur a dit : Je cherche ta face.",
+				"Entends mon cri ; pitié, réponds-moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Vers toi, Seigneur, je crie et j’appelle.",
+				"Ne sois pas sourd, ô toi, mon Rocher."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Ne ferme pas pour moi tes tendresses.",
+				"Que ton amour me garde à jamais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Guéris mon coeur et guéris mon âme,",
+				"Car j’ai péché envers ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Pitié pour moi, ô Dieu de tendresse.",
+				"Purifie-moi de tout péché."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 8,
+			"lines": [
+				"O Dieu, tu sais toute ma folie,",
+				"Et mes péchés sont tous devant toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 9,
+			"lines": [
+				"Reviens vers nous malgré nos offenses.",
+				"Prends en pitié, Seigneur, tes enfants."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 10,
+			"lines": [
+				"Rends-moi la joie de la délivrance.",
+				"Ouvre mes lèvres pour te chanter."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 11,
+			"lines": [
+				"Heureux celui à qui Dieu pardonne",
+				"Toutes ses fautes, tous ses péchés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 12,
+			"lines": [
+				"Tu es ma joie, tu es mon refuge.",
+				"Tous les coeurs droits loueront le Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 13,
+			"lines": [
+				"Mon coeur te chante, mon coeur exulte.",
+				"Je te bénis pour l’éternité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#436",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

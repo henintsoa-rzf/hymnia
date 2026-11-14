@@ -1,0 +1,68 @@
+{
+	"id": "vers-les-monts",
+	"title": "Vers les monts",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "121"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vers les monts je lève les yeux,",
+				"Cherchant d’où mon secours",
+				"Viendra au long des jours.",
+				"Mon secours vient du Dieu des cieux,",
+				"Mon créateur, mon père,",
+				"Le maître de la terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Va, prends ta route et ne crains rien ;",
+				"Si ton Dieu ne dort pas,",
+				"Tu ne broncheras pas.",
+				"Moi, je suis sûr que mon gardien",
+				"Sur tout son peuple veille",
+				"Et jamais ne sommeille."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dieu près de toi est ton appui.",
+				"De l’ombre de sa main",
+				"Il couvre ton chemin,",
+				"Quand le soleil frappe à midi,",
+				"Quand la nuit tend le piège",
+				"De tant de sortilèges."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Du mal ton Dieu te gardera ;",
+				"Du doute et de l’erreur",
+				"Il gardera ton coeur.",
+				"Sur ton départ il étendra,",
+				"Et sur ton arrivée,",
+				"Sa main droite élevée."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#121",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

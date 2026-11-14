@@ -5,6 +5,11 @@
 		{
 			"hymnal": "jem",
 			"number": "180"
+		},
+		{
+			"hymnal": "arc",
+			"number": "521",
+			"title": "Nous chanterons pour toi"
 		}
 	],
 	"sections": [
@@ -75,5 +80,12 @@
 		"retrievedAt": "2026-11-11"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#521",
+			"retrievedAt": "2026-11-13"
+		}
+	]
 }

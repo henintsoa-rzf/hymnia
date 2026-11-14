@@ -1,0 +1,30 @@
+{
+	"id": "preparez-le-chemin",
+	"title": "Préparez le chemin",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "769"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Préparez le chemin,",
+				"Le chemin du Seigneur.",
+				"Regardez cette main",
+				"Qui montre le Sauveur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#769",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

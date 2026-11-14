@@ -1,0 +1,70 @@
+{
+	"id": "o-seigneur-je-viens-vers-toi",
+	"title": "O Seigneur, je viens vers toi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "210"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Seigneur, je viens vers toi.",
+				"Je viens vers toi, je te cherche mon Dieu.",
+				"O Seigneur, écoute-moi.",
+				"Ecoute-moi ; je t’espère, mon Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toi, Seigneur, tu es la vie ;",
+				"Moi, je n’étais rien.",
+				"Toi, tu m’as donné la vie ;",
+				"Moi, je suis ton enfant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi, Seigneur, tu es l’amour ;",
+				"Moi, j’étais perdu.",
+				"Toi, tu es toute tendresse ;",
+				"Moi, je cherche ta main."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toi, Seigneur, tu es pardon ;",
+				"Moi, je suis pécheur.",
+				"Tu écoutes, tu pardonnes ;",
+				"Oh, mon Dieu, je t’implore."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Toi, Seigneur, tu es lumière ;",
+				"Moi, je ne vois pas.",
+				"Ta parole nous éclaire ;",
+				"Fais, Seigneur, que je voie."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#210",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

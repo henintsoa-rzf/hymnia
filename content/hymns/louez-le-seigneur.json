@@ -1,0 +1,30 @@
+{
+	"id": "louez-le-seigneur",
+	"title": "Louez le Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "728"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Louez le Seigneur,",
+				"Tous ceux qui l’adorent.",
+				"Louez, louez,",
+				"Louez le Seigneur !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#728",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

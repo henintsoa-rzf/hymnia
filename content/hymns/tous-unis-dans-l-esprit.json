@@ -1,0 +1,64 @@
+{
+	"id": "tous-unis-dans-l-esprit",
+	"title": "Tous unis dans l’Esprit",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "530"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tous unis dans l’Esprit, tous unis en Jésus,",
+				"Tous unis dans l’Esprit, tous unis en Jésus,",
+				"Nous prions que bientôt ce qui divise ne soit plus."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et le monde saura que nous sommes chrétiens",
+				"Par l’amour dont nos actes sont empreints."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous marchons côte à côte et la main dans la main,",
+				"Nous marchons côte à côte et la main dans la main.",
+				"A la table du Roi nous partageons le même pain."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"D’un seul coeur nous voulons travailler pour Jésus,",
+				"D’un seul coeur nous voulons travailler pour Jésus,",
+				"Proclamer à tout homme qu’il nous offre le salut."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Gloire au Dieu créateur de la terre et des cieux,",
+				"Gloire au Fils éternel, Rédempteur glorieux,",
+				"Gloire, gloire à l’Esprit qui verse en nous l’amour de Dieu."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#530",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

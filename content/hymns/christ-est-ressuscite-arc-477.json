@@ -1,0 +1,53 @@
+{
+	"id": "christ-est-ressuscite-arc-477",
+	"title": "Christ est ressuscité",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "477"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ est ressuscité,",
+				"De la mort a triomphé.",
+				"Réjouissons-nous en ce jour,",
+				"Christ vivant l’est pour toujours.",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est pour l’éternité",
+				"Que Jésus a triomphé.",
+				"Célébrons le Père et le Fils",
+				"Dans l’unité de l’Esprit.",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Alléluia ! Alléluia !",
+				"Alléluia !",
+				"Réjouissons-nous en ce jour,",
+				"Christ vivant l’est pour toujours.",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#477",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

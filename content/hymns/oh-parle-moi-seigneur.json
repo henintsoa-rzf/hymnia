@@ -1,0 +1,50 @@
+{
+	"id": "oh-parle-moi-seigneur",
+	"title": "Oh ! parle-moi, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "230"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! parle-moi, Seigneur, ton serviteur écoute ;",
+				"Je dis ton serviteur, car enfin je le suis.",
+				"Je le suis, je veux l’être et marcher dans ta route,",
+				"Et les jours et les nuits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Donne-moi ton Esprit, que je puisse comprendre",
+				"Ce qu’ordonnent de moi tes saintes volontés,",
+				"Et réduis mes désirs au seul désir d’entendre",
+				"Tes hautes vérités."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oh ! parle-moi, mon Dieu ; ton serviteur fidèle",
+				"Pour écouter ta voix réunit tous ses sens",
+				"Et trouve les douceurs de la vie éternelle",
+				"En tes divins accents."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#230",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

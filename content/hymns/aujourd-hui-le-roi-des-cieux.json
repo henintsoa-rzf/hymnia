@@ -1,0 +1,68 @@
+{
+	"id": "aujourd-hui-le-roi-des-cieux",
+	"title": "Aujourd’hui, le Roi des cieux",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "365"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Aujourd’hui, le Roi des cieux, au milieu de la nuit,",
+				"Voulut naître chez nous de la Vierge Marie,",
+				"Pour sauver le genre humain, l’arracher au péché,",
+				"Ramener au Seigneur ses enfants égarés."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Noël ! Noël ! Noël ! Noël !",
+				"Jésus est né ! Chantons Noël !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En ces lieux, durant la nuit, demeuraient des bergers",
+				"Qui gardaient leurs troupeaux dans les champs de Judée.",
+				"Tout à coup un messager apparut dans les cieux",
+				"Et la gloire de Dieu resplendit autour d’eux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L’ange dit : Ne craignez pas, soyez tous dans la joie !",
+				"Un Sauveur vous est né ; c’est le Christ, votre Roi.",
+				"Près d’ici vous trouverez un enfant nouveau-né,",
+				"Dans l’étable couché, d’un lange emmailloté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Aussitôt s’emplit le ciel de lumière et de chants,",
+				"D’une armée d’anges blancs louant Dieu et disant :",
+				"Gloire à Dieu dans les hauteurs et sur terre la paix",
+				"Pour les hommes sur qui Dieu répand sa bonté."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#365",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

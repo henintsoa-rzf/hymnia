@@ -1,0 +1,70 @@
+{
+	"id": "mon-coeur-est-comme-une-flute",
+	"title": "Mon coeur est comme une flûte",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "745"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Mon coeur est comme une flûte de roseau",
+				"Que Jésus remplit de musique.",
+				"Mon coeur est comme une flûte de roseau",
+				"Qu’il fait chanter, Alléluia ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Un jour je rencontre Jésus,",
+				"Il me regarde, il me sourit.",
+				"Tel que je suis, je sais qu’il m’aime.",
+				"Je suis joyeux et libre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il me guide, il est mon berger.",
+				"Dans le danger, il me conduit.",
+				"Il dit mon nom quand il m’appelle ;",
+				"J’avance avec confiance."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous marchons vers un beau pays,",
+				"Vers le repos et vers la paix,",
+				"Vers le repas où il se donne",
+				"Lui-même en nourriture."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il est vraiment le bon berger.",
+				"C’est par amour que, pour sauver",
+				"Chaque brebis de son troupeau,",
+				"Il a donné sa vie."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#745",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,56 @@
+{
+	"id": "voix-des-prophetes",
+	"title": "Voix des prophètes",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "236"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Voix des prophètes,",
+				"Souffle de Dieu,",
+				"Fais-nous connaître le Père.",
+				"Vent de tempête,",
+				"Bible de feu,",
+				"Parole et loi de Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Voix des apôtres,",
+				"Voix de l’Esprit,",
+				"Flamme, espérance et message !",
+				"D’un siècle à l’autre,",
+				"Porte la vie,",
+				"Parole de l’Esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Verbe admirable,",
+				"Voix de Jésus,",
+				"Source d’amour et de vie !",
+				"Inépuisable",
+				"Est ta vertu,",
+				"Parole de Jésus !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#236",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

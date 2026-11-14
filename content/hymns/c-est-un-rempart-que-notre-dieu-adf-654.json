@@ -9,6 +9,11 @@
 		{
 			"hymnal": "jem",
 			"number": "86"
+		},
+		{
+			"hymnal": "arc",
+			"number": "543",
+			"title": "C’est un rempart"
 		}
 	],
 	"sections": [
@@ -95,6 +100,11 @@
 			"name": "JEM — jemaf.fr",
 			"url": "https://jemaf.fr/chant/jem086",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#543",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

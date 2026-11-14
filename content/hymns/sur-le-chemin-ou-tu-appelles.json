@@ -1,0 +1,30 @@
+{
+	"id": "sur-le-chemin-ou-tu-appelles",
+	"title": "Sur le chemin où tu appelles",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "883"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Sur le chemin où tu appelles,",
+				"Ta force affermira nos pas.",
+				"Tu viens tracer route nouvelle.",
+				"Heureux celui qui te suivra."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#883",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

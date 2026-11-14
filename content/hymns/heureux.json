@@ -1,0 +1,56 @@
+{
+	"id": "heureux",
+	"title": "Heureux",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "1"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Heureux celui dont la plus grande joie",
+				"Est nuit et jour de méditer ta loi.",
+				"Il ne suit pas le conseil des rebelles,",
+				"Il ne fait pas route avec l’infidèle,",
+				"Il ne vient pas s’asseoir chez les moqueurs,",
+				"Mais devant toi est simple dans son coeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il est pareil à l’arbre au bord de l’eau.",
+				"Dieu est pour lui fraîcheur et renouveau.",
+				"L’été brûlant laisse ses feuilles vertes ;",
+				"Des plus beaux fruits ses branches sont couvertes,",
+				"Chaque printemps il s’éveille et fleurit,",
+				"Au long des jours il s’étend et grandit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Comme la paille emportée par le vent,",
+				"Ainsi l’injuste au jour du jugement",
+				"Sera banni du peuple des fidèles,",
+				"De ceux qu’anime une joie éternelle.",
+				"Seigneur qui vois nos coeurs et nos chemins,",
+				"Je me perdrai si tu ne tiens ma main."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#1",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

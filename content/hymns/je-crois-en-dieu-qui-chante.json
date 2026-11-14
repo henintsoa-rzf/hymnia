@@ -1,0 +1,28 @@
+{
+	"id": "je-crois-en-dieu-qui-chante",
+	"title": "Je crois en Dieu qui chante",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "843"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je crois en Dieu qui chante",
+				"Et qui fait chanter la vie."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#843",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,53 @@
+{
+	"id": "celebrons-le-seigneur",
+	"title": "Célébrons le Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "247"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Célébrons le Seigneur, notre Dieu et notre Père,",
+				"Tout-puissant créateur et des cieux et de la terre.",
+				"Ce Dieu d’amour,",
+				"De ses enfants chaque jour",
+				"Veux exaucer la prière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Célébrons le Seigneur, le Christ, le chef de l’Eglise,",
+				"Et qu’à sa volonté toute nation soit soumise.",
+				"Notre Sauveur",
+				"Sur la croix pour les pécheurs",
+				"Acquit la grâce promise."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Célébrons le Seigneur, l’Esprit qui sur notre terre",
+				"Assemble les croyants et de ses dons les éclaire",
+				"Et les unit",
+				"En un seul corps qu’il bénit",
+				"Dans la joie et la lumière."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#247",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,29 @@
+{
+	"id": "o-seigneur-notre-dieu",
+	"title": "O Seigneur, notre Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "805"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"O Seigneur, notre Dieu,",
+				"Qu’il est grand ton nom",
+				"Par tout l’univers !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#805",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

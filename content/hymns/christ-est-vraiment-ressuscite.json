@@ -1,0 +1,50 @@
+{
+	"id": "christ-est-vraiment-ressuscite",
+	"title": "Christ est vraiment ressuscité",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "485"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ est vraiment ressuscité !",
+				"Ne cherchons plus à la tombe.",
+				"Il est vivant dans la gloire.",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Christ est vraiment ressuscité !",
+				"Le premier-né de ce monde",
+				"A demeurer près du Père.",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Christ est vraiment ressuscité !",
+				"Il nous appelle à renaître",
+				"Selon l’Esprit du Royaume.",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#485",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,57 @@
+{
+	"id": "dans-la-joie-de-l-esprit",
+	"title": "Dans la joie de l’Esprit",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "714"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans la joie de l’Esprit de Dieu,",
+				"Je chante, je chante.",
+				"Dans la joie de l’Esprit de Dieu,",
+				"Je chante, je chante.",
+				"Alléluia, alléluia,",
+				"Jésus est le Seigneur !",
+				"Alléluia, alléluia,",
+				"Jésus est le Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans la joie de l’Esprit de Dieu,",
+				"Je danse, je danse…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans la joie de l’Esprit de Dieu,",
+				"J’exulte, j’exulte…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La - La - La…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#714",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

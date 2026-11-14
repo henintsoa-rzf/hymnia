@@ -1,0 +1,60 @@
+{
+	"id": "ecoutez-tous-une-bonne-nouvelle",
+	"title": "Ecoutez tous une bonne nouvelle",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "423"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ecoutez tous une bonne nouvelle :",
+				"C’est pour sauver que Jésus-Christ est mort !",
+				"Qui croit au Fils a la vie éternelle ;",
+				"Notre salut est un don du Dieu fort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Redis, ô Dieu, cette douce parole,",
+				"Qui tant de fois a réjoui mon coeur ;",
+				"Rien ne me calme et rien ne me console",
+				"Que de savoir que Christ est mon Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je n’osais pas, dans ma grande misère,",
+				"Dieu juste et saint, même te supplier.",
+				"Mais tu me dis : “Appelle-moi ton Père !” ;",
+				"C’est comme un fils que je viens te prier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Et quand Satan, jaloux de ta puissance,",
+				"Voudra troubler mon bonheur et ma foi",
+				"Et du pardon m’enlever l’assurance,",
+				"Redis encore : “Jésus est mort pour toi !”."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#423",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

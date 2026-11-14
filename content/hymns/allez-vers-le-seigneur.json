@@ -1,0 +1,28 @@
+{
+	"id": "allez-vers-le-seigneur",
+	"title": "Allez vers le Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "217"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Allez vers le Seigneur,",
+				"Parmi les chants d’allégresse."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#217",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

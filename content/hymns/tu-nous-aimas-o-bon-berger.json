@@ -1,0 +1,48 @@
+{
+	"id": "tu-nous-aimas-o-bon-berger",
+	"title": "Tu nous aimas, ô bon berger",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "457"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu nous aimas, ô bon berger,",
+				"D’un amour sans mesure,",
+				"D’un amour qui veut supporter",
+				"L’épreuve la plus dure.",
+				"Dans un profond abaissement,",
+				"Tu t’offres à notre vue,",
+				"En peine, en souffrance, en tourment,",
+				"Pour la brebis perdue."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chacun de nous est la brebis",
+				"Que ta parole appelle,",
+				"Et désormais tu nous conduis",
+				"Dans ta bonté fidèle.",
+				"Pour nous, tu souffris le trépas",
+				"Afin que chacun vive",
+				"En commençant dès ici-bas",
+				"A t’aimer, à te suivre."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#457",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

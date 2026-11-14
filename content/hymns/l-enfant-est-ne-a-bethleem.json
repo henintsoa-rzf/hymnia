@@ -1,0 +1,80 @@
+{
+	"id": "l-enfant-est-ne-a-bethleem",
+	"title": "L’enfant est né à Bethléem",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "378"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L’enfant est né à Bethléem,",
+				"Alléluia !",
+				"Réjouis-toi, Jérusalem,",
+				"Alléluia, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Au ciel les anges vont chantant",
+				"Alléluia !",
+				"Pour annoncer le saint enfant,",
+				"Alléluia, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Sauveur est né aujourd’hui,",
+				"Alléluia !",
+				"Et les bergers s’en vont à lui.",
+				"Alléluia, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dans l’humble étable ils sont entrés,",
+				"Alléluia !",
+				"Avec leur seule pauvreté,",
+				"Alléluia, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"D’encens, de myrrhe et d’or chargés,",
+				"Alléluia !",
+				"Les mages viennent l’adorer,",
+				"Alléluia, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Réjouis-toi, peuple de Dieu,",
+				"Alléluia !",
+				"Jésus est Roi dans tous les lieux,",
+				"Alléluia, Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#378",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

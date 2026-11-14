@@ -1,0 +1,62 @@
+{
+	"id": "seigneur-que-je-reste-en-ta-paix",
+	"title": "Seigneur, que je reste en ta paix",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "643"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, que je reste en ta paix",
+				"Quand vient pour moi la dernière heure !",
+				"Que ton amour soit à jamais,",
+				"Pour nous passants, ce qui demeure !",
+				"Quand se flétrit la fleur des champs",
+				"Et que bientôt mes jours s’achèvent,",
+				"Par ta parole, ô Dieu vivant,",
+				"Qu’un jour nouveau pour moi se lève !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, tu nous as précédés",
+				"Dans les angoisses de la tombe",
+				"Mais de la mort tu t’es levé ;",
+				"Dès lors cet ennemi succombe.",
+				"Toi qui sais mon infirmité,",
+				"Tu veux m’accueillir dans ta gloire ;",
+				"Mourant dans ma fragilité,",
+				"Je crois, Seigneur, à ta victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Heureux qui se confie en toi ;",
+				"Tu rends l’espoir à ceux qui pleurent.",
+				"Celui qui croit en toi vivra :",
+				"Tu le promets à ceux qui meurent.",
+				"Mon Dieu, protège encore les miens",
+				"Dans leur travail et dans leur peine.",
+				"Enrichis-les de tous tes biens",
+				"Et rends leur fin douce et sereine."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#643",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

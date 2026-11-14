@@ -1,0 +1,98 @@
+{
+	"id": "seigneur-jesus-tu-es-vivant",
+	"title": "Seigneur Jésus, tu es vivant",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "487"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur Jésus, tu es vivant !",
+				"En toi la joie éternelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es vivant, Seigneur,",
+				"Alléluia !",
+				"Aujourd’hui comme hier, demain et toujours,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es vivant, ô Christ,",
+				"Alléluia !",
+				"Toujours auprès de Dieu, toujours parmi nous,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Béni sois-tu, Seigneur,",
+				"Alléluia !",
+				"Par nos travaux, nos joies, le poids de nos vies,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Parole du Seigneur,",
+				"Alléluia !",
+				"En toi, l’amour de Dieu nous est révélé,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Nous te voyons déjà,",
+				"Alléluia !",
+				"Tout l’univers devient visage du Christ,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Nous te verrons un jour,",
+				"Alléluia !",
+				"Tu reviendras chez nous, toujours notre joie,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Louange à toi, ô Christ,",
+				"Alléluia !",
+				"Louange au Dieu vivant, louange à l’Esprit,",
+				"Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#487",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

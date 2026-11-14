@@ -1,0 +1,50 @@
+{
+	"id": "o-toi-jesus",
+	"title": "O toi, Jésus",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "446"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O toi, Jésus, à genoux sur la terre,",
+				"O mon Seigneur, dans ton épuisement,",
+				"Tu as voulu la volonté du Père",
+				"Au plus haut prix, au prix de ton tourment."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur, tu fus tout seul en ta tristesse",
+				"Et sur la croix par tous abandonné ;",
+				"Dans ton amour, tu ne fus que faiblesse,",
+				"Tu ne parlas que pour nous pardonner."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C’est dans ta mort que tu es notre frère,",
+				"C’est dans ta mort aussi que tu es roi.",
+				"C’est dans ta vie, ô Christ, qu’est la lumière,",
+				"C’est dans ta vie aussi qu’est notre foi."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#446",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

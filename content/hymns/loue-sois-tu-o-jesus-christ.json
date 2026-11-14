@@ -1,0 +1,50 @@
+{
+	"id": "loue-sois-tu-o-jesus-christ",
+	"title": "Loué sois-tu, ô Jésus-Christ",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "486"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Loué sois-tu, ô Jésus-Christ !",
+				"Quand nos regards te recherchent",
+				"Au fond des coeurs tu habites.",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Loué sois-tu, ô Jésus-Christ !",
+				"Nous désirons ta présence",
+				"Et tu te fais nourriture.",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Loué sois-tu, ô Jésus-Christ !",
+				"En attendant que tu viennes,",
+				"Tu nous confies ton message.",
+				"Alléluia ! Alléluia ! Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#486",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

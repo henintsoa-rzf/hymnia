@@ -1,0 +1,68 @@
+{
+	"id": "chantons-de-joie",
+	"title": "Chantons de joie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "241"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons de joie vers le Seigneur ;",
+				"Pour tout créer dans la splendeur,",
+				"Il a fait la lumière.",
+				"Il l’a répandue en nos coeurs,",
+				"Il y prend nos prières.",
+				"Loué soit Dieu le Père."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chantons d’amour pour Jésus-Christ",
+				"Qui, par amour, donna sa vie.",
+				"Il est la source vive.",
+				"Son nom sur tout homme est inscrit ;",
+				"Son nom est magnifique.",
+				"Louez le Fils unique."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Chantons la paix de l’Esprit Saint :",
+				"Comme au premier des jours, il vient,",
+				"Illuminant la terre.",
+				"Comme il fera au grand festin,",
+				"Sa flamme nous éclaire,",
+				"Lui, l’Esprit de lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Père, ô Fils, ô Saint-Esprit,",
+				"Ta gloire immense a tout rempli",
+				"Dans l’univers immense.",
+				"Nous célébrerons jour et nuit",
+				"Ta voix ou ton silence,",
+				"Ton aimante présence."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#241",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

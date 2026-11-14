@@ -1,0 +1,50 @@
+{
+	"id": "esprit-du-pere",
+	"title": "Esprit du Père",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "513"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Esprit du Père, Esprit du Fils,",
+				"Eveille-nous dès le matin ;",
+				"Viens sans tarder comme jadis,",
+				"Combler nos coeurs, Esprit très saint."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fais-nous parler, fais-nous chanter",
+				"Pour proclamer ta vérité.",
+				"Pour tous nos frères chaque jour,",
+				"Enflamme-nous de ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Gloire à toi, Père créateur ;",
+				"Gloire à ton Fils, le Rédempteur ;",
+				"Gloire à l’Esprit consolateur.",
+				"Louange et gloire au Dieu sauveur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#513",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,75 @@
+{
+	"id": "alleluia-dans-la-campagne",
+	"title": "Alléluia ! dans la campagne",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "357"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia ! Alléluia ! Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans la campagne, cette nuit-là,",
+				"Le ciel en fête parle d’amour :",
+				"Gloire à Dieu dans les cieux,",
+				"Paix aux hommes qu’il aime !",
+				"Gloire à Dieu dans les cieux,",
+				"Paix aux hommes qu’il aime !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans le village tous les bergers,",
+				"Sans plus attendre, ont décidé :",
+				"“Vite, allons à la crèche",
+				"Voir le Roi qui est né !”.",
+				"Gloire à Dieu dans les cieux,",
+				"Paix aux hommes qu’il aime !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jamais encore, sur un enfant,",
+				"Tant d’espérance n’avait brillé :",
+				"C’est un monde nouveau",
+				"Qui s’éveille avec lui.",
+				"Gloire à Dieu dans les cieux,",
+				"Paix aux hommes qu’il aime !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dans la tendresse du Nouveau-Né,",
+				"Dieu nous dévoile sa vérité :",
+				"Il nous aime chacun",
+				"Comme il aime son Fils.",
+				"Gloire à Dieu dans les cieux,",
+				"Paix aux hommes qu’il aime !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#357",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

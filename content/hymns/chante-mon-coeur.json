@@ -1,0 +1,60 @@
+{
+	"id": "chante-mon-coeur",
+	"title": "Chante, mon coeur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "705"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Chante, mon coeur,",
+				"Chante ta joie !",
+				"Crie le Seigneur,",
+				"Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu vient chasser toutes nos peurs,",
+				"Il nous réjouit de sa joie.",
+				"L’enfant Dieu fait chanter mon coeur,",
+				"Il reviendra, Maranatha !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je veux sans cesse le chanter,",
+				"Ce Dieu qui brise ma tristesse.",
+				"Je lui confiai ma pauvreté ;",
+				"Ce fut ma source de richesse…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et tous les filets ont craqué,",
+				"Craqué de joies et de chansons ;",
+				"Goûtons le pain de liberté,",
+				"Arrive l’heure des moissons…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#705",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

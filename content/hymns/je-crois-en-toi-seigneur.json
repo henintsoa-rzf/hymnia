@@ -1,0 +1,28 @@
+{
+	"id": "je-crois-en-toi-seigneur",
+	"title": "Je crois en toi, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "842"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je crois en toi, Seigneur ;",
+				"Tu es ma vie, tu es mon amour."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#842",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

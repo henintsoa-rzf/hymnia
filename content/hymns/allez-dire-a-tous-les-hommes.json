@@ -1,0 +1,30 @@
+{
+	"id": "allez-dire-a-tous-les-hommes",
+	"title": "Allez dire à tous les hommes",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "555"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Allez dire à tous les hommes :",
+				"Le Royaume est parmi vous.",
+				"Alléluia, Alléluia !",
+				"Le Royaume est parmi vous."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#555",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

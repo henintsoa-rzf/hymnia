@@ -1,0 +1,28 @@
+{
+	"id": "le-seigneur-est-mon-berger-arc-158",
+	"title": "Le Seigneur est mon berger",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "158"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Le Seigneur est mon berger :",
+				"Rien ne saurait me manquer."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#158",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,35 @@
+{
+	"id": "voici-les-noms-des-prophetes",
+	"title": "Voici les noms des prophètes",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "765"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Voici les noms des prophètes de l’Ancien Testament :",
+				"Esaïe, Jérémie",
+				"Ezéchiel, Osée,",
+				"Joël, Amos,",
+				"Abdias, Jonas,",
+				"Michée, Nahoum, Habakuk !",
+				"Sophonie, Aggée, Zacharie",
+				"Et le tout dernier, c’est Malachie !",
+				"Et l’on recommence au début !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#765",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

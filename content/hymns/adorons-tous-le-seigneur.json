@@ -1,0 +1,56 @@
+{
+	"id": "adorons-tous-le-seigneur",
+	"title": "Adorons tous le Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "250"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Adorons tous le Seigneur,",
+				"Et sa parole éternelle.",
+				"Le Seigneur dit son amour",
+				"A son Eglise en prière.",
+				"Qu’en nous sa voix fasse taire",
+				"Toute autre voix que la sienne."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Adorons tous le Seigneur ;",
+				"Sa grandeur est sans limites :",
+				"Nous contemplons sa splendeur",
+				"Au miroir de l’Evangile.",
+				"Que son Esprit nous dispense",
+				"Sa lumière éblouissante."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Adorons tous le Seigneur ;",
+				"A lui nos chants d’espérance.",
+				"Il est proche de nos coeurs.",
+				"Il répond à notre attente.",
+				"Notre Seigneur, notre Père,",
+				"Daigne exaucer nos prières."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#250",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

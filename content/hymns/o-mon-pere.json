@@ -1,0 +1,65 @@
+{
+	"id": "o-mon-pere",
+	"title": "O mon Père",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "627"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O mon Père,",
+				"Ma prière",
+				"Irait-elle jusqu’à toi,",
+				"Si toi-même,",
+				"Dieu qui m’aimes,",
+				"Ne descendais jusqu’à moi ?",
+				"O mystère,",
+				"O mystère,",
+				"Adorable pour ma foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"De l’abîme",
+				"Vers la cime,",
+				"Vers le trône de mon roi,",
+				"Ma prière,",
+				"O mon Père,",
+				"S’élève jusques à toi.",
+				"O Dieu tendre,",
+				"Daigne entendre",
+				"La requête de ma foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C’est toi-même,",
+				"Dieu que j’aime,",
+				"Toi que je demande à toi.",
+				"Ta présence,",
+				"Ton absence,",
+				"C’est vie ou c’est mort pour moi.",
+				"Que ta grâce",
+				"En moi fasse",
+				"A jamais règner mon roi."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#627",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

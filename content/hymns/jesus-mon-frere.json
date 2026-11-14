@@ -1,0 +1,28 @@
+{
+	"id": "jesus-mon-frere",
+	"title": "Jésus, mon frère",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "737"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Jésus, mon frère, un jour tu m’as rencontré",
+				"Et, depuis ce jour-là, tout est changé."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#737",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

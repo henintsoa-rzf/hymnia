@@ -1,0 +1,98 @@
+{
+	"id": "seigneur-rassemble-nous",
+	"title": "Seigneur, rassemble-nous",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "220"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Seigneur, rassemble-nous",
+				"Dans la paix de ton amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nos fautes nous séparent,",
+				"Ta grâce nous unit.",
+				"La joie de ta victoire",
+				"Eclaire notre nuit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu es notre espérance",
+				"Parmi nos divisions.",
+				"Plus haut que nos offenses",
+				"S’élève ton pardon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, vois la misère",
+				"Des hommes affamés.",
+				"Partage à tous nos frères",
+				"Le pain de l’unité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Heureux le coeur des pauvres",
+				"Qui cherchent l’unité !",
+				"Heureux dans ton royaume",
+				"Les frères retrouvés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Fais croître en notre attente",
+				"L’amour de ta maison.",
+				"L’Esprit dans le silence",
+				"Fait notre communion."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Ta croix est la lumière",
+				"Qui nous a rassemblés :",
+				"O joie de notre terre,",
+				"Tu nous as rachetés !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"La mort est engloutie ;",
+				"Nous sommes délivrés.",
+				"Qu’éclate en nous la vie,",
+				"Seigneur ressuscité !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#220",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,68 @@
+{
+	"id": "seigneur-jesus-qui-es-venu",
+	"title": "Seigneur Jésus, qui es venu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "490"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur Jésus,",
+				"Qui es venu",
+				"Habiter sur la terre,",
+				"Nous t’adorons",
+				"Et nous t’offrons",
+				"Notre ardente prière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Auprès de Dieu,",
+				"Loin de nos yeux,",
+				"Tu sièges dans la gloire,",
+				"Mais tu soutiens",
+				"Toujours les tiens,",
+				"Signes de ta victoire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Depuis longtemps,",
+				"L’Eglise attend",
+				"Ton retour et ton règne.",
+				"Quand viendras-tu,",
+				"Seigneur Jésus,",
+				"Dans ta paix souveraine ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"O Jésus-Christ,",
+				"Pour nous tu pries",
+				"Ton Père et notre Père.",
+				"Aime et reçois,",
+				"O notre Roi,",
+				"Nos chants et nos prières."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#490",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

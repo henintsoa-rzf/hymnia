@@ -1,0 +1,80 @@
+{
+	"id": "preparez-le-chemin-du-seigneur",
+	"title": "Préparez le chemin du Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "323"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Préparez le chemin du Seigneur,",
+				"Ouvrez large la porte de vos coeurs :",
+				"Il viendra, le Sauveur,",
+				"Et tout homme verra le salut de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ote ta robe de tristesse.",
+				"Plus de malheur, plus de détresse :",
+				"C’est ton Sauveur qui vient vers toi ;",
+				"Il te vêtira de sa joie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dis aux timides qui s’affolent :",
+				"Ne craignez pas, prenez courage !",
+				"Dieu vient lui-même vous sauver ;",
+				"Il vous conduira vers sa joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vois les collines qui s’abaissent,",
+				"Vois les ravins qui s’applanissent,",
+				"Vois le chemin qui s’est ouvert :",
+				"Il te mènera vers la joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Sourds, ils entendent la Parole",
+				"Et les aveugles voient la gloire !",
+				"Les pauvres mangent à leur faim ;",
+				"Les boiteux bondissent de joie !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Dans le désert, les eaux jaillissent ;",
+				"Les lieux arides refleurissent ;",
+				"La terre est prête pour le grain,",
+				"Les côteaux vous offrent le vin !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#323",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

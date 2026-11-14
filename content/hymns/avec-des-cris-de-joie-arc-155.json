@@ -1,0 +1,60 @@
+{
+	"id": "avec-des-cris-de-joie-arc-155",
+	"title": "Avec des cris de joie",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "155"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec des cris de joie,",
+				"Je chanterai pour toi,",
+				"J’élèverai mes mains,",
+				"Je bénirai ton nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu, tu es mon Dieu ;",
+				"Dès l’aube je te cherche.",
+				"Mon âme a soif de toi,",
+				"Terre aride, desséchée."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans ton temple j’ai vu",
+				"Ta gloire et ta puissance.",
+				"Je dirai ta bonté",
+				"Bien meilleure que la vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"La nuit je pense à toi,",
+				"Des heures je médite :",
+				"Tu viens à mon secours,",
+				"Ta main droite me soutient."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#155",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

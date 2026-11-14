@@ -1,0 +1,68 @@
+{
+	"id": "nous-adorons-le-saint-mystere",
+	"title": "Nous adorons le saint mystère",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "571"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous adorons le saint mystère :",
+				"Le Fils de Dieu fut baptisé.",
+				"Le ciel s’ouvrit ; la voix du Père",
+				"Lui dit : “Mon Fils, mon Bien-Aimé,",
+				"Sur toi repose pour toujours",
+				"Le bon plaisir de mon amour”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous adorons le saint mystère",
+				"De la colombe de l’Esprit",
+				"Qui vint du Père des lumières",
+				"Pour se poser sur Jésus-Christ :",
+				"Voici qu’au monde est révélé",
+				"Ton saint mystère, ô Trinité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous adorons le saint mystère :",
+				"C’est notre histoire à nous aussi !",
+				"Filles et fils du même Père,",
+				"Depuis toujours en Christ choisis,",
+				"Dans la tendresse de l’Esprit,",
+				"Dieu trois fois saint, ton peuple vit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous adorons le saint mystère :",
+				"Par le baptême en Christ plongés",
+				"Dans ce grand fleuve trinitaire,",
+				"Porteur de vie et de bonté,",
+				"En nous l’amour s’est incarné",
+				"Pour se donner au monde entier."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#571",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

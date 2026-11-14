@@ -1,0 +1,70 @@
+{
+	"id": "c-est-aujourd-hui-la-victoire",
+	"title": "C’est aujourd’hui la victoire",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "493"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C’est aujourd’hui la victoire, Alléluia !",
+				"De Jésus, le Roi de gloire, Alléluia !",
+				"Le Christ est ressuscité, Alléluia !",
+				"Notre vie est retrouvée, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il partagea nos misères, Alléluia !",
+				"Jusqu’au bout fut notre frère, Alléluia !",
+				"Pour nous il mourut en croix, Alléluia !",
+				"Et revit pour notre joie, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans l’épreuve ou la souffrance, Alléluia !",
+				"Jésus nous rend l’espérance, Alléluia !",
+				"Il a connu notre sort, Alléluia !",
+				"Sa victoire nous rend forts, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"La mort qui prend ceux qu’on aime, Alléluia !",
+				"N’a plus le pouvoir suprême, Alléluia !",
+				"A tous ceux qui croient en lui, Alléluia !",
+				"Jésus a promis la vie, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Nous proclamons ses louanges : Alléluia !",
+				"Notre joie est sans mélange, Alléluia !",
+				"Jésus est ressuscité, Alléluia !",
+				"Notre vie est retrouvée, Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#493",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,60 @@
+{
+	"id": "le-monde-ancien-s-en-est-alle",
+	"title": "Le monde ancien s’en est allé",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "325"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le monde ancien s’en est allé,",
+				"Un monde nouveau est déjà né."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous attendons le jour de Dieu",
+				"Qui transfigure terre et cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ne vois-tu pas le jour venir",
+				"Et tous les arbres reverdir ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Fils de l’homme est revenu ;",
+				"Ressuscité, il ne meurt plus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il s’est levé, le jour de Dieu,",
+				"Qui fait renaître terre et cieux."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#325",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

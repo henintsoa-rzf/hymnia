@@ -1,0 +1,62 @@
+{
+	"id": "seigneur-en-ta-victoire",
+	"title": "Seigneur, en ta victoire",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "484"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, en ta victoire",
+				"Tu as détruit la mort.",
+				"Du signe de ta gloire,",
+				"Tu as marqué nos corps.",
+				"Sur nous l’Esprit repose,",
+				"Promesse de salut ;",
+				"Il mène toute chose",
+				"Vers toi, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Rassemble tous les hommes",
+				"Déjà tendus vers toi !",
+				"Ils marchent vers l’aurore",
+				"Où resplendit ta croix.",
+				"Tu vois ce peuple immense",
+				"Cherchant la vérité ;",
+				"Révèle ta présence,",
+				"Sauveur ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Proclame ta Parole,",
+				"Lumière pour nos vies ;",
+				"Rassemble tous tes membres,",
+				"Unis en un seul corps.",
+				"Et fais de tous les hommes",
+				"Tes instruments de paix",
+				"Pour restaurer le monde",
+				"Selon ta volonté."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#484",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

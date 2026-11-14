@@ -1,0 +1,78 @@
+{
+	"id": "o-seigneur-dans-mon-coeur",
+	"title": "O Seigneur, dans mon coeur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "221"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O Seigneur, dans mon coeur je t’écoute.",
+				"Ta Parole est une lampe sur ma route."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous voulons chercher",
+				"Tout ce qui peut te plaire,",
+				"Mais pour le trouver,",
+				"Il nous faut ta lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu nous dis d’aimer",
+				"Tous les autres, nos frères,",
+				"Mais pour les aider,",
+				"Il nous faut ta lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous voulons chanter",
+				"Notre Dieu, notre Père,",
+				"Mais pour lui parler,",
+				"Il nous faut ta lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu aimes écouter",
+				"Tous nos chants, nos prières,",
+				"Mais pour te louer,",
+				"Il nous faut ta lumière."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Viens pour éclairer",
+				"Notre vie, notre terre,",
+				"Car en vérité,",
+				"Il nous faut ta lumière."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#221",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

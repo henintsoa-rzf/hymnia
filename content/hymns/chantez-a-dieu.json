@@ -1,0 +1,53 @@
+{
+	"id": "chantez-a-dieu",
+	"title": "Chantez à Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "96"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantez à Dieu strophe nouvelle !",
+				"Chantez, ô terre universelle !",
+				"Bénissez Dieu de jour en jour",
+				"Et que chacun vienne à son tour",
+				"Acclamer sa gloire immortelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"On entendra sous son empire",
+				"Les cieux chanter, la terre rire,",
+				"Tonner l’océan écumeux",
+				"Et les champs, les bois avec eux,",
+				"Ses louanges dire et redire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Seigneur vient, il va paraître.",
+				"Il vient à nous, lui le seul maître,",
+				"Le juge saint, plein d’équité",
+				"Et partout sa fidélité",
+				"Aux peuples se fera connaître."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#96",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

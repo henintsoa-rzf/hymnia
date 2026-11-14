@@ -1,0 +1,80 @@
+{
+	"id": "sur-les-chemins-du-monde",
+	"title": "Sur les chemins du monde",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "605"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sur les chemins du monde,",
+				"Le Seigneur a semé le bon grain,",
+				"Et dans le coeur des hommes",
+				"Il viendra récolter sa moisson."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ne ferme pas l’oreille,",
+				"Ne ferme pas ton coeur.",
+				"Ecoute le Seigneur :",
+				"Ton blé mûrira."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Arrache les épines,",
+				"Arrache les buissons.",
+				"Ecoute le Seigneur :",
+				"Ton blé mûrira."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Méprise ta richesse,",
+				"Méprise ton argent.",
+				"Ecoute le Seigneur :",
+				"Ton blé mûrira."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Résiste à la tempête,",
+				"Résiste à tous les vents.",
+				"Ecoute le Seigneur :",
+				"Ton blé mûrira."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Réveille ton courage,",
+				"Laboure bien ton champ.",
+				"Ecoute le Seigneur :",
+				"Ton blé mûrira."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#605",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

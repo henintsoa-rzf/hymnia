@@ -1,0 +1,44 @@
+{
+	"id": "oh-qu-il-est-beau",
+	"title": "Oh ! qu’il est beau",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "133"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oh ! qu’il est beau, qu’il est bon pour des frères",
+				"De demeurer unis dans la prière",
+				"Et la rencontre du Seigneur.",
+				"C’est un parfum qui répand son odeur",
+				"Sur le visage et sur le vêtement",
+				"Du prêtre saint du Dieu vivant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est une pluie, c’est une rosée pure",
+				"Dont la fraîcheur descend et qui murmure",
+				"Sur les collines de Sion.",
+				"Ainsi sur nous, la grâce et le pardon",
+				"Viennent de Dieu qui, selon son désir,",
+				"Unit les siens pour les bénir."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#133",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

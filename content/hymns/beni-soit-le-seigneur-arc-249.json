@@ -1,0 +1,50 @@
+{
+	"id": "beni-soit-le-seigneur-arc-249",
+	"title": "Béni soit le Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "249"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Béni soit le Seigneur, le Créateur, le Père.",
+				"Son amour resplendit sur notre terre entière.",
+				"Il nous a tout donné ; tout nous vient de ses mains,",
+				"Et la vie et la joie, et le pain et le vin."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Béni soit le Seigneur, le Fils du Dieu qui aime,",
+				"Qui pour nous se fit homme et qui s’offrit lui-même.",
+				"Il devint serviteur cloué sur une croix",
+				"Et Dieu l’a élevé plus haut que tous les rois."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Béni soit le Seigneur, l’Esprit Saint fort et sage",
+				"Qui de l’amour du Père et du Fils est le gage.",
+				"C’est lui qui nous unit et nous fait retrouver",
+				"Le chemin de l’amour et de la liberté."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#249",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

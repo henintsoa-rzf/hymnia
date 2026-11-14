@@ -1,0 +1,62 @@
+{
+	"id": "tu-me-veux-a-ton-service",
+	"title": "Tu me veux à ton service",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "427"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu me veux à ton service,",
+				"Moi qui sans toi ne suis rien.",
+				"Qu’à toute heure s’accomplisse",
+				"Ton désir et non le mien.",
+				"Ce que j’ai, tu le possèdes,",
+				"Mais tu veux le recevoir :",
+				"Conduis-nous, toi qui nous aides,",
+				"A mettre en toi notre espoir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le plus grand parmi les hommes,",
+				"Tu l’as dit, Maître très doux,",
+				"Sur cette terre où nous sommes,",
+				"C’est le serviteur de tous.",
+				"Tu fis mieux que de le dire,",
+				"Quand pour nous tu vins t’offrir.",
+				"Confonds ce coeur qui n’aspire",
+				"Qu’à se faire encore servir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, si ta main me guide,",
+				"Je marcherai par la foi.",
+				"Tout chemin sera limpide,",
+				"Tout travail sera pour toi.",
+				"Je suis prêt pour la bataille,",
+				"Sa douleur et son effort.",
+				"Je vais où tu veux que j’aille,",
+				"Dans la vie et dans la mort."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#427",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

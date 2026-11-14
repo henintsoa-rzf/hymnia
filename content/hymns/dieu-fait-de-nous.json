@@ -1,0 +1,52 @@
+{
+	"id": "dieu-fait-de-nous",
+	"title": "Dieu fait de nous",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "537"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dieu fait de nous en Jésus-Christ des hommes libres ;",
+				"Tout vient de lui, tout est pour lui : qu’il nous délivre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Peuple choisi pour témoigner de l’Evangile,",
+				"Laisse ta vie se ranimer aux sources vives."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Peuple choisi pour exister dans la prière,",
+				"Prends en tes mains le monde entier et sa misère."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Peuple choisi pour l’unité de tous tes frères,",
+				"Ouvre tes bras et reconnais les dons du Père."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#537",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

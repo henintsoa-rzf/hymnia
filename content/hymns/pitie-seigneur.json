@@ -1,0 +1,28 @@
+{
+	"id": "pitie-seigneur",
+	"title": "Pitié, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "434"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Pitié, Seigneur ! J’ai péché contre toi.",
+				"Lave-moi plus blanc que neige !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#434",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

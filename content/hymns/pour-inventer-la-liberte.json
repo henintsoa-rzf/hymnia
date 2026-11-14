@@ -1,0 +1,60 @@
+{
+	"id": "pour-inventer-la-liberte",
+	"title": "Pour inventer la liberté",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "431"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour inventer la liberté,",
+				"Brisons nos murs de solitude.",
+				"Pour accueillir la vérité,",
+				"Brisons nos vieilles habitudes."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu nous appelle aujourd’hui",
+				"A nous lever de nos tombeaux.",
+				"Dieu nous appelle aujourd’hui",
+				"Pour nous donner un coeur nouveau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour que renaisse notre espoir,",
+				"Brisons les murs de l’impossible.",
+				"Pour que fleurisse l’amitié,",
+				"Tissons les liens de l’invisible."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour partager sur nos chemins",
+				"Nos cris de joie, nos chants de peine,",
+				"Pour découvrir chaque matin",
+				"L’Esprit qui fait germer la graine…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#431",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

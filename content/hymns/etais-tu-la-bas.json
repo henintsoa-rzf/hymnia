@@ -1,0 +1,97 @@
+{
+	"id": "etais-tu-la-bas",
+	"title": "Etais-tu là-bas ?",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "459"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Etais-tu là-bas ?",
+				"L’as-tu vu, mon Seigneur et mon frère Jésus ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"L’as-tu vu, dis-moi,",
+				"Quand on l’a mis sur la croix ?",
+				"Quand j’y pense parfois,",
+				"Je tremble d’effroi !",
+				"L’as-tu vu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L’as-tu vu, dis-moi,",
+				"Quand on l’a cloué au bois ?",
+				"Quand j’y pense parfois,",
+				"Je tremble d’effroi !",
+				"L’as-tu vu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"L’as-tu vu, brisé,",
+				"Quand on troua son côté ?",
+				"Quand j’y pense parfois,",
+				"Je tremble d’effroi !",
+				"L’as-tu vu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"L’as-tu vu, Jésus,",
+				"Quand le soleil disparut ?",
+				"Quand j’y pense parfois,",
+				"Je tremble d’effroi !",
+				"L’as-tu vu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"L’as-tu vu, oh ! dis,",
+				"Quand Jésus rendit l’esprit ?",
+				"Quand j’y pense parfois,",
+				"Je tremble d’effroi !",
+				"L’as-tu vu ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"L’as-tu vu, ami,",
+				"Quand au tombeau ils l’ont mis ?",
+				"Quand j’y pense parfois,",
+				"Je tremble d’effroi !",
+				"L’as-tu vu ?",
+				"L’as-tu vu ?",
+				"L’as-tu vu ?",
+				"L’as-tu vu ?"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#459",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

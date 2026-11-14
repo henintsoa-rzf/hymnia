@@ -1,0 +1,52 @@
+{
+	"id": "nous-marchons-vers-l-unite",
+	"title": "Nous marchons vers l’unité",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "529"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous marchons vers l’unité,",
+				"Nous marchons vers l’unité,",
+				"L’unité de tous les hommes.",
+				"Dans le fond de mon coeur,",
+				"Je sais que Dieu, le Seigneur,",
+				"Avec lui nous rassemblera."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jamais nous n’aurons plus peur !",
+				"Jamais nous n’aurons plus peur,",
+				"Car l’amour est notre force.",
+				"Dans le fond…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et nous serons dans la joie",
+				"Et nous serons dans la joie",
+				"Car l’amour libère l’homme.",
+				"Dans le fond…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#529",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

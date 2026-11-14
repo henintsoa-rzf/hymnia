@@ -1,0 +1,70 @@
+{
+	"id": "sur-la-route-d-emmaus",
+	"title": "Sur la route d’Emmaüs",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "782"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur la route d’Emmaüs,",
+				"Cheminaient deux compagnons. (bis)",
+				"Ils rencontrent un inconnu",
+				"Qui leur posa des questions. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"On disait que ce Jésus,",
+				"C’est fini : ils l’ont bien eu. (bis)",
+				"On croyait que c’était lui,",
+				"Que c’était lui le Messie. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Alors l’inconnu leur dit :",
+				"“Vous n’avez donc rien compris. (bis)",
+				"Il fallait bien qu’il souffrît.",
+				"Souv’nez-vous, c’était écrit”. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Puis avec eux il mangea,",
+				"Prit du pain, le partagea. (bis)",
+				"Brusquement, il disparut",
+				"Tout comme il était venu. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Mais depuis, du fond du coeur,",
+				"Ils savent que c’est le Seigneur. (bis)",
+				"Car leur coeur se réchauffait",
+				"Lorsque l’inconnu parlait. (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#782",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

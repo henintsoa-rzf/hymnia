@@ -1,0 +1,78 @@
+{
+	"id": "rendez-grace-au-seigneur-arc-187",
+	"title": "Rendez grâce au Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "187"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Rendez grâce au Seigneur, car il est bon. (ter)",
+				"Eternel est son amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"La maison d’Israël peut le dire,",
+				"La maison d’Aaron peut le dire,",
+				"Tout le peuple de Dieu peut le dire :",
+				"Rendez grâce au Seigneur, car il est bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans l’angoisse, ô Seigneur, je t’appelle ;",
+				"Tu m’entends et ta main me protège.",
+				"Avec toi, je ne crains plus personne.",
+				"Rendez grâce au Seigneur, car il est bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta puissance, Seigneur, me relève.",
+				"Ton amour me redonne courage.",
+				"Près de toi je retrouve la force.",
+				"Rendez grâce au Seigneur, car il est bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand je vois la misère des hommes,",
+				"La souffrance et la guerre sur terre,",
+				"Je me lève et je crie que j’espère :",
+				"Rendez grâce au Seigneur, car il est bon."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Oui, je sais qu’avec toi je peux vivre.",
+				"J’entrerai par la porte entrouverte,",
+				"Je vivrai dans la joie du Royaume :",
+				"Rendez grâce au Seigneur, car il est bon."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#187",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

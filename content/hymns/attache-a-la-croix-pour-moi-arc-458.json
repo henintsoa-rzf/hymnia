@@ -1,0 +1,60 @@
+{
+	"id": "attache-a-la-croix-pour-moi-arc-458",
+	"title": "Attaché à la croix pour moi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "458"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En Jésus j’ai placé ma confiance ;",
+				"Nul ami n’est meilleur que lui.",
+				"Il a mis dans mon coeur l’espérance",
+				"Que je veux chanter aujourd’hui."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Attaché à la croix pour moi,",
+				"Attaché à la croix pour moi,",
+				"Il a pris mon péché, il m’a délivré,",
+				"Attaché à la croix pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dans les cris, les clameurs, la violence",
+				"Rugissant autour de la croix,",
+				"Son regard vient me dire en silence",
+				"Tout l’amour du Seigneur pour moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Aujourd’hui, quand on nie l’existence",
+				"De mon Dieu à cause des guerres,",
+				"Je ne peux expliquer la souffrance,",
+				"Mais je dis son propre calvaire."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#458",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

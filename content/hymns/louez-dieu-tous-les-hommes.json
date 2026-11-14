@@ -1,0 +1,68 @@
+{
+	"id": "louez-dieu-tous-les-hommes",
+	"title": "Louez Dieu, tous les hommes",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "265"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louez Dieu, tous les hommes, louez-le !",
+				"Chantez l’hymne de Dieu !",
+				"Béni soit le nom du Seigneur,",
+				"Béni soit le nom du Seigneur,",
+				"Depuis ce jour jusqu’à toujours, Dieu !",
+				"Louez Dieu, chantez Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Louez Dieu, rendez grâce, chantez Dieu !",
+				"Chaque jour, louez-le !",
+				"Plus haut que la terre et le ciel,",
+				"Plus haut que la terre et le ciel,",
+				"Plus grand que tous les univers, Dieu !",
+				"Louez Dieu, chantez Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Louez Dieu, rendez gloire, chantez-le !",
+				"Qui est pareil à Dieu ?",
+				"Il vient délivrer l’opprimé,",
+				"Il vient délivrer l’opprimé,",
+				"Il dit : Prenez place avec moi, Dieu !",
+				"Louez Dieu, chantez Dieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Louez Dieu, ô ses oeuvres, louez-le !",
+				"Chantez l’amour de Dieu,",
+				"Mendiants qui peuplez sa maison,",
+				"Mendiants qui peuplez sa maison,",
+				"C’est vous qu’il accueille en sa joie, Dieu !",
+				"Louez Dieu, chantez Dieu !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#265",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

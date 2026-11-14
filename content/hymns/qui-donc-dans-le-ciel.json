@@ -9,6 +9,10 @@
 		{
 			"hymnal": "cd",
 			"number": "13"
+		},
+		{
+			"hymnal": "arc",
+			"number": "281"
 		}
 	],
 	"sections": [
@@ -113,6 +117,11 @@
 			"name": "Conducteur de louange — conducteurdelouange.com",
 			"url": "https://www.conducteurdelouange.com/906",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#281",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

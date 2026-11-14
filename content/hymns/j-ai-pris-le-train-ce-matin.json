@@ -1,0 +1,62 @@
+{
+	"id": "j-ai-pris-le-train-ce-matin",
+	"title": "J’ai pris le train ce matin",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "746"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"J’ai pris le train ce matin,",
+				"Le train des amis, le train de la vie.",
+				"J’ai pris le train ce matin,",
+				"Le train du bonheur, le train du Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entrez dans la ronde, venez avec moi",
+				"Pour ce tour du monde de la joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pauvres de la terre, ne restez pas là,",
+				"Car dans la lumière le train nous conduira."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Laissez vos bagages de banalité,",
+				"Pour ce beau voyage vers la liberté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Nous aurons la vie éternellement ;",
+				"Montez je vous prie : le train vous attend !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#746",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

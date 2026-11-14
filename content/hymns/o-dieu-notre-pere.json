@@ -1,0 +1,50 @@
+{
+	"id": "o-dieu-notre-pere",
+	"title": "O Dieu, notre Père",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "289"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu, notre Père qui es aux cieux,",
+				"Unique Seigneur invisible à nos yeux,",
+				"En toi toute vie enracine sa joie",
+				"Et tous les chemins font retour vers toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Seigneur Jésus-Christ, Fils du Dieu vivant,",
+				"Tu viens parmi nous et la croix nous apprend",
+				"Que Dieu se fait nôtre en payant de sa vie,",
+				"Capable d’aimer jusqu’à en mourir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Esprit du Seigneur qui nous est donné,",
+				"Tu guides nos coeurs au Royaume caché.",
+				"Tu rends leur saveur aux paroles du Christ :",
+				"Un monde était mort, et voilà qu’il vit !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#289",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

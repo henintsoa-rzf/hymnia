@@ -1,0 +1,68 @@
+{
+	"id": "ecoute-entends-la-voix-de-dieu",
+	"title": "Ecoute, entends la voix de Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "239"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ecoute, entends la voix de Dieu :",
+				"A celui qui a soif,",
+				"Il vient se révéler.",
+				"Ecoute, que tout en toi se taise.",
+				"Que tout en toi s’apaise,",
+				"Et que parle ton Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ecoute, laisse là ton souci.",
+				"Que se taisent les mots,",
+				"Que s’éloignent les cris.",
+				"Ecoute, Dieu sème sans compter.",
+				"Sa Parole est le pain",
+				"Qui vient nous rassasier."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ecoute, Dieu t’invite au désert,",
+				"Au silence du coeur,",
+				"A la source sans fin.",
+				"Ecoute, il se tient à la porte,",
+				"Il frappe, et bienheureux",
+				"Celui qui ouvrira."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ecoute, Dieu passe près de toi",
+				"Dans la brise légère,",
+				"Dans le vent de l’Esprit.",
+				"Ecoute, tu es aimé de Dieu.",
+				"Tu es choisi de Dieu ;",
+				"Il veut pour toi la vie."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#239",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

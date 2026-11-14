@@ -9,6 +9,10 @@
 		{
 			"hymnal": "jem",
 			"number": "17"
+		},
+		{
+			"hymnal": "arc",
+			"number": "164"
 		}
 	],
 	"sections": [
@@ -55,6 +59,11 @@
 			"name": "JEM — jemaf.fr",
 			"url": "https://jemaf.fr/chant/jem017",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#164",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

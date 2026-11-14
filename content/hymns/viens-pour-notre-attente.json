@@ -1,0 +1,108 @@
+{
+	"id": "viens-pour-notre-attente",
+	"title": "Viens pour notre attente",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "314"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Viens pour notre attente ; ne tarde plus.",
+				"Pour notre délivrance, viens, Seigneur Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans notre monde de détresse,",
+				"Nous t’appelons, Seigneur Jésus !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L’amour plus fort que nos misères",
+				"Nous réunit, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans notre angoisse, nos ténèbres",
+				"Nous te cherchons, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Dans nos discordes qui te blessent",
+				"Nous t’implorons, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Tu es venu chez nous en pauvre",
+				"Pour nous sauver, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Pour avoir fait de nous des frères,",
+				"Nous te louons, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Pour l’unité de ton Eglise,",
+				"Nous te louons, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 8,
+			"lines": [
+				"Nous voulons vivre ta parole,",
+				"Unis en toi, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 9,
+			"lines": [
+				"Ta croix sera notre espérance",
+				"Dans notre nuit, Seigneur Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 10,
+			"lines": [
+				"Un jour enfin naîtra l’aurore ;",
+				"Nous te verrons, Seigneur Jésus."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#314",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

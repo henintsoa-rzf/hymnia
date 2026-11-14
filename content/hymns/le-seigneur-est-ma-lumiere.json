@@ -1,0 +1,30 @@
+{
+	"id": "le-seigneur-est-ma-lumiere",
+	"title": "Le Seigneur est ma lumière",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "169"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Le Seigneur est ma lumière et mon salut ;",
+				"De qui aurais-je crainte ?",
+				"Le Seigneur est le soutien de ma vie ;",
+				"Devant qui tremblerais-je ?"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#169",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

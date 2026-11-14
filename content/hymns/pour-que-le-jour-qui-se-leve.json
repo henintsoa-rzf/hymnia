@@ -1,0 +1,50 @@
+{
+	"id": "pour-que-le-jour-qui-se-leve",
+	"title": "Pour que le jour qui se lève",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "514"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour que le jour qui se lève soit plus beau,",
+				"Pour que le ciel de nos rêves soit plus chaud",
+				"Et pour que la joie qui chante soit toujours dans notre vie,",
+				"O Seigneur, donne-nous ton Esprit, ton Esprit d’amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour que nos coeurs qui te cherchent soient plus forts,",
+				"Pour que la paix soit au creux de nos efforts",
+				"Et pour que nos voix te chantent le merci de chaque jour,",
+				"O Seigneur, donne-nous ton Esprit, ton Esprit d’amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour que ton coeur brûle en nous comme un grand feu,",
+				"Pour que l’espoir illumine enfin nos yeux",
+				"Et pour que nos vies qui chantent soient lumière et vérité,",
+				"O Seigneur, donne-nous ton Esprit, ton Esprit d’amour."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#514",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

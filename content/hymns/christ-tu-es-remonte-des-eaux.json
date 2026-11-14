@@ -1,0 +1,50 @@
+{
+	"id": "christ-tu-es-remonte-des-eaux",
+	"title": "Christ, tu es remonté des eaux",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "575"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Christ, tu es remonté des eaux",
+				"Au jour de ton baptême.",
+				"Avec toi le monde est sauvé,",
+				"Ce monde que tu aimes.",
+				"Le ciel fermé s’ouvre pour nous,",
+				"L’Esprit descend sur terre.",
+				"La voix du Père a retenti :",
+				"“Voici le Fils que j’aime ;",
+				"Ecoutez sa parole”."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"L’Eglise reçoit ses enfants",
+				"De toute race humaine.",
+				"L’eau du baptême et l’Esprit Saint",
+				"Au peuple les agrègent.",
+				"O toi, Saint-Esprit créateur,",
+				"Par toi naît la prière ;",
+				"Tu fais surgir du vieux limon",
+				"Les fils de la lumière ;",
+				"C’est toi qui les baptises."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#575",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

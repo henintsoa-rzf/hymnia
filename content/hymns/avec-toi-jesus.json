@@ -1,0 +1,65 @@
+{
+	"id": "avec-toi-jesus",
+	"title": "Avec toi, Jésus",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "735"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Avec toi, Jésus, avec toi, Jésus,",
+				"Je connais la route, je connais la route",
+				"Qui me conduira toujours plus près de toi. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Avec toi, Jésus, avec toi, Jésus,",
+				"Je reste à l’écoute, je reste à l’écoute",
+				"De tous mes amis que je vois aujourd’hui. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Avec toi, Jésus, avec toi, Jésus,",
+				"Je porte ma peine, je porte ma peine ;",
+				"Quand ça ne va pas, je sais que tu es là. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Avec toi, Jésus, avec toi, Jésus,",
+				"J’ai le coeur qui chante, j’ai le coeur qui chante",
+				"Comme un grand soleil au milieu de ton ciel. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Avec toi, Jésus, avec toi, Jésus,",
+				"Je peux rendre grâce, je peux rendre grâce",
+				"A Dieu, notre Père, pour tant de lumière. (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#735",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

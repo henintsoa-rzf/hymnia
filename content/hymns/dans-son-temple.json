@@ -1,0 +1,48 @@
+{
+	"id": "dans-son-temple",
+	"title": "Dans son temple",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "150"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Dans son temple, louez Dieu.",
+				"Ce qu’il fait est merveilleux ;",
+				"Il est fort, il est vainqueur.",
+				"Que tout dise sa grandeur.",
+				"Que pour lui les orgues chantent.",
+				"Joignez aux plus belles voix",
+				"La trompette et le hautbois,",
+				"Les cymbales éclatantes."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Chantez sous le firmament",
+				"Avec tous vos instruments.",
+				"Au rythme du tambourin,",
+				"Dansez pour le roi qui vient,",
+				"Lui que l’univers désire.",
+				"Exaltez le Seigneur Dieu,",
+				"Chantez son nom glorieux",
+				"Avec tout ce qui respire."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#150",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

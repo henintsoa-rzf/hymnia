@@ -1,0 +1,60 @@
+{
+	"id": "en-toi-seigneur-mon-esperance",
+	"title": "En toi, Seigneur, mon espérance",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "645"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"En toi, Seigneur, mon espérance !",
+				"Sans ton appui, je suis perdu ;",
+				"Mais rendu fort par ta puissance,",
+				"Je ne serai jamais déçu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Sois mon rempart et ma retraite,",
+				"Mon bouclier, mon protecteur.",
+				"Sois mon rocher dans la tempête,",
+				"Sois mon refuge et mon Sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Lorsque du poids de ma misère",
+				"Ta main voudra me délivrer,",
+				"Sur une route de lumière,",
+				"D’un coeur joyeux, je marcherai."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"De tout danger, garde mon âme,",
+				"Je la remets entre tes mains ;",
+				"De l’Ennemi qui me réclame",
+				"Protège-moi ; je suis ton bien."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#645",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

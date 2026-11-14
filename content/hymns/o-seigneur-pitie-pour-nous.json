@@ -1,0 +1,29 @@
+{
+	"id": "o-seigneur-pitie-pour-nous",
+	"title": "O Seigneur, pitié pour nous",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "815"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"O Seigneur, pitié pour nous.",
+				"O Seigneur, pitié pour nous.",
+				"Seigneur, Seigneur, pitié pour nous."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#815",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

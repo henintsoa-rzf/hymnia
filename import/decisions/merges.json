@@ -136,5 +136,839 @@
 		"b": "emmanuel-jem-1179",
 		"decision": "distinct",
 		"date": "2026-11-13"
+	},
+	{
+		"a": "alleluia",
+		"b": "alleluia-alleluia",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "amen",
+		"b": "amen-arc-853",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "amen-arc-852",
+		"b": "amen-arc-854",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "hosanna-beni-soit-arc-442",
+		"b": "hosanna-beni-soit-arc-778",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "seigneur-ecoute-nous",
+		"b": "seigneur-ecoute-nous-arc-845",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "o-seigneur-gueris-nous",
+		"b": "o-seigneur-gueris-nous-arc-813",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "seigneur-sois-au-milieu-de-nous",
+		"b": "seigneur-sois-au-milieu-de-nous-arc-203",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-864",
+		"b": "saint-saint-saint-arc-865",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "beni-soit-celui-qui-vient",
+		"b": "hosanna-beni-soit-arc-442",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "beni-soit-celui-qui-vient",
+		"b": "hosanna-beni-soit-arc-778",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-soit-au-pere",
+		"b": "gloire-soit-au-pere-arc-824",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-862",
+		"b": "saint-saint-saint-arc-864",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "agneau-de-dieu-arc-876",
+		"b": "christ-agneau-de-dieu",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-862",
+		"b": "saint-saint-saint-arc-865",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "ecoute-israel",
+		"b": "ecoute-israel-arc-761",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "beni-soit-celui-qui-vient",
+		"b": "qu-il-soit-beni",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-862",
+		"b": "saint-saint-saint-arc-863",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-a-dieu-arc-366",
+		"b": "gloire-a-dieu-arc-375",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-a-dieu-arc-366",
+		"b": "gloire-a-dieu-au-plus-haut-des-cieux",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "nous-proclamons-ta-mort",
+		"b": "nous-proclamons-ta-mort-arc-872-a",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "oh-que-c-est-chose-belle",
+		"b": "oh-que-c-est-chose-belle-arc-92-a",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint",
+		"b": "saint-saint-saint-arc-862",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-863",
+		"b": "saint-saint-saint-arc-864",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "chantez-au-seigneur",
+		"b": "chantez-au-seigneur-arc-801",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "le-plus-grand-amour",
+		"b": "pas-de-plus-grand-amour",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint",
+		"b": "saint-saint-saint-arc-863",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint",
+		"b": "saint-saint-saint-arc-864",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "christ-agneau-de-dieu",
+		"b": "christ-agneau-de-dieu-arc-877",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "jesus-nous-t-adorons",
+		"b": "jesus-nous-t-adorons-arc-412",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-863",
+		"b": "saint-saint-saint-jem-707",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "rendez-grace-au-seigneur",
+		"b": "rendez-grace-au-seigneur-arc-187",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "de-tout-mon-coeur",
+		"b": "de-tout-mon-coeur-arc-711",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-a-dieu",
+		"b": "gloire-a-dieu-arc-366",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "jesus-est-au-milieu-de-nous",
+		"b": "seigneur-sois-au-milieu-de-nous-arc-203",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint",
+		"b": "saint-saint-saint-arc-865",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "christ-est-ressuscite-arc-477",
+		"b": "christ-est-ressuscite-arc-479",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-a-dieu-arc-366",
+		"b": "gloire-a-dieu-paix-aux-hommes",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-862",
+		"b": "saint-saint-saint-jem-707",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-863",
+		"b": "saint-saint-saint-arc-865",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "adorons-le-seigneur",
+		"b": "venez-adorons-le-seigneur",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "agneau-de-dieu",
+		"b": "agneau-de-dieu-arc-876",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "alleluia",
+		"b": "loue-sois-tu-arc-235",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "alleluia-alleluia",
+		"b": "alleluia-jem-656",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "alleluia-alleluia",
+		"b": "loue-sois-tu-arc-235",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-a-dieu",
+		"b": "gloire-a-dieu-arc-375",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "jour-du-seigneur",
+		"b": "jour-du-seigneur-arc-226",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "mon-ame-chante-magnificat",
+		"b": "mon-ame-chante-magnificat-arc-175",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-864",
+		"b": "saint-saint-saint-jem-707",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "christ-est-vivant",
+		"b": "christ-est-vivant-arc-472",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "du-fond-de-ma-detresse",
+		"b": "du-fond-de-ma-detresse-arc-406",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-a-dieu-arc-366",
+		"b": "gloire-a-dieu-jem-306",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-a-dieu-arc-375",
+		"b": "gloire-a-dieu-jem-306",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-a-ton-nom-arc-261",
+		"b": "gloire-a-ton-nom-cd-55",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "je-veux-te-benir",
+		"b": "je-veux-te-benir-arc-802",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "le-seigneur-est-mon-berger",
+		"b": "le-seigneur-est-mon-berger-arc-158",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "notre-pere",
+		"b": "notre-pere-arc-736",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "notre-pere-arc-736",
+		"b": "notre-pere-exo-18",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "roi-des-nations-jem-547",
+		"b": "venez-adorons-le-seigneur",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "saint-saint-saint-arc-865",
+		"b": "saint-saint-saint-jem-707",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "viens-saint-esprit-arc-504",
+		"b": "viens-saint-esprit-arc-509",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "vous-tous-les-peuples",
+		"b": "vous-tous-les-peuples-arc-117",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "beni-soit-le-seigneur",
+		"b": "beni-soit-le-seigneur-arc-249",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "chantez-au-seigneur-arc-801",
+		"b": "chantez-au-seigneur-jem-358",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "christ-est-ressuscite",
+		"b": "christ-est-ressuscite-arc-477",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "christ-est-ressuscite",
+		"b": "christ-est-ressuscite-arc-479",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "de-tout-mon-coeur-arc-711",
+		"b": "de-tout-mon-coeur-jem-1157",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "dieu-tout-puissant-adf-623",
+		"b": "dieu-tout-puissant-arc-260",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "gloire-a-ton-nom",
+		"b": "gloire-a-ton-nom-arc-261",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "hosanna-beni-soit",
+		"b": "hosanna-beni-soit-arc-442",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "hosanna-beni-soit",
+		"b": "hosanna-beni-soit-arc-778",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "le-fils-de-dieu",
+		"b": "le-fils-de-dieu-arc-361",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "le-sauveur-est-ressuscite",
+		"b": "le-sauveur-est-ressuscite-arc-480",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "le-sauveur-est-ressuscite-adf-557",
+		"b": "le-sauveur-est-ressuscite-arc-480",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "noel-jesus-est-ne",
+		"b": "noel-jesus-est-ne-arc-783",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "o-dieu-vivant",
+		"b": "o-dieu-vivant-arc-553",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "toi-leve-toi-arc-545",
+		"b": "toi-leve-toi-jem-504",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "tu-es-notre-dieu",
+		"b": "tu-es-notre-dieu-arc-546",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "viens-saint-esprit",
+		"b": "viens-saint-esprit-arc-504",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "viens-saint-esprit",
+		"b": "viens-saint-esprit-arc-509",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "vous-tous-les-peuples",
+		"b": "vous-tous-les-peuples-arc-66",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "vous-tous-les-peuples-arc-117",
+		"b": "vous-tous-les-peuples-arc-66",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "amen",
+		"b": "amen-arc-852",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "amen",
+		"b": "amen-arc-854",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "amen-arc-852",
+		"b": "amen-arc-853",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "amen-arc-853",
+		"b": "amen-arc-854",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "benissons-dieu",
+		"b": "benissons-dieu-arc-134",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "dans-ta-maison",
+		"b": "dans-ta-maison-arc-84",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "dans-ta-maison-arc-84",
+		"b": "dans-ta-maison-jem-1128",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "dieu-tout-puissant",
+		"b": "dieu-tout-puissant-arc-260",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "heureux",
+		"b": "heureux-arc-119",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "loue-sois-tu",
+		"b": "loue-sois-tu-arc-235",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "notre-pere-arc-736",
+		"b": "notre-pere-jem-1132",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "pitie-seigneur",
+		"b": "pitie-seigneur-arc-814",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "rejouis-toi",
+		"b": "rejouis-toi-arc-706",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "vers-toi-seigneur",
+		"b": "vers-toi-seigneur-arc-65",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "vers-toi-seigneur-arc-65",
+		"b": "vers-toi-seigneur-jem-300",
+		"decision": "distinct",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "venez-au-sauveur",
+		"b": "venez-au-sauveur-qui-vous-aime",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "si-vous-saviez",
+		"b": "si-vous-saviez-quel-sauveur-je-possede",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "jesus-je-viens-a-toi",
+		"b": "jesus-jesus",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "quel-ami-fidele",
+		"b": "quel-ami-fidele-et-tendre",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "mon-coeur-rempli-des-biens",
+		"b": "mon-coeur-rempli-magnificat",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "la-moisson-du-monde-est-si-grande",
+		"b": "que-la-moisson-du-monde-est-grande",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "beni-soit-a-jamais",
+		"b": "beni-soit-le-seigneur-cantique-de-zacharie",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "tous-ensemble-amis",
+		"b": "tous-ensemble-amis-chantons",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "nous-chanterons-pour-toi",
+		"b": "nous-chanterons-pour-toi-seigneur",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "je-benirai-le-seigneur",
+		"b": "je-benirai-le-seigneur-arc-803",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "je-louerai-l-eternel",
+		"b": "je-louerai-l-eternel-arc-151",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "ah-qu-il-est-doux-pour-des-freres",
+		"b": "ah-qu-il-est-doux-pour-des-freres-arc-164",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "grand-dieu-nous-te-louons",
+		"b": "grand-dieu-nous-te-louons-arc-244",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "qu-il-fait-bon-a-ton-service",
+		"b": "qu-il-fait-bon-a-ton-service-arc-426",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "laisse-moi-desormais",
+		"b": "laisse-moi-desormais-cantique-de-simeon",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "entonnons-un-saint-cantique",
+		"b": "entonnons-un-saint-cantique-arc-254",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "jesus-toute-la-terre-entonne",
+		"b": "oh-que-toute-la-terre-entonne",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "oui-je-veux-te-benir",
+		"b": "oui-je-veux-te-benir-arc-259",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "a-dieu-soit-la-gloire",
+		"b": "a-dieu-soit-la-gloire-arc-277",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "le-sauveur-est-ressuscite-adf-557",
+		"b": "le-sauveur-est-ressuscite-arc-473",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "je-veux-repondre-o-dieu",
+		"b": "je-veux-repondre-o-dieu-arc-415",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "jesus-est-notre-ami-supreme",
+		"b": "jesus-est-notre-ami-supreme-arc-413",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "o-jesus-ta-croix-domine",
+		"b": "o-jesus-ta-croix-domine-arc-449",
+		"decision": "merge",
+		"date": "2026-11-13"
+	},
+	{
+		"a": "chantez-au-seigneur-arc-801",
+		"b": "chantez-au-seigneur-un-chant-nouveau",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "viens-o-jesus",
+		"b": "viens-o-jesus-ton-eglise-t-appelle",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "saint-saint-saint-arc-863",
+		"b": "saint-saint-saint-est-le-seigneur",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "vous-qui-sur-la-terre-habitez",
+		"b": "vous-qui-sur-la-terre-habitez-arc-100",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "vous-qui-sur-la-terre-habitez-arc-100",
+		"b": "vous-qui-sur-la-terre-habitez-cd-6",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "jesus-sort-de-la-tombe",
+		"b": "jesus-sort-de-la-tombe-arc-483",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "toi-leve-toi",
+		"b": "toi-leve-toi-arc-545",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "la-foi-renverse-devant-nous",
+		"b": "la-foi-renverse-devant-nous-arc-628",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "o-jesus-tu-nous-appelles",
+		"b": "o-jesus-tu-nous-appelles-arc-528",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "o-jesus-tu-nous-appelles-adf-567",
+		"b": "o-jesus-tu-nous-appelles-arc-528",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "tu-m-as-aime-seigneur",
+		"b": "tu-m-as-aime-seigneur-arc-430",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "demeure-par-ta-grace",
+		"b": "demeure-par-ta-grace-arc-889",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "mon-redempteur-est-vivant",
+		"b": "mon-redempteur-est-vivant-arc-475",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "frappez-dans-vos-mains",
+		"b": "frappez-dans-vos-mains-arc-47",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "la-terre-au-seigneur-appartient",
+		"b": "la-terre-au-seigneur-appartient-arc-24",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "entonnons-un-nouveau-cantique",
+		"b": "entonnons-un-nouveau-cantique-arc-98",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "je-crois-au-dieu-vivant",
+		"b": "je-crois-au-dieu-vivant-arc-572",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "j-aime-mon-dieu",
+		"b": "j-aime-mon-dieu-arc-116",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "avec-des-cris-de-joie",
+		"b": "avec-des-cris-de-joie-arc-155",
+		"decision": "distinct",
+		"date": "2026-11-14"
+	},
+	{
+		"a": "attache-a-la-croix-pour-moi",
+		"b": "attache-a-la-croix-pour-moi-arc-458",
+		"decision": "distinct",
+		"date": "2026-11-14"
 	}
 ]

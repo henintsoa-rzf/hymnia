@@ -1,0 +1,40 @@
+{
+	"id": "grain-de-ble",
+	"title": "Grain de blé",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "652"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Grain de blé qui tombe en terre,",
+				"Si tu ne meurs pas,",
+				"Tu resteras solitaire,",
+				"Ne germera pas."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui à Jésus s’abandonne",
+				"Trouve la vraie vie.",
+				"Heureux l’homme qui se donne ;",
+				"Il sera béni."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#652",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

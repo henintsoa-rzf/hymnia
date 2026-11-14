@@ -1,0 +1,75 @@
+{
+	"id": "voici-le-pain",
+	"title": "Voici le pain",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "594"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Voici le pain,",
+				"Voici le vin",
+				"Pour le repas",
+				"Et pour la route.",
+				"Voici ton corps,",
+				"Voici ton sang",
+				"Entre nos mains.",
+				"Voici ta vie",
+				"Qui renaît de nos cendres."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pain des merveilles de notre Dieu,",
+				"Pain du Royaume, table de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vin pour les noces du Fils de Dieu,",
+				"Vin de la fête, Pâque de Dieu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Force plus forte que notre mort,",
+				"Vie éternelle en notre corps."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Source d’eau vive pour notre soif,",
+				"Pain qui ravive tous nos espoirs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Porte qui s’ouvre sur nos prisons,",
+				"Mains qui se tendent pour le pardon."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#594",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

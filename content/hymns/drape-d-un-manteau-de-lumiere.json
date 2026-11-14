@@ -1,0 +1,70 @@
+{
+	"id": "drape-d-un-manteau-de-lumiere",
+	"title": "Drapé d’un manteau de lumière",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "716"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Drapé d’un manteau de lumière, oui, oui !",
+				"Tu as fait les cieux et la terre, oui, oui !",
+				"Sur l’aile du vent, tu t’avances, oui, oui !",
+				"Dans les yeux de la mer, tu danses, oui, oui !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je veux te chanter,",
+				"C’est le signe de ma foi ;",
+				"Je veux te chanter,",
+				"J’ai ma joie en toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu fais jaillir la fraîche source, oui, oui !",
+				"Des oiseaux tu guides la course, oui, oui !",
+				"Tu es dans l’herbe des campagnes, oui, oui !",
+				"Et dans le torrent des montagnes, oui, oui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu as fait l’homme à ton image, oui, oui !",
+				"Lui donnant la terre en partage, oui, oui !",
+				"Elle est nourrie de tes richesses, oui, oui !",
+				"Et qui chaque matin renaissent, oui, oui !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu es dans le pain que l’on mange, oui, oui !",
+				"Et dans le fruit de nos vendanges, oui, oui !",
+				"Tu es dans l’aube qui s’éveille, oui, oui !",
+				"Tu es la vie et ses merveilles, oui, oui !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#716",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

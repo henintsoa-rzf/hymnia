@@ -1,0 +1,56 @@
+{
+	"id": "sur-moi-ta-clarte-vienne",
+	"title": "Sur moi ta clarté vienne",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "43"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur moi ta clarté vienne luire",
+				"Et me montrer ta vérité.",
+				"Oh ! Seigneur, qu’elle me conduise",
+				"Et qu’elle-même m’introduise",
+				"Dans le lieu de ta sainteté,",
+				"Devant ta majesté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Là, Seigneur, avec hardiesse",
+				"J’approcherai de ton autel ;",
+				"Là, dans une juste allégresse,",
+				"Ma voix et ma harpe sans cesse",
+				"Chanteront, ô Dieu d’Israël,",
+				"Ton honneur immortel."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ta frayeur dure-t-elle encore,",
+				"Mon âme, enfin, rassure-toi ;",
+				"Espère au grand Dieu que j’adore,",
+				"Attends son aide que j’implore :",
+				"Il est mon Sauveur et mon Roi,",
+				"Il veillera sur moi."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#43",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

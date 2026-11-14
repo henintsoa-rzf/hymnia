@@ -1,0 +1,34 @@
+{
+	"id": "merci-pour-ta-parole",
+	"title": "Merci pour ta Parole",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "240"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Merci pour ta Parole,",
+				"Lumière donnée aux hommes",
+				"Qui nous fait connaître le coeur de Dieu.",
+				"J’aime ta Parole, Seigneur.",
+				"Elle est la vérité sur mon sentier.",
+				"Par elle, je veux me laisser guider",
+				"Et faire ta volonté, sans murmurer,",
+				"En espérant dans ta bonté."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#240",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

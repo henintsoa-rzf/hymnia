@@ -1,0 +1,52 @@
+{
+	"id": "toi-leve-toi-arc-545",
+	"title": "Toi, lève-toi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "545"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Toi, lève-toi ! et va, au nom du Christ,",
+				"Porter l’amour de Dieu au monde. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi, donne-toi au Seigneur de la vie",
+				"Et tu seras lumière du monde. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Toi, ouvre-toi au souffle de l’Esprit,",
+				"Lumière et renouveau du monde. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Toi, lève-toi ; joyeux, va témoigner",
+				"Que Jésus est Seigneur du monde. (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#545",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

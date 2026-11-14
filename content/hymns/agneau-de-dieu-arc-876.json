@@ -1,0 +1,29 @@
+{
+	"id": "agneau-de-dieu-arc-876",
+	"title": "Agneau de Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "876"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Agneau de Dieu",
+				"Qui enlèves le péché du monde,",
+				"Prends pitié de nous !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#876",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

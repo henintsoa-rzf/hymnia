@@ -1,0 +1,62 @@
+{
+	"id": "vous-qui-ployez-sous-le-fardeau",
+	"title": "Vous qui ployez sous le fardeau",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "625"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous qui ployez sous le fardeau,",
+				"Vous qui cherchez le vrai repos…"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Ne craignez pas pour votre corps,",
+				"Ne craignez pas devant la mort.",
+				"Levez les yeux vers le Seigneur,",
+				"Criez vers lui sans perdre coeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Vous qui tombez sur le chemin,",
+				"Le coeur blessé par les chagrins…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Vous qui pleurez dans vos prisons,",
+				"Vous qui fuyez votre maison…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Vous que la haine a déchirés,",
+				"Vous que les hommes ont crucifiés…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#625",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

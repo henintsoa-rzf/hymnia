@@ -1,0 +1,50 @@
+{
+	"id": "reflet-de-dieu",
+	"title": "Reflet de Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "891"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Reflet de Dieu sur l’univers,",
+				"Brillant pour tous au long des jours,",
+				"Tu restes seul notre secours,",
+				"O Jésus-Christ ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu resplendis transfiguré ;",
+				"Tu mets au monde un feu de joie.",
+				"Dans la ténèbre il brillera",
+				"De tout l’éclat du Saint-Esprit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous marcherons à ta clarté",
+				"En espérant le jour promis.",
+				"Vers toi s’avance un peuple uni,",
+				"Vers ta lumière, ô vérité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#891",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,72 @@
+{
+	"id": "chantons-a-dieu",
+	"title": "Chantons à Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "288"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons à Dieu ce chant nouveau,",
+				"Disons sa gloire immense.",
+				"A tout vivant, ce Dieu très haut",
+				"Présente son alliance.",
+				"Un coeur ouvert : le Fils livré !",
+				"Un vent de joie : l’Esprit donné !",
+				"Au Seigneur rendons grâce !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Honneur à toi, premier vivant !",
+				"A toi la gloire, ô Père !",
+				"Louange à toi dans tous les temps,",
+				"Seigneur de ciel et terre !",
+				"Ta voix murmure : “Viens au jour”,",
+				"Ton coeur nous dit : “Je suis l’amour”.",
+				"Aimez-vous tous en frères."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, au prix du sang versé,",
+				"Tu dis l’amour du Père.",
+				"Oh ! viens, Seigneur du plein été,",
+				"Nous prendre en ta lumière.",
+				"Délivre-nous de tout péché ;",
+				"Enseigne-nous à tout donner.",
+				"Rénove enfin la terre."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Esprit de Dieu, vivant amour,",
+				"Refais nos vies nouvelles.",
+				"Engendre-nous, mets-nous au jour ;",
+				"Maintiens nos coeurs fidèles.",
+				"Réveille-nous de notre nuit ;",
+				"Ranime en nous le feu de vie,",
+				"O feu de joie nouvelle."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#288",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

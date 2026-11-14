@@ -1,0 +1,62 @@
+{
+	"id": "viens-createur",
+	"title": "Viens, Créateur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "501"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Viens, Créateur, emplis nos âmes ;",
+				"Esprit Saint, Dieu de vérité,",
+				"Allume en nous la vive flamme",
+				"De ton ardente charité.",
+				"Présent de Dieu, don admirable,",
+				"Conseiller, puissant défenseur,",
+				"Tu es la source inépuisable",
+				"De la vraie vie, du vrai bonheur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"En nos esprits mets ta lumière,",
+				"En nos coeurs verse ton amour ;",
+				"Esprit Saint promis par le Père,",
+				"Inspire-nous jour après jour.",
+				"Mets ta force en notre faiblesse,",
+				"Loin de nous chasse l’Ennemi",
+				"Et dans la paix, par ta sagesse,",
+				"Sur ton chemin garde nos vies."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par toi nous connaissons le Père ;",
+				"Tu nous révèles aussi le Fils.",
+				"Vers eux tu portes nos prières,",
+				"Toi qui es leur commun Esprit.",
+				"Que gloire soit à Dieu le Père,",
+				"Au Fils ressuscité des morts,",
+				"A l’Esprit Saint qui nous éclaire,",
+				"Au trois fois Saint, vivant et fort."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#501",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

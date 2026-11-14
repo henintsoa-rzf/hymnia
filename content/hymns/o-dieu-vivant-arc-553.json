@@ -1,0 +1,59 @@
+{
+	"id": "o-dieu-vivant-arc-553",
+	"title": "O Dieu vivant",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "553"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Dieu vivant, Seigneur vivant et sage,",
+				"Toi seul es Roi, toi seul est Créateur.",
+				"Tu as donné cette terre en partage",
+				"A tous les hommes pour un seul bonheur."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"O toi qui nous aimes,",
+				"Garde-nous unis pour le bonheur même",
+				"Et dans un même esprit !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"O Christ vivant, notre Dieu, notre frère,",
+				"Tu vins pour mourir et ressusciter.",
+				"Ta vie, ta mort, nous donnent la lumière.",
+				"Dans nos erreurs, tu es la vérité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"O Saint-Esprit, Seigneur qui nous baptises",
+				"De ce feu secret qui seul purifie,",
+				"Toi, la sagesse et force de l’Eglise,",
+				"En tes promesses nous trouvons la vie."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#553",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

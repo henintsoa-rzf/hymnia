@@ -1,0 +1,60 @@
+{
+	"id": "c-est-toi-seigneur-le-pain",
+	"title": "C’est toi, Seigneur, le pain",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "587"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C’est toi, Seigneur, le pain rompu, livré pour notre vie.",
+				"C’est toi, Seigneur, notre unité, Jésus ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, nous rappelons ta mort et ta résurrection,",
+				"Et dans la foi nous attendons le jour de ton retour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Nous partageons un même pain, dans une même foi,",
+				"Et nous formons un même corps : l’Eglise de Jésus."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"C’est maintenant le temps de Dieu : il faut nous préparer.",
+				"C’est maintenant le temps de Dieu : il faut changer nos coeurs."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Si nous souffrons en Jésus-Christ, en lui nous règnerons.",
+				"Si nous mourons en Jésus-Christ, en lui nous revivrons."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#587",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

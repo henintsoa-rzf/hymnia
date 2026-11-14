@@ -1,0 +1,108 @@
+{
+	"id": "louez-dieu",
+	"title": "Louez Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "136"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louez Dieu car il est bon,",
+				"Louez-le pour tous ses dons."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sa bonté dure à toujours.",
+				"Éternel est son amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Gloire au Seigneur des seigneurs,",
+				"Au tout-puissant créateur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ses ouvrages sont parés",
+				"De sagesse et de beauté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Il a déployé les cieux,",
+				"Il les a semés de feux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Il a donné les saisons,",
+				"Les labours et les moissons."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 6,
+			"lines": [
+				"Pour son peuple, il a ouvert",
+				"La route au creux de la mer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 7,
+			"lines": [
+				"Quand nous étions opprimés,",
+				"Sa main nous a relevés."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 8,
+			"lines": [
+				"Il nous donne d’habiter",
+				"Le pays de sa bonté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 9,
+			"lines": [
+				"Pour tout homme, il multiplie",
+				"Un pain de force et de vie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 10,
+			"lines": [
+				"Rendez grâce au Dieu des cieux ;",
+				"Tous ses dons sont merveilleux."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#136",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

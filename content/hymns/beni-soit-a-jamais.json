@@ -9,6 +9,11 @@
 		{
 			"hymnal": "adf",
 			"number": "543"
+		},
+		{
+			"hymnal": "arc",
+			"number": "177",
+			"title": "Béni soit le Seigneur (Cantique de Zacharie)"
 		}
 	],
 	"sections": [
@@ -80,6 +85,11 @@
 			"name": "JEM — jemaf.fr",
 			"url": "https://jemaf.fr/chant/af543",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#177",
+			"retrievedAt": "2026-11-13"
 		}
 	]
 }

@@ -1,0 +1,48 @@
+{
+	"id": "mon-ame-chante-magnificat-arc-175",
+	"title": "Mon âme chante (Magnificat)",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "175"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon âme chante le Seigneur",
+				"Et notre coeur exulte.",
+				"Ce Dieu au nom saint et puissant",
+				"Pour nous fit des merveilles.",
+				"Jamais son bras ne fait défaut ;",
+				"Toujours il nous protège.",
+				"Sans fin son amour se répand",
+				"Sur tous ceux qui le craignent."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il vient abaisser les puissants",
+				"Et couronner les humbles.",
+				"Il comblera les affamés,",
+				"Otera leur misère.",
+				"Il veut donner tous ses bienfaits",
+				"Aux fils de la promesse.",
+				"Le ciel sera dans tous les coeurs,",
+				"Illuminant la terre."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#175",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

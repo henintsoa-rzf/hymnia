@@ -1,0 +1,29 @@
+{
+	"id": "il-a-cree-la-terre",
+	"title": "Il a créé la terre",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "719"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Il a créé la terre et les cieux ;",
+				"Son grand amour est merveilleux.",
+				"Louange soit à Dieu !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#719",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

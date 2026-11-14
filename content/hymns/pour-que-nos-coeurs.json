@@ -1,0 +1,60 @@
+{
+	"id": "pour-que-nos-coeurs",
+	"title": "Pour que nos coeurs",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "583"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Pour que nos coeurs deviennent de chair,",
+				"Tu as rompu le pain",
+				"Comme un fruit de justice,",
+				"Comme un signe d’amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Pour que nos coeurs deviennent de sang,",
+				"Tu as versé le vin",
+				"Comme un puits de tendresse,",
+				"Comme un signe de paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour que nos coeurs respirent ta vie,",
+				"Tu as donné ta mort",
+				"Comme un jour qui se lève,",
+				"Comme un cri d’avenir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Pour que nos coeurs éclatent de vie,",
+				"Nous fêtons ta mémoire.",
+				"Tu libères ton peuple",
+				"Et tu es son chemin."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#583",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

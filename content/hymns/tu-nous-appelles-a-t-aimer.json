@@ -1,0 +1,68 @@
+{
+	"id": "tu-nous-appelles-a-t-aimer",
+	"title": "Tu nous appelles à t’aimer",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "532"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu nous appelles à t’aimer en aimant le monde où tu nous envoies ;",
+				"O Dieu fidèle, donne-nous en aimant le monde de n’aimer que toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Allez par les chemins,",
+				"Criez mon Evangile ;",
+				"Allez, pauvres de tout,",
+				"Partagez votre joie."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Soyez signes d’amour,",
+				"De paix et de tendresse ;",
+				"Ayez un coeur d’enfant ;",
+				"Soyez simples et vrais."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pour être mes témoins,",
+				"Veillez dans la prière ;",
+				"Mon Royaume est en vous,",
+				"Il attend votre coeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"L’Esprit vous conduira",
+				"Sur des routes nouvelles :",
+				"Allez, ne craignez pas,",
+				"Je demeure avec vous."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#532",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

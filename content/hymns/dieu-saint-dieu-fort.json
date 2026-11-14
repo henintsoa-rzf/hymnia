@@ -1,0 +1,42 @@
+{
+	"id": "dieu-saint-dieu-fort",
+	"title": "Dieu saint, Dieu fort",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "866"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu saint, Dieu fort, Dieu immortel,",
+				"Béni soit ton nom !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ciel et terre sont remplis de ta gloire."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Béni soit celui qui vient au nom du Seigneur !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#866",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

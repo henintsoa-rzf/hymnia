@@ -1,0 +1,68 @@
+{
+	"id": "alleluia-jesus-est-roi",
+	"title": "Alléluia ! Jésus est roi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "538"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia ! Alléluia ! Jésus est roi.",
+				"Au milieu de nous, il est vivant : Jésus est roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Allez dans le monde entier,",
+				"Partout proclamez",
+				"La bonne nouvelle,",
+				"Soyez mes témoins."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ceux qui croiront en mon nom",
+				"Recevront la vie.",
+				"Je leur donnerai l’Esprit",
+				"D’amour et de paix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus-Christ, le Fils de Dieu,",
+				"L’envoyé du Père,",
+				"Donne l’Esprit sans mesure",
+				"Pour sauver le monde."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"C’est moi qui vous ai choisis",
+				"Pour porter du fruit.",
+				"Demeurez en mon amour,",
+				"Je demeure en vous."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#538",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

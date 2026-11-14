@@ -1,0 +1,31 @@
+{
+	"id": "gloire-soit-au-pere-arc-824",
+	"title": "Gloire soit au Père",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "824"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Gloire soit au Père,",
+				"Gloire au Fils,",
+				"Gloire au Saint-Esprit,",
+				"Aux siècles des siècles.",
+				"Amen."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#824",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

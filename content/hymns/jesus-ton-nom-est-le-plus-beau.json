@@ -1,0 +1,73 @@
+{
+	"id": "jesus-ton-nom-est-le-plus-beau",
+	"title": "Jésus, ton nom est le plus beau",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "257"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Jésus, ton nom est le plus beau",
+				"Car il contient l’immense amour,",
+				"L’amour de Dieu, Alléluia !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Alléluia, Alléluia, Alléluia,",
+				"Alléluia, Alléluia, Alléluia."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Jésus, ton nom est notre paix",
+				"Car il unit les noms de tous,",
+				"Tous tes amis, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, ton nom est notre espoir",
+				"Car seul tu as vaincu la mort",
+				"Et pour toujours, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Jésus, ton nom est notre joie",
+				"Car nous pouvons aimer aussi",
+				"Dans ton amour, Alléluia !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Formons la ronde et tu viendras",
+				"Te joindre à nous, tenir nos mains,",
+				"Chanter aussi Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#257",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

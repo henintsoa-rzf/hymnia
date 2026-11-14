@@ -1,0 +1,31 @@
+{
+	"id": "j-aime-ta-parole-seigneur",
+	"title": "J’aime ta Parole, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "764"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"J’aime ta Parole, Seigneur,",
+				"Car elle fait la loi dans mon coeur.",
+				"Elle m’ouvre la porte,",
+				"Elle m’ouvre la vie :",
+				"Enfant de Dieu, je suis !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#764",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

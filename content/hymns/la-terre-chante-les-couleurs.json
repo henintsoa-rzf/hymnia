@@ -1,0 +1,78 @@
+{
+	"id": "la-terre-chante-les-couleurs",
+	"title": "La terre chante les couleurs",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "725"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"La terre chante les couleurs",
+				"Que Dieu a mises dans nos mains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Crayon bleu, crayon bleu,",
+				"Dieu dessine le ciel.",
+				"Crayon noir, crayon noir,",
+				"Dieu dessine la nuit."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Crayon gris, crayon gris,",
+				"Dieu dessine la pluie.",
+				"Crayon d’or, crayon d’or,",
+				"Dieu dessine un soleil."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Crayon brun, crayon brun,",
+				"Dieu dessine la terre.",
+				"Crayon roux, crayon roux,",
+				"Dieu dessine le feu."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Crayon vert, crayon vert,",
+				"Dieu dessine la mer.",
+				"Crayon nid, crayon nid,",
+				"Dieu dessine un oiseau."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Crayon blanc, crayon blanc,",
+				"Dieu dessine un enfant.",
+				"Crayon Dieu, crayon Dieu,",
+				"Dieu dessine l’amour."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#725",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

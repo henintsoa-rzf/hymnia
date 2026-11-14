@@ -1,0 +1,70 @@
+{
+	"id": "ouvre-mes-yeux-seigneur",
+	"title": "Ouvre mes yeux, Seigneur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "408"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ouvre mes yeux, Seigneur,",
+				"Aux merveilles de ton amour.",
+				"Je suis l’aveugle sur le chemin ;",
+				"Guéris-moi, je veux te voir."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ouvre mes mains, Seigneur,",
+				"Qui se ferment pour tout garder.",
+				"Le pauvre a faim devant ma maison ;",
+				"Apprends-moi à partager."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Fais que je marche, Seigneur,",
+				"Aussi dur que soit le chemin.",
+				"Je veux te suivre jusqu’à la croix ;",
+				"Viens me prendre par la main."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Fais que j’entende, Seigneur,",
+				"Tous mes frères qui crient vers moi.",
+				"A leur souffrance et à leurs appels,",
+				"Que mon coeur ne soit pas sourd."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Garde ma foi, Seigneur ;",
+				"Tant de voix proclament ta mort !",
+				"Quand vient le soir et le poids du jour,",
+				"O Seigneur, reste avec moi."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#408",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

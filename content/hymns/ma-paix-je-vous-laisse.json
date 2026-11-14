@@ -1,0 +1,30 @@
+{
+	"id": "ma-paix-je-vous-laisse",
+	"title": "Ma paix, je vous laisse",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "886"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Ma paix, je vous laisse.",
+				"Ma joie sera en vous.",
+				"Moi-même, sans cesse,",
+				"Je serai avec vous."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#886",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

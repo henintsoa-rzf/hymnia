@@ -1,0 +1,59 @@
+{
+	"id": "peuple-de-dieu",
+	"title": "Peuple de Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "306"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Peuple de Dieu, rassemble-toi !",
+				"Le Seigneur va paraître.",
+				"De ton prophète, entends la voix ;",
+				"Il vient pour nous promettre :",
+				"La joie emplira tous les coeurs ;",
+				"Voici l’avent de ton Seigneur,",
+				"C’est bientôt qu’il va naître."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il grandira, le rejeton",
+				"De cette illustre race",
+				"Qui, de Jessé à Salomon,",
+				"A su garder la grâce.",
+				"David voit en lui l’héritier,",
+				"Le souverain du monde entier,",
+				"Tremblant devant sa face."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Louons le Dieu de majesté ;",
+				"De tous il est le Père,",
+				"Et gloire au Christ qui a porté",
+				"Le poids de nos misères ;",
+				"Des maux il a payé le prix",
+				"Pour nous envoyer son Esprit,",
+				"Feu, amour et lumière."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#306",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

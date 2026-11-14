@@ -1,0 +1,62 @@
+{
+	"id": "seigneur-accorde-moi-d-aimer",
+	"title": "Seigneur, accorde-moi d’aimer",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "607"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, accorde-moi d’aimer !",
+				"Il faut bien que ta main m’y pousse ;",
+				"En moi je trouve un coeur fermé",
+				"Dont la vaine pitié s’émousse.",
+				"Toi qui connais tous mes désirs,",
+				"Tous mes secrets, toutes mes fautes,",
+				"Rendras-tu mon âme assez haute",
+				"Pour cet amour qui doit l’emplir ?"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il faut ta croix sur mon chemin",
+				"Et la brûlure de tes larmes,",
+				"Il faut ce grand mystère humain",
+				"Par quoi, Seigneur, tu me désarmes.",
+				"Nous n’aurions pas connu l’amour",
+				"Si tu n’avais aimé toi-même.",
+				"Que ta croix soit mon seul emblême",
+				"Pour les combats de chaque jour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Par toi qui n’es que charité,",
+				"Qu’ainsi je mette sur ma route",
+				"Où règne l’ombre, la clarté,",
+				"La foi virile où gît le doute ;",
+				"Fais que j’oppose désormais",
+				"Au désespoir ton espérance,",
+				"Ton pardon sans borne à l’offense,",
+				"A la haine, ô Jésus, ta paix."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#607",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

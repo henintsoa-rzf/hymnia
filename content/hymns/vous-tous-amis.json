@@ -1,0 +1,29 @@
+{
+	"id": "vous-tous-amis",
+	"title": "Vous tous, amis",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "770 A"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Vous tous, amis, savez-vous l’histoire ?",
+				"Jésus est né, c’est un jour de gloire !",
+				"C’est Noël, c’est Noël, c’est Noël !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#770A",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

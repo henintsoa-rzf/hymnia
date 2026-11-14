@@ -1,0 +1,30 @@
+{
+	"id": "de-tous-les-pays",
+	"title": "De tous les pays",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "701"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"De tous les pays, Seigneur, rassemble-nous",
+				"Pour que nous puissions te chanter ensemble.",
+				"De tous les pays, Seigneur, rassemble-nous",
+				"Pour que nous puissions te chanter partout."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#701",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

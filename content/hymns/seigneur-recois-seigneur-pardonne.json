@@ -1,0 +1,65 @@
+{
+	"id": "seigneur-recois-seigneur-pardonne",
+	"title": "Seigneur, reçois ; Seigneur, pardonne",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "407"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur, reçois ; Seigneur, pardonne",
+				"Notre misère et nos péchés",
+				"Et ce pardon que tu nous donnes,",
+				"Enseigne-nous à le donner.",
+				"O mon Seigneur, mon Dieu, mon roi,",
+				"Aie pitié, aie pitié de moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Hors de Jésus je ne puis craindre",
+				"Que ton verdict de vérité.",
+				"Il a subi, mais sans se plaindre,",
+				"Ce que j’avais seul mérité.",
+				"O mon Seigneur…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand la grandeur de nos offenses",
+				"Ecarterait tous les soutiens,",
+				"Je ne pourrais, pour ma défense,",
+				"Que prononcer un nom : le tien.",
+				"O mon Seigneur…"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Le monde chante et crie et pleure",
+				"Tant de malheurs abandonnés.",
+				"Nous te prions que vienne l’heure",
+				"De ta justice et ta pitié.",
+				"O mon Seigneur…"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#407",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

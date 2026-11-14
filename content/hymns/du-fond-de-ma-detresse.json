@@ -1,0 +1,76 @@
+{
+	"id": "du-fond-de-ma-detresse",
+	"title": "Du fond de ma détresse",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "130"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Du fond de ma détresse",
+				"Dans l’abîme où je suis,",
+				"A toi seul je m’adresse",
+				"Et les jours et les nuits ;",
+				"Mon Dieu, prête l’oreille",
+				"Au cri de ma douleur",
+				"Et que ma plainte éveille",
+				"Ta pitié, Dieu sauveur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Si tu comptes nos fautes,",
+				"Qui pourra subsister ?",
+				"Ta justice est trop haute,",
+				"Qui pourra résister ?",
+				"Mais le pardon se trouve,",
+				"Seigneur, auprès de toi",
+				"Pour que nos coeurs éprouvent",
+				"La crainte de leur Roi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"J’espère en ta parole,",
+				"Je compte, ô mon Sauveur,",
+				"Qu’elle éclaire et console",
+				"Mon âme en sa frayeur.",
+				"J’attends plus que la garde",
+				"N’attend l’aube du jour ;",
+				"Mon coeur vers toi regarde",
+				"Et cherche ton secours."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Qu’Israël sur Dieu fonde",
+				"En tout temps son appui ;",
+				"En lui la grâce abonde",
+				"Et jamais ne tarit.",
+				"De toutes nos offenses",
+				"Il nous rachètera,",
+				"De toutes nos souffrances",
+				"Il nous délivrera."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#130",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

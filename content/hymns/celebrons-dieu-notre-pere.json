@@ -1,0 +1,71 @@
+{
+	"id": "celebrons-dieu-notre-pere",
+	"title": "Célébrons Dieu, notre Père",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "253"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Célébrons Dieu, notre Père,",
+				"Qui fit les astres et la terre",
+				"Et le monde infini des cieux.",
+				"C’est lui qui fit les espaces",
+				"Et tous les temps devant sa grâce,",
+				"Et toute vie devant ses yeux.",
+				"Louange, gloire, honneur",
+				"A toi, puissant Sauveur,",
+				"Alléluia !",
+				"Gloire à ton nom, Seigneur et roi,",
+				"Toi qui fais naître en nous la foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Célébrons Christ, notre frère,",
+				"Lui qui est venu sur la terre",
+				"Pour vivre et lutter avec nous.",
+				"Que nos coeurs tous glorifient",
+				"Celui qui nous donna sa vie",
+				"Et ressuscita parmi nous.",
+				"Louange, gloire, honneur",
+				"A toi, puissant Sauveur,",
+				"Alléluia !",
+				"Gloire à ton nom, ô Fils de Dieu,",
+				"Qui règnes ici et dans les cieux."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Chantons l’Esprit de lumière",
+				"Car sa présence reste entière",
+				"En chacun des coeurs visités.",
+				"Par lui s’ouvre l’Evangile,",
+				"Et notre esprit devient paisible",
+				"Et joyeux dans la vérité.",
+				"Louange, gloire, honneur",
+				"A l’Esprit créateur,",
+				"Alléluia !",
+				"Gloire à l’Esprit, à l’Esprit Saint",
+				"Qui nous éclaire et nous soutient."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#253",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

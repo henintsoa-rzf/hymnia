@@ -1,0 +1,31 @@
+{
+	"id": "en-nous-seigneur-mets-ton-esprit",
+	"title": "En nous, Seigneur, mets ton Esprit",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "511"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"En nous, Seigneur, mets ton Esprit et nous vivrons.",
+				"En nous, Seigneur, mets ton amour et nous vivrons.",
+				"En nous, Seigneur, mets ta lumière",
+				"Et nous verrons ta gloire,",
+				"Et nous verrons ta gloire."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#511",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

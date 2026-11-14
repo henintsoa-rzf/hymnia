@@ -1,0 +1,50 @@
+{
+	"id": "benissons-dieu-arc-134",
+	"title": "Bénissons Dieu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "134"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Bénissons Dieu le seul Seigneur,",
+				"Nous qu’il choisit pour serviteurs.",
+				"Levons nos mains dans sa maison",
+				"Pour bénir et louer son nom."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ne cessons pas de le prier ;",
+				"Demandons pour le monde entier,",
+				"Pour tous ceux qui le chercheront",
+				"La paix qui nous vient de Sion."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Gloire à Dieu, notre créateur,",
+				"Gloire à l’Esprit consolateur,",
+				"Au Fils unique Jésus-Christ,",
+				"Au Dieu sauveur qui nous bénit."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#134",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,56 @@
+{
+	"id": "o-jesus-notre-frere",
+	"title": "O Jésus, notre frère",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "450"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"O Jésus, notre frère,",
+				"Tu gravis le calvaire,",
+				"Et pour nous tu souffris.",
+				"Accorde-nous toi-même",
+				"Le nom de ceux qui t’aiment,",
+				"Au nom de ton amour meurtri."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu sais notre faiblesse,",
+				"Nous savons ta tendresse ;",
+				"Ramène-nous vers toi.",
+				"Ecoute nos prières,",
+				"O Jésus, notre frère,",
+				"Qui pour nous mourus sur la croix."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Jésus, que ta souffrance",
+				"Apporte l’espérance",
+				"Au monde en son malheur.",
+				"Que ton amour fidèle",
+				"A l’amour nous appelle ;",
+				"Que ta paix soit notre bonheur."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#450",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

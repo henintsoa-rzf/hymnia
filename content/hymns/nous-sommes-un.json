@@ -1,0 +1,40 @@
+{
+	"id": "nous-sommes-un",
+	"title": "Nous sommes un",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "533"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous sommes un dans un lien d’amour,",
+				"Nous sommes un dans un lien d’amour,",
+				"Notre esprit est uni avec l’Esprit de Dieu,",
+				"Nous sommes un dans un lien d’amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Maintenant, chantons tous ensemble",
+				"Et que son amour se répande.",
+				"Prenons-nous par la main et le monde verra :",
+				"Nous sommes un dans un lien d’amour."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#533",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

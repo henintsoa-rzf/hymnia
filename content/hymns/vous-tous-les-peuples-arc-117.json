@@ -1,0 +1,32 @@
+{
+	"id": "vous-tous-les-peuples-arc-117",
+	"title": "Vous tous les peuples",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "117"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vous tous les peuples, louez Dieu,",
+				"Pour vous il est victorieux ;",
+				"Son amour s’est montré plus fort",
+				"Que les puissances de la mort.",
+				"Sa vérité resplendira",
+				"A tout jamais, Alléluia !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#117",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

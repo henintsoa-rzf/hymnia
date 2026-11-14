@@ -1,0 +1,56 @@
+{
+	"id": "mon-redempteur-est-vivant-arc-475",
+	"title": "Mon Rédempteur est vivant",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "475"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Mon Rédempteur est vivant,",
+				"C’est en lui seul que j’espère.",
+				"La mort le tenait gisant",
+				"Dans l’étreinte de la terre.",
+				"Mais Dieu reste le plus fort,",
+				"Jésus a vaincu la mort."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je ne craindrai désormais",
+				"Aucun pouvoir de ce monde",
+				"Car tu nous donnes ta paix",
+				"Où toute autre paix se fonde.",
+				"Garde-nous dans ta clarté,",
+				"O Jésus ressuscité."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans ma vie de chaque jour,",
+				"Je partagerai ta gloire ;",
+				"Je vivrai dans ton amour",
+				"Le bonheur de ta victoire",
+				"Et dans ton éternité,",
+				"Nous chanterons ta beauté."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#475",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

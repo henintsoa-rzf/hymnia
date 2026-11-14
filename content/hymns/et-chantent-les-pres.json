@@ -1,0 +1,70 @@
+{
+	"id": "et-chantent-les-pres",
+	"title": "Et chantent les prés",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "718"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Et chantent les prés et chantent les fleurs,",
+				"La joie est dans mon coeur ;",
+				"Et chantent les prés et chantent les fleurs,",
+				"Moi, j’ai ma joie dans le Seigneur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tous les chemins de la terre",
+				"Peuvent te montrer le ciel,",
+				"Et le vent qui vagabonde,",
+				"T’emmener vers le soleil."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tous les chemins de la terre",
+				"Sont parsemés d’amitié,",
+				"Et le regard de ton frère",
+				"Attend de te rencontrer."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tous les chemins de la plaine",
+				"S’en vont inlassablement,",
+				"Malgré les joies et les peines,",
+				"Vers l’horizon éclatant."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tous les chemins de la vie",
+				"Te demandent d’espérer :",
+				"Oui, le Seigneur te convie",
+				"Au banquet d’éternité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#718",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

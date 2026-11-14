@@ -1,0 +1,70 @@
+{
+	"id": "toi-qui-aimes",
+	"title": "Toi qui aimes",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "612"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Toi qui aimes ceux qui s’aiment,",
+				"Car tu es l’amour,",
+				"Dans nos vies comme un poème",
+				"Fais chanter l’amour."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Porter à deux bonheur et misère",
+				"Tournés vers le même horizon,",
+				"Les yeux éclairés d’une même lumière,",
+				"Chanter une même chanson."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Fais-nous briser barrières et murailles",
+				"Avec la violence d’aimer,",
+				"Chasser la haine sans armes ni batailles,",
+				"Armés seulement d’amitié."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, bénis ceux qui, devant leurs frères,",
+				"Se donnent l’un à l’autre leur foi,",
+				"Pour que leur amour, tout comme une prière,",
+				"Toujours les rapproche de toi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Esprit d’amour qui réchauffe le monde,",
+				"Fais-nous vivre de charité.",
+				"Et pour que nos vies soient belles et fécondes,",
+				"Enseigne-nous à tout donner."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#612",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

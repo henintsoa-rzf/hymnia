@@ -1,0 +1,78 @@
+{
+	"id": "le-semeur",
+	"title": "Le semeur",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "775"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Ecoutez, les amis :",
+				"Le semeur est sorti,",
+				"Mais le grain sous ses pas",
+				"Jamais ne germera,",
+				"Car les oiseaux sont venus,",
+				"La parole s’est perdue ! (bis)"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cherche la lumière,",
+				"Si tu veux que ton coeur",
+				"Soit comme une terre",
+				"Pour le grain du semeur."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ecoutez, les amis :",
+				"Le semeur est sorti,",
+				"Et le grain a levé",
+				"Aussitôt que semé ;",
+				"Le soleil a tout brûlé,",
+				"La parole s’est noyée ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Ecoutez, les amis :",
+				"Le semeur est sorti,",
+				"Mais le grain s’est caché",
+				"Sous un toit de fourrés,",
+				"Car les épines ont grandi,",
+				"La parole s’est enfouie ! (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Ecoutez, les amis :",
+				"Le semeur est sorti.",
+				"Pour un seul grain de blé,",
+				"Un épi s’est dressé ;",
+				"La moisson pourra mûrir,",
+				"La parole va jaillir ! (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#775",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

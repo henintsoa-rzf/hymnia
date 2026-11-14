@@ -1,0 +1,86 @@
+{
+	"id": "tu-es-la-lumiere",
+	"title": "Tu es la lumière",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "730"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Tu es la lumière qui brille dans la nuit,",
+				"Tu es cette pierre qui soutiendra nos vies.",
+				"Tu es la lumière qui brille dans la nuit,",
+				"Tu es cette pierre qui soutiendra nos vies."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Tu es comme le feu,",
+				"Qui brûle et qui éclaire",
+				"Nos coeurs devenus creux",
+				"Et cherchant la lumière.",
+				"Tu es comme un éclair",
+				"Ou comme une étincelle,",
+				"Comme une flamme claire",
+				"Qui toujours est nouvelle."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi qui es comme l’eau",
+				"Qui vivifie ce monde,",
+				"Tu es comme un ruisseau,",
+				"Comme un fleuve qui gronde.",
+				"Tu viens comme un torrent",
+				"Arracher nos pierrailles,",
+				"Puis tu coules indolent",
+				"Au pied de nos murailles."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu viens comme un grand vent,",
+				"Qui souffle par rafales,",
+				"Un vent si violent,",
+				"Tornade qui dévale.",
+				"Tu es un ouragan",
+				"Entraînant dans sa course",
+				"Les maux de tous les temps,",
+				"Puis tu deviens la Source."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tu es comme le champ",
+				"Accueillant la semence.",
+				"Et quand vient le printemps,",
+				"Tu redonnes naissance",
+				"Au grain qui était mort",
+				"De froideur hivernale.",
+				"Fais se lever encore",
+				"L’aurore boréale."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#730",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

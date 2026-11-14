@@ -1,0 +1,50 @@
+{
+	"id": "nous-venons-pres-de-toi",
+	"title": "Nous venons près de toi",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "644"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous venons près de toi, ô Dieu, dans nos misères",
+				"Implorant ton secours, ta protection de Père.",
+				"Désireux de trouver le bonheur et le pain,",
+				"Nous élevons nos voix et nous tendons les mains."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous venons près de toi, ô Dieu, dans ta misère,",
+				"Surpris de découvrir l’ampleur de ta faiblesse.",
+				"O Seigneur méprisé, sans refuge et sans pain,",
+				"Donne-nous de veiller pour toi qui nous soutiens."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Tu viens auprès de nous, ô Dieu, dans nos misères,",
+				"Car tu souffris la mort, tu partageas nos peines.",
+				"Tu rassasies nos coeurs et nos corps de ton pain ;",
+				"Ton pardon est pour tous ; ils sont déjà les tiens."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#644",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

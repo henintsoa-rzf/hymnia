@@ -1,0 +1,62 @@
+{
+	"id": "c-est-si-bon-d-etre-ensemble",
+	"title": "C’est si bon d’être ensemble",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "752"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"C’est si bon d’être ensemble quand on s’est promené,",
+				"Quand on a profité d’une belle journée."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu nous veut tous ensemble,",
+				"Nous sommes ses amis.",
+				"C’est lui qui nous rassemble,",
+				"C’est lui qui nous unit. (bis)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"C’est si bon d’être ensemble quand on a bien joué,",
+				"Quand on a partagé le pain de son goûter."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"C’est si bon d’être ensemble quand on a bien chanté,",
+				"Quand on a essayé de vivre en amitié."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"C’est si bon d’être ensemble quand on s’est retrouvé,",
+				"Quand on a célébré Jésus ressuscité."
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#752",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

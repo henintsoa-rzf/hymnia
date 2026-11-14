@@ -1,0 +1,30 @@
+{
+	"id": "christ-est-venu",
+	"title": "Christ est venu",
+	"entries": [
+		{
+			"hymnal": "arc",
+			"number": "871"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Christ est venu, Christ est né.",
+				"Christ a souffert, Christ est mort.",
+				"Christ est ressuscité, Christ est vivant.",
+				"Christ reviendra, Christ est là ! (bis)"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
+		"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#871",
+		"retrievedAt": "2026-11-13"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

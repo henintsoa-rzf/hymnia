@@ -11,6 +11,7 @@
 	import { get } from 'svelte/store';
 	import HymnalFilter from '$lib/components/HymnalFilter.svelte';
 	import Icon from '$lib/components/Icon.svelte';
+	import RecentCollections from '$lib/components/RecentCollections.svelte';
 	import RecentHymns from '$lib/components/RecentHymns.svelte';
 	import ResultList from '$lib/components/ResultList.svelte';
 	import SearchBox from '$lib/components/SearchBox.svelte';
@@ -18,6 +19,8 @@
 	import { recentHymns } from '$lib/history/resolve';
 	import { hymnHistory } from '$lib/history/store';
 	import { prefs } from '$lib/prefs/prefs';
+	import { byUpdatedDesc } from '$lib/repertoire/model';
+	import { repertoire } from '$lib/repertoire/store';
 	import { getSearchClient } from '$lib/search/session';
 	import type { SearchResponse } from '$lib/search/types';
 
@@ -76,6 +79,7 @@
 	// Feature 006: what the screen offers while the field is empty (contracts/ui.md).
 	const idle = $derived(!query.trim());
 	const recent = $derived(recentHymns(data.catalog, $hymnHistory));
+	const collections = $derived(byUpdatedDesc($repertoire.collections).slice(0, 3));
 	let announcement = $state('');
 
 	function clearRecent() {
@@ -139,6 +143,7 @@
 				</p>
 				<div class="mobile-only">
 					<RecentHymns rows={recent} onclear={clearRecent} />
+					<RecentCollections {collections} />
 				</div>
 			{:else if unavailable}
 				<div class="hy-message" role="status">
@@ -159,6 +164,7 @@
 	<aside class="search__aside desktop-only" aria-label="Raccourcis">
 		{#if idle}
 			<RecentHymns rows={recent} onclear={clearRecent} />
+			<RecentCollections {collections} />
 		{/if}
 		<p class="hy-caption search__keys">
 			Au clavier&#8239;: <kbd>/</kbd> place le curseur dans la recherche, <kbd>Entrée</kbd> ouvre le premier

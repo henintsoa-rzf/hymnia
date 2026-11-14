@@ -81,12 +81,12 @@ Single SvelteKit app: `src/`, `tests/` at the repository root. E2E tests run on 
 
 ### Tests (write first)
 
-- [ ] T016 [P] [US2] E2E tests in `tests/e2e/us11-recent-collections.spec.ts`: (1) `seedCollections` with four collections whose `updatedAt` differ (extend the helper in `tests/e2e/helpers.ts` with an optional `updatedAt` per collection if needed) → section « Collections » lists the three most recent, each with « n chants », then « Tout le Répertoire » linking to `/repertoire`; (2) clicking a row opens `/repertoire/<id>`; (3) with no collection, no « Collections » heading; (4) at 1280 px the section is in the side column, below « Récemment consultés » and above the keyboard tips
+- [X] T016 [P] [US2] E2E tests in `tests/e2e/us11-recent-collections.spec.ts`: (1) `seedCollections` with four collections whose `updatedAt` differ (extend the helper in `tests/e2e/helpers.ts` with an optional `updatedAt` per collection if needed) → section « Collections » lists the three most recent, each with « n chants », then « Tout le Répertoire » linking to `/repertoire`; (2) clicking a row opens `/repertoire/<id>`; (3) with no collection, no « Collections » heading; (4) at 1280 px the section is in the side column, below « Récemment consultés » and above the keyboard tips
 
 ### Implementation
 
-- [ ] T017 [US2] Create `src/lib/components/RecentCollections.svelte` (prop: `collections: Collection[]`): `section` labelled by `h2.hb-overline` « Collections »; `ul.hb-list` of `a.hy-row` to `resolve('/repertoire/[collection]', { collection: c.id })` with the bookmark icon, name and `hymnCountLabel(c.entries.length)` (same row as `src/routes/repertoire/+page.svelte`); then a link « Tout le Répertoire » to `resolve('/repertoire')`. Renders nothing when empty
-- [ ] T018 [US2] Wire US2 into `src/routes/+page.svelte`: `recentCollections = byUpdatedDesc($repertoire.collections).slice(0, 3)` (from `src/lib/repertoire/model.ts` and `src/lib/repertoire/store.ts`); render `RecentCollections` after `RecentHymns` in both the mobile block and the desktop aside — makes T016 pass
+- [X] T017 [US2] Create `src/lib/components/RecentCollections.svelte` (prop: `collections: Collection[]`): `section` labelled by `h2.hb-overline` « Collections »; `ul.hb-list` of `a.hy-row` to `resolve('/repertoire/[collection]', { collection: c.id })` with the bookmark icon, name and `hymnCountLabel(c.entries.length)` (same row as `src/routes/repertoire/+page.svelte`); then a link « Tout le Répertoire » to `resolve('/repertoire')`. Renders nothing when empty
+- [X] T018 [US2] Wire US2 into `src/routes/+page.svelte`: `recentCollections = byUpdatedDesc($repertoire.collections).slice(0, 3)` (from `src/lib/repertoire/model.ts` and `src/lib/repertoire/store.ts`); render `RecentCollections` after `RecentHymns` in both the mobile block and the desktop aside — makes T016 pass
 
 **Checkpoint**: US1 and US2 work independently and together.
 

@@ -5,6 +5,7 @@
   previous/next under the credits.
   Feature 003: the bookmark opens the choice of collections; with `?collection=<id>`, the hymn
   is read in that collection's order (previous/next, list, "<name> · 2 / 5").
+  Feature 007: a discreet YouTube search link under the credits.
 -->
 <script lang="ts">
 	import { goto } from '$app/navigation';
@@ -24,6 +25,7 @@
 	import { collectionsWith } from '$lib/repertoire/model';
 	import { hymnIdOf, resolveEntries } from '$lib/repertoire/resolve';
 	import { repertoire } from '$lib/repertoire/store';
+	import { youtubeSearchUrl } from '$lib/youtube';
 
 	let { data } = $props();
 
@@ -231,6 +233,12 @@
 			<div class="hymn__swipe" bind:this={swipeArea}>
 				<LyricsView {hymn} {title} reference={refLabel(abbr, entry.number)}>
 					<HymnCredits {hymn} />
+					<p class="hymn__youtube">
+						<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- external YouTube search (feature 007) -->
+						<a href={youtubeSearchUrl(title)} target="_blank" rel="noopener noreferrer"
+							>Rechercher sur YouTube<Icon name="external" /></a
+						>
+					</p>
 				</LyricsView>
 			</div>
 
@@ -325,6 +333,29 @@
 <!-- eslint-enable svelte/no-navigation-without-resolve -->
 
 <style>
+	/* Feature 007: as quiet as the credits it follows. */
+	.hymn__youtube {
+		margin: var(--space-2) 0 0;
+		font-size: 15px;
+		line-height: 22px;
+		font-style: italic;
+		color: var(--ink-muted);
+	}
+
+	.hymn__youtube a {
+		display: inline-flex;
+		align-items: center;
+		gap: 4px;
+		min-height: 24px;
+		color: inherit;
+	}
+
+	.hymn__youtube :global(svg) {
+		width: 16px;
+		height: 16px;
+		flex: none;
+	}
+
 	.hymn-top {
 		padding: 8px 8px 0;
 	}

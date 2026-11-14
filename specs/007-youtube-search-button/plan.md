@@ -32,7 +32,7 @@ icon (`external`) marks the link as leaving the app.
 **Constraints**: No YouTube request until the tap (FR-005); WCAG 2.2 AA; light and dark modes;
 lyrics area and reading bar untouched (FR-002)
 
-**Scale/Scope**: 1 screen touched (hymn page), 1 helper in `src/lib/format.ts`, 1 icon added
+**Scale/Scope**: 1 screen touched (hymn page), 1 helper in `src/lib/youtube.ts`, 1 icon added
 
 ## Constitution Check
 
@@ -70,7 +70,7 @@ specs/007-youtube-search-button/
 ```text
 src/
 ├── lib/
-│   ├── format.ts                      # + youtubeSearchUrl(title)
+│   ├── youtube.ts                     # youtubeSearchUrl(title) (new; format.ts imports $app, not unit-testable)
 │   └── components/
 │       └── Icon.svelte                # + 'external' icon
 ├── routes/recueils/[recueil]/[numero]/

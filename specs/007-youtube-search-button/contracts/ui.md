@@ -27,7 +27,7 @@ Not shown on the « chant introuvable » page.
 
 ## Helper
 
-`youtubeSearchUrl(title: string): string` in `src/lib/format.ts` — pure; normalizes whitespace
+`youtubeSearchUrl(title: string): string` in `src/lib/youtube.ts` — pure; normalizes whitespace
 (NBSP, narrow NBSP, runs), trims, encodes with `encodeURIComponent`.
 
 | Input | Output `search_query` |

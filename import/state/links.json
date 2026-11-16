@@ -35038,5 +35038,755 @@
 		"acceptedFingerprint": "sha256:9ae3bb8ab7f6ffade52441ec09e7c84d7b2f3bd6d8da49c810059cefcf3cb53b",
 		"status": "active",
 		"lastSeenAt": "2026-11-13"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "101",
+		"hymnId": "sauve",
+		"url": "https://pasteuretcompagnie.com/products/sauve-1",
+		"acceptedFingerprint": "sha256:ecaf2c921aa13900787f686f821236a6f1b68101e3a9e03dd44d5ffe452a4ff7",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "102",
+		"hymnId": "vois-l-amour",
+		"url": "https://pasteuretcompagnie.com/products/vois-lamour-here-is-love",
+		"acceptedFingerprint": "sha256:2c1ce34f06afd4a03b1ffd9c42be688936879599e3784b16bbb283b6a281c34a",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "104",
+		"hymnId": "la-aussi-psaume-139",
+		"url": "https://pasteuretcompagnie.com/products/la-aussi-psaume-139",
+		"acceptedFingerprint": "sha256:394b651331c43af6108f561324311bf2de7c10e51a6a421349991ed71e1f73d9",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "106",
+		"hymnId": "mon-ame-eveille-toi",
+		"url": "https://pasteuretcompagnie.com/products/mon-ame-eveille-toi-1",
+		"acceptedFingerprint": "sha256:d3b0a5c4b87cf716220e11a6dba845543f56eae2538f5491d5c0ffc5ae139cef",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "107",
+		"hymnId": "sois-seul-ma-vision",
+		"url": "https://pasteuretcompagnie.com/products/sois-seul-ma-vision-1",
+		"acceptedFingerprint": "sha256:48914d39200df5377cb0ae7a17f18946e065099c2879aa8163b4cd7983b123aa",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "108",
+		"hymnId": "purifie",
+		"url": "https://pasteuretcompagnie.com/products/purifie-1",
+		"acceptedFingerprint": "sha256:597596d01225d04ce7ef1a90ec44945d75250f055ec42d3895c4a4a8cc04f6f7",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "109",
+		"hymnId": "viens-suis-moi",
+		"url": "https://pasteuretcompagnie.com/products/viens-suis-moi-1",
+		"acceptedFingerprint": "sha256:8db503f23b24e82b1711f2d4cdc725acc844b54466c00b2b7842aa4ee4cec80b",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "202",
+		"hymnId": "sois-seul-ma-vision",
+		"url": "https://pasteuretcompagnie.com/products/sois-seul-ma-vision-1",
+		"acceptedFingerprint": "sha256:48914d39200df5377cb0ae7a17f18946e065099c2879aa8163b4cd7983b123aa",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "203",
+		"hymnId": "mon-dieu-plus-pres-de-toi-evangile21-13",
+		"url": "https://pasteuretcompagnie.com/products/mon-dieu-plus-pres-de-toi-nearer-my-god-to-thee",
+		"acceptedFingerprint": "sha256:28f924aada2dedbafdcb6e7b083ac054a1f974cb884cec8ae8abd32d8b8ea8f2",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "204",
+		"hymnId": "viens-suis-moi",
+		"url": "https://pasteuretcompagnie.com/products/viens-suis-moi-1",
+		"acceptedFingerprint": "sha256:8db503f23b24e82b1711f2d4cdc725acc844b54466c00b2b7842aa4ee4cec80b",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "206",
+		"hymnId": "enseigne-moi",
+		"url": "https://pasteuretcompagnie.com/products/enseigne-moi",
+		"acceptedFingerprint": "sha256:890a4091ad23e14a38871345b1d7991185f2e83bdca804ecbbb5662a28d12b23",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "207",
+		"hymnId": "hymne-a-la-joie",
+		"url": "https://pasteuretcompagnie.com/products/hymnes-a-la-joie-joyful-joyful-we-adore-thee",
+		"acceptedFingerprint": "sha256:85b7b70ad296d28b52e75c058dec26936a55d578c5ed454757375689e00e8fe5",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "208",
+		"hymnId": "tel-que-je-suis-sans-rien-a-moi",
+		"url": "https://pasteuretcompagnie.com/products/tel-que-je-suis",
+		"acceptedFingerprint": "sha256:db60d8ce1e51b9855cf76fc5989377b436e19aafa1dac6da7ed03f322f52b6c7",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "211",
+		"hymnId": "mon-ame-eveille-toi",
+		"url": "https://pasteuretcompagnie.com/products/mon-ame-eveille-toi-1",
+		"acceptedFingerprint": "sha256:d3b0a5c4b87cf716220e11a6dba845543f56eae2538f5491d5c0ffc5ae139cef",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "212",
+		"hymnId": "jesus-christ-est-ma-sagesse",
+		"url": "https://pasteuretcompagnie.com/products/jesus-christ-est-ma-sagesse",
+		"acceptedFingerprint": "sha256:65f6623c9598484a9e9643ec999380c81dca31de3cc13b9e3f8aa21cdc92959e",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "213",
+		"hymnId": "par-la-foi",
+		"url": "https://pasteuretcompagnie.com/products/par-la-foi",
+		"acceptedFingerprint": "sha256:482685e8e4cabb0e73a19be6bc32d5e9130b716ea6534c73ae1820f6a06c7bb7",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "301",
+		"hymnId": "je-m-attends-a-toi",
+		"url": "https://pasteuretcompagnie.com/products/je-mattends-a-toi-i-will-wait-for-you",
+		"acceptedFingerprint": "sha256:40e219f66d15e16aea5d220b1d5b991cbdd4ba6cb9b05ac7fd971f6df022b9ec",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "302",
+		"hymnId": "la-gloire-du-calvaire",
+		"url": "https://pasteuretcompagnie.com/products/la-gloire-du-calvaire",
+		"acceptedFingerprint": "sha256:bf5d0a98545395a329c9ea99dcece680bbfe491c416c0d4fb55e72b9fc1f0311",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "303",
+		"hymnId": "jesus-merci",
+		"url": "https://pasteuretcompagnie.com/products/jesus-merci-jesus-thank-you",
+		"acceptedFingerprint": "sha256:e7cfb5bb873bd90c482fb0f3f23b554140d7d966f44b235b064e8800db20e6fa",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "306",
+		"hymnId": "o-jesus-je-t-aime-evangile21-15",
+		"url": "https://pasteuretcompagnie.com/products/o-jesus-je-taime-my-jesus-i-love-thee",
+		"acceptedFingerprint": "sha256:5f10ef670bcdf6f4718e956b9a0bd64ac443835a234942ca5462c9ba7d536802",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "307",
+		"hymnId": "il-me-gardera-he-will-hold-me-fast",
+		"url": "https://pasteuretcompagnie.com/products/il-me-gardera-he-will-hold-me-fast",
+		"acceptedFingerprint": "sha256:d18b8c099ad2a505bc8a33781cb96ebe6aa3bcb481013641c4b09d713176ef1e",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "308",
+		"hymnId": "saint-esprit",
+		"url": "https://pasteuretcompagnie.com/products/saint-esprit-holy-spirit",
+		"acceptedFingerprint": "sha256:ad9a0ced956bc110bdc3e252fadd2ca0d51cdf3d4c7e041cc5176cf34b589436",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "401",
+		"hymnId": "de-generation-en-generation",
+		"url": "https://pasteuretcompagnie.com/products/de-generation-en-generation",
+		"acceptedFingerprint": "sha256:bb98bb3b7ae4696976cf104e7f962bba72fb030c4133597a0ad882e8389eb5dc",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "402",
+		"hymnId": "l-evangile-c-est-de-la-bombe",
+		"url": "https://pasteuretcompagnie.com/pages/album-kids-paroles#2",
+		"acceptedFingerprint": "sha256:2e07b6bf96095022cd37b5d2053bc39c825f4e86191d5ddd957277debb7baa16",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "403",
+		"hymnId": "oui-je-crois-pasteur-compagnie-403",
+		"url": "https://pasteuretcompagnie.com/products/oui-je-crois",
+		"acceptedFingerprint": "sha256:7202700db4792ccb31903b465f06d97f389c6614fbe6239c3cce0062ebf7af2f",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "404",
+		"hymnId": "au-ciel",
+		"url": "https://pasteuretcompagnie.com/products/au-ciel",
+		"acceptedFingerprint": "sha256:07ae8a4c61b35d4c1e9fe47234af2a3655bd94489ccd1e3572abc608b1281260",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "405",
+		"hymnId": "coeur-casse",
+		"url": "https://pasteuretcompagnie.com/pages/album-kids-paroles#5",
+		"acceptedFingerprint": "sha256:6a0806d24ceac879b1fa532437dbe547203ccfc4b2aa8d7c7d77a85a40f2c7bf",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "406",
+		"hymnId": "bien-dans-ma-peau",
+		"url": "https://pasteuretcompagnie.com/pages/album-kids-paroles#6",
+		"acceptedFingerprint": "sha256:ea25fe9658ae47e3adb8b577db38ceb9f9e10b8a81ba474ff4601623ce182d95",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "407",
+		"hymnId": "que-tout-ce-qui-respire",
+		"url": "https://pasteuretcompagnie.com/products/que-tout-ce-qui-respire",
+		"acceptedFingerprint": "sha256:8b1f60278ced0b46a855b34666c7bb136882251dc27fee8bf6d10749fe0a6875",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "408",
+		"hymnId": "quand-je-songe-a-cette-croix",
+		"url": "https://pasteuretcompagnie.com/products/quand-je-songe-a-cette-croix",
+		"acceptedFingerprint": "sha256:fc7b16696134f6815bba4c21a395df89fe6f3390e3e0bbd30dd4e0ca3bd3a98a",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "409",
+		"hymnId": "il-me-tient-par-la-main",
+		"url": "https://pasteuretcompagnie.com/products/il-me-tient-par-la-main",
+		"acceptedFingerprint": "sha256:5e3df8c03040130f34e3bb7a373200d3fc095ef34c2ddab9f1ad8f77355d42bc",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "410",
+		"hymnId": "psaume-131",
+		"url": "https://pasteuretcompagnie.com/products/psaume-131",
+		"acceptedFingerprint": "sha256:b052458866778300159c61aa6b0605e918b46224984e1155139a38501086209a",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "411",
+		"hymnId": "papa-c-est-quoi-une-ame",
+		"url": "https://pasteuretcompagnie.com/products/papa-cest-quoi-une-ame-partition",
+		"acceptedFingerprint": "sha256:05ef31f1199782b909771ece9583fe74ee75e29dc46e2696b59f75b0e51eb6ec",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "502",
+		"hymnId": "plus-haut-encore",
+		"url": "https://pasteuretcompagnie.com/products/plus-haut-encore",
+		"acceptedFingerprint": "sha256:dc276e37be645fa8af2caae7ffd310455114228636f60cdbb3cc4fafd4d2134e",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "503",
+		"hymnId": "est-il-digne",
+		"url": "https://pasteuretcompagnie.com/products/est-il-digne-is-he-worthy",
+		"acceptedFingerprint": "sha256:f6b7882bcb50ac7ccc9ba085f6c2ece20c21fd9e039e7fe33fc7213440fede92",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "506",
+		"hymnId": "en-memoire-de-ton-nom",
+		"url": "https://pasteuretcompagnie.com/products/en_memoire_de_ton_nom",
+		"acceptedFingerprint": "sha256:01c33289286e5d9f38ba5e6529b202c9cda7e88dcf1de244e3d74ce2fce73849",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "507",
+		"hymnId": "psaume-32",
+		"url": "https://pasteuretcompagnie.com/products/psaume-32",
+		"acceptedFingerprint": "sha256:b7b91dca433c9c15287d0d205a117da01fa67e8ef2917935baed10149eafc952",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "508",
+		"hymnId": "je-me-confie-en-mon-sauveur",
+		"url": "https://pasteuretcompagnie.com/products/je-me-confie-en-mon-sauveur-i-will-trust-my-savior-jesus",
+		"acceptedFingerprint": "sha256:9d1cb9fde8d806d4fd9b945d8437076185c840a1938d2b700dc894278b36f2b8",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "509",
+		"hymnId": "nous-voici",
+		"url": "https://pasteuretcompagnie.com/products/nous-voici",
+		"acceptedFingerprint": "sha256:b2657a9ff65726cde72deb8665e1e30c6b2c76f9fe185054f9cdfdb87f86d357",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "510",
+		"hymnId": "l-espoir",
+		"url": "https://pasteuretcompagnie.com/products/lespoir-1",
+		"acceptedFingerprint": "sha256:d38543fee81c116d36d1b08cbc97adbf5cfe6d28498c6618e11702d9e50857d3",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1001",
+		"hymnId": "au-dessus-des-royaumes",
+		"url": "https://pasteuretcompagnie.com/products/au-dessus-des-royaumes",
+		"acceptedFingerprint": "sha256:e701f0b48ace61dae89b30adebd38e6e90cc5eb98adc833dbe02fcdda8c39792",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1003",
+		"hymnId": "glorieux-tout-puissant",
+		"url": "https://pasteuretcompagnie.com/products/glorieux-tout-puissant-glorious-and-mighty",
+		"acceptedFingerprint": "sha256:5910b642323da2c0f3e7a1720787c3bc5f5947b2585ef4edfe2913df07f62902",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1004",
+		"hymnId": "o-dieu-ta-grace",
+		"url": "https://pasteuretcompagnie.com/products/o-dieu-ta-grace-grace-greater-than-our-sins",
+		"acceptedFingerprint": "sha256:d317bdf1bb32f313bf81daaa94446e06baffc987e16c5bfa6b9bff20ead1d414",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1005",
+		"hymnId": "grace-infinie-pasteur-compagnie-1005",
+		"url": "https://pasteuretcompagnie.com/products/grace-infinie",
+		"acceptedFingerprint": "sha256:885657a1f213713113aa0f8ad6cc5fadc49b4211094cf76d336f41246c19ca35",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1006",
+		"hymnId": "l-amour-de-dieu",
+		"url": "https://pasteuretcompagnie.com/products/lamour-de-dieu",
+		"acceptedFingerprint": "sha256:725349826deb9b4385219b1804e37135131f6caaa9fc130f1b12f11e671e5688",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1007",
+		"hymnId": "vous-creatures-du-grand-roi",
+		"url": "https://pasteuretcompagnie.com/products/vous-creatures-du-grand-roi-all-creatures-of-our-god-and-king",
+		"acceptedFingerprint": "sha256:0ea22494e92123136f3c42f70ebf9a6ec6d4bd5771f514514c06c65596ffe37d",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1009",
+		"hymnId": "viens-decouvrir-cette-fontaine",
+		"url": "https://pasteuretcompagnie.com/products/viens-decouvrir-cette-fontaine",
+		"acceptedFingerprint": "sha256:2ce3602f1f6c65066ee54f66e2b4a4d438dbd974728a4fa3d1af3b0252cea898",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1010",
+		"hymnId": "joie-dans-le-monde",
+		"url": "https://pasteuretcompagnie.com/products/joie-dans-le-monde-joy-to-the-world",
+		"acceptedFingerprint": "sha256:a902531e75f631d2222c6ca2d71f6b4fb0c4d14c8714e451715dad4d7b0cf764",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1013",
+		"hymnId": "quel-amour-mysterieux",
+		"url": "https://pasteuretcompagnie.com/products/quel-amour-mysterieux-what-wondrous-love-is-this",
+		"acceptedFingerprint": "sha256:32b6d445e67d136474a9ea6832fb744d73495e2212eb7941cf58daa5e4641f43",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1014",
+		"hymnId": "redempteur-adorable-evangile21-18",
+		"url": "https://pasteuretcompagnie.com/products/redempteur-adorable",
+		"acceptedFingerprint": "sha256:0b5a9258f37b9a56a1fc352d25df036f7899a349aed1630171f2097b26e8aaf9",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1015",
+		"hymnId": "parle-nous",
+		"url": "https://pasteuretcompagnie.com/products/parle-nous",
+		"acceptedFingerprint": "sha256:6ee3fa2c4cebe390bbdb17de52cb77e342234c07f6a6b779fa4591e0e5c69b6b",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1016",
+		"hymnId": "seigneur-mon-roc-et-mon-redempteur-o-lord-my-rock-and-my-redeemer",
+		"url": "https://pasteuretcompagnie.com/products/seigneur-mon-roc-et-mon-redempteur-o-lord-my-roc-and-my-redeemer",
+		"acceptedFingerprint": "sha256:84b712c959205461e83cceb9a704596be0ea89d0bf96c46f14dc7ae188485761",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1017",
+		"hymnId": "voici-noel-o-douce-nuit",
+		"url": "https://pasteuretcompagnie.com/products/voici-noel-jazzy",
+		"acceptedFingerprint": "sha256:4e1f1ce54fd809128d57dd6f8ea9cf86fa8e7418c2b790eda296783ffb69173f",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1018",
+		"hymnId": "folle-nuit-de-la-croix",
+		"url": "https://pasteuretcompagnie.com/products/folle-nuit-de-la-croix",
+		"acceptedFingerprint": "sha256:21b1d4810a660e643333609623739563d6193f796660c57fe0dc3cfca2795e6d",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1019",
+		"hymnId": "dieu-l-eternel-incree",
+		"url": "https://pasteuretcompagnie.com/products/dieu-leternel-incree",
+		"acceptedFingerprint": "sha256:60b1c1c192176aaaaecf350a4a12839ccb5157630e9a8238c1c9941a217da552",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1020",
+		"hymnId": "psaume-150",
+		"url": "https://pasteuretcompagnie.com/products/psaume-150",
+		"acceptedFingerprint": "sha256:1836a2cf1f2a6af4b380470e3faad58f43f848d502cddd0478c75cf5bf128f91",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1021",
+		"hymnId": "psaume-42-je-le-louerai-encore",
+		"url": "https://pasteuretcompagnie.com/products/psaume-42",
+		"acceptedFingerprint": "sha256:2a88d2f775447dafdd3b862ce03e945c40aa7534891066911be55f0c0f20768a",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1022",
+		"hymnId": "notre-esperance-est-en-christ",
+		"url": "https://pasteuretcompagnie.com/products/christ-notre-esperance",
+		"acceptedFingerprint": "sha256:030375f129dd6071de723c39397fac1fcd5be3e26488a32d6daef47b4f5bb474",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1023",
+		"hymnId": "o-peuple-fidele",
+		"url": "https://pasteuretcompagnie.com/products/o-peuple-fidele",
+		"acceptedFingerprint": "sha256:3255219ab218b0c8ad0abce054b8f0ec5522140ae1b5302ba411ecc94f795a98",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1024",
+		"hymnId": "et-se-peut-il",
+		"url": "https://pasteuretcompagnie.com/products/et-se-peut-il-and-can-it-be",
+		"acceptedFingerprint": "sha256:c6eb860ca5bec1e57c215ea1db669b36e8dc901e17668a399caafff3d360f7ce",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1025",
+		"hymnId": "minuit-chretiens",
+		"url": "https://pasteuretcompagnie.com/products/minuit-chretiens",
+		"acceptedFingerprint": "sha256:69fa04eadd973ba742d11c5cee1387b7f6c224afb6dd116d32faecc8cf5aaf0a",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1026",
+		"hymnId": "noel-jesus-est-ne",
+		"url": "https://pasteuretcompagnie.com/products/noel-jesus-est-ne",
+		"acceptedFingerprint": "sha256:c79524cf7a5a4110a0445efeb4bb568fc1e96340fed0a3c46cc718720917719c",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1027",
+		"hymnId": "chantons-l-histoire-d-emmanuel",
+		"url": "https://pasteuretcompagnie.com/products/chantons-lhistoire-demmanuel",
+		"acceptedFingerprint": "sha256:fd4ca9c70969be17180fdcb72898d205909e51781bae086398e2b59c52947fd9",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "103",
+		"hymnId": "jesus-a-tout-paye-pasteur-compagnie-103",
+		"url": "https://pasteuretcompagnie.com/products/jesus-a-tout-paye-jesus-paid-it-all",
+		"acceptedFingerprint": "sha256:e870c128a8a9dd67eb9ccc88b014bf88e79a2be514134564b3d52bdc80b111dc",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "105",
+		"hymnId": "coule-a-flots",
+		"url": "https://pasteuretcompagnie.com/products/coule-a-flots-come-thou-fount",
+		"acceptedFingerprint": "sha256:f46bf5353bfe786699b3dfc75202100bd05054ddc12e57fc54dc6cf739b17b86",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "205",
+		"hymnId": "sur-le-mont-du-calvaire-pasteur-compagnie-205",
+		"url": "https://pasteuretcompagnie.com/products/sur-le-mont-du-calvaire-the-old-rugged-cross",
+		"acceptedFingerprint": "sha256:8cd916271edea266899fd76d11596d8e6df0e0df134a2eb6e34be484b0552956",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "209",
+		"hymnId": "a-l-agneau-sur-son-trone-pasteur-compagnie-209",
+		"url": "https://pasteuretcompagnie.com/products/a-l-agneau-sur-son-trone",
+		"acceptedFingerprint": "sha256:b15fabdaeae5e912ee77b8d6d844735e4104eca6c184a1aa24106d69d1e49627",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "304",
+		"hymnId": "viens-et-vois-pasteur-compagnie-304",
+		"url": "https://pasteuretcompagnie.com/products/viens-et-vois-were-you-there",
+		"acceptedFingerprint": "sha256:09650f05b863f483e609f6278ee4e6f1c7a6f17dbee7dbe53059047a809febfe",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "309",
+		"hymnId": "non-par-moi-mais-par-christ-en-moi",
+		"url": "https://pasteuretcompagnie.com/products/non-par-moi",
+		"acceptedFingerprint": "sha256:e5c7a14b0b25ad3e8cb5d586d0ad724d0ab0ea0b897220ddd5a476ba8e986d89",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "501",
+		"hymnId": "le-seul-dieu-trois-fois-saint-pasteur-compagnie-501",
+		"url": "https://pasteuretcompagnie.com/products/le-seul-dieu-trois-fois-saint",
+		"acceptedFingerprint": "sha256:08636c1e0ede501381a4f4b280ea18c565da994d627f81bf5e7ff87d55a262d2",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "505",
+		"hymnId": "coule-a-flots",
+		"url": "https://pasteuretcompagnie.com/products/coule-a-flots-come-thou-fount",
+		"acceptedFingerprint": "sha256:f46bf5353bfe786699b3dfc75202100bd05054ddc12e57fc54dc6cf739b17b86",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1002",
+		"hymnId": "alleluia-quel-grand-sauveur-pasteur-compagnie-1002",
+		"url": "https://pasteuretcompagnie.com/products/alleluia-quel-grand-sauveur",
+		"acceptedFingerprint": "sha256:1fffd3a310706af6b8fc49e1caee76f6e013766a1d9f9f1d560964dc0c048ab2",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1008",
+		"hymnId": "sa-grace-est-plus-grande",
+		"url": "https://pasteuretcompagnie.com/products/sa-grace-est-plus-grande-his-mercy-is-more",
+		"acceptedFingerprint": "sha256:35c31ef59697c9b287693b8e6763b1e0fdd6b46e4499aaf86e3d66e1ab5e2d0a",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1011",
+		"hymnId": "chef-couvert-de-blessures-pasteur-compagnie-1011",
+		"url": "https://pasteuretcompagnie.com/products/chef-couvert-de-blessures-1",
+		"acceptedFingerprint": "sha256:dc83e1b5a9100169c73090c64c0d2807866ce19acb7f6a0976fa7e3adad0f344",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
+	},
+	{
+		"source": "petc",
+		"hymnal": "pasteur-compagnie",
+		"number": "1012",
+		"hymnId": "roc-des-ages-pasteur-compagnie-1012",
+		"url": "https://pasteuretcompagnie.com/products/roc-des-ages-roc-of-ages",
+		"acceptedFingerprint": "sha256:77856f69c7239ac822fe14e0c376a18510b8f010a00d18a32cc40eb77fecb9da",
+		"status": "active",
+		"lastSeenAt": "2026-11-16"
 	}
 ]

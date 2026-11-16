@@ -5,6 +5,10 @@
 		{
 			"hymnal": "evangile21",
 			"number": "15"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "306"
 		}
 	],
 	"sections": [
@@ -81,5 +85,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/o-jesus-je-taime-my-jesus-i-love-thee",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

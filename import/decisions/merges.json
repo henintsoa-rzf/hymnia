@@ -970,5 +970,95 @@
 		"b": "attache-a-la-croix-pour-moi-arc-458",
 		"decision": "distinct",
 		"date": "2026-11-14"
+	},
+	{
+		"a": "oui-je-crois",
+		"b": "oui-je-crois-pasteur-compagnie-403",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "oui-je-crois-exo-39",
+		"b": "oui-je-crois-pasteur-compagnie-403",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "grace-infinie",
+		"b": "grace-infinie-pasteur-compagnie-1005",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "jesus-a-tout-paye",
+		"b": "jesus-a-tout-paye-pasteur-compagnie-103",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "coule-a-flots",
+		"b": "coule-a-flots-source-de-grace",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "sur-le-mont-du-calvaire",
+		"b": "sur-le-mont-du-calvaire-pasteur-compagnie-205",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "a-l-agneau-sur-son-trone",
+		"b": "a-l-agneau-sur-son-trone-pasteur-compagnie-209",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "viens-et-vois",
+		"b": "viens-et-vois-pasteur-compagnie-304",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "non-par-moi-mais-par-christ-en-moi",
+		"b": "non-par-moi-mais-par-christ-en-moi-yet-not-i-but-through-christ-in-me",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "le-seul-dieu-trois-fois-saint",
+		"b": "le-seul-dieu-trois-fois-saint-pasteur-compagnie-501",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "alleluia-quel-grand-sauveur",
+		"b": "alleluia-quel-grand-sauveur-pasteur-compagnie-1002",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "sa-grace-est-plus-grande",
+		"b": "sa-grace-est-plus-grande-his-mercy-is-more",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "chef-couvert-de-blessures",
+		"b": "chef-couvert-de-blessures-pasteur-compagnie-1011",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "roc-des-ages",
+		"b": "roc-des-ages-pasteur-compagnie-1012",
+		"decision": "distinct",
+		"date": "2026-11-16"
+	},
+	{
+		"a": "viens-et-vois-jem-82",
+		"b": "viens-et-vois-pasteur-compagnie-304",
+		"decision": "distinct",
+		"date": "2026-11-16"
 	}
 ]

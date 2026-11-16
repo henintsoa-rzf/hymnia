@@ -5,6 +5,14 @@
 		{
 			"hymnal": "evangile21",
 			"number": "22"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "107"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "202"
 		}
 	],
 	"sections": [
@@ -81,5 +89,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/sois-seul-ma-vision-1",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

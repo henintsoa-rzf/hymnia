@@ -1,0 +1,99 @@
+{
+	"id": "et-se-peut-il",
+	"title": "Et se peut-il",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1024"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Et se peut-il ? Tirer profit",
+				"Du sang versé de mon Sauveur ?",
+				"Il meurt pour moi un homme impie,",
+				"Pour moi, l’auteur, de son malheur.",
+				"Est-ce possible, amour si beau !",
+				"Pour moi, Dieu va jusqu’au tombeau !",
+				"Est-ce possible, amour si beau !",
+				"Pour moi, Dieu va jusqu’au tombeau !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Don mystérieux ! Meurt l’immortel !",
+				"Qui peut saisir si grands desseins ?",
+				"L’aîné des archanges du ciel",
+				"Ne peut sonder l’amour divin.",
+				"Voici la grâce ! Adorons Dieu.",
+				"Chantons son nom de lieu en lieu !",
+				"Voici la grâce ! Adorons Dieu.",
+				"Chantons son nom de lieu en lieu !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quittant son trône il s’est donné",
+				"Quel grand amour, grâce infinie",
+				"Humblement il s’est dépouillé",
+				"Jusqu’à la croix offrant sa vie",
+				"Voici la grâce, immense don",
+				"Qui m’a trouvé ! Plus de rançon !",
+				"Voici la grâce, immense don",
+				"Qui m’a trouvé ! Plus de rançon !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Mon âme aveugle et en prison",
+				"J’errais dans la nuit du péché",
+				"Éveillé par tes doux rayons",
+				"L’immense cachot fut éclairé.",
+				"Mes fers tombés, mon cœur est libre",
+				"Alors levé, je veux te suivre !",
+				"Mes fers tombés, mon cœur est libre",
+				"Alors levé, je veux te suivre !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 5,
+			"lines": [
+				"Je ne crains plus de jugement",
+				"Jésus à moi, je suis à lui.",
+				"Mon souverain, en lui vivant",
+				"Sa justice est mon seul habit.",
+				"Plein d’assurance et vers son trône",
+				"Je cours pour saisir ma couronne.",
+				"Plein d’assurance et vers son trône",
+				"Je cours pour saisir ma couronne !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Charles Wesley",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/et-se-peut-il-and-can-it-be",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

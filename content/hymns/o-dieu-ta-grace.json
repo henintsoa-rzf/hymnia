@@ -5,6 +5,10 @@
 		{
 			"hymnal": "evangile21",
 			"number": "14"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1004"
 		}
 	],
 	"sections": [
@@ -79,5 +83,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/o-dieu-ta-grace-grace-greater-than-our-sins",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

@@ -1,0 +1,78 @@
+{
+	"id": "il-me-tient-par-la-main",
+	"title": "Il me tient par la main",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "409"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh, oh"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Il me tient par la main",
+				"Là où je vais",
+				"Mon Dieu marche avec moi",
+				"A mes côtés",
+				"Non jamais seul, non jamais seul",
+				"Je n’aurai pas honte, je n’aurai pas peur",
+				"Il me tient par la main",
+				"Oh",
+				"Il me tient par la main",
+				"Oh"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Il y a des jours, où j’me sens seul",
+				"Je sais quand même, par ses promesses, que Dieu est là",
+				"Sa main puissante est avec moi",
+				"Il me rend fort, confiant, et plein de joie"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il y a des jours, où la tristesse",
+				"Gagne mon cœur, et me rappelle ma faiblesse",
+				"Parfois mes forces viennent à lâcher",
+				"Mais par sa grâce et plein de foi, j’avancerai"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Oh,",
+				"Il me tient ferme, oh",
+				"Oh,",
+				"Quoiqu’il advienne, oh"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/il-me-tient-par-la-main",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

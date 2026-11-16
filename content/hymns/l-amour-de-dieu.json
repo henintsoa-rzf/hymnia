@@ -13,6 +13,10 @@
 		{
 			"hymnal": "cd",
 			"number": "29"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1006"
 		}
 	],
 	"sections": [
@@ -116,6 +120,11 @@
 			"name": "Conducteur de louange — conducteurdelouange.com",
 			"url": "https://www.conducteurdelouange.com/916",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/lamour-de-dieu",
+			"retrievedAt": "2026-11-16"
 		}
 	]
 }

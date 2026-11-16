@@ -5,6 +5,11 @@
 		{
 			"hymnal": "evangile21",
 			"number": "27"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1016",
+			"title": "Seigneur, mon roc et mon rédempteur"
 		}
 	],
 	"sections": [
@@ -78,5 +83,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/seigneur-mon-roc-et-mon-redempteur-o-lord-my-roc-and-my-redeemer",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

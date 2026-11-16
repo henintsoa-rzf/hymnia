@@ -1,0 +1,104 @@
+{
+	"id": "je-me-confie-en-mon-sauveur",
+	"title": "Je me confie en mon Sauveur",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "508"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je me confie en mon Sauveur",
+				"Quand la nuit cache mon pas",
+				"Quand surgit le doute ou la peur",
+				"J’avancerai par la foi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Je me confie en mon Sauveur",
+				"Quand ma force est épuisée",
+				"Car la présence du Seigneur",
+				"Est le meilleur bouclier"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus, Seigneur Jésus",
+				"Que ma foi grandisse encore",
+				"Jésus, Seigneur Jésus",
+				"Que toi seul, mon coeur adore"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Je me confie en mon Sauveur",
+				"Bien meilleur est son chemin",
+				"Les voies sages du Créateur",
+				"Mènent au repos divin"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Sur cette croix, il fut montré",
+				"Il est digne, je peux suivre celui qui m’a racheté",
+				"Que puis-je offrir ? Car ton don est complet.",
+				"Que mon être, tout mon être",
+				"Soit à toi, à tout jamais"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Jaywan Maxwell",
+			"role": "unspecified"
+		},
+		{
+			"name": "Tiarne Kleyn",
+			"role": "unspecified"
+		},
+		{
+			"name": "Jonny Robinson",
+			"role": "unspecified"
+		},
+		{
+			"name": "Rich Thompson",
+			"role": "unspecified"
+		},
+		{
+			"name": "Michael Farren",
+			"role": "unspecified"
+		},
+		{
+			"name": "Lucy Bennett",
+			"role": "unspecified"
+		},
+		{
+			"name": "Tsiry Andria",
+			"role": "translation"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/je-me-confie-en-mon-sauveur-i-will-trust-my-savior-jesus",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

@@ -1,0 +1,87 @@
+{
+	"id": "saint-esprit",
+	"title": "Saint-Esprit",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "308"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Saint Esprit, souffle du Dieu vivant,",
+				"Me voici, viens me renouveler.",
+				"Produis en moi un vrai changement,",
+				"Par la présence du Ressuscité.",
+				"Que ta parole prenne vie en moi !",
+				"Je ne vois pas, donne-moi la foi",
+				"Et que j'aspire à ta pureté.",
+				"Saint-Esprit, viens me renouveler."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Saint Esprit, fais de moi ta demeure,",
+				"Que je sois un messager de joie,",
+				"Rempli de ta paix et ta douceur,",
+				"Mes pensées guidées selon tes voies,",
+				"Les mains tournées vers la bienfaisance,",
+				"Un amour qui couvre toute offense,",
+				"Des efforts, fruits de grâce et de foi.",
+				"Souffle saint, que Jésus règne en moi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Saint Esprit, dès le commencement",
+				"Tu es vie dans ce que Dieu fait naître.",
+				"Montre encore ici-bas ta puissance,",
+				"Que l'Eglise cherche à mieux te connaître !",
+				"Oh, que nos prières te réjouissent,",
+				"Mon-tre nous la voie du sacrifice,",
+				"Par notre unité, viens révéler",
+				"Le visage du Christ au monde entier."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Keith Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "music"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "lyrics"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "music"
+		},
+		{
+			"name": "LTC",
+			"role": "translation"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/saint-esprit-holy-spirit",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

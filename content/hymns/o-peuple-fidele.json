@@ -17,6 +17,10 @@
 		{
 			"hymnal": "arc",
 			"number": "359"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1023"
 		}
 	],
 	"sections": [
@@ -101,6 +105,11 @@
 			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
 			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#359",
 			"retrievedAt": "2026-11-13"
+		},
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/o-peuple-fidele",
+			"retrievedAt": "2026-11-16"
 		}
 	]
 }

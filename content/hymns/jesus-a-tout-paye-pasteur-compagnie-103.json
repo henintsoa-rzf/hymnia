@@ -1,0 +1,80 @@
+{
+	"id": "jesus-a-tout-paye-pasteur-compagnie-103",
+	"title": "Jésus a tout payé",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "103"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Entends-tu sa douce voix,",
+				"« Mon enfant, prends ma main,",
+				"Bien que faible, viens à moi",
+				"Tu trouveras ton soutien »"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Jésus a tout payé",
+				"Ma dette est acquittée",
+				"La marque du péché effacée",
+				"Mon âme est purifiée"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Dénué de tout mérite",
+				"Mais de grâce comblé",
+				"Par le sang de Christ j’hérite",
+				"D’un habit de sainteté"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Seigneur, seule ta grandeur",
+				"Soutient les miséreux",
+				"Peut briser les cœurs de pierre",
+				"Et purifier le lépreux"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Béni sois-tu, Sauveur sublime",
+				"O libérateur de l’abime",
+				"Béni sois-tu, Sauveur sublime",
+				"Tu m’as racheté de l’abime"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Au grand jour devant le trône",
+				"En lui, glorifié",
+				"Jésus mourut pour mon âme",
+				"À jamais je le louerai !"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/jesus-a-tout-paye-jesus-paid-it-all",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

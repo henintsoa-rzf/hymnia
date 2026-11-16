@@ -1,0 +1,109 @@
+{
+	"id": "plus-haut-encore",
+	"title": "Plus haut encore",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "502"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Plus haut encore, que les étoiles",
+				"Le Fils de Dieu s’est élevé",
+				"Glorieux envol, il se dévoile",
+				"Voici Yahweh chevauchant les nuées"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Plus haut encore, il est monté",
+				"Des dons aux hommes, a déversé",
+				"Par sa puissance, en son Esprit",
+				"Nous serons les témoins de Jésus Christ"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Plus haut encore, sois magnifié !",
+				"Nous élevons nos voix",
+				"Plus loin encore, sois proclamé !",
+				"Tout l’honneur est à toi"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élevé, dans la gloire",
+				"Exalté, Roi des rois",
+				"A jamais, nous chanterons",
+				"La beauté de ton nom !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Plus haut encore, tu nous emmènes",
+				"La vie nouvelle, a commencé !",
+				"Les joies du ciel nous appartiennent",
+				"Nous sommes assis, Jésus, à tes côtés"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Plus haut encore, sois magnifié !",
+				"Nous élevons nos voix",
+				"Plus loin encore, sois proclamé !",
+				"Tout l’honneur est à toi"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Élevé, dans la gloire",
+				"Exalté, Roi des rois",
+				"A jamais, nous chanterons",
+				"La beauté de ton nom !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Sans pareil, sur la terre",
+				"Sans égal, dans le ciel",
+				"Tu remplis tout l’univers",
+				"De splendeur et merveilles"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/plus-haut-encore",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

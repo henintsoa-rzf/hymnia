@@ -1,0 +1,95 @@
+{
+	"id": "est-il-digne",
+	"title": "Est-il digne ?",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "503"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Vois-tu un monde en souffrance ? Je vois",
+				"L'ombre du monde en croissance ? Je vois",
+				"Mais sais-tu qu'aucun voile sombre n'arrêtera la lumière ? Je crois !",
+				"Et que tout chose un jour pourra renaître ? Je crois !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui donc est digne ? Qui donc est parfait ?",
+				"Qui peut briser le sceau, ouvrir le rouleau, et le regarder ?",
+				"Le Lion de Juda, du tombeau vainqueur",
+				"Le Fils de David, l'Agneau sacrifié, le Libérateur",
+				"Est-il digne ? Est-il digne ?",
+				"De l'honneur, la louange et la gloire ?",
+				"Digne est-il de tout ça ?",
+				"Je crois !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Le Père est-il rempli d'amour ? Il m'aime !",
+				"L'Esprit agit-il en ce jour ? Lui-même !",
+				"Et Jésus notre Messie nous gardera-t-il à jamais ? Il m'aime !",
+				"Dieu nous prépare une place à ses côtés ? Il m'aime !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Qui donc est digne ? Qui donc est parfait ?",
+				"Qui peut briser le sceau, ouvrir le rouleau, et le regarder ?",
+				"Le Lion de Juda, du tombeau vainqueur",
+				"Le Fils de David, l'Agneau sacrifié, le Libérateur",
+				"De chaque peuple et tribu, chaque langue et pays",
+				"Il a fait de nous tous les prêtres de Dieu pour régner avec lui",
+				"Est-il digne ? Est-il digne ?",
+				"De l'honneur, la louange et la gloire ?",
+				"Est-il digne ? Est-il digne ?",
+				"Digne est-il de tout ça ?",
+				"Je crois !"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Je crois, je crois !",
+				"Il est digne, il est digne",
+				"Je crois, je crois !",
+				"Il est digne, il est digne",
+				"Je crois !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Andrew Peterson",
+			"role": "unspecified"
+		},
+		{
+			"name": "Ben Shive",
+			"role": "unspecified"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/est-il-digne-is-he-worthy",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

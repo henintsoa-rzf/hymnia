@@ -1,0 +1,89 @@
+{
+	"id": "la-gloire-du-calvaire",
+	"title": "La gloire du Calvaire",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "302"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur tu m’appelles à toi",
+				"Tu me conduis à la croix",
+				"J’y contemple la beauté",
+				"De la grâce imméritée",
+				"Là sans retenue",
+				"Ton amour a vaincu",
+				"Les bras ouverts tu m’as sauvé !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Le cœur rempli de mille chants",
+				"Célébrant la gloire du calvaire",
+				"Oh j’aimerai, à chaque instant",
+				"Proclamer Jésus qui s’est offert",
+				"O Seigneur montre-moi",
+				"Toute la gloire de la croix !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Les pécheurs trouvent la joie",
+				"Au triomphe de la croix",
+				"Par le Fils sacrifié",
+				"La colère sainte est apaisée",
+				"Ton peuple ici-bas",
+				"Rejoint les saints des cieux",
+				"Exaltant l’Agneau victorieux !"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Jusqu’à la fin des temps",
+				"Nous entonnons ce chant",
+				"Jésus-Christ libère",
+				"C’est la gloire du Calvaire"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Steve Cook",
+			"role": "lyrics"
+		},
+		{
+			"name": "Steve Cook",
+			"role": "music"
+		},
+		{
+			"name": "Vikki Cook",
+			"role": "lyrics"
+		},
+		{
+			"name": "Vikki Cook",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/la-gloire-du-calvaire",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

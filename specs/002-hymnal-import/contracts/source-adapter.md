@@ -39,3 +39,15 @@ interface AdapterContext {
    report lists.
 5. Every adapter has fixture tests: at least 5 saved pages, including one with a chorus, one
    with no credits, and one that must fail with a reason.
+
+## Later additions
+
+- **`RawHymn.warnings`** (optional, `string[]`, specs/010): doubts about an extraction (a line
+  that could not be classified, stanzas that could not be split). Reconciliation lists them in
+  the report under "À vérifier à la main" (`HymnalReport.toCheck`). Adapters that have no doubts
+  leave it out.
+- **One page, several numbers** (specs/010): when `listEntries` returns two refs of the same
+  hymnal with the same URL, they are one hymn with one entry per number (a song on two albums).
+  Reconciliation attaches the second number to the hymn the first one is linked to, on the exact
+  URL, before matching. See
+  [specs/010-pasteur-compagnie-hymnal/contracts/petc-adapter.md](../../010-pasteur-compagnie-hymnal/contracts/petc-adapter.md).

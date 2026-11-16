@@ -1,0 +1,83 @@
+{
+	"id": "sur-le-mont-du-calvaire-pasteur-compagnie-205",
+	"title": "Sur le mont du Calvaire",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "205"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sur le mont du calvaire il était une croix",
+				"Où Jésus souffrit tant de douleurs,",
+				"Oui, c’est là qu’il mourut, sur cet infâme bois",
+				"Pour sauver le plus vil des pécheurs."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Cette croix me sera toujours chère :",
+				"Elle est gloire et victoire pour moi.",
+				"Et par elle, en la maison du Père,",
+				"La couronne est offerte à ma foi."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Cette croix, où Jésus du monde est rejeté,",
+				"A pour moi le plus grand des attraits :",
+				"C’est là que l’Agneau saint, mon Sauveur a porté",
+				"Mes fardeaux, mes douleurs, mes forfaits."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sur la croix où Jésus versa pour nous son sang,",
+				"Je contemple, ébloui, sa beauté.",
+				"Sur la mort, le péché, son combat triomphant",
+				"Fait de moi son heureux racheté."
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"M’appuyant avec foi sur la croix de Jésus",
+				"Son opprobre, je veux le porter",
+				"Jusqu’au jour bienheureux où parmi les élus,",
+				"Dans le ciel, je pourrai l’exalter."
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "George Bennard",
+			"role": "lyrics"
+		},
+		{
+			"name": "George Bennard",
+			"role": "music"
+		},
+		{
+			"name": "E. Oemkens",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/sur-le-mont-du-calvaire-the-old-rugged-cross",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

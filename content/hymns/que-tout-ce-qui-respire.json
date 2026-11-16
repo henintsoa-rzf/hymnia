@@ -1,0 +1,79 @@
+{
+	"id": "que-tout-ce-qui-respire",
+	"title": "Que tout ce qui respire",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "407"
+		}
+	],
+	"sections": [
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Que tout ce qui respire",
+				"Loue le Seigneur",
+				"Que tout ce qui respire",
+				"Loue le Seigneur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Louez Dieu vous les animaux, les poissons et les oiseaux",
+				"Louez-le en dansant pour lui, en hommage à la vie",
+				"Louez-le, si vous êtes costauds – ou pas !",
+				"Louez-le si vous êtes beaux – ou pas !",
+				"Louez-le de tout votre cœur, il est Seigneur, il est Seigneur !"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Que tout ce qui respire",
+				"Loue le Seigneur",
+				"Ce qui respire",
+				"Loue le Seigneur",
+				"(x2)"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Louez-le pour la création, louez-le pour sa grandeur",
+				"Louez-le pour sa compassion, pour l’amour d’un Sauveur",
+				"Louez-le, si tout va très bien – ou pas !",
+				"Louez-le, pour son soutien – oh oui !",
+				"Louez-le de tout votre cœur, il est Seigneur, il est Seigneur !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Louez-le pour votre appétit, pour le don de mets garnis",
+				"Louez-le de dormir la nuit, à la chaleur d’un abri",
+				"Louez-le à petite voix – ou pas !",
+				"Louez-le d’un cri de joie – wehee !",
+				"Louez-le de tout votre cœur, il est Seigneur, il est Seigneur !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/que-tout-ce-qui-respire",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

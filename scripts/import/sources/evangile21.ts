@@ -142,11 +142,11 @@ export function numberEntries(
 }
 
 // ---------------------------------------------------------------------------------------------
-// Song page
+// Song page (the helpers are shared with the Pasteur & Compagnie adapter, petc.ts)
 
-type Node = Parameters<CheerioAPI>[0];
-type Line = { text: string; linkOnly: boolean };
-type Token = { kind: 'line'; line: Line } | { kind: 'break' };
+export type Node = Parameters<CheerioAPI>[0];
+export type Line = { text: string; linkOnly: boolean };
+export type Token = { kind: 'line'; line: Line } | { kind: 'break' };
 
 const BLOCK = /^(p|div|h[1-6]|li|ul|ol|blockquote|section|header|footer|table|tr|td)$/u;
 const SKIP = /^(script|style|iframe|svg|noscript|figure|video|audio|button|form)$/u;
@@ -157,7 +157,7 @@ const LINK_FILLER = /^[\s⎪|–—:-]*(?:t[ée]l[ée]chargements?)?[\s⎪|–�
  * The text of a node as lines and stanza breaks. A block holding `<br>` is a stanza on its own;
  * an empty block is a break; any other block is one line.
  */
-function tokenize($: CheerioAPI, root: Node): Token[] {
+export function tokenize($: CheerioAPI, root: Node): Token[] {
 	const tokens: Token[] = [];
 	let text = '';
 	let plain = '';
@@ -198,10 +198,10 @@ function tokenize($: CheerioAPI, root: Node): Token[] {
 	return tokens;
 }
 
-const LABEL =
+export const LABEL =
 	/^(couplets?|strophe|pr[ée]-?\s?refrain|refrain|ch(?:œ|oe)ur|pont|bridge|introduction|intro|fin|coda|tag|final)\s*(\d+)?\s*:?$/iu;
 
-function labelSection(label: RegExpExecArray): Pick<Section, 'type' | 'number'> {
+export function labelSection(label: RegExpExecArray): Pick<Section, 'type' | 'number'> {
 	const name = normalizeText(label[1]);
 	const n = label[2] ? Number(label[2]) : null;
 	if (/^(couplets?|strophe)$/u.test(name)) return { type: 'verse', number: n };
@@ -223,7 +223,7 @@ const MIN_LYRIC_LINES = 4;
 // Credits -------------------------------------------------------------------------------------
 
 /** A line that holds credits starts with one of these. */
-const CREDIT_START =
+export const CREDIT_START =
 	/^(?:©|copyright\b|note de l|paroles?\b|musique\b|mélodie\b|air\b|tr\.|traduct|composition\b|auteurs?\s*:|titre original|production\b)/iu;
 
 const CLAUSE = new RegExp(
@@ -260,7 +260,7 @@ function namesIn(text: string): string[] {
 		.filter((part) => /\p{L}/u.test(part) && !/^\d/u.test(part));
 }
 
-function addCredits(text: string, credits: Credit[]) {
+export function addCredits(text: string, credits: Credit[]) {
 	const matches = [...text.matchAll(CLAUSE)];
 	matches.forEach((match, i) => {
 		const group = Object.entries(match.groups ?? {}).find(([, v]) => v !== undefined)?.[0];
@@ -276,7 +276,7 @@ function addCredits(text: string, credits: Credit[]) {
 }
 
 /** "Pete James et Aaron Keyes", "Jordan Kaufflin, Matt Merker,": a line of names only. */
-function namesLine(text: string): string[] | null {
+export function namesLine(text: string): string[] | null {
 	const before = text.split('©')[0].replace(/[.,]\s*$/u, '');
 	const parts = before.split(/\s*,\s*|\s+et\s+|\s*&\s*/u).map((p) => cleanLine(p)).filter(Boolean);
 	return parts.length > 0 && parts.every((p) => NAME.test(p)) ? parts : null;

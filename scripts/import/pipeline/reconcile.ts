@@ -7,6 +7,8 @@
  * - linked, new fingerprint → pending change (content changes only on `accept`);
  * - not linked, its hymnal + number already owned by a hymn with the same text → adopted;
  *   owned by a hymn with other text → conflict (nothing written);
+ * - not linked, free, and the same page already linked under another number of the hymnal →
+ *   attached to that hymn (a song on two albums, specs/010 research R5);
  * - not linked, free → new hymn (or attached to an existing one by matching, US3).
  * Linked entries no longer listed at the source → missing (never deleted).
  */
@@ -114,6 +116,12 @@ export function reconcile(input: ReconcileInput): Plan {
 			r.unknownCredits.push({ number: raw.number, labels: raw.unknownCredits });
 		}
 		const item = (hymnId: string) => ({ number: raw.number, hymnId, title: raw.title });
+		/** The adapter's doubts about this extraction, for a manual check (specs/010 R7). */
+		const toCheck = (hymnId: string) => {
+			if (raw.warnings && raw.warnings.length > 0) {
+				r.toCheck.push({ number: raw.number, hymnId, title: raw.title, warnings: raw.warnings });
+			}
+		};
 
 		const link = byKey.get(key);
 		if (link) {
@@ -122,6 +130,7 @@ export function reconcile(input: ReconcileInput): Plan {
 				r.conflicts.push({ number: raw.number, reason: `linked hymn "${link.hymnId}" not found` });
 				continue;
 			}
+			toCheck(link.hymnId);
 			if (link.status === 'missing') link.status = 'active';
 			if (link.lastSeenAt !== today) link.lastSeenAt = today;
 			link.url = raw.url;
@@ -140,8 +149,11 @@ export function reconcile(input: ReconcileInput): Plan {
 			continue;
 		}
 
-		/** Adds this source's entry (if new) and text to an existing hymn. */
-		const attach = (targetId: string) => {
+		/**
+		 * Adds this source's entry (if new) and text to an existing hymn. With `samePage`, the hymn
+		 * already comes from this very page under another number: only the entry is added.
+		 */
+		const attach = (targetId: string, samePage = false) => {
 			const target = hymnById(targetId)!;
 			const hasEntry = target.entries.some(
 				(e) => entryKey(e.hymnal, e.number) === entryKey(raw.hymnal, raw.number)
@@ -153,11 +165,10 @@ export function reconcile(input: ReconcileInput): Plan {
 					: [...target.entries, { hymnal: raw.hymnal, number: raw.number }]
 			};
 			const otherSource = { name: source.name, url: raw.url, retrievedAt: raw.retrievedAt };
-			const switches = input.prefersSource?.(
-				raw.hymnal,
-				sourceIdOf(target, state, links),
-				source.id
-			);
+			const switches =
+				!samePage && input.prefersSource?.(raw.hymnal, sourceIdOf(target, state, links), source.id);
+			const knownSource =
+				target.source.url === raw.url || (target.alternateSources ?? []).some((s) => s.url === raw.url);
 			// Each hymnal keeps the title it prints (HymnalEntry.title): the new entry gets this
 			// page's title; when the reference text changes, the other entries keep the old one.
 			const isNew = (e: { hymnal: string; number: string }) =>
@@ -175,7 +186,7 @@ export function reconcile(input: ReconcileInput): Plan {
 				updated.credits = raw.credits.length > 0 ? raw.credits : target.credits;
 				updated.source = otherSource;
 				updated.alternateSources = [...(target.alternateSources ?? []), target.source];
-			} else {
+			} else if (!knownSource) {
 				updated.alternateSources = [...(target.alternateSources ?? []), otherSource];
 			}
 			updated.entries = tidyEntryTitles(updated.entries, updated.title);
@@ -189,6 +200,7 @@ export function reconcile(input: ReconcileInput): Plan {
 			links.push(created);
 			byKey.set(key, created);
 			r.autoMerged.push(item(updated.id));
+			toCheck(updated.id);
 		};
 
 		const owner = ownerOf(raw.hymnal, raw.number);
@@ -201,6 +213,7 @@ export function reconcile(input: ReconcileInput): Plan {
 				links.push(adopted);
 				byKey.set(key, adopted);
 				r.unchanged.push(item(owner));
+				toCheck(owner);
 			} else if (ownerHymn && input.sameHymn?.(raw, ownerHymn)) {
 				// The same hymn from another source: an alternate source (FR-017).
 				attach(owner);
@@ -210,6 +223,22 @@ export function reconcile(input: ReconcileInput): Plan {
 					reason: `${raw.hymnal} ${raw.number} is already used by "${owner}" with another text`
 				});
 			}
+			continue;
+		}
+
+		// The same page under another number of the same hymnal (a song on two albums,
+		// specs/010 research R5): one hymn with both entries. The matcher never merges within a
+		// hymnal, so this is decided here, on the exact URL.
+		const samePage = links.find(
+			(l) =>
+				l.source === source.id &&
+				l.hymnal === raw.hymnal &&
+				l.url === raw.url &&
+				entryKey(l.hymnal, l.number) !== entryKey(raw.hymnal, raw.number) &&
+				hymnById(l.hymnId) !== undefined
+		);
+		if (samePage) {
+			attach(samePage.hymnId, true);
 			continue;
 		}
 
@@ -234,6 +263,7 @@ export function reconcile(input: ReconcileInput): Plan {
 		links.push(created);
 		byKey.set(key, created);
 		r.new.push(item(id));
+		toCheck(id);
 		if (raw.credits.length === 0) r.noCredits.push(item(id));
 		if (match.kind === 'possible') r.possibleDuplicates.push(...match.candidates);
 	}

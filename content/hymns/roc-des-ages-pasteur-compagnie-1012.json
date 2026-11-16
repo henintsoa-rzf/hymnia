@@ -1,0 +1,81 @@
+{
+	"id": "roc-des-ages-pasteur-compagnie-1012",
+	"title": "Roc des âges",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1012"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Roc des âges fendu pour moi",
+				"Me voici caché en toi",
+				"Par cette eau et par ce sang",
+				"Qui ont coulé de ton flanc",
+				"Purge-moi de ma souillure",
+				"Sauve-moi et rends-moi pur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Aucune oeuvre de mes mains",
+				"Ne satisfait un Dieu saint",
+				"Si mon zèle me consumait",
+				"Que mes larmes sans fin coulaient",
+				"Du péché je ne peux fuir",
+				"Ta grâce seule doit me couvrir"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les mains vides je viens à toi",
+				"Pour l'accrocher à la croix",
+				"Nu, toi seul, peux m'habiller",
+				"Me voici, faible, égaré",
+				"Sali, à la source je cours",
+				"Lave-moi, sois mon secours !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand ma bourse finira",
+				"Quand chancellera mon pas",
+				"Vers toi je m'envolerai",
+				"Devant toi, serai jugé",
+				"Roc des âges, fendu pour moi",
+				"Me voici caché en toi"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Augustus Toplady",
+			"role": "unspecified"
+		},
+		{
+			"name": "Thomas Hastings",
+			"role": "unspecified"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/roc-des-ages-roc-of-ages",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

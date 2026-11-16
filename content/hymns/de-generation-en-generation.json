@@ -1,0 +1,75 @@
+{
+	"id": "de-generation-en-generation",
+	"title": "De génération en génération",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "401"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous fêtons avec Abraham",
+				"Le Dieu qui peut sauver nos âmes",
+				"Il a pourvu, au sacrifice",
+				"Dieu nous a donné son Fils"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous ne viendrons pas les mains vides",
+				"Pour louer le Dieu de David",
+				"Voici notre offrande, pour le Grand Roi",
+				"Nos vies, notre amour, notre joie"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"De génération en génération",
+				"Nous louons le plus beau nom",
+				"Entends l’appel, de l’Éternel",
+				"Rejoins la chorale du ciel"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Célébrons avec Josaphat",
+				"Face aux menaces et aux combats",
+				"Nous espérons, dans le Seigneur",
+				"En lui nous sommes vainqueurs"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Implorons avec Néhémie",
+				"Que Dieu réveille notre pays",
+				"Par Sa Parole, et Son Esprit",
+				"Que la louange se multiplie"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/de-generation-en-generation",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

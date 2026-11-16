@@ -1,0 +1,71 @@
+{
+	"id": "a-l-agneau-sur-son-trone-pasteur-compagnie-209",
+	"title": "A l'Agneau sur son trône",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "209"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"À l’Agneau sur son trône",
+				"Apportons la couronne !",
+				"Il l’a conquise sur la croix,",
+				"Il est le Roi des rois !",
+				"Éveille-toi, mon âme !",
+				"Bénis, adore, acclame",
+				"Avec tous les anges du ciel,",
+				"Jésus, Emmanuel !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Il eut la croix pour trône,",
+				"L’épine pour couronne !",
+				"Mais le Père a glorifié",
+				"Son Fils crucifié.",
+				"Au Prince de la vie,",
+				"La mort est asservie,",
+				"Hors de la tombe il est monté,",
+				"Christ est ressuscité !"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"À l’Agneau tous les trônes",
+				"Et toutes les couronnes !",
+				"Il est le Maître souverain,",
+				"Les temps sont dans sa main.",
+				"Rendons l’honneur suprême",
+				"À celui qui nous aime",
+				"Et qui revient victorieux",
+				"Pour nous ouvrir les cieux !"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Saillens",
+			"role": "unspecified"
+		},
+		{
+			"name": "G. Elvey",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/a-l-agneau-sur-son-trone",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

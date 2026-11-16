@@ -22,7 +22,12 @@ export const RawHymnSchema = z.strictObject({
 	/** Counts of removed chord/annotation kinds, for the report. */
 	strippedMarkup: z.record(z.string(), z.number().int().nonnegative()),
 	/** Credit labels the adapter could not map to a role (reported, not stored). */
-	unknownCredits: z.array(z.string()).default([])
+	unknownCredits: z.array(z.string()).default([]),
+	/**
+	 * Doubts for the maintainer, listed in the report's "À vérifier à la main"
+	 * (specs/010-pasteur-compagnie-hymnal research R7).
+	 */
+	warnings: z.array(z.string()).optional()
 });
 
 export type RawHymn = z.infer<typeof RawHymnSchema>;

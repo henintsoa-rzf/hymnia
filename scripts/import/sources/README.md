@@ -64,3 +64,24 @@ reads its HTML export (`…/export?format=html`, allowed by robots.txt) as one p
 is that URL with a fragment (`#5A`), so the fetcher requests it once per run. Headings carry the
 numbers, the doc's sections become the hymnal's `parts` in `content/hymnals.json`. Fixtures: an
 excerpt of the export in `tests/import/fixtures/arc/`.
+
+## A hymnal split by albums (Pasteur & Compagnie)
+
+pasteuretcompagnie.com (`petc.ts`, specs/010-pasteur-compagnie-hymnal) lists its songs in one
+collection and its albums in another; each album's description holds a numbered tracklist.
+
+- **Albums are parts.** Each album is a part of the hymnal in `content/hymnals.json`, at its own
+  hundred in release order (Hymnes21 2018 from 100 … Plus haut encore from 500); the songs on no
+  album are the last part, "Hors album", from 1001. `PETC_ALBUMS` and the parts must stay in
+  step (a test checks it).
+- **Numbers are pinned** in `PETC_NUMBERS`: album hundred + track number (P&C 307 = album at 300,
+  track 7), "Hors album" oldest product first. A new album or song gets the next free number and
+  a `not pinned yet` log: pin it in the same commit as its content. A tracklist that changes
+  never moves a number; the difference is logged.
+- **A song on two albums** is one hymn with two entries. Generic pipeline rule: two refs of one
+  source with the same URL in one hymnal are the same hymn (`reconcile`, "same page").
+- **A track with no song page** takes its lyrics from the lyrics page its album links to
+  (KIDS: `…/pages/album-kids-paroles#<track>`), or is returned as `<album>#track-<n>`: the parse
+  fails with `no lyrics on the site: …`, so the report lists it under "Ignorés" on every run.
+- **Doubts go to the report.** Any adapter may return `warnings` on a `RawHymn` (a line it could
+  not classify, stanzas it could not split): they are listed under "À vérifier à la main".

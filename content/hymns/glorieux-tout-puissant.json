@@ -1,0 +1,87 @@
+{
+	"id": "glorieux-tout-puissant",
+	"title": "Glorieux Tout-Puissant",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1003"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Majesté, ta gloire resplendit",
+				"Lumineuse, plus que les étoiles",
+				"Eblouis, nous craignons, honorons",
+				"Ton puissant nom"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Glorieux, Tout-Puissant",
+				"Nous élevons nos chants",
+				"Digne es-tu Seigneur",
+				"Ta beauté étonne",
+				"Notre joie entonne :",
+				"Merveilleux Sauveur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Majesté, tu créas l’univers",
+				"Tes décrets ne changent jamais",
+				"Au-dessus de toute la terre",
+				"Tu es le Roi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Majesté, nous voici réunis",
+				"Pour louer, jusqu’à ton retour",
+				"Tout genou, fléchira devant Toi",
+				"Le seul vrai Dieu"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Joel Sczebel",
+			"role": "music"
+		},
+		{
+			"name": "Todd Twining",
+			"role": "music"
+		},
+		{
+			"name": "Joel Sczebel",
+			"role": "lyrics"
+		},
+		{
+			"name": "Todd Twining",
+			"role": "lyrics"
+		},
+		{
+			"name": "Bob Kauflin",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/glorieux-tout-puissant-glorious-and-mighty",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

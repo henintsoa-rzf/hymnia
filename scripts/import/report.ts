@@ -11,6 +11,8 @@ export type Item = { number: string; hymnId: string; title?: string };
 export type SkipItem = { number: string; url: string; reason: string };
 export type DuplicateItem = { a: string; b: string; similarity: number; reason: string };
 export type ConflictItem = { number: string; reason: string };
+/** A hymn whose extraction the adapter doubts (RawHymn.warnings, specs/010 research R7). */
+export type CheckItem = { number: string; hymnId: string; title: string; warnings: string[] };
 
 export type HymnalReport = {
 	new: Item[];
@@ -24,6 +26,7 @@ export type HymnalReport = {
 	noCredits: Item[];
 	rightsInherited: Item[];
 	unknownCredits: { number: string; labels: string[] }[];
+	toCheck: CheckItem[];
 	strippedMarkup: Record<string, number>;
 };
 
@@ -61,6 +64,7 @@ export const emptyHymnalReport = (): HymnalReport => ({
 	noCredits: [],
 	rightsInherited: [],
 	unknownCredits: [],
+	toCheck: [],
 	strippedMarkup: {}
 });
 
@@ -87,6 +91,7 @@ const SECTION_TITLES: [keyof HymnalReport, string][] = [
 	['missing', 'Absents de la source'],
 	['noCredits', 'Sans crédits'],
 	['unknownCredits', 'Crédits non reconnus'],
+	['toCheck', 'À vérifier à la main'],
 	['rightsInherited', 'Droits hérités']
 ];
 
@@ -104,6 +109,10 @@ function rows(key: keyof HymnalReport, report: HymnalReport): string[] {
 			);
 		case 'unknownCredits':
 			return report.unknownCredits.map((u) => `| ${u.number} | ${cell(u.labels.join(', '))} | |`);
+		case 'toCheck':
+			return report.toCheck.map(
+				(c) => `| ${c.number} | ${cell(`${c.title} : ${c.warnings.join(' ; ')}`)} | \`${c.hymnId}\` |`
+			);
 		case 'strippedMarkup':
 			return [];
 		default:
@@ -182,5 +191,8 @@ export async function loadReport(root: string, runId?: string): Promise<RunRepor
 			?.replace(/\.json$/, '');
 	}
 	if (!id) return undefined;
-	return readJson<RunReport>(join(dir, `${id}.json`)).catch(() => undefined);
+	const report = await readJson<RunReport>(join(dir, `${id}.json`)).catch(() => undefined);
+	// Reports written before `toCheck` existed (specs/010) still load.
+	for (const h of Object.values(report?.perHymnal ?? {})) h.toCheck ??= [];
+	return report;
 }

@@ -13,6 +13,10 @@
 		{
 			"hymnal": "cd",
 			"number": "88"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1026"
 		}
 	],
 	"sections": [
@@ -74,6 +78,11 @@
 			"name": "Conducteur de louange — conducteurdelouange.com",
 			"url": "https://www.conducteurdelouange.com/892",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/noel-jesus-est-ne",
+			"retrievedAt": "2026-11-16"
 		}
 	]
 }

@@ -28,6 +28,11 @@
 			"hymnal": "arc",
 			"number": "420",
 			"title": "Tel que je suis"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "208",
+			"title": "Tel que je suis"
 		}
 	],
 	"sections": [
@@ -114,6 +119,11 @@
 			"name": "Arc-en-ciel — document de Pierre Muller (Google Docs)",
 			"url": "https://docs.google.com/document/d/1-ygNIoB_dR9PDsrlMzMBnKGh5NLIkJsN/export?format=html#420",
 			"retrievedAt": "2026-11-13"
+		},
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/tel-que-je-suis",
+			"retrievedAt": "2026-11-16"
 		}
 	]
 }

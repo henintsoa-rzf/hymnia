@@ -1,0 +1,91 @@
+{
+	"id": "chantons-l-histoire-d-emmanuel",
+	"title": "Chantons l'histoire d'Emmanuel",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1027"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Chantons l'histoire d'Emmanuel",
+				"Le Messie qui fut annoncé",
+				"Dans l'obscurité de Bethléhem",
+				"L'aube d'un nouveau jour s'est levée",
+				"Voyez-le dans la paille fraîche",
+				"Louez l'enfant né dans la crèche",
+				"Grand et glorieux, c'est le Fils de Dieu",
+				"Rejoignons le choeur des anges"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Gloria, gloria",
+				"Gloriua, gloria"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Accueillons l'enfant Emmanuel",
+				"Lui le Roi venu sans couronne",
+				"Né de la vierge, fragile et frêle",
+				"Notre Dieu créateur se fait homme",
+				"Ô sagesse du Dieu sauveur",
+				"Bergers, mages, lui rendent honneur",
+				"Grâce et majesté, quelle humilité",
+				"À genoux venez l'adorer"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Chanter l'histoire d'Emmanuel",
+				"Joie et paix pour les coeurs brisés",
+				"Levez les yeux car le Roi du ciel",
+				"Vient dans le monde chasser la nuit",
+				"Que sa gloire éclate sur Terre",
+				"Proclamez la Bonne Nouvelle",
+				"Il est le chemin, louons-le sans fin",
+				"Chantons le beau nom de Jésus"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Keith Getty",
+			"role": "unspecified"
+		},
+		{
+			"name": "Matt Boswell",
+			"role": "unspecified"
+		},
+		{
+			"name": "Matt Papa",
+			"role": "unspecified"
+		},
+		{
+			"name": "Stuart Townend",
+			"role": "unspecified"
+		},
+		{
+			"name": "Tsiry Andriamananpisoa",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/chantons-lhistoire-demmanuel",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

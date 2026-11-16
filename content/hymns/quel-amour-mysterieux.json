@@ -5,6 +5,10 @@
 		{
 			"hymnal": "evangile21",
 			"number": "17"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1013"
 		}
 	],
 	"sections": [
@@ -69,5 +73,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/quel-amour-mysterieux-what-wondrous-love-is-this",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

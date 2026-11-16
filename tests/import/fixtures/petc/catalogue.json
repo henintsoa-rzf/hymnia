@@ -1,0 +1,563 @@
+{
+	"_comment": "Catalogue of pasteuretcompagnie.com on 2026-11-16: song cards of the Partitions list (in list order, 8 per page) and album tracklists (titles only, no lyrics). Used to rebuild the listing in tests (specs/010).",
+	"songs": [
+		{
+			"handle": "jesus-merci-jesus-thank-you",
+			"title": "Jésus merci (Jesus Thank You)"
+		},
+		{
+			"handle": "non-par-moi",
+			"title": "Non par moi mais par Christ en moi (Yet not I but Through Christ in me)"
+		},
+		{
+			"handle": "il-me-gardera-he-will-hold-me-fast",
+			"title": "Il me gardera (He Will Hold me Fast)"
+		},
+		{
+			"handle": "je-mattends-a-toi-i-will-wait-for-you",
+			"title": "Je m'attends à toi (I will wait for you)"
+		},
+		{
+			"handle": "jesus-a-tout-paye-jesus-paid-it-all",
+			"title": "Jésus a tout payé (Jesus paid it all)"
+		},
+		{
+			"handle": "sa-grace-est-plus-grande-his-mercy-is-more",
+			"title": "Sa grâce est plus grande (His mercy is more)"
+		},
+		{
+			"handle": "coule-a-flots-come-thou-fount",
+			"title": "Coule à flots (Come Thou Fount)"
+		},
+		{
+			"handle": "grace-infinie",
+			"title": "Grâce infinie (Amazing Grace)"
+		},
+		{
+			"handle": "nous-voici",
+			"title": "Nous voici"
+		},
+		{
+			"handle": "joie-dans-le-monde-joy-to-the-world",
+			"title": "Joie dans le monde (Joy to the world)"
+		},
+		{
+			"handle": "seigneur-mon-roc-et-mon-redempteur-o-lord-my-roc-and-my-redeemer",
+			"title": "Seigneur, mon roc et mon rédempteur (O Lord, my Rock and my Redeemer)"
+		},
+		{
+			"handle": "saint-esprit-holy-spirit",
+			"title": "Saint-Esprit (Holy Spirit)"
+		},
+		{
+			"handle": "vous-creatures-du-grand-roi-all-creatures-of-our-god-and-king",
+			"title": "Vous, créatures du grand Roi (All Creatures of our God and King)"
+		},
+		{
+			"handle": "la-aussi-psaume-139",
+			"title": "Là aussi (Psaume 139)"
+		},
+		{
+			"handle": "sur-le-mont-du-calvaire-the-old-rugged-cross",
+			"title": "Sur le mont du Calvaire (The Old Rugged Cross)"
+		},
+		{
+			"handle": "vois-lamour-here-is-love",
+			"title": "Vois l'amour (Here is love)"
+		},
+		{
+			"handle": "psaume-32",
+			"title": "Psaume 32"
+		},
+		{
+			"handle": "psaume-150",
+			"title": "Psaume 150"
+		},
+		{
+			"handle": "viens-et-vois-were-you-there",
+			"title": "Viens et vois (Were you There)"
+		},
+		{
+			"handle": "mon-dieu-plus-pres-de-toi-nearer-my-god-to-thee",
+			"title": "Mon Dieu plus près de toi (Nearer my God to Thee)"
+		},
+		{
+			"handle": "parle-nous",
+			"title": "Parle-nous (Speak O Lord)"
+		},
+		{
+			"handle": "a-l-agneau-sur-son-trone",
+			"title": "A l'Agneau sur son trône (Crown Him with Many Crowns)"
+		},
+		{
+			"handle": "au-dessus-des-royaumes",
+			"title": "Au-dessus des royaumes (There is a Higher Throne)"
+		},
+		{
+			"handle": "purifie-1",
+			"title": "Purifié"
+		},
+		{
+			"handle": "o-jesus-je-taime-my-jesus-i-love-thee",
+			"title": "Ô Jésus je t'aime (My Jesus I love Thee)"
+		},
+		{
+			"handle": "hymnes-a-la-joie-joyful-joyful-we-adore-thee",
+			"title": "Hymne à la joie (Joyful, Joyful we Adore Thee)"
+		},
+		{
+			"handle": "mon-ame-eveille-toi-1",
+			"title": "Mon âme éveille-toi"
+		},
+		{
+			"handle": "plus-haut-encore",
+			"title": "Plus haut encore"
+		},
+		{
+			"handle": "roc-des-ages-roc-of-ages",
+			"title": "Roc des âges (Roc of Ages)"
+		},
+		{
+			"handle": "le-seul-dieu-trois-fois-saint",
+			"title": "Le seul Dieu trois fois saint (Only a Holy God)"
+		},
+		{
+			"handle": "redempteur-adorable",
+			"title": "Rédempteur adorable"
+		},
+		{
+			"handle": "viens-suis-moi-1",
+			"title": "Viens suis-moi"
+		},
+		{
+			"handle": "chef-couvert-de-blessures-1",
+			"title": "Chef couvert de blessures"
+		},
+		{
+			"handle": "folle-nuit-de-la-croix",
+			"title": "Folle nuit de la croix"
+		},
+		{
+			"handle": "sois-seul-ma-vision-1",
+			"title": "Sois seul ma vision"
+		},
+		{
+			"handle": "par-la-foi",
+			"title": "Par la foi"
+		},
+		{
+			"handle": "en_memoire_de_ton_nom",
+			"title": "En mémoire de ton nom"
+		},
+		{
+			"handle": "quel-amour-mysterieux-what-wondrous-love-is-this",
+			"title": "Quel amour mystérieux (What wondrous love is this)"
+		},
+		{
+			"handle": "la-gloire-du-calvaire",
+			"title": "La gloire du Calvaire (The glories of Calvary)"
+		},
+		{
+			"handle": "o-dieu-ta-grace-grace-greater-than-our-sins",
+			"title": "Ô Dieu ta grâce (Grace Greater than our Sins)"
+		},
+		{
+			"handle": "alleluia-quel-grand-sauveur",
+			"title": "Alléluia, quel grand Sauveur"
+		},
+		{
+			"handle": "lespoir-1",
+			"title": "L'espoir"
+		},
+		{
+			"handle": "glorieux-tout-puissant-glorious-and-mighty",
+			"title": "Glorieux Tout-Puissant (Glorious and Mighty)"
+		},
+		{
+			"handle": "enseigne-moi",
+			"title": "Enseigne-moi"
+		},
+		{
+			"handle": "viens-decouvrir-cette-fontaine",
+			"title": "Viens découvrir cette fontaine"
+		},
+		{
+			"handle": "tel-que-je-suis",
+			"title": "Tel que je suis (Just as I am)"
+		},
+		{
+			"handle": "de-generation-en-generation",
+			"title": "De génération en génération"
+		},
+		{
+			"handle": "christ-notre-esperance",
+			"title": "Notre espérance est en Christ"
+		},
+		{
+			"handle": "est-il-digne-is-he-worthy",
+			"title": "Est-il digne ? (Is He worthy)"
+		},
+		{
+			"handle": "au-ciel",
+			"title": "Au ciel"
+		},
+		{
+			"handle": "il-me-tient-par-la-main",
+			"title": "Il me tient par la main"
+		},
+		{
+			"handle": "sauve-1",
+			"title": "Sauvé"
+		},
+		{
+			"handle": "voici-noel-jazzy",
+			"title": "Voici Noël (jazzy)"
+		},
+		{
+			"handle": "quand-je-songe-a-cette-croix",
+			"title": "Quand je songe à cette croix"
+		},
+		{
+			"handle": "jesus-christ-est-ma-sagesse",
+			"title": "Jésus-Christ est ma sagesse"
+		},
+		{
+			"handle": "papa-cest-quoi-une-ame-partition",
+			"title": "Papa c'est quoi une âme ? (partition)"
+		},
+		{
+			"handle": "psaume-42",
+			"title": "Psaume 42 - Je le louerai encore (I will praise Him again)"
+		},
+		{
+			"handle": "dieu-leternel-incree",
+			"title": "Dieu l'Éternel incréé"
+		},
+		{
+			"handle": "que-tout-ce-qui-respire",
+			"title": "Que tout ce qui respire"
+		},
+		{
+			"handle": "oui-je-crois",
+			"title": "Oui je crois"
+		},
+		{
+			"handle": "psaume-131",
+			"title": "Psaume 131"
+		},
+		{
+			"handle": "je-me-confie-en-mon-sauveur-i-will-trust-my-savior-jesus",
+			"title": "Je me confie en mon Sauveur (I will trust my Savior Jesus)"
+		},
+		{
+			"handle": "noel-jesus-est-ne",
+			"title": "Noël, Jésus est né"
+		},
+		{
+			"handle": "minuit-chretiens",
+			"title": "Minuit Chrétiens"
+		},
+		{
+			"handle": "o-peuple-fidele",
+			"title": "O peuple fidèle"
+		},
+		{
+			"handle": "et-se-peut-il-and-can-it-be",
+			"title": "Et se peut-il (And can it be)"
+		},
+		{
+			"handle": "chantons-lhistoire-demmanuel",
+			"title": "Chantons l'histoire d'Emmanuel (Sing the song of Emmanuel)"
+		},
+		{
+			"handle": "lamour-de-dieu",
+			"title": "L'amour de Dieu (The love of God)"
+		}
+	],
+	"albumOrder": [
+		"hymnes21-2018",
+		"impros-louange",
+		"dans-ses-mains",
+		"kids",
+		"kids-album-pistes-instrumentales",
+		"plus-haut-encore-album"
+	],
+	"albums": {
+		"hymnes21-2018": [
+			{
+				"track": 1,
+				"title": "Sauvé"
+			},
+			{
+				"track": 2,
+				"title": "Vois l'amour"
+			},
+			{
+				"track": 3,
+				"title": "Jésus a tout payé"
+			},
+			{
+				"track": 4,
+				"title": "Là aussi"
+			},
+			{
+				"track": 5,
+				"title": "Coule à flots"
+			},
+			{
+				"track": 6,
+				"title": "Mon âme éveille-toi"
+			},
+			{
+				"track": 7,
+				"title": "Sois seul ma vision"
+			},
+			{
+				"track": 8,
+				"title": "Purifié"
+			},
+			{
+				"track": 9,
+				"title": "Viens suis-moi"
+			}
+		],
+		"impros-louange": [
+			{
+				"track": 1,
+				"title": "Dans la joie"
+			},
+			{
+				"track": 2,
+				"title": "Sois seul ma vision"
+			},
+			{
+				"track": 3,
+				"title": "Mon Dieu plus près de toi"
+			},
+			{
+				"track": 4,
+				"title": "Viens suis-moi"
+			},
+			{
+				"track": 5,
+				"title": "Sur le mont du Calvaire"
+			},
+			{
+				"track": 6,
+				"title": "Enseigne-moi"
+			},
+			{
+				"track": 7,
+				"title": "Hymne à la joie"
+			},
+			{
+				"track": 8,
+				"title": "Tel que je suis"
+			},
+			{
+				"track": 9,
+				"title": "A l'Agneau"
+			},
+			{
+				"track": 10,
+				"title": "Rien ne peut sauver mon âme"
+			},
+			{
+				"track": 11,
+				"title": "Mon âme éveille-toi"
+			},
+			{
+				"track": 12,
+				"title": "Jésus-Christ est ma sagesse"
+			},
+			{
+				"track": 13,
+				"title": "Par la foi"
+			},
+			{
+				"track": 14,
+				"title": "Seigneur attire"
+			}
+		],
+		"dans-ses-mains": [
+			{
+				"track": 1,
+				"title": "Je m'attends à toi (Sébastien Demrey)"
+			},
+			{
+				"track": 2,
+				"title": "La gloire du Calvaire (Philippe Viguier)"
+			},
+			{
+				"track": 3,
+				"title": "Jésus merci (Elyne Jeannet & Philippe Viguier)"
+			},
+			{
+				"track": 4,
+				"title": "Viens et vois (Philippe Viguier & Darlène Rizzitelli)"
+			},
+			{
+				"track": 5,
+				"title": "Les cieux proclament (Tendry)"
+			},
+			{
+				"track": 6,
+				"title": "Ô Jésus je t'aime (Louise Zbinden)"
+			},
+			{
+				"track": 7,
+				"title": "Il me gardera (Alicia Roehrig & Philippe Viguier)"
+			},
+			{
+				"track": 8,
+				"title": "Saint-Esprit (Elyne Jeannet & Philippe Viguier)"
+			},
+			{
+				"track": 9,
+				"title": "Non par moi mais par Christ en moi (Philippe Viguier)"
+			},
+			{
+				"track": 10,
+				"title": "Entre tes mains (Tendry)"
+			}
+		],
+		"kids": [
+			{
+				"track": 1,
+				"title": "De génération en génération"
+			},
+			{
+				"track": 2,
+				"title": "L'évangile c'est de la bombe"
+			},
+			{
+				"track": 3,
+				"title": "Oui je crois"
+			},
+			{
+				"track": 4,
+				"title": "Au ciel"
+			},
+			{
+				"track": 5,
+				"title": "Coeur cassé"
+			},
+			{
+				"track": 6,
+				"title": "Bien dans ma peau"
+			},
+			{
+				"track": 7,
+				"title": "Que tout ce qui respire"
+			},
+			{
+				"track": 8,
+				"title": "Quand je songe à cette croix"
+			},
+			{
+				"track": 9,
+				"title": "Il me tient par la main"
+			},
+			{
+				"track": 10,
+				"title": "Psaume 131"
+			},
+			{
+				"track": 11,
+				"title": "Papa, c'est quoi une âme?"
+			}
+		],
+		"kids-album-pistes-instrumentales": [
+			{
+				"track": 1,
+				"title": "De génération en génération"
+			},
+			{
+				"track": 2,
+				"title": "L'évangile c'est de la bombe"
+			},
+			{
+				"track": 3,
+				"title": "Oui je crois"
+			},
+			{
+				"track": 4,
+				"title": "Au ciel"
+			},
+			{
+				"track": 5,
+				"title": "Coeur cassé"
+			},
+			{
+				"track": 6,
+				"title": "Bien dans ma peau"
+			},
+			{
+				"track": 7,
+				"title": "Que tout ce qui respire"
+			},
+			{
+				"track": 8,
+				"title": "Quand je songe à cette croix"
+			},
+			{
+				"track": 9,
+				"title": "Il me tient par la main"
+			},
+			{
+				"track": 10,
+				"title": "Psaume 131"
+			},
+			{
+				"track": 11,
+				"title": "Papa, c'est quoi une âme?"
+			}
+		],
+		"plus-haut-encore-album": [
+			{
+				"track": 1,
+				"title": "Le seul Dieu trois fois saint"
+			},
+			{
+				"track": 2,
+				"title": "Plus haut encore"
+			},
+			{
+				"track": 3,
+				"title": "Est-il digne ?"
+			},
+			{
+				"track": 4,
+				"title": "C'était toujours toi"
+			},
+			{
+				"track": 5,
+				"title": "Coule à flots (par-dessus tout)"
+			},
+			{
+				"track": 6,
+				"title": "En mémoire de ton nom"
+			},
+			{
+				"track": 7,
+				"title": "Psaume 32"
+			},
+			{
+				"track": 8,
+				"title": "Je me confie en mon Sauveur"
+			},
+			{
+				"track": 9,
+				"title": "Nous voici"
+			},
+			{
+				"track": 10,
+				"title": "L'espoir"
+			},
+			{
+				"track": 11,
+				"title": "L'espoir (instrumental)"
+			}
+		]
+	}
+}

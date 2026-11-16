@@ -1,0 +1,89 @@
+{
+	"id": "purifie",
+	"title": "Purifié",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "108"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Sonde-moi ô Dieu, éprouve le cœur",
+				"De cet humble pécheur",
+				"Selon ta bonté, fais grâce Seigneur",
+				"À ton serviteur"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Tu connais mes fautes, pendu au bois",
+				"Tu as souffert pour moi",
+				"Mon innocence, c’est ta clémence",
+				"Ô Roi des rois"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"J’apporte mon offrande, un cœur courbé",
+				"Des mains indignes, un chant brisé",
+				"Mes défaillances, ma résistance",
+				"Ma repentance"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Purifié, pardonné",
+				"Le sang de Christ me couvre",
+				"Je suis libre, je veux vivre",
+				"À la gloire de l’Agneau"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Purifié je cours vers toi les bras ouverts tu me reçois",
+				"Infini est ton pardon plein de douceur ta compassion",
+				"Pardonné oui crée en moi un nouveau cœur des chants de joie",
+				"Un esprit bien disposé qui prend plaisir à t’honorer"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Pardonne-moi, ma faible foi",
+				"Et toutes mes rébellions",
+				"J’enseignerai selon tes voies",
+				"Ta rédemption"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/purifie-1",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

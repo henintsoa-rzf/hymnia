@@ -1,0 +1,95 @@
+{
+	"id": "l-espoir",
+	"title": "L'espoir",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "510"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Seigneur tu vois le fond des cœurs",
+				"Dieu tu sais qui a foi, qui a peur",
+				"Dieu tu connais la dureté",
+				"De tes enfants égarés"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Notre prière au nom de Jésus",
+				"Que reviennent au Père les âmes perdues"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de lumière, parle et éclaire",
+				"Souffle et réveille",
+				"Toi seul est Sauveur sur la terre",
+				"Tu t’es donné, a tout payé",
+				"Tu es l’espoir, oh"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Toi l’immortel tu as saigné",
+				"Pour ouvrir nos regards aveuglés",
+				"Toi le Dieu saint a sali tes mains",
+				"Pour m’arracher du péché"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Notre prière au nom de Jésus",
+				"Que reviennent au Père les âmes perdues"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Dieu de lumière, parle et éclaire",
+				"Souffle et réveille",
+				"Toi seul est Sauveur sur la terre",
+				"Tu t’es donné, a tout payé",
+				"Tu es l’espoir, oh"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Notre prière au nom de Jésus",
+				"Que reviennent au Père les âmes perdues"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/lespoir-1",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

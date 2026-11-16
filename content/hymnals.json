@@ -194,5 +194,39 @@
 				"first": 881
 			}
 		]
+	},
+	{
+		"id": "pasteur-compagnie",
+		"name": "Pasteur & Compagnie",
+		"abbreviations": [
+			"P&C"
+		],
+		"sortOrder": 12,
+		"parts": [
+			{
+				"name": "Hymnes21 2018",
+				"first": 100
+			},
+			{
+				"name": "Impros louange",
+				"first": 200
+			},
+			{
+				"name": "Dans ses mains",
+				"first": 300
+			},
+			{
+				"name": "KIDS",
+				"first": 400
+			},
+			{
+				"name": "Plus haut encore",
+				"first": 500
+			},
+			{
+				"name": "Hors album",
+				"first": 1000
+			}
+		]
 	}
 ]

@@ -13,6 +13,10 @@
 		{
 			"hymnal": "cd",
 			"number": "38"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "212"
 		}
 	],
 	"sections": [
@@ -100,6 +104,11 @@
 			"name": "Conducteur de louange — conducteurdelouange.com",
 			"url": "https://www.conducteurdelouange.com/853",
 			"retrievedAt": "2026-11-11"
+		},
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/jesus-christ-est-ma-sagesse",
+			"retrievedAt": "2026-11-16"
 		}
 	]
 }

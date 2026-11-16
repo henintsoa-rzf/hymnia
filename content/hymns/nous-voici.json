@@ -1,0 +1,80 @@
+{
+	"id": "nous-voici",
+	"title": "Nous voici",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "509"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Nous voici, le peuple de la croix",
+				"Unis par la même repentance",
+				"Ta Parole, nous a donné la foi",
+				"Ton pardon nous a donné naissance",
+				"D’une même voix et prière",
+				"Nous chantons ton salut",
+				"Aimés du même Père",
+				"Notre espérance : le nom de Jésus"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Nous voici, le peuple de l’Esprit",
+				"Un seul corps, servant le seul Seigneur",
+				"Sa puissance nous a donné la vie",
+				"Sa présence nous rend plus que vainqueurs",
+				"D’un même appel et baptême",
+				"Nous vivons ton salut",
+				"Au-delà des frontières",
+				"Nous porterons le nom de Jésus"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Car l’évangile avancera encore",
+				"Notre famille s’agrandira",
+				"Armés d’espoir, d’amour et de courage",
+				"D’un même pas",
+				"Suivons le Roi",
+				"Amen",
+				"Amen, alléluia, amen"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Les voici, les peuples de la terre",
+				"Ils attendent une bonne nouvelle",
+				"(Par) cette Eglise ils verront ta lumière",
+				"Si unis nous te restons fidèles"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "lyrics"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/nous-voici",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

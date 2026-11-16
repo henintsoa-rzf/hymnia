@@ -1,0 +1,83 @@
+{
+	"id": "au-dessus-des-royaumes",
+	"title": "Au-dessus des royaumes",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1001"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Au-dessus des royaumes",
+				"S’élève un plus haut trône",
+				"Où les fidèles de tous les âges",
+				"Rendront hommage",
+				"Debout devant le Fils",
+				"Couverts par sa justice",
+				"La foi sincère trouve la grâce",
+				"En son Sauveur"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Résonnez, chœurs célestes",
+				"Au son du saint orchestre",
+				"Dans les rues d’or, et de cristal",
+				"Qu’un chant l’exalte !",
+				"Louange, honneur et gloire",
+				"Sagesse, puissance, victoire",
+				"Au Dieu qui règne dans le ciel",
+				"Prince immortel"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et nous séjournerons",
+				"Au cœur de sa maison",
+				"Nous offrirons tous à l’Agneau",
+				"Un chant nouveau",
+				"Il essuiera nos larmes",
+				"Rassasiera nos âmes",
+				"Lui seul est notre Roi-Berger",
+				"À tout jamais"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Keith Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Keith Getty",
+			"role": "music"
+		},
+		{
+			"name": "Kristyn Getty",
+			"role": "lyrics"
+		},
+		{
+			"name": "Kristyn Getty",
+			"role": "music"
+		},
+		{
+			"name": "Philippe Viguier",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/au-dessus-des-royaumes",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

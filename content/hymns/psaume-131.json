@@ -1,0 +1,50 @@
+{
+	"id": "psaume-131",
+	"title": "Psaume 131",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "410"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Éternel, je me repose",
+				"Sur ton épaule",
+				"Au calme",
+				"Mes soucis, je les dépose",
+				"Sous ton contrôle",
+				"Au calme",
+				"Chorus",
+				"Loin des bruits vers l’aurore",
+				"Dans tes bras je m’endors",
+				"Tu me gardes, me restore",
+				"Serré fort, contre toi",
+				"Je m’endors"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Éternel",
+				"Mon espérance est ta présence",
+				"Au calme",
+				"Aujourd’hui et jusqu’au bout",
+				"Sur tes genoux",
+				"Au calme"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/psaume-131",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

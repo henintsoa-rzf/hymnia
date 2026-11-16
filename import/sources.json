@@ -94,5 +94,20 @@
 			"checkedAt": "2026-11-13"
 		},
 		"permission": "unknown"
+	},
+	{
+		"id": "petc",
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"baseUrl": "https://pasteuretcompagnie.com",
+		"hymnals": [
+			"pasteur-compagnie"
+		],
+		"minDelayMs": 1000,
+		"terms": {
+			"url": "https://pasteuretcompagnie.com/pages/termes-et-conditions",
+			"summary": "Les produits sont distribués par Philippe Viguier médias. Les termes ne portent que sur la vente (paiement immédiat, téléchargement, pas de remboursement) ; rien n'autorise ni n'interdit la reprise des paroles. Les partitions sont gratuites, ce qui ne donne pas le droit de republier. Permission à demander (philippeviguiermedias@gmail.com, adresse donnée sur les pages des albums) avant toute publication.",
+			"checkedAt": "2026-11-16"
+		},
+		"permission": "unknown"
 	}
 ]

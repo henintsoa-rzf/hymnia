@@ -1,0 +1,84 @@
+{
+	"id": "oui-je-crois-pasteur-compagnie-403",
+	"title": "Oui je crois",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "403"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui je crois, que Dieu a créé",
+				"L’univers, les cieux et la terre",
+				"Tout-puissant il règne à jamais",
+				"Son amour dure à toujours"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Et oui je crois, à l’inspiration",
+				"La Parole est fidèle et vraie",
+				"Elle remplit de foi, de raison",
+				"Sa sagesse dure à toujours"
+			]
+		},
+		{
+			"type": "other",
+			"number": null,
+			"lines": [
+				"Dieu invite ses enfants",
+				"À le louer en tout temps"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Wouhou, Gloire à Dieu, au Père au Fils",
+				"Wouhou, Bénis sois-tu Saint-Esprit",
+				"Dieu donne la joie la vie",
+				"C’est notre chant notre cri",
+				"Wouhou, wouhou"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Oui je crois, que Jésus est Dieu",
+				"Descendu du ciel pour sauver",
+				"Par son sang, la mort est vaincue",
+				"Son salut dure à toujours"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Oui je crois que Dieu a choisit",
+				"Son Église, pour le faire connaître",
+				"Elle brillera jusqu’à son retour",
+				"Sa beauté dure à toujours"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/oui-je-crois",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

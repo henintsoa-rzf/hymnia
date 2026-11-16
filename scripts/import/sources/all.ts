@@ -4,4 +4,5 @@ import './cdl';
 import './ecriture';
 import './evangile21';
 import './jemaf';
+import './petc';
 import './psalmodie';

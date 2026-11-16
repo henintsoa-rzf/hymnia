@@ -5,6 +5,10 @@
 		{
 			"hymnal": "evangile21",
 			"number": "25"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1015"
 		}
 	],
 	"sections": [
@@ -58,5 +62,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/parle-nous",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

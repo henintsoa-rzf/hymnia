@@ -1,0 +1,78 @@
+{
+	"id": "sa-grace-est-plus-grande",
+	"title": "Sa grâce est plus grande",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1008"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quel amour pourrait recouvrir nos péchés ?",
+				"Le Dieu omniscient ne va pas les compter.",
+				"Jetés à la mer, à l’abysse ils descendent.",
+				"Nos péchés abondent ; sa grâce est plus grande"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Gloire à Dieu",
+				"Sa grâce est plus grande",
+				"Inépuisable",
+				"Ferme et constante",
+				"Nos péchés abondent ; sa grâce est plus grande"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Qui attendrait ceux qui sans cesse le fuient ?",
+				"Quel Père si tendre nous appelle à lui ?",
+				"Or ses compassions aux plus pauvres s'étendent",
+				"Nos péchés abondent ; sa grâce est plus grande"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quels torrents de bonté sur nous déversés ?",
+				"Effaçant la dette impossible à payer",
+				"Son corps immolé et son sang nous défendent",
+				"Nos péchés abondent ; sa grâce est plus grande"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Matt Boswell",
+			"role": "unspecified"
+		},
+		{
+			"name": "Matt Papa",
+			"role": "unspecified"
+		},
+		{
+			"name": "N. Pilgrim",
+			"role": "translation"
+		},
+		{
+			"name": "F. Price",
+			"role": "translation"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/sa-grace-est-plus-grande-his-mercy-is-more",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

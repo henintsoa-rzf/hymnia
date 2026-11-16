@@ -1,0 +1,92 @@
+{
+	"id": "l-evangile-c-est-de-la-bombe",
+	"title": "L'évangile c'est de la bombe",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "402"
+		}
+	],
+	"sections": [
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"L’Évangile oh",
+				"J’en n’ai pas honte, yeah",
+				"Y a d’la puissance, comme rien au monde",
+				"Oh yeah l’Évangile, c’est de la bombe",
+				"L’Évangile oh",
+				"J’en n’ai pas honte, yeah",
+				"Pour mes péchés la grâce abonde",
+				"Oh yeah l’Évangile, c’est de la bombe"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Le matin je me lève avec Jésus",
+				"Je sais que Satan a déjà perdu",
+				"J’ai des fusées dans le dos",
+				"Pour aller bien haut",
+				"Ye-ho Ciao, c’est que moi j’ai du boulot"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"A midi, c’est bien rempli",
+				"J’ai déjà prié et Dieu a déjà béni",
+				"Je vis pour annoncer",
+				"De tous les côtés",
+				"Que Dieu est bon c’est lui qui m’a sauvé"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"En soirée, je n’ai pas fini d’aimer",
+				"Les silos de Dieu, ils montent jusqu’aux cieux",
+				"Y a pas de plafond",
+				"Pour se donner à fond",
+				"Ye-ho hello, on remet ça illico"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"A minuit, je dors sans souci",
+				"Dieu veille sur moi, il est mon meilleur ami",
+				"Je suis bien entouré",
+				"Pour l’éternité",
+				"Je peux faire dodo, mon âme est en repos"
+			]
+		},
+		{
+			"type": "bridge",
+			"number": null,
+			"lines": [
+				"Une génération se lève",
+				"On vit de la bonne nouvelle",
+				"La croix sera notre emblème",
+				"On puise d’une force surhumaine",
+				"Une génération se lève",
+				"On vit de foi et de rêve",
+				"On n’arrêtera pas le mouvement",
+				"Jusqu’au retour du Dieu vivant"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/pages/album-kids-paroles#2",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

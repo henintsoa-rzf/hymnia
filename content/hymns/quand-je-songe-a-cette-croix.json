@@ -1,0 +1,72 @@
+{
+	"id": "quand-je-songe-a-cette-croix",
+	"title": "Quand je songe à cette croix",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "408"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Quand je songe à cette croix",
+				"Ton sacrifice pour moi",
+				"Tout pâlit devant tant de beauté"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Le sang du Sauveur parfait",
+				"Efface mon péché",
+				"Ton triomphe est pour l’éternité"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Je repense à la croix",
+				"Où Jésus a tout donné",
+				"Dans l’obéissance et la foi",
+				"Jusqu’au bout il m’a aimé",
+				"Sans compter"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Quand je songe à la souffrance",
+				"Que je méritais",
+				"Tu l’as prise sur toi dans le silence"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Tel un Agneau immolé",
+				"Brisé, humilié",
+				"Tu m’as fait grâce pour que je sois Sauvé"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Philippe Viguier",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/quand-je-songe-a-cette-croix",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

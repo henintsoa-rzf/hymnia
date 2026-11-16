@@ -143,3 +143,73 @@ describe('reconcile', () => {
 		expect(plan.links[0].lastSeenAt).toBe(TODAY);
 	});
 });
+
+describe('reconcile: warnings to check by hand (specs/010 research R7)', () => {
+	it('lists a hymn whose extraction has warnings, with its hymn id', () => {
+		const doubtful = { ...raw('1', 'Gloire'), warnings: ['stanzas not split: 14 lines in one section'] };
+		const plan = setup([], [])([ok(doubtful)]);
+		expect(plan.perHymnal.jem.toCheck).toEqual([
+			{ number: '1', hymnId: plan.hymns[0].id, title: 'Gloire', warnings: doubtful.warnings }
+		]);
+	});
+
+	it('lists nothing for a hymn with no warnings', () => {
+		const plan = setup([], [])([ok(raw('1', 'Gloire'))]);
+		expect(plan.perHymnal.jem.toCheck).toEqual([]);
+	});
+
+	it('lists a linked, unchanged hymn too', () => {
+		const one = { ...raw('1', 'Gloire'), warnings: ['x'] };
+		const plan = setup([hymnOf(one, 'gloire')], [linkOf(one, 'gloire')])([ok(one)]);
+		expect(plan.perHymnal.jem.toCheck.map((c) => c.hymnId)).toEqual(['gloire']);
+	});
+});
+
+describe('reconcile: one page under two numbers of a hymnal (specs/010 research R5)', () => {
+	const page = 'https://example.org/coule-a-flots';
+	const at = (number: string, lines = ['Coule à flots, source de grâce', 'Inonde-moi de ton chant']) => ({
+		...raw(number, 'Coule à flots', lines),
+		url: page
+	});
+
+	it('makes one hymn with both entries and two links on a first run', () => {
+		const plan = setup([], [])([ok(at('105')), ok(at('505'))]);
+		expect(plan.hymns).toHaveLength(1);
+		expect(plan.hymns[0].entries).toEqual([
+			{ hymnal: 'jem', number: '105' },
+			{ hymnal: 'jem', number: '505' }
+		]);
+		expect(plan.links.map((l) => [l.number, l.hymnId])).toEqual([
+			['105', plan.hymns[0].id],
+			['505', plan.hymns[0].id]
+		]);
+		expect(plan.perHymnal.jem.new.map((i) => i.number)).toEqual(['105']);
+		expect(plan.perHymnal.jem.autoMerged.map((i) => i.number)).toEqual(['505']);
+	});
+
+	it('does not list the same source twice in alternateSources', () => {
+		const plan = setup([], [])([ok(at('105')), ok(at('505'))]);
+		expect(plan.hymns[0].alternateSources ?? []).toEqual([]);
+	});
+
+	it('changes nothing on a second run', () => {
+		const first = setup([], [])([ok(at('105')), ok(at('505'))]);
+		const hymn = first.hymns[0];
+		const second = setup([hymn], first.links)([ok(at('105')), ok(at('505'))]);
+		expect(second.hymns).toEqual([]);
+		expect(second.perHymnal.jem.unchanged.map((i) => i.number)).toEqual(['105', '505']);
+	});
+
+	it('attaches the second number to a hymn linked by an earlier run', () => {
+		const first = setup([], [])([ok(at('105'))]);
+		const second = setup(first.hymns, first.links)([ok(at('105')), ok(at('505'))]);
+		expect(second.hymns).toHaveLength(1);
+		expect(second.hymns[0].entries.map((e) => e.number)).toEqual(['105', '505']);
+	});
+
+	it('never joins two pages with different URLs', () => {
+		const other = { ...raw('505', 'Coule à flots', ['Coule à flots, source de grâce', 'Inonde-moi de ton chant']) };
+		const plan = setup([], [])([ok(at('105')), ok(other)]);
+		expect(plan.hymns).toHaveLength(2);
+	});
+});

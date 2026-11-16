@@ -1,0 +1,65 @@
+{
+	"id": "grace-infinie-pasteur-compagnie-1005",
+	"title": "Grâce infinie",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1005"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Grâce infinie de notre Dieu",
+				"Qui un jour m’a sauvé",
+				"J’étais perdu, errant de lieu en lieu",
+				"Quand il m’a retrouvé"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma vie fut complètement changée",
+				"Le moment où j’ai cru",
+				"Depuis ce jour, de tous les dangers",
+				"Sa grâce m’a secouru"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Dans mes épreuves et mes labeurs",
+				"Suffisante est sa grâce",
+				"Je peux toujours, compter sur sa faveur",
+				"A chaque, oui à chaque heure qui passe"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 4,
+			"lines": [
+				"Quand nous aurons pendant mille ans",
+				"Célébré ses louanges",
+				"Nous pourrons comme au commencement",
+				"Lui offrir tous nos hommages"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "John Newton",
+			"role": "unspecified"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/grace-infinie",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

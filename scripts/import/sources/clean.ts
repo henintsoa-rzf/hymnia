@@ -24,7 +24,7 @@ const INLINE_CHORD = new RegExp(`\\[${CHORD}\\]`, 'gu');
 const CHORD_TOKEN = new RegExp(`^${CHORD}$`, 'u');
 
 /** A line made only of chord symbols (at least one), e.g. "G  D/F#  Em" or "Do  Sol/Si". */
-function isChordLine(line: string): boolean {
+export function isChordLine(line: string): boolean {
 	// "Ré m" (French minor written with a space) is joined before checking each token.
 	const tokens = line
 		.trim()

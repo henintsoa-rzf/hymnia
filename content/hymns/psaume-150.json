@@ -5,6 +5,10 @@
 		{
 			"hymnal": "evangile21",
 			"number": "33"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "1020"
 		}
 	],
 	"sections": [
@@ -108,5 +112,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/psaume-150",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

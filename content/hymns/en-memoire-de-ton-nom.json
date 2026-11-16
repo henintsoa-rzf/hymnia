@@ -5,6 +5,10 @@
 		{
 			"hymnal": "evangile21",
 			"number": "38"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "506"
 		}
 	],
 	"sections": [
@@ -116,5 +120,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/en_memoire_de_ton_nom",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

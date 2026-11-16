@@ -1,0 +1,471 @@
+{
+	"runId": "20261116-164842",
+	"startedAt": "2026-11-16T16:48:42.464Z",
+	"finishedAt": "2026-11-16T16:48:43.933Z",
+	"args": {
+		"source": "petc",
+		"hymnals": [
+			"pasteur-compagnie"
+		],
+		"offline": true,
+		"dryRun": false
+	},
+	"perSource": {
+		"petc": {
+			"status": "ok",
+			"pages": 81,
+			"failures": 6,
+			"reasons": {
+				"no lyrics on the site: album track 1 \"Dans la joie\"": 1,
+				"no lyrics on the site: album track 10 \"Rien ne peut sauver mon âme\"": 1,
+				"no lyrics on the site: album track 14 \"Seigneur attire\"": 1,
+				"no lyrics on the site: album track 5 \"Les cieux proclament (Tendry)\"": 1,
+				"no lyrics on the site: album track 10 \"Entre tes mains (Tendry)\"": 1,
+				"no lyrics on the site: album track 4 \"C'était toujours toi\"": 1
+			}
+		}
+	},
+	"perHymnal": {
+		"pasteur-compagnie": {
+			"new": [],
+			"changed": [],
+			"unchanged": [
+				{
+					"number": "101",
+					"hymnId": "sauve",
+					"title": "Sauvé"
+				},
+				{
+					"number": "102",
+					"hymnId": "vois-l-amour",
+					"title": "Vois l'amour"
+				},
+				{
+					"number": "103",
+					"hymnId": "jesus-a-tout-paye-pasteur-compagnie-103",
+					"title": "Jésus a tout payé"
+				},
+				{
+					"number": "104",
+					"hymnId": "la-aussi-psaume-139",
+					"title": "Là aussi (Psaume 139)"
+				},
+				{
+					"number": "105",
+					"hymnId": "coule-a-flots",
+					"title": "Coule à flots"
+				},
+				{
+					"number": "106",
+					"hymnId": "mon-ame-eveille-toi",
+					"title": "Mon âme éveille-toi"
+				},
+				{
+					"number": "107",
+					"hymnId": "sois-seul-ma-vision",
+					"title": "Sois seul ma vision"
+				},
+				{
+					"number": "108",
+					"hymnId": "purifie",
+					"title": "Purifié"
+				},
+				{
+					"number": "109",
+					"hymnId": "viens-suis-moi",
+					"title": "Viens suis-moi"
+				},
+				{
+					"number": "202",
+					"hymnId": "sois-seul-ma-vision",
+					"title": "Sois seul ma vision"
+				},
+				{
+					"number": "203",
+					"hymnId": "mon-dieu-plus-pres-de-toi-evangile21-13",
+					"title": "Mon Dieu plus près de toi"
+				},
+				{
+					"number": "204",
+					"hymnId": "viens-suis-moi",
+					"title": "Viens suis-moi"
+				},
+				{
+					"number": "205",
+					"hymnId": "sur-le-mont-du-calvaire-pasteur-compagnie-205",
+					"title": "Sur le mont du Calvaire"
+				},
+				{
+					"number": "206",
+					"hymnId": "enseigne-moi",
+					"title": "Enseigne-moi"
+				},
+				{
+					"number": "207",
+					"hymnId": "hymne-a-la-joie",
+					"title": "Hymne à la joie"
+				},
+				{
+					"number": "208",
+					"hymnId": "tel-que-je-suis-sans-rien-a-moi",
+					"title": "Tel que je suis"
+				},
+				{
+					"number": "209",
+					"hymnId": "a-l-agneau-sur-son-trone-pasteur-compagnie-209",
+					"title": "A l'Agneau sur son trône"
+				},
+				{
+					"number": "211",
+					"hymnId": "mon-ame-eveille-toi",
+					"title": "Mon âme éveille-toi"
+				},
+				{
+					"number": "212",
+					"hymnId": "jesus-christ-est-ma-sagesse",
+					"title": "Jésus-Christ est ma sagesse"
+				},
+				{
+					"number": "213",
+					"hymnId": "par-la-foi",
+					"title": "Par la foi"
+				},
+				{
+					"number": "301",
+					"hymnId": "je-m-attends-a-toi",
+					"title": "Je m'attends à toi"
+				},
+				{
+					"number": "302",
+					"hymnId": "la-gloire-du-calvaire",
+					"title": "La gloire du Calvaire"
+				},
+				{
+					"number": "303",
+					"hymnId": "jesus-merci",
+					"title": "Jésus merci"
+				},
+				{
+					"number": "304",
+					"hymnId": "viens-et-vois-pasteur-compagnie-304",
+					"title": "Viens et vois"
+				},
+				{
+					"number": "306",
+					"hymnId": "o-jesus-je-t-aime-evangile21-15",
+					"title": "Ô Jésus je t'aime"
+				},
+				{
+					"number": "307",
+					"hymnId": "il-me-gardera-he-will-hold-me-fast",
+					"title": "Il me gardera"
+				},
+				{
+					"number": "308",
+					"hymnId": "saint-esprit",
+					"title": "Saint-Esprit"
+				},
+				{
+					"number": "309",
+					"hymnId": "non-par-moi-mais-par-christ-en-moi",
+					"title": "Non par moi mais par Christ en moi"
+				},
+				{
+					"number": "401",
+					"hymnId": "de-generation-en-generation",
+					"title": "De génération en génération"
+				},
+				{
+					"number": "402",
+					"hymnId": "l-evangile-c-est-de-la-bombe",
+					"title": "L'évangile c'est de la bombe"
+				},
+				{
+					"number": "403",
+					"hymnId": "oui-je-crois-pasteur-compagnie-403",
+					"title": "Oui je crois"
+				},
+				{
+					"number": "404",
+					"hymnId": "au-ciel",
+					"title": "Au ciel"
+				},
+				{
+					"number": "405",
+					"hymnId": "coeur-casse",
+					"title": "Coeur cassé"
+				},
+				{
+					"number": "406",
+					"hymnId": "bien-dans-ma-peau",
+					"title": "Bien dans ma peau"
+				},
+				{
+					"number": "407",
+					"hymnId": "que-tout-ce-qui-respire",
+					"title": "Que tout ce qui respire"
+				},
+				{
+					"number": "408",
+					"hymnId": "quand-je-songe-a-cette-croix",
+					"title": "Quand je songe à cette croix"
+				},
+				{
+					"number": "409",
+					"hymnId": "il-me-tient-par-la-main",
+					"title": "Il me tient par la main"
+				},
+				{
+					"number": "410",
+					"hymnId": "psaume-131",
+					"title": "Psaume 131"
+				},
+				{
+					"number": "411",
+					"hymnId": "papa-c-est-quoi-une-ame",
+					"title": "Papa c'est quoi une âme ?"
+				},
+				{
+					"number": "501",
+					"hymnId": "le-seul-dieu-trois-fois-saint-pasteur-compagnie-501",
+					"title": "Le seul Dieu trois fois saint"
+				},
+				{
+					"number": "502",
+					"hymnId": "plus-haut-encore",
+					"title": "Plus haut encore"
+				},
+				{
+					"number": "503",
+					"hymnId": "est-il-digne",
+					"title": "Est-il digne ?"
+				},
+				{
+					"number": "505",
+					"hymnId": "coule-a-flots",
+					"title": "Coule à flots"
+				},
+				{
+					"number": "506",
+					"hymnId": "en-memoire-de-ton-nom",
+					"title": "En mémoire de ton nom"
+				},
+				{
+					"number": "507",
+					"hymnId": "psaume-32",
+					"title": "Psaume 32"
+				},
+				{
+					"number": "508",
+					"hymnId": "je-me-confie-en-mon-sauveur",
+					"title": "Je me confie en mon Sauveur"
+				},
+				{
+					"number": "509",
+					"hymnId": "nous-voici",
+					"title": "Nous voici"
+				},
+				{
+					"number": "510",
+					"hymnId": "l-espoir",
+					"title": "L'espoir"
+				},
+				{
+					"number": "1001",
+					"hymnId": "au-dessus-des-royaumes",
+					"title": "Au-dessus des royaumes"
+				},
+				{
+					"number": "1002",
+					"hymnId": "alleluia-quel-grand-sauveur-pasteur-compagnie-1002",
+					"title": "Alléluia, quel grand Sauveur"
+				},
+				{
+					"number": "1003",
+					"hymnId": "glorieux-tout-puissant",
+					"title": "Glorieux Tout-Puissant"
+				},
+				{
+					"number": "1004",
+					"hymnId": "o-dieu-ta-grace",
+					"title": "Ô Dieu ta grâce"
+				},
+				{
+					"number": "1005",
+					"hymnId": "grace-infinie-pasteur-compagnie-1005",
+					"title": "Grâce infinie"
+				},
+				{
+					"number": "1006",
+					"hymnId": "l-amour-de-dieu",
+					"title": "L'amour de Dieu"
+				},
+				{
+					"number": "1007",
+					"hymnId": "vous-creatures-du-grand-roi",
+					"title": "Vous, créatures du grand Roi"
+				},
+				{
+					"number": "1008",
+					"hymnId": "sa-grace-est-plus-grande",
+					"title": "Sa grâce est plus grande"
+				},
+				{
+					"number": "1009",
+					"hymnId": "viens-decouvrir-cette-fontaine",
+					"title": "Viens découvrir cette fontaine"
+				},
+				{
+					"number": "1010",
+					"hymnId": "joie-dans-le-monde",
+					"title": "Joie dans le monde"
+				},
+				{
+					"number": "1011",
+					"hymnId": "chef-couvert-de-blessures-pasteur-compagnie-1011",
+					"title": "Chef couvert de blessures"
+				},
+				{
+					"number": "1012",
+					"hymnId": "roc-des-ages-pasteur-compagnie-1012",
+					"title": "Roc des âges"
+				},
+				{
+					"number": "1013",
+					"hymnId": "quel-amour-mysterieux",
+					"title": "Quel amour mystérieux"
+				},
+				{
+					"number": "1014",
+					"hymnId": "redempteur-adorable-evangile21-18",
+					"title": "Rédempteur adorable"
+				},
+				{
+					"number": "1015",
+					"hymnId": "parle-nous",
+					"title": "Parle-nous"
+				},
+				{
+					"number": "1016",
+					"hymnId": "seigneur-mon-roc-et-mon-redempteur-o-lord-my-rock-and-my-redeemer",
+					"title": "Seigneur, mon roc et mon rédempteur"
+				},
+				{
+					"number": "1017",
+					"hymnId": "voici-noel-o-douce-nuit",
+					"title": "Voici Noël (jazzy)"
+				},
+				{
+					"number": "1018",
+					"hymnId": "folle-nuit-de-la-croix",
+					"title": "Folle nuit de la croix"
+				},
+				{
+					"number": "1019",
+					"hymnId": "dieu-l-eternel-incree",
+					"title": "Dieu l'Éternel incréé"
+				},
+				{
+					"number": "1020",
+					"hymnId": "psaume-150",
+					"title": "Psaume 150"
+				},
+				{
+					"number": "1021",
+					"hymnId": "psaume-42-je-le-louerai-encore",
+					"title": "Psaume 42 - Je le louerai encore"
+				},
+				{
+					"number": "1022",
+					"hymnId": "notre-esperance-est-en-christ",
+					"title": "Notre espérance est en Christ"
+				},
+				{
+					"number": "1023",
+					"hymnId": "o-peuple-fidele",
+					"title": "O peuple fidèle"
+				},
+				{
+					"number": "1024",
+					"hymnId": "et-se-peut-il",
+					"title": "Et se peut-il"
+				},
+				{
+					"number": "1025",
+					"hymnId": "minuit-chretiens",
+					"title": "Minuit Chrétiens"
+				},
+				{
+					"number": "1026",
+					"hymnId": "noel-jesus-est-ne",
+					"title": "Noël, Jésus est né"
+				},
+				{
+					"number": "1027",
+					"hymnId": "chantons-l-histoire-d-emmanuel",
+					"title": "Chantons l'histoire d'Emmanuel"
+				}
+			],
+			"skipped": [
+				{
+					"number": "201",
+					"url": "https://pasteuretcompagnie.com/products/impros-louange#track-1",
+					"reason": "no lyrics on the site: album track 1 \"Dans la joie\""
+				},
+				{
+					"number": "210",
+					"url": "https://pasteuretcompagnie.com/products/impros-louange#track-10",
+					"reason": "no lyrics on the site: album track 10 \"Rien ne peut sauver mon âme\""
+				},
+				{
+					"number": "214",
+					"url": "https://pasteuretcompagnie.com/products/impros-louange#track-14",
+					"reason": "no lyrics on the site: album track 14 \"Seigneur attire\""
+				},
+				{
+					"number": "305",
+					"url": "https://pasteuretcompagnie.com/products/dans-ses-mains#track-5",
+					"reason": "no lyrics on the site: album track 5 \"Les cieux proclament (Tendry)\""
+				},
+				{
+					"number": "310",
+					"url": "https://pasteuretcompagnie.com/products/dans-ses-mains#track-10",
+					"reason": "no lyrics on the site: album track 10 \"Entre tes mains (Tendry)\""
+				},
+				{
+					"number": "504",
+					"url": "https://pasteuretcompagnie.com/products/plus-haut-encore-album#track-4",
+					"reason": "no lyrics on the site: album track 4 \"C'était toujours toi\""
+				}
+			],
+			"missing": [],
+			"possibleDuplicates": [],
+			"autoMerged": [],
+			"conflicts": [],
+			"noCredits": [],
+			"rightsInherited": [],
+			"unknownCredits": [],
+			"toCheck": [],
+			"strippedMarkup": {
+				"marker": 7,
+				"section-label": 271,
+				"copyright": 10,
+				"shop note": 9,
+				"blank line in a section": 33,
+				"chord row": 88,
+				"title heading": 6,
+				"recording credit": 2,
+				"link": 1,
+				"chord-line": 16,
+				"syllable split": 12,
+				"hymnal reference": 1
+			}
+		}
+	},
+	"rights": {
+		"pasteur-compagnie": {
+			"published": 0,
+			"unpublished": 71
+		}
+	}
+}

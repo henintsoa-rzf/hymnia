@@ -5,6 +5,10 @@
 		{
 			"hymnal": "evangile21",
 			"number": "31"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "507"
 		}
 	],
 	"sections": [
@@ -74,5 +78,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/psaume-32",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

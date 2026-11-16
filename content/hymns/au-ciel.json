@@ -1,0 +1,75 @@
+{
+	"id": "au-ciel",
+	"title": "Au ciel",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "404"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Je regarde le firmament",
+				"Habillé de points scintillants",
+				"Quels trésors, ciel, encore me caches-tu ?",
+				"Je rêve du jour des retrouvailles",
+				"Où je traverserai les étoiles",
+				"Pour vivre dans la maison sur les nues",
+				"Pre-chorus",
+				"J’ai entendu, j’ai vu, j’ai cru",
+				"J’ai placé ma foi en Jésus",
+				"Et j’espère au jour où la mort n’est plus"
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Avec un million de chorales",
+				"Je le louerai d’un chant royal",
+				"Dans une explosion de couleurs",
+				"Sur les genoux de mon Sauveur",
+				"En mille langues, d’une même voix",
+				"Ensemble proclamant le Roi",
+				"Nous bâtirons un nouveau monde",
+				"Où les espoirs jamais ne sombrent",
+				"Au ciel, au ciel"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Ma dernière larme essuyée",
+				"Je suivrai mon bon berger",
+				"Aux nouvelles frontières de la création",
+				"Je jouerai dans la cité",
+				"Que Dieu lui-même a préparé",
+				"Pour ses enfants de toutes les nations"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Et j’attendrai ton retour",
+				"En priant jour après jour",
+				"Jésus règne aujourd’hui sur mon cœur",
+				"Je regarde au firmament",
+				"Ces millions d’astres scintillants",
+				"Quels trésors, ciel, encore me caches-tu ?"
+			]
+		}
+	],
+	"credits": [],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/au-ciel",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

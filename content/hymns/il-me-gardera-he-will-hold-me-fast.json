@@ -5,6 +5,11 @@
 		{
 			"hymnal": "psalmodie",
 			"number": "711"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "307",
+			"title": "Il me gardera"
 		}
 	],
 	"sections": [
@@ -93,5 +98,12 @@
 		"retrievedAt": "2026-11-11"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/il-me-gardera-he-will-hold-me-fast",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

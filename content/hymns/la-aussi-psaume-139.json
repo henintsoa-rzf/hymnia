@@ -1,0 +1,90 @@
+{
+	"id": "la-aussi-psaume-139",
+	"title": "Là aussi (Psaume 139)",
+	"entries": [
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "104"
+		}
+	],
+	"sections": [
+		{
+			"type": "verse",
+			"number": 1,
+			"lines": [
+				"Oui, tu sais quand je marche et quand je me couche",
+				"Tu connais chaque syllabe qui sort de ma bouche",
+				"Tu sais quand je m’assieds et quand je me lève",
+				"Tu pénètres mes pensées, tu connais mes rêves.",
+				"Si je monte aux cieux, tu es là",
+				"Si je me couche au séjour des morts, t’y voilà",
+				"Si je prends des ailes pour traverser la terre",
+				"Et que j’aille à l’autre extrémité de la mer."
+			]
+		},
+		{
+			"type": "chorus",
+			"number": null,
+			"lines": [
+				"Là aussi ta main me conduira",
+				"Là aussi ta droite me saisira",
+				"Tu m’entoures par devant et par derrière",
+				"Tu m’as tissé, tu m’as formé",
+				"Dans le sein de ma mère",
+				"Là aussi ta main me conduira",
+				"Là aussi ta droite me saisira",
+				"Les ténèbres ne seront pas obscures pour toi",
+				"Tu mettras ta main sur moi"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 2,
+			"lines": [
+				"Lorsque j’ai été fait dans un lieu secret",
+				"Quand je n’étais qu’une masse tes yeux me voyaient",
+				"Tous les jours de ma vie ont déjà été comptés",
+				"Avant même que je sois né",
+				"Que tes pensées, ô Dieu, me semblent impénétrables",
+				"Elles sont bien plus nombreuses que tous les grains de sable",
+				"Je m’éveille, et je suis encore auprès de toi",
+				"Quand j’ouvre mes yeux te voilà"
+			]
+		},
+		{
+			"type": "verse",
+			"number": 3,
+			"lines": [
+				"Sonde-moi, ô Dieu, car mon cœur tu connais",
+				"Éprouve-moi, examine toutes mes pensées",
+				"Regarde si je suis sur une mauvaise voie,",
+				"Ramène-moi Père auprès de toi (x2)"
+			]
+		}
+	],
+	"credits": [
+		{
+			"name": "Nicolas VanWingerdern",
+			"role": "lyrics"
+		},
+		{
+			"name": "Nicolas VanWingerdern",
+			"role": "music"
+		},
+		{
+			"name": "Nicolas VanWingerden",
+			"role": "lyrics"
+		},
+		{
+			"name": "Nicolas VanWingerden",
+			"role": "music"
+		}
+	],
+	"source": {
+		"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+		"url": "https://pasteuretcompagnie.com/products/la-aussi-psaume-139",
+		"retrievedAt": "2026-11-16"
+	},
+	"rights": "unconfirmed",
+	"corrections": []
+}

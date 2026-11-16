@@ -1,0 +1,54 @@
+{
+	"list-page1.html": {
+		"url": "https://pasteuretcompagnie.com/collections/partitions?page=1",
+		"retrievedAt": "2026-11-16T15:18:48.142Z"
+	},
+	"list-page9.html": {
+		"url": "https://pasteuretcompagnie.com/collections/partitions?page=9",
+		"retrievedAt": "2026-11-16T15:18:49.625Z"
+	},
+	"albums.html": {
+		"url": "https://pasteuretcompagnie.com/collections/digital-albums",
+		"retrievedAt": "2026-11-16T15:18:51.079Z"
+	},
+	"album-dans-ses-mains.html": {
+		"url": "https://pasteuretcompagnie.com/products/dans-ses-mains",
+		"retrievedAt": "2026-11-16T15:18:52.604Z"
+	},
+	"album-kids.html": {
+		"url": "https://pasteuretcompagnie.com/products/kids",
+		"retrievedAt": "2026-11-16T15:18:54.075Z"
+	},
+	"album-kids-instrumental.html": {
+		"url": "https://pasteuretcompagnie.com/products/kids-album-pistes-instrumentales",
+		"retrievedAt": "2026-11-16T15:18:55.598Z"
+	},
+	"kids-lyrics.html": {
+		"url": "https://pasteuretcompagnie.com/pages/album-kids-paroles",
+		"retrievedAt": "2026-11-16T15:18:57.079Z"
+	},
+	"song-jesus-merci.html": {
+		"url": "https://pasteuretcompagnie.com/products/jesus-merci-jesus-thank-you",
+		"retrievedAt": "2026-11-16T15:18:58.620Z"
+	},
+	"song-lespoir.html": {
+		"url": "https://pasteuretcompagnie.com/products/lespoir-1",
+		"retrievedAt": "2026-11-16T15:19:00.069Z"
+	},
+	"song-redempteur-adorable.html": {
+		"url": "https://pasteuretcompagnie.com/products/redempteur-adorable",
+		"retrievedAt": "2026-11-16T15:19:01.633Z"
+	},
+	"song-coule-a-flots.html": {
+		"url": "https://pasteuretcompagnie.com/products/coule-a-flots-come-thou-fount",
+		"retrievedAt": "2026-11-16T15:19:03.130Z"
+	},
+	"song-noel-jesus-est-ne.html": {
+		"url": "https://pasteuretcompagnie.com/products/noel-jesus-est-ne",
+		"retrievedAt": "2026-11-16T15:19:04.668Z"
+	},
+	"song-papa.html": {
+		"url": "https://pasteuretcompagnie.com/products/papa-cest-quoi-une-ame-partition",
+		"retrievedAt": "2026-11-16T15:19:06.092Z"
+	}
+}

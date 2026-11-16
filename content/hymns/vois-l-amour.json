@@ -5,6 +5,10 @@
 		{
 			"hymnal": "evangile21",
 			"number": "21"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "102"
 		}
 	],
 	"sections": [
@@ -81,5 +85,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/vois-lamour-here-is-love",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

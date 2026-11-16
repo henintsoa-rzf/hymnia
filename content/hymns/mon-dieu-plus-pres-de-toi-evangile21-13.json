@@ -5,6 +5,10 @@
 		{
 			"hymnal": "evangile21",
 			"number": "13"
+		},
+		{
+			"hymnal": "pasteur-compagnie",
+			"number": "203"
 		}
 	],
 	"sections": [
@@ -69,5 +73,12 @@
 		"retrievedAt": "2026-11-12"
 	},
 	"rights": "unconfirmed",
-	"corrections": []
+	"corrections": [],
+	"alternateSources": [
+		{
+			"name": "Pasteur & Compagnie — pasteuretcompagnie.com",
+			"url": "https://pasteuretcompagnie.com/products/mon-dieu-plus-pres-de-toi-nearer-my-god-to-thee",
+			"retrievedAt": "2026-11-16"
+		}
+	]
 }

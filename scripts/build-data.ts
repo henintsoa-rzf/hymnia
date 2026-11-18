@@ -29,6 +29,9 @@ import {
 import { compareSortKeys, normalizeNumber, sortKey } from '../src/lib/domain/numbering';
 import { compactKey } from '../src/lib/search/normalize';
 import { INDEX_OPTIONS, toIndexDocument, type IndexDocument } from '../src/lib/search/index-config';
+import { MEANING_CONFIG, type MeaningConfig } from '../src/lib/meaning/config';
+import { buildMeaningData, type MeaningBuild } from './semantic/build';
+import { createEmbedder, envOptions, type Embedder } from './semantic/embed';
 
 /** Maximum compressed size of catalog + index (plan.md, Constraints). */
 export const MAX_COMPRESSED_BYTES = 5 * 1024 * 1024;
@@ -253,6 +256,8 @@ function validateRedirects(raw: RawContent, hymnIds: Set<string>, errors: string
 /* ----------------------------------------------------------------- build */
 
 const hash = (text: string) => createHash('sha256').update(text).digest('hex').slice(0, 10);
+const hashBytes = (bytes: Uint8Array) =>
+	createHash('sha256').update(bytes).digest('hex').slice(0, 10);
 
 function firstLine(hymn: Hymn): string {
 	for (const section of hymn.sections) {
@@ -317,20 +322,58 @@ export async function buildData(
 
 /* ------------------------------------------------------------------ write */
 
-export async function writeOutput(outDir: string, catalog: Catalog, indexJson: string) {
+export async function writeOutput(
+	outDir: string,
+	catalog: Catalog,
+	indexJson: string,
+	meaning?: MeaningBuild
+) {
 	const catalogJson = JSON.stringify(catalog);
 	const manifest: DataManifest = {
 		version: catalog.version,
 		catalog: `catalog.${hash(catalogJson)}.json`,
 		index: `index.${hash(indexJson)}.json`
 	};
+	if (meaning) {
+		manifest.meaning = {
+			configId: meaning.configId,
+			dims: meaning.dims,
+			rows: meaning.rows,
+			vectors: `meaning.${hashBytes(meaning.vectors)}.bin`,
+			rowMap: `meaning-rows.${hashBytes(meaning.rowMap)}.bin`,
+			bytes: meaning.vectors.byteLength + meaning.rowMap.byteLength
+		};
+	}
 	await rm(outDir, { recursive: true, force: true });
 	await mkdir(outDir, { recursive: true });
 	await writeFile(join(outDir, manifest.catalog), catalogJson);
 	await writeFile(join(outDir, manifest.index), indexJson);
+	if (meaning && manifest.meaning) {
+		await writeFile(join(outDir, manifest.meaning.vectors), meaning.vectors);
+		await writeFile(join(outDir, manifest.meaning.rowMap), meaning.rowMap);
+	}
 	await writeFile(join(outDir, 'manifest.json'), JSON.stringify(manifest, null, '\t'));
 	const compressed = gzipSync(catalogJson).length + gzipSync(indexJson).length;
 	return { manifest, compressed };
+}
+
+/**
+ * Embedder of the build: the API through the cache, or with HYMNIA_FAKE_EMBEDDER=1 the
+ * deterministic fake of the tests (e2e data, no network).
+ */
+async function buildEmbedder(): Promise<{ embedder: Embedder; config: MeaningConfig }> {
+	if (process.env.HYMNIA_FAKE_EMBEDDER === '1') {
+		const { fakeEmbed } = await import('../tests/helpers/fake-embedder');
+		// Its own model name, so fake data never passes for real data (configId `fake/…`).
+		const embedder = createEmbedder({
+			model: 'fake',
+			apiKey: 'fake',
+			cacheDir: '.cache/embeddings-fake',
+			embedBatch: fakeEmbed
+		});
+		return { embedder, config: { ...MEANING_CONFIG, model: 'fake' } };
+	}
+	return { embedder: createEmbedder(envOptions()), config: MEANING_CONFIG };
 }
 
 async function main() {
@@ -351,7 +394,20 @@ async function main() {
 		process.exit(1);
 	}
 
-	const { manifest, compressed } = await writeOutput(outDir, catalog, indexJson);
+	// Search by meaning (specs/011-semantic-search): optional, skipped without a key.
+	const { embedder, config } = await buildEmbedder();
+	const meaning = await buildMeaningData(catalog, config, embedder);
+	if ('error' in meaning) {
+		console.error(`✗ ${meaning.error}`);
+		process.exit(1);
+	}
+
+	const { manifest, compressed } = await writeOutput(
+		outDir,
+		catalog,
+		indexJson,
+		'skipped' in meaning ? undefined : meaning
+	);
 	const mb = (compressed / 1024 / 1024).toFixed(2);
 	console.log(
 		`✓ ${report.hymnals} hymnals, ${report.hymns} hymns published, ` +
@@ -364,6 +420,15 @@ async function main() {
 		);
 	}
 	console.log(`  ${manifest.catalog}, ${manifest.index} — ${mb} MB compressed`);
+	if ('skipped' in meaning) {
+		console.warn('  ⚠ meaning data skipped (no MAMMOUTH_API_KEY and incomplete cache)');
+	} else {
+		const meaningMb = (meaning.bytes / 1024 / 1024).toFixed(1);
+		console.log(
+			`  meaning: ${meaning.configId} — ${meaning.rows} rows, ${meaningMb} MB ` +
+				`(embedded ${meaning.report.embedded}, cached ${meaning.report.cached})`
+		);
+	}
 
 	if (compressed > MAX_COMPRESSED_BYTES) {
 		console.error(`✗ Data is over the 5 MB compressed limit (${mb} MB).`);

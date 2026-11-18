@@ -50,3 +50,37 @@ export async function seedCollections(
 
 /** Titles of the hymns of the open collection, in order (use with `toHaveText([...])`). */
 export const collectionTitles = (page: Page) => page.locator('ol.collection__list .hb-item__title');
+
+/**
+ * Feature 011: answers `POST /api/embed` in the browser with the fake embedder of the tests
+ * (the e2e data is built with HYMNIA_FAKE_EMBEDDER=1). Returns the texts posted, in order.
+ */
+export async function mockEmbed(
+	page: Page,
+	options: { delayMs?: number; status?: number } = {}
+): Promise<string[]> {
+	const { fakeEmbedOne } = await import('../helpers/fake-embedder');
+	const { cutAndNormalize, toBase64 } = await import('../../src/lib/meaning/vector');
+	const posted: string[] = [];
+	await page.route('**/api/embed', async (route) => {
+		const body = route.request().postDataJSON() as { text: string; configId: string };
+		posted.push(body.text);
+		if (options.delayMs) await new Promise((r) => setTimeout(r, options.delayMs));
+		const reply = options.status
+			? { status: options.status, json: { error: 'x' } }
+			: {
+					json: {
+						configId: body.configId,
+						dims: 512,
+						vector: toBase64(cutAndNormalize(fakeEmbedOne(body.text), 512))
+					}
+				};
+		await route.fulfill(reply).catch(() => {
+			// The page was closed while the reply was delayed.
+		});
+	});
+	return posted;
+}
+
+/** The « Par le sens » button beside the search field. */
+export const meaningButton = (page: Page) => page.getByRole('button', { name: 'Par le sens' });

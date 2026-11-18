@@ -6,7 +6,7 @@ frappe tolérée. Plusieurs recueils, un même chant pouvant figurer dans plusie
 
 C’est une application web installable (PWA) qui fonctionne hors ligne après une première
 visite. Elle est construite avec SvelteKit en mode page unique ; les chants sont des fichiers
-JSON transformés en données statiques et en index de recherche au moment de la construction. 
+JSON transformés en données statiques et en index de recherche au moment de la construction.
 
 ## Démarrer
 
@@ -56,6 +56,38 @@ plus haut). Ordre suivi pour le premier import, et ce qu’il a donné : section
 scénarios de vérification sont dans
 [specs/002-hymnal-import/quickstart.md](specs/002-hymnal-import/quickstart.md). Pour ajouter un
 site source : [scripts/import/sources/README.md](scripts/import/sources/README.md).
+
+## Recherche par le sens
+
+Le bouton « Par le sens » trouve des chants par leur idée ou leur thème, pas seulement par
+leurs mots (feature 011, [specs/011-semantic-search/](specs/011-semantic-search/quickstart.md)).
+Chaque strophe est transformée en vecteur à la construction ; la requête est transformée en
+ligne par le serveur (`POST /api/embed`), puis comparée sur l’appareil. Une liste unique mêle
+résultats par le sens et par les mots ; les titres exacts restent en tête.
+
+```bash
+# .env : MAMMOUTH_API_KEY=…  (et, au besoin, EMBEDDINGS_BASE_URL, EMBEDDINGS_MODEL)
+npx tsx scripts/semantic/smoke.ts "la fidélité de Dieu"   # vérifie le fournisseur
+npm run data                     # ajoute les vecteurs (cache dans .cache/embeddings/)
+npx tsx scripts/semantic/evaluate.ts        # compare ce qu’on indexe ; écrit tests/queries/meaning-evaluation.json
+npx tsx scripts/semantic/query-vectors.ts   # vecteurs des requêtes de référence (test hors ligne)
+```
+
+Sans clé et avec un cache incomplet, `npm run data` saute cette étape avec un avertissement :
+l’application fonctionne, sans le bouton. Seuls les textes nouveaux ou modifiés sont envoyés
+d’une construction à l’autre. Pour relancer la comparaison après un import, lancer
+`evaluate.ts` puis reporter le choix dans `src/lib/meaning/config.ts`.
+
+Déploiement (Cloudflare Workers, une seule route serveur `/api/embed`) :
+
+```bash
+npx wrangler secret put MAMMOUTH_API_KEY    # une fois
+npm run build && npx wrangler deploy
+```
+
+Confidentialité : le texte d’une recherche par le sens est envoyé à Mammouth AI, qui le
+transmet à OpenAI (`text-embedding-3-large`), sans identité ni cookie ; le serveur ne journalise
+pas les requêtes. Les 50 dernières requêtes restent sur l’appareil pour fonctionner hors ligne.
 
 ## Organisation
 

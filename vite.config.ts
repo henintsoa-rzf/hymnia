@@ -41,7 +41,16 @@ export default defineConfig({
 				generateSW: {
 					// App, fonts (Latin only), icons and the hashed hymn data: all of it works offline.
 					globPatterns: ['client/**/*.{js,css,png,svg,woff2,webmanifest,json}'],
-					globIgnores: ['**/*cyrillic*', '**/*greek*', '**/*vietnamese*'],
+					// The meaning data (feature 011, research R8) is never precached: it downloads in the
+					// background once the app is idle, into its own runtime cache.
+					globIgnores: ['**/*cyrillic*', '**/*greek*', '**/*vietnamese*', '**/meaning*'],
+					runtimeCaching: [
+						{
+							urlPattern: /\/data\/meaning[^/]*\.bin$/,
+							handler: 'CacheFirst',
+							options: { cacheName: 'hymnia-meaning', expiration: { maxEntries: 4 } }
+						}
+					],
 					// Nothing is prerendered (single-page app): the plugin's default "prerendered/"
 					// pattern matches no file. The fallback page is added through `kit.spa`.
 					globStrict: false

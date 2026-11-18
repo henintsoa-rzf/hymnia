@@ -20,6 +20,11 @@ const STRENGTH_CHECKS = 200;
 export type SearchEngine = {
 	catalog: CatalogApi;
 	search(request: SearchRequest): SearchResponse;
+	/**
+	 * A hymn as a result (title, references, entry to open), with the hymnal filter applied:
+	 * used for hymns found by meaning only (feature 011). Ranking is not involved.
+	 */
+	resultFor(hymnId: string, hymnals?: string[]): SearchResult | undefined;
 };
 
 /** One title of a hymn and the entries that print it (HymnalEntry.title). */
@@ -295,5 +300,15 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 		}
 	}
 
-	return { catalog, search };
+	function resultFor(hymnId: string, hymnalIds: string[] = []): SearchResult | undefined {
+		const p = prepared.get(hymnId);
+		if (!p) return undefined;
+		const selected = hymnalIds.filter((id) => order.has(id));
+		const allowed = selected.length > 0 ? new Set(selected) : null;
+		const entries = allowedEntries(p.hymn, allowed);
+		if (entries.length === 0) return undefined;
+		return result(p.hymn, entries, primaryEntry(entries, selected), 6);
+	}
+
+	return { catalog, search, resultFor };
 }

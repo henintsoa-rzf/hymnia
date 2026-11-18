@@ -1,11 +1,23 @@
-// Cloudflare Workers deployment: serves the static build (single-page app) with no Worker code.
+// Cloudflare Workers deployment: the static build (single-page app), plus one Worker route,
+// POST /api/embed, for search by meaning (specs/011-semantic-search/contracts/embed-api.md).
+// The embeddings key is a secret, set once with: npx wrangler secret put MAMMOUTH_API_KEY
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "hymnia-beta",
+	"main": "worker/index.ts",
 	"compatibility_date": "2026-11-01",
 	"assets": {
 		"directory": "./build",
+		"binding": "ASSETS",
+		// Only /api/* reaches the Worker; everything else is served as a static asset.
+		"run_worker_first": ["/api/*"],
 		// Routes like /collections are not files: serve index.html and let the app route them.
 		"not_found_handling": "single-page-application"
-	}
+	},
+	// 30 query embeddings per minute per client (contracts/embed-api.md).
+	"ratelimits": [
+		{ "name": "EMBED_LIMIT", "namespace_id": "1101", "simple": { "limit": 30, "period": 60 } }
+	],
+	// Status and duration only: the Worker never logs query text (FR-010).
+	"observability": { "logs": { "enabled": true, "invocation_logs": false } }
 }

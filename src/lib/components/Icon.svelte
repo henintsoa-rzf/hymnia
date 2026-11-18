@@ -14,7 +14,8 @@
 		| 'up'
 		| 'down'
 		| 'external'
-		| 'grip';
+		| 'grip'
+		| 'meaning';
 </script>
 
 <script lang="ts">
@@ -24,6 +25,9 @@
 <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 	{#if name === 'search'}
 		<circle cx="11" cy="11" r="7" /><path d="M20 20l-4-4" />
+	{:else if name === 'meaning'}
+		<!-- Two overlapping circles: texts that share a meaning (feature 011). -->
+		<circle cx="9" cy="12" r="5.5" /><circle cx="15" cy="12" r="5.5" />
 	{:else if name === 'book'}
 		<path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v15H7.5A2.5 2.5 0 0 0 5 20.5z" />
 		<path d="M5 20.5A2.5 2.5 0 0 0 7.5 23H19v-5M9 7h6" />

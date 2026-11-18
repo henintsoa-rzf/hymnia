@@ -9,11 +9,13 @@ export type SearchRequest = {
 	limit?: number;
 };
 
-export type SearchKind = 'empty' | 'number' | 'hymnal-number' | 'text';
+/** `meaning`: blended list of a search by meaning (specs/011-semantic-search). */
+export type SearchKind = 'empty' | 'number' | 'hymnal-number' | 'text' | 'meaning';
 
 export type ResultRef = { hymnal: string; hymnalAbbr: string; number: string };
 
-export type Tier = 1 | 2 | 3 | 4 | 5;
+/** 6: found by meaning only (specs/011-semantic-search/contracts/meaning-search.md). */
+export type Tier = 1 | 2 | 3 | 4 | 5 | 6;
 
 export type Excerpt = {
 	/** One line or ~120 characters, original text (FR-020). */
@@ -30,8 +32,10 @@ export type SearchResult = {
 	/** Entry used to open the hymn. */
 	primaryRef: { hymnal: string; number: string };
 	tier: Tier;
-	/** Only for tiers 4–5 (FR-008). */
+	/** Tiers 4–5 (FR-008), and the best stanza of a meaning hit. */
 	excerpt?: Excerpt;
+	/** Search by meaning only: which list found the hymn. */
+	matchedBy?: 'words' | 'meaning' | 'both';
 };
 
 export type SearchResponse = {

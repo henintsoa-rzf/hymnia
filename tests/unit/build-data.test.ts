@@ -1,6 +1,15 @@
 import { describe, expect, it } from 'vitest';
 import { fileURLToPath } from 'node:url';
-import { buildCatalog, buildData, loadContent, validateContent } from '../../scripts/build-data';
+import { mkdtemp, readFile, readdir, rm } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
+import {
+	buildCatalog,
+	buildData,
+	loadContent,
+	validateContent,
+	writeOutput
+} from '../../scripts/build-data';
 
 const fixture = (name: string) => fileURLToPath(new URL(`../fixtures/${name}`, import.meta.url));
 
@@ -198,5 +207,51 @@ describe('credit roles (feature 002)', () => {
 		const raw = await validRaw();
 		raw.hymns[0].data.credits = [{ name: 'Louis Bourgeois', role: 'unspecified' }];
 		expect(validateContent(raw).errors).toEqual([]);
+	});
+});
+
+describe('meaning data in the manifest (feature 011, T016)', () => {
+	const sample = fileURLToPath(new URL('../fixtures/sample-content', import.meta.url));
+
+	it('has no meaning entry when the meaning step was skipped', async () => {
+		const { catalog, indexJson } = await buildData(sample);
+		const dir = await mkdtemp(join(tmpdir(), 'hymnia-out-'));
+		try {
+			const { manifest } = await writeOutput(dir, catalog!, indexJson!);
+			expect(manifest.meaning).toBeUndefined();
+			const written = JSON.parse(await readFile(join(dir, 'manifest.json'), 'utf8'));
+			expect('meaning' in written).toBe(false);
+			expect((await readdir(dir)).some((f) => f.startsWith('meaning'))).toBe(false);
+		} finally {
+			await rm(dir, { recursive: true, force: true });
+		}
+	});
+
+	it('writes both hashed files and the manifest entry', async () => {
+		const { catalog, indexJson } = await buildData(sample);
+		const dir = await mkdtemp(join(tmpdir(), 'hymnia-out-'));
+		try {
+			const meaning = {
+				configId: 'fake/title+stanza/4/i8/v1',
+				dims: 4,
+				rows: 2,
+				vectors: new Uint8Array(8),
+				rowMap: new Uint8Array(16),
+				bytes: 24,
+				report: { embedded: 2, cached: 0 }
+			};
+			const { manifest } = await writeOutput(dir, catalog!, indexJson!, meaning);
+			expect(manifest.meaning).toMatchObject({
+				configId: meaning.configId,
+				dims: 4,
+				rows: 2,
+				bytes: 24
+			});
+			expect(manifest.meaning!.vectors).toMatch(/^meaning\.[0-9a-f]{10}\.bin$/);
+			expect(manifest.meaning!.rowMap).toMatch(/^meaning-rows\.[0-9a-f]{10}\.bin$/);
+			expect((await readFile(join(dir, manifest.meaning!.rowMap))).byteLength).toBe(16);
+		} finally {
+			await rm(dir, { recursive: true, force: true });
+		}
 	});
 });

@@ -135,9 +135,12 @@
 			actions={filterActive ? clearFilter : undefined}
 		/>
 	{/if}
-{:else if response.kind === 'text'}
+{:else if response.kind === 'text' || response.kind === 'meaning'}
 	{#if response.results.length > 0}
-		<h2 class="hb-overline">{countTitle}</h2>
+		<!-- Feature 011: one blended list, no badge per result (constitution II). -->
+		<h2 class="hb-overline">
+			{response.kind === 'meaning' ? `Résultats par le sens · ${countTitle}` : countTitle}
+		</h2>
 		<ul class="hb-list">
 			{#each response.results as result (result.hymnId)}
 				<li class:with-action={action}>
@@ -162,6 +165,12 @@
 				</li>
 			{/each}
 		</ul>
+	{:else if response.kind === 'meaning'}
+		<EmptyState
+			title="Aucun chant trouvé par le sens"
+			text="Essayez d’autres mots, ou cherchez dans tous les recueils."
+			actions={filterActive ? clearFilter : undefined}
+		/>
 	{:else if response.unknownHymnal}
 		<EmptyState
 			title={`Aucun recueil « ${response.unknownHymnal} » dans Hymnia`}

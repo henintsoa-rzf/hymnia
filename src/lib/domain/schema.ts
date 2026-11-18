@@ -164,8 +164,24 @@ export type Catalog = {
 	redirects: Redirects;
 };
 
+/** Search by meaning data of the same build (specs/011-semantic-search/contracts/meaning-data.md). */
+export type MeaningManifest = {
+	/** MeaningConfig id: model, representation, dims, quantisation and revision. */
+	configId: string;
+	dims: number;
+	rows: number;
+	/** `meaning.<hash>.bin`: rows × dims int8 values. */
+	vectors: string;
+	/** `meaning-rows.<hash>.bin`: rows × 8 bytes (uint16 hymnIndex, uint16 section, float32 scale). */
+	rowMap: string;
+	/** Both files, for the progress display. */
+	bytes: number;
+};
+
 export type DataManifest = {
 	version: string;
 	catalog: string;
 	index: string;
+	/** Absent when the build had no meaning vectors. Old clients ignore it. */
+	meaning?: MeaningManifest;
 };

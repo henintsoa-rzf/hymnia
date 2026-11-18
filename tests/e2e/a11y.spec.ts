@@ -1,7 +1,7 @@
 // WCAG 2.2 AA on every screen (contracts/routes.md), light and dark, text at 100 % and 200 %.
 import AxeBuilder from '@axe-core/playwright';
 import { expect, test } from '@playwright/test';
-import { seedCollections } from './helpers';
+import { mockEmbed, seedCollections } from './helpers';
 
 const SCREENS = [
 	'/',
@@ -13,7 +13,9 @@ const SCREENS = [
 	'/recueils/ce/1',
 	'/reglages',
 	'/repertoire',
-	'/recueils/ce/99'
+	'/recueils/ce/99',
+	// Feature 011: the « Par le sens » button and a blended meaning list.
+	'/?q=la%20gloire%20de%20Dieu&sens=1'
 ];
 
 for (const colorScheme of ['light', 'dark'] as const) {
@@ -26,6 +28,7 @@ for (const colorScheme of ['light', 'dark'] as const) {
 					JSON.stringify({ textScale: scale, theme: 'system', hymnalFilter: [] })
 				);
 			}, textScale);
+			await mockEmbed(page);
 			for (const url of SCREENS) {
 				await page.goto(url);
 				await page.waitForLoadState('networkidle');

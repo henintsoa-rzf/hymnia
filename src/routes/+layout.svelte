@@ -14,6 +14,7 @@
 	import { prefs } from '$lib/prefs/prefs';
 	import { collectRepairs } from '$lib/repertoire/resolve';
 	import { repertoire } from '$lib/repertoire/store';
+	import { scheduleMeaningPrefetch } from '$lib/search/session';
 
 	let { children } = $props();
 
@@ -45,6 +46,10 @@
 				// No catalog yet (offline first visit): the screens show their own message.
 			});
 	});
+
+	// Feature 011 (research R8): the meaning data downloads in the background once the app is
+	// idle, never in the install download.
+	$effect(() => scheduleMeaningPrefetch());
 
 	const routeId = $derived(page.route.id ?? '');
 	const section = $derived(

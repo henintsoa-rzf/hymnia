@@ -5,9 +5,11 @@
   Feature 006: with an empty field, the screen offers the hymns recently opened, recent
   collections and, on a first visit, example searches, in place of the hymnal list
   (specs/006-search-start-panel/contracts/ui.md).
-  Feature 011: « Par le sens » turns the query into a vector online, then ranks on the device and
-  shows one blended list (?sens=1). Any edit of the query returns to word search
-  (specs/011-semantic-search/contracts/meaning-search.md).
+  Feature 011: search by meaning turns the query into a vector online, then ranks on the device
+  and shows one blended list (specs/011-semantic-search/contracts/meaning-search.md).
+  Feature 012: search by meaning is a mode of the field, kept in the URL (?sens=1). Enter runs it;
+  editing the text shows the word results again until the next Enter
+  (specs/012-meaning-search-mode/contracts/search-mode.md).
 -->
 <script lang="ts">
 	import { goto } from '$app/navigation';
@@ -25,6 +27,7 @@
 	import SearchExamples from '$lib/components/SearchExamples.svelte';
 	import { hymnUrl, refLabel } from '$lib/format';
 	import { embedQuery } from '$lib/meaning/embed-client';
+	import { decideSubmit, type SearchMode } from '$lib/meaning/mode';
 	import { browserQueryCache } from '$lib/meaning/query-cache';
 	import { recentHymns } from '$lib/history/resolve';
 	import { hymnHistory } from '$lib/history/store';
@@ -32,7 +35,8 @@
 	import { byUpdatedDesc } from '$lib/repertoire/model';
 	import { repertoire } from '$lib/repertoire/store';
 	import { pickExamples } from '$lib/search/examples';
-	import { normalizeText } from '$lib/search/normalize';
+	import { compactKey } from '$lib/search/normalize';
+	import { parseQuery } from '$lib/search/query-parser';
 	import { getSearchClient } from '$lib/search/session';
 	import type { SearchResponse } from '$lib/search/types';
 
@@ -54,7 +58,7 @@
 		).filter((id) => known.has(id))
 	);
 
-	let input = $state<HTMLInputElement>();
+	let input = $state<HTMLTextAreaElement>();
 	let response = $state<SearchResponse | null>(null);
 	let unavailable = $state(false);
 
@@ -65,18 +69,18 @@
 		() => {
 			ready = true;
 			// A shared or reloaded link with ?sens=1 shows the search by meaning again.
-			if (initialMeaning && query.trim()) runMeaning().finally(() => (keepSens = false));
-			else keepSens = false;
+			if (mode === 'meaning' && offersMeaning(query)) void runMeaning();
 		},
 		() => (unavailable = true)
 	);
 
-	/* ---------- search by meaning (feature 011) ---------- */
+	/* ---------- search by meaning (features 011, 012) ---------- */
 
-	const initialMeaning = params.get('sens') === '1';
-	const initialQuery = params.get('q') ?? '';
-	/** Keeps ?sens=1 in the URL while a link with it is being restored. */
-	let keepSens = $state(initialMeaning);
+	const meaningAvailable = untrack(() => data.catalog.meaningAvailable);
+	/** The field's mode, kept in the URL as ?sens=1 (feature 012, research R7). */
+	let mode = $state<SearchMode>(
+		meaningAvailable && params.get('sens') === '1' ? 'meaning' : 'word'
+	);
 	/** The query and filter whose meaning results are shown; null in word mode. */
 	let meaningFor = $state<{ query: string; filter: string } | null>(null);
 	let meaningResponse = $state<SearchResponse | null>(null);
@@ -87,14 +91,23 @@
 	let meaningController: AbortController | undefined;
 
 	const filterKey = (ids: string[]) => [...ids].sort().join(',');
-	const meaningActive = $derived(meaningFor !== null && meaningFor.query === query);
-	const meaningOffered = $derived(
-		ready &&
-			client.meaningConfig() !== undefined &&
-			response?.kind === 'text' &&
-			response.query === query &&
-			normalizeText(query).length > 2
+	/** Results by meaning are shown: meaning mode, for this very text. */
+	const meaningActive = $derived(
+		mode === 'meaning' && meaningFor !== null && meaningFor.query === query
 	);
+
+	// The same reading of the query as the search engine (engine.ts), but synchronous, so what
+	// Enter does never waits on the worker (research R6).
+	const hymnalKeys = $derived(
+		new Map(
+			data.catalog
+				.getHymnals()
+				.flatMap((h) => [...h.abbreviations, h.name].map((label) => [compactKey(label), h.id]))
+		)
+	);
+	const queryKind = (q: string) => parseQuery(q, (label) => hymnalKeys.get(compactKey(label))).kind;
+	/** A text to search by meaning: not empty, not a hymn number. */
+	const offersMeaning = (q: string) => ['short', 'text'].includes(queryKind(q));
 	const shownPhase = $derived.by((): MeaningPhase => {
 		if (phaseQuery !== query) return { kind: 'idle' };
 		const status = $meaningStatus;
@@ -114,16 +127,23 @@
 	}
 
 	async function runMeaning() {
-		const meta = client.meaningConfig();
 		const q = query;
-		if (!meta || !q.trim()) return;
+		if (!q.trim()) return;
 		meaningController?.abort();
 		const controller = (meaningController = new AbortController());
 		const filter = [...selected];
-		const stale = () => controller.signal.aborted || query !== q;
+		const stale = () => controller.signal.aborted || query !== q || mode !== 'meaning';
 
 		phaseQuery = q;
 		meaningPhase = { kind: 'waiting' };
+		// The button shows from the first paint (manifest); the worker may still be loading.
+		if (!ready) await client.ready.catch(() => undefined);
+		if (stale()) return;
+		const meta = client.meaningConfig();
+		if (!meta) {
+			meaningPhase = { kind: 'error', reason: 'unavailable' };
+			return;
+		}
 		const embedded = await embedQuery(q, meta, {
 			signal: controller.signal,
 			cache: browserQueryCache(meta.configId)
@@ -155,13 +175,15 @@
 		meaningPhase = { kind: 'idle' };
 	}
 
-	// Editing the query cancels a search by meaning in progress (US1 scenario 7).
+	// Editing the query cancels a search by meaning in progress (US1 scenario 7) and drops its
+	// results: typing the same text again shows word results until Enter (feature 012).
 	$effect(() => {
-		if (query !== initialQuery) keepSens = false;
 		if (query !== untrack(() => phaseQuery) && meaningController) {
 			meaningController.abort();
 			meaningController = undefined;
 		}
+		const shownFor = untrack(() => meaningFor);
+		if (shownFor && shownFor.query !== query) meaningFor = null;
 	});
 
 	// The hymnal filter applies to the meaning list too (FR-006): search again when it changes.
@@ -177,7 +199,7 @@
 	$effect(() => {
 		const q = query;
 		const filter = [...selected];
-		const sens = meaningActive || keepSens;
+		const sens = mode === 'meaning';
 
 		const url = new URL(window.location.href);
 		if (q) url.searchParams.set('q', q);
@@ -247,6 +269,26 @@
 		if (first) goto(hymnUrl(first.primaryRef.hymnal, first.primaryRef.number));
 	}
 
+	/** Enter (feature 012, research R6). */
+	function submit() {
+		const action = decideSubmit({
+			mode,
+			queryKind: queryKind(query),
+			meaningCurrent: meaningActive
+		});
+		if (action === 'open-first') openFirst();
+		else if (action === 'run-meaning') void runMeaning();
+	}
+
+	function changeMode(next: SearchMode) {
+		if (next === 'meaning') {
+			// One press runs it on a text already typed, as before feature 012.
+			if (offersMeaning(query)) void runMeaning();
+		} else {
+			cancelMeaning();
+		}
+	}
+
 	function onkeydown(event: KeyboardEvent) {
 		const target = event.target as HTMLElement | null;
 		const typing = target?.closest('input, textarea, select, [contenteditable]');
@@ -274,10 +316,10 @@
 			<SearchBox
 				bind:value={query}
 				bind:input
-				onsubmit={openFirst}
-				meaningAvailable={meaningOffered || meaningActive}
-				{meaningActive}
-				onmeaning={() => void runMeaning()}
+				bind:mode
+				{meaningAvailable}
+				onsubmit={submit}
+				onmodechange={changeMode}
 			/>
 			{#if hymnals.length > 1}
 				<HymnalFilter hymnals={filterHymnals} bind:selected />
@@ -332,8 +374,11 @@
 			<RecentCollections {collections} />
 		{/if}
 		<p class="hy-caption search__keys">
-			Au clavier&#8239;: <kbd>/</kbd> place le curseur dans la recherche, <kbd>Entrée</kbd> ouvre le premier
-			résultat.
+			Au clavier&#8239;: <kbd>/</kbd> place le curseur dans la recherche, <kbd>Entrée</kbd> ouvre le
+			premier résultat.
+			{#if meaningAvailable}
+				En mode «&#8239;par le sens&#8239;», <kbd>Entrée</kbd> lance la recherche.
+			{/if}
 		</p>
 	</aside>
 </div>

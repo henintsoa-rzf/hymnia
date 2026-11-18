@@ -22,7 +22,8 @@
   <div style="display: flex; flex-direction: column; gap: 12px; padding: 12px 16px 4px">
     <div class="hy-seg" role="group" aria-label="Type de recherche">
       <button type="button" aria-pressed="{{wordsPressed}}" onClick="{{toWords}}">Numéro et paroles</button>
-      <button type="button" aria-pressed="{{sensePressed}}" onClick="{{toSense}}">Par le sens</button>
+      <!-- Feature 012 (temporary): an icon in place of « Par le sens »; see specs/012-meaning-search-mode. -->
+      <button type="button" aria-pressed="{{sensePressed}}" onClick="{{toSense}}" aria-label="Rechercher par le sens" title="Rechercher par le sens"><svg viewBox="0 0 24 24" aria-hidden="true" style="width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.5; vertical-align: middle"><circle cx="10" cy="13" r="6"></circle><path d="M14.5 17.5L19.5 22.5"></path><path d="M18.5 2.5c.4 1.9 1.4 2.9 3.3 3.3-1.9.4-2.9 1.4-3.3 3.3-.4-1.9-1.4-2.9-3.3-3.3 1.9-.4 2.9-1.4 3.3-3.3z"></path><path d="M12.5 1.5v3M11 3h3"></path></svg></button>
     </div>
 
     <sc-if value="{{isWords}}" hint-placeholder-val="{{true}}">

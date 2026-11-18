@@ -1,6 +1,6 @@
 // SC-006 / FR-018: after one visit, every user story works offline.
 import { expect, test } from '@playwright/test';
-import { collectionTitles, results, search } from './helpers';
+import { collectionTitles, results, search, searchField } from './helpers';
 
 test.use({ serviceWorkers: 'allow' });
 
@@ -51,7 +51,7 @@ test('collections can be made and changed offline, and are kept (SC-004)', async
 	await dialog.getByLabel('Nom de la collection').fill('Hors ligne');
 	await dialog.getByRole('button', { name: 'Créer' }).click();
 	for (const query of ['CE 1', 'CE 12']) {
-		await page.getByRole('searchbox').fill(query);
+		await searchField(page).fill(query);
 		await page
 			.getByRole('button', { name: /^Ajouter « / })
 			.first()

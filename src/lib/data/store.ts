@@ -9,7 +9,7 @@ let catalog: Promise<CatalogApi> | undefined;
 
 export function loadCatalog(fetchFn: typeof fetch = fetch): Promise<CatalogApi> {
 	catalog ??= fetchCatalog(base, fetchFn)
-		.then(createCatalog)
+		.then(({ catalog, meaningAvailable }) => createCatalog(catalog, { meaningAvailable }))
 		.catch((error) => {
 			catalog = undefined; // try again on the next navigation
 			throw error;

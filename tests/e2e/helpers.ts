@@ -2,11 +2,18 @@ import { expect, type Page } from '@playwright/test';
 
 /** The search field of the first screen. */
 export const searchField = (page: Page) =>
-	page.getByRole('searchbox', { name: 'Rechercher par numéro, titre ou paroles' });
+	page.getByRole('textbox', { name: 'Rechercher par numéro, titre ou paroles' });
+
+/** The same field in the search-by-meaning mode (feature 012). */
+export const meaningField = (page: Page) =>
+	page.getByRole('textbox', { name: /^Rechercher par le sens/ });
+
+/** The search field in either mode (feature 012). */
+export const anyField = (page: Page) => page.getByRole('search').getByRole('textbox');
 
 /** Type a query and wait until results or a message are shown. */
 export async function search(page: Page, query: string) {
-	await searchField(page).fill(query);
+	await anyField(page).fill(query);
 	await expect(page).toHaveURL(
 		new RegExp(`q=${encodeURIComponent(query).replace(/%20/g, '(%20|\\+)')}`)
 	);
@@ -84,5 +91,6 @@ export async function mockEmbed(
 	return posted;
 }
 
-/** The « Par le sens » button beside the search field. */
-export const meaningButton = (page: Page) => page.getByRole('button', { name: 'Par le sens' });
+/** The switch to the search-by-meaning mode (feature 012). */
+export const meaningButton = (page: Page) =>
+	page.getByRole('button', { name: 'Rechercher par le sens' });

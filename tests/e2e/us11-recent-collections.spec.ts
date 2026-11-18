@@ -1,6 +1,6 @@
 // Feature 006, User Story 2: jump to a recent collection (spec.md, US2; contracts/ui.md).
 import { expect, test, type Page } from '@playwright/test';
-import { seedCollections } from './helpers';
+import { searchField, seedCollections } from './helpers';
 
 const block = (page: Page) => page.getByRole('region', { name: 'Collections' });
 
@@ -47,7 +47,7 @@ test('2. a collection opens on tap', async ({ page }) => {
 
 test('3. without collections, there is no collections block', async ({ page }) => {
 	await page.goto('/');
-	await expect(page.getByRole('searchbox')).toBeVisible();
+	await expect(searchField(page)).toBeVisible();
 	await expect(block(page)).toHaveCount(0);
 });
 

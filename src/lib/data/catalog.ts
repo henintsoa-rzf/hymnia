@@ -15,6 +15,11 @@ export type EntryRef = { hymn: PublishedHymn; entry: PublishedEntry };
 
 export type CatalogApi = {
 	version: string;
+	/**
+	 * The data has meaning vectors (feature 011): the search-by-meaning button is shown from the
+	 * first paint (feature 012, research R2).
+	 */
+	meaningAvailable: boolean;
 	/** Hymnals to list: those with at least one published hymn, in sortOrder. */
 	getHymnals(): PublishedHymnal[];
 	/** Listed hymnals (at least one published hymn), in French alphabetical order of name, then id (feature 009). */
@@ -30,7 +35,10 @@ export type CatalogApi = {
 	neighbours(hymnalId: string, number: string): { previous?: EntryRef; next?: EntryRef };
 };
 
-export function createCatalog(catalog: Catalog): CatalogApi {
+export function createCatalog(
+	catalog: Catalog,
+	{ meaningAvailable = false }: { meaningAvailable?: boolean } = {}
+): CatalogApi {
 	const hymnals = new Map(catalog.hymnals.map((h) => [h.id, h]));
 	const hymns = new Map(catalog.hymns.map((h) => [h.id, h]));
 	const byHymnal = new Map<string, EntryRef[]>();
@@ -61,6 +69,7 @@ export function createCatalog(catalog: Catalog): CatalogApi {
 
 	return {
 		version: catalog.version,
+		meaningAvailable,
 		getHymnals: () => listed,
 		getHymnalsByName: () => byName,
 		getHymnal: (id) => hymnals.get(id),
@@ -97,9 +106,13 @@ export async function fetchData(base: string, fetchFn: typeof fetch = fetch): Pr
 	return { manifest, catalog: JSON.parse(catalogText), indexJson };
 }
 
-/** Load the catalog only (screens). */
-export async function fetchCatalog(base: string, fetchFn: typeof fetch = fetch): Promise<Catalog> {
+/** Load the catalog only (screens), and whether the data has meaning vectors (feature 012). */
+export async function fetchCatalog(
+	base: string,
+	fetchFn: typeof fetch = fetch
+): Promise<{ catalog: Catalog; meaningAvailable: boolean }> {
 	const get = getter(base, fetchFn);
 	const manifest: DataManifest = JSON.parse(await get('manifest.json'));
-	return JSON.parse(await get(manifest.catalog));
+	const catalog: Catalog = JSON.parse(await get(manifest.catalog));
+	return { catalog, meaningAvailable: Boolean(manifest.meaning) };
 }

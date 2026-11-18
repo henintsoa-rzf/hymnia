@@ -36,7 +36,7 @@
 	let selected = $state<string[]>(
 		(params.get('recueils') ?? '').split(',').filter((id) => known.has(id))
 	);
-	let input = $state<HTMLInputElement>();
+	let input = $state<HTMLTextAreaElement>();
 	let response = $state<SearchResponse | null>(null);
 	let status = $state('');
 	/** Hymns added during this visit (for "Terminé (n)"). */

@@ -1,5 +1,6 @@
 // User Story 3: browse a hymnal (spec.md, acceptance scenarios 1–3).
 import { expect, test } from '@playwright/test';
+import { searchField } from './helpers';
 
 test('1. the hymnal list shows each hymnal with its hymn count', async ({ page }) => {
 	await page.goto('/recueils');
@@ -51,7 +52,7 @@ test('the search screen no longer lists the hymnals', async ({ page }) => {
 	for (const size of [null, { width: 1280, height: 800 }]) {
 		if (size) await page.setViewportSize(size);
 		await page.goto('/');
-		await expect(page.getByRole('searchbox')).toBeVisible();
+		await expect(searchField(page)).toBeVisible();
 		await expect(page.getByRole('heading', { name: 'Recueils' })).toHaveCount(0);
 		await expect(page.locator('main a[href$="/recueils/ce"]')).toHaveCount(0);
 	}

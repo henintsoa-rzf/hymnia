@@ -1,8 +1,9 @@
 // Feature 011: search by meaning (specs/011-semantic-search/spec.md, US1 and US2), with
-// /api/embed answered by the fake embedder of the tests.
+// /api/embed answered by the fake embedder of the tests. Since feature 012 the button switches a
+// mode of the field: one press runs the search on a text already typed, Enter runs it again.
 import AxeBuilder from '@axe-core/playwright';
 import { expect, test, type Page } from '@playwright/test';
-import { meaningButton, mockEmbed, results, search, searchField } from './helpers';
+import { anyField, meaningButton, mockEmbed, results, search } from './helpers';
 
 const chip = (page: Page, name: string) =>
 	page.getByRole('group', { name: 'Filtrer par recueil' }).getByRole('button', { name });
@@ -10,21 +11,25 @@ const overline = (page: Page) => page.locator('main h2.hb-overline').first();
 
 async function searchByMeaning(page: Page, query: string) {
 	await search(page, query);
-	await meaningButton(page).click();
+	if ((await meaningButton(page).getAttribute('aria-pressed')) === 'true') {
+		await anyField(page).press('Enter');
+	} else {
+		await meaningButton(page).click();
+	}
 	await expect(overline(page)).toContainText('Résultats par le sens');
 }
 
 test.describe('US1: find a hymn by its meaning', () => {
-	test('the button is offered for a text query only', async ({ page }) => {
+	test('the button is shown whatever the query (feature 012)', async ({ page }) => {
 		await mockEmbed(page);
 		await page.goto('/');
-		await expect(meaningButton(page)).toHaveCount(0);
+		await expect(meaningButton(page)).toBeVisible();
 		await search(page, 'CE 1');
 		await expect(page.locator('.hy-exact')).toBeVisible();
-		await expect(meaningButton(page)).toHaveCount(0);
+		await expect(meaningButton(page)).toBeVisible();
 		await search(page, '12');
 		await expect(results(page).first()).toBeVisible();
-		await expect(meaningButton(page)).toHaveCount(0);
+		await expect(meaningButton(page)).toBeVisible();
 		await search(page, 'un ami fidèle');
 		await expect(meaningButton(page)).toBeVisible();
 		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'false');
@@ -70,14 +75,14 @@ test.describe('US1: find a hymn by its meaning', () => {
 		await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
 	});
 
-	test('editing the query returns to word search', async ({ page }) => {
+	test('editing the query shows word results until Enter, in the same mode', async ({ page }) => {
 		await mockEmbed(page);
 		await page.goto('/');
 		await searchByMeaning(page, 'la gloire de Dieu');
-		await searchField(page).fill('la gloire de Dieu et');
-		await expect(page).not.toHaveURL(/sens=1/);
+		await anyField(page).fill('la gloire de Dieu et');
 		await expect(overline(page)).not.toContainText('Résultats par le sens');
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'false');
+		await expect(page).toHaveURL(/sens=1/);
+		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'true');
 	});
 
 	test('a link with sens=1 shows the meaning list again', async ({ page }) => {
@@ -91,7 +96,7 @@ test.describe('US1: find a hymn by its meaning', () => {
 		const posted = await mockEmbed(page);
 		await page.goto('/');
 		const long = 'la grâce de Dieu '.repeat(40).trim();
-		await searchField(page).fill(long);
+		await anyField(page).fill(long);
 		await meaningButton(page).click();
 		await expect(page.getByText('Recherche limitée aux 500 premiers caractères')).toBeVisible();
 		await expect.poll(() => posted.length).toBe(1);
@@ -122,7 +127,8 @@ test.describe('US2: weak or no connection', () => {
 			timeout: 1000
 		});
 		await expect(results(page).first()).toBeVisible();
-		await expect(page).not.toHaveURL(/sens=1/);
+		// The mode stays on: Enter tries again once back online.
+		await expect(page).toHaveURL(/sens=1/);
 	});
 
 	test('a slow reply shows a waiting line that can be cancelled', async ({ page }) => {
@@ -134,7 +140,8 @@ test.describe('US2: weak or no connection', () => {
 		await expect(results(page).first()).toBeVisible();
 		await page.getByRole('button', { name: 'Annuler' }).click();
 		await expect(page.getByText('Recherche par le sens…')).toHaveCount(0);
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'false');
+		// Cancelling stops the search, not the mode (feature 012).
+		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'true');
 	});
 
 	test('the service is unavailable: a message, and word results stay', async ({ page }) => {
@@ -231,7 +238,7 @@ test.describe('accessibility and themes', () => {
 		await page.getByRole('button', { name: 'Annuler' }).click();
 		await context.setOffline(true);
 		await search(page, 'grâce');
-		await meaningButton(page).click();
+		await anyField(page).press('Enter');
 		await expect(page.getByText('La recherche par le sens nécessite une connexion.')).toBeVisible();
 		expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([]);
 	});

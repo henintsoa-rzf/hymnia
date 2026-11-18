@@ -26,8 +26,10 @@
 	{#if name === 'search'}
 		<circle cx="11" cy="11" r="7" /><path d="M20 20l-4-4" />
 	{:else if name === 'meaning'}
-		<!-- Two overlapping circles: texts that share a meaning (feature 011). -->
-		<circle cx="9" cy="12" r="5.5" /><circle cx="15" cy="12" r="5.5" />
+		<!-- A magnifying glass with sparkles: search by meaning (feature 012, research R5). -->
+		<circle cx="10" cy="13" r="6" /><path d="M14.5 17.5L19.5 22.5" /><path
+			d="M18.5 2.5c.4 1.9 1.4 2.9 3.3 3.3-1.9.4-2.9 1.4-3.3 3.3-.4-1.9-1.4-2.9-3.3-3.3 1.9-.4 2.9-1.4 3.3-3.3z"
+		/><path d="M12.5 1.5v3M11 3h3" />
 	{:else if name === 'book'}
 		<path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v15H7.5A2.5 2.5 0 0 0 5 20.5z" />
 		<path d="M5 20.5A2.5 2.5 0 0 0 7.5 23H19v-5M9 7h6" />

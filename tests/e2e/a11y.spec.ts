@@ -14,8 +14,10 @@ const SCREENS = [
 	'/reglages',
 	'/repertoire',
 	'/recueils/ce/99',
-	// Feature 011: the « Par le sens » button and a blended meaning list.
-	'/?q=la%20gloire%20de%20Dieu&sens=1'
+	// Feature 011: a blended meaning list; feature 012: the field in the search-by-meaning mode.
+	'/?q=la%20gloire%20de%20Dieu&sens=1',
+	// Feature 012: the empty field in the search-by-meaning mode.
+	'/?sens=1'
 ];
 
 for (const colorScheme of ['light', 'dark'] as const) {

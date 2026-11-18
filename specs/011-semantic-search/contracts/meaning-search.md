@@ -48,12 +48,22 @@ excerpt?: Excerpt;   // meaning: the best stanza's first 2 lines (≤ 160 chars)
 
 ## When the action is offered (FR-001, edge cases)
 
+> **Replaced by feature 012**: the button is now an icon switch shown whenever the data has
+> meaning vectors, whatever the query. See
+> [specs/012-meaning-search-mode/contracts/search-mode.md](../../012-meaning-search-mode/contracts/search-mode.md).
+> The 500-character limit below still applies.
+
 - `parseQuery(query).kind === 'text'` and the manifest has `meaning`. It is never offered for
   an empty query, a number or a hymnal + number.
 - Queries over 500 characters are cut to 500, with the note « Recherche limitée aux 500
   premiers caractères ».
 
 ## UI states (search screen, `src/routes/+page.svelte`)
+
+> **Feature 012** changes the « Words » and « Query edited » rows: the button is an icon switch
+> for a mode of the field, `sens=1` means "meaning mode" and stays while the text is edited, and
+> Enter runs the search by meaning
+> ([search-mode.md](../../012-meaning-search-mode/contracts/search-mode.md)).
 
 | State | What the user sees |
 |-------|--------------------|

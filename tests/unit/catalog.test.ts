@@ -1,5 +1,5 @@
 import { beforeAll, describe, expect, it } from 'vitest';
-import { createCatalog, type CatalogApi } from '$lib/data/catalog';
+import { createCatalog, fetchCatalog, type CatalogApi } from '$lib/data/catalog';
 import type { Catalog } from '$lib/domain/schema';
 import { loadSample } from '../helpers/sample';
 
@@ -140,5 +140,42 @@ describe('hymnals by name (feature 009)', () => {
 	it('returns the same list on every call', () => {
 		const c = withHymnals(REAL);
 		expect(c.getHymnalsByName()).toBe(c.getHymnalsByName());
+	});
+});
+
+describe('meaning availability (feature 012, research R2)', () => {
+	const manifest = (meaning: boolean) =>
+		JSON.stringify({
+			version: 'v',
+			catalog: 'catalog.json',
+			index: 'index.json',
+			...(meaning
+				? {
+						meaning: {
+							configId: 'c',
+							dims: 4,
+							rows: 1,
+							vectors: 'm.bin',
+							rowMap: 'r.bin',
+							bytes: 12
+						}
+					}
+				: {})
+		});
+	const fakeFetch = (meaning: boolean) =>
+		(async (url: string) =>
+			new Response(
+				url.endsWith('manifest.json') ? manifest(meaning) : JSON.stringify(catalogData)
+			)) as unknown as typeof fetch;
+
+	it.each([true, false])('follows manifest.meaning (present: %s)', async (meaning) => {
+		const loaded = await fetchCatalog('', fakeFetch(meaning));
+		expect(loaded.meaningAvailable).toBe(meaning);
+		expect(loaded.catalog.version).toBe(catalogData.version);
+		expect(createCatalog(loaded.catalog, loaded).meaningAvailable).toBe(meaning);
+	});
+
+	it('is false by default', () => {
+		expect(catalog.meaningAvailable).toBe(false);
 	});
 });

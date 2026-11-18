@@ -31,13 +31,13 @@ const MB = 1024 * 1024;
 /** The shipped configuration, set by the measured comparison (FR-021, research.md). */
 export const MEANING_CONFIG: MeaningConfig = {
 	model: 'text-embedding-3-large',
-	representation: 'title+stanza',
-	dims: 512,
+	representation: 'title+theme+stanza',
+	dims: 1024,
 	quant: 'i8',
 	rev: 1,
-	fusion: { k: 60, wMeaning: 1, wWords: 1 },
+	fusion: { k: 60, wMeaning: 1, wWords: 0 },
 	minSectionChars: 40,
-	maxBytes: 10 * MB
+	maxBytes: 20 * MB
 };
 
 const MODEL_SHORT: Record<string, string> = { 'text-embedding-3-large': 'te3-large' };

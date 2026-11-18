@@ -13,7 +13,7 @@ the Worker and the app all import it, so they cannot disagree.
 
 | Field | Type | Rule |
 |-------|------|------|
-| `id` | string | Derived: `<model>/<representation>/<dims>/<quant>/v<rev>`, e.g. `te3-large/title+stanza/512/i8/v1`. Any change to a field below gives a new id. |
+| `id` | string | Derived: `<model>/<representation>/<dims>/<quant>/v<rev>`, e.g. `te3-large/title+theme+stanza/1024/i8/v1`. Any change to a field below gives a new id. |
 | `model` | string | `text-embedding-3-large`, called through the Mammouth API (R1). |
 | `representation` | `'stanza' \| 'title+stanza' \| 'title+theme+stanza'` | R2. |
 | `dims` | 256 \| 512 \| 1024 | The full 3,072-dim vector is cut to this length and re-normalised, by the same code in the build and the Worker. |

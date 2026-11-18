@@ -71,9 +71,10 @@ function textPrefix(hymn: PublishedHymn, representation: Representation, themes?
 		case 'title+stanza':
 			return `${hymn.title}\n\n`;
 		case 'title+theme+stanza': {
+			// A hymn whose description was always rejected (it would quote the lyrics) keeps the
+			// title alone, as in title+stanza. A stale description is caught by build-data.
 			const theme = themes?.[hymn.id]?.text;
-			if (!theme) throw new Error(`No theme description for hymn ${hymn.id}`);
-			return `${hymn.title} — ${theme}\n\n`;
+			return theme ? `${hymn.title} — ${theme}\n\n` : `${hymn.title}\n\n`;
 		}
 	}
 }

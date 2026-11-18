@@ -61,6 +61,8 @@ export async function mockEmbed(
 ): Promise<string[]> {
 	const { fakeEmbedOne } = await import('../helpers/fake-embedder');
 	const { cutAndNormalize, toBase64 } = await import('../../src/lib/meaning/vector');
+	const { MEANING_CONFIG } = await import('../../src/lib/meaning/config');
+	const dims = MEANING_CONFIG.dims;
 	const posted: string[] = [];
 	await page.route('**/api/embed', async (route) => {
 		const body = route.request().postDataJSON() as { text: string; configId: string };
@@ -71,8 +73,8 @@ export async function mockEmbed(
 			: {
 					json: {
 						configId: body.configId,
-						dims: 512,
-						vector: toBase64(cutAndNormalize(fakeEmbedOne(body.text), 512))
+						dims,
+						vector: toBase64(cutAndNormalize(fakeEmbedOne(body.text), dims))
 					}
 				};
 		await route.fulfill(reply).catch(() => {

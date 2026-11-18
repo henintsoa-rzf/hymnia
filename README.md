@@ -62,12 +62,15 @@ site source : [scripts/import/sources/README.md](scripts/import/sources/README.m
 Le bouton « Par le sens » trouve des chants par leur idée ou leur thème, pas seulement par
 leurs mots (feature 011, [specs/011-semantic-search/](specs/011-semantic-search/quickstart.md)).
 Chaque strophe est transformée en vecteur à la construction ; la requête est transformée en
-ligne par le serveur (`POST /api/embed`), puis comparée sur l’appareil. Une liste unique mêle
-résultats par le sens et par les mots ; les titres exacts restent en tête.
+ligne par le serveur (`POST /api/embed`), puis comparée sur l’appareil. Les résultats suivent
+l’ordre du sens ; un titre exact reste en tête. Chaque strophe est indexée avec le titre du chant
+et une courte description de ses thèmes, générée par Claude et jamais affichée
+(`content/generated/themes.json`).
 
 ```bash
 # .env : MAMMOUTH_API_KEY=…  (et, au besoin, EMBEDDINGS_BASE_URL, EMBEDDINGS_MODEL)
 npx tsx scripts/semantic/smoke.ts "la fidélité de Dieu"   # vérifie le fournisseur
+npx tsx scripts/semantic/generate-themes.ts   # .env : ANTHROPIC_API_KEY ; descriptions des chants nouveaux ou modifiés
 npm run data                     # ajoute les vecteurs (cache dans .cache/embeddings/)
 npx tsx scripts/semantic/evaluate.ts        # compare ce qu’on indexe ; écrit tests/queries/meaning-evaluation.json
 npx tsx scripts/semantic/query-vectors.ts   # vecteurs des requêtes de référence (test hors ligne)
@@ -75,8 +78,11 @@ npx tsx scripts/semantic/query-vectors.ts   # vecteurs des requêtes de référe
 
 Sans clé et avec un cache incomplet, `npm run data` saute cette étape avec un avertissement :
 l’application fonctionne, sans le bouton. Seuls les textes nouveaux ou modifiés sont envoyés
-d’une construction à l’autre. Pour relancer la comparaison après un import, lancer
-`evaluate.ts` puis reporter le choix dans `src/lib/meaning/config.ts`.
+d’une construction à l’autre. Après un import, lancer d’abord `generate-themes.ts` : si les
+paroles d’un chant ont changé depuis sa description, `npm run data` s’arrête et le demande. Un
+chant sans description (nouveau, ou dont la description citerait les paroles) est indexé avec
+son seul titre, avec un avertissement. Pour relancer la comparaison, lancer `evaluate.ts` puis
+reporter le choix dans `src/lib/meaning/config.ts`.
 
 Déploiement (Cloudflare Workers, une seule route serveur `/api/embed`) :
 

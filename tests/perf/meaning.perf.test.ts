@@ -1,6 +1,6 @@
 /**
  * Feature 011 (SC-003, plan.md Performance Goals): a search by meaning ranks every row on the
- * device. On 20,000 rows × 512 dims (twice today's collection), meaning ranking plus the blend
+ * device. On 20,000 rows × the shipped dims (twice today's collection), meaning ranking plus the blend
  * with word search take < 50 ms median here, about 200 ms on a mid-range phone (4× slower).
  */
 import { beforeAll, describe, expect, it } from 'vitest';
@@ -10,11 +10,12 @@ import type { Catalog } from '$lib/domain/schema';
 import type { MeaningData } from '$lib/meaning/load';
 import { rankMeaning } from '$lib/meaning/rank';
 import { searchByMeaning } from '$lib/meaning/search';
+import { MEANING_CONFIG } from '$lib/meaning/config';
 import { cutAndNormalize, quantizeInt8 } from '$lib/meaning/vector';
 import { generateCorpus } from './generate-corpus';
 
 const ROWS = 20_000;
-const DIMS = 512;
+const DIMS = MEANING_CONFIG.dims;
 const RUNS = 20;
 
 let engine: SearchEngine;

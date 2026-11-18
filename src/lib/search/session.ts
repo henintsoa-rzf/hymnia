@@ -13,10 +13,13 @@ export function getSearchClient(): SearchClient {
  * Background download of the meaning data (feature 011, FR-016, research R8): once the search
  * is ready and the browser is idle. With Save-Data on, it waits for the first search by meaning.
  * A failed download is tried again at the next app start, or at the first use.
+ * On a first visit the service worker does not control the page yet, so the files would not be
+ * kept in its cache and would download again: it then waits for the next visit (or first use).
  */
 export function scheduleMeaningPrefetch(): () => void {
 	const connection = (navigator as Navigator & { connection?: { saveData?: boolean } }).connection;
 	if (connection?.saveData) return () => {};
+	if ('serviceWorker' in navigator && !navigator.serviceWorker.controller) return () => {};
 	const search = getSearchClient();
 	let cancelled = false;
 	let cancelIdle = () => {};

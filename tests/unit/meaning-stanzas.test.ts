@@ -63,7 +63,10 @@ describe('indexedStanzas', () => {
 		expect(
 			indexedStanzas(h, 0, 'title+theme+stanza', { h1: { text: 'Chant de Pâques.' } })[0].text
 		).toBe(`À toi la gloire — Chant de Pâques.\n\n${stanza}`);
-		expect(() => indexedStanzas(h, 0, 'title+theme+stanza', {})).toThrow(/theme/);
+		// No description (always rejected): the title alone, as in title+stanza.
+		expect(indexedStanzas(h, 0, 'title+theme+stanza', {})[0].text).toBe(
+			`À toi la gloire\n\n${stanza}`
+		);
 	});
 
 	it('never mutates the lyrics', () => {

@@ -2,575 +2,661 @@
 	{
 		"id": "theme-01",
 		"category": "theme",
-		"query": "Dieu ne nous abandonne jamais, il tient toujours ses promesses",
-		"expect": [
-			"grande-est-ta-fidelite",
-			"dieu-ta-fidelite",
-			"eternel-ta-fidelite",
-			"o-seigneur-ta-fidelite",
-			"ta-fidelite"
-		]
+		"query": "la justification par la foi, sans les œuvres",
+		"targets": [
+			{
+				"hymn": "sola-gratia",
+				"section": 1
+			}
+		],
+		"expect": ["sola-gratia"]
 	},
 	{
 		"id": "theme-02",
 		"category": "theme",
-		"query": "la victoire de Jésus sur la mort au matin de Pâques",
-		"expect": [
-			"christ-est-ressuscite",
-			"christ-est-vraiment-ressuscite",
-			"christ-est-ressuscite-des-morts",
-			"a-toi-la-gloire",
-			"il-est-sorti-du-tombeau",
-			"jesus-est-ressuscite",
-			"le-christ-est-ressuscite"
-		]
+		"query": "devenus fils du Très-Haut par grâce, plus aucune sentence contre nous, marqués du sceau divin pour toujours",
+		"targets": [
+			{
+				"hymn": "heritiers",
+				"section": 1
+			}
+		],
+		"expect": ["heritiers"]
 	},
 	{
 		"id": "theme-03",
 		"category": "theme",
-		"query": "la naissance du Sauveur dans une étable à Bethléem",
-		"expect": [
-			"il-est-ne-le-divin-enfant",
-			"l-enfant-est-ne-a-bethleem",
-			"noel-jesus-est-ne",
-			"voici-noel-o-douce-nuit",
-			"jesus-est-ne-venez-bergers-et-mages",
-			"car-un-enfant-nous-est-ne",
-			"noel-o-doux-mystere",
-			"chantons-noel",
-			"c-est-noel-aujourd-hui"
-		]
+		"query": "le souverain sacrificateur présente ses plaies au Père en notre faveur",
+		"targets": [
+			{
+				"hymn": "du-lieu-tres-saint-le-christ",
+				"section": 1
+			}
+		],
+		"expect": ["du-lieu-tres-saint-le-christ"]
 	},
 	{
 		"id": "theme-04",
 		"category": "theme",
-		"query": "la venue du Saint-Esprit comme un feu sur l'Église",
-		"expect": [
-			"o-saint-esprit-descends",
-			"dieu-repand-le-saint-esprit",
-			"priere-de-pentecote",
-			"esprit-saint-dieu-puissant",
-			"envoie-seigneur-ton-esprit",
-			"saint-esprit-dieu-de-lumiere",
-			"o-saint-esprit-esprit-d-amour"
-		]
+		"query": "l'expiation accomplie : le Crucifié délaissé par le Père, la sentence divine apaisée",
+		"targets": [
+			{
+				"hymn": "obscur-et-pauvre",
+				"section": 2
+			}
+		],
+		"expect": ["obscur-et-pauvre"]
 	},
 	{
 		"id": "theme-05",
 		"category": "theme",
-		"query": "le sang versé à la croix pour mes fautes",
-		"expect": [
-			"a-la-croix-ou-mourut-mon-sauveur",
-			"attache-a-la-croix-pour-moi",
-			"jesus-prit-mon-peche",
-			"merci-pour-la-croix",
-			"c-est-a-la-croix",
-			"a-la-croix"
-		]
+		"query": "la substitution : l'innocent puni à notre place pour nos transgressions",
+		"targets": [
+			{
+				"hymn": "le-serviteur-souffrant",
+				"section": 3
+			}
+		],
+		"expect": ["le-serviteur-souffrant"]
 	},
 	{
 		"id": "theme-06",
 		"category": "theme",
-		"query": "trouver le repos de l'âme auprès de Jésus",
-		"expect": [
-			"o-jesus-je-me-repose",
-			"sur-toi-je-me-repose",
-			"quel-repos-celeste",
-			"il-donne-le-repos",
-			"viens-sur-mon-coeur-te-reposer"
-		]
+		"query": "l'incarnation du Verbe et la propitiation au Calvaire",
+		"targets": [
+			{
+				"hymn": "c-est-jesus-seul-in-christ-alone",
+				"section": 1
+			}
+		],
+		"expect": ["c-est-jesus-seul-in-christ-alone"]
 	},
 	{
 		"id": "theme-07",
 		"category": "theme",
-		"query": "le pardon de Dieu pour le pécheur qui revient",
-		"expect": [
-			"pardon-seigneur-pardon",
-			"est-il-bien-vrai-que-tu-pardonnes",
-			"jesus-par-qui-dieu-pardonne",
-			"o-toi-qui-cherches-le-pardon",
-			"mon-dieu-m-a-pardonne",
-			"pardonne",
-			"pardon"
-		]
+		"query": "kénose : le Verbe éternel renonce à sa majesté pour une existence humble et dénuée",
+		"targets": [
+			{
+				"hymn": "obscur-et-pauvre",
+				"section": 0
+			}
+		],
+		"expect": ["obscur-et-pauvre"]
 	},
 	{
 		"id": "theme-08",
 		"category": "theme",
-		"query": "la paix intérieure que donne le Christ",
-		"expect": [
-			"j-ai-trouve-la-paix-profonde",
-			"je-vous-laisse-ma-paix",
-			"ma-paix-je-vous-laisse",
-			"la-paix"
-		]
+		"query": "venir au Christ sans mérite, purifié de toute tache par l'Agneau",
+		"targets": [
+			{
+				"hymn": "tel-que-je-suis-pecheur-rebelle",
+				"section": 1
+			}
+		],
+		"expect": ["tel-que-je-suis-pecheur-rebelle"]
 	},
 	{
 		"id": "theme-09",
 		"category": "theme",
-		"query": "la maison du Père qui nous attend au ciel",
-		"expect": [
-			"au-ciel-est-la-maison",
-			"connais-tu-cette-cite",
-			"il-est-un-brillant-paradis",
-			"nous-voguons-vers-un-beau-rivage",
-			"de-canaan-quand-verrons-nous",
-			"au-ciel"
-		]
+		"query": "l'Éternel ne lâche jamais ceux qui trébuchent et exauce leurs supplications",
+		"targets": [
+			{
+				"hymn": "grande-est-ta-fidelite",
+				"section": 3
+			}
+		],
+		"expect": ["grande-est-ta-fidelite"]
 	},
 	{
 		"id": "theme-10",
 		"category": "theme",
-		"query": "Dieu est un refuge solide quand tout s'écroule",
-		"expect": [
-			"dieu-mon-rocher",
-			"eternel-mon-rocher",
-			"l-eternel-est-mon-rocher",
-			"le-rocher-de-notre-salut",
-			"o-christ-eternel-rocher",
-			"tu-es-mon-rocher",
-			"du-rocher-de-jacob"
-		]
+		"query": "le matin de Pâques, le Crucifié quitte le sépulcre, vainqueur du trépas",
+		"targets": [
+			{
+				"hymn": "dans-sa-divine-humanite",
+				"section": 1
+			}
+		],
+		"expect": ["dans-sa-divine-humanite"]
+	},
+	{
+		"id": "theme-11",
+		"category": "theme",
+		"query": "l'humilité de l'incarnation : le Créateur endormi dans une mangeoire",
+		"targets": [
+			{
+				"hymn": "il-est-ne-le-divin-enfant",
+				"section": 5
+			}
+		],
+		"expect": ["il-est-ne-le-divin-enfant"]
+	},
+	{
+		"id": "theme-12",
+		"category": "theme",
+		"query": "consolation pour l'abattu : cesse de te lamenter, espère en l'Éternel qui reste proche",
+		"targets": [
+			{
+				"hymn": "comme-un-cerf-altere",
+				"section": 2
+			}
+		],
+		"expect": ["comme-un-cerf-altere"]
+	},
+	{
+		"id": "theme-13",
+		"category": "theme",
+		"query": "doxologie : l'univers entier magnifie l'unique Seigneur en trois personnes",
+		"targets": [
+			{
+				"hymn": "vous-creatures-du-grand-roi",
+				"section": 1
+			}
+		],
+		"expect": ["vous-creatures-du-grand-roi"]
+	},
+	{
+		"id": "theme-14",
+		"category": "theme",
+		"query": "partir outre-mer évangéliser les peuples qui ignorent l'Évangile",
+		"targets": [
+			{
+				"hymn": "entends-tu-l-appel-du-maitre",
+				"section": 2
+			}
+		],
+		"expect": ["entends-tu-l-appel-du-maitre"]
+	},
+	{
+		"id": "theme-15",
+		"category": "theme",
+		"query": "le Paraclet qui convainc de péché et purifie le cœur de l'idolâtrie",
+		"targets": [
+			{
+				"hymn": "o-saint-esprit-descends",
+				"section": 1
+			}
+		],
+		"expect": ["o-saint-esprit-descends"]
+	},
+	{
+		"id": "theme-16",
+		"category": "theme",
+		"query": "la parousie imminente : rester vigilants dans l'attente de l'Époux",
+		"targets": [
+			{
+				"hymn": "bientot-seigneur-tu-reviendras",
+				"section": 1
+			}
+		],
+		"expect": ["bientot-seigneur-tu-reviendras"]
+	},
+	{
+		"id": "theme-17",
+		"category": "theme",
+		"query": "la sanctification : le croyant régénéré avance dans une existence transformée",
+		"targets": [
+			{
+				"hymn": "mort-avec-christ-voila-ma-delivrance",
+				"section": 2
+			}
+		],
+		"expect": ["mort-avec-christ-voila-ma-delivrance"]
 	},
 	{
 		"id": "occasion-01",
 		"category": "occasion",
-		"query": "l'espérance du ciel pour un enterrement",
-		"expect": [
-			"repose-en-paix",
-			"au-ciel-est-la-maison",
-			"consolez-vos-coeurs-qui-pleurent",
-			"plus-de-larmes",
-			"freres-ne-pleurez-pas",
-			"en-toi-seigneur-nos-vies-reposent"
-		]
+		"query": "cérémonie de mariage : bénir le foyer des jeunes mariés",
+		"targets": [
+			{
+				"hymn": "sur-ces-epoux-pere-eternel",
+				"section": 2
+			}
+		],
+		"expect": ["sur-ces-epoux-pere-eternel"]
 	},
 	{
 		"id": "occasion-02",
 		"category": "occasion",
-		"query": "cantique pour un baptême",
-		"expect": [
-			"je-viens-seigneur-a-ce-bapteme",
-			"je-viens-seigneur-a-ce-bapteme-adf-574a",
-			"je-t-appartiens-par-le-bapteme",
-			"christ-tu-es-remonte-des-eaux",
-			"dieu-qui-verses-tes-eaux-claires"
-		]
+		"query": "obsèques : nos défunts dans la félicité céleste, sans chagrin",
+		"targets": [
+			{
+				"hymn": "consolez-vos-coeurs-qui-pleurent",
+				"section": 1
+			}
+		],
+		"expect": ["consolez-vos-coeurs-qui-pleurent"]
 	},
 	{
 		"id": "occasion-03",
 		"category": "occasion",
-		"query": "bénédiction de Dieu sur un mariage",
-		"expect": ["sur-ces-epoux-pere-eternel"]
+		"query": "immersion du nouveau converti qui ensevelit le vieil homme",
+		"targets": [
+			{
+				"hymn": "je-viens-seigneur-a-ce-bapteme",
+				"section": 0
+			}
+		],
+		"expect": ["je-viens-seigneur-a-ce-bapteme"]
 	},
 	{
 		"id": "occasion-04",
 		"category": "occasion",
-		"query": "chant pour la sainte cène, le pain et la coupe",
-		"expect": [
-			"c-est-toi-jesus-pain-de-vie",
-			"c-est-toi-seigneur-le-pain",
-			"romps-nous-le-pain-de-vie",
-			"merveilleux-sauveur-hymne-pour-la-cene",
-			"pain-rompu",
-			"voici-le-pain",
-			"nous-qui-mangeons-le-pain",
-			"douce-communion"
-		]
+		"query": "eucharistie : le calice du nouveau testament",
+		"targets": [
+			{
+				"hymn": "merveilleux-sauveur-hymne-pour-la-cene",
+				"section": 2
+			}
+		],
+		"expect": ["merveilleux-sauveur-hymne-pour-la-cene"]
 	},
 	{
 		"id": "occasion-05",
 		"category": "occasion",
-		"query": "envoi en mission à la fin du culte",
-		"expect": [
-			"ainsi-je-vous-envoie",
-			"allez-dans-le-monde-entier",
-			"allez-dire-a-tous-les-hommes",
-			"la-moisson-du-monde-est-si-grande",
-			"allez-vous-en-sur-les-places"
-		]
+		"query": "Ascension : le Christ élevé en majesté, assis auprès de Dieu",
+		"targets": [
+			{
+				"hymn": "il-est-monte-au-ciel",
+				"section": 1
+			}
+		],
+		"expect": ["il-est-monte-au-ciel"]
 	},
 	{
 		"id": "occasion-06",
 		"category": "occasion",
-		"query": "veillée de Noël avec les enfants",
-		"expect": [
-			"il-est-ne-le-divin-enfant",
-			"l-enfant-est-ne-a-bethleem",
-			"noel-jesus-est-ne",
-			"voici-noel-o-douce-nuit",
-			"jesus-est-ne-venez-bergers-et-mages",
-			"car-un-enfant-nous-est-ne",
-			"noel-o-doux-mystere",
-			"chantons-noel",
-			"c-est-noel-aujourd-hui"
-		]
+		"query": "prière pour les missionnaires qu'on envoie : courage et ferveur",
+		"targets": [
+			{
+				"hymn": "la-moisson-du-monde-est-si-grande",
+				"section": 2
+			}
+		],
+		"expect": ["la-moisson-du-monde-est-si-grande"]
 	},
 	{
 		"id": "occasion-07",
 		"category": "occasion",
-		"query": "culte de reconnaissance pour les récoltes",
-		"expect": [
-			"chantons-avec-reconnaissance",
-			"nos-coeurs-pleins-de-reconnaissance",
-			"offrons-au-seigneur-reconnaissance"
-		]
+		"query": "nuit de la Nativité : des pâtres éblouis par une apparition céleste",
+		"targets": [
+			{
+				"hymn": "dans-une-etable-o-mystere",
+				"section": 2
+			}
+		],
+		"expect": ["dans-une-etable-o-mystere"]
 	},
 	{
 		"id": "occasion-08",
 		"category": "occasion",
-		"query": "chant pour l'Ascension",
-		"expect": ["il-est-monte-au-ciel", "le-seigneur-monte-au-ciel"]
+		"query": "Pentecôte : l'Esprit promis par Jésus avant son départ",
+		"targets": [
+			{
+				"hymn": "en-expirant-le-redempteur",
+				"section": 0
+			}
+		],
+		"expect": ["en-expirant-le-redempteur"]
 	},
 	{
 		"id": "short-01",
 		"category": "short",
-		"query": "fidélité",
-		"expect": [
-			"grande-est-ta-fidelite",
-			"dieu-ta-fidelite",
-			"eternel-ta-fidelite",
-			"o-seigneur-ta-fidelite",
-			"ta-fidelite"
-		]
+		"query": "rédemption",
+		"targets": [
+			{
+				"hymn": "jesus-tu-es-digne",
+				"section": 0
+			}
+		],
+		"expect": ["jesus-tu-es-digne"]
 	},
 	{
 		"id": "short-02",
 		"category": "short",
-		"query": "résurrection",
-		"expect": [
-			"christ-est-ressuscite",
-			"christ-est-vraiment-ressuscite",
-			"christ-est-ressuscite-des-morts",
-			"a-toi-la-gloire",
-			"il-est-sorti-du-tombeau",
-			"jesus-est-ressuscite",
-			"le-christ-est-ressuscite"
-		]
+		"query": "sacerdoce universel",
+		"targets": [
+			{
+				"hymn": "agneau-de-dieu-par-tes-langueurs",
+				"section": 0
+			}
+		],
+		"expect": ["agneau-de-dieu-par-tes-langueurs"]
 	},
 	{
 		"id": "short-03",
 		"category": "short",
-		"query": "pardon",
-		"expect": [
-			"pardon-seigneur-pardon",
-			"est-il-bien-vrai-que-tu-pardonnes",
-			"jesus-par-qui-dieu-pardonne",
-			"o-toi-qui-cherches-le-pardon",
-			"mon-dieu-m-a-pardonne",
-			"pardonne",
-			"pardon"
-		]
+		"query": "souverain sacrificateur",
+		"targets": [
+			{
+				"hymn": "il-est-monte-au-ciel",
+				"section": 2
+			}
+		],
+		"expect": ["il-est-monte-au-ciel"]
 	},
 	{
 		"id": "short-04",
 		"category": "short",
-		"query": "berger",
-		"expect": [
-			"l-eternel-est-mon-berger",
-			"l-eternel-est-mon-berger-jem-147",
-			"l-eternel-est-mon-berger-jem-264",
-			"l-eternel-est-mon-berger-jem-3",
-			"dieu-mon-berger",
-			"jesus-est-mon-divin-berger",
-			"dieu-est-un-bon-berger",
-			"bon-sauveur-berger-fidele"
-		]
+		"query": "nativité",
+		"targets": [
+			{
+				"hymn": "dans-une-etable-o-mystere",
+				"section": 0
+			}
+		],
+		"expect": ["dans-une-etable-o-mystere"]
 	},
 	{
 		"id": "short-05",
 		"category": "short",
-		"query": "consolation",
-		"expect": [
-			"consolez-vos-coeurs-qui-pleurent",
-			"plus-de-larmes",
-			"de-quoi-t-alarmes-tu-mon-coeur",
-			"regarde-ame-angoissee",
-			"aux-jours-d-angoisse-et-de-souffrance"
-		]
+		"query": "parousie",
+		"targets": [
+			{
+				"hymn": "bientot-seigneur-tu-reviendras",
+				"section": 0
+			}
+		],
+		"expect": ["bientot-seigneur-tu-reviendras"]
 	},
 	{
 		"id": "short-06",
 		"category": "short",
-		"query": "tempête",
-		"expect": [
-			"maitre-entends-tu-la-tempete",
-			"ne-crains-pas-la-tempete",
-			"quand-le-vol-de-la-tempete"
-		]
+		"query": "espérance de la résurrection",
+		"targets": [
+			{
+				"hymn": "la-mort-n-est-plus",
+				"section": 0
+			}
+		],
+		"expect": ["la-mort-n-est-plus"]
 	},
 	{
 		"id": "short-07",
 		"category": "short",
-		"query": "Pentecôte",
-		"expect": [
-			"o-saint-esprit-descends",
-			"dieu-repand-le-saint-esprit",
-			"priere-de-pentecote",
-			"esprit-saint-dieu-puissant",
-			"envoie-seigneur-ton-esprit",
-			"saint-esprit-dieu-de-lumiere",
-			"o-saint-esprit-esprit-d-amour"
-		]
+		"query": "substitution pénale",
+		"targets": [
+			{
+				"hymn": "le-serviteur-souffrant",
+				"section": 4
+			}
+		],
+		"expect": ["le-serviteur-souffrant"]
 	},
 	{
 		"id": "long-01",
 		"category": "long",
-		"query": "Je traverse une période très difficile, j'ai perdu mon travail et j'ai peur de l'avenir. Je voudrais un chant qui rappelle que Dieu prend soin de nous et qu'on peut lui confier toutes ses inquiétudes.",
-		"expect": [
-			"a-mon-dieu-j-abandonne",
-			"entre-tes-mains-j-abandonne",
-			"j-ai-tout-remis-entre-tes-mains",
-			"a-dieu-seul-j-abandonne",
-			"a-toi-mon-dieu-je-m-abandonne",
-			"mon-dieu-je-m-abandonne",
-			"o-jesus-je-me-repose",
-			"sur-toi-je-me-repose",
-			"quel-repos-celeste",
-			"il-donne-le-repos",
-			"viens-sur-mon-coeur-te-reposer"
-		]
+		"query": "Nous préparons un service funèbre pour une sœur âgée : nous voulons un chant qui proclame que les défunts qui ont cru sont déjà en paix auprès du Seigneur et que nous les retrouverons.",
+		"targets": [
+			{
+				"hymn": "consolez-vos-coeurs-qui-pleurent",
+				"section": 0
+			}
+		],
+		"expect": ["consolez-vos-coeurs-qui-pleurent"]
 	},
 	{
 		"id": "long-02",
 		"category": "long",
-		"query": "Ce dimanche nous méditons sur la parabole du fils prodigue : le père qui court vers son fils, le pardon offert sans condition et la fête du retour à la maison.",
-		"expect": [
-			"pardon-seigneur-pardon",
-			"est-il-bien-vrai-que-tu-pardonnes",
-			"jesus-par-qui-dieu-pardonne",
-			"o-toi-qui-cherches-le-pardon",
-			"mon-dieu-m-a-pardonne",
-			"pardonne",
-			"pardon",
-			"pauvre-pecheur-jesus-t-appelle",
-			"place-pour-toi-pecheur"
-		]
+		"query": "Ma vie est ruinée par mes fautes, je me sens indigne et sale ; existe-t-il un chant qui dise qu'on peut s'approcher du Christ sans rien apporter, simplement couvert par le sacrifice de la croix ?",
+		"targets": [
+			{
+				"hymn": "tel-que-je-suis-pecheur-rebelle",
+				"section": 1
+			}
+		],
+		"expect": ["tel-que-je-suis-pecheur-rebelle"]
 	},
 	{
 		"id": "long-03",
 		"category": "long",
-		"query": "Pour le culte de Pâques, nous cherchons un chant joyeux qui proclame que le tombeau est vide et que le Christ vivant a vaincu la mort pour toujours.",
-		"expect": [
-			"christ-est-ressuscite",
-			"christ-est-vraiment-ressuscite",
-			"christ-est-ressuscite-des-morts",
-			"a-toi-la-gloire",
-			"il-est-sorti-du-tombeau",
-			"jesus-est-ressuscite",
-			"le-christ-est-ressuscite"
-		]
+		"query": "Pour la fête de l'Ascension, nous cherchons un cantique qui célèbre le Ressuscité élevé en majesté, qui règne sur toutes choses et qui n'abandonne pas ses disciples restés ici-bas.",
+		"targets": [
+			{
+				"hymn": "il-est-monte-au-ciel",
+				"section": 1
+			}
+		],
+		"expect": ["il-est-monte-au-ciel"]
 	},
 	{
 		"id": "long-04",
 		"category": "long",
-		"query": "Un cantique pour accueillir le nouveau-né, se réjouir avec les anges et les bergers de la venue du Messie promis depuis si longtemps.",
-		"expect": [
-			"il-est-ne-le-divin-enfant",
-			"l-enfant-est-ne-a-bethleem",
-			"noel-jesus-est-ne",
-			"voici-noel-o-douce-nuit",
-			"jesus-est-ne-venez-bergers-et-mages",
-			"car-un-enfant-nous-est-ne",
-			"noel-o-doux-mystere",
-			"chantons-noel",
-			"c-est-noel-aujourd-hui",
-			"dans-les-champs-le-berger-veille"
-		]
+		"query": "Je lutte depuis des années contre les mêmes péchés et je me décourage ; je voudrais méditer sur le fait que le Consolateur transforme peu à peu le croyant et lui donne la force de triompher.",
+		"targets": [
+			{
+				"hymn": "mort-avec-christ-voila-ma-delivrance",
+				"section": 2
+			}
+		],
+		"expect": ["mort-avec-christ-voila-ma-delivrance"]
 	},
 	{
 		"id": "long-05",
 		"category": "long",
-		"query": "Notre église envoie une famille dans un autre pays pour annoncer l'Évangile ; nous voulons prier pour eux et rappeler que la moisson est grande.",
-		"expect": [
-			"ainsi-je-vous-envoie",
-			"allez-dans-le-monde-entier",
-			"allez-dire-a-tous-les-hommes",
-			"la-moisson-du-monde-est-si-grande",
-			"allez-vous-en-sur-les-places"
-		]
+		"query": "Une famille de notre église part s'installer à l'étranger pour traduire la Bible et fonder des communautés ; nous voulons prier pour leur protection et leur persévérance dans ce ministère.",
+		"targets": [
+			{
+				"hymn": "la-moisson-du-monde-est-si-grande",
+				"section": 4
+			}
+		],
+		"expect": ["la-moisson-du-monde-est-si-grande"]
+	},
+	{
+		"id": "long-06",
+		"category": "long",
+		"query": "Le jour de Noël, nous voulons chanter l'abaissement du Verbe éternel : lui, le souverain de l'univers, a renoncé à sa gloire céleste pour naître pauvre parmi les hommes.",
+		"targets": [
+			{
+				"hymn": "jesus-quitta-le-trone-de-son-pere",
+				"section": 0
+			}
+		],
+		"expect": ["jesus-quitta-le-trone-de-son-pere"]
 	},
 	{
 		"id": "bible-01",
 		"category": "bible",
-		"query": "Psaume 23",
-		"expect": [
-			"l-eternel-est-mon-berger",
-			"l-eternel-est-mon-berger-jem-147",
-			"l-eternel-est-mon-berger-jem-264",
-			"l-eternel-est-mon-berger-jem-3",
-			"dieu-mon-berger"
-		]
+		"query": "Ésaïe 53",
+		"targets": [
+			{
+				"hymn": "le-serviteur-souffrant",
+				"section": 3
+			}
+		],
+		"expect": ["le-serviteur-souffrant"]
 	},
 	{
 		"id": "bible-02",
 		"category": "bible",
-		"query": "Jean 3.16",
-		"expect": [
-			"car-dieu-a-tant-aime-le-monde",
-			"car-dieu-a-tant-aime-le-monde-for-god-so-loved-the-world",
-			"dieu-a-tant-aime-le-monde"
-		]
+		"query": "Romains 8 : aucune puissance n'est capable de nous arracher à la tendresse du Créateur",
+		"targets": [
+			{
+				"hymn": "la-mort-n-est-plus",
+				"section": 1
+			}
+		],
+		"expect": ["la-mort-n-est-plus"]
 	},
 	{
 		"id": "bible-03",
 		"category": "bible",
-		"query": "Matthieu 28 : allez, faites de toutes les nations des disciples",
-		"expect": [
-			"ainsi-je-vous-envoie",
-			"allez-dans-le-monde-entier",
-			"allez-dire-a-tous-les-hommes",
-			"la-moisson-du-monde-est-si-grande",
-			"allez-vous-en-sur-les-places"
-		]
+		"query": "Psaume 42",
+		"targets": [
+			{
+				"hymn": "comme-un-cerf-altere",
+				"section": 0
+			}
+		],
+		"expect": ["comme-un-cerf-altere"]
 	},
 	{
 		"id": "bible-04",
 		"category": "bible",
-		"query": "Jean 14.27 : je vous laisse la paix",
-		"expect": [
-			"j-ai-trouve-la-paix-profonde",
-			"je-vous-laisse-ma-paix",
-			"ma-paix-je-vous-laisse",
-			"la-paix"
-		]
+		"query": "Hébreux 9.24 : entré dans le sanctuaire céleste pour comparaître en notre faveur",
+		"targets": [
+			{
+				"hymn": "du-lieu-tres-saint-le-christ",
+				"section": 0
+			}
+		],
+		"expect": ["du-lieu-tres-saint-le-christ"]
 	},
 	{
 		"id": "bible-05",
 		"category": "bible",
-		"query": "Lamentations 3 : ses compassions se renouvellent chaque matin",
-		"expect": [
-			"grande-est-ta-fidelite",
-			"dieu-ta-fidelite",
-			"eternel-ta-fidelite",
-			"o-seigneur-ta-fidelite",
-			"ta-fidelite"
-		]
+		"query": "Éphésiens 2.8-9 : par la grâce, non par les œuvres, afin que nul ne se glorifie",
+		"targets": [
+			{
+				"hymn": "sola-gratia",
+				"section": 3
+			}
+		],
+		"expect": ["sola-gratia"]
 	},
 	{
 		"id": "bible-06",
 		"category": "bible",
-		"query": "Marc 4 : Jésus apaise la tempête sur le lac",
-		"expect": [
-			"maitre-entends-tu-la-tempete",
-			"ne-crains-pas-la-tempete",
-			"quand-le-vol-de-la-tempete"
-		]
+		"query": "Luc 2.8-14 : des pâtres veillaient la nuit sur leurs bêtes",
+		"targets": [
+			{
+				"hymn": "dans-une-etable-o-mystere",
+				"section": 2
+			}
+		],
+		"expect": ["dans-une-etable-o-mystere"]
 	},
 	{
 		"id": "bible-07",
 		"category": "bible",
-		"query": "Actes 2 : l'Esprit descend sur les disciples",
-		"expect": [
-			"o-saint-esprit-descends",
-			"dieu-repand-le-saint-esprit",
-			"priere-de-pentecote",
-			"esprit-saint-dieu-puissant",
-			"envoie-seigneur-ton-esprit",
-			"saint-esprit-dieu-de-lumiere",
-			"o-saint-esprit-esprit-d-amour"
-		]
+		"query": "Apocalypse 5.9-10",
+		"targets": [
+			{
+				"hymn": "jesus-tu-es-digne",
+				"section": 0
+			}
+		],
+		"expect": ["jesus-tu-es-digne"]
+	},
+	{
+		"id": "bible-08",
+		"category": "bible",
+		"query": "Romains 6 : ensevelis avec lui par l'immersion pour marcher en nouveauté de vie",
+		"targets": [
+			{
+				"hymn": "je-viens-seigneur-a-ce-bapteme",
+				"section": 0
+			}
+		],
+		"expect": ["je-viens-seigneur-a-ce-bapteme"]
 	},
 	{
 		"id": "paraphrase-01",
 		"category": "paraphrase",
-		"query": "le Seigneur me conduit comme un berger vers de verts pâturages",
-		"expect": [
-			"l-eternel-est-mon-berger",
-			"l-eternel-est-mon-berger-jem-147",
-			"l-eternel-est-mon-berger-jem-264",
-			"l-eternel-est-mon-berger-jem-3",
-			"dieu-mon-berger"
-		]
+		"query": "les gens détournaient le regard de lui, accablé de peines, que personne n'estimait",
+		"targets": [
+			{
+				"hymn": "le-serviteur-souffrant",
+				"section": 2
+			}
+		],
+		"expect": ["le-serviteur-souffrant"]
 	},
 	{
 		"id": "paraphrase-02",
 		"category": "paraphrase",
-		"query": "je remets ma vie entre les mains de Dieu",
-		"expect": [
-			"a-mon-dieu-j-abandonne",
-			"entre-tes-mains-j-abandonne",
-			"j-ai-tout-remis-entre-tes-mains",
-			"a-dieu-seul-j-abandonne",
-			"a-toi-mon-dieu-je-m-abandonne",
-			"mon-dieu-je-m-abandonne"
-		]
+		"query": "le soir comme au matin, l'Éternel veille à mes côtés ; je suis son fils bien-aimé",
+		"targets": [
+			{
+				"hymn": "grande-est-ta-fidelite",
+				"section": 1
+			}
+		],
+		"expect": ["grande-est-ta-fidelite"]
 	},
 	{
 		"id": "paraphrase-03",
 		"category": "paraphrase",
-		"query": "Dieu a tellement aimé les hommes qu'il a donné son Fils",
-		"expect": [
-			"car-dieu-a-tant-aime-le-monde",
-			"car-dieu-a-tant-aime-le-monde-for-god-so-loved-the-world",
-			"dieu-a-tant-aime-le-monde"
-		]
+		"query": "franchir le ravin ténébreux du trépas sans redouter le moindre péril",
+		"targets": [
+			{
+				"hymn": "l-eternel-est-mon-berger",
+				"section": 3
+			}
+		],
+		"expect": ["l-eternel-est-mon-berger"]
 	},
 	{
 		"id": "paraphrase-04",
 		"category": "paraphrase",
-		"query": "approche-moi de toi, Seigneur, toujours davantage, même par la souffrance",
-		"expect": ["mon-dieu-plus-pres-de-toi", "mon-dieu-plus-pres-de-toi-evangile21-13"]
+		"query": "confions-lui nos inquiétudes et parlons-lui sans rien cacher",
+		"targets": [
+			{
+				"hymn": "quel-ami-fidele-et-tendre",
+				"section": 1
+			}
+		],
+		"expect": ["quel-ami-fidele-et-tendre"]
 	},
 	{
 		"id": "paraphrase-05",
 		"category": "paraphrase",
-		"query": "une nuit calme et sainte, la lumière brille sur Bethléem",
-		"expect": [
-			"il-est-ne-le-divin-enfant",
-			"l-enfant-est-ne-a-bethleem",
-			"noel-jesus-est-ne",
-			"voici-noel-o-douce-nuit",
-			"jesus-est-ne-venez-bergers-et-mages",
-			"car-un-enfant-nous-est-ne",
-			"noel-o-doux-mystere",
-			"chantons-noel",
-			"c-est-noel-aujourd-hui"
-		]
+		"query": "le Père a livré son propre Enfant pour que les croyants ne soient pas perdus et vivent pour toujours",
+		"targets": [
+			{
+				"hymn": "car-dieu-a-tant-aime-le-monde",
+				"section": 0
+			}
+		],
+		"expect": ["car-dieu-a-tant-aime-le-monde"]
 	},
 	{
 		"id": "paraphrase-06",
 		"category": "paraphrase",
-		"query": "mon cœur a trouvé un calme profond depuis que je connais Jésus",
-		"expect": [
-			"j-ai-trouve-la-paix-profonde",
-			"je-vous-laisse-ma-paix",
-			"ma-paix-je-vous-laisse",
-			"la-paix"
-		]
+		"query": "aucune peur ne me reste, mon Roi est sorti vivant du tombeau, il est mon appui",
+		"targets": [
+			{
+				"hymn": "a-toi-la-gloire",
+				"section": 4
+			}
+		],
+		"expect": ["a-toi-la-gloire"]
 	},
 	{
 		"id": "paraphrase-07",
 		"category": "paraphrase",
-		"query": "gloire au Ressuscité, vainqueur pour l'éternité",
-		"expect": [
-			"a-toi-la-gloire",
-			"christ-est-ressuscite",
-			"christ-est-vraiment-ressuscite",
-			"christ-est-ressuscite-des-morts",
-			"il-est-sorti-du-tombeau",
-			"jesus-est-ressuscite",
-			"le-christ-est-ressuscite"
-		]
+		"query": "garde-moi blotti contre ton cœur dans l'épreuve",
+		"targets": [
+			{
+				"hymn": "mon-dieu-plus-pres-de-toi",
+				"section": 1
+			}
+		],
+		"expect": ["mon-dieu-plus-pres-de-toi"]
 	},
 	{
 		"id": "paraphrase-08",
 		"category": "paraphrase",
-		"query": "un ami fidèle qui porte mes peines et à qui je peux tout dire dans la prière",
-		"expect": ["quel-ami-fidele-et-tendre", "il-est-un-ami-fidele"]
+		"query": "telle une biche assoiffée qui court vers les torrents, tout mon être réclame l'Éternel",
+		"targets": [
+			{
+				"hymn": "comme-un-cerf-altere",
+				"section": 0
+			}
+		],
+		"expect": ["comme-un-cerf-altere"]
 	},
 	{
 		"id": "paraphrase-09",
 		"category": "paraphrase",
-		"query": "sur le roc de Dieu je bâtis ma vie, il ne chancelle pas",
-		"expect": [
-			"dieu-mon-rocher",
-			"eternel-mon-rocher",
-			"l-eternel-est-mon-rocher",
-			"le-rocher-de-notre-salut",
-			"o-christ-eternel-rocher",
-			"tu-es-mon-rocher",
-			"du-rocher-de-jacob"
-		]
+		"query": "Souffle divin, viens sur notre communauté qui intercède, ranime nos âmes lasses",
+		"targets": [
+			{
+				"hymn": "o-saint-esprit-descends",
+				"section": 0
+			}
+		],
+		"expect": ["o-saint-esprit-descends"]
 	}
 ]

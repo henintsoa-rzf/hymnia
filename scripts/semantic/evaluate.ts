@@ -32,13 +32,15 @@ import { createEngine, type SearchEngine } from '../../src/lib/search/engine';
 import { catalogTexts } from './build';
 import { createEmbedder, envOptions, type Embedder } from './embed';
 import { queryText } from './query-vectors';
-import { THEMES_FILE } from './generate-themes';
+import { THEMES_FILE } from './build';
 
 const QUERIES = 'tests/queries/meaning-queries.json';
 const OUT = 'tests/queries/meaning-evaluation.json';
 const MB = 1024 * 1024;
 const DIMS = [256, 512, 1024] as const;
 const WEIGHTS = [0.5, 1, 1.5, 2];
+/** Word weights: 0 is the meaning order alone (exact titles still first). */
+const WORD_WEIGHTS = [0, ...WEIGHTS];
 /** FR-021: a smaller candidate within this many top-10 points of the best is preferred. */
 const SMALLER_WITHIN = 5;
 /** Research R4: 1,024 dims (and 20 MB) only for a gain of at least this many top-10 points. */
@@ -120,7 +122,10 @@ export async function evaluate(options: {
 	log?: (line: string) => void;
 }) {
 	const { catalog, engine, embedder, queries, themes, log = () => {} } = options;
-	const covered = themes && catalog.hymns.every((h) => themes[h.id]);
+	// Nearly every hymn: a few descriptions are always rejected, as they would quote the lyrics.
+	const missing = themes ? catalog.hymns.filter((h) => !themes[h.id]).length : Infinity;
+	const covered = missing <= catalog.hymns.length * 0.01;
+	if (themes && covered && missing > 0) log(`  (${missing} hymns without a theme description)`);
 	const representations: Representation[] = ['stanza', 'title+stanza'];
 	if (covered) representations.push('title+theme+stanza');
 	else log('  (title+theme+stanza left out: no theme description for every hymn)');
@@ -196,7 +201,9 @@ export async function evaluate(options: {
 	const chosenQueries = queryFull.map((v) => cutAndNormalize(v, chosen.dims));
 	const blends: Candidate[] = [];
 	for (const wMeaning of WEIGHTS) {
-		for (const wWords of WEIGHTS) {
+		for (const wWords of WORD_WEIGHTS) {
+			// With no word weight, every meaning weight gives the same order: measure it once.
+			if (wWords === 0 && wMeaning !== 1) continue;
 			const fusion = { k: MEANING_CONFIG.fusion.k, wMeaning, wWords };
 			const ranks = queries.map((q, i) =>
 				rankOf(

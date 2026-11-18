@@ -42,7 +42,8 @@ excerpt?: Excerpt;   // meaning: the best stanza's first 2 lines (≤ 160 chars)
 2. Word list: `engine.search({ query, hymnals, limit: 100 })`.
 3. Word hits of tier 2 (exact title) come first, in word order.
 4. The rest is sorted by `wMeaning/(k + rankMeaning) + wWords/(k + rankWords)`, with ties broken
-   by the meaning rank.
+   by the meaning rank. The shipped weights are 1 : 0 (research.md "Evaluation results"): the
+   meaning order, word-only hits after every meaning hit.
 5. The output is cut to `limit` (default 50).
 
 ## When the action is offered (FR-001, edge cases)

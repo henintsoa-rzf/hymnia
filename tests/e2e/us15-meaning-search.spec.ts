@@ -186,6 +186,20 @@ test.describe('US2: weak or no connection', () => {
 			expect(precached.length).toBeGreaterThan(0);
 			expect(precached.filter((u) => u.includes('meaning'))).toEqual([]);
 		});
+
+		test('on a first visit, before the service worker controls the page, nothing downloads', async ({
+			page
+		}) => {
+			const meaningRequests: string[] = [];
+			page.on('request', (r) => {
+				if (/\/data\/meaning[^/]*\.bin$/.test(r.url())) meaningRequests.push(r.url());
+			});
+			await page.goto('/');
+			await page.evaluate(async () => (await navigator.serviceWorker.ready).active?.state);
+			expect(await page.evaluate(() => !!navigator.serviceWorker.controller)).toBe(false);
+			await page.waitForTimeout(6000);
+			expect(meaningRequests).toEqual([]);
+		});
 	});
 });
 

@@ -21,6 +21,7 @@ static/data/
 .cache/
 # Local state of `wrangler dev`
 .wrangler/
+.dev.vars*
 
 # Tests
 test-results/

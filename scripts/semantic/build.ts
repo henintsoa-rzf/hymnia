@@ -2,7 +2,10 @@
  * Meaning data of one build (contracts/meaning-data.md): one int8 vector per distinct stanza of
  * every published hymn, plus the row map. Called by scripts/build-data.ts and the comparison.
  */
-import type { Catalog } from '../../src/lib/domain/schema';
+import { createHash } from 'node:crypto';
+import { existsSync } from 'node:fs';
+import { readFile } from 'node:fs/promises';
+import type { Catalog, PublishedHymn } from '../../src/lib/domain/schema';
 import { configId, type MeaningConfig } from '../../src/lib/meaning/config';
 import { writeRowMap, type RowInfo } from '../../src/lib/meaning/load';
 import { indexedStanzas, type IndexedText, type Themes } from '../../src/lib/meaning/stanzas';
@@ -11,6 +14,31 @@ import type { Embedder } from './embed';
 
 export { readRowMap } from '../../src/lib/meaning/load';
 
+/** Generated theme descriptions (research R11), written by generate-themes.ts. */
+export const THEMES_FILE = 'content/generated/themes.json';
+
+/** One entry of THEMES_FILE: `lyricsHash` tells which lyrics it describes. */
+export type ThemeDescription = {
+	text: string;
+	lyricsHash: string;
+	model: string;
+	generatedAt: string;
+};
+export type ThemesFile = Record<string, ThemeDescription>;
+
+/** sha256 of a hymn's lines: a description is stale when its hymn's lyrics changed. */
+export const lyricsHash = (hymn: Pick<PublishedHymn, 'sections'>) =>
+	createHash('sha256')
+		.update(hymn.sections.flatMap((s) => s.lines).join('\n'))
+		.digest('hex');
+
+export async function readThemes(file = THEMES_FILE): Promise<ThemesFile | undefined> {
+	return existsSync(file) ? JSON.parse(await readFile(file, 'utf8')) : undefined;
+}
+
+const usesThemes = (config: Pick<MeaningConfig, 'representation'>) =>
+	config.representation === 'title+theme+stanza';
+
 export type MeaningBuild = {
 	configId: string;
 	dims: number;
@@ -18,7 +46,12 @@ export type MeaningBuild = {
 	vectors: Uint8Array;
 	rowMap: Uint8Array;
 	bytes: number;
-	report: { embedded: number; cached: number };
+	report: {
+		embedded: number;
+		cached: number;
+		/** Hymns indexed without a theme description (always rejected, or new). */
+		withoutTheme?: string[];
+	};
 };
 
 export type MeaningBuildResult = MeaningBuild | { skipped: 'no-credentials' } | { error: string };
@@ -38,9 +71,27 @@ export async function buildMeaningData(
 	catalog: Catalog,
 	config: MeaningConfig,
 	embedder: Embedder,
-	themes?: Themes
+	themes?: Themes & Partial<ThemesFile>
 ): Promise<MeaningBuildResult> {
 	if (catalog.hymns.length > 0xffff) return { error: 'More than 65,535 hymns: row map overflow' };
+	let withoutTheme: string[] | undefined;
+	if (usesThemes(config)) {
+		const fix = 'run `npx tsx scripts/semantic/generate-themes.ts` (needs ANTHROPIC_API_KEY)';
+		if (!themes) return { error: `${THEMES_FILE} is missing: ${fix}` };
+		const stale = catalog.hymns.filter((h) => {
+			const hash = themes[h.id]?.lyricsHash;
+			return hash !== undefined && hash !== lyricsHash(h);
+		});
+		if (stale.length > 0) {
+			const ids = stale.map((h) => h.id);
+			return {
+				error:
+					`${stale.length} theme description(s) describe older lyrics ` +
+					`(${ids.slice(0, 5).join(', ')}${ids.length > 5 ? ', …' : ''}): ${fix}`
+			};
+		}
+		withoutTheme = catalog.hymns.filter((h) => !themes[h.id]?.text).map((h) => h.id);
+	}
 	const items = catalogTexts(catalog, config, themes);
 	const covered = new Set(items.map((t) => t.hymnIndex));
 	const missingHymn = catalog.hymns.findIndex((h, i) => h.sections.length > 0 && !covered.has(i));
@@ -75,6 +126,6 @@ export async function buildMeaningData(
 		vectors: new Uint8Array(vectors.buffer),
 		rowMap: writeRowMap(rows),
 		bytes,
-		report: { embedded, cached }
+		report: { embedded, cached, ...(withoutTheme ? { withoutTheme } : {}) }
 	};
 }

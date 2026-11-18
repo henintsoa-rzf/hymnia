@@ -12,32 +12,22 @@
  * Only hymns whose lyrics changed since their description (lyricsHash) are sent again.
  */
 import Anthropic from '@anthropic-ai/sdk';
-import { createHash } from 'node:crypto';
 import { existsSync } from 'node:fs';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { buildData } from '../build-data';
+import { THEMES_FILE, lyricsHash, type ThemesFile } from './build';
 import type { PublishedHymn } from '../../src/lib/domain/schema';
 import { normalizeText } from '../../src/lib/search/normalize';
 
-export const THEMES_FILE = 'content/generated/themes.json';
 const MODEL = 'claude-haiku-5-5';
 const MAX_CHARS = 300;
+/** Asked of the model: below MAX_CHARS, as it tends to run over the figure it is given. */
+const ASKED_CHARS = 250;
 /** A description holding this many consecutive lyric words is rejected (no quoting). */
 const COPIED_WORDS = 6;
 
-export type ThemeDescription = {
-	text: string;
-	lyricsHash: string;
-	model: string;
-	generatedAt: string;
-};
-export type ThemesFile = Record<string, ThemeDescription>;
-
-export const lyricsHash = (hymn: Pick<PublishedHymn, 'sections'>) =>
-	createHash('sha256')
-		.update(hymn.sections.flatMap((s) => s.lines).join('\n'))
-		.digest('hex');
+export { THEMES_FILE, lyricsHash };
 
 /** True when `text` repeats a run of `COPIED_WORDS` consecutive words of the lyrics. */
 export function quotesLyrics(text: string, hymn: Pick<PublishedHymn, 'sections'>): boolean {
@@ -49,7 +39,7 @@ export function quotesLyrics(text: string, hymn: Pick<PublishedHymn, 'sections'>
 	return false;
 }
 
-const SYSTEM = `Tu rédiges, pour un moteur de recherche de chants chrétiens, une description de 1 à 2 phrases en français (au plus ${MAX_CHARS} caractères) des thèmes et des usages d'un chant : sujets (grâce, fidélité de Dieu, pardon…), moments du culte ou de l'année (Noël, Pâques, cène, baptême, mariage, enterrement, envoi…) et passages bibliques évoqués. Ne cite aucune phrase des paroles. Réponds uniquement par la description, sans guillemets ni préambule.`;
+const SYSTEM = `Tu rédiges, pour un moteur de recherche de chants chrétiens, une description de 1 à 2 phrases en français (au plus ${ASKED_CHARS} caractères) des thèmes et des usages d'un chant : sujets (grâce, fidélité de Dieu, pardon…), moments du culte ou de l'année (Noël, Pâques, cène, baptême, mariage, enterrement, envoi…) et passages bibliques évoqués. Ne cite aucune phrase des paroles. Réponds uniquement par la description, sans guillemets ni préambule.`;
 
 function prompt(hymn: PublishedHymn): string {
 	const lyrics = hymn.sections.map((s) => s.lines.join('\n')).join('\n\n');

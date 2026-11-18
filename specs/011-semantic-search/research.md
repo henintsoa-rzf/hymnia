@@ -296,5 +296,78 @@ whose rights are not confirmed.
 
 ## Evaluation results
 
-*To be filled in after `scripts/semantic/evaluate.ts` runs (task in tasks.md): the table of
-scores and the chosen `configId`.*
+Run on 2026-11-18 (`npx tsx scripts/semantic/evaluate.ts`, Mammouth, `text-embedding-3-large`)
+on the 55 reference queries of `tests/queries/meaning-queries.json`. Each query names one target
+stanza and shares no word with it or its title (FR-019), and expects only that stanza's hymn.
+9,996 rows per representation (stanzas of 40+ characters, repeated sections once). Full output:
+`tests/queries/meaning-evaluation.json`.
+
+Two runs the same day. The first had no theme descriptions and chose `title+stanza/512/i8`.
+The second added `title+theme+stanza`, once the maintainer approved a 30-hymn sample (T046):
+`claude-haiku-5-5` through the Message Batches API wrote a description for 2,722 of the 2,730
+hymns, in five passes. The other 8 were rejected every time, 2 for length and 6 for quoting
+6+ consecutive words of the lyrics (short songs whose theme is their wording: Éphésiens 4,
+« plus de condamnation », the list of the prophets…). They are indexed with their title alone,
+as in `title+stanza`; the comparison accepts up to 1% of hymns without a description.
+
+Meaning list alone (%, MRR, data size):
+
+| Candidate | top 1 | top 10 | top 50 | MRR | MB |
+|---|---|---|---|---|---|
+| stanza / 256 / i8 | 16.4 | 43.6 | 81.8 | 0.268 | 2.5 |
+| stanza / 512 / i8 | 16.4 | 45.5 | 81.8 | 0.272 | 5.0 |
+| stanza / 1024 / i8 | 16.4 | 52.7 | 83.6 | 0.286 | 9.8 |
+| stanza / 3072 / f32 (ceiling) | 20.0 | 54.5 | 85.5 | 0.313 | 117.2 |
+| title+stanza / 256 / i8 | 23.6 | 43.6 | 70.9 | 0.307 | 2.5 |
+| **title+stanza / 512 / i8** | 20.0 | **54.5** | 78.2 | 0.296 | **5.0** |
+| title+stanza / 1024 / i8 | 20.0 | 54.5 | 85.5 | 0.317 | 9.8 |
+| title+stanza / 3072 / f32 (ceiling) | 18.2 | 60.0 | 83.6 | 0.320 | 117.2 |
+| title+theme+stanza / 256 / i8 | 12.7 | 49.1 | 74.5 | 0.255 | 2.5 |
+| title+theme+stanza / 512 / i8 | 16.4 | 56.4 | 81.8 | 0.277 | 5.0 |
+| **title+theme+stanza / 1024 / i8** | 12.7 | **61.8** | 81.8 | 0.263 | **9.8** |
+| title+theme+stanza / 3072 / f32 (ceiling) | 12.7 | 54.5 | 81.8 | 0.266 | 117.2 |
+
+int8 scores the same as float32 at every size, apart from stanza/512 (45.5 vs 47.3 top 10).
+
+Blend with word search, `title+stanza/512/i8` (weights meaning:words, RRF k = 60; the same
+pattern on `title+theme+stanza/1024/i8`, best blend 54.5 against 61.8 for the meaning order):
+
+| Weights | top 1 | top 10 | top 50 | MRR |
+|---|---|---|---|---|
+| **1 : 0 (meaning order)** | **20.0** | **54.5** | **78.2** | **0.296** |
+| 2 : 0.5 | 3.6 | 47.3 | 76.4 | 0.150 |
+| 1.5 : 0.5 | 1.8 | 45.5 | 76.4 | 0.133 |
+| 1 : 0.5 | 1.8 | 41.8 | 76.4 | 0.119 |
+| 1 : 1 | 1.8 | 20.0 | 65.5 | 0.091 |
+| 0.5 : 2 | 0 | 9.1 | 16.4 | 0.019 |
+| words only | 0 | 1.8 | 7.3 | 0.006 |
+
+**Decision**: `te3-large/title+theme+stanza/1024/i8/v1`, fusion 1 : 0, `maxBytes` 20 MB.
+
+- With themes, 1,024 dims gains 5.4 top-10 points over 512 (rule: ≥ 3), so the 20 MB limit
+  applies. Best top 10 among int8 candidates: 61.8 (title+theme+stanza/1024, 9.8 MB). No
+  smaller candidate is within 5 points (title+theme+stanza/512: 56.4).
+- Trade-offs of this choice, against `title+stanza/512` (54.5 top 10): top 1 falls from 20.0
+  to 12.7 and MRR from 0.296 to 0.263, top 50 rises from 78.2 to 81.8; the meaning data doubles
+  (5.0 to 9.8 MB, still under 10 MB today); new or changed hymns need a description
+  (`generate-themes.ts`, `ANTHROPIC_API_KEY`) before `npm run data`, which fails on a
+  description older than its lyrics (T053). The top-10 gain is 4 of 55 queries.
+- Blend weights: the best of the grid on top 10. Any weight on word search lowered every
+  measure, so the maintainer chose the meaning order alone (1 : 0): an exact title match from
+  word search still comes first, and word-only hits fall after every meaning hit.
+
+**Notes**
+
+- SC-002 is met: search by meaning finds the target in the top 10 for 34 queries, word search
+  alone for 1.
+- SC-001 was lowered by the maintainer to 50% in the top 10 and 75% in the top 50 (from 80% and
+  95%), as listing every relevant hymn per query is too much work. Measured: 61.8% and 81.8%.
+- Why every blend scores below the meaning list alone: The words list, ranked by its word tiers,
+  pushes up hymns that share common words with the query (Père, Éternel, foi…). Many of these
+  are relevant answers that are not the single expected hymn: « Par la foi » for « la
+  justification par la foi », « Comme une biche » for the paraphrase of Psalm 42, « Dieu répand
+  le Saint-Esprit » for Pentecost. With one expected hymn per query, the set counts them as
+  misses, so it understates both the blend and the meaning list. Listing the other relevant
+  hymns in `expect` (the word rule then applying to the target stanzas only) would give a fairer
+  measure.
+

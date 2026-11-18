@@ -30,7 +30,7 @@ import { compareSortKeys, normalizeNumber, sortKey } from '../src/lib/domain/num
 import { compactKey } from '../src/lib/search/normalize';
 import { INDEX_OPTIONS, toIndexDocument, type IndexDocument } from '../src/lib/search/index-config';
 import { MEANING_CONFIG, type MeaningConfig } from '../src/lib/meaning/config';
-import { buildMeaningData, type MeaningBuild } from './semantic/build';
+import { buildMeaningData, readThemes, type MeaningBuild } from './semantic/build';
 import { createEmbedder, envOptions, type Embedder } from './semantic/embed';
 
 /** Maximum compressed size of catalog + index (plan.md, Constraints). */
@@ -395,8 +395,13 @@ async function main() {
 	}
 
 	// Search by meaning (specs/011-semantic-search): optional, skipped without a key.
+	// Theme descriptions belong to the content they describe (content/generated/themes.json). A
+	// fake build (e2e, sample content) may have none: its hymns are then indexed by title.
 	const { embedder, config } = await buildEmbedder();
-	const meaning = await buildMeaningData(catalog, config, embedder);
+	const themes =
+		(await readThemes(join(contentDir, 'generated', 'themes.json'))) ??
+		(config.model === 'fake' ? {} : undefined);
+	const meaning = await buildMeaningData(catalog, config, embedder, themes);
 	if ('error' in meaning) {
 		console.error(`✗ ${meaning.error}`);
 		process.exit(1);
@@ -428,6 +433,14 @@ async function main() {
 			`  meaning: ${meaning.configId} — ${meaning.rows} rows, ${meaningMb} MB ` +
 				`(embedded ${meaning.report.embedded}, cached ${meaning.report.cached})`
 		);
+		const without = meaning.report.withoutTheme ?? [];
+		if (without.length > 0) {
+			console.warn(
+				`  ⚠ ${without.length} hymn(s) indexed without a theme description ` +
+					`(${without.slice(0, 5).join(', ')}${without.length > 5 ? ', …' : ''}); ` +
+					'run `npx tsx scripts/semantic/generate-themes.ts` for new hymns'
+			);
+		}
 	}
 
 	if (compressed > MAX_COMPRESSED_BYTES) {

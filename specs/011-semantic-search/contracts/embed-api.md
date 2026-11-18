@@ -11,7 +11,7 @@ the static app (research R9), at the same origin, so no CORS is needed.
 POST /api/embed
 Content-Type: application/json
 
-{ "text": "la fidélité de Dieu dans l'épreuve", "configId": "te3-large/title+stanza/512/i8/v1" }
+{ "text": "la fidélité de Dieu dans l'épreuve", "configId": "te3-large/title+theme+stanza/1024/i8/v1" }
 ```
 
 | Field | Rule |
@@ -23,7 +23,7 @@ Content-Type: application/json
 
 | Status | Body | When | App behaviour |
 |--------|------|------|---------------|
-| 200 | `{ "configId": "…", "dims": 512, "vector": "<base64 float32, little-endian, L2-normalised>" }` | OK | Check `configId` and `dims`, store in the query cache, rank. |
+| 200 | `{ "configId": "…", "dims": 1024, "vector": "<base64 float32, little-endian, L2-normalised>" }` | OK | Check `configId` and `dims`, store in the query cache, rank. |
 | 400 | `{ "error": "invalid" }` | Bad JSON, missing or empty field | "La recherche par le sens a échoué." (should not happen) |
 | 409 | `{ "error": "config", "expected": "<configId>" }` | `configId` ≠ the Worker's | "Mettez l'application à jour pour utiliser la recherche par le sens." with the existing reload action |
 | 413 | `{ "error": "too-long" }` | More than 500 characters | Same as 400 (the app already cuts) |

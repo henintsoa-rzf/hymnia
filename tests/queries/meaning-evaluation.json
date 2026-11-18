@@ -1,0 +1,504 @@
+{
+	"date": "2026-11-18",
+	"queries": 55,
+	"chosen": "te3-large/title+theme+stanza/1024/i8/v1",
+	"maxBytes": 20971520,
+	"fusion": {
+		"wMeaning": 1,
+		"wWords": 0
+	},
+	"candidates": [
+		{
+			"configId": "te3-large/stanza/256/f32/v1",
+			"representation": "stanza",
+			"dims": 256,
+			"quant": "f32",
+			"bytes": 10315872,
+			"top1": 16.4,
+			"top10": 43.6,
+			"top50": 81.8,
+			"mrr": 0.269
+		},
+		{
+			"configId": "te3-large/stanza/256/i8/v1",
+			"representation": "stanza",
+			"dims": 256,
+			"quant": "i8",
+			"bytes": 2638944,
+			"top1": 16.4,
+			"top10": 43.6,
+			"top50": 81.8,
+			"mrr": 0.268
+		},
+		{
+			"configId": "te3-large/stanza/512/f32/v1",
+			"representation": "stanza",
+			"dims": 512,
+			"quant": "f32",
+			"bytes": 20551776,
+			"top1": 16.4,
+			"top10": 47.3,
+			"top50": 81.8,
+			"mrr": 0.272
+		},
+		{
+			"configId": "te3-large/stanza/512/i8/v1",
+			"representation": "stanza",
+			"dims": 512,
+			"quant": "i8",
+			"bytes": 5197920,
+			"top1": 16.4,
+			"top10": 45.5,
+			"top50": 81.8,
+			"mrr": 0.272
+		},
+		{
+			"configId": "te3-large/stanza/1024/f32/v1",
+			"representation": "stanza",
+			"dims": 1024,
+			"quant": "f32",
+			"bytes": 41023584,
+			"top1": 16.4,
+			"top10": 52.7,
+			"top50": 83.6,
+			"mrr": 0.286
+		},
+		{
+			"configId": "te3-large/stanza/1024/i8/v1",
+			"representation": "stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 16.4,
+			"top10": 52.7,
+			"top50": 83.6,
+			"mrr": 0.286
+		},
+		{
+			"configId": "te3-large/stanza/3072/f32/v1",
+			"representation": "stanza",
+			"dims": 3072,
+			"quant": "f32",
+			"bytes": 122910816,
+			"top1": 20,
+			"top10": 54.5,
+			"top50": 85.5,
+			"mrr": 0.313
+		},
+		{
+			"configId": "te3-large/title+stanza/256/f32/v1",
+			"representation": "title+stanza",
+			"dims": 256,
+			"quant": "f32",
+			"bytes": 10315872,
+			"top1": 23.6,
+			"top10": 43.6,
+			"top50": 70.9,
+			"mrr": 0.307
+		},
+		{
+			"configId": "te3-large/title+stanza/256/i8/v1",
+			"representation": "title+stanza",
+			"dims": 256,
+			"quant": "i8",
+			"bytes": 2638944,
+			"top1": 23.6,
+			"top10": 43.6,
+			"top50": 70.9,
+			"mrr": 0.307
+		},
+		{
+			"configId": "te3-large/title+stanza/512/f32/v1",
+			"representation": "title+stanza",
+			"dims": 512,
+			"quant": "f32",
+			"bytes": 20551776,
+			"top1": 20,
+			"top10": 54.5,
+			"top50": 78.2,
+			"mrr": 0.296
+		},
+		{
+			"configId": "te3-large/title+stanza/512/i8/v1",
+			"representation": "title+stanza",
+			"dims": 512,
+			"quant": "i8",
+			"bytes": 5197920,
+			"top1": 20,
+			"top10": 54.5,
+			"top50": 78.2,
+			"mrr": 0.296
+		},
+		{
+			"configId": "te3-large/title+stanza/1024/f32/v1",
+			"representation": "title+stanza",
+			"dims": 1024,
+			"quant": "f32",
+			"bytes": 41023584,
+			"top1": 20,
+			"top10": 54.5,
+			"top50": 85.5,
+			"mrr": 0.317
+		},
+		{
+			"configId": "te3-large/title+stanza/1024/i8/v1",
+			"representation": "title+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 20,
+			"top10": 54.5,
+			"top50": 85.5,
+			"mrr": 0.317
+		},
+		{
+			"configId": "te3-large/title+stanza/3072/f32/v1",
+			"representation": "title+stanza",
+			"dims": 3072,
+			"quant": "f32",
+			"bytes": 122910816,
+			"top1": 18.2,
+			"top10": 60,
+			"top50": 83.6,
+			"mrr": 0.32
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/256/f32/v1",
+			"representation": "title+theme+stanza",
+			"dims": 256,
+			"quant": "f32",
+			"bytes": 10315872,
+			"top1": 14.5,
+			"top10": 49.1,
+			"top50": 74.5,
+			"mrr": 0.264
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/256/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 256,
+			"quant": "i8",
+			"bytes": 2638944,
+			"top1": 12.7,
+			"top10": 49.1,
+			"top50": 74.5,
+			"mrr": 0.255
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/512/f32/v1",
+			"representation": "title+theme+stanza",
+			"dims": 512,
+			"quant": "f32",
+			"bytes": 20551776,
+			"top1": 16.4,
+			"top10": 56.4,
+			"top50": 81.8,
+			"mrr": 0.281
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/512/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 512,
+			"quant": "i8",
+			"bytes": 5197920,
+			"top1": 16.4,
+			"top10": 56.4,
+			"top50": 81.8,
+			"mrr": 0.277
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/f32/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "f32",
+			"bytes": 41023584,
+			"top1": 12.7,
+			"top10": 61.8,
+			"top50": 81.8,
+			"mrr": 0.263
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 12.7,
+			"top10": 61.8,
+			"top50": 81.8,
+			"mrr": 0.263
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/3072/f32/v1",
+			"representation": "title+theme+stanza",
+			"dims": 3072,
+			"quant": "f32",
+			"bytes": 122910816,
+			"top1": 12.7,
+			"top10": 54.5,
+			"top50": 81.8,
+			"mrr": 0.266
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 20,
+			"top50": 76.4,
+			"mrr": 0.102,
+			"fusion": {
+				"wMeaning": 0.5,
+				"wWords": 0.5
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 1.8,
+			"top10": 12.7,
+			"top50": 14.5,
+			"mrr": 0.043,
+			"fusion": {
+				"wMeaning": 0.5,
+				"wWords": 1
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 1.8,
+			"top10": 9.1,
+			"top50": 14.5,
+			"mrr": 0.034,
+			"fusion": {
+				"wMeaning": 0.5,
+				"wWords": 1.5
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 1.8,
+			"top10": 7.3,
+			"top50": 14.5,
+			"mrr": 0.03,
+			"fusion": {
+				"wMeaning": 0.5,
+				"wWords": 2
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 12.7,
+			"top10": 61.8,
+			"top50": 81.8,
+			"mrr": 0.263,
+			"fusion": {
+				"wMeaning": 1,
+				"wWords": 0
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 34.5,
+			"top50": 81.8,
+			"mrr": 0.138,
+			"fusion": {
+				"wMeaning": 1,
+				"wWords": 0.5
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 20,
+			"top50": 76.4,
+			"mrr": 0.102,
+			"fusion": {
+				"wMeaning": 1,
+				"wWords": 1
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 12.7,
+			"top50": 52.7,
+			"mrr": 0.069,
+			"fusion": {
+				"wMeaning": 1,
+				"wWords": 1.5
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 1.8,
+			"top10": 12.7,
+			"top50": 14.5,
+			"mrr": 0.043,
+			"fusion": {
+				"wMeaning": 1,
+				"wWords": 2
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 54.5,
+			"top50": 81.8,
+			"mrr": 0.154,
+			"fusion": {
+				"wMeaning": 1.5,
+				"wWords": 0.5
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 29.1,
+			"top50": 80,
+			"mrr": 0.122,
+			"fusion": {
+				"wMeaning": 1.5,
+				"wWords": 1
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 20,
+			"top50": 76.4,
+			"mrr": 0.102,
+			"fusion": {
+				"wMeaning": 1.5,
+				"wWords": 1.5
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 12.7,
+			"top50": 61.8,
+			"mrr": 0.074,
+			"fusion": {
+				"wMeaning": 1.5,
+				"wWords": 2
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 54.5,
+			"top50": 81.8,
+			"mrr": 0.167,
+			"fusion": {
+				"wMeaning": 2,
+				"wWords": 0.5
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 34.5,
+			"top50": 81.8,
+			"mrr": 0.138,
+			"fusion": {
+				"wMeaning": 2,
+				"wWords": 1
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 27.3,
+			"top50": 80,
+			"mrr": 0.114,
+			"fusion": {
+				"wMeaning": 2,
+				"wWords": 1.5
+			}
+		},
+		{
+			"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+			"representation": "title+theme+stanza",
+			"dims": 1024,
+			"quant": "i8",
+			"bytes": 10315872,
+			"top1": 3.6,
+			"top10": 20,
+			"top50": 76.4,
+			"mrr": 0.102,
+			"fusion": {
+				"wMeaning": 2,
+				"wWords": 2
+			}
+		}
+	],
+	"wordsOnly": {
+		"top1": 0,
+		"top10": 1.8,
+		"top50": 7.3,
+		"mrr": 0.006
+	}
+}

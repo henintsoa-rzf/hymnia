@@ -11,12 +11,12 @@ into `static/data/`, next to the catalog and the word-search index (feature 001)
   "catalog": "catalog.<hash>.json",
   "index": "index.<hash>.json",
   "meaning": {                             // optional: absent when the build had no vectors
-    "configId": "te3-large/title+stanza/512/i8/v1",
-    "dims": 512,
-    "rows": 10042,
+    "configId": "te3-large/title+theme+stanza/1024/i8/v1",
+    "dims": 1024,
+    "rows": 9996,
     "vectors": "meaning.<hash>.bin",       // rows × dims bytes
     "rowMap": "meaning-rows.<hash>.bin",   // rows × 8 bytes
-    "bytes": 5221888                       // both files, for the progress display
+    "bytes": 10315872                      // both files, for the progress display
   }
 }
 ```

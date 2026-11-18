@@ -9,6 +9,7 @@ import { buildMeaningData, type MeaningBuild } from '../../scripts/semantic/buil
 import { MEANING_CONFIG } from '../../src/lib/meaning/config';
 import type { Catalog } from '../../src/lib/domain/schema';
 import { fakeEmbed } from '../helpers/fake-embedder';
+import { themesFor } from '../helpers/themes';
 import { loadSample } from '../helpers/sample';
 
 let dir: string;
@@ -31,7 +32,7 @@ const embedder = (model = 'text-embedding-3-large') =>
 	});
 
 async function build(catalog: Catalog, config = MEANING_CONFIG, model?: string) {
-	const out = await buildMeaningData(catalog, config, embedder(model));
+	const out = await buildMeaningData(catalog, config, embedder(model), themesFor(catalog));
 	if (!('vectors' in out)) throw new Error(JSON.stringify(out));
 	return out;
 }
@@ -82,7 +83,8 @@ describe('incremental meaning build', () => {
 		});
 		await build(added);
 		expect(sent).toEqual([
-			'Un chant nouveau\n\nChantez au Seigneur un chant nouveau, toute la terre'
+			'Un chant nouveau — Thèmes de Un chant nouveau.\n\n' +
+				'Chantez au Seigneur un chant nouveau, toute la terre'
 		]);
 	});
 

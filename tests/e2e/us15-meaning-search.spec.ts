@@ -1,9 +1,9 @@
 // Feature 011: search by meaning (specs/011-semantic-search/spec.md, US1 and US2), with
-// /api/embed answered by the fake embedder of the tests. Since feature 012 the button switches a
-// mode of the field: one press runs the search on a text already typed, Enter runs it again.
+// /api/embed answered by the fake embedder of the tests. Since feature 012 a switch turns a mode
+// of the field on and off; only the launch button (or Enter) runs the search.
 import AxeBuilder from '@axe-core/playwright';
 import { expect, test, type Page } from '@playwright/test';
-import { anyField, meaningButton, mockEmbed, results, search } from './helpers';
+import { anyField, launchMeaning, meaningButton, mockEmbed, results, search } from './helpers';
 
 const chip = (page: Page, name: string) =>
 	page.getByRole('group', { name: 'Filtrer par recueil' }).getByRole('button', { name });
@@ -11,11 +11,7 @@ const overline = (page: Page) => page.locator('main h2.hb-overline').first();
 
 async function searchByMeaning(page: Page, query: string) {
 	await search(page, query);
-	if ((await meaningButton(page).getAttribute('aria-pressed')) === 'true') {
-		await anyField(page).press('Enter');
-	} else {
-		await meaningButton(page).click();
-	}
+	await launchMeaning(page);
 	await expect(overline(page)).toContainText('Résultats par le sens');
 }
 
@@ -32,7 +28,7 @@ test.describe('US1: find a hymn by its meaning', () => {
 		await expect(meaningButton(page)).toBeVisible();
 		await search(page, 'un ami fidèle');
 		await expect(meaningButton(page)).toBeVisible();
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'false');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'false');
 	});
 
 	test('pressing it shows one blended list with excerpts', async ({ page }) => {
@@ -41,7 +37,7 @@ test.describe('US1: find a hymn by its meaning', () => {
 		await searchByMeaning(page, 'la nuit de Noël et les anges');
 		expect(posted).toEqual(['la nuit de Noël et les anges']);
 		await expect(page).toHaveURL(/sens=1/);
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'true');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'true');
 		await expect(results(page).first()).toBeVisible();
 		await expect(page.locator('main .hy-result__excerpt').first()).toBeVisible();
 	});
@@ -75,14 +71,15 @@ test.describe('US1: find a hymn by its meaning', () => {
 		await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
 	});
 
-	test('editing the query shows word results until Enter, in the same mode', async ({ page }) => {
-		await mockEmbed(page);
+	test('editing the query keeps the results by meaning until the next launch', async ({ page }) => {
+		const posted = await mockEmbed(page);
 		await page.goto('/');
 		await searchByMeaning(page, 'la gloire de Dieu');
-		await anyField(page).fill('la gloire de Dieu et');
-		await expect(overline(page)).not.toContainText('Résultats par le sens');
+		await search(page, 'la gloire de Dieu et');
+		await expect(overline(page)).toContainText('Résultats par le sens');
+		expect(posted).toEqual(['la gloire de Dieu']);
 		await expect(page).toHaveURL(/sens=1/);
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'true');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'true');
 	});
 
 	test('a link with sens=1 shows the meaning list again', async ({ page }) => {
@@ -97,7 +94,7 @@ test.describe('US1: find a hymn by its meaning', () => {
 		await page.goto('/');
 		const long = 'la grâce de Dieu '.repeat(40).trim();
 		await anyField(page).fill(long);
-		await meaningButton(page).click();
+		await launchMeaning(page);
 		await expect(page.getByText('Recherche limitée aux 500 premiers caractères')).toBeVisible();
 		await expect.poll(() => posted.length).toBe(1);
 		expect([...posted[0]]).toHaveLength(500);
@@ -122,12 +119,12 @@ test.describe('US2: weak or no connection', () => {
 		await search(page, 'gloire');
 		await expect(results(page).first()).toBeVisible();
 		await context.setOffline(true);
-		await meaningButton(page).click();
+		await launchMeaning(page);
 		await expect(page.getByText('La recherche par le sens nécessite une connexion.')).toBeVisible({
 			timeout: 1000
 		});
 		await expect(results(page).first()).toBeVisible();
-		// The mode stays on: Enter tries again once back online.
+		// The mode stays on: the launch button tries again once back online.
 		await expect(page).toHaveURL(/sens=1/);
 	});
 
@@ -135,20 +132,20 @@ test.describe('US2: weak or no connection', () => {
 		await mockEmbed(page, { delayMs: 15_000 });
 		await page.goto('/');
 		await search(page, 'gloire');
-		await meaningButton(page).click();
+		await launchMeaning(page);
 		await expect(page.getByText('Recherche par le sens…')).toBeVisible();
 		await expect(results(page).first()).toBeVisible();
 		await page.getByRole('button', { name: 'Annuler' }).click();
 		await expect(page.getByText('Recherche par le sens…')).toHaveCount(0);
 		// Cancelling stops the search, not the mode (feature 012).
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'true');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'true');
 	});
 
 	test('the service is unavailable: a message, and word results stay', async ({ page }) => {
 		await mockEmbed(page, { status: 503 });
 		await page.goto('/');
 		await search(page, 'gloire');
-		await meaningButton(page).click();
+		await launchMeaning(page);
 		await expect(
 			page.getByText('La recherche par le sens est indisponible pour le moment.')
 		).toBeVisible();
@@ -221,7 +218,7 @@ test.describe('accessibility and themes', () => {
 			await page.screenshot({ path: info.outputPath(`button-${scheme}.png`) });
 			expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([]);
 
-			await meaningButton(page).click();
+			await launchMeaning(page);
 			await expect(overline(page)).toContainText('Résultats par le sens');
 			await page.screenshot({ path: info.outputPath(`results-${scheme}.png`) });
 			expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([]);
@@ -232,7 +229,7 @@ test.describe('accessibility and themes', () => {
 		await mockEmbed(page, { delayMs: 15_000 });
 		await page.goto('/');
 		await search(page, 'gloire');
-		await meaningButton(page).click();
+		await launchMeaning(page);
 		await expect(page.getByText('Recherche par le sens…')).toBeVisible();
 		expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([]);
 		await page.getByRole('button', { name: 'Annuler' }).click();

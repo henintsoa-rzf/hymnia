@@ -7,8 +7,9 @@
   (specs/006-search-start-panel/contracts/ui.md).
   Feature 011: search by meaning turns the query into a vector online, then ranks on the device
   and shows one blended list (specs/011-semantic-search/contracts/meaning-search.md).
-  Feature 012: search by meaning is a mode of the field, kept in the URL (?sens=1). Enter runs it;
-  editing the text shows the word results again until the next Enter
+  Feature 012: search by meaning is a mode of the field, kept in the URL (?sens=1), turned on and
+  off with a switch. Only the launch button (or Enter) runs it, never the switch or typing; its
+  results stay while the text is edited, until the next launch
   (specs/012-meaning-search-mode/contracts/search-mode.md).
 -->
 <script lang="ts">
@@ -85,16 +86,10 @@
 	let meaningFor = $state<{ query: string; filter: string } | null>(null);
 	let meaningResponse = $state<SearchResponse | null>(null);
 	let meaningPhase = $state<MeaningPhase>({ kind: 'idle' });
-	/** The query the status line is about: editing it clears the line. */
-	let phaseQuery = $state('');
 	let truncated = $state(false);
 	let meaningController: AbortController | undefined;
 
 	const filterKey = (ids: string[]) => [...ids].sort().join(',');
-	/** Results by meaning are shown: meaning mode, for this very text. */
-	const meaningActive = $derived(
-		mode === 'meaning' && meaningFor !== null && meaningFor.query === query
-	);
 
 	// The same reading of the query as the search engine (engine.ts), but synchronous, so what
 	// Enter does never waits on the worker (research R6).
@@ -108,8 +103,12 @@
 	const queryKind = (q: string) => parseQuery(q, (label) => hymnalKeys.get(compactKey(label))).kind;
 	/** A text to search by meaning: not empty, not a hymn number. */
 	const offersMeaning = (q: string) => ['short', 'text'].includes(queryKind(q));
+	/**
+	 * Results by meaning are shown: meaning mode, once launched. They stay while the text is edited,
+	 * until the next launch; a hymn number typed meanwhile shows its hymn.
+	 */
+	const meaningActive = $derived(mode === 'meaning' && meaningFor !== null && offersMeaning(query));
 	const shownPhase = $derived.by((): MeaningPhase => {
-		if (phaseQuery !== query) return { kind: 'idle' };
 		const status = $meaningStatus;
 		if (meaningPhase.kind === 'waiting' && status.state === 'downloading' && status.total) {
 			const percent = Math.min(99, Math.floor(((status.loaded ?? 0) / status.total) * 100));
@@ -126,15 +125,13 @@
 		truncated = false;
 	}
 
-	async function runMeaning() {
-		const q = query;
+	async function runMeaning(q = query) {
 		if (!q.trim()) return;
 		meaningController?.abort();
 		const controller = (meaningController = new AbortController());
 		const filter = [...selected];
-		const stale = () => controller.signal.aborted || query !== q || mode !== 'meaning';
+		const stale = () => controller.signal.aborted || mode !== 'meaning';
 
-		phaseQuery = q;
 		meaningPhase = { kind: 'waiting' };
 		// The button shows from the first paint (manifest); the worker may still be loading.
 		if (!ready) await client.ready.catch(() => undefined);
@@ -175,24 +172,21 @@
 		meaningPhase = { kind: 'idle' };
 	}
 
-	// Editing the query cancels a search by meaning in progress (US1 scenario 7) and drops its
-	// results: typing the same text again shows word results until Enter (feature 012).
+	// Editing the text runs nothing by meaning: only the launch button (or Enter) does. Emptying
+	// the field drops the results by meaning and any search in progress.
 	$effect(() => {
-		if (query !== untrack(() => phaseQuery) && meaningController) {
-			meaningController.abort();
-			meaningController = undefined;
-		}
-		const shownFor = untrack(() => meaningFor);
-		if (shownFor && shownFor.query !== query) meaningFor = null;
+		if (query.trim()) return;
+		untrack(() => {
+			if (meaningFor || meaningController || meaningPhase.kind !== 'idle') cancelMeaning();
+		});
 	});
 
-	// The hymnal filter applies to the meaning list too (FR-006): search again when it changes.
+	// The hymnal filter applies to the meaning list too (FR-006): the same text is searched again
+	// (its vector is cached, so nothing is sent).
 	$effect(() => {
 		const key = filterKey(selected);
 		const current = untrack(() => meaningFor);
-		if (current && current.query === untrack(() => query) && current.filter !== key) {
-			void runMeaning();
-		}
+		if (current && current.filter !== key) void runMeaning(current.query);
 	});
 
 	let latest = 0;
@@ -269,24 +263,16 @@
 		if (first) goto(hymnUrl(first.primaryRef.hymnal, first.primaryRef.number));
 	}
 
-	/** Enter (feature 012, research R6). */
+	/** Enter, or the launch button (feature 012, research R6). */
 	function submit() {
-		const action = decideSubmit({
-			mode,
-			queryKind: queryKind(query),
-			meaningCurrent: meaningActive
-		});
+		const action = decideSubmit({ mode, queryKind: queryKind(query) });
 		if (action === 'open-first') openFirst();
 		else if (action === 'run-meaning') void runMeaning();
 	}
 
 	function changeMode(next: SearchMode) {
-		if (next === 'meaning') {
-			// One press runs it on a text already typed, as before feature 012.
-			if (offersMeaning(query)) void runMeaning();
-		} else {
-			cancelMeaning();
-		}
+		// Turning the mode on runs nothing: the launch button does.
+		if (next === 'word') cancelMeaning();
 	}
 
 	function onkeydown(event: KeyboardEvent) {
@@ -326,11 +312,7 @@
 			{/if}
 		</div>
 
-		<MeaningStatus
-			phase={shownPhase}
-			truncated={truncated && phaseQuery === query}
-			oncancel={cancelMeaning}
-		/>
+		<MeaningStatus phase={shownPhase} {truncated} oncancel={cancelMeaning} />
 
 		<p class="hb-sr" aria-live="polite">{status}</p>
 		<p class="hb-sr" aria-live="polite">{announcement}</p>
@@ -377,7 +359,8 @@
 			Au clavier&#8239;: <kbd>/</kbd> place le curseur dans la recherche, <kbd>Entrée</kbd> ouvre le
 			premier résultat.
 			{#if meaningAvailable}
-				En mode «&#8239;par le sens&#8239;», <kbd>Entrée</kbd> lance la recherche.
+				En mode «&#8239;par le sens&#8239;», <kbd>Entrée</kbd> ou le bouton sous l’interrupteur lance
+				la recherche.
 			{/if}
 		</p>
 	</aside>

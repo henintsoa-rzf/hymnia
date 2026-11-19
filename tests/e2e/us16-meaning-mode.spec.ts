@@ -3,6 +3,8 @@
 import { expect, test, type Page } from '@playwright/test';
 import {
 	anyField,
+	launchButton,
+	launchMeaning,
 	meaningButton,
 	meaningField,
 	mockEmbed,
@@ -23,25 +25,28 @@ const borderColor = (page: Page) =>
 	frame(page).evaluate((el) => getComputedStyle(el).borderTopColor);
 
 test.describe('US1: notice and enter the search-by-meaning mode', () => {
-	test('the button is there from the start, whatever the query', async ({ page }) => {
+	test('the switch is there from the start, whatever the query', async ({ page }) => {
 		await page.goto('/');
 		await expect(meaningButton(page)).toBeVisible();
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'false');
-		await expect(meaningButton(page)).toHaveAttribute('title', 'Rechercher par le sens');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'false');
+		await expect(meaningButton(page)).toHaveAttribute('title', 'Recherche par le sens');
+		await expect(launchButton(page)).toHaveCount(0);
 		for (const query of ['245', 'CE 1', 'grâce']) {
 			await search(page, query);
 			await expect(meaningButton(page)).toBeVisible();
 		}
 	});
 
-	test('pressing it doubles the field, changes its frame and keeps the focus', async ({ page }) => {
+	test('turning it on doubles the field, changes its frame and keeps the focus', async ({
+		page
+	}) => {
 		await page.goto('/');
 		await expect(searchField(page)).toBeFocused();
 		const wordHeight = await height(page);
 		const wordBorder = await borderColor(page);
 
 		await meaningButton(page).click();
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'true');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'true');
 		await expect(meaningField(page)).toBeFocused();
 		await expect(meaningField(page)).toHaveAttribute(
 			'placeholder',
@@ -50,9 +55,25 @@ test.describe('US1: notice and enter the search-by-meaning mode', () => {
 		await expect.poll(() => height(page)).toBeGreaterThanOrEqual(wordHeight * 1.8);
 		expect(await borderColor(page)).not.toBe(wordBorder);
 		await expect(page).toHaveURL(/sens=1/);
+		await expect(launchButton(page)).toBeVisible();
+		await expect(launchButton(page)).toBeDisabled();
 	});
 
-	test('in the mode, nothing is sent until Enter', async ({ page }) => {
+	test('turning it on runs nothing, even on a text already typed', async ({ page }) => {
+		const posted = await mockEmbed(page);
+		await page.goto('/');
+		await search(page, 'la gloire de Dieu');
+		await meaningButton(page).click();
+		await expect(launchButton(page)).toBeEnabled();
+		await page.waitForTimeout(500);
+		expect(posted).toEqual([]);
+		await expect(overline(page)).not.toContainText('Résultats par le sens');
+		await expect(results(page).first()).toBeVisible();
+	});
+
+	test('in the mode, nothing is sent while typing; the launch button sends it', async ({
+		page
+	}) => {
 		const posted = await mockEmbed(page);
 		await page.goto('/');
 		await meaningButton(page).click();
@@ -60,26 +81,26 @@ test.describe('US1: notice and enter the search-by-meaning mode', () => {
 		await meaningField(page).pressSequentially(text);
 		await expect(results(page).first()).toBeVisible();
 		expect(posted).toEqual([]);
+		await launchButton(page).click();
+		await expect(overline(page)).toContainText('Résultats par le sens');
+		expect(posted).toEqual([text]);
+	});
+
+	test('Enter launches it too, and never adds a line break', async ({ page }) => {
+		const posted = await mockEmbed(page);
+		await page.goto('/?sens=1');
+		const text = 'la grâce de Dieu';
+		await meaningField(page).fill(text);
 		await meaningField(page).press('Enter');
 		await expect(overline(page)).toContainText('Résultats par le sens');
 		expect(posted).toEqual([text]);
-		// Enter never adds a line break.
 		await expect(meaningField(page)).toHaveValue(text);
-	});
-
-	test('one press runs the search on a text already typed', async ({ page }) => {
-		const posted = await mockEmbed(page);
-		await page.goto('/');
-		await search(page, 'la gloire de Dieu');
-		await meaningButton(page).click();
-		await expect(overline(page)).toContainText('Résultats par le sens');
-		expect(posted).toEqual(['la gloire de Dieu']);
 	});
 
 	test('a hymn number with Enter opens the hymn, with no search by meaning', async ({ page }) => {
 		const posted = await mockEmbed(page);
 		await page.goto('/?sens=1');
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'true');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'true');
 		await search(page, 'CE 1');
 		await expect(page.locator('.hy-exact')).toBeVisible();
 		await anyField(page).press('Enter');
@@ -87,18 +108,31 @@ test.describe('US1: notice and enter the search-by-meaning mode', () => {
 		expect(posted).toEqual([]);
 	});
 
-	test('editing the text shows word results; Enter searches by meaning again', async ({ page }) => {
+	test('editing the text keeps the results by meaning until the button is pressed again', async ({
+		page
+	}) => {
 		const posted = await mockEmbed(page);
 		await page.goto('/');
 		await search(page, 'la gloire de Dieu');
-		await meaningButton(page).click();
+		await launchMeaning(page);
 		await expect(overline(page)).toContainText('Résultats par le sens');
 		await search(page, 'la gloire de Dieu seul');
-		await expect(overline(page)).not.toContainText('Résultats par le sens');
-		await expect(page).toHaveURL(/sens=1/);
-		await anyField(page).press('Enter');
+		await page.waitForTimeout(500);
 		await expect(overline(page)).toContainText('Résultats par le sens');
-		expect(posted).toEqual(['la gloire de Dieu', 'la gloire de Dieu seul']);
+		expect(posted).toEqual(['la gloire de Dieu']);
+		await launchButton(page).click();
+		await expect.poll(() => posted).toEqual(['la gloire de Dieu', 'la gloire de Dieu seul']);
+		await expect(overline(page)).toContainText('Résultats par le sens');
+	});
+
+	test('a hymn number typed over results by meaning shows its hymn', async ({ page }) => {
+		await mockEmbed(page);
+		await page.goto('/');
+		await search(page, 'la gloire de Dieu');
+		await launchMeaning(page);
+		await expect(overline(page)).toContainText('Résultats par le sens');
+		await search(page, 'CE 1');
+		await expect(page.locator('.hy-exact')).toBeVisible();
 	});
 
 	test('pasted line breaks become spaces', async ({ page }) => {
@@ -112,7 +146,7 @@ test.describe('US1: notice and enter the search-by-meaning mode', () => {
 	test('a link with sens=1 opens in the mode, with the results by meaning', async ({ page }) => {
 		await mockEmbed(page);
 		await page.goto('/?q=la%20gloire%20de%20Dieu&sens=1');
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'true');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'true');
 		await expect(meaningField(page)).toHaveValue('la gloire de Dieu');
 		await expect(overline(page)).toContainText('Résultats par le sens');
 	});
@@ -124,24 +158,25 @@ test.describe('US2: return to word search', () => {
 		await page.goto('/');
 		const wordHeight = await height(page);
 		await search(page, 'la gloire de Dieu');
-		await meaningButton(page).click();
+		await launchMeaning(page);
 		await expect(overline(page)).toContainText('Résultats par le sens');
 
 		await meaningButton(page).click();
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'false');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'false');
 		await expect(searchField(page)).toHaveValue('la gloire de Dieu');
 		await expect(searchField(page)).toHaveAttribute('placeholder', 'Numéro, titre ou paroles');
 		await expect.poll(() => height(page)).toBeLessThanOrEqual(wordHeight + 2);
 		await expect(overline(page)).not.toContainText('Résultats par le sens');
 		await expect(results(page).first()).toBeVisible();
 		await expect(page).not.toHaveURL(/sens=1/);
+		await expect(launchButton(page)).toHaveCount(0);
 	});
 
 	test('leaving the mode cancels a search in progress', async ({ page }) => {
 		await mockEmbed(page, { delayMs: 2000 });
 		await page.goto('/');
 		await search(page, 'la gloire de Dieu');
-		await meaningButton(page).click();
+		await launchMeaning(page);
 		await expect(page.getByText('Recherche par le sens…')).toBeVisible();
 		await meaningButton(page).click();
 		await expect(page.getByText('Recherche par le sens…')).toHaveCount(0);
@@ -156,13 +191,13 @@ test.describe('US2: return to word search', () => {
 		await meaningField(page).fill('la grâce');
 		await page.getByRole('button', { name: 'Effacer la recherche' }).click();
 		await expect(meaningField(page)).toHaveValue('');
-		await expect(meaningButton(page)).toHaveAttribute('aria-pressed', 'true');
+		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'true');
 		expect(await height(page)).toBe(meaningHeight);
 	});
 });
 
 /**
- * Records every size change of the form, the field's frame and the mode button, and every
+ * Records every size change of the form, the field's frame and the mode switch, and every
  * control added or removed in the form, except the clear button inside the field (research R9).
  */
 async function watchLayout(page: Page) {
@@ -221,7 +256,7 @@ test.describe('US3: type without blinking', () => {
 				await page.setViewportSize({ width, height: 800 });
 				await page.goto(mode === 'meaning' ? '/?sens=1' : '/');
 				await expect(meaningButton(page)).toHaveAttribute(
-					'aria-pressed',
+					'aria-checked',
 					String(mode === 'meaning')
 				);
 				// Let the search worker start, so its answers come while typing.

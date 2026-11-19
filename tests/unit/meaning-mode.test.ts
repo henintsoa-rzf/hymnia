@@ -4,46 +4,29 @@ import type { ParsedQuery } from '$lib/search/query-parser';
 
 type Kind = ParsedQuery['kind'];
 
-describe('decideSubmit: what Enter does (feature 012, research R6)', () => {
-	it.each<[Kind, boolean]>([
-		['empty', false],
-		['number', false],
-		['hymnal-number', false],
-		['short', false],
-		['text', false],
-		['text', true]
-	])('word mode, %s query (current %s): opens the first result', (queryKind, meaningCurrent) => {
-		expect(decideSubmit({ mode: 'word', queryKind, meaningCurrent })).toBe('open-first');
-	});
+describe('decideSubmit: what Enter or the launch button does (feature 012, research R6)', () => {
+	it.each<Kind>(['empty', 'number', 'hymnal-number', 'short', 'text'])(
+		'word mode, %s query: opens the first result',
+		(queryKind) => {
+			expect(decideSubmit({ mode: 'word', queryKind })).toBe('open-first');
+		}
+	);
 
 	it('meaning mode, empty query: nothing', () => {
-		expect(decideSubmit({ mode: 'meaning', queryKind: 'empty', meaningCurrent: false })).toBe(
-			'none'
-		);
+		expect(decideSubmit({ mode: 'meaning', queryKind: 'empty' })).toBe('none');
 	});
 
 	it.each<Kind>(['number', 'hymnal-number'])(
 		'meaning mode, %s query: opens the first result (word search answers numbers)',
 		(queryKind) => {
-			expect(decideSubmit({ mode: 'meaning', queryKind, meaningCurrent: false })).toBe(
-				'open-first'
-			);
+			expect(decideSubmit({ mode: 'meaning', queryKind })).toBe('open-first');
 		}
 	);
 
 	it.each<Kind>(['short', 'text'])(
-		'meaning mode, %s query without current results: runs the search by meaning',
+		'meaning mode, %s query: runs the search by meaning, again if already shown',
 		(queryKind) => {
-			expect(decideSubmit({ mode: 'meaning', queryKind, meaningCurrent: false })).toBe(
-				'run-meaning'
-			);
-		}
-	);
-
-	it.each<Kind>(['short', 'text'])(
-		'meaning mode, %s query with current results: opens the first result',
-		(queryKind) => {
-			expect(decideSubmit({ mode: 'meaning', queryKind, meaningCurrent: true })).toBe('open-first');
+			expect(decideSubmit({ mode: 'meaning', queryKind })).toBe('run-meaning');
 		}
 	);
 });

@@ -91,6 +91,18 @@ export async function mockEmbed(
 	return posted;
 }
 
-/** The switch to the search-by-meaning mode (feature 012). */
+/** The switch that turns the search-by-meaning mode on and off (feature 012). */
 export const meaningButton = (page: Page) =>
-	page.getByRole('button', { name: 'Rechercher par le sens' });
+	page.getByRole('switch', { name: 'Recherche par le sens' });
+
+/** The button that runs the search by meaning, shown in that mode only. */
+export const launchButton = (page: Page) =>
+	page.getByRole('button', { name: 'Lancer la recherche par le sens' });
+
+/** Turn the mode on if needed, then launch the search by meaning. */
+export async function launchMeaning(page: Page) {
+	if ((await meaningButton(page).getAttribute('aria-checked')) !== 'true') {
+		await meaningButton(page).click();
+	}
+	await launchButton(page).click();
+}

@@ -1,6 +1,7 @@
 /**
  * The two modes of the search field (feature 012, specs/012-meaning-search-mode/contracts/
- * search-mode.md): word search as you type, or search by meaning, run with Enter.
+ * search-mode.md): word search as you type, or search by meaning, run only with the launch button
+ * or Enter.
  */
 import type { ParsedQuery } from '../search/query-parser';
 
@@ -14,14 +15,13 @@ export type SubmitAction = 'open-first' | 'run-meaning' | 'none';
 export function decideSubmit(input: {
 	mode: SearchMode;
 	queryKind: ParsedQuery['kind'];
-	/** Results by meaning are shown for this text and filter. */
-	meaningCurrent: boolean;
 }): SubmitAction {
-	const { mode, queryKind, meaningCurrent } = input;
+	const { mode, queryKind } = input;
 	if (mode === 'word') return 'open-first';
 	if (queryKind === 'empty') return 'none';
 	if (queryKind === 'number' || queryKind === 'hymnal-number') return 'open-first';
-	return meaningCurrent ? 'open-first' : 'run-meaning';
+	// Pressed again on the same text, it searches again.
+	return 'run-meaning';
 }
 
 /** Line breaks (typed or pasted) become one space, with the spaces around them. */

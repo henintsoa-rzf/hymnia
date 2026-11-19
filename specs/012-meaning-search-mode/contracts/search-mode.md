@@ -52,13 +52,17 @@ changes. Only the clear button appears or disappears, inside the field's existin
 
 | Event | Effect |
 |-------|--------|
-| Enter mode, text query | Run the search by meaning on it at once |
-| Enter mode, empty or number query | Nothing more |
+| Turn the switch on | Nothing is searched; the launch button appears under the switch (disabled while the field is empty) |
+| Launch button or Enter key | See research R6 (`decideSubmit`): a text runs the search by meaning, again if already shown; a hymn number opens its hymn; empty does nothing |
 | Leave mode | Cancel a search in progress, drop results by meaning, show word results; drop `sens=1` |
-| Enter key | See research R6 (`decideSubmit` in `src/lib/meaning/mode.ts`) |
-| Edit text | Word search updates as you type in both modes; results by meaning go stale (not shown) until Enter; mode and `sens=1` stay |
+| Edit text | Nothing is sent. Before a first launch, word results update as you type; once launched, the results by meaning stay until the next launch (a hymn number typed meanwhile shows its hymn; emptying the field drops them); mode and `sens=1` stay |
+| Change the hymnal filter | The launched text is searched again with the new filter (its vector is cached) |
 | Load with `sens=1` | Meaning mode; text query → search by meaning once the worker is ready |
-| `meaningAvailable` false | No button; `sens=1` ignored |
+| `meaningAvailable` false | No switch; `sens=1` ignored |
+
+The mode control is a switch (`role="switch"`, `aria-checked`, « Recherche par le sens »); the
+launch button (« Lancer la recherche par le sens ») shows in the meaning mode only, under the
+switch, so the column is as tall as the doubled field and nothing moves while typing.
 
 `src/lib/meaning/mode.ts`:
 
@@ -67,7 +71,6 @@ export type SubmitAction = 'open-first' | 'run-meaning' | 'none';
 export function decideSubmit(input: {
   mode: 'word' | 'meaning';
   queryKind: ParsedQuery['kind'];   // from parseQuery, synchronous
-  meaningCurrent: boolean;          // results by meaning shown for this text and filter
 }): SubmitAction;
 
 /** Line breaks (typed or pasted) become one space. */

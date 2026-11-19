@@ -2,9 +2,10 @@
   Search field (T033, decisions §4.1): 52 px tall, 18 px text, results while typing (no search
   button, FR-009), clear button once there is text. Enter opens the first result.
   Feature 012: the field has two modes (specs/012-meaning-search-mode/contracts/search-mode.md).
-  A small button beside it, shown from the first paint when the data has meaning vectors, switches
-  to the search by meaning: the field doubles in height, wraps the text and takes the gold
-  `--meaning` frame; Enter then runs the search. The field is one textarea in both modes, so
+  A small switch beside it, shown from the first paint when the data has meaning vectors, turns
+  the search by meaning on or off: the field doubles in height, wraps the text and takes the gold
+  `--meaning` frame. Turning it on runs nothing: a launch button appears under the switch, and the
+  search runs (or runs again) only when it is pressed, or with Enter. The field is one textarea in both modes, so
   switching never replaces the focused element (research R3). Nothing here depends on the text
   typed, so the form never changes size while typing (research R1).
 -->
@@ -26,7 +27,7 @@
 		mode?: SearchMode;
 		/** The data has meaning vectors (from the manifest, not from the query). */
 		meaningAvailable?: boolean;
-		/** Enter; the page decides what it does (decideSubmit). */
+		/** Enter or the launch button; the page decides what it does (decideSubmit). */
 		onsubmit?: () => void;
 		onmodechange?: (mode: SearchMode) => void;
 	} = $props();
@@ -112,17 +113,33 @@
 		{/if}
 	</label>
 	{#if meaningAvailable}
-		<button
-			type="button"
-			class="hb-btn mode-btn"
-			aria-label="Rechercher par le sens"
-			title="Rechercher par le sens"
-			aria-pressed={meaning}
-			onmousedown={(event) => event.preventDefault()}
-			onclick={toggle}
-		>
-			<Icon name="meaning" />
-		</button>
+		<div class="mode-col">
+			<button
+				type="button"
+				role="switch"
+				class="hb-btn mode-btn"
+				aria-label="Recherche par le sens"
+				title="Recherche par le sens"
+				aria-checked={meaning}
+				onmousedown={(event) => event.preventDefault()}
+				onclick={toggle}
+			>
+				<Icon name="meaning" />
+				<span class="mode-switch" aria-hidden="true"></span>
+			</button>
+			{#if meaning}
+				<!-- Takes the focus, so that on a phone the keyboard closes on the results. -->
+				<button
+					type="submit"
+					class="hb-btn launch-btn"
+					aria-label="Lancer la recherche par le sens"
+					title="Lancer la recherche"
+					disabled={!value.trim()}
+				>
+					<Icon name="search" />
+				</button>
+			{/if}
+		</div>
 	{/if}
 </form>
 
@@ -165,8 +182,18 @@
 		color: var(--ink-muted);
 	}
 
-	.mode-btn {
+	/* The switch and, in the meaning mode, the launch button under it: together as tall as the
+	   doubled field (52 + 8 + 44 = 104; 56 + 8 + 48 = 112 on desktop). */
+	.mode-col {
+		display: flex;
 		flex: none;
+		flex-direction: column;
+		gap: var(--space-2);
+	}
+
+	.mode-btn {
+		flex-direction: column;
+		gap: 4px;
 		width: 52px;
 		min-height: 52px;
 		padding: 0;
@@ -174,10 +201,54 @@
 		color: var(--ink-muted);
 	}
 
-	.mode-btn[aria-pressed='true'] {
+	.mode-btn[aria-checked='true'] {
 		background: var(--meaning-soft);
 		border-color: var(--meaning);
 		color: var(--meaning);
+	}
+
+	/* A small on/off track under the icon, so the button reads as a switch. */
+	.mode-switch {
+		position: relative;
+		width: 26px;
+		height: 14px;
+		border-radius: 7px;
+		background: var(--ink-muted);
+		transition: background-color 160ms ease-out;
+	}
+
+	.mode-switch::after {
+		content: '';
+		position: absolute;
+		top: 2px;
+		left: 2px;
+		width: 10px;
+		height: 10px;
+		border-radius: 50%;
+		background: var(--paper-raised);
+		transition: transform 160ms ease-out;
+	}
+
+	.mode-btn[aria-checked='true'] .mode-switch {
+		background: var(--meaning);
+	}
+
+	.mode-btn[aria-checked='true'] .mode-switch::after {
+		transform: translateX(12px);
+	}
+
+	.launch-btn {
+		width: 52px;
+		min-height: 44px;
+		padding: 0;
+		background: var(--meaning);
+		border-color: var(--meaning);
+		color: var(--on-rubric);
+	}
+
+	.launch-btn:disabled {
+		opacity: 0.45;
+		cursor: default;
 	}
 
 	/* ---------- Search-by-meaning mode ---------- */
@@ -235,6 +306,11 @@
 			min-height: 56px;
 		}
 
+		.launch-btn {
+			width: 56px;
+			min-height: 48px;
+		}
+
 		.search-form--meaning .search-box {
 			min-height: 112px;
 		}
@@ -254,7 +330,9 @@
 
 	@media (prefers-reduced-motion: reduce) {
 		.search-box,
-		.search-box textarea {
+		.search-box textarea,
+		.mode-switch,
+		.mode-switch::after {
 			transition: none;
 		}
 	}

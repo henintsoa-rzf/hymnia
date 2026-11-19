@@ -19,6 +19,12 @@ let loadMs = 0;
 
 beforeAll(() => {
 	const { hymnals, hymns } = generateCorpus(6000);
+	// Feature 014: a hymnal with parts, so a part can be left out.
+	hymnals[3].parts = [
+		{ name: 'Partie A', first: 1 },
+		{ name: 'Partie B', first: 200 },
+		{ name: 'Partie C', first: 400 }
+	];
 	const catalog = buildCatalog(hymnals, hymns);
 	catalogJson = JSON.stringify(catalog);
 	indexJson = buildIndex(catalog);
@@ -58,6 +64,27 @@ describe('search performance (SC-002)', () => {
 				slow.push(`"${query}": ${ms.toFixed(1)} ms (${response.results.length} results)`);
 		}
 		console.info(`Slowest search: ${worst.toFixed(1)} ms. Index load: ${loadMs.toFixed(0)} ms.`);
+		expect(slow).toEqual([]);
+	});
+
+	it(`stays within ${BUDGET_MS} ms with a hymnal and a part left out (feature 014, SC-004)`, () => {
+		const excluded = { hymnals: ['r1'], parts: { r3: [200] } };
+		for (const query of QUERIES) engine.search({ query, excluded });
+
+		const slow: string[] = [];
+		let worst = 0;
+		for (const query of QUERIES) {
+			const t = performance.now();
+			const response = engine.search({ query, excluded });
+			const ms = performance.now() - t;
+			worst = Math.max(worst, ms);
+			if (ms > BUDGET_MS)
+				slow.push(`"${query}": ${ms.toFixed(1)} ms (${response.results.length} results)`);
+			for (const result of response.results) {
+				expect(result.refs.every((ref) => ref.hymnal !== 'r1')).toBe(true);
+			}
+		}
+		console.info(`Slowest search with hymnals left out: ${worst.toFixed(1)} ms.`);
 		expect(slow).toEqual([]);
 	});
 

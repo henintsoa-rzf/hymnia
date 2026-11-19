@@ -2,13 +2,16 @@
   Search results (T034, T045, decisions §4.1): the exact hymn as a card, hymns with a number,
   or text results with all their references and a highlighted excerpt. Calm messages when
   nothing is found. Feature 013: a result found by meaning links to its hymn with
-  `?passage=<section>`, so the stanza shown as excerpt is marked there.
+  `?passage=<section>`, so the stanza shown as excerpt is marked there. Feature 014: a hymn left
+  out in Settings is reported as such, and empty results say when hymnals are left out.
 -->
 <script lang="ts">
 	import { resolve } from '$app/paths';
 	import type { Snippet } from 'svelte';
 	import type { PublishedHymnal } from '$lib/domain/schema';
 	import { frenchSpaces, hymnalUrl, hymnCountLabel, hymnUrl, refLabel } from '$lib/format';
+	import { sortKey } from '$lib/domain/numbering';
+	import type { Scope } from '$lib/scope/scope';
 	import type { Excerpt, SearchResponse, SearchResult } from '$lib/search/types';
 	import EmptyState from './EmptyState.svelte';
 	import HymnRef from './HymnRef.svelte';
@@ -19,12 +22,15 @@
 		hymnals,
 		filterActive = false,
 		onclearfilter,
+		scope,
 		action
 	}: {
 		response: SearchResponse;
 		hymnals: Map<string, PublishedHymnal>;
 		filterActive?: boolean;
 		onclearfilter?: () => void;
+		/** Hymnals and parts in use (feature 014). */
+		scope?: Scope;
 		/** Optional control shown beside each hymn (feature 003: add to a collection). */
 		action?: Snippet<[SearchResult]>;
 	} = $props();
@@ -56,9 +62,26 @@
 	const exact = $derived(response.kind === 'hymnal-number' ? response.results[0] : undefined);
 	const number = $derived(
 		response.notFound?.number ??
+			response.outOfScope?.number ??
 			exact?.primaryRef.number ??
 			response.results[0]?.primaryRef.number ??
 			''
+	);
+	const scopeNarrowed = $derived(scope !== undefined && !scope.isEmpty);
+	/** What is left out for a « HE 12 » query: the hymnal, or the part that holds the number. */
+	const hiddenTitle = $derived.by(() => {
+		const out = response.outOfScope;
+		if (!out) return '';
+		const name = nameOf(out.hymnal);
+		if (scope?.hymnalState(out.hymnal) === 'none') return `${name} est masqué dans les Réglages.`;
+		const n = sortKey(out.number)[0];
+		const part = hymnals.get(out.hymnal)?.parts?.findLast((p) => p.first <= n);
+		return part
+			? `« ${part.name} » (${name}) est masqué dans les Réglages.`
+			: `${name} est masqué dans les Réglages.`;
+	});
+	const hidden = $derived(
+		scopeNarrowed ? ' Certains recueils sont masqués dans les Réglages.' : ''
 	);
 	const countTitle = $derived(
 		`${response.results.length}${response.results.length >= 50 ? '+' : ''} ${response.results.length > 1 ? 'chants' : 'chant'}`
@@ -83,11 +106,25 @@
 	</li>
 {/snippet}
 
+{#snippet sameNumberList()}
+	{#if response.sameNumber?.length}
+		<h2 class="hb-overline">Autres chants n°&nbsp;{number}</h2>
+		<ul class="hb-list">
+			{#each response.sameNumber as result (result.primaryRef.hymnal)}
+				{@render numberRow(result)}
+			{/each}
+		</ul>
+	{/if}
+{/snippet}
+
 {#snippet clearFilter()}
 	{#if filterActive}
 		<button type="button" class="hb-btn" onclick={onclearfilter}
 			>Chercher dans tous les recueils</button
 		>
+	{/if}
+	{#if scopeNarrowed}
+		<a class="hb-btn" href={resolve('/reglages')}>Réglages</a>
 	{/if}
 {/snippet}
 
@@ -104,14 +141,17 @@
 			</a>
 			{@render action?.(exact)}
 		</div>
-		{#if response.sameNumber?.length}
-			<h2 class="hb-overline">Autres chants n°&nbsp;{number}</h2>
-			<ul class="hb-list">
-				{#each response.sameNumber as result (result.primaryRef.hymnal)}
-					{@render numberRow(result)}
-				{/each}
-			</ul>
-		{/if}
+		{@render sameNumberList()}
+	{:else if response.outOfScope}
+		<EmptyState
+			title={hiddenTitle}
+			text={`Le n° ${response.outOfScope.number} n’est pas proposé. Vous pouvez le remettre dans les Réglages.`}
+		>
+			{#snippet actions()}
+				<a class="hb-btn" href={resolve('/reglages')}>Réglages</a>
+			{/snippet}
+		</EmptyState>
+		{@render sameNumberList()}
 	{:else if response.notFound}
 		{@const hymnal = hymnals.get(response.notFound.hymnal)}
 		<EmptyState
@@ -138,8 +178,8 @@
 	{:else}
 		<EmptyState
 			title={`Aucun chant n° ${response.query.replace(/^\D+/, '').trim()}`}
-			text="Ajoutez l’abréviation du recueil, par exemple « CE 12 »."
-			actions={filterActive ? clearFilter : undefined}
+			text={`Ajoutez l’abréviation du recueil, par exemple « CE 12 ».${hidden}`}
+			actions={filterActive || scopeNarrowed ? clearFilter : undefined}
 		/>
 	{/if}
 {:else if response.kind === 'text' || response.kind === 'meaning'}
@@ -176,8 +216,8 @@
 	{:else if response.kind === 'meaning'}
 		<EmptyState
 			title="Aucun chant trouvé par le sens"
-			text="Essayez d’autres mots, ou cherchez dans tous les recueils."
-			actions={filterActive ? clearFilter : undefined}
+			text={`Essayez d’autres mots, ou cherchez dans tous les recueils.${hidden}`}
+			actions={filterActive || scopeNarrowed ? clearFilter : undefined}
 		/>
 	{:else if response.unknownHymnal}
 		<EmptyState
@@ -191,8 +231,8 @@
 	{:else}
 		<EmptyState
 			title={`Aucun chant ne contient « ${response.query.trim()} »`}
-			text="Vérifiez l’orthographe ou essayez d’autres mots."
-			actions={filterActive ? clearFilter : undefined}
+			text={`Vérifiez l’orthographe ou essayez d’autres mots.${hidden}`}
+			actions={filterActive || scopeNarrowed ? clearFilter : undefined}
 		/>
 	{/if}
 {/if}

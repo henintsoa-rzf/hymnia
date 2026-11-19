@@ -27,7 +27,8 @@ describe('reading preferences (FR-015, FR-017)', () => {
 		expect(sanitizePrefs({ theme: 'blue', textScale: 'big', hymnalFilter: [1, 'ce'] })).toEqual({
 			textScale: 1,
 			theme: 'system',
-			hymnalFilter: ['ce']
+			hymnalFilter: ['ce'],
+			excluded: { hymnals: [], parts: {} }
 		});
 	});
 
@@ -49,5 +50,17 @@ describe('reading preferences (FR-015, FR-017)', () => {
 		const store = createPrefsStore(broken);
 		expect(get(store)).toEqual(DEFAULT_PREFS);
 		expect(() => store.set({ ...DEFAULT_PREFS, textScale: 1.2 })).not.toThrow();
+	});
+
+	it('keeps the hymnals left out in Settings (feature 014)', () => {
+		expect(DEFAULT_PREFS.excluded).toEqual({ hymnals: [], parts: {} });
+		// Prefs saved before feature 014 have no `excluded`.
+		expect(sanitizePrefs({ theme: 'dark' }).excluded).toEqual({ hymnals: [], parts: {} });
+		expect(
+			sanitizePrefs({ excluded: { hymnals: ['he'], parts: { jem: [801] } } }).excluded
+		).toEqual({ hymnals: ['he'], parts: { jem: [801] } });
+		expect(
+			sanitizePrefs({ excluded: { hymnals: [3, 'he'], parts: { jem: ['x'] } } }).excluded
+		).toEqual({ hymnals: ['he'], parts: {} });
 	});
 });

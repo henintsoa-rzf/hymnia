@@ -13,6 +13,10 @@
 		"abbreviations": [
 			"HE"
 		],
-		"sortOrder": 2
+		"sortOrder": 2,
+		"parts": [
+			{ "name": "Louange", "first": 1 },
+			{ "name": "Noël", "first": 10 }
+		]
 	}
 ]

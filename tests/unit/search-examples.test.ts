@@ -5,6 +5,7 @@ import { createCatalog } from '$lib/data/catalog';
 import type { Catalog } from '$lib/domain/schema';
 import { createEngine, type SearchEngine } from '$lib/search/engine';
 import { pickExamples } from '$lib/search/examples';
+import { createScope } from '$lib/scope/scope';
 import { loadSample } from '../helpers/sample';
 
 let data: Catalog;
@@ -66,5 +67,19 @@ describe('pickExamples', () => {
 		for (const { query } of pickExamples(createCatalog(data))) {
 			expect(engine.search({ query }).results.length, query).toBeGreaterThan(0);
 		}
+	});
+
+	it('only takes hymns in use when hymnals are left out (feature 014)', () => {
+		const catalog = createCatalog(data);
+		const excluded = { hymnals: ['ce'], parts: {} };
+		const scope = createScope(excluded, catalog.getHymnals());
+		const examples = pickExamples(catalog, scope);
+		expect(examples[0].query).toMatch(/^HE /);
+		for (const { query } of examples) {
+			expect(engine.search({ query, excluded }).results.length, query).toBeGreaterThan(0);
+		}
+		expect(pickExamples(catalog, createScope(undefined, catalog.getHymnals()))).toEqual(
+			pickExamples(catalog)
+		);
 	});
 });

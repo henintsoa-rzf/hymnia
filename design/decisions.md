@@ -239,6 +239,18 @@ avec « Strophe 1 » en texte masqué, « Refrain » et « Pont » lus comme lib
   gloire ») à la taille choisie. Phrase : « S’applique à tous les chants. Vous pouvez aussi la
   changer pendant la lecture. »
 
+Feature 014 (specs/014-hymnal-scope-settings) : l’écran a deux sous-sections titrées,
+**Affichage** (thème, taille du texte) puis **Recueils**.
+
+- **Recueils** : une case à cocher par recueil, dans l’ordre de l’écran Recueils. Un recueil dont
+  une partie seulement est gardée montre l’état mixte et « 3 parties sur 4 » ; ses parties se
+  déplient sous un bouton (repliées par défaut). Le dernier recueil ou la dernière partie gardée
+  ne peut pas être décoché (« Gardez au moins un recueil. »). « Tout sélectionner » apparaît dès
+  qu’un élément est masqué. Chaque changement s’applique aussitôt.
+- Ce qui est masqué disparaît de la recherche, des filtres, des exemples et de l’écran Recueils.
+  Les collections, l’historique et les liens directs vers un chant ne changent pas. « HE 12 » sur
+  une partie masquée le dit, avec un lien vers les Réglages.
+
 ## 9. Page introuvable
 
 Recueil ou numéro inexistant : la référence demandée en grand (« CE 99 »), titre « Chant

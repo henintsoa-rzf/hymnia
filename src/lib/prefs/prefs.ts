@@ -4,6 +4,7 @@
  * defaults are used instead.
  */
 import { writable, type Writable } from 'svelte/store';
+import { NO_EXCLUSIONS, sanitizeExclusions, type Exclusions } from '../scope/scope';
 
 export type Theme = 'system' | 'light' | 'dark';
 
@@ -14,11 +15,18 @@ export type Prefs = {
 	theme: Theme;
 	/** Selected hymnal ids; empty means all. */
 	hymnalFilter: string[];
+	/** Hymnals and parts left out in Settings (feature 014); empty means all. */
+	excluded: Exclusions;
 };
 
 export const TEXT_SCALE_MIN = 0.85;
 export const TEXT_SCALE_MAX = 2.0;
-export const DEFAULT_PREFS: Prefs = { textScale: 1.0, theme: 'system', hymnalFilter: [] };
+export const DEFAULT_PREFS: Prefs = {
+	textScale: 1.0,
+	theme: 'system',
+	hymnalFilter: [],
+	excluded: NO_EXCLUSIONS
+};
 
 const STORAGE_KEY = 'hymnia.prefs';
 
@@ -38,7 +46,8 @@ export function sanitizePrefs(value: unknown): Prefs {
 		theme: v.theme === 'light' || v.theme === 'dark' || v.theme === 'system' ? v.theme : 'system',
 		hymnalFilter: Array.isArray(v.hymnalFilter)
 			? v.hymnalFilter.filter((x): x is string => typeof x === 'string')
-			: []
+			: [],
+		excluded: sanitizeExclusions(v.excluded)
 	};
 }
 

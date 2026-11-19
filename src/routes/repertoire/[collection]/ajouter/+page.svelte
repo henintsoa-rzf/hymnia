@@ -1,7 +1,8 @@
 <!--
   Add hymns to a collection `/repertoire/<id>/ajouter` (feature 003, US1; contracts/ui.md
   "Add hymns"): the search of the search screen, with an add / added toggle per hymn. The query
-  is never cleared by adding, so several hymns can be added in a row.
+  is never cleared by adding, so several hymns can be added in a row. Feature 014: hymnals and
+  parts left out in Settings are not searched nor offered as filters.
 -->
 <script lang="ts">
 	import { goto } from '$app/navigation';
@@ -15,8 +16,10 @@
 	import SearchBox from '$lib/components/SearchBox.svelte';
 	import { frenchSpaces } from '$lib/format';
 	import { hasHymn } from '$lib/repertoire/model';
+	import { prefs } from '$lib/prefs/prefs';
 	import { hymnIdOf } from '$lib/repertoire/resolve';
 	import { repertoire } from '$lib/repertoire/store';
+	import { createScope } from '$lib/scope/scope';
 	import { getSearchClient } from '$lib/search/session';
 	import type { SearchResponse, SearchResult } from '$lib/search/types';
 
@@ -24,13 +27,17 @@
 
 	const collection = $derived($repertoire.collections.find((c) => c.id === data.id));
 	const hymnals = $derived(data.catalog.getHymnals());
-	/** Filter chips in alphabetical order of name, like the Recueils screen (feature 009). */
-	const filterHymnals = $derived(data.catalog.getHymnalsByName());
+	const excluded = $derived($prefs.excluded);
+	const scope = $derived(createScope(excluded, hymnals));
+	/** Filter chips in alphabetical order of name (feature 009), hymnals in use only (feature 014). */
+	const filterHymnals = $derived(
+		data.catalog.getHymnalsByName().filter((h) => scope.hymnalState(h.id) !== 'none')
+	);
 	const hymnalMap = $derived(new Map(hymnals.map((h) => [h.id, h])));
 	const idOf = $derived(hymnIdOf(data.catalog));
 	const collectionUrl = $derived(resolve('/repertoire/[collection]', { collection: data.id }));
 
-	const known = untrack(() => new Set(data.catalog.getHymnals().map((h) => h.id)));
+	const known = untrack(() => new Set(filterHymnals.map((h) => h.id)));
 	const params = page.url.searchParams;
 	let query = $state(params.get('q') ?? '');
 	let selected = $state<string[]>(
@@ -48,6 +55,7 @@
 	$effect(() => {
 		const q = query;
 		const filter = [...selected];
+		const without = excluded;
 		const url = new URL(window.location.href);
 		if (q) url.searchParams.set('q', q);
 		else url.searchParams.delete('q');
@@ -62,7 +70,7 @@
 			response = null;
 			return;
 		}
-		client.search({ query: q, hymnals: filter }).then((r) => {
+		client.search({ query: q, hymnals: filter, excluded: without }).then((r) => {
 			if (r && id === latest) response = r;
 		});
 	});
@@ -103,7 +111,7 @@
 
 		<div class="add__controls">
 			<SearchBox bind:value={query} bind:input />
-			{#if hymnals.length > 1}
+			{#if filterHymnals.length > 1}
 				<HymnalFilter hymnals={filterHymnals} bind:selected />
 			{/if}
 		</div>
@@ -121,6 +129,7 @@
 				hymnals={hymnalMap}
 				filterActive={selected.length > 0}
 				onclearfilter={() => (selected = [])}
+				{scope}
 				{isAdded}
 				{ontoggle}
 			/>

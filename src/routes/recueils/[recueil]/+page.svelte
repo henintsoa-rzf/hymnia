@@ -2,6 +2,8 @@
   Hymnal `/recueils/<id>` (T049, FR-012, decisions §6): hymns in number order and a
   "go to number" field that scrolls to that hymn and highlights it. A hymnal with parts (JEM
   volumes, albums, programmes) shows one headed group per part, with links to jump to each.
+  Feature 014: parts left out in Settings are not shown; a hymnal left out entirely still opens
+  (it was asked for), with a notice and a link to Settings.
 -->
 <script lang="ts">
 	import { resolve } from '$app/paths';
@@ -10,6 +12,8 @@
 	import { normalizeNumber } from '$lib/domain/numbering';
 	import { groupByPart } from '$lib/domain/parts';
 	import { frenchSpaces, hymnCountLabel, hymnUrl } from '$lib/format';
+	import { prefs } from '$lib/prefs/prefs';
+	import { createScope } from '$lib/scope/scope';
 	import { tick } from 'svelte';
 
 	let { data } = $props();
@@ -20,10 +24,24 @@
 
 	const domId = (number: string) => `n-${normalizeNumber(number)}`;
 
+	const scope = $derived(createScope($prefs.excluded, data.catalog.getHymnals()));
+	const inUse = $derived(data.hymnal ? scope.hymnalState(data.hymnal.id) : 'all');
+	/** Parts left out in Settings, while the hymnal is partly in use (feature 014). */
+	const hiddenParts = $derived(
+		inUse === 'some'
+			? (data.hymnal?.parts ?? []).filter((p) => !scope.includesPart(data.hymnal!.id, p.first))
+			: []
+	);
 	const groups = $derived(
-		groupByPart(data.entries, data.hymnal?.parts, ({ entry }) => entry.sortKey)
+		groupByPart(data.entries, data.hymnal?.parts, ({ entry }) => entry.sortKey).filter(
+			(g) => !g.part || !hiddenParts.includes(g.part)
+		)
 	);
 	const hasParts = $derived(groups.some((g) => g.part));
+	const hiddenLabel = $derived(
+		`${hiddenParts.length}\u00a0${hiddenParts.length > 1 ? 'parties masquées' : 'partie masquée'}`
+	);
+	const shownEntries = $derived(hiddenParts.length ? groups.flatMap((g) => g.items) : data.entries);
 
 	async function go(event: SubmitEvent) {
 		event.preventDefault();
@@ -34,6 +52,14 @@
 		if (!found) {
 			target = undefined;
 			goMessage = `Pas de n°\u00a0${typed} dans ce recueil.`;
+			return;
+		}
+		const part = hiddenParts.findLast((p) => p.first <= found.entry.sortKey[0]);
+		if (part && !scope.includesEntry(found.entry)) {
+			target = undefined;
+			goMessage = frenchSpaces(
+				`Le n° ${found.entry.number} est dans « ${part.name} », masqué dans les Réglages.`
+			);
 			return;
 		}
 		goMessage = '';
@@ -64,7 +90,11 @@
 			<div>
 				<h1 class="hy-screen-title">{hymnal.name}</h1>
 				<p class="hy-caption hymnal__count">
-					{hymnal.abbreviations[0]} · {hymnCountLabel(hymnal.hymnCount)}
+					{hymnal.abbreviations[0]} · {hymnCountLabel(shownEntries.length)}
+					{#if hiddenParts.length}
+						· {hiddenLabel} ·
+						<a href={resolve('/reglages')}>Réglages</a>
+					{/if}
 				</p>
 			</div>
 			<form class="hymnal__go" onsubmit={go}>
@@ -84,6 +114,16 @@
 			</form>
 			{#if goMessage}<p class="hymnal__go-message" role="status">{goMessage}</p>{/if}
 		</div>
+
+		{#if inUse === 'none'}
+			<div class="hymnal__hidden" role="note">
+				<p>Ce recueil est masqué dans les Réglages.</p>
+				<p class="hy-caption">
+					Ses chants ne sont pas proposés dans la recherche.
+					<a href={resolve('/reglages')}>Modifier dans les Réglages</a>
+				</p>
+			</div>
+		{/if}
 
 		{#snippet entryList(entries: typeof data.entries, label: string)}
 			<ol class="hb-list hymnal__list" aria-label={label}>
@@ -126,7 +166,7 @@
 				</section>
 			{/each}
 		{:else}
-			{@render entryList(data.entries, 'Chants du recueil, par numéro')}
+			{@render entryList(shownEntries, 'Chants du recueil, par numéro')}
 		{/if}
 	</div>
 {:else}
@@ -179,6 +219,28 @@
 
 	.hymnal__list {
 		border-top: 1px solid var(--line);
+	}
+
+	.hymnal__hidden {
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+		margin: 0 0 16px;
+		padding: 12px 16px;
+		border: 1px solid var(--line);
+		border-radius: var(--radius-md);
+		background: var(--paper-raised);
+	}
+
+	.hymnal__hidden p {
+		margin: 0;
+	}
+
+	/* Links to Settings (feature 014): the app's accent, not the browser blue. */
+	.hymnal__count a,
+	.hymnal__hidden a {
+		color: var(--rubric);
+		text-underline-offset: 2px;
 	}
 
 	.hymnal__parts {

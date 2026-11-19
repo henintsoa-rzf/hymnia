@@ -11,6 +11,8 @@
   off with a switch. Only the launch button (or Enter) runs it, never the switch or typing; its
   results stay while the text is edited, until the next launch
   (specs/012-meaning-search-mode/contracts/search-mode.md).
+  Feature 014: hymnals and parts left out in Settings are not searched, not offered as filters
+  nor as examples (specs/014-hymnal-scope-settings/contracts/scope.md §3).
 -->
 <script lang="ts">
 	import { goto } from '$app/navigation';
@@ -34,6 +36,7 @@
 	import { hymnHistory } from '$lib/history/store';
 	import { prefs } from '$lib/prefs/prefs';
 	import { byUpdatedDesc } from '$lib/repertoire/model';
+	import { createScope } from '$lib/scope/scope';
 	import { repertoire } from '$lib/repertoire/store';
 	import { pickExamples } from '$lib/search/examples';
 	import { compactKey } from '$lib/search/normalize';
@@ -44,14 +47,24 @@
 	let { data } = $props();
 
 	const hymnals = $derived(data.catalog.getHymnals());
-	/** Filter chips in alphabetical order of name, like the Recueils screen (feature 009). */
-	const filterHymnals = $derived(data.catalog.getHymnalsByName());
+	/** Hymnals and parts left out in Settings (feature 014). */
+	const excluded = $derived($prefs.excluded);
+	const scope = $derived(createScope(excluded, hymnals));
+	/**
+	 * Filter chips in alphabetical order of name, like the Recueils screen (feature 009), for
+	 * hymnals in use only (feature 014).
+	 */
+	const filterHymnals = $derived(
+		data.catalog.getHymnalsByName().filter((h) => scope.hymnalState(h.id) !== 'none')
+	);
 	const hymnalMap = $derived(new Map(hymnals.map((h) => [h.id, h])));
 
-	// Initial state: the URL first (shared link, back button), then the saved filter.
-	const known = untrack(() => new Set(data.catalog.getHymnals().map((h) => h.id)));
+	// Initial state: the URL first (shared link, back button), then the saved filter. Hymnals left
+	// out in Settings are dropped (FR-014).
+	const known = untrack(() => new Set(filterHymnals.map((h) => h.id)));
 	const params = page.url.searchParams;
-	let query = $state(params.get('q') ?? '');
+	const linkQuery = params.get('q') ?? '';
+	let query = $state(linkQuery);
 	let selected = $state<string[]>(
 		(params.has('recueils')
 			? (params.get('recueils') ?? '').split(',')
@@ -69,8 +82,11 @@
 	client.ready.then(
 		() => {
 			ready = true;
-			// A shared or reloaded link with ?sens=1 shows the search by meaning again.
-			if (mode === 'meaning' && offersMeaning(query)) void runMeaning();
+			// A shared or reloaded link with ?sens=1 shows the search by meaning again. Only the text
+			// of the link: what the user typed while the worker was loading waits for the launch
+			// button, and one already launched is not run twice.
+			if (mode === 'meaning' && query === linkQuery && offersMeaning(query) && !meaningController)
+				void runMeaning();
 		},
 		() => (unavailable = true)
 	);
@@ -157,7 +173,7 @@
 		}
 
 		const answer = await client.searchMeaning(
-			{ query: q, hymnals: filter },
+			{ query: q, hymnals: filter, excluded: untrack(() => excluded) },
 			embedded.vector,
 			meta.configId
 		);
@@ -194,6 +210,7 @@
 		const q = query;
 		const filter = [...selected];
 		const sens = mode === 'meaning';
+		const without = excluded;
 
 		const url = new URL(window.location.href);
 		if (q) url.searchParams.set('q', q);
@@ -214,7 +231,7 @@
 			response = null;
 			return;
 		}
-		client.search({ query: q, hymnals: filter }).then((r) => {
+		client.search({ query: q, hymnals: filter, excluded: without }).then((r) => {
 			if (r && id === latest) response = r;
 		});
 	});
@@ -227,7 +244,7 @@
 	const idle = $derived(!query.trim());
 	const recent = $derived(recentHymns(data.catalog, $hymnHistory));
 	const collections = $derived(byUpdatedDesc($repertoire.collections).slice(0, 3));
-	const examples = $derived(pickExamples(data.catalog));
+	const examples = $derived(pickExamples(data.catalog, scope));
 	/** Only for a first visit: nothing of the user's own to show yet. */
 	const showExamples = $derived(recent.length === 0 && $repertoire.collections.length === 0);
 	/** « CE 1 » in the help sentence, from the loaded hymnals; no example when there is none. */
@@ -307,7 +324,7 @@
 				onsubmit={submit}
 				onmodechange={changeMode}
 			/>
-			{#if hymnals.length > 1}
+			{#if filterHymnals.length > 1}
 				<HymnalFilter hymnals={filterHymnals} bind:selected />
 			{/if}
 		</div>
@@ -345,6 +362,7 @@
 					hymnals={hymnalMap}
 					filterActive={selected.length > 0}
 					onclearfilter={() => (selected = [])}
+					{scope}
 				/>
 			{/if}
 		</div>

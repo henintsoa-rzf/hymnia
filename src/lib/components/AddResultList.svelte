@@ -5,6 +5,7 @@
 <script lang="ts">
 	import type { PublishedHymnal } from '$lib/domain/schema';
 	import { frenchSpaces } from '$lib/format';
+	import type { Scope } from '$lib/scope/scope';
 	import type { SearchResponse, SearchResult } from '$lib/search/types';
 	import Icon from './Icon.svelte';
 	import ResultList from './ResultList.svelte';
@@ -14,6 +15,7 @@
 		hymnals,
 		filterActive = false,
 		onclearfilter,
+		scope,
 		isAdded,
 		ontoggle
 	}: {
@@ -21,6 +23,8 @@
 		hymnals: Map<string, PublishedHymnal>;
 		filterActive?: boolean;
 		onclearfilter?: () => void;
+		/** Hymnals and parts in use (feature 014). */
+		scope?: Scope;
 		isAdded: (result: SearchResult) => boolean;
 		ontoggle: (result: SearchResult) => void;
 	} = $props();
@@ -40,7 +44,7 @@
 	</button>
 {/snippet}
 
-<ResultList {response} {hymnals} {filterActive} {onclearfilter} action={toggle} />
+<ResultList {response} {hymnals} {filterActive} {onclearfilter} {scope} action={toggle} />
 
 <style>
 	.add-toggle {

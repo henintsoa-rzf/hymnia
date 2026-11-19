@@ -6,6 +6,7 @@ import MiniSearch from 'minisearch';
 import { createCatalog, type CatalogApi } from '../data/catalog';
 import { normalizeNumber } from '../domain/numbering';
 import type { Catalog, PublishedEntry, PublishedHymn } from '../domain/schema';
+import { createScope, type Exclusions, type Scope } from '../scope/scope';
 import { buildExcerpt } from './excerpt';
 import { FIELD_BOOST, INDEX_OPTIONS, type IndexDocument } from './index-config';
 import { allowsPrefix, allowsTypo, allTokensMatch, phraseMatches } from './match';
@@ -22,13 +23,20 @@ export type SearchEngine = {
 	search(request: SearchRequest): SearchResponse;
 	/**
 	 * A hymn as a result (title, references, entry to open), with the hymnal filter applied:
-	 * used for hymns found by meaning only (feature 011). Ranking is not involved.
+	 * used for hymns found by meaning only (feature 011). Ranking is not involved. `undefined`
+	 * when no entry of the hymn is allowed (filter, or left out in Settings: feature 014).
 	 */
-	resultFor(hymnId: string, hymnals?: string[]): SearchResult | undefined;
+	resultFor(hymnId: string, hymnals?: string[], excluded?: Exclusions): SearchResult | undefined;
 };
 
 /** One title of a hymn and the entries that print it (HymnalEntry.title). */
 type PreparedTitle = { title: string; words: string[]; entries: PublishedEntry[] };
+
+/**
+ * Which entries a request may show: the per-search hymnal filter (`hymnals`, null = all) and the
+ * hymnals and parts in use (feature 014).
+ */
+type Allowed = { hymnals: Set<string> | null; scope: Scope };
 
 type Prepared = {
 	hymn: PublishedHymn;
@@ -70,6 +78,16 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 	}
 	const resolveHymnal = (label: string) => hymnalKeys.get(compactKey(label));
 
+	/** Filter ids reduced to hymnals in use; none left means no filter (FR-014). */
+	function allowedFor(hymnalIds: string[] | undefined, excluded: Exclusions | undefined) {
+		const scope = createScope(excluded, catalog.getHymnals());
+		const selected = (hymnalIds ?? []).filter(
+			(id) => order.has(id) && scope.hymnalState(id) !== 'none'
+		);
+		const allowed: Allowed = { hymnals: selected.length > 0 ? new Set(selected) : null, scope };
+		return { selected, allowed };
+	}
+
 	const prepared = new Map<string, Prepared>(
 		catalogData.hymns.map((hymn) => [
 			hymn.id,
@@ -88,8 +106,11 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 	const byHymnalOrder = (a: PublishedEntry, b: PublishedEntry) =>
 		(order.get(a.hymnal) ?? 0) - (order.get(b.hymnal) ?? 0);
 
-	function allowedEntries(hymn: PublishedHymn, allowed: Set<string> | null) {
-		return hymn.entries.filter((e) => !allowed || allowed.has(e.hymnal)).sort(byHymnalOrder);
+	const entryAllowed = (e: PublishedEntry, { hymnals, scope }: Allowed) =>
+		(!hymnals || hymnals.has(e.hymnal)) && scope.includesEntry(e);
+
+	function allowedEntries(hymn: PublishedHymn, allowed: Allowed) {
+		return hymn.entries.filter((e) => entryAllowed(e, allowed)).sort(byHymnalOrder);
 	}
 
 	const toRef = (e: PublishedEntry): ResultRef => ({
@@ -134,13 +155,12 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 
 	/* ---------- number searches ---------- */
 
-	function searchNumber(number: string, allowed: Set<string> | null): SearchResult[] {
+	function searchNumber(number: string, allowed: Allowed): SearchResult[] {
 		const key = normalizeNumber(number);
 		const results: SearchResult[] = [];
 		for (const hymnal of hymnals) {
-			if (allowed && !allowed.has(hymnal.id)) continue;
 			const found = catalog.getEntry(hymnal.id, key);
-			if (!found) continue;
+			if (!found || !entryAllowed(found.entry, allowed)) continue;
 			results.push(result(found.hymn, allowedEntries(found.hymn, allowed), found.entry, 1));
 		}
 		return results;
@@ -182,11 +202,12 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 		entries?: PublishedEntry[];
 	};
 
-	const isAllowed = (p: Prepared, allowed: Set<string> | null) =>
-		!allowed || p.hymn.entries.some((e) => allowed.has(e.hymnal));
+	const isAllowed = (p: Prepared, allowed: Allowed) =>
+		(!allowed.hymnals && allowed.scope.isEmpty) ||
+		p.hymn.entries.some((e) => entryAllowed(e, allowed));
 
 	/** Ranking only: cheap, done for every hit. Results and excerpts are built for the top ones. */
-	function rankText(text: string, allowed: Set<string> | null): Ranked[] {
+	function rankText(text: string, allowed: Allowed): Ranked[] {
 		const tokens = tokenize(text);
 		const normalizedQuery = tokens.join(' ');
 		const hits = index.search(text, {
@@ -194,7 +215,10 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 			combineWith: 'OR',
 			prefix: (term, i, terms) => allowsPrefix(term, i === terms.length - 1),
 			fuzzy: (term) => (allowsTypo(term) ? 1 : false),
-			filter: allowed ? (hit) => isAllowed(prepared.get(hit.id)!, allowed) : undefined
+			filter:
+				allowed.hymnals || !allowed.scope.isEmpty
+					? (hit) => isAllowed(prepared.get(hit.id)!, allowed)
+					: undefined
 		});
 		let checked = 0;
 		return hits.map((hit, rank) => {
@@ -207,7 +231,7 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 		});
 	}
 
-	function rankShort(text: string, allowed: Set<string> | null): Ranked[] {
+	function rankShort(text: string, allowed: Allowed): Ranked[] {
 		const q = normalizeText(text);
 		const found: { p: Prepared; t: PreparedTitle }[] = [];
 		for (const p of prepared.values()) {
@@ -223,7 +247,7 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 	function toResults(
 		ranked: Ranked[],
 		text: string,
-		allowed: Set<string> | null,
+		allowed: Allowed,
 		selected: string[],
 		limit: number
 	): SearchResult[] {
@@ -245,8 +269,7 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 		const started = now();
 		const { query } = request;
 		const limit = request.limit ?? DEFAULT_LIMIT;
-		const selected = (request.hymnals ?? []).filter((id) => order.has(id));
-		const allowed = selected.length > 0 ? new Set(selected) : null;
+		const { selected, allowed } = allowedFor(request.hymnals, request.excluded);
 		const done = (response: Omit<SearchResponse, 'query' | 'tookMs'>): SearchResponse => ({
 			query,
 			...response,
@@ -263,7 +286,7 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 				return done({ kind: 'number', results: searchNumber(parsed.number, allowed) });
 
 			case 'hymnal-number': {
-				// A hymnal typed explicitly wins over the filter.
+				// A hymnal typed explicitly wins over the filter, not over the Settings (feature 014).
 				const found = catalog.getEntry(parsed.hymnal, parsed.number);
 				if (!found) {
 					return done({
@@ -272,15 +295,23 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 						results: []
 					});
 				}
+				const sameNumber = () =>
+					searchNumber(parsed.number, allowed).filter((r) => r.primaryRef.hymnal !== parsed.hymnal);
+				if (!allowed.scope.includesEntry(found.entry)) {
+					return done({
+						kind: 'hymnal-number',
+						outOfScope: { hymnal: parsed.hymnal, number: found.entry.number },
+						results: [],
+						sameNumber: sameNumber()
+					});
+				}
 				const entries = allowedEntries(found.hymn, allowed);
 				if (!entries.includes(found.entry)) entries.push(found.entry);
 				entries.sort(byHymnalOrder);
 				return done({
 					kind: 'hymnal-number',
 					results: [result(found.hymn, entries, found.entry, 1)],
-					sameNumber: searchNumber(parsed.number, allowed).filter(
-						(r) => r.primaryRef.hymnal !== parsed.hymnal
-					)
+					sameNumber: sameNumber()
 				});
 			}
 
@@ -300,11 +331,14 @@ export function createEngine(catalogData: Catalog, indexJson: string): SearchEng
 		}
 	}
 
-	function resultFor(hymnId: string, hymnalIds: string[] = []): SearchResult | undefined {
+	function resultFor(
+		hymnId: string,
+		hymnalIds: string[] = [],
+		excluded?: Exclusions
+	): SearchResult | undefined {
 		const p = prepared.get(hymnId);
 		if (!p) return undefined;
-		const selected = hymnalIds.filter((id) => order.has(id));
-		const allowed = selected.length > 0 ? new Set(selected) : null;
+		const { selected, allowed } = allowedFor(hymnalIds, excluded);
 		const entries = allowedEntries(p.hymn, allowed);
 		if (entries.length === 0) return undefined;
 		return result(p.hymn, entries, primaryEntry(entries, selected), 6);

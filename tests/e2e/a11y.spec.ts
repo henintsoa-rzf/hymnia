@@ -131,3 +131,31 @@ for (const colorScheme of ['light', 'dark'] as const) {
 		}
 	});
 }
+
+// Feature 014: the « Recueils » settings with parts unfolded and one part left out, and the screens
+// that report what is left out.
+for (const colorScheme of ['light', 'dark'] as const) {
+	test(`hymnals left out: no violations, ${colorScheme}`, async ({ page }) => {
+		await page.emulateMedia({ colorScheme });
+		const check = async (label: string) => {
+			const { violations } = await new AxeBuilder({ page })
+				.withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa'])
+				.analyze();
+			expect(
+				violations.map((v) => `${label}: ${v.id} (${v.nodes.length}) ${v.help}`),
+				label
+			).toEqual([]);
+		};
+		await page.goto('/reglages');
+		await page.getByRole('button', { name: 'Afficher les parties de Hymnes d’exemple' }).click();
+		await page.getByRole('checkbox', { name: 'Noël', exact: true }).uncheck();
+		await page.getByRole('checkbox', { name: 'Cantiques d’exemple', exact: true }).uncheck();
+		await expect(page.getByRole('button', { name: 'Tout sélectionner' })).toBeVisible();
+		await check('/reglages (parts, last item kept)');
+		for (const url of ['/recueils', '/recueils/he', '/recueils/ce', '/?q=HE%2012', '/?q=endormi']) {
+			await page.goto(url);
+			await page.waitForLoadState('networkidle');
+			await check(url);
+		}
+	});
+}

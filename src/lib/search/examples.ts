@@ -6,6 +6,7 @@
  */
 import type { CatalogApi, EntryRef } from '../data/catalog';
 import { titleIn } from '../domain/titles';
+import type { Scope } from '../scope/scope';
 import { normalizeText } from './normalize';
 
 export type SearchExample = {
@@ -41,8 +42,12 @@ function lyricsOf(ref: EntryRef): string | undefined {
 	return undefined;
 }
 
-export function pickExamples(catalog: CatalogApi): SearchExample[] {
-	const refs = catalog.getHymnals().flatMap((h) => catalog.listEntries(h.id));
+/** `scope`: only hymns in use in Settings (feature 014). */
+export function pickExamples(catalog: CatalogApi, scope?: Scope): SearchExample[] {
+	const refs = catalog
+		.getHymnals()
+		.flatMap((h) => catalog.listEntries(h.id))
+		.filter((r) => !scope || scope.includesEntry(r.entry));
 	const used = new Set<string>();
 	const examples: SearchExample[] = [];
 

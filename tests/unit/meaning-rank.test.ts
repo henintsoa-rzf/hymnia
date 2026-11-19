@@ -54,6 +54,18 @@ describe('rankMeaning', () => {
 		expect(hits.map((h) => h.hymnIndex)).toEqual([1, 2]);
 	});
 
+	it('drops hymns the allow predicate rejects, together with the hymnal filter (feature 014)', () => {
+		const allow = (h: number) => h !== 2;
+		expect(
+			rankMeaning(data(), Float32Array.of(0, 1), hymns, { allow }).map((h) => h.hymnIndex)
+		).toEqual([0, 1]);
+		expect(
+			rankMeaning(data(), Float32Array.of(0, 1), hymns, { hymnals: ['he'], allow }).map(
+				(h) => h.hymnIndex
+			)
+		).toEqual([1]);
+	});
+
 	it('cuts to the limit and breaks ties by catalog order', () => {
 		const d = data();
 		const tie = rankMeaning(d, Float32Array.of(0, 0), hymns, { limit: 2 });

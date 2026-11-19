@@ -1,4 +1,5 @@
 /** Search contract types (specs/001-hymnal-browse-search/contracts/search.md). */
+import type { Exclusions } from '../scope/scope';
 
 export type SearchRequest = {
 	/** Raw text typed by the user. */
@@ -7,6 +8,8 @@ export type SearchRequest = {
 	hymnals?: string[];
 	/** Default 50. */
 	limit?: number;
+	/** Feature 014: what the user left out in Settings; absent = nothing. */
+	excluded?: Exclusions;
 };
 
 /** `meaning`: blended list of a search by meaning (specs/011-semantic-search). */
@@ -49,6 +52,11 @@ export type SearchResponse = {
 	query: string;
 	kind: SearchKind;
 	notFound?: { hymnal: string; number: string };
+	/**
+	 * `hymnal-number` only: the entry exists but is left out in Settings (feature 014). `results`
+	 * is empty.
+	 */
+	outOfScope?: { hymnal: string; number: string };
 	/** `hymnal-number` only: hymns with the same number in the other (allowed) hymnals. */
 	sameNumber?: SearchResult[];
 	/** `text` only, with no results: the query looked like "<hymnal> <number>" ("JEM 245"). */

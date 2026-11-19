@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import type { PublishedHymn, Section } from '../../src/lib/domain/schema';
-import { indexedStanzas } from '../../src/lib/meaning/stanzas';
+import { indexedStanzas, stanzaGroups } from '../../src/lib/meaning/stanzas';
 
 const verse = (n: number, lines: string[]): Section => ({ type: 'verse', number: n, lines });
 const chorus = (lines: string[]): Section => ({ type: 'chorus', number: null, lines });
@@ -74,5 +74,46 @@ describe('indexedStanzas', () => {
 		const before = JSON.stringify(h);
 		indexedStanzas(h, 0, 'title+stanza');
 		expect(JSON.stringify(h)).toBe(before);
+	});
+});
+
+// Feature 013: the reading view rebuilds these groups to mark the stanza that matched.
+describe('stanzaGroups', () => {
+	const SHORT = ['Alléluia !'];
+
+	it('gives one group per distinct section', () => {
+		const groups = stanzaGroups([verse(1, LONG_A), verse(2, LONG_B)]);
+		expect(groups).toEqual([
+			{ sections: [0], lines: LONG_A },
+			{ sections: [1], lines: LONG_B }
+		]);
+	});
+
+	it('keeps a repeated chorus once, at its first occurrence', () => {
+		const groups = stanzaGroups([
+			verse(1, LONG_A),
+			chorus(CHORUS),
+			verse(2, LONG_B),
+			chorus(CHORUS)
+		]);
+		expect(groups.map((g) => g.sections)).toEqual([[0], [1], [2]]);
+	});
+
+	it('joins a short section to the previous group', () => {
+		const groups = stanzaGroups([verse(1, LONG_A), chorus(SHORT), verse(2, LONG_B)]);
+		expect(groups[0]).toEqual({ sections: [0, 1], lines: [...LONG_A, ...SHORT] });
+		expect(groups[1].sections).toEqual([2]);
+	});
+
+	it('carries a short first section into the next one', () => {
+		const groups = stanzaGroups([chorus(SHORT), verse(1, LONG_A)]);
+		expect(groups).toEqual([{ sections: [0, 1], lines: [...SHORT, ...LONG_A] }]);
+	});
+
+	it('keeps a trailing carry with no next section', () => {
+		expect(stanzaGroups([chorus(SHORT)])).toEqual([{ sections: [0], lines: SHORT }]);
+		expect(stanzaGroups([chorus(SHORT), chorus(['Amen !'])])).toEqual([
+			{ sections: [0, 1], lines: [...SHORT, 'Amen !'] }
+		]);
 	});
 });

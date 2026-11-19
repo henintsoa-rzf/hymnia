@@ -897,6 +897,26 @@ mark {
 	padding-left: calc(var(--space-6) * 2);
 }
 
+/*
+ * Feature 013: the stanza that ranked the hymn in a search by meaning. The tint is drawn behind
+ * the stanza, past its edges, so the lyrics keep their place, width and spacing. The left bar
+ * is the cue that does not rely on colour. No animation.
+ */
+.hb-stanza--match {
+	isolation: isolate;
+	scroll-margin-top: var(--space-6);
+}
+
+.hb-stanza--match::before {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	inset: calc(-1 * var(--space-2)) calc(-1 * var(--space-3));
+	border-radius: var(--radius-sm);
+	background: var(--meaning-soft);
+	box-shadow: inset 3px 0 0 var(--meaning);
+}
+
 .hb-stanza__label {
 	display: block;
 	margin-bottom: var(--space-1);

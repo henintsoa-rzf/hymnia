@@ -11,9 +11,10 @@ const res = (hymnId: string, tier: Tier, excerpt?: string): SearchResult => ({
 	...(excerpt ? { excerpt: { text: excerpt, highlights: [[0, 1]] as [number, number][] } } : {})
 });
 
-const cand = (hymnId: string): MeaningCandidate => ({
+const cand = (hymnId: string, matchedSection = 2): MeaningCandidate => ({
 	result: res(hymnId, 6),
-	excerpt: { text: `stanza of ${hymnId}`, highlights: [] }
+	excerpt: { text: `stanza of ${hymnId}`, highlights: [] },
+	matchedSection
 });
 
 const fusion = { k: 60, wMeaning: 1, wWords: 1 };
@@ -66,6 +67,55 @@ describe('fuse', () => {
 			limit: 50
 		});
 		expect(b.find((r) => r.hymnId === 'x')!.excerpt!.text).toBe('stanza of x');
+	});
+
+	// Feature 013: the stanza is carried only when the list shows its excerpt.
+	describe('matchedSection', () => {
+		it('is set on a meaning-only result', () => {
+			const [hit] = fuse({ meaning: [cand('m', 4)], words: [], fusion, limit: 50 });
+			expect(hit.matchedSection).toBe(4);
+		});
+
+		it('is set on a result found both ways when the meaning excerpt wins', () => {
+			const out = fuse({
+				meaning: [cand('x', 3)],
+				words: [res('z', 5, 'z'), res('x', 5, 'word')],
+				fusion,
+				limit: 50
+			});
+			const x = out.find((r) => r.hymnId === 'x')!;
+			expect(x.excerpt!.text).toBe('stanza of x');
+			expect(x.matchedSection).toBe(3);
+		});
+
+		it('is absent when the word excerpt wins', () => {
+			const out = fuse({
+				meaning: [cand('z'), cand('x')],
+				words: [res('x', 5, 'word')],
+				fusion,
+				limit: 50
+			});
+			const x = out.find((r) => r.hymnId === 'x')!;
+			expect(x.excerpt!.text).toBe('word');
+			expect(x).not.toHaveProperty('matchedSection');
+		});
+
+		it('is set when words win but have no excerpt, so the stanza is shown', () => {
+			const out = fuse({
+				meaning: [cand('z'), cand('x', 1)],
+				words: [res('x', 3)],
+				fusion,
+				limit: 50
+			});
+			const x = out.find((r) => r.hymnId === 'x')!;
+			expect(x.excerpt!.text).toBe('stanza of x');
+			expect(x.matchedSection).toBe(1);
+		});
+
+		it('is absent on a words-only result', () => {
+			const out = fuse({ meaning: [cand('m')], words: [res('w', 5, 'w')], fusion, limit: 50 });
+			expect(out.find((r) => r.hymnId === 'w')).not.toHaveProperty('matchedSection');
+		});
 	});
 
 	it('cuts to the limit', () => {

@@ -6,9 +6,12 @@
   Feature 003: the bookmark opens the choice of collections; with `?collection=<id>`, the hymn
   is read in that collection's order (previous/next, list, "<name> · 2 / 5").
   Feature 007: a discreet YouTube search link under the credits.
+  Feature 013: with `?passage=<section>` (a search-by-meaning result), the stanza that ranked the
+  hymn is marked, and brought into view when it is not fully visible.
 -->
 <script lang="ts">
-	import { goto } from '$app/navigation';
+	import { tick } from 'svelte';
+	import { afterNavigate, goto } from '$app/navigation';
 	import { page } from '$app/state';
 	import { resolve } from '$app/paths';
 	import CollectionSheet from '$lib/components/CollectionSheet.svelte';
@@ -22,6 +25,7 @@
 	import { titleIn } from '$lib/domain/titles';
 	import { frenchSpaces, hymnalUrl, hymnInCollectionUrl, hymnUrl, refLabel } from '$lib/format';
 	import { hymnHistory } from '$lib/history/store';
+	import { markedSections } from '$lib/meaning/passage';
 	import { collectionsWith } from '$lib/repertoire/model';
 	import { hymnIdOf, resolveEntries } from '$lib/repertoire/resolve';
 	import { repertoire } from '$lib/repertoire/store';
@@ -56,6 +60,26 @@
 		const found = data.found;
 		if (found)
 			hymnHistory.record({ hymnal: found.entry.hymnal, number: found.entry.number }, found.hymn.id);
+	});
+
+	/* ---------- feature 013: the stanza that matched a search by meaning ---------- */
+
+	const marked = $derived(
+		data.found ? markedSections(data.found.hymn.sections, page.url.searchParams.get('passage')) : []
+	);
+
+	// After SvelteKit's own scroll (top of a new page), so ours is not undone. Back/forward keeps
+	// the position the browser restores (research R5).
+	afterNavigate(async ({ type }) => {
+		if (type === 'popstate') return;
+		await tick();
+		const stanza = document.querySelector<HTMLElement>('.hb-stanza--match');
+		if (!stanza) return;
+		const bar = document.querySelector<HTMLElement>('.hy-readbar');
+		const barHeight = bar && bar.offsetParent !== null ? bar.getBoundingClientRect().height : 0;
+		const { top, bottom } = stanza.getBoundingClientRect();
+		if (top < 0 || bottom > window.innerHeight - barHeight)
+			stanza.scrollIntoView({ block: 'start', behavior: 'instant' });
 	});
 
 	/* ---------- reading order: the hymnal, or a collection (?collection=<id>) ---------- */
@@ -231,7 +255,7 @@
 			</div>
 
 			<div class="hymn__swipe" bind:this={swipeArea}>
-				<LyricsView {hymn} {title} reference={refLabel(abbr, entry.number)}>
+				<LyricsView {hymn} {title} {marked} reference={refLabel(abbr, entry.number)}>
 					<HymnCredits {hymn} />
 					<p class="hymn__youtube">
 						<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- external YouTube search (feature 007) -->

@@ -1,7 +1,8 @@
 <!--
   Search results (T034, T045, decisions §4.1): the exact hymn as a card, hymns with a number,
   or text results with all their references and a highlighted excerpt. Calm messages when
-  nothing is found.
+  nothing is found. Feature 013: a result found by meaning links to its hymn with
+  `?passage=<section>`, so the stanza shown as excerpt is marked there.
 -->
 <script lang="ts">
 	import { resolve } from '$app/paths';
@@ -44,6 +45,12 @@
 		}
 		if (at < text.length) out.push({ text: text.slice(at), hit: false });
 		return out;
+	}
+
+	/** Feature 013: a meaning result opens its hymn with the stanza that ranked it marked. */
+	function resultUrl(result: SearchResult) {
+		const url = hymnUrl(result.primaryRef.hymnal, result.primaryRef.number);
+		return result.matchedSection === undefined ? url : `${url}?passage=${result.matchedSection}`;
 	}
 
 	const exact = $derived(response.kind === 'hymnal-number' ? response.results[0] : undefined);
@@ -144,7 +151,8 @@
 		<ul class="hb-list">
 			{#each response.results as result (result.hymnId)}
 				<li class:with-action={action}>
-					<a class="hy-result" href={hymnUrl(result.primaryRef.hymnal, result.primaryRef.number)}>
+					<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- built from the resolved hymnUrl -->
+					<a class="hy-result" href={resultUrl(result)}>
 						<span class="hy-result__head">
 							<span class="hy-result__title">{frenchSpaces(result.title)}</span>
 							<span class="hy-result__refs">

@@ -32,10 +32,16 @@ export type SearchResult = {
 	/** Entry used to open the hymn. */
 	primaryRef: { hymnal: string; number: string };
 	tier: Tier;
-	/** Tiers 4–5 (FR-008), and the best stanza of a meaning hit. */
+	/** Tiers 4–5 (FR-008), and the best stanza of a meaning hit (see `matchedSection`). */
 	excerpt?: Excerpt;
 	/** Search by meaning only: which list found the hymn. */
 	matchedBy?: 'words' | 'meaning' | 'both';
+	/**
+	 * Search by meaning: index in `hymn.sections` of the first section of the stanza group that
+	 * ranked the hymn. Set only when `excerpt` is that group's excerpt; the result link carries it
+	 * as `?passage=` (specs/013-meaning-stanza-highlight).
+	 */
+	matchedSection?: number;
 };
 
 export type SearchResponse = {

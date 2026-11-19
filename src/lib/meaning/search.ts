@@ -29,7 +29,11 @@ export function searchByMeaning(
 		const hymn = hymns[hit.hymnIndex];
 		const result = engine.resultFor(hymn.id, hymnals);
 		if (!result) continue;
-		meaning.push({ result, excerpt: meaningExcerpt(hymn.sections[hit.section].lines) });
+		meaning.push({
+			result,
+			excerpt: meaningExcerpt(hymn.sections[hit.section].lines),
+			matchedSection: hit.section
+		});
 	}
 	const words = engine.search({ query: request.query, hymnals, limit: CANDIDATES });
 	const results = fuse({

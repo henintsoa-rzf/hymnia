@@ -6,7 +6,12 @@ import type { Excerpt, SearchResult } from '../search/types';
 import type { Fusion } from './config';
 
 /** A meaning hit, with its result (title, references) and the best stanza's excerpt. */
-export type MeaningCandidate = { result: SearchResult; excerpt: Excerpt };
+export type MeaningCandidate = {
+	result: SearchResult;
+	excerpt: Excerpt;
+	/** First section of the best stanza group (feature 013). */
+	matchedSection: number;
+};
 
 export const MEANING_EXCERPT_LENGTH = 160;
 
@@ -41,12 +46,28 @@ export function fuse(input: {
 	const build = (hymnId: string): SearchResult => {
 		const m = byMeaning.get(hymnId);
 		const w = byWords.get(hymnId);
-		if (!w) return { ...m!.result, tier: 6, excerpt: m!.excerpt, matchedBy: 'meaning' };
+		if (!w)
+			return {
+				...m!.result,
+				tier: 6,
+				excerpt: m!.excerpt,
+				matchedBy: 'meaning',
+				matchedSection: m!.matchedSection
+			};
 		if (!m) return { ...w, matchedBy: 'words' };
 		const meaningWins =
 			term(fusion.wMeaning, meaningRank.get(hymnId)) > term(fusion.wWords, wordRank.get(hymnId));
-		const excerpt = meaningWins ? (m.excerpt ?? w.excerpt) : (w.excerpt ?? m.excerpt);
-		return { ...w, ...(excerpt ? { excerpt } : {}), matchedBy: 'both' };
+		// The stanza is carried only when the list shows its excerpt (feature 013).
+		const showsStanza = meaningWins || !w.excerpt;
+		return {
+			...w,
+			...(showsStanza
+				? { excerpt: m.excerpt, matchedSection: m.matchedSection }
+				: w.excerpt
+					? { excerpt: w.excerpt }
+					: {}),
+			matchedBy: 'both'
+		};
 	};
 
 	const pinned = words.filter((w) => w.tier === 2).map((w) => w.hymnId);

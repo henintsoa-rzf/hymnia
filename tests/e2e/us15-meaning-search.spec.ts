@@ -67,7 +67,8 @@ test.describe('US1: find a hymn by its meaning', () => {
 		await searchByMeaning(page, 'la nuit de Noël et les anges');
 		const href = await results(page).first().getAttribute('href');
 		await results(page).first().click();
-		await expect(page).toHaveURL(new RegExp(`${href}$`));
+		// Since feature 013 the link carries `?passage=`: compare it as text, not as a pattern.
+		await expect(page).toHaveURL((url) => `${url.pathname}${url.search}` === href);
 		await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
 	});
 

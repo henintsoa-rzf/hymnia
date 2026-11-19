@@ -30,11 +30,15 @@ import { compareSortKeys, normalizeNumber, sortKey } from '../src/lib/domain/num
 import { compactKey } from '../src/lib/search/normalize';
 import { INDEX_OPTIONS, toIndexDocument, type IndexDocument } from '../src/lib/search/index-config';
 import { MEANING_CONFIG, type MeaningConfig } from '../src/lib/meaning/config';
+import { BibleDataSchema, BibleSourceSchema } from '../src/lib/bible/schema';
 import { buildMeaningData, readThemes, type MeaningBuild } from './semantic/build';
 import { createEmbedder, envOptions, type Embedder } from './semantic/embed';
 
 /** Maximum compressed size of catalog + index (plan.md, Constraints). */
 export const MAX_COMPRESSED_BYTES = 5 * 1024 * 1024;
+
+/** Maximum compressed size of the Bible text (feature 015, SC-006). */
+export const MAX_BIBLE_COMPRESSED_BYTES = 2 * 1024 * 1024;
 
 export type RawContent = {
 	hymnals: { file: string; data: Hymnal[] };
@@ -320,13 +324,55 @@ export async function buildData(
 	return { errors, report, catalog, indexJson: buildIndex(catalog) };
 }
 
+/* ------------------------------------------------------------------ bible */
+
+export type BibleBuild = { json: string; verses: number; gzipBytes: number };
+
+/**
+ * The Bible of the build (specs/015-bible-verse-search, research R3): `<dir>/lsg1910.json`
+ * validated against its schema and `source.json`, compacted. `null` when there is no Bible.
+ */
+export async function buildBible(
+	dir: string,
+	options: { maxCompressedBytes?: number } = {}
+): Promise<BibleBuild | { error: string } | null> {
+	const dataFile = join(dir, 'lsg1910.json');
+	if (!existsSync(dataFile)) return null;
+	const data = BibleDataSchema.safeParse(JSON.parse(await readFile(dataFile, 'utf8')));
+	if (!data.success) {
+		const first = data.error.issues.slice(0, 5).map((i) => i.message);
+		return { error: `Bible: ${first.join('; ')}` };
+	}
+	const source = BibleSourceSchema.safeParse(
+		await readJsonIfExists(join(dir, 'source.json'), undefined)
+	);
+	if (!source.success) return { error: 'Bible: content/bible/source.json is missing or invalid' };
+
+	const verses = data.data.books.reduce(
+		(n, b) => n + b.chapters.reduce((m, c) => m + c.length, 0),
+		0
+	);
+	if (Math.abs(verses - source.data.verses) > source.data.verses * 0.01) {
+		return { error: `Bible: ${verses} verses, source.json says ${source.data.verses}` };
+	}
+	const json = JSON.stringify(data.data);
+	const gzipBytes = gzipSync(json).length;
+	const max = options.maxCompressedBytes ?? MAX_BIBLE_COMPRESSED_BYTES;
+	if (gzipBytes > max) {
+		const mb = (n: number) => (n / 1024 / 1024).toFixed(2);
+		return { error: `Bible: ${mb(gzipBytes)} MB compressed, over the ${mb(max)} MB limit` };
+	}
+	return { json, verses, gzipBytes };
+}
+
 /* ------------------------------------------------------------------ write */
 
 export async function writeOutput(
 	outDir: string,
 	catalog: Catalog,
 	indexJson: string,
-	meaning?: MeaningBuild
+	meaning?: MeaningBuild,
+	bible?: BibleBuild
 ) {
 	const catalogJson = JSON.stringify(catalog);
 	const manifest: DataManifest = {
@@ -344,8 +390,17 @@ export async function writeOutput(
 			bytes: meaning.vectors.byteLength + meaning.rowMap.byteLength
 		};
 	}
+	if (bible) {
+		manifest.bible = {
+			translation: 'lsg1910',
+			file: `bible.${hash(bible.json)}.json`,
+			bytes: bible.json.length,
+			verses: bible.verses
+		};
+	}
 	await rm(outDir, { recursive: true, force: true });
 	await mkdir(outDir, { recursive: true });
+	if (bible && manifest.bible) await writeFile(join(outDir, manifest.bible.file), bible.json);
 	await writeFile(join(outDir, manifest.catalog), catalogJson);
 	await writeFile(join(outDir, manifest.index), indexJson);
 	if (meaning && manifest.meaning) {
@@ -407,11 +462,21 @@ async function main() {
 		process.exit(1);
 	}
 
+	// The Bible (feature 015) is the same for every hymn collection: the content's own, or the
+	// repository's (so the e2e build from the sample hymnals has it too).
+	const ownBible = join(contentDir, 'bible');
+	const bible = await buildBible(existsSync(ownBible) ? ownBible : resolve('content/bible'));
+	if (bible && 'error' in bible) {
+		console.error(`✗ ${bible.error}`);
+		process.exit(1);
+	}
+
 	const { manifest, compressed } = await writeOutput(
 		outDir,
 		catalog,
 		indexJson,
-		'skipped' in meaning ? undefined : meaning
+		'skipped' in meaning ? undefined : meaning,
+		bible ?? undefined
 	);
 	const mb = (compressed / 1024 / 1024).toFixed(2);
 	console.log(
@@ -425,6 +490,12 @@ async function main() {
 		);
 	}
 	console.log(`  ${manifest.catalog}, ${manifest.index} — ${mb} MB compressed`);
+	if (bible && manifest.bible) {
+		const bibleMb = (bible.gzipBytes / 1024 / 1024).toFixed(2);
+		console.log(`  ${manifest.bible.file} — ${bible.verses} verses, ${bibleMb} MB compressed`);
+	} else {
+		console.warn('  ⚠ no Bible (content/bible/lsg1910.json): run `npm run bible`');
+	}
 	if ('skipped' in meaning) {
 		console.warn('  ⚠ meaning data skipped (no MAMMOUTH_API_KEY and incomplete cache)');
 	} else {

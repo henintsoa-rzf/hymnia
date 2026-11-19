@@ -95,6 +95,31 @@ Confidentialité : le texte d’une recherche par le sens est envoyé à Mammout
 transmet à OpenAI (`text-embedding-3-large`), sans identité ni cookie ; le serveur ne journalise
 pas les requêtes. Les 50 dernières requêtes restent sur l’appareil pour fonctionner hors ligne.
 
+## Bible
+
+L’onglet « Bible » donne la Bible Louis Segond 1910 (domaine public), lisible hors ligne : livres,
+chapitres, référence tapée (« jn 3:16 », « 1 Co 13 », « ps 23 »), et retour au dernier chapitre
+lu (feature 015, [specs/015-bible-verse-search/](specs/015-bible-verse-search/quickstart.md)).
+Toucher des versets les choisit, même dans plusieurs chapitres ; « Chercher des chants » envoie
+leur texte (précédé de la référence) à `POST /api/embed` et classe les chants par le sens, sur
+l’appareil, comme la recherche par le sens. Aucun vecteur de verset n’est calculé à l’avance.
+« Copier » et « Partager » donnent le texte avec sa référence.
+
+```bash
+npm run bible              # télécharge fraLSG (eBible.org, USFM) dans import/cache/bible/ et écrit content/bible/
+npm run bible -- --offline # même chose depuis l’archive déjà téléchargée
+npm run data               # ajoute static/data/bible.<hash>.json (≤ 2 Mo compressé, vérifié)
+```
+
+L’import est reproductible : la même archive donne les mêmes fichiers. Seuls les livres,
+chapitres, versets et le texte des versets sont gardés ; introductions, titres de section,
+renvois et notes de l’édition sont retirés et listés dans `content/bible/source.json`, avec
+l’adresse, la date et l’empreinte de l’archive. Le texte de la Bible (1,25 Mo compressé) est
+téléchargé avec l’application. Le serveur accepte désormais jusqu’à 2 000 caractères par texte
+(une sélection de versets) ; le champ de recherche coupe toujours à 500. Les vecteurs du jeu de
+référence des versets (`tests/queries/verse-queries.json`) sont faits par
+`scripts/semantic/query-vectors.ts`.
+
 ## Organisation
 
 | Dossier                              | Contenu                                                                                 |

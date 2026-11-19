@@ -28,7 +28,8 @@ describe('reading preferences (FR-015, FR-017)', () => {
 			textScale: 1,
 			theme: 'system',
 			hymnalFilter: ['ce'],
-			excluded: { hymnals: [], parts: {} }
+			excluded: { hymnals: [], parts: {} },
+			bibleAt: null
 		});
 	});
 
@@ -62,5 +63,39 @@ describe('reading preferences (FR-015, FR-017)', () => {
 		expect(
 			sanitizePrefs({ excluded: { hymnals: [3, 'he'], parts: { jem: ['x'] } } }).excluded
 		).toEqual({ hymnals: ['he'], parts: {} });
+	});
+});
+
+describe('Bible reading position (feature 015)', () => {
+	it('defaults to null', () => {
+		expect(DEFAULT_PREFS.bibleAt).toBeNull();
+		expect(sanitizePrefs({}).bibleAt).toBeNull();
+	});
+
+	it('keeps a valid chapter', () => {
+		expect(sanitizePrefs({ bibleAt: { book: 'JHN', chapter: 3 } }).bibleAt).toEqual({
+			book: 'JHN',
+			chapter: 3
+		});
+	});
+
+	it('drops an unknown book or an out-of-range chapter', () => {
+		for (const bibleAt of [
+			{ book: 'XXX', chapter: 1 },
+			{ book: 'JHN', chapter: 0 },
+			{ book: 'JHN', chapter: 22 },
+			{ book: 'JHN', chapter: 2.5 },
+			{ book: 'JHN' },
+			'JHN.3',
+			7
+		]) {
+			expect(sanitizePrefs({ bibleAt }).bibleAt).toBeNull();
+		}
+	});
+
+	it('is saved with the other preferences', () => {
+		const storage = memoryStorage();
+		createPrefsStore(storage).update((p) => ({ ...p, bibleAt: { book: 'ROM', chapter: 8 } }));
+		expect(get(createPrefsStore(storage)).bibleAt).toEqual({ book: 'ROM', chapter: 8 });
 	});
 });

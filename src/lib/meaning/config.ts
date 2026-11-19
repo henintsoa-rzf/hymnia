@@ -49,8 +49,14 @@ export function configId(
 	return `${model}/${c.representation}/${c.dims}/${c.quant}/v${c.rev}`;
 }
 
-/** Longest query sent for embedding, in Unicode code points (contracts/embed-api.md). */
+/** Longest query the search field sends, in Unicode code points (contracts/embed-api.md). */
 export const MAX_QUERY_CHARS = 500;
+
+/**
+ * Longest text the Worker embeds, in code points after tidying: a selection of Bible verses
+ * (feature 015, contracts/embed-api.md, research R6). The search field still cuts at 500.
+ */
+export const MAX_EMBED_CHARS = 2000;
 
 /** The query text as embedded: NFC, trimmed, spaces collapsed (Worker and reference vectors). */
 export const tidyQuery = (text: string) => text.normalize('NFC').trim().replace(/\s+/gu, ' ');

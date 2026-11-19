@@ -1,0 +1,140 @@
+[
+	{
+		"id": "ps23",
+		"refs": ["PSA.23.1", "PSA.23.2", "PSA.23.3", "PSA.23.4"],
+		"expect": [
+			"l-eternel-est-mon-berger",
+			"le-seigneur-est-mon-berger",
+			"le-tout-puissant-est-mon-berger"
+		]
+	},
+	{ "id": "ps121", "refs": ["PSA.121.1", "PSA.121.2"], "expect": ["je-leve-les-yeux-jem-675"] },
+	{
+		"id": "lam3",
+		"refs": ["LAM.3.22", "LAM.3.23"],
+		"expect": ["les-bontes-de-l-eternel", "grande-est-ta-fidelite"]
+	},
+	{
+		"id": "jn3",
+		"refs": ["JHN.3.16"],
+		"expect": [
+			"car-dieu-a-tant-aime-le-monde",
+			"dieu-a-tant-aime-le-monde",
+			"car-dieu-a-tant-aime-le-monde-for-god-so-loved-the-world"
+		]
+	},
+	{
+		"id": "ph2",
+		"refs": ["PHP.2.9", "PHP.2.10", "PHP.2.11"],
+		"expect": ["jesus-christ-est-seigneur", "que-tout-genou-flechisse"]
+	},
+	{
+		"id": "es6",
+		"refs": ["ISA.6.3"],
+		"expect": [
+			"saint-saint-saint-est-l-eternel",
+			"saint-saint-saint",
+			"saint-saint-saint-jem-707",
+			"saint-saint-saint-arc-863",
+			"saint-saint-saint-est-le-seigneur"
+		]
+	},
+	{
+		"id": "ap4",
+		"refs": ["REV.4.8", "REV.4.11"],
+		"expect": [
+			"saint-saint-saint",
+			"saint-saint-saint-jem-707",
+			"saint-saint-saint-arc-863",
+			"saint-saint-saint-est-le-seigneur",
+			"saint-saint-saint-est-l-eternel",
+			"tu-es-digne"
+		]
+	},
+	{
+		"id": "ps103",
+		"refs": ["PSA.103.1", "PSA.103.2"],
+		"expect": ["benis-l-eternel", "benis-dieu-o-mon-ame", "benis-mon-ame"]
+	},
+	{
+		"id": "ps46",
+		"refs": ["PSA.46.2", "PSA.46.3", "PSA.46.4"],
+		"expect": [
+			"dieu-est-pour-nous-un-refuge",
+			"c-est-un-rempart-que-notre-dieu",
+			"c-est-un-rempart-que-notre-dieu-adf-654"
+		]
+	},
+	{ "id": "ps91", "refs": ["PSA.91.1", "PSA.91.2"], "expect": ["je-demeure"] },
+	{
+		"id": "lc2",
+		"refs": ["LUK.2.10", "LUK.2.11", "LUK.2.12", "LUK.2.13", "LUK.2.14"],
+		"expect": [
+			"gloire-a-dieu-au-plus-haut-des-cieux",
+			"ecoutez-le-chant-des-anges",
+			"quand-le-sauveur-naquit",
+			"il-nait-et-dans-les-cieux",
+			"les-anges-dans-nos-campagnes"
+		]
+	},
+	{ "id": "ps42", "refs": ["PSA.42.2", "PSA.42.3"], "expect": ["comme-une-biche"] },
+	{ "id": "ap5", "refs": ["REV.5.12"], "expect": ["a-l-agneau", "tu-es-digne"] },
+	{ "id": "ps27", "refs": ["PSA.27.1"], "expect": ["le-seigneur-est-ma-lumiere"] },
+	{
+		"id": "ps150",
+		"refs": ["PSA.150.1", "PSA.150.2", "PSA.150.3", "PSA.150.4", "PSA.150.5", "PSA.150.6"],
+		"expect": ["louez-dieu-dans-son-sanctuaire"]
+	},
+	{
+		"id": "ps34",
+		"refs": ["PSA.34.18", "PSA.34.19", "PSA.34.20"],
+		"expect": ["quand-les-justes-crient"]
+	},
+	{ "id": "es40", "refs": ["ISA.40.31"], "expect": ["notre-force-sera-renouvelee"] },
+	{
+		"id": "ps100",
+		"refs": ["PSA.100.1", "PSA.100.2", "PSA.100.3"],
+		"expect": ["poussez-vers-l-eternel-des-cris-de-joie"]
+	},
+	{ "id": "ps118", "refs": ["PSA.118.24"], "expect": ["j-entrerai-dans-ses-portes"] },
+	{
+		"id": "ps1003-118",
+		"refs": ["PSA.100.4", "PSA.118.24"],
+		"expect": ["j-entrerai-dans-ses-portes"]
+	},
+	{
+		"id": "es6-ap4",
+		"refs": ["ISA.6.3", "REV.4.8"],
+		"expect": [
+			"saint-saint-saint-est-l-eternel",
+			"saint-saint-saint",
+			"saint-saint-saint-jem-707",
+			"saint-saint-saint-arc-863",
+			"saint-saint-saint-est-le-seigneur"
+		]
+	},
+	{
+		"id": "ps23-jn10",
+		"refs": ["PSA.23.1", "JHN.10.11"],
+		"expect": [
+			"l-eternel-est-mon-berger",
+			"le-seigneur-est-mon-berger",
+			"le-tout-puissant-est-mon-berger",
+			"jesus-le-berger-des-enfants"
+		]
+	},
+	{
+		"id": "jn3-1jn4",
+		"refs": ["JHN.3.16", "1JN.4.9"],
+		"expect": [
+			"car-dieu-a-tant-aime-le-monde",
+			"dieu-a-tant-aime-le-monde",
+			"car-dieu-a-tant-aime-le-monde-for-god-so-loved-the-world"
+		]
+	},
+	{
+		"id": "lam3-ps36",
+		"refs": ["LAM.3.22", "LAM.3.23", "PSA.36.6"],
+		"expect": ["les-bontes-de-l-eternel", "grande-est-ta-fidelite", "tu-es-fidele"]
+	}
+]

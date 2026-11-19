@@ -33,6 +33,10 @@ test('after one visit, the app works without a network', async ({ page, context 
 	// US5: filter.
 	await page.goto('/?q=12&recueils=he');
 	await expect(results(page)).toHaveCount(1);
+
+	// Feature 015: a Bible chapter never opened before (SC-001).
+	await page.goto('/bible/psaumes/23');
+	await expect(page.locator('main .verse')).toHaveCount(6);
 });
 
 test('collections can be made and changed offline, and are kept (SC-004)', async ({

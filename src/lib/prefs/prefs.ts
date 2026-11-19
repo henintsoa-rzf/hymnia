@@ -4,6 +4,7 @@
  * defaults are used instead.
  */
 import { writable, type Writable } from 'svelte/store';
+import { bookByCode, type BookCode } from '../bible/books';
 import { NO_EXCLUSIONS, sanitizeExclusions, type Exclusions } from '../scope/scope';
 
 export type Theme = 'system' | 'light' | 'dark';
@@ -17,6 +18,8 @@ export type Prefs = {
 	hymnalFilter: string[];
 	/** Hymnals and parts left out in Settings (feature 014); empty means all. */
 	excluded: Exclusions;
+	/** Last Bible chapter read (feature 015); null before the first one. */
+	bibleAt: { book: BookCode; chapter: number } | null;
 };
 
 export const TEXT_SCALE_MIN = 0.85;
@@ -25,7 +28,8 @@ export const DEFAULT_PREFS: Prefs = {
 	textScale: 1.0,
 	theme: 'system',
 	hymnalFilter: [],
-	excluded: NO_EXCLUSIONS
+	excluded: NO_EXCLUSIONS,
+	bibleAt: null
 };
 
 const STORAGE_KEY = 'hymnia.prefs';
@@ -47,8 +51,19 @@ export function sanitizePrefs(value: unknown): Prefs {
 		hymnalFilter: Array.isArray(v.hymnalFilter)
 			? v.hymnalFilter.filter((x): x is string => typeof x === 'string')
 			: [],
-		excluded: sanitizeExclusions(v.excluded)
+		excluded: sanitizeExclusions(v.excluded),
+		bibleAt: sanitizeBibleAt(v.bibleAt)
 	};
+}
+
+/** A known book and an existing chapter, or null. */
+function sanitizeBibleAt(value: unknown): Prefs['bibleAt'] {
+	if (!value || typeof value !== 'object') return null;
+	const { book, chapter } = value as { book?: unknown; chapter?: unknown };
+	const known = typeof book === 'string' ? bookByCode(book) : undefined;
+	if (!known || !Number.isInteger(chapter)) return null;
+	const n = chapter as number;
+	return n >= 1 && n <= known.chapters ? { book: known.code, chapter: n } : null;
 }
 
 function read(storage: Storage | undefined): Prefs {

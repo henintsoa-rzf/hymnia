@@ -1,0 +1,27 @@
+{
+	"date": "2026-11-19",
+	"selections": 24,
+	"configId": "te3-large/title+theme+stanza/1024/i8/v1",
+	"chosen": "labelled",
+	"candidates": {
+		"plain": {
+			"top1": 70.8,
+			"top10": 91.7,
+			"top50": 100,
+			"mrr": 0.807,
+			"misses": [
+				"ph2 → 19",
+				"ps118 → 17"
+			]
+		},
+		"labelled": {
+			"top1": 66.7,
+			"top10": 95.8,
+			"top50": 100,
+			"mrr": 0.763,
+			"misses": [
+				"ps118 → 12"
+			]
+		}
+	}
+}

@@ -20,6 +20,15 @@ const cand = (hymnId: string, matchedSection = 2): MeaningCandidate => ({
 const fusion = { k: 60, wMeaning: 1, wWords: 1 };
 
 describe('fuse', () => {
+	it('keeps the meaning order when there is no word result (verse search, feature 015)', () => {
+		const meaning = ['c', 'a', 'b'].map((id) => cand(id));
+		for (const f of [fusion, { k: 60, wMeaning: 1, wWords: 0 }]) {
+			const out = fuse({ meaning, words: [], fusion: f, limit: 50 });
+			expect(out.map((r) => r.hymnId)).toEqual(['c', 'a', 'b']);
+			expect(out.every((r) => r.matchedBy === 'meaning')).toBe(true);
+		}
+	});
+
 	it('puts exact titles first, in word order', () => {
 		const words = [res('t1', 2), res('w', 5, 'w line'), res('t2', 2)];
 		const out = fuse({ meaning: [cand('m'), cand('t2')], words, fusion, limit: 50 });

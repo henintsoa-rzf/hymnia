@@ -3,6 +3,7 @@
 	export type IconName =
 		| 'search'
 		| 'book'
+		| 'bible'
 		| 'bookmark'
 		| 'settings'
 		| 'back'
@@ -33,6 +34,10 @@
 	{:else if name === 'book'}
 		<path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v15H7.5A2.5 2.5 0 0 0 5 20.5z" />
 		<path d="M5 20.5A2.5 2.5 0 0 0 7.5 23H19v-5M9 7h6" />
+	{:else if name === 'bible'}
+		<!-- An open book with a ribbon: the Bible (feature 015). -->
+		<path d="M12 6.5C10 5 7 4.5 3 5v13.5c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-1 0-2 0-3 .2" />
+		<path d="M12 6.5V20M15 4v6l1.5-1.2L18 10V3.6" />
 	{:else if name === 'bookmark'}
 		<path d="M6 4h12v16l-6-4-6 4z" />
 	{:else if name === 'settings'}

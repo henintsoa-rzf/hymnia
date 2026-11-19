@@ -57,6 +57,15 @@ describe('embedQuery, online', () => {
 		const [, init] = fetchFn.mock.calls[0] as unknown as [string, RequestInit];
 		expect([...JSON.parse(String(init.body)).text]).toHaveLength(500);
 	});
+
+	it('sends up to maxChars uncut (verse search, feature 015)', async () => {
+		const fetchFn = ok();
+		const text = 'é'.repeat(1200);
+		const result = await embedQuery(text, META, { fetchFn, online: () => true, maxChars: 2000 });
+		expect(result).toMatchObject({ ok: true, truncated: false });
+		const [, init] = fetchFn.mock.calls[0] as unknown as [string, RequestInit];
+		expect(JSON.parse(String(init.body)).text).toBe(text);
+	});
 });
 
 describe('embedQuery, weak or no connection', () => {

@@ -22,13 +22,18 @@ export type EmbedOptions = {
 	cache?: QueryCache;
 	online?: () => boolean;
 	endpoint?: string;
+	/** Longest text sent; the search field's 500 by default (feature 015: 2,000 for verses). */
+	maxChars?: number;
 };
 
-/** The query as sent: at most 500 code points. */
-export function cutQuery(text: string): { text: string; truncated: boolean } {
+/** The query as sent: at most `max` code points (500 for the search field). */
+export function cutQuery(
+	text: string,
+	max: number = MAX_QUERY_CHARS
+): { text: string; truncated: boolean } {
 	const chars = [...text.trim()];
-	return chars.length > MAX_QUERY_CHARS
-		? { text: chars.slice(0, MAX_QUERY_CHARS).join(''), truncated: true }
+	return chars.length > max
+		? { text: chars.slice(0, max).join(''), truncated: true }
 		: { text: text.trim(), truncated: false };
 }
 
@@ -44,7 +49,7 @@ export async function embedQuery(
 	meta: { configId: string; dims: number },
 	options: EmbedOptions = {}
 ): Promise<EmbedResult> {
-	const { text, truncated } = cutQuery(query);
+	const { text, truncated } = cutQuery(query, options.maxChars);
 	const fail = (reason: EmbedFailure): EmbedResult => ({ ok: false, reason, truncated });
 
 	const hit = options.cache?.get(text);

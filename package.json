@@ -19,7 +19,8 @@
 		"test:perf": "vitest run --project perf",
 		"test:e2e": "playwright test",
 		"lint": "prettier --check . && eslint .",
-		"format": "prettier --write ."
+		"format": "prettier --write .",
+		"bible": "tsx scripts/bible/import.ts"
 	},
 	"dependencies": {
 		"cheerio": "^1.2.0",

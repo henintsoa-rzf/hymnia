@@ -1,0 +1,29 @@
+{
+	"books": [
+		{
+			"code": "GEN",
+			"chapters": [
+				[
+					"Au commencement, Dieu créa les cieux et la terre.",
+					"La terre était informe et vide: il y avait des ténèbres à la surface de l’abîme."
+				],
+				["Ainsi furent achevés les cieux et la terre, et toute leur armée."]
+			]
+		},
+		{
+			"code": "PSA",
+			"chapters": [
+				[
+					"Heureux l’homme qui ne marche pas selon le conseil des méchants, Qui ne s’arrête pas sur la voie des pécheurs."
+				],
+				["Pourquoi ce tumulte parmi les nations?"],
+				[
+					"Psaume de David. A l’occasion de sa fuite devant Absalom, son fils.",
+					"O Éternel, que mes ennemis sont nombreux! Quelle multitude se lève contre moi!",
+					"Combien qui disent à mon sujet: Plus de salut pour lui auprès de Dieu! — Pause.",
+					"Car Dieu est fidèle, dit-il."
+				]
+			]
+		}
+	]
+}

@@ -90,10 +90,18 @@ describe('POST /api/embed', () => {
 		expect(await response.json()).toEqual({ error: 'config', expected: ID });
 	});
 
-	it('answers 413 over 500 code points', async () => {
+	it('answers 413 over 2,000 code points (feature 015, raised from 500)', async () => {
 		const { call } = setup();
-		expect((await call({ text: '😀'.repeat(501), configId: ID })).status).toBe(413);
-		expect((await call({ text: '😀'.repeat(500), configId: ID })).status).toBe(200);
+		expect((await call({ text: '😀'.repeat(2001), configId: ID })).status).toBe(413);
+		expect((await call({ text: '😀'.repeat(2000), configId: ID })).status).toBe(200);
+		expect((await call({ text: 'a'.repeat(1200), configId: ID })).status).toBe(200);
+	});
+
+	it('counts code points after NFC: decomposed accents count once', async () => {
+		const { call } = setup();
+		// 2,000 « é » written as e + combining accent: 4,000 code points before NFC, 2,000 after.
+		expect((await call({ text: 'e\u0301'.repeat(2000), configId: ID })).status).toBe(200);
+		expect((await call({ text: 'e\u0301'.repeat(2001), configId: ID })).status).toBe(413);
 	});
 
 	it('answers 429 with Retry-After when the limit refuses', async () => {

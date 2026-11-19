@@ -184,4 +184,9 @@ export type DataManifest = {
 	index: string;
 	/** Absent when the build had no meaning vectors. Old clients ignore it. */
 	meaning?: MeaningManifest;
+	/** Absent when the build had no Bible. Old clients ignore it (feature 015). */
+	bible?: BibleManifest;
 };
+
+/** The Bible text of the build (specs/015-bible-verse-search, data-model.md). */
+export type BibleManifest = { translation: 'lsg1910'; file: string; bytes: number; verses: number };

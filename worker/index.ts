@@ -6,7 +6,7 @@
  *
  * Privacy (FR-010): no query text, IP or user agent is ever logged; the edge cache key is a hash.
  */
-import { MAX_QUERY_CHARS, MEANING_CONFIG, configId, tidyQuery } from '../src/lib/meaning/config';
+import { MAX_EMBED_CHARS, MEANING_CONFIG, configId, tidyQuery } from '../src/lib/meaning/config';
 import { cutAndNormalize, toBase64 } from '../src/lib/meaning/vector';
 
 export type Env = {
@@ -62,7 +62,7 @@ async function embed(request: Request, env: Env, ctx: Ctx, deps: Deps): Promise<
 	}
 	const text = typeof body?.text === 'string' ? tidyQuery(body.text) : '';
 	if (!text || typeof body.configId !== 'string') return json(400, { error: 'invalid' });
-	if ([...text].length > MAX_QUERY_CHARS) return json(413, { error: 'too-long' });
+	if ([...text].length > MAX_EMBED_CHARS) return json(413, { error: 'too-long' });
 	if (body.configId !== CONFIG_ID) return json(409, { error: 'config', expected: CONFIG_ID });
 
 	const ip = request.headers.get('CF-Connecting-IP') ?? 'unknown';

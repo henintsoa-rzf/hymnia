@@ -159,3 +159,42 @@ for (const colorScheme of ['light', 'dark'] as const) {
 		}
 	});
 }
+
+// Feature 015: the Bible screens, with verses chosen (selection bar) and the hymns found from them,
+// light and dark, text at 100 % and 200 %.
+for (const colorScheme of ['light', 'dark'] as const) {
+	for (const textScale of [1, 2]) {
+		test(`Bible: no violations, ${colorScheme}, text ${textScale * 100} %`, async ({ page }) => {
+			await page.emulateMedia({ colorScheme });
+			await page.addInitScript((scale) => {
+				localStorage.setItem(
+					'hymnia.prefs',
+					JSON.stringify({ textScale: scale, theme: 'system', hymnalFilter: [] })
+				);
+			}, textScale);
+			await mockEmbed(page);
+			const check = async (label: string) => {
+				const { violations } = await new AxeBuilder({ page })
+					.withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa'])
+					.analyze();
+				expect(
+					violations.map((v) => `${label}: ${v.id} (${v.nodes.length}) ${v.help}`),
+					label
+				).toEqual([]);
+			};
+			for (const url of ['/bible?livres', '/bible/jean', '/bible/jean/22']) {
+				await page.goto(url);
+				await page.waitForLoadState('networkidle');
+				await check(url);
+			}
+			await page.goto('/bible/jean/3');
+			await page.locator('#v16 button').click();
+			await page.locator('#v17 button').click();
+			await expect(page.getByRole('region', { name: 'Versets choisis' })).toBeVisible();
+			await check('/bible/jean/3 (two verses chosen)');
+			await page.goto('/bible/chants?versets=jean.3.16');
+			await expect(page.locator('main .hy-result').first()).toBeVisible();
+			await check('/bible/chants?versets=jean.3.16');
+		});
+	}
+}

@@ -1,9 +1,10 @@
 import { describe, expect, it } from 'vitest';
 import { fileURLToPath } from 'node:url';
-import { mkdtemp, readFile, readdir, rm } from 'node:fs/promises';
+import { copyFile, mkdtemp, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import {
+	buildBible,
 	buildCatalog,
 	buildData,
 	loadContent,
@@ -250,6 +251,70 @@ describe('meaning data in the manifest (feature 011, T016)', () => {
 			expect(manifest.meaning!.vectors).toMatch(/^meaning\.[0-9a-f]{10}\.bin$/);
 			expect(manifest.meaning!.rowMap).toMatch(/^meaning-rows\.[0-9a-f]{10}\.bin$/);
 			expect((await readFile(join(dir, manifest.meaning!.rowMap))).byteLength).toBe(16);
+		} finally {
+			await rm(dir, { recursive: true, force: true });
+		}
+	});
+});
+
+describe('Bible (feature 015)', () => {
+	const bibleDir = fileURLToPath(new URL('../../content/bible', import.meta.url));
+	const sample = fileURLToPath(new URL('../fixtures/sample-content', import.meta.url));
+
+	async function copyBible(edit?: (source: Record<string, unknown>) => void) {
+		const dir = await mkdtemp(join(tmpdir(), 'hymnia-bible-'));
+		await copyFile(join(bibleDir, 'lsg1910.json'), join(dir, 'lsg1910.json'));
+		const source = JSON.parse(await readFile(join(bibleDir, 'source.json'), 'utf8'));
+		edit?.(source);
+		await writeFile(join(dir, 'source.json'), JSON.stringify(source));
+		return dir;
+	}
+
+	it('builds the Louis Segond text under 2 MB compressed (SC-006)', async () => {
+		const bible = await buildBible(bibleDir);
+		expect(bible && !('error' in bible)).toBe(true);
+		if (!bible || 'error' in bible) return;
+		expect(bible.verses).toBe(31170);
+		expect(bible.gzipBytes).toBeLessThan(2 * 1024 * 1024);
+		expect(JSON.parse(bible.json).books).toHaveLength(66);
+	});
+
+	it('gives null when there is no Bible', async () => {
+		const dir = await mkdtemp(join(tmpdir(), 'hymnia-bible-'));
+		try {
+			expect(await buildBible(dir)).toBeNull();
+		} finally {
+			await rm(dir, { recursive: true, force: true });
+		}
+	});
+
+	it('fails over the compressed size limit', async () => {
+		const bible = await buildBible(bibleDir, { maxCompressedBytes: 1000 });
+		expect(bible).toEqual({ error: expect.stringMatching(/over the .* limit/) });
+	});
+
+	it('fails when the verse count moved by more than 1 % from source.json', async () => {
+		const dir = await copyBible((source) => (source.verses = 20000));
+		try {
+			expect(await buildBible(dir)).toEqual({ error: expect.stringMatching(/20000/) });
+		} finally {
+			await rm(dir, { recursive: true, force: true });
+		}
+	});
+
+	it('writes the hashed Bible file and its manifest entry', async () => {
+		const { catalog, indexJson } = await buildData(sample);
+		const bible = { json: '{"books":[]}', verses: 3, gzipBytes: 10 };
+		const dir = await mkdtemp(join(tmpdir(), 'hymnia-out-'));
+		try {
+			const { manifest } = await writeOutput(dir, catalog!, indexJson!, undefined, bible);
+			expect(manifest.bible).toEqual({
+				translation: 'lsg1910',
+				file: expect.stringMatching(/^bible\.[0-9a-f]{10}\.json$/),
+				bytes: bible.json.length,
+				verses: 3
+			});
+			expect(await readFile(join(dir, manifest.bible!.file), 'utf8')).toBe(bible.json);
 		} finally {
 			await rm(dir, { recursive: true, force: true });
 		}

@@ -20,6 +20,8 @@ export type CatalogApi = {
 	 * first paint (feature 012, research R2).
 	 */
 	meaningAvailable: boolean;
+	/** File of the Bible text in `/data/` (feature 015); undefined when the build has none. */
+	bibleFile: string | undefined;
 	/** Hymnals to list: those with at least one published hymn, in sortOrder. */
 	getHymnals(): PublishedHymnal[];
 	/** Listed hymnals (at least one published hymn), in French alphabetical order of name, then id (feature 009). */
@@ -37,7 +39,7 @@ export type CatalogApi = {
 
 export function createCatalog(
 	catalog: Catalog,
-	{ meaningAvailable = false }: { meaningAvailable?: boolean } = {}
+	{ meaningAvailable = false, bibleFile }: { meaningAvailable?: boolean; bibleFile?: string } = {}
 ): CatalogApi {
 	const hymnals = new Map(catalog.hymnals.map((h) => [h.id, h]));
 	const hymns = new Map(catalog.hymns.map((h) => [h.id, h]));
@@ -70,6 +72,7 @@ export function createCatalog(
 	return {
 		version: catalog.version,
 		meaningAvailable,
+		bibleFile,
 		getHymnals: () => listed,
 		getHymnalsByName: () => byName,
 		getHymnal: (id) => hymnals.get(id),
@@ -106,13 +109,25 @@ export async function fetchData(base: string, fetchFn: typeof fetch = fetch): Pr
 	return { manifest, catalog: JSON.parse(catalogText), indexJson };
 }
 
-/** Load the catalog only (screens), and whether the data has meaning vectors (feature 012). */
+/**
+ * Load the catalog only (screens), whether the data has meaning vectors (feature 012), and the
+ * file of the Bible text (feature 015).
+ */
 export async function fetchCatalog(
 	base: string,
 	fetchFn: typeof fetch = fetch
-): Promise<{ catalog: Catalog; meaningAvailable: boolean }> {
+): Promise<{ catalog: Catalog; meaningAvailable: boolean; bibleFile?: string }> {
 	const get = getter(base, fetchFn);
 	const manifest: DataManifest = JSON.parse(await get('manifest.json'));
 	const catalog: Catalog = JSON.parse(await get(manifest.catalog));
-	return { catalog, meaningAvailable: Boolean(manifest.meaning) };
+	return { catalog, meaningAvailable: Boolean(manifest.meaning), bibleFile: manifest.bible?.file };
+}
+
+/** The Bible text of the build (feature 015). */
+export async function fetchBibleText(
+	base: string,
+	file: string,
+	fetchFn: typeof fetch = fetch
+): Promise<string> {
+	return getter(base, fetchFn)(file);
 }

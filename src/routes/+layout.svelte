@@ -51,6 +51,15 @@
 	// idle, never in the install download.
 	$effect(() => scheduleMeaningPrefetch());
 
+	// Feature 015: the Bible tab shows when the build has a Bible (known once the catalog loads;
+	// shown meanwhile, as the builds of the app always have one).
+	let bibleAvailable = $state(true);
+	$effect(() => {
+		loadCatalog()
+			.then((catalog) => (bibleAvailable = Boolean(catalog.bibleFile)))
+			.catch(() => {});
+	});
+
 	const routeId = $derived(page.route.id ?? '');
 	const section = $derived(
 		routeId === '/'
@@ -61,16 +70,23 @@
 					? 'repertoire'
 					: routeId.startsWith('/repertoire')
 						? 'repertoire'
-						: null
+						: routeId.startsWith('/bible')
+							? 'bible'
+							: null
 	);
-	// The hymn screen has its own reading bar instead of the tab bar (decisions §3).
-	const reading = $derived(routeId === '/recueils/[recueil]/[numero]');
+	// The hymn and Bible chapter screens have their own reading bar instead of the tab bar
+	// (decisions §3, feature 015).
+	const reading = $derived(
+		routeId === '/recueils/[recueil]/[numero]' || routeId === '/bible/[livre]/[chapitre]'
+	);
 
-	const links = [
+	const allLinks = [
 		{ id: 'search', href: resolve('/'), label: 'Recherche', icon: 'search' },
 		{ id: 'hymnals', href: resolve('/recueils'), label: 'Recueils', icon: 'book' },
+		{ id: 'bible', href: resolve('/bible'), label: 'Bible', icon: 'bible' },
 		{ id: 'repertoire', href: resolve('/repertoire'), label: 'Répertoire', icon: 'bookmark' }
 	] as const;
+	const links = $derived(allLinks.filter((l) => l.id !== 'bible' || bibleAvailable));
 </script>
 
 <a class="skip-link" href="#contenu">Aller au contenu</a>

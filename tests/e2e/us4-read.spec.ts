@@ -65,7 +65,7 @@ test('5. next and previous move within the hymnal; swipe does too', async ({ pag
 });
 
 test('the theme can be chosen in Réglages (FR-017)', async ({ page }) => {
-	await page.goto('/reglages');
+	await page.goto('/reglages/affichage');
 	const bg = () => page.evaluate(() => getComputedStyle(document.body).backgroundColor);
 	await page.getByRole('button', { name: 'Sombre' }).click();
 	await expect(page.getByRole('button', { name: 'Sombre' })).toHaveAttribute(

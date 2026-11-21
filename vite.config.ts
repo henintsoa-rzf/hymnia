@@ -13,6 +13,9 @@ export default defineConfig({
 			{
 				// A new version (app or hymn data) waits for the user: "Recharger" (FR-018).
 				registerType: 'prompt',
+				// The app lives at the site root: register `/sw.js` from any page, not `./sw.js`
+				// resolved against a nested address such as /reglages/hors-ligne (feature 016).
+				base: '/',
 				kit: { adapterFallback: 'index.html', spa: true },
 				manifest: {
 					name: 'Hymnia',

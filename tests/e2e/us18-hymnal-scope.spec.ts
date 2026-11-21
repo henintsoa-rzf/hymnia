@@ -13,13 +13,13 @@ const chip = (page: Page, name: string) =>
 const listTitles = (page: Page) => page.locator('main .hy-row .hy-row__title');
 
 async function leaveOut(page: Page, name: string) {
-	await page.goto('/reglages');
+	await page.goto('/reglages/recueils');
 	await box(page, name).uncheck();
 	await expect(box(page, name)).not.toBeChecked();
 }
 
 async function showParts(page: Page) {
-	await page.goto('/reglages');
+	await page.goto('/reglages/recueils');
 	const more = page.getByRole('button', { name: `Afficher les parties de ${HE}` });
 	await expect(more).toHaveAttribute('aria-expanded', 'false');
 	await more.click();
@@ -31,7 +31,7 @@ async function showParts(page: Page) {
 
 test.describe('US1: leave out a whole hymnal', () => {
 	test('every hymnal is listed and selected at first', async ({ page }) => {
-		await page.goto('/reglages');
+		await page.goto('/reglages/recueils');
 		await expect(box(page, CE)).toBeChecked();
 		await expect(box(page, HE)).toBeChecked();
 		await expect(page.getByRole('button', { name: 'Tout sélectionner' })).toHaveCount(0);
@@ -58,7 +58,7 @@ test.describe('US1: leave out a whole hymnal', () => {
 		await expect(page.getByText(`${HE} est masqué dans les Réglages.`)).toBeVisible();
 		await expect(
 			page.locator('main .hy-message').getByRole('link', { name: 'Réglages' })
-		).toHaveAttribute('href', /\/reglages$/);
+		).toHaveAttribute('href', /\/reglages\/recueils$/);
 
 		await search(page, 'gloire');
 		await expect(results(page).first()).toBeVisible();
@@ -69,7 +69,7 @@ test.describe('US1: leave out a whole hymnal', () => {
 		await page.goto('/recueils');
 		await expect(listTitles(page)).toHaveText([CE]);
 
-		await page.goto('/reglages');
+		await page.goto('/reglages/recueils');
 		await page.reload();
 		await expect(box(page, HE)).not.toBeChecked();
 	});
@@ -170,16 +170,24 @@ test.describe('US2: keep only some parts of a hymnal', () => {
 	});
 });
 
-test.describe('US3: a tidier settings screen', () => {
-	test('two subsections, « Affichage » then « Recueils »', async ({ page }) => {
+test.describe('US3: a tidier settings screen (moved to a menu by feature 016)', () => {
+	test('the menu lists « Affichage » and « Recueils », each opens on its own', async ({ page }) => {
 		await page.goto('/reglages');
 		await expect(page.getByRole('heading', { level: 1 })).toHaveText('Réglages');
-		await expect(page.getByRole('heading', { level: 2 })).toHaveText(['Affichage', 'Recueils']);
-		await expect(page.getByRole('heading', { level: 3 })).toHaveText(['Thème', 'Taille du texte']);
+		const menu = page.locator('main .settings-menu');
+		for (const title of ['Affichage', 'Recueils']) {
+			await page.goto('/reglages');
+			await menu.getByRole('link', { name: new RegExp(`^${title} `) }).click();
+			await expect(page.getByRole('heading', { level: 1 })).toHaveText(title);
+		}
+		await page.goto('/reglages/affichage');
+		await expect(page.getByRole('heading', { level: 2 })).toHaveText(['Thème']);
+		await page.goto('/reglages/lecture');
+		await expect(page.getByRole('heading', { level: 2 }).first()).toHaveText('Taille du texte');
 	});
 
 	test('the theme still works', async ({ page }) => {
-		await page.goto('/reglages');
+		await page.goto('/reglages/affichage');
 		await page.getByRole('button', { name: 'Sombre' }).click();
 		expect(await page.evaluate(() => getComputedStyle(document.body).backgroundColor)).toBe(
 			'rgb(20, 19, 17)'

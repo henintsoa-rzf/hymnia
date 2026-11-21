@@ -29,7 +29,12 @@ describe('reading preferences (FR-015, FR-017)', () => {
 			theme: 'system',
 			hymnalFilter: ['ce'],
 			excluded: { hymnals: [], parts: {} },
-			bibleAt: null
+			bibleAt: null,
+			lyricFont: 'serif',
+			lineSpacing: 'normal',
+			stanzaNumbers: true,
+			chorus: 'once',
+			keepAwake: false
 		});
 	});
 
@@ -97,5 +102,58 @@ describe('Bible reading position (feature 015)', () => {
 		const storage = memoryStorage();
 		createPrefsStore(storage).update((p) => ({ ...p, bibleAt: { book: 'ROM', chapter: 8 } }));
 		expect(get(createPrefsStore(storage)).bibleAt).toEqual({ book: 'ROM', chapter: 8 });
+	});
+});
+
+describe('Lecture preferences (feature 016, FR-021, FR-022)', () => {
+	it('defaults to the current reading layout', () => {
+		expect(DEFAULT_PREFS).toMatchObject({
+			lyricFont: 'serif',
+			lineSpacing: 'normal',
+			stanzaNumbers: true,
+			chorus: 'once',
+			keepAwake: false
+		});
+	});
+
+	it('keeps valid values', () => {
+		const value = {
+			lyricFont: 'sans',
+			lineSpacing: 'loose',
+			stanzaNumbers: false,
+			chorus: 'each',
+			keepAwake: true
+		};
+		expect(sanitizePrefs(value)).toMatchObject(value);
+		expect(sanitizePrefs({ lineSpacing: 'tight' }).lineSpacing).toBe('tight');
+	});
+
+	it('falls back to the default for invalid values', () => {
+		expect(
+			sanitizePrefs({
+				lyricFont: 'comic',
+				lineSpacing: 'huge',
+				stanzaNumbers: 'yes',
+				chorus: 2,
+				keepAwake: 1
+			})
+		).toMatchObject({
+			lyricFont: 'serif',
+			lineSpacing: 'normal',
+			stanzaNumbers: true,
+			chorus: 'once',
+			keepAwake: false
+		});
+	});
+
+	it('keeps preferences saved before this feature (SC-008)', () => {
+		const old = {
+			textScale: 1.3,
+			theme: 'dark',
+			hymnalFilter: ['ce'],
+			excluded: { hymnals: ['he'], parts: {} },
+			bibleAt: { book: 'JHN', chapter: 3 }
+		};
+		expect(sanitizePrefs(old)).toMatchObject(old);
 	});
 });

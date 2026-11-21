@@ -1,11 +1,10 @@
 <!--
-  Offline support (T062, FR-018): registers the service worker and, when a new version of the
-  app or of the hymn data is ready, offers to reload. Nothing is reloaded without the user.
+  Offline support (T062, FR-018): when a new version of the app or of the hymn data is ready,
+  offers to reload. Nothing is reloaded without the user. Feature 016: the registration lives in
+  `$lib/offline/sw`, so Réglages › Hors ligne can ask for a check that ends here.
 -->
 <script lang="ts">
-	import { useRegisterSW } from 'virtual:pwa-register/svelte';
-
-	const { needRefresh, updateServiceWorker } = useRegisterSW();
+	import { needRefresh, updateServiceWorker } from '$lib/offline/sw';
 </script>
 
 {#if $needRefresh}

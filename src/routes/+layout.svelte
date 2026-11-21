@@ -1,4 +1,7 @@
-<!-- App shell (T025): navigation, theme and text size from the reading preferences. -->
+<!--
+  App shell (T025): navigation, theme and text size from the reading preferences. Feature 016:
+  lyric font and line spacing too; Réglages stays current in all its sections.
+-->
 <script lang="ts">
 	import '@fontsource-variable/literata/opsz.css';
 	import '@fontsource-variable/literata/opsz-italic.css';
@@ -22,10 +25,13 @@
 
 	$effect(() => {
 		const root = document.documentElement;
-		const { theme, textScale } = $prefs;
+		const { theme, textScale, lyricFont, lineSpacing } = $prefs;
 		if (theme === 'system') delete root.dataset.theme;
 		else root.dataset.theme = theme;
 		root.style.setProperty('--text-scale', String(textScale));
+		// Feature 016 (research R4): stanza font and line spacing, read by .hb-stanza.
+		root.dataset.lyricFont = lyricFont;
+		root.dataset.lineSpacing = lineSpacing;
 
 		// Browser chrome follows a forced theme too.
 		const metas = document.querySelectorAll<HTMLMetaElement>('meta[name="theme-color"]');
@@ -106,7 +112,7 @@
 		class="hb-icon-btn"
 		href={resolve('/reglages')}
 		aria-label="Réglages"
-		aria-current={routeId === '/reglages' ? 'page' : undefined}><Icon name="settings" /></a
+		aria-current={routeId.startsWith('/reglages') ? 'page' : undefined}><Icon name="settings" /></a
 	>
 </header>
 

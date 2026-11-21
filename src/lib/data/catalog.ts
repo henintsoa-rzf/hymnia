@@ -22,6 +22,8 @@ export type CatalogApi = {
 	meaningAvailable: boolean;
 	/** File of the Bible text in `/data/` (feature 015); undefined when the build has none. */
 	bibleFile: string | undefined;
+	/** The data manifest of this build (feature 016: offline status, hymns date). */
+	manifest: DataManifest | undefined;
 	/** Hymnals to list: those with at least one published hymn, in sortOrder. */
 	getHymnals(): PublishedHymnal[];
 	/** Listed hymnals (at least one published hymn), in French alphabetical order of name, then id (feature 009). */
@@ -39,7 +41,11 @@ export type CatalogApi = {
 
 export function createCatalog(
 	catalog: Catalog,
-	{ meaningAvailable = false, bibleFile }: { meaningAvailable?: boolean; bibleFile?: string } = {}
+	{
+		meaningAvailable = false,
+		bibleFile,
+		manifest
+	}: { meaningAvailable?: boolean; bibleFile?: string; manifest?: DataManifest } = {}
 ): CatalogApi {
 	const hymnals = new Map(catalog.hymnals.map((h) => [h.id, h]));
 	const hymns = new Map(catalog.hymns.map((h) => [h.id, h]));
@@ -73,6 +79,7 @@ export function createCatalog(
 		version: catalog.version,
 		meaningAvailable,
 		bibleFile,
+		manifest,
 		getHymnals: () => listed,
 		getHymnalsByName: () => byName,
 		getHymnal: (id) => hymnals.get(id),
@@ -116,11 +123,21 @@ export async function fetchData(base: string, fetchFn: typeof fetch = fetch): Pr
 export async function fetchCatalog(
 	base: string,
 	fetchFn: typeof fetch = fetch
-): Promise<{ catalog: Catalog; meaningAvailable: boolean; bibleFile?: string }> {
+): Promise<{
+	catalog: Catalog;
+	meaningAvailable: boolean;
+	bibleFile?: string;
+	manifest: DataManifest;
+}> {
 	const get = getter(base, fetchFn);
 	const manifest: DataManifest = JSON.parse(await get('manifest.json'));
 	const catalog: Catalog = JSON.parse(await get(manifest.catalog));
-	return { catalog, meaningAvailable: Boolean(manifest.meaning), bibleFile: manifest.bible?.file };
+	return {
+		catalog,
+		meaningAvailable: Boolean(manifest.meaning),
+		bibleFile: manifest.bible?.file,
+		manifest
+	};
 }
 
 /** The Bible text of the build (feature 015). */

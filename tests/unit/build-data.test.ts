@@ -320,3 +320,27 @@ describe('Bible (feature 015)', () => {
 		}
 	});
 });
+
+describe('hymns date in the manifest (feature 016, R9)', () => {
+	const sample = fileURLToPath(new URL('../fixtures/sample-content', import.meta.url));
+
+	it('is the latest source date of the published hymns, the same on every build', async () => {
+		const { catalog, indexJson } = await buildData(sample);
+		const later = structuredClone(catalog!);
+		later.hymns[3].source = { ...later.hymns[3].source, retrievedAt: '2026-11-20' };
+		const dirs = [
+			await mkdtemp(join(tmpdir(), 'hymnia-out-')),
+			await mkdtemp(join(tmpdir(), 'hymnia-out-'))
+		];
+		try {
+			const { manifest } = await writeOutput(dirs[0], catalog!, indexJson!);
+			expect(manifest.updatedAt).toBe('2026-11-11');
+			await writeOutput(dirs[1], catalog!, indexJson!);
+			const read = (d: string) => readFile(join(d, 'manifest.json'), 'utf8');
+			expect(await read(dirs[1])).toBe(await read(dirs[0]));
+			expect((await writeOutput(dirs[1], later, indexJson!)).manifest.updatedAt).toBe('2026-11-20');
+		} finally {
+			for (const d of dirs) await rm(d, { recursive: true, force: true });
+		}
+	});
+});

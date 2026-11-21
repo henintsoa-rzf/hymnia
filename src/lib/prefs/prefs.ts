@@ -8,6 +8,12 @@ import { bookByCode, type BookCode } from '../bible/books';
 import { NO_EXCLUSIONS, sanitizeExclusions, type Exclusions } from '../scope/scope';
 
 export type Theme = 'system' | 'light' | 'dark';
+/** Feature 016 (Lecture): font of the stanza text. */
+export type LyricFont = 'serif' | 'sans';
+/** Feature 016 (Lecture): space between lyric lines (1.4 / 1.6 / 1.85). */
+export type LineSpacing = 'tight' | 'normal' | 'loose';
+/** Feature 016 (Lecture): chorus printed once, or again after each stanza. */
+export type ChorusMode = 'once' | 'each';
 
 export type Prefs = {
 	/** "0.85 to 2.0, default 1.0" */
@@ -20,6 +26,16 @@ export type Prefs = {
 	excluded: Exclusions;
 	/** Last Bible chapter read (feature 015); null before the first one. */
 	bibleAt: { book: BookCode; chapter: number } | null;
+	/** Feature 016: `serif` (default) or `sans`, stanza text only. */
+	lyricFont: LyricFont;
+	/** Feature 016: `tight`, `normal` (default), `loose`. */
+	lineSpacing: LineSpacing;
+	/** Feature 016: visible verse numbers (default true). */
+	stanzaNumbers: boolean;
+	/** Feature 016: `once` (default) or `each`. */
+	chorus: ChorusMode;
+	/** Feature 016: keep the screen on while a hymn is open (default false). */
+	keepAwake: boolean;
 };
 
 export const TEXT_SCALE_MIN = 0.85;
@@ -29,7 +45,12 @@ export const DEFAULT_PREFS: Prefs = {
 	theme: 'system',
 	hymnalFilter: [],
 	excluded: NO_EXCLUSIONS,
-	bibleAt: null
+	bibleAt: null,
+	lyricFont: 'serif',
+	lineSpacing: 'normal',
+	stanzaNumbers: true,
+	chorus: 'once',
+	keepAwake: false
 };
 
 const STORAGE_KEY = 'hymnia.prefs';
@@ -52,8 +73,18 @@ export function sanitizePrefs(value: unknown): Prefs {
 			? v.hymnalFilter.filter((x): x is string => typeof x === 'string')
 			: [],
 		excluded: sanitizeExclusions(v.excluded),
-		bibleAt: sanitizeBibleAt(v.bibleAt)
+		bibleAt: sanitizeBibleAt(v.bibleAt),
+		lyricFont: oneOf(v.lyricFont, ['serif', 'sans'], DEFAULT_PREFS.lyricFont),
+		lineSpacing: oneOf(v.lineSpacing, ['tight', 'normal', 'loose'], DEFAULT_PREFS.lineSpacing),
+		stanzaNumbers:
+			typeof v.stanzaNumbers === 'boolean' ? v.stanzaNumbers : DEFAULT_PREFS.stanzaNumbers,
+		chorus: oneOf(v.chorus, ['once', 'each'], DEFAULT_PREFS.chorus),
+		keepAwake: typeof v.keepAwake === 'boolean' ? v.keepAwake : DEFAULT_PREFS.keepAwake
 	};
+}
+
+function oneOf<T extends string>(value: unknown, allowed: readonly T[], fallback: T): T {
+	return allowed.includes(value as T) ? (value as T) : fallback;
 }
 
 /** A known book and an existing chapter, or null. */

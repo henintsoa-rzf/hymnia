@@ -8,6 +8,7 @@
   Feature 007: a discreet YouTube search link under the credits.
   Feature 013: with `?passage=<section>` (a search-by-meaning result), the stanza that ranked the
   hymn is marked, and brought into view when it is not fully visible.
+  Feature 016: the screen is kept on while the hymn is open when the Lecture setting asks for it.
 -->
 <script lang="ts">
 	import { tick } from 'svelte';
@@ -26,12 +27,17 @@
 	import { frenchSpaces, hymnalUrl, hymnInCollectionUrl, hymnUrl, refLabel } from '$lib/format';
 	import { hymnHistory } from '$lib/history/store';
 	import { markedSections } from '$lib/meaning/passage';
+	import { prefs } from '$lib/prefs/prefs';
+	import { keepAwake } from '$lib/reading/wake-lock';
 	import { collectionsWith } from '$lib/repertoire/model';
 	import { hymnIdOf, resolveEntries } from '$lib/repertoire/resolve';
 	import { repertoire } from '$lib/repertoire/store';
 	import { youtubeSearchUrl } from '$lib/youtube';
 
 	let { data } = $props();
+
+	// Feature 016 (FR-013): « Garder l'écran allumé », only while a hymn is open.
+	$effect(() => ($prefs.keepAwake ? keepAwake() : undefined));
 
 	const abbr = $derived(data.hymnal?.abbreviations[0] ?? '');
 	const idOf = $derived(hymnIdOf(data.catalog));

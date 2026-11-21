@@ -380,6 +380,13 @@ export async function writeOutput(
 		catalog: `catalog.${hash(catalogJson)}.json`,
 		index: `index.${hash(indexJson)}.json`
 	};
+	// Feature 016 (research R9): the date of the hymns, from the content itself, so the same
+	// content always writes the same manifest (no false update offer).
+	const updatedAt = catalog.hymns.reduce<string | undefined>(
+		(latest, h) => (!latest || h.source.retrievedAt > latest ? h.source.retrievedAt : latest),
+		undefined
+	);
+	if (updatedAt) manifest.updatedAt = updatedAt;
 	if (meaning) {
 		manifest.meaning = {
 			configId: meaning.configId,

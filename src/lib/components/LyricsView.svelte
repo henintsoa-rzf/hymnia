@@ -1,15 +1,20 @@
 <!--
   Lyrics (T035, FR-013, FR-020, decisions §7.1): reference, title, short credits, then the
   sections in source order. Lines are shown exactly as stored (only French spaces before
-  punctuation become non-breaking). A chorus is printed once, and again only where its words
-  change. Size follows --lyric (reading preferences).
+  punctuation become non-breaking). Size follows --lyric (reading preferences).
   Feature 013: `marked` sections (the stanza that ranked the hymn in a search by meaning) get
   `hb-stanza--match` and, on the first one, a hidden « Passage correspondant à votre recherche ».
+  Feature 016 (FR-011, FR-012, research R5): blocks come from `layoutSections` (chorus once, or
+  after each stanza) and verse numbers follow the Lecture settings; a repeated chorus is never
+  marked.
 -->
 <script lang="ts">
 	import type { Snippet } from 'svelte';
-	import type { PublishedHymn, Section } from '$lib/domain/schema';
+	import type { PublishedHymn } from '$lib/domain/schema';
 	import { frenchSpaces, shortCredit } from '$lib/format';
+	import { layoutSections, type Block } from '$lib/lyrics/layout';
+	import { prefs } from '$lib/prefs/prefs';
+	import Stanza from './Stanza.svelte';
 
 	let {
 		hymn,
@@ -27,24 +32,11 @@
 		children?: Snippet;
 	} = $props();
 
-	const blocks = $derived.by(() => {
-		const out: { section: Section; index: number }[] = [];
-		let lastChorus: string | undefined;
-		hymn.sections.forEach((section, index) => {
-			if (section.type === 'chorus') {
-				const text = section.lines.join('\n');
-				if (text === lastChorus) return;
-				lastChorus = text;
-			}
-			out.push({ section, index });
-		});
-		return out;
-	});
-
-	const firstMarked = $derived(blocks.find((b) => marked.includes(b.index))?.index);
+	const blocks = $derived(layoutSections(hymn.sections, { chorus: $prefs.chorus }));
+	const isMarked = (b: Block) => !b.repeat && marked.includes(b.index);
+	const firstMarked = $derived(blocks.find(isMarked)?.key);
 
 	const credit = $derived(shortCredit(hymn.credits));
-	const LABELS: Partial<Record<Section['type'], string>> = { chorus: 'Refrain', bridge: 'Pont' };
 </script>
 
 <article class="hb-hymn lyrics" lang="fr">
@@ -57,25 +49,13 @@
 		{#if credit}<p class="hb-header__credit">{credit}</p>{/if}
 	</header>
 
-	{#each blocks as { section, index } (index)}
-		<p
-			class="hb-stanza"
-			class:hb-stanza--refrain={section.type === 'chorus'}
-			class:hb-stanza--bridge={section.type === 'bridge'}
-			class:hb-stanza--match={marked.includes(index)}
-		>
-			{#if index === firstMarked}
-				<span class="hb-sr">Passage correspondant à votre recherche&nbsp;: </span>
-			{/if}
-			{#if LABELS[section.type]}
-				<span class="hb-stanza__label">{LABELS[section.type]}</span>
-			{:else if section.type === 'verse' && section.number !== null}
-				<span class="hb-stanza__num"><span class="hb-sr">Strophe&nbsp;</span>{section.number}</span>
-			{/if}
-			{#each section.lines as line, j (j)}
-				<span class="hb-stanza__line">{frenchSpaces(line)}</span>
-			{/each}
-		</p>
+	{#each blocks as block (block.key)}
+		<Stanza
+			{block}
+			numbers={$prefs.stanzaNumbers}
+			marked={isMarked(block)}
+			first={block.key === firstMarked}
+		/>
 	{/each}
 
 	{@render children?.()}

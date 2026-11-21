@@ -92,7 +92,22 @@
 	/* Reading size: 0.85 to 2.0 (prefs.textScale), lyrics are 20 px at 1.0 (decisions §7.4). */
 	--text-scale: 1;
 	--lyric: calc(20px * var(--text-scale));
+	/* Feature 016 (Lecture, research R4): stanza font and leading, from root attributes. */
+	--lyric-font: var(--font-serif);
+	--lyric-leading: 1.6;
 	--tabbar-height: 61px;
+}
+
+:root[data-lyric-font='sans'] {
+	--lyric-font: var(--font-sans);
+}
+
+:root[data-line-spacing='tight'] {
+	--lyric-leading: 1.4;
+}
+
+:root[data-line-spacing='loose'] {
+	--lyric-leading: 1.85;
 }
 
 @media (min-width: 640px) {
@@ -224,6 +239,33 @@ svg {
 	line-height: 20px;
 	font-weight: 500;
 	color: var(--ink-muted);
+}
+
+/*
+ * Settings (feature 016): the menu and each section share this column. A section has one h1
+ * (SettingsHeader), then one h2 per setting.
+ */
+.hy-settings {
+	display: flex;
+	flex-direction: column;
+	gap: 28px;
+	max-width: 640px;
+}
+
+.hy-settings section {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+}
+
+.hy-settings h2 {
+	margin: 0;
+}
+
+@media (min-width: 1024px) {
+	.hy-settings {
+		padding-top: 32px;
+	}
 }
 
 /* ---------- Navigation ---------- */
@@ -501,6 +543,72 @@ svg {
 	background: var(--rubric-soft);
 	color: var(--rubric);
 	font-weight: 600;
+}
+
+/* On/off setting (feature 016): a native checkbox with role="switch", drawn as a track. */
+.hy-switch {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: var(--space-3);
+	min-height: var(--tap-target);
+	cursor: pointer;
+}
+
+.hy-switch input {
+	appearance: none;
+	flex-shrink: 0;
+	position: relative;
+	width: 48px;
+	height: 28px;
+	margin: 0;
+	border: 1px solid var(--ink-muted);
+	border-radius: var(--radius-pill);
+	background: var(--paper-sunken);
+	cursor: pointer;
+}
+
+.hy-switch input::before {
+	content: '';
+	position: absolute;
+	top: 3px;
+	left: 3px;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background: var(--ink-muted);
+	transition: transform 0.15s;
+}
+
+.hy-switch input:checked {
+	border-color: var(--rubric);
+	background: var(--rubric);
+}
+
+.hy-switch input:checked::before {
+	transform: translateX(20px);
+	background: var(--paper);
+}
+
+.hy-switch input:focus-visible {
+	outline: 2px solid var(--rubric);
+	outline-offset: 2px;
+}
+
+.hy-switch:has(input:disabled) {
+	cursor: default;
+	color: var(--ink-muted);
+}
+
+.hy-switch input:disabled {
+	opacity: 0.5;
+	cursor: default;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.hy-switch input::before {
+		transition: none;
+	}
 }
 
 .hy-stepper {
@@ -866,8 +974,9 @@ mark {
 	position: relative;
 	margin: 0 0 var(--space-8);
 	padding-left: var(--space-6);
+	font-family: var(--lyric-font);
 	font-size: var(--lyric);
-	line-height: 1.6;
+	line-height: var(--lyric-leading);
 }
 
 .hb-stanza__num {
@@ -875,7 +984,7 @@ mark {
 	left: 0;
 	top: 0;
 	font-size: calc(var(--lyric) * 0.75);
-	line-height: calc(var(--lyric) * 1.6);
+	line-height: calc(var(--lyric) * var(--lyric-leading));
 	font-weight: 600;
 	color: var(--rubric);
 }

@@ -93,7 +93,7 @@
 					{hymnal.abbreviations[0]} · {hymnCountLabel(shownEntries.length)}
 					{#if hiddenParts.length}
 						· {hiddenLabel} ·
-						<a href={resolve('/reglages')}>Réglages</a>
+						<a href={resolve('/reglages/recueils')}>Réglages</a>
 					{/if}
 				</p>
 			</div>
@@ -120,7 +120,7 @@
 				<p>Ce recueil est masqué dans les Réglages.</p>
 				<p class="hy-caption">
 					Ses chants ne sont pas proposés dans la recherche.
-					<a href={resolve('/reglages')}>Modifier dans les Réglages</a>
+					<a href={resolve('/reglages/recueils')}>Modifier dans les Réglages</a>
 				</p>
 			</div>
 		{/if}

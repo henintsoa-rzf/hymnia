@@ -12,6 +12,11 @@ const SCREENS = [
 	'/recueils/ce',
 	'/recueils/ce/1',
 	'/reglages',
+	// Feature 016: the settings sections.
+	'/reglages/affichage',
+	'/reglages/lecture',
+	'/reglages/recueils',
+	'/reglages/hors-ligne',
 	'/repertoire',
 	'/recueils/ce/99',
 	// Feature 011: a blended meaning list; feature 012: the field in the search-by-meaning mode.
@@ -146,12 +151,12 @@ for (const colorScheme of ['light', 'dark'] as const) {
 				label
 			).toEqual([]);
 		};
-		await page.goto('/reglages');
+		await page.goto('/reglages/recueils');
 		await page.getByRole('button', { name: 'Afficher les parties de Hymnes d’exemple' }).click();
 		await page.getByRole('checkbox', { name: 'Noël', exact: true }).uncheck();
 		await page.getByRole('checkbox', { name: 'Cantiques d’exemple', exact: true }).uncheck();
 		await expect(page.getByRole('button', { name: 'Tout sélectionner' })).toBeVisible();
-		await check('/reglages (parts, last item kept)');
+		await check('/reglages/recueils (parts, last item kept)');
 		for (const url of ['/recueils', '/recueils/he', '/recueils/ce', '/?q=HE%2012', '/?q=endormi']) {
 			await page.goto(url);
 			await page.waitForLoadState('networkidle');

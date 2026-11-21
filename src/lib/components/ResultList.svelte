@@ -124,7 +124,7 @@
 		>
 	{/if}
 	{#if scopeNarrowed}
-		<a class="hb-btn" href={resolve('/reglages')}>Réglages</a>
+		<a class="hb-btn" href={resolve('/reglages/recueils')}>Réglages</a>
 	{/if}
 {/snippet}
 
@@ -148,7 +148,7 @@
 			text={`Le n° ${response.outOfScope.number} n’est pas proposé. Vous pouvez le remettre dans les Réglages.`}
 		>
 			{#snippet actions()}
-				<a class="hb-btn" href={resolve('/reglages')}>Réglages</a>
+				<a class="hb-btn" href={resolve('/reglages/recueils')}>Réglages</a>
 			{/snippet}
 		</EmptyState>
 		{@render sameNumberList()}

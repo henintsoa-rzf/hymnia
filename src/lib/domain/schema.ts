@@ -186,6 +186,11 @@ export type DataManifest = {
 	meaning?: MeaningManifest;
 	/** Absent when the build had no Bible. Old clients ignore it (feature 015). */
 	bible?: BibleManifest;
+	/**
+	 * Latest `source.retrievedAt` of the published hymns, `YYYY-MM-DD` (feature 016, research R9).
+	 * Absent from older builds: no date is shown.
+	 */
+	updatedAt?: string;
 };
 
 /** The Bible text of the build (specs/015-bible-verse-search, data-model.md). */

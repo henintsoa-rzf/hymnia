@@ -23,7 +23,8 @@
 		filterActive = false,
 		onclearfilter,
 		scope,
-		action
+		action,
+		revealing = false
 	}: {
 		response: SearchResponse;
 		hymnals: Map<string, PublishedHymnal>;
@@ -33,6 +34,8 @@
 		scope?: Scope;
 		/** Optional control shown beside each hymn (feature 003: add to a collection). */
 		action?: Snippet<[SearchResult]>;
+		/** Feature 017: results by meaning coming in, one row after the other. */
+		revealing?: boolean;
 	} = $props();
 
 	const abbr = (id: string) => hymnals.get(id)?.abbreviations[0] ?? id.toUpperCase();
@@ -184,13 +187,22 @@
 	{/if}
 {:else if response.kind === 'text' || response.kind === 'meaning'}
 	{#if response.results.length > 0}
-		<!-- Feature 011: one blended list, no badge per result (constitution II). -->
-		<h2 class="hb-overline">
+		<!--
+			Feature 011: one blended list, no badge per result (constitution II). Feature 017: one
+			shared marker for the whole list by meaning instead, the sparkle on the heading and a
+			bar in the gutter of each row (specs/017-meaning-results-transition, research R6).
+		-->
+		<h2 class="hb-overline" class:hb-overline--meaning={response.kind === 'meaning'}>
+			{#if response.kind === 'meaning'}<Icon name="meaning" />{/if}
 			{response.kind === 'meaning' ? `Résultats par le sens · ${countTitle}` : countTitle}
 		</h2>
-		<ul class="hb-list">
-			{#each response.results as result (result.hymnId)}
-				<li class:with-action={action}>
+		<ul
+			class="hb-list"
+			class:hb-list--meaning={response.kind === 'meaning'}
+			class:is-revealing={revealing}
+		>
+			{#each response.results as result, i (result.hymnId)}
+				<li class:with-action={action} style:--i={i}>
 					<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- built from the resolved hymnUrl -->
 					<a class="hy-result" href={resultUrl(result)}>
 						<span class="hy-result__head">
@@ -218,7 +230,9 @@
 			title="Aucun chant trouvé par le sens"
 			text={`Essayez d’autres mots, ou cherchez dans tous les recueils.${hidden}`}
 			actions={filterActive || scopeNarrowed ? clearFilter : undefined}
-		/>
+		>
+			{#snippet icon()}<span class="meaning-glyph"><Icon name="meaning" /></span>{/snippet}
+		</EmptyState>
 	{:else if response.unknownHymnal}
 		<EmptyState
 			title={`Aucun recueil « ${response.unknownHymnal} » dans Hymnia`}

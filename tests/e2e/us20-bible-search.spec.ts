@@ -42,6 +42,9 @@ test('« Chercher des chants » finds hymns from the verses’ text, once', asyn
 		'Psaume 23:1 ; Romains 8:38-39'
 	);
 	await expect(results(page).first()).toBeVisible();
+	// Feature 017: the same marker as every list found by meaning, without the search sequence.
+	await expect(page.locator('main ul.hb-list--meaning')).toBeVisible();
+	await expect(page.locator('main .meaning-transition')).toHaveCount(0);
 	expect(posted).toHaveLength(1);
 	// The measured query form (research R4): the label, then the verses' text in Bible order.
 	expect(posted[0].startsWith('Psaume 23:1 ; Romains 8:38-39 — ')).toBe(true);

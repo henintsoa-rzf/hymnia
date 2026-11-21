@@ -13,16 +13,20 @@
   (specs/012-meaning-search-mode/contracts/search-mode.md).
   Feature 014: hymnals and parts left out in Settings are not searched, not offered as filters
   nor as examples (specs/014-hymnal-scope-settings/contracts/scope.md §3).
+  Feature 017: launching a search by meaning clears the list, shows a placeholder in the meaning
+  color while it runs, then brings the results in (specs/017-meaning-results-transition/
+  contracts/meaning-reveal.md).
 -->
 <script lang="ts">
 	import { goto } from '$app/navigation';
 	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
-	import { untrack } from 'svelte';
+	import { onDestroy, untrack } from 'svelte';
 	import { get } from 'svelte/store';
 	import HymnalFilter from '$lib/components/HymnalFilter.svelte';
 	import Icon from '$lib/components/Icon.svelte';
 	import MeaningStatus, { type MeaningPhase } from '$lib/components/MeaningStatus.svelte';
+	import MeaningTransition from '$lib/components/MeaningTransition.svelte';
 	import RecentCollections from '$lib/components/RecentCollections.svelte';
 	import RecentHymns from '$lib/components/RecentHymns.svelte';
 	import ResultList from '$lib/components/ResultList.svelte';
@@ -32,6 +36,15 @@
 	import { embedQuery } from '$lib/meaning/embed-client';
 	import { decideSubmit, type SearchMode } from '$lib/meaning/mode';
 	import { browserQueryCache } from '$lib/meaning/query-cache';
+	import {
+		CLEAR_MS,
+		MIN_WAIT_MS,
+		REVEAL_MS,
+		holdUntil,
+		launchPhase,
+		listView,
+		type RevealPhase
+	} from '$lib/meaning/reveal';
 	import { recentHymns } from '$lib/history/resolve';
 	import { hymnHistory } from '$lib/history/store';
 	import { prefs } from '$lib/prefs/prefs';
@@ -86,7 +99,7 @@
 			// of the link: what the user typed while the worker was loading waits for the launch
 			// button, and one already launched is not run twice.
 			if (mode === 'meaning' && query === linkQuery && offersMeaning(query) && !meaningController)
-				void runMeaning();
+				void runMeaning(query, { clear: false });
 		},
 		() => (unavailable = true)
 	);
@@ -133,7 +146,51 @@
 		return meaningPhase;
 	});
 
+	/* ---------- the sequence of a launch (feature 017, data-model.md) ---------- */
+
+	let reveal = $state<RevealPhase>('none');
+	/** The list on screen at launch, kept still while it fades out. */
+	let leaving = $state<SearchResponse | null>(null);
+	let launchedAt = 0;
+	let revealTimer: ReturnType<typeof setTimeout> | undefined;
+
+	function setRevealTimer(ms: number, then: () => void) {
+		clearTimeout(revealTimer);
+		revealTimer = setTimeout(then, ms);
+	}
+
+	function resetReveal() {
+		clearTimeout(revealTimer);
+		reveal = 'none';
+		leaving = null;
+	}
+
+	/** A launch: clear the list on screen (if any), then wait. A sequence on its way goes on. */
+	function startSequence(clear: boolean) {
+		launchedAt = performance.now();
+		const listOnScreen = clear && !idle && !unavailable && shown !== null;
+		const next = launchPhase(reveal, listOnScreen);
+		if (next === reveal) return;
+		if (next === 'clearing') {
+			leaving = shown;
+			setRevealTimer(CLEAR_MS, () => {
+				reveal = 'waiting';
+				leaving = null;
+			});
+		} else clearTimeout(revealTimer);
+		reveal = next;
+	}
+
+	function startReveal() {
+		leaving = null;
+		reveal = 'revealing';
+		setRevealTimer(REVEAL_MS, () => (reveal = 'none'));
+	}
+
+	onDestroy(() => clearTimeout(revealTimer));
+
 	function cancelMeaning() {
+		resetReveal();
 		meaningController?.abort();
 		meaningController = undefined;
 		meaningFor = null;
@@ -141,12 +198,21 @@
 		truncated = false;
 	}
 
-	async function runMeaning(q = query) {
+	/**
+	 * `sequence`: a launch (button, Enter, reloaded link) plays the sequence of feature 017; the
+	 * filter re-run does not. `clear: false`: nothing to clear (a reloaded link).
+	 */
+	async function runMeaning(q = query, { sequence = true, clear = true } = {}) {
 		if (!q.trim()) return;
 		meaningController?.abort();
 		const controller = (meaningController = new AbortController());
 		const filter = [...selected];
 		const stale = () => controller.signal.aborted || mode !== 'meaning';
+		/** Ended without results: the word list comes back (feature 017, US3). */
+		const giveUp = () => {
+			if (controller === meaningController) resetReveal();
+		};
+		if (sequence) startSequence(clear);
 
 		meaningPhase = { kind: 'waiting' };
 		// The button shows from the first paint (manifest); the worker may still be loading.
@@ -155,6 +221,7 @@
 		const meta = client.meaningConfig();
 		if (!meta) {
 			meaningPhase = { kind: 'error', reason: 'unavailable' };
+			giveUp();
 			return;
 		}
 		const embedded = await embedQuery(q, meta, {
@@ -164,6 +231,7 @@
 		if (stale()) return;
 		truncated = embedded.truncated;
 		if (!embedded.ok) {
+			giveUp();
 			meaningFor = null;
 			meaningPhase =
 				embedded.reason === 'cancelled'
@@ -177,15 +245,24 @@
 			embedded.vector,
 			meta.configId
 		);
-		if (!answer || stale()) return;
+		if (stale()) return;
+		if (!answer) return giveUp();
 		if ('error' in answer) {
+			giveUp();
 			meaningFor = null;
 			meaningPhase = { kind: 'error', reason: answer.error };
 			return;
 		}
+		// A cached answer still shows the sequence for a moment (FR-004); a slow one shows at once.
+		const inSequence = reveal === 'clearing' || reveal === 'waiting';
+		if (inSequence) {
+			await holdUntil(launchedAt, MIN_WAIT_MS);
+			if (stale()) return;
+		}
 		meaningResponse = answer.response;
 		meaningFor = { query: q, filter: filterKey(filter) };
 		meaningPhase = { kind: 'idle' };
+		if (inSequence) startReveal();
 	}
 
 	// Editing the text runs nothing by meaning: only the launch button (or Enter) does. Emptying
@@ -202,7 +279,7 @@
 	$effect(() => {
 		const key = filterKey(selected);
 		const current = untrack(() => meaningFor);
-		if (current && current.filter !== key) void runMeaning(current.query);
+		if (current && current.filter !== key) void runMeaning(current.query, { sequence: false });
 	});
 
 	let latest = 0;
@@ -239,6 +316,10 @@
 	/** The list on screen: the blended meaning list, or the word results. */
 	const shown = $derived(meaningActive && meaningResponse ? meaningResponse : response);
 	const first = $derived(shown?.results[0]);
+	/** What the list area shows during the sequence of feature 017. */
+	const view = $derived(
+		listView({ reveal, hasList: reveal === 'clearing' ? leaving !== null : shown !== null })
+	);
 
 	// Feature 006: what the screen offers while the field is empty (contracts/ui.md).
 	const idle = $derived(!query.trim());
@@ -356,13 +437,20 @@
 					<p class="hy-message__title">La recherche n’a pas pu démarrer</p>
 					<p class="hy-message__text">Rechargez la page. Les recueils restent consultables.</p>
 				</div>
-			{:else if shown}
+			{:else if view === 'placeholder'}
+				<MeaningTransition />
+			{:else if view === 'leaving-list' && leaving}
+				<div class="is-leaving" inert>
+					<ResultList response={leaving} hymnals={hymnalMap} {scope} />
+				</div>
+			{:else if shown && view !== 'none'}
 				<ResultList
 					response={shown}
 					hymnals={hymnalMap}
 					filterActive={selected.length > 0}
 					onclearfilter={() => (selected = [])}
 					{scope}
+					revealing={view === 'revealing-list'}
 				/>
 			{/if}
 		</div>

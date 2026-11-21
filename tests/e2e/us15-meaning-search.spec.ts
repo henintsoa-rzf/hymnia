@@ -135,9 +135,12 @@ test.describe('US2: weak or no connection', () => {
 		await search(page, 'gloire');
 		await launchMeaning(page);
 		await expect(page.getByText('Recherche par le sens…')).toBeVisible();
-		await expect(results(page).first()).toBeVisible();
+		// Feature 017: the list is cleared while the search runs; a placeholder stands in.
+		await expect(results(page)).toHaveCount(0);
+		await expect(page.locator('main .meaning-transition')).toBeVisible();
 		await page.getByRole('button', { name: 'Annuler' }).click();
 		await expect(page.getByText('Recherche par le sens…')).toHaveCount(0);
+		await expect(results(page).first()).toBeVisible();
 		// Cancelling stops the search, not the mode (feature 012).
 		await expect(meaningButton(page)).toHaveAttribute('aria-checked', 'true');
 	});

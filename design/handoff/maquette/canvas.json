@@ -166,6 +166,14 @@
       "x": 3290,
       "y": 0
     },
+    "SearchSemanticWaiting.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "8b · Par le sens, en cours (feature 017)",
+      "w": 390,
+      "x": 3290,
+      "y": 940
+    },
     "SearchText.dc.html": {
       "h": 844,
       "is_interactive": true,
@@ -264,6 +272,7 @@
     "SearchFilter.dc.html",
     "SearchNoResult.dc.html",
     "SearchSemantic.dc.html",
+    "SearchSemanticWaiting.dc.html",
     "SearchOffline.dc.html",
     "Recueils.dc.html",
     "Recueil.dc.html",

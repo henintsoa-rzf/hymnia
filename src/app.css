@@ -845,6 +845,94 @@ mark {
 	padding: 0 1px;
 }
 
+/*
+ * Feature 017: a search by meaning clears the list, then its results come in from the top
+ * (specs/017-meaning-results-transition, research R2, R5, R9). Only opacity and transform move.
+ * Under reduced motion the steps stay, without movement.
+ */
+.is-leaving {
+	animation: meaning-leave 180ms ease-in forwards;
+}
+
+.hb-list.is-revealing > li {
+	animation: meaning-reveal 160ms ease-out backwards;
+	animation-delay: calc(min(var(--i, 0), 10) * 30ms);
+}
+
+@keyframes meaning-leave {
+	from {
+		opacity: 1;
+		transform: translateY(0);
+	}
+	to {
+		opacity: 0;
+		transform: translateY(4px);
+	}
+}
+
+@keyframes meaning-reveal {
+	from {
+		opacity: 0;
+		transform: translateY(6px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+/*
+ * Feature 017: the marker of a list found by meaning (research R6). The same sign as the stanza
+ * mark of feature 013: a bar in --meaning, here in the gutter left of each row, so the row's box
+ * and text don't move. Contrast against --paper: about 5.0:1 (light), 9.6:1 (dark).
+ */
+.hb-overline--meaning {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	color: var(--meaning);
+}
+
+.hb-overline--meaning svg,
+.meaning-glyph svg {
+	flex: none;
+	width: 16px;
+	height: 16px;
+}
+
+.meaning-glyph {
+	display: inline-flex;
+	vertical-align: -2px;
+	margin-right: 6px;
+	color: var(--meaning);
+}
+
+.hb-list--meaning > li {
+	position: relative;
+}
+
+.hb-list--meaning > li::before {
+	content: '';
+	position: absolute;
+	left: -10px;
+	top: 12px;
+	bottom: 12px;
+	width: 3px;
+	border-radius: 2px;
+	background: var(--meaning);
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.is-leaving {
+		animation: none;
+		opacity: 0;
+	}
+
+	.hb-list.is-revealing > li {
+		animation: none;
+	}
+}
+
 .hy-exact {
 	display: grid;
 	grid-template-columns: 1fr auto;
